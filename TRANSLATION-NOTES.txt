@@ -1,0 +1,8 @@
+The translation is available here:
+https://www.transifex.com/projects/p/viking-conquest/
+
+For know bad thing of warband translation system some strings have "dynamic keys", when one or more of strings change some/all keys of the same "group" are "shuffled".
+For example in dialogs they are with keys dlga_start:close_window.N, dlga_wildfire_talkX:*Y and probably others.
+Check on transifex suggest corrispondence at 100% for older translation.
+I not enabled autocompletation from transifex memory for errors I saw in many strings.
+

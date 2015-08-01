@@ -1,0 +1,94 @@
+[main]
+host = https://www.transifex.com
+
+; Viking Conquest module files
+
+[viking-conquest.dialogs]
+file_filter = <lang>/dialogs.ini
+source_file = en/dialogs.ini
+source_lang = en
+type = INI
+
+[viking-conquest.factions]
+file_filter = <lang>/factions.ini
+source_file = en/factions.ini
+source_lang = en
+type = INI
+
+[viking-conquest.game_menus]
+file_filter = <lang>/game_menus.ini
+source_file = en/game_menus.ini
+source_lang = en
+type = INI
+
+[viking-conquest.game_strings]
+file_filter = <lang>/game_strings.ini
+source_file = en/game_strings.ini
+source_lang = en
+type = INI
+
+[viking-conquest.hints]
+file_filter = <lang>/hints.ini
+source_file = en/hints.ini
+source_lang = en
+type = INI
+
+[viking-conquest.info_pages]
+file_filter = <lang>/info_pages.ini
+source_file = en/info_pages.ini
+source_lang = en
+type = INI
+
+[viking-conquest.item_kinds]
+file_filter = <lang>/item_kinds.ini
+source_file = en/item_kinds.ini
+source_lang = en
+type = INI
+
+[viking-conquest.parties]
+file_filter = <lang>/parties.ini
+source_file = en/parties.ini
+source_lang = en
+type = INI
+
+[viking-conquest.party_templates]
+file_filter = <lang>/party_templates.ini
+source_file = en/party_templates.ini
+source_lang = en
+type = INI
+
+[viking-conquest.quests]
+file_filter = <lang>/quests.ini
+source_file = en/quests.ini
+source_lang = en
+type = INI
+
+[viking-conquest.quick_strings]
+file_filter = <lang>/quick_strings.ini
+source_file = en/quick_strings.ini
+source_lang = en
+type = INI
+
+[viking-conquest.skills]
+file_filter = <lang>/skills.ini
+source_file = en/skills.ini
+source_lang = en
+type = INI
+
+[viking-conquest.skins]
+file_filter = <lang>/skins.ini
+source_file = en/skins.ini
+source_lang = en
+type = INI
+
+[viking-conquest.troops]
+file_filter = <lang>/troops.ini
+source_file = en/troops.ini
+source_lang = en
+type = INI
+
+[viking-conquest.ui]
+file_filter = <lang>/ui.ini
+source_file = en/ui.ini
+source_lang = en
+type = INI
