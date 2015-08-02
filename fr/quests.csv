@@ -1,0 +1,179 @@
+qst_deliver_message|Porter un message à {s13}
+; qst_deliver_message_text|{s9} asked you to take a message to {s13}. {s13} was at {s4} when you were given this quest.
+qst_deliver_message_to_enemy_lord|Porter un message à {s13}
+; qst_deliver_message_to_enemy_lord_text|{s9} asked you to take a message to {s13} of {s15}. {s13} was at {s4} when you were given this quest.
+qst_raise_troops|Former {reg1} {s14}
+qst_raise_troops_text|{s9} vous a demandé d'entraîner {reg1} {s14} et de les lui amener.
+qst_escort_lady|Escorter {s13} jusqu'à {s14}
+qst_deal_with_bandits_at_lords_village|Sauver le village de {s15} des bandits
+; qst_deal_with_bandits_at_lords_village_text|{s13} asked you to deal with the bandits who took refuge in his village of {s15} and then report back to him.
+qst_collect_taxes|Collecter les taxes de {s3}
+qst_collect_taxes_text|Le {s9} vous a demandé de collecter les taxes de {s3}. Il vous accordera un cinquième du montant récolté.
+qst_hunt_down_fugitive|Pourchasser {s4}
+; qst_hunt_down_fugitive_text|{s9} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.
+qst_kill_local_merchant|Assassiner un marchand à {s3}
+qst_kill_local_merchant_text|{s9} vous a demandé d'assassiner un marchand de {s3}.
+qst_bring_back_runaway_serfs|Ramener les serfs en fuite
+; qst_bring_back_runaway_serfs_text|{s9} asked you to bring back the three groups of runaway serfs back to {s2}. He said all three groups must be running away in the direction of {s3}.
+qst_follow_spy|Suivre un espion jusqu'à son lieu de rendez-vous
+; qst_follow_spy_text|{s11} asked you to follow the spy that will leave {s12}. You must be careful not to be seen by the spy during his travel, or else he may get suspicious and turn back. Once the spy meets with his accomplice, you are to ambush and capture them and bring them both back to {s11}.
+qst_capture_enemy_hero|Capturer un seigneur du {s13}
+qst_lend_companion|Accorder l'aide de votre compagnon {s3} à {s9}
+qst_lend_companion_text|{s9} vous a demandé de lui prêter {s3} pour la semaine.
+qst_collect_debt|Récupérer l'argent que doit {s3} à {s9}
+; qst_collect_debt_text|{s9} asked you to collect the debt of {reg4} peningas {s3} owes to him.
+qst_incriminate_loyal_commander|Faire accuser {s16}, le loyal Commandant de {s13}
+qst_meet_spy_in_enemy_town|Rencontrer un espion à {s13}
+qst_capture_prisoners|Amener {reg1} {s3} prisonniers
+; qst_capture_prisoners_text|{s9} wanted you to bring him {reg1} {s3} as prisoners.
+qst_lend_surgeon|Accorder à {s1} l'aide de {s3}, votre chirurgien 
+qst_lend_surgeon_text|Prêtez votre chirurgien, {s3}, au {s1}.
+qst_follow_army|Suivre l'armée de {s9}
+; qst_report_to_army|Report to {s13}, the Marshal
+; qst_deliver_cattle_to_army|Deliver {reg3} Head of Cattle to {s13}
+qst_join_siege_with_army|Participer au siège de {s14}
+qst_screen_army|Jalonner l'avance de l'armée de {s13}
+qst_scout_waypoints|Partir en éclaireur à {s13}, {s14} et {s15}
+qst_rescue_lord_by_replace|Délivrer {s13} du {s14}
+qst_deliver_message_to_prisoner_lord|Porter un message à {s13} à {s14}
+qst_duel_for_lady|Défier {s13} en duel
+qst_duel_courtship_rival|Défier {s13} en duel (facultatif)
+qst_duel_avenge_insult|Défier {s13} en duel
+qst_move_cattle_herd|Mener le bétail à {s13}
+; qst_move_cattle_herd_text|The mayor of {s10} asked you to move a cattle herd to {s13}.
+qst_escort_merchant_caravan|Escorter la caravane du marchand jusqu'à {s8}
+qst_escort_merchant_caravan_text|Escortez la caravane marchande jusqu'à {s8}.
+qst_deliver_wine|Apporter {reg5} unités de {s6} à {s4}
+qst_deliver_wine_text|{s9} de {s3} vous a demandé de livrer {reg5} {s6} à la taverne de {s4} dans les 7 jours.
+qst_troublesome_bandits|Pourchasser les bandits gêneurs
+; qst_troublesome_bandits_text|{s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of the town.
+qst_kidnapped_girl|Payer la rançon d'une fille aux bandits
+; qst_kidnapped_girl_text|The mayor of {s4} gave you {reg12} peningas to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that, you are to bring the girl back to {s4}.
+qst_persuade_lords_to_make_peace|S'assurer que les deux seigneurs ne puissent s'opposer à la paix
+; qst_persuade_lords_to_make_peace_text|The mayor of {s4} promised you {reg12} peningas if you can make sure that {s12} and {s13} no longer pose a threat to a peace settlement between {s15} and {s14}. In order to do that, you must either convince them or take them captive until a peace agreement is made.
+qst_deal_with_looters|S'occuper des pilleurs
+; qst_deal_with_looters_text|The mayor of {s4} has asked you to deal with several bands of looters around {s4}, and bring back any goods you recover.
+qst_deal_with_night_bandits|S'occuper des bandits nocturnes
+qst_deliver_grain|Apporter du blé à {s3}
+; qst_deliver_grain_text|The local leader of the village of {s3} asked you to bring them {reg5} sacks of wheat.
+; qst_deliver_cattle|Deliver {reg5} Head of Cattle to {s3}
+; qst_deliver_cattle_text|The local leader of the village of {s3} asked you to bring {reg5} head of cattle.
+qst_train_peasants_against_bandits|Entraîner les paysans de {s13} à combattre les bandits.
+qst_eliminate_bandits_infesting_village|Sauver le village de {s7} des bandits
+qst_eliminate_bandits_infesting_village_text|Un villageois de {s7} vous a supplié de sauver son village des bandits qui s'y sont installés.
+qst_visit_lady|Rendre visite à une dame
+qst_formal_marriage_proposal|Obtenir l'aval pour le mariage
+qst_obtain_liege_blessing|Obtenir l'aval pour le mariage
+qst_wed_betrothed|Épouser votre fiancé
+qst_wed_betrothed_female|Épouser votre fiancé
+qst_join_faction|Prêter serment d'allégeance à {s1}
+; qst_join_faction_text|Find {s1} and give him your oath of homage.
+qst_rebel_against_kingdom|Aider {s13} à revendiquer le trône de {s14}
+qst_consult_with_minister|Consulter le ministre
+; qst_consult_with_minister_text|Consult your minister, {s11}, currently at {s12}.
+qst_organize_feast|Organiser un banquet
+; qst_organize_feast_text|Bring goods for a feast to your spouse {s11}, currently at {s12}.
+qst_resolve_dispute|Résoudre un différend
+; qst_resolve_dispute_text|Resolve the dispute between {s11} and {s12}.
+qst_offer_gift|Offrir un cadeau
+; qst_offer_gift_text|Give {s10} a gift to provide to {reg4?her:his} {s11}, {s12}.
+qst_denounce_lord|Dénoncer un seigneur
+; qst_denounce_lord_text|Denounce {s11} in public.
+qst_intrigue_against_lord|Intriguer contre un seigneur
+; qst_intrigue_against_lord_text|Criticize {s11} in private.
+qst_track_down_bandits|Traquer les bandits
+; qst_track_down_bandits_text|{s9} of {s4} asked you to track down {s6}, who attacked travellers on the roads near town.
+qst_track_down_provocateurs|Traquer les provocateurs
+; qst_track_down_provocateurs_text|{s9} of {s4} asked you to track down a group of thugs, hired to create a border incident between {s5} and {s6}.
+qst_retaliate_for_border_incident|Riposter à un incident frontalier
+; qst_retaliate_for_border_incident_text|{s9} of {s4} asked you to defeat {s5} of the {s7} in battle, defusing tension in the {s8} to go to war.
+qst_raid_caravan_to_start_war|Attaquer une caravane pour provoquer une guerre
+qst_cause_provocation|Pousser un royaume à en attaquer un autre
+qst_rescue_prisoner|Libérer un prisonnier
+qst_destroy_bandit_lair|Détruire le repaire des bandits
+; qst_destroy_bandit_lair_text|{s9} of {s4} asked you to discover a {s6} and destroy it.
+; qst_kennemer_jarl|The Revenge: Talk to the Jarl of Kennemer
+; qst_kennemer_jarl_missions|The Revenge: Working for a Jarl
+; qst_kennemer_mission_1|Jarl Mission: Judgment in the Monastery
+; qst_kennemer_mission_2|Jarl Mission: Thiaderd Must Die
+; qst_kennemer_mission_3|Jarl Mission: To Kill a King
+; qst_reginhard_donations|Reginhard's Petition: A Donation for War Victims
+; qst_recruit_an_army|Jarl Mission: Recruiting Warriors
+; qst_doccinga_assault|Viking Attack: Save Doccinga from Sven's Assault
+; qst_doccinga_interrogation|Viking Attack: Interrogating a Viking
+; qst_getting_ship|Viking Attack: A Boat and a Girl
+; qst_notes_companions|Notes on Your Companions
+; qst_notes_global|Your Book Notes
+; qst_notes_frisa|Notes on Friese
+; qst_notes_danmork|Notes on Danmark
+; qst_notes_englaland|Notes on Englaland
+; qst_sven_lair|The Revenge: The Wolf's Den
+; qst_danmork_protection|The Revenge: Under the Wing of a King
+; qst_revenge_sigurd|The Revenge: Ask Sigurd 'Snake in the Eye'
+; qst_collect_smen|Sigurd Mission: Recruiting an Army for Sigurd
+; qst_bodo_letter|The Revenge: A Most Important Letter
+; qst_the_holmgang|The Holmgang: Killing a Hirdman
+; qst_the_fleet|The Revenge: Invading Englaland
+; qst_sven_traitor|The Revenge: Sven the Traitor
+; qst_wessex_foragers|The Siege: Saxon Foragers
+; qst_the_messengersn|The Siege: The Messenger
+; qst_the_alliance|The Revenge: The Alliance
+; qst_welsh_and_pictish|The Conqueror: Serving a Cause
+; qst_cathach_colum|Being a Viking: 'The Cathach of Colum Cille'
+; qst_entregando_pieles|Being a Viking: Trading in Furs
+; qst_revenge_exchange|The Revenge: The Farm
+; qst_ulf_testigo|The Revenge: Wooing Farmers and Jarls
+; qst_the_thing|The Revenge: The Assembly
+; qst_douar_an_enez|The Revenge: Douar-an-Enez
+; qst_aescesdun|The Battle: Aescesdun
+; qst_svenbn_final|The Revenge: Sven Bull Neck
+; qst_old_roman|Hadrian's Wall: Saving the Starving
+; qst_vc_menu|Viking Conquest menu system.
+; qst_vc_wounds|Viking Conquest wound system.
+; qst_sea_battle_spawn|a spawning system.
+; qst_team_0_ships|a spawning system.
+; qst_team_1_ships|a spawning system.
+; qst_blank_quest_2|Escort Bishop to {s14}.
+; qst_blank_quest_2_text|{s11} asked you to escort the Bishop from {s22} to {s14}.
+; qst_blank_quest_3|Raid Monastery at {s14}
+; qst_blank_quest_3_text|{s11} asked you to raid Monastery at {s14}, near {s34}, and bring him {reg33} peningas.
+; qst_blank_quest_4|Find and destroy a group of masterless men
+; qst_blank_quest_4_text|{s8} asked you to track down a group of masterless men who looted his village, {s9}.
+; qst_blank_quest_6|Capture and bring {reg5} women to {s3}
+; qst_blank_quest_6_text|The local leader of the village of {s3} asked you to bring {reg5} women to the village (as prisoners).
+; qst_blank_quest_7|Return Runaway Slave to {s3}
+; qst_blank_quest_7_text|The leader of the village of {s3} asked you to bring a runaway slave back to the village.
+; qst_blank_quest_9|Bring {reg33} Horns of Mead to {s3}
+; qst_blank_quest_9_text|The priest at {s3} asked you to bring him {reg33} drinking horns of mead.
+; qst_blank_quest_10|Recover a {s13} Stolen from {s9} of {s3}
+; qst_blank_quest_10_text|The {s9} of {s3} asked you to recover a {s13} stolen from him.^^Look Into:^{s10}
+; qst_blank_quest_11|Bring {reg33} Loads of {s33} to {s3}
+; qst_blank_quest_11_text|The {s9} of {s3} asked you to bring {reg33} loads of {s33} to him.
+; qst_blank_quest_12|Bring {reg33} Pallets of Timber to {s3}
+; qst_blank_quest_12_text|The abbot at {s3} asked you to bring him {reg33} pallets of timber.
+; qst_blank_quest_13|A Blast from the Past
+; qst_blank_quest_13_text|{s11} asked you to deal with her 'ghost' ex-lover who is believed to be in {s33}.
+; qst_blank_quest_14|Reveal Assassination Plot
+; qst_blank_quest_14_text|Someone attempted to murder you. You can try to find out who wanted you dead by meeting the killers' contact in {s3}.
+; qst_blank_quest_15|Reveal Assassination Plot
+; qst_blank_quest_15_text|The contact has given away the lord who ordered the assassination - it is {s9}. It's time to confront the lord directly. 
+; qst_blank_quest_16|Bring {reg25} {reg1?Pieces:Piece} of {s17} to {s11}
+; qst_blank_quest_16_text|{s11} asked you to bring her {reg25} {reg1?pieces:piece} of {s17}.
+; qst_blank_quest_17|Bring Foodstuffs to {s11}
+; qst_blank_quest_17_text|{s11} asked you to bring her two pieces of cheese and {reg25} {reg1?bottles:bottle} of wine.
+; qst_blank_quest_18|Deliver Message to {s3}
+; qst_blank_quest_18_text|{s11} asked you to take a message to her lover {s3}.
+; qst_blank_quest_19|Become Norse Konungr Over All Scandinavia
+; qst_blank_quest_20|Become Vrenhin Lloegr Over All Britons
+; qst_blank_quest_21|Become Ard Ruire Over All Eriu
+; qst_blank_quest_22|Become Brytenwalda Over All Englaland
+; qst_blank_quest_23|The Last Tuatha De Danann
+; qst_blank_quest_24|The Snake
+; qst_blank_quest_25|Flaithbertach's Grandchildren
+; qst_blank_quest_26|Mael Bresail
+; qst_blank_quest_27|Notes on Eriu
+; qst_collect_men|The Revenge: Visit Doccinga
+; qst_learn_where_merchant_brother_is|Deliver {reg3} Head of Cattle to {s13}
+qst_save_relative_of_merchant|Attaquer le repaire des bandits
+qst_save_town_from_bandits|Sauver la ville des bandits
+qst_quests_end|Fin des quêtes

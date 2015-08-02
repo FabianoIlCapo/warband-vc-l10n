@@ -1,0 +1,402 @@
+p_zendar|Zendar
+; p_town_1|Cantwaraburh
+; p_town_2|Cippanhamm
+; p_town_3|Eidynburh
+; p_town_4|Ribe
+; p_town_5|Tunsberg
+; p_town_6|Dun Breatann
+; p_town_7|Dubh Linn
+; p_town_8|Cirren Ceaster
+; p_town_9|Caer Dyf
+; p_town_10|Jorvik
+; p_town_11|Dorestad
+; p_town_12|Lundenwic
+; p_town_13|Ynys Mon
+; p_town_14|Dunwic
+; p_town_15|Scuin
+; p_town_16|Witan Ceaster
+; p_town_17|Bosvenegh
+; p_town_18|Ceall Cainnigh
+; p_town_19|Cell Rigmonaid
+; p_town_20|Rath Celtair
+; p_town_21|Maistiu
+; p_town_22|Caer Meguaidd
+; p_town_23|Tomtun
+; p_town_24|Caiseal
+; p_town_25|Aileach
+; p_town_26|Brycheiniog
+; p_town_27|Bebbanburh
+; p_town_28|Cruaghan
+; p_town_29|Temair
+; p_castle_1|Caer Ligualid
+; p_castle_2|Mame Ceaster
+; p_castle_3|Donne Ceaster
+; p_castle_4|Middelsburh
+; p_castle_5|Denisesburna
+; p_castle_6|Ad Gefrin
+; p_castle_7|Din Baer
+; p_castle_8|Wicstun
+; p_castle_9|Snotingaham
+; p_castle_10|Lincylene
+; p_castle_11|Ham Tune
+; p_castle_12|Hreapandun
+; p_castle_13|Oxenaforda
+; p_castle_14|Colne Ceaster
+; p_castle_15|Gegnesburh
+; p_castle_16|Stanford
+; p_castle_17|Norwic
+; p_castle_18|Haegelisdun
+; p_castle_19|Rendlaesburh
+; p_castle_20|Grantebrycge
+; p_castle_21|Hrofae Ceaster
+; p_castle_22|Dornwara Ceaster
+; p_castle_23|Searoburh
+; p_castle_24|Dorce Ceaster
+; p_castle_25|Wiltun
+; p_castle_26|Ham Tun
+; p_castle_27|Badon
+; p_castle_28|Escan Ceaster
+; p_castle_29|Towan Blystra
+; p_castle_30|Din Tagell
+; p_castle_31|Cathures
+; p_castle_32|Cuil nam
+; p_castle_33|Caer Caradawg
+; p_castle_34|Gobhann
+; p_castle_35|Dun Duim
+; p_castle_36|Dun Foither
+; p_castle_37|Dun Taruo
+; p_castle_38|Dun Averte
+; p_castle_39|Dun Onlaigh
+; p_castle_40|Art Muirchol
+; p_castle_41|Din Bych
+; p_castle_42|Dinas Bran
+; p_castle_43|Din Arth
+; p_castle_44|Din Erth
+; p_castle_45|Caer Seniont
+; p_castle_46|Caer Sws
+; p_castle_47|Meigen Cil Ceincoed
+; p_castle_48|Caer Went
+; p_castle_49|Skyfa
+; p_castle_50|Vebjorg
+; p_castle_51|Huhelstath
+; p_castle_52|Heidabyr
+; p_castle_53|Skiringssalr
+; p_castle_54|Hordaland
+; p_castle_55|Agdir
+; p_castle_56|Rogaland
+; p_castle_57|Caer Reghed
+; p_castle_58|Dun Baitte
+; p_castle_59|Ynys Manaw
+; p_castle_60|Bjarnaroy
+; p_castle_61|Orkneyjar
+; p_castle_62|Veisafjordr
+; p_castle_63|Kennemer
+; p_castle_64|Vles Inge
+; p_castle_65|Dun Sebuirge
+; p_castle_66|Magh Rath
+; p_castle_67|Magh Cobha
+; p_castle_68|Druim Mor
+; p_castle_69|Rath Clochair
+; p_castle_70|Fir Fearnmhaigh
+; p_castle_71|Ard Macha
+; p_castle_72|Mag Dumai
+; p_castle_73|Ath Mor
+; p_castle_74|Ard Eachadha
+; p_castle_75|Ard Breacain
+; p_castle_76|Lagore Crannoc
+; p_castle_77|Cathair Chomain
+; p_castle_78|Luighne Connacht
+; p_castle_79|Fiachrach Aidne
+; p_castle_80|Ath Berchna
+; p_castle_81|Grian Airbh
+; p_castle_82|Les Mor
+; p_castle_83|Ciarraighe Luachra
+; p_castle_84|Muscraighe
+; p_castle_85|Dun Na Mbarc
+; p_castle_86|Cell Dara
+; p_castle_87|Liamhain
+; p_castle_88|Dun Bolg
+; p_castle_89|Ros Mhic Treoin
+; p_castle_90|Mairg Laigen
+; p_village_1|Ligualid Ham
+; p_village_2|Mame Ham
+; p_village_3|Donne Ham
+; p_village_4|Middels Ham
+; p_village_5|Denises Ham
+; p_village_6|Ad Gefrin Ham
+; p_village_7|Baer Ham
+; p_village_8|Wics Ham
+; p_village_9|Snotingaham South
+; p_village_10|Lincylene Ham
+; p_village_11|Ham
+; p_village_12|Hreapan Ham
+; p_village_13|Oxena Ham
+; p_village_14|Colne Ham
+; p_village_15|Gegnes Ham
+; p_village_16|Stan Ham
+; p_village_17|Nor Ham
+; p_village_18|Haegelis Ham
+; p_village_19|Rendlaesham
+; p_village_20|Grante Ham
+; p_village_21|Hrofae Ham
+; p_village_22|Dornwara Ham
+; p_village_23|Searo Ham
+; p_village_24|Dorce Ham
+; p_village_25|Wil Ham
+; p_village_26|Ham Ham
+; p_village_27|Badon Ham
+; p_village_28|Escan Ham
+; p_village_29|Tref Towan
+; p_village_30|Tref Tagell
+; p_village_31|Tref Cathures
+; p_village_32|Tref Cuil
+; p_village_33|Tref Caradawg
+; p_village_34|Tref Gob
+; p_village_35|Bal Duim
+; p_village_36|Bal Foither
+; p_village_37|Bal Tauro
+; p_village_38|Bal Averte
+; p_village_39|Bal Onlaigh
+; p_village_40|Bal Muirchol
+; p_village_41|Tref Bych
+; p_village_42|Tref Bran
+; p_village_43|Tref Arth
+; p_village_44|Tref Erth
+; p_village_45|Tref Seniont
+; p_village_46|Tref Sws
+; p_village_47|Tref Ceincoed
+; p_village_48|Tref Went
+; p_village_49|Skyfa By
+; p_village_50|Vebjorg By
+; p_village_51|Huhelstath By
+; p_village_52|Heida By
+; p_village_53|Skiringssalr By
+; p_village_54|Horda By
+; p_village_55|Agdir By
+; p_village_56|Rogaland By
+; p_village_57|Tref Reghed
+; p_village_58|Bal Baitte
+; p_village_59|Tref Manaw
+; p_village_60|Bjarnaroy By
+; p_village_61|Orkneyjar By
+; p_village_62|Veisa By
+; p_village_63|Kennemer Terp
+; p_village_64|Vles Inge Terp
+; p_village_65|Bal Sebuirge
+; p_village_66|Bal Magh
+; p_village_67|Bal Magh Cobha
+; p_village_68|Bal Mor North
+; p_village_69|Bal Clochair
+; p_village_70|Bal Fearnmhaigh
+; p_village_71|Bal Macha
+; p_village_72|Bal Dumai
+; p_village_73|Bal Mor South
+; p_village_74|Bal Eachadha
+; p_village_75|Bal Breacain
+; p_village_76|Bal Crannoc
+; p_village_77|Bal Chomain
+; p_village_78|Bal Luighne
+; p_village_79|Bal Fiachrach Aidne
+; p_village_80|Bal Berchna
+; p_village_81|Bal Grian Airbh
+; p_village_82|Bal Les Mor
+; p_village_83|Bal Ciarraighe Luachra
+; p_village_84|Bal Muscraighe
+; p_village_85|Bal Na Mbarc
+; p_village_86|Bal Dara
+; p_village_87|Bal Liamhain
+; p_village_88|Bal Bolg
+; p_village_89|Bal Ros Mhic Treoin
+; p_village_90|Bal Mairg Laigen
+; p_village_91|Bal Tara
+; p_village_92|Cantwara Ham North
+; p_village_93|Cantwara Ham South
+; p_village_94|Cippan Ham East
+; p_village_95|Cippan Ham West
+; p_village_96|Eidyn Ham East
+; p_village_97|Eidyn Ham West
+; p_village_98|Ribe By North
+; p_village_99|Ribe By South
+; p_village_100|Tuns By East
+; p_village_101|Tuns By West
+; p_village_102|Tref Breatann East
+; p_village_103|Tref Breatann West
+; p_village_104|Dubh Linn By North
+; p_village_105|Dubh Linn By South
+; p_village_106|Tref Dyf East
+; p_village_107|Tref Dyf West
+; p_village_108|Eofer Ham East
+; p_village_109|Eofer Ham West
+; p_village_110|Dore Hem East
+; p_village_111|Dore Hem West
+; p_village_112|Lunden Ham North
+; p_village_113|Lunden Ham South
+; p_village_114|Tref Mon East
+; p_village_115|Tref Mon West
+; p_village_116|Dun Ham North
+; p_village_117|Dun Ham South
+; p_village_118|Bal Scuin East
+; p_village_119|Bal Scuin West
+; p_village_120|Witan Ham North
+; p_village_121|Witan Ham South
+; p_village_122|Tref Bosvenegh East
+; p_village_123|Tref Bosvenegh West
+; p_village_124|Bal Cainnighn North
+; p_village_125|Bal Cainnighn South
+; p_village_126|Bal Rigmonaid North
+; p_village_127|Bal Rigmonaid South
+; p_village_128|Bal Celtair East
+; p_village_129|Bal Celtair West
+; p_village_130|Bal Maistiu East
+; p_village_131|Bal Maistiu West
+; p_village_132|Tref Meguaidd East
+; p_village_133|Tref Meguaidd West
+; p_village_134|Tom Ham East
+; p_village_135|Tom Ham South
+; p_village_136|Bal Caiseal East
+; p_village_137|Bal Caiseal West
+; p_village_138|Bal Aileach East
+; p_village_139|Bal Aileach West
+; p_village_140|Tref Brycheiniog East
+; p_village_141|Tref Brycheiniog West
+; p_village_142|Bebban Ham North
+; p_village_143|Bebban Ham South
+; p_village_144|Bal Cruaghan East
+; p_village_145|Bal Cruaghan West
+; p_village_146|Bal Temair North
+; p_village_147|Bal Temair South
+; p_village_148|Cirren Ham East
+; p_village_149|Cirren Ham West
+; p_village_150|Doccinga
+p_salt_mine|Mina de sal
+p_four_ways_inn|Posada de Las Cuatro Direcciones
+p_test_scene|escena de prueba
+p_battlefields|campos de batalla
+; p_frisa_beach|Friese Beach
+; p_farmland|Ulf's Farmstead
+; p_boar_grove|Boar Grove
+; p_readingum|Readingum
+; p_aescesdun|Aescesdun
+; p_mega_danishrmy|Great Summer Army
+; p_battle_stones|Stone Row
+; p_farmland_special|Farmland
+; p_roman_fort|Roman Fort
+; p_troll_bridge|The Trolls Bridge
+; p_circle_mystic1|Mystic Circle
+; p_celidon_forest|Ancient Stones
+; p_hidden_valley|Strange Ruins
+; p_quarry1|Quarry
+; p_quarry2|Quarry
+; p_quarry3|Quarry
+; p_quarry4|Quarry
+p_saltmine1|Mina de sal
+p_saltmine2|Mina de sal
+p_saltmine3|Mina de sal
+p_saltmine4|Mina de sal
+; p_lumbercamp1|Lumber Camp
+; p_lumbercamp2|Lumber Camp
+; p_lumbercamp3|Lumber Camp
+; p_lumbercamp4|Lumber Camp
+; p_farmsteadsp1|Farmstead
+; p_farmsteadsp2|Farmstead
+; p_farmsteadsp3|Farmstead
+; p_farmsteadsp4|Farmstead
+; p_farmsteadsp5|Farmstead
+; p_farmsteadsp6|Farmstead
+; p_farmsteadsp7|Farmstead
+; p_farmsteadsp8|Farmstead
+; p_farmsteadsp9|Farmstead
+; p_hadrian_wall1|Hadrian Wall
+; p_bjorn_camp|Bjorn's camp
+; p_snotingaham_siege|Snotingaham under siege
+; p_odin_cave|Odin's Cave
+; p_stonemonumento|stonemonumento
+; p_forestbattle|Forest Battle
+; p_the_thing|The Assembly
+p_dhorak_keep|Fuerte Dhorak
+p_training_ground|Campo de entrenamiento
+p_training_ground_1|Campo de entrenamiento
+; p_training_ground_2|Training Village
+p_training_ground_3|Campo de entrenamiento
+; p_training_ground_4|Training Lake
+; p_training_ground_5|Training Camp
+; p_monasterio1|Ad Candida Casam
+; p_monasterio2|Willibrord
+; p_monasterio3|Dommoc
+; p_monasterio4|Lindisfarne
+; p_monasterio5|Aporcrosan
+; p_monasterio6|Petrus
+; p_monasterio7|Apurnethige
+; p_monasterio8|Llanteulyddog
+; p_monasterio9|Ynys Enlli
+; p_monasterio10|Eveshomme
+; p_monasterio11|Inderawuda
+; p_monasterio12|Hagustaldes
+; p_monasterio13|Briudun
+; p_monasterio14|Gudlac
+; p_monasterio15|Wochingas
+; p_monasterio16|Clofesho
+; p_monasterio17|Waerburh
+; p_monasterio18|Derhurst
+; p_monasterio19|Ythan
+; p_monasterio20|Petrockstow
+; p_monasterio21|Medeshamstede
+; p_monasterio22|Cocheham
+; p_monasterio23|Patricius
+; p_monasterio24|Daire Calgaich
+; p_monasterio25|Finian
+; p_monasterio26|Raithean
+; p_monasterio27|Carthach
+; p_monasterio28|Scelic Mhichi
+; p_monasterio29|Gleann Da Loch
+; p_yourlair|My Refuge
+; p_thiaderd_lair|Thiaderd's Hideout
+; p_destroy1|Thiaderd's Hideout, Destroyed
+; p_destroy2|Sven's Lair, Destroyed
+; p_destroy3|Aescesdun Battlefield
+; p_followers_camp|Followers Camp
+; p_ferry_1a|ferry station
+; p_ferry_2a|ferry station
+; p_ferry_3a|ferry station
+; p_ferry_4a|ferry station
+; p_ferry_1b|ferry station
+; p_ferry_2b|ferry station
+; p_ferry_3b|ferry station
+; p_ferry_4b|ferry station
+p_wales_spawn_point|la costa
+p_fortiu_spawn_point|la costa
+; p_sussex_spawn_point|South Seaxe
+; p_clyde_coast_spawn_point|the river
+p_limerick_spawn_point|la costa
+; p_norway_spawn_point|the mountains
+; p_northumbria_spawn_point|the countryside
+; p_mierce_spawn_point|the countryside
+; p_crafu_spawn_point|the countryside
+; p_alban_spawn_point|the countryside
+; p_aileach_spawn_point|the countryside
+p_engla_coast_spawn_point|la costa
+p_cornish_coast_spawn_point|la costa
+; p_leinster_spawn_point|the countryside
+; p_frisia_spawn_point|the countryside
+; p_denmark_spawn_point|the countryside
+; p_caitness_priest_spawn_point|the countryside
+; p_northumbria_priest_spawn_point|the countryside
+; p_norway_priest_spawn_point|the countryside
+; p_denmark_priest_spawn_point|the countryside
+; p_channel_spawn_point|the channel
+; p_bight_spawn_point|the Southern Bight
+; p_irish_sea_spawn_point|the Irish Sea
+; p_forth_firth_spawn_point|the Forth of Firth
+; p_skagerrak_spawn_point|the Skagerrak
+; p_firth_clyde_spawn_point|the Forth of Clyde
+; p_landing_point|landing point
+; p_the_fleet|The Fleet
+; p_transporter|Transporter
+; p_troop_camp_1|Troop Quarters
+; p_troop_camp_2|Troop Quarters
+; p_paganholysites1|Odin's Hof
+; p_paganholysites2|Thor's Hof
+; p_oldpagan_hut|Old Pagan's Hut
+; p_morrigan_lair|Morrigan's Lair
+; p_bresail_farm|Mael Bresail's Farm
+; p_bresail_fort|Mael Bresail's Fort
