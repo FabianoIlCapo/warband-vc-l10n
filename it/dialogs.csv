@@ -1,111 +1,111 @@
-; dlga_start:blocked_agent|This person seems busy. Maybe I should move on...
-; dlga_blocked_agent:close_window|I'm sorry. I didn't mean to disturb you.
-; dlga_blocked_agent:close_window.1|[Just Leave]
+dlga_start:blocked_agent|Questa persona è impegnata. Forse dovrei ripassare...
+dlga_blocked_agent:close_window|Mi dispiace. Non volevo disturbarti.
+dlga_blocked_agent:close_window.1|[Vattene]
 dlga_start:dog_talk_2|{s1}!
 dlga_dog_talk_1:dog_talk_2|{s1}!
-; dlga_dog_talk_2:close_window|Heel!
-; dlga_dog_talk_2:close_window.1|Go, {s1}, go!
-; dlga_dog_talk_2:close_window.2|{s1}, stay!
-; dlga_dog_talk_2:dog_talk_pretrain|Here, I have something for you ...
-; dlga_dog_talk_2:close_window.3|I'll call you...
-; dlga_dog_talk_2:close_window.4|Bad dog! Go away! I don't want you any more!
-; dlga_dog_talk_2:close_window.5|Drop it!
+dlga_dog_talk_2:close_window|Vattene!
+dlga_dog_talk_2:close_window.1|Vai, {s1} vai!
+dlga_dog_talk_2:close_window.2|{s1}, aspetta!
+dlga_dog_talk_2:dog_talk_pretrain|Ecco, ho qualcosa per te...
+dlga_dog_talk_2:close_window.3|Ti chiamo io...
+dlga_dog_talk_2:close_window.4|Cane cattivo! Vattene! Non ti voglio più!
+dlga_dog_talk_2:close_window.5|Buttala!
 ; dlga_start:dog_talk_recruit|   
-; dlga_dog_talk_recruit:dog_talk_1|Here, have a sausage!
-; dlga_dog_talk_recruit:close_window|Good dog!
-; dlga_dog_talk_recruit:close_window.1|Away!
-; dlga_dog_talk_pretrain:dog_talk_train|Here, I have something for you ...
-; dlga_dog_talk_train:dog_talk_pretrain|You don't look healthy. Here, have a {s7}!
-; dlga_dog_talk_train:dog_talk_pretrain.1|Here, this {s7} will make you stronger!
-; dlga_dog_talk_train:dog_talk_pretrain.2|I want you to be tougher. Here is some {s7}. It's good for you!
-; dlga_dog_talk_train:dog_talk_pretrain.3|You are too thin. Here, have some {s7}!
-; dlga_dog_talk_train:dog_talk_pretrain.4|You could be faster, my friend. Here is some {s7} for you!
-; dlga_dog_talk_train:dog_talk_pretrain.5|Here is some {s7} for your teeth!
-; dlga_dog_talk_train:dog_talk_1|I have no more food for you.
-; dlga_dog_talk_train:dog_talk_1.1|That's all for today.
-; dlga_start:close_window.1|You should go down to your mother and drop off something she can use on her way to Valhalla.
-; dlga_start:close_window.2|I'm waiting for somebody who is coming with a girl. Have you seen them?
-; dlga_start:close_window.3|Ah, you are {playername}. Thonkrik told me you would come here. Get on the ship. My men and I will show you how easily she sails.
-; dlga_start:port_chief_travel|Heill! Are you looking to travel to another town?
-; dlga_start:close_window.4|Please wait for everybody to board the ship.
+dlga_dog_talk_recruit:dog_talk_1|Ecco, ho una salsiccia!
+dlga_dog_talk_recruit:close_window|Bravo cane!
+dlga_dog_talk_recruit:close_window.1|Via!
+dlga_dog_talk_pretrain:dog_talk_train|Qui, ho qualcosa per te ...
+dlga_dog_talk_train:dog_talk_pretrain|Non sembri sano. Qui, hanno un {s7}!
+dlga_dog_talk_train:dog_talk_pretrain.1|Ecco, questo {s7} ti renderà più forte!
+dlga_dog_talk_train:dog_talk_pretrain.2|Voglio che tu sia più forte. Ecco alcuni {s7}. Và bene!
+dlga_dog_talk_train:dog_talk_pretrain.3|Sei troppo magra. Qui, hanno dei {s7}!
+dlga_dog_talk_train:dog_talk_pretrain.4|Puoi essere più veloce, amico mio. Ecco alcuni {s7} per te!
+dlga_dog_talk_train:dog_talk_pretrain.5|Ecco dei {s7} per i vostri denti!
+dlga_dog_talk_train:dog_talk_1|Non ho più cibo per voi.
+dlga_dog_talk_train:dog_talk_1.1|Per oggi questo è tutto.
+dlga_start:close_window.1|Dovresti andare da tua madre e lasciargli qualcosa che puo usare sulla strada del Valhala.
+dlga_start:close_window.2|Sto aspettando qualcuno che è venuto con una ragazza. Li hai visti?
+dlga_start:close_window.3|Ah, sei {playername}. Thonkrik mi ha detto che saresti venuto qui. Sali sulla nave. I miei uomini ti mostreranno come è facile navigare.
+dlga_start:port_chief_travel|Heill! Stai cercando di andare in un'altra città?
+dlga_start:close_window.4|Si prega di aspettare tutti a bordo della nave.
 dlga_start:port_chief2|{s1}
-; dlga_port_chief2:port_chief3|What do you need?
-; dlga_port_chief3:port_chief_fleet1|Greetings. I have come to join the fleet of Sven Bull Neck and Harald Haraldsson that will travel to Englaland.
-; dlga_port_chief3:port_chief_bodoletter1|A man named Atli Eiriksson left this port some time ago. Do you know where he was going?
-; dlga_port_chief3:port_chief_pieles|I have given the skins to Hogni, now it's your turn. Where is Atli Eiriksson?
-; dlga_port_chief3:port_chief_catach|I was at Gleann Da Loch and took 'The Cathach of Colum Cille.'
-; dlga_port_chief3:port_chief_catach32|Unfortunately, Gleann Da Loch is too far. Would you take money instead?
-; dlga_port_chief3:port_chief_svenlair|You know what I want. Where is the hideout of Sven Bull Neck?
-; dlga_port_chief3:port_chief_buy_ship|I want to buy a ship.
-; dlga_port_chief_buy_ship:close_window|Follow me!
-; dlga_port_chief3:port_chief_info_main|I have some questions about ships and sea travel.
+dlga_port_chief2:port_chief3|Che cosa volete?
+dlga_port_chief3:port_chief_fleet1|Salve. Sono venuto per far parte della flotta di Sven Bull Neck e Harald Haraldsson che andranno a Englaland.
+dlga_port_chief3:port_chief_bodoletter1|Un uomo chiamato Atli Eiriksson ha lasciato questo porto un pò di tempo fa. Sa dove stava andando?
+dlga_port_chief3:port_chief_pieles|Ho dato le pelli a Hogni, ora tocca a te. Dove si trova Atli Eiriksson?
+dlga_port_chief3:port_chief_catach|Ero a Gleann Da Loch e ho portato 'The Cathach di Colum Cille.'
+dlga_port_chief3:port_chief_catach32|Purtroppo, Gleann Da Loch è troppo lontano. Vuoi dei soldi?
+dlga_port_chief3:port_chief_svenlair|Sai quello che voglio. Dove si trova il nascondiglio di Sven Bull Neck?
+dlga_port_chief3:port_chief_buy_ship|Voglio comprare una nave.
+dlga_port_chief_buy_ship:close_window|Seguimi!
+dlga_port_chief3:port_chief_info_main|Ho alcune domande su navi e viaggi in mare.
 dlga_port_chief_info_main:port_chief_info_main_1|Cosa volete sapere?
-; dlga_port_chief_info_main_1:port_chief_info_a_1|Why do people go to sea?
-; dlga_port_chief_info_main_1:port_chief_info_b_1|How do I find my way at sea?
-; dlga_port_chief_info_main_1:port_chief_info_c_1|What do I need to know if I want to buy a ship?
-; dlga_port_chief_info_main_1:port_chief_info_d_1|What makes a ship fast?
-; dlga_port_chief_info_main_1:port_chief2|That's all I wanted to know. Thanks!
-; dlga_port_chief_info_a_1:port_chief_info_main|You can earn a lot of money if you trade goods or slaves across the sea. Others use it for raiding settlements. Finally, no Viking will respect you as a leader if you don't have a good ship.
-; dlga_port_chief_info_b_1:port_chief_info_main|Look at the sun at day. Rest at night. The better you are at finding your way, the faster you travel.
-; dlga_port_chief_info_c_1:port_chief_info_c_2|First, you need to know what type of ship you want. If you want to trade, then a Knorr may be a good choice. They have much room for cargo, but they are not very fast. The Snekkja, the Skei and the Busse are fast warships and are able to carry many troops. The Karvi is something in-between. If you only have a few men, then a small ship like a Byrding would perhaps suit you better.
-; dlga_port_chief_info_c_2:port_chief_info_main|The second important factor is the type of wood the ship is made from. Ships made out of oak wood are the best ships, but are also expensive. Beech is cheaper, but it rots faster.
-; dlga_port_chief_info_d_1:port_chief_info_main|The wind -- if you place your sails in a position to catch it best. If there is no wind at all, then your crew has to row. More rowers will make the ship faster. If you have more than one ship in your fleet, then your fleet will only be as fast as your slowest ship. A skilled Navigator can also make your fleet faster.
-; dlga_port_chief3:port_chief_travel|I want to travel to another port.
-; dlga_port_chief_travel:close_window|I'm sorry. There are currently no passenger ships in this port that can transport a marshal and his whole army.
-; dlga_port_chief_travel:close_window.1|I'm sorry. There are currently no passenger ships in this port that can transport your party and the trader with his whole cargo.
-; dlga_port_chief_travel:port_chief_travel_2|From here, one may travel to ports in Friese, Danmark, Northvegr and Englaland. Where do you want to go?
-; dlga_port_chief_travel:port_chief_travel_2.1|From here, one may travel to ports in Englaland and Eriuland. Where do you want to go?
-; dlga_port_chief_travel:close_window.2|I am sorry. There are currently no passenger ships in this port.
+dlga_port_chief_info_main_1:port_chief_info_a_1|Perché la gente va al mare?
+dlga_port_chief_info_main_1:port_chief_info_b_1|Come mi oriento in mare?
+dlga_port_chief_info_main_1:port_chief_info_c_1|Che cosa serve per comprare una nave?
+dlga_port_chief_info_main_1:port_chief_info_d_1|Cosa rende una nave veloce?
+dlga_port_chief_info_main_1:port_chief2|Questo è quello che volevo sapere. Grazie!
+dlga_port_chief_info_a_1:port_chief_info_main|Puoi guadagnare un sacco di soldi vendendo merci o schiavi attraverso il mare. Altri lo fanno per razziare gli insediamenti. Inoltre, nessun Viking ti rispeterà come un leader se non hai una buona nave.
+dlga_port_chief_info_b_1:port_chief_info_main|Guarda il sole al giorno. Riposa durante la notte. Più bravo sei a trovare la strada, piu velocemente viaggi.
+dlga_port_chief_info_c_1:port_chief_info_c_2|In primo luogo, è necessario sapere che tipo di nave ti serve. Se vuoi commerciare, una Knorr può essere una buona scelta. Hanno molto spazio per il carico, ma non sono molto veloci. Le Snekkja, le Skei e le Busse sono navi da guerra veloci e sono in grado di trasportare molte truppe. La Karvi è una via di mezzo. Se avete solo pochi uomini, va bene una piccola nave come la Byrding che forse è più utile.
+dlga_port_chief_info_c_2:port_chief_info_main|Il secondo fattore importante è di che tipo di legno è fatta la nave. Navi in legno di quercia sono le navi migliori, ma sono anche costose. Il faggio è più conveniente, ma si rovina più velocemente.
+dlga_port_chief_info_d_1:port_chief_info_main|Il vento -- se avete delle vele in grado di prenderlo meglio. Se non c'è vento, allora il tuo equipaggio deve remare. Più Vogatori renderà la nave più veloce. Se avete più di una nave nella flotta, la flotta viaggerà come la tua nave più lenta. Anche un navigatore esperto può rendere la tua flotta più veloce.
+dlga_port_chief3:port_chief_travel|Voglio viaggiare verso un'altro porto.
+dlga_port_chief_travel:close_window|Mi dispiace. Attualmente non ci sono navi passeggeri in questo porto che possano trasportare un Comandante e il suo esercito.
+dlga_port_chief_travel:close_window.1|Mi dispiace. Non ci sono attualmente navi passeggeri in questo porto che possano trasportare il tuo gruppo e i commercianti con tutto il loro carico.
+dlga_port_chief_travel:port_chief_travel_2|Da qui, si può viaggiare verso i porti di Friese, Danmark, Northvegr ed Englaland. Dove vuoi andare?
+dlga_port_chief_travel:port_chief_travel_2.1|Da qui, si può viaggiare verso il porto di Englaland e di Eriuland. Dove vuoi andare?
+dlga_port_chief_travel:close_window.2|Mi dispiace. Non ci sono attualmente navi passeggero in questo porto.
 dlga_port_chief_travel_2:port_chief_travel_3|{s1}
-; dlga_port_chief_travel_2:close_window|I changed my mind.
-; dlga_port_chief_travel_3:port_chief_travel_4|You want to travel to {s1}? {s2}
-; dlga_port_chief_travel_4:port_chief_travel_5|Let's start!
+dlga_port_chief_travel_2:close_window|Ho cambiato idea.
+dlga_port_chief_travel_3:port_chief_travel_4|Verso dove vuoi viaggiare a {s1}? {s2}
+dlga_port_chief_travel_4:port_chief_travel_5|Iniziamo!
 dlga_port_chief_travel_4:port_chief2|{s1}
 dlga_port_chief_travel_4:close_window|{s1}
-; dlga_port_chief_travel_5:close_window|Follow me!
-; dlga_port_chief3:port_chief_pick_up_ship1|Is my ship ready yet?
-; dlga_port_chief_pick_up_ship1:port_chief2|My men and I are still working on it. Come back in {reg1} days.
-; dlga_port_chief_pick_up_ship1:port_chief_pick_up_ship2|The ship is ready! Do you want us to launch it?
-; dlga_port_chief_pick_up_ship2:port_chief_pick_up_ship3|Yes!
-; dlga_port_chief_pick_up_ship2:port_chief2|No, not yet.
-; dlga_port_chief_pick_up_ship3:port_chief2|Sorry, your sea-king skill isn't high enough to add an additional ship to your current fleet in this port.
-; dlga_port_chief_pick_up_ship3:close_window|Well, take a look at it and give it a name.
-; dlga_port_chief_pick_up_ship3:port_chief2.1|There is not enough room left in the port for another ship.
-; dlga_port_chief3:port_chief_build_ship_main|I want you to build me a ship.
-; dlga_port_chief_build_ship_main:port_chief_build_ship_main_1|What kind of ship do you want to have?
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2|I just need a little Byrding.
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.1|I want a Knorr for trading.
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.2|A good attack Snekkja!
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.3|I'm interested in a double-sized warship. A Skeid, please.
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.4|I have many warriors. Can you build a Busse for me?
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.5|I need a good, all-around ship. I want a Karvi.
-; dlga_port_chief_build_ship_main_1:port_chief2|I changed my mind.
-; dlga_port_chief_build_ship_main_2:port_chief_build_ship_main|Sorry, I'm not skilled enough. Only the Norse are able to build a {s11}.
-; dlga_port_chief_build_ship_main_2:port_chief_info_main_3|What kind of wood would you like to use?
-; dlga_port_chief_info_main_3:port_chief_build_ship_main_4|Oak wood. I want quality.
-; dlga_port_chief_info_main_3:port_chief_build_ship_main_4.1|Pine would be fine.
-; dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|I don't want to spend so much money. I want ash wood.
-; dlga_port_chief_info_main_3:port_chief2|I changed my mind.
-; dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|To build your {s11} out of {s12} wood I ask {reg11} peningas for my work. {s2}It will take {reg12} days to build this ship.
-; dlga_port_chief_build_ship_main_5:port_chief_build_ship_main_6|Build this ship for me!
-; dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_1|Err, does it look like I am a merchant? I don't have these things with me.
-; dlga_port_chief_build_ship_missing_1:port_chief2|Sorry, but I can't finish your ship without these materials. Buy them and come back once you have everything ready.
-; dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_2|I don't have enough peningas right now.
-; dlga_port_chief_build_ship_missing_2:port_chief2|Sorry, but I need to feed my family and pay the workers. When you get the money, then come back and see me.
-; dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_3|I will consider this and may come back later.
-; dlga_port_chief_build_ship_missing_3:port_chief2|Take your time, but trust me. My ships are worth every pening.
-; dlga_port_chief_build_ship_main_6:port_chief2|Very well! Come back in {reg12} days.
-; dlga_port_chief3:close_window|I see. Farewell.
-; dlga_port_chief_fleet1:port_chief_fleet2|{s2}^^Heill, {playername}. I see you have made a name for yourself in this land. It makes me happy to think that my business with you has helped in this. That should deserve a line or two in any saga about you! The fleet of Sven and Harald is across the bay. It numbers fifty boats, many of them war ships, totalling over 800 men. Have you finished your affairs in Danmark? Are you ready to leave? I warrant you won't be back soon!
-; dlga_port_chief_fleet2:the_fleetmt1|Yes, let's get started. Let's board my men.
-; dlga_the_fleetmt1:close_window|Well, good luck Vinr. Although you can see many boats here, most of the fleet is anchored over in the bay, outside the city. Join them as soon as you feel ready!
-; dlga_port_chief_fleet2:port_chief2|No, I need to finish some things. I will be back.
+dlga_port_chief_travel_5:close_window|Seguimi!
+dlga_port_chief3:port_chief_pick_up_ship1|La mia nave è pronta?
+dlga_port_chief_pick_up_ship1:port_chief2|Io e miei uomini ci stiamo ancora lavorando su. Torna tra {reg1} giorni.
+dlga_port_chief_pick_up_ship1:port_chief_pick_up_ship2|La nave è pronta! Vuoi che la attracchiamo?
+dlga_port_chief_pick_up_ship2:port_chief_pick_up_ship3|Sì!
+dlga_port_chief_pick_up_ship2:port_chief2|No, non ancora.
+dlga_port_chief_pick_up_ship3:port_chief2|Siamo spiacenti, la tua abilità di re del mare non è sufficientemente alta per aggiungere un'ulteriore nave alla tua flotta in questo porto.
+dlga_port_chief_pick_up_ship3:close_window|Beh, Guardatela e dategli un nome.
+dlga_port_chief_pick_up_ship3:port_chief2.1|Non c'è abbastanza spazio nel porto per un'altra nave.
+dlga_port_chief3:port_chief_build_ship_main|Voglio che mi costruisci una nave.
+dlga_port_chief_build_ship_main:port_chief_build_ship_main_1|Che tipo di nave che vorresti avere?
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2|Mi serve una Byrding.
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.1|Voglio una Knorr per commerciare.
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.2|Una  con un buon attacco, una Snekkja!
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.3|Sono interessato ad una nave da guerra di grandi dimensioni. Una Skeid, per favore.
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.4|Ho molti guerrieri. Puoi costruire un Busse per me?
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.5|Ho bisogno di una buona nave, versatile. Voglio una Karvi.
+dlga_port_chief_build_ship_main_1:port_chief2|Ho cambiato idea.
+dlga_port_chief_build_ship_main_2:port_chief_build_ship_main|Mi dispiace, non sono abbastanza esperto. Solo i Viking sono in grado di costruire una  {s11}.
+dlga_port_chief_build_ship_main_2:port_chief_info_main_3|Che tipo di legno vuoi usare?
+dlga_port_chief_info_main_3:port_chief_build_ship_main_4|Legno di quercia. Voglio la qualità.
+dlga_port_chief_info_main_3:port_chief_build_ship_main_4.1|Il Pino và bene.
+dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|Non voglio spendere tanto. Voglio il legno di frassino.
+dlga_port_chief_info_main_3:port_chief2|Ho cambiato idea.
+dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|Per costruire la tua {s11} di legno di {s12} voglio {reg11} peningas per il mio lavoro. {s2} Ci vorranno {reg12} giorni per costruire questa nave.
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_main_6|Costruisci questa nave per me!
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_1|Err, ti sembra che io sono un mercante? Non ho queste cose con me.
+dlga_port_chief_build_ship_missing_1:port_chief2|Mi dispiace, ma non riesco a finire la tua nave senza questi materiali. Comprali e ritorna quando hai tutto pronto.
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_2|In questo momento non ho abbastanza peningas.
+dlga_port_chief_build_ship_missing_2:port_chief2|Mi dispiace, ma ho bisogno di sfamare la mia famiglia e pagare i lavoratori. Quando avrai i soldi, puoi tornare da me.
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_3|Accetto quest'ordine e puoi tornare più tardi.
+dlga_port_chief_build_ship_missing_3:port_chief2|Prenditi il tuo tempo, ma fidati di me. Le mie navi valgono ogni penigans.
+dlga_port_chief_build_ship_main_6:port_chief2|Molto bene! Torna tra {reg12} giorni.
+dlga_port_chief3:close_window|Capisco. Addio.
+dlga_port_chief_fleet1:port_chief_fleet2|{s2}^^Heill, {playername}. Vedo che ti sei fatto un nome in questa terra. Mi rende felice sapere che i miei affari ti hanno aiutato in questo. Meriterebbe una riga o due in una qualsiasi saga su di te! La flotta di Sven e Harald è dall'altra parte della baia. Conta cinquanta Navi, molte delle delle quali sono navi da guerra, per un totale di oltre 800 uomini. Hai finito il tuo affari in Danimarca? Sei pronto a Partire? Ti garantisco che non ci torneremo presto!
+dlga_port_chief_fleet2:the_fleetmt1|Sì, diamoci da fare. Facciamo salire a bordo i miei uomini.
+dlga_the_fleetmt1:close_window|Beh, buona fortuna Vinr. Anche se è possibile vedere molte navi da qui, la maggior parte della flotta è ancorato nella baia, fuori dalla città. Unisciti a loro, non appena vi sentite pronti!
+dlga_port_chief_fleet2:port_chief2|No. Ho bisogno di finire alcune cose. Tornerò.
 ; dlga_port_chief_catach:port_chief_catach2|{s2}^^Well, give me the book, and I will tell you what you asked about.
 ; dlga_port_chief_catach2:port_chief_catach31|Here, take it. Now, Sven's hideout?
 ; dlga_port_chief_catach2:port_chief_catach32|Unfortunately, I lost the book. Would you take money instead?
 ; dlga_port_chief_catach32:port_chief_catach4|My client will not be happy, and people will know you're not reliable. My client would've paid me 10,000 peningas for the book. Do you have that kind of money?
 ; dlga_port_chief_catach4:port_chief_catach5|I've got the money. Here, take it, and tell me where Sven is!
-; dlga_port_chief_catach4:port_chief2|Unfortunately, no. I will be back as soon as I have it.
+dlga_port_chief_catach4:port_chief2|Sfortunatamente, no. Tornerò non appena lo avrò.
 ; dlga_port_chief_catach5:port_chief_catach5_1|Oh my, you're a rich man! The hideout is here, in Danmark, southeast of Ribe, up the river. Far thu vel.
 dlga_port_chief_catach5_1:port_chief2|Grazie.
 ; dlga_port_chief_catach31:port_chief_catach31_1|Well, thank you. The hideout is here, in Danmark, southeast of Ribe, up the river. Far thu vel.
@@ -137,7 +137,7 @@ dlga_port_chief_bodoletter5:port_chief2|Grazie.
 ; dlga_port_chief_bodoletter8:port_chief_bodoletter3_1|Unfortunately, no. I'll return soon with the money.
 ; dlga_port_chief_bodoletter9:port_chief_bodoletter5|Well, but remember, no more discounts. Well, Atli Eiriksson is in Northvegr. At least, that's what one of his men told a whore here. Apparently, Atli carries something important that needs to be hidden...for now. He has gone to hide in a cave on the north coast of Northvegr, near Hordaland. Far thu vel.
 ; dlga_port_chief_pieles:port_chief_bodoletter5|I like doing business with you. Well, Atli Eiriksson is in Northvegr. At least, that's what one of his men told a whore here. Apparently, Atli carries something important that needs to be hidden...for now. He has gone to hide in a cave on the north coast of Northvegr, near Hordaland. Far thu vel.
-; dlga_start:port_prisoners|Who are you?
+dlga_start:port_prisoners|Chi sei tu?
 ; dlga_port_prisoners:port_prisoners_2|Are you looking for a slave trader? {s9} wouldn't prosper without my slaves, so if you have any prisoners of war I'd be willing to buy them.
 ; dlga_port_prisoners_2:port_prisoners_3|I've brought some prisoners.
 dlga_port_prisoners_2:close_window|Addio.
@@ -158,7 +158,7 @@ dlga_port_recruits2:port_crew_talk.1|No, non ora.
 ; dlga_port_crew_fleet1:port_crew_fleet2|^^Greetings, {playername}. I was notified about your arrival. You are in charge of a fleet bound for Frankia. There are men, guides and boats waiting for you to pick up.
 ; dlga_port_crew_fleet2:the_fleetcrew1|Yes, the time has come. Douar-an-Enez awaits me.
 ; dlga_the_fleetcrew1:close_window|I was told it would be weeks, even months out, so good luck. Your fleet is waiting for you at the exit of the port. Take your boat and go with them.
-; dlga_port_crew_fleet2:close_window|No, I need to finish some things. I will be back.
+dlga_port_crew_fleet2:close_window|No. Ho bisogno di finire alcune cose. Tornerò.
 ; dlga_port_r_2:close_window|I want to go. Farewell.
 ; dlga_start:close_window.5|Why are you bothering me? I'm busy! I have no time for people like you. Come back another day. Or better yet, don't.^^       --It seems that Sigurd is not willing to receive you now. You'll need to look for another way to find out information about Sven.--
 ; dlga_start:kinghorik_quest_danmarkprot|This is a good place away from prying ears. Now, talk.
@@ -1683,7 +1683,7 @@ dlga_maelbresail_men3_1:close_window|Molto bene.
 ; dlga_seneschal_quest_irish:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Goidels are independent people who accept with difficulty the leadership of others. Well, I will add your story in my history book and proclaim you Ard Ruire of the Goidels. In recognition of your accomplishment, I give you the treasure of the Goidels.
 ; dlga_seneschal_quest_saxon:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Angles and Saxons are distrustful people. Well, I will add your story in my history book and proclaim you Brytenwalda, ruler over all Englaland. In recognition of your accomplishment, I give you the treasure of the Angles and Saxons.
 ; dlga_seneschal_quest_2f:close_window|Thank you so much for the award and for helping my fame and prestige grow. Farewell, chronicler!
-; dlga_seneschal_quest_1:seneschal_quest_2|Who are you?
+dlga_seneschal_quest_1:seneschal_quest_2|Chi sei tu?
 ; dlga_seneschal_quest_1:seneschal_quest_2.1|What about you, Briton?
 ; dlga_seneschal_quest_1:seneschal_quest_2.2|Goidelic and chronicler? Is this a joke?
 ; dlga_seneschal_quest_1:seneschal_quest_2.3|What do you do?
@@ -2045,7 +2045,7 @@ dlga_lair_cook_pretalk:lair_cook|Nient'altro?
 ; dlga_lair_captain_add_port_0:lair_captain_add_port_1|We will need 1,000 peningas, to pay staff and buy materials in order to build the jetties.
 ; dlga_lair_captain_add_port_0:lair_captain_pretalk|The Refuge is too far away from the shore. We can't do this.
 ; dlga_lair_captain_add_port_1:lair_captain_add_port_2|Do so. Here is the money.
-; dlga_lair_captain_add_port_1:lair_captain_pretalk|I changed my mind.
+dlga_lair_captain_add_port_1:lair_captain_pretalk|Ho cambiato il mio modo di pensare.
 ; dlga_lair_captain_add_port_1:lair_captain_pretalk.1|I don't have enough money.
 ; dlga_lair_captain_add_port_2:lair_captain_pretalk|Very well. It won't take long to build the jetties. You will be able to disembark here soon.
 ; dlga_lair_captain:lairparty_action|I will donate 500 peningas to the families of my men.
@@ -6361,7 +6361,7 @@ dlga_smith_requested_repair_2:merchant_trade|Niente.
 ; dlga_item_improve_1:item_improve_2|Hmm, let me take a look... Your {s7} is {s8}. I think I will be able to make it {s9} for {reg1} peningas. {s10}
 ; dlga_item_improve_1:merchant_trade|Hmm, let me take a look... There is nothing I can do for your {s7}. I can't refine it.
 ; dlga_item_improve_2:item_improve_3|Agreed!
-; dlga_item_improve_2:merchant_trade|I changed my mind.
+dlga_item_improve_2:merchant_trade|Ho cambiato il mio modo di pensare.
 ; dlga_item_improve_2:merchant_trade.1|I don't have enough money.
 ; dlga_item_improve_3:merchant_trade|Here you have your {s7} back. It's refined.
 ; dlga_town_merchant_talk:armorer_requested_repair_1|I want to refine one of my armor parts.

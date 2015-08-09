@@ -10,8 +10,8 @@ str_given_by_s1_in_wilderness|Dato da {s1} nella zona
 str_s7_raiders|{s7} Predoni
 str_bandits_eliminated_by_another|I banditi sono stati eliminati da un'altra Compagnia.
 str_msg_battle_won|La battaglia è vinta, i tuoi nemici giacciono morti sul campo di battaglia! (Premi tab per uscire)
-; str_tutorial_map1|You are now viewing the world map. Left-click on the map to move your party to that location, enter the selected town, or pursue the selected party.^Time will pause on the overland map if your party is not moving, waiting or resting. To wait anywhere simply press and hold down the space bar.^This is a good moment to save your game! Press the Esc key and choose Save As or use F12 for quick saving.^^Good luck!
-; str_tutorial_map11|You now have a strong party of men. Return to the jarl for further instruction.
+str_tutorial_map1|Stai osservando la mappa strategica. Click-sinistro sulla mappa per muovere la tua Compagnia verso quella locazione, entrare nella città selezionata o seguire un'altra Compagnia. Il gioco entrerà in pausa nella mappa strategica se la tua Compagnia non si muove o si ferma. Puoi attendere e far scorrere il tempo semplicemente tenendo premuta la barra spaziatrice. Questo è un buon momento per salvare il gioco! Premere il tasto Esc e scegliere Salva come o utilizzare F12 per un salvataggio rapido.^^Buona Fortuna!
+str_tutorial_map11|Ora hai una forte compagnia di uomini. Ritorna dallo jarl per ulteriori istruzioni.
 str_randomize|Rendi casuale
 str_charge|Carica!
 str_color|Colore
@@ -20,11 +20,11 @@ str_flip_vertical|Flip Verticale
 str_hold_fire|Non tirate
 str_blunt_hold_fire|Brusco / Non tirate
 str_tutorial_ammo_refilled|Munizioni Ricaricate.
-; str_tutorial_failed|You have been beaten this time, but don't worry. Follow the instructions carefully and you'll do better next time. Press the Tab key to return to the menu where you can retry this tutorial.
-; str_tutorialmq_1_msg_1|In this tutorial, you will learn the basics of movement, interaction, and combat. ^^In Viking Conquest, you use the mouse to control where you are looking, and the W, A, S, and D keys of your keyboard to move. Your first task is... ^^Goal: Go to the center of the boat.
-; str_tutorialmq_1_msg_2|Well done. Next, we will learn to interact with objects and persons. Near you, there is a man called Bodo. To find out who a person is, walk toward him or her until the name pops up. In order to talk to Bodo once you find him, press the F key. ^^Use the F key to interact with persons and scene props. It will open doors and chests, pick up items and more. ^^Goal: Talk to Bodo.
-; str_tutorialmq_1_msg_3|Excellent. Next, we will cover attacking with weapons. ^^You can draw different weapons from your weapon slots by scrolling forward with the wheel of your mouse or by pressing one of the first four numbers on your number pad. ^^You attack with your currently wielded weapon by using your left mouse button. Press and hold the button to ready an attack, then release the button to strike. If you hold down the left mouse button for a while before releasing, your attack will be more powerful. ^^Scroll down or use the number pad to bring out your shield or put it away. ^^Goal: Talk to Veteran to practice some combat.
-; str_tutorialmq_1_msg_4|Nice work! You know all the basic concepts to play Viking Conquest. Now you can explore, talk to NPCs, fight in sailors, or finally, when you are ready, talk to captain to continue your adventure.
+str_tutorial_failed|Sei stato battuto questa volta, ma non preoccuparti. Segui attentamente le istruzioni e farai di meglio la prossima volta. Premi il tasto Tab per tornare al menu dove è possibile riprovare questo tutorial.
+str_tutorialmq_1_msg_1|In questo tutorial, verranno spiegate le basi del movimento, interazione e combattere.^^In Viking Conquest, si usa il mouse per controllare la visuale e i tasti W, A, S e D della tastiera per muovesi. Il vostro primo compito è...^^obiettivo: andare al centro della barca.
+str_tutorialmq_1_msg_2|Ben fatto. Ora, ti spigheremo ad interagire con oggetti e persone. Vicino a te, c'è un uomo chiamato Bodo. Per scoprire chi è una persona, camminare verso di lui o lei fino a quando non compare il nome. Al fine di parlare con Bodo una volta che lo hai trovato, premi il tasto F.^^Utilizza il tasto F per interagire con persone e oggetti. Farà aprire porte e forzieri, raccogliere oggetti e altro ancora.^^Obiettivo: Parla a Bodo.
+str_tutorialmq_1_msg_3|Eccellente. Ora, ci occuperemo di attaccare con armi.^^Puoi selezionare le diverse armi del tuo slot armi con lo scorrimento in avanti della rotellina del mouse oppure premendo uno dei primi quattro numeri il tastierino numerico.^^Per attaccare con l'arma attualmente brandita utilizzando il pulsante sinistro del mouse. Premere e tenere premuto il pulsante per preparare un attacco, quindi rilasciare il pulsante per colpire. Se si tiene premuto il pulsante sinistro del mouse più a lungo, il vostro attacco sarà più potente.^^Far Scorrere verso il basso o utilizzare il tastierino numerico equipaggiare o riporre lo scudo.^^Obiettivo: parla al veterano per far pratica di combattimento.
+str_tutorialmq_1_msg_4|Bel lavoro! Ora conosci tutti i concetti di base per giocare a Viking Conquest. Ora è possibile esplorare, parlare con gli NPC, combattere con i marinai ed infine, quando si è pronti, parla al capitano per continuare la tua avventura.
 str_finished|(Completato)
 str_delivered_damage|Inflitti {reg60} danni.
 str_archery_target_hit|Distanza: {reg61} yards. Punteggio: {reg60}
@@ -33,8 +33,8 @@ str_cant_use_inventory_now|Ora non puoi accedere all'inventario.
 str_cant_use_inventory_arena|Nell'arena non puoi accedere all'inventario.
 str_cant_use_inventory_disguised|Quando usi un camuffamento non puoi accedere all'inventario.
 str_cant_use_inventory_tutorial|Nel campo d'addestramento non puoi accedere all'inventario.
-; str_1_denar|1 pening
-; str_reg1_denars|{reg1} peningas
+str_1_denar|1 pening
+str_reg1_denars|{reg1} peningas
 str_january_reg1_reg2|{reg1} Gennaio {reg2}
 str_february_reg1_reg2|{reg1} Febbraio {reg2}
 str_march_reg1_reg2|{reg1} Marzo {reg2}
@@ -49,7 +49,7 @@ str_november_reg1_reg2|{reg1} Novembre {reg2}
 str_december_reg1_reg2|{reg1} Dicembre {reg2}
 str_town_nighttime| È notte fonda, le strade sono deserte.
 str_door_locked|La porta è chiusa.
-; str_castle_is_abondened|The fort seems to be unoccupied.
+str_castle_is_abondened|Il forte sembra essere disabitato.
 str_town_is_abondened|La città sembra abbandonata.
 str_place_is_occupied_by_player|La zona è sotto il controllo delle tue truppe.
 str_place_is_occupied_by_enemy|La zona è sotto il controllo di truppe nemiche.
@@ -67,23 +67,23 @@ str_battle_won|Hai vinto la battaglia!
 str_battle_lost|Hai perso la battaglia!
 str_attack_walls_success|Al termine di una sanguinosa battaglia, i tuoi valorosi soldati conquistano le mura sconfiggendo il nemico!
 str_attack_walls_failure|Nel tentativo di assaltare le mura, i tuoi uomini vengono falcidiati e quei pochi che sopravvivono si danno alla fuga, non li rivedrai mai più.
-; str_attack_walls_continue|A bloody battle ensues and both sides fight with equal valour. Despite the efforts of your troops, the place remains in enemy hands.
+str_attack_walls_continue|Le due armate si equivalgono, nonostante i tentativi dei tuoi uomini, il posto resta in mano al nemico.
 str_order_attack_success|I tuoi uomini hanno sconfitto il nemico combattendo eroicamente.
 str_order_attack_failure|Osservi la battaglia non riuscendo a credere alla facilità con la quale il nemico decima i tuoi uomini, facendo fuggire i pochi superstiti.
 str_order_attack_continue|Nonostante numerosi tentativi, le tue truppe non riescono ad ottenere una vittoria decisiva.
 str_join_order_attack_success|I tuoi uomini combattono bene a fianco degli alleati, dividendosi la gloria di una vittoria sul nemico.
 str_join_order_attack_failure|Osservi la battaglia non riuscendo a credere alla facilità con la quale il nemico decima i tuoi uomini, facendo fuggire i pochi superstiti.
 str_join_order_attack_continue|Nonostante numerosi tentativi, né le tue truppe né quelle alleate riescono ad ottenere una vittoria decisiva.
-; str_siege_defender_order_attack_success|The men of the garrison hold their walls with skill and courage, breaking the enemy assault and skillfully turning a seemingly sure defeat into a full-fledged victory.
+str_siege_defender_order_attack_success|Le guardie difendono le mura con abilità e coraggio, respingendo ogni attacco nemico e trasformando una probabile sconfitta in vittoria certa!
 str_siege_defender_order_attack_failure|L'assalto si trasforma subito in un bagno di sangue. Ogni sforzo è vano: la guarnigione, soverchiata, non riesce a tenere le mura e il nemico passa a fil di spada i difensori fino all'ultimo uomo.
 str_siege_defender_order_attack_continue|Ripetuti e sanguinosi attacchi alle mura non hanno prodotto risultati utili, ci sono ancora troppi nemici in difesa delle mura per poter acclamare un vincitore. L'assedio continua.
-; str_hero_taken_prisoner|{s1} of the {s3} has been taken prisoner by the {s2}.
-; str_hero_freed|{s1} of the {s3} has been freed from captivity by the {s2}.
-; str_center_captured|the {s2} has taken {s1} from the {s3}.
+str_hero_taken_prisoner|{s1} di {s3} è stato preso prigioniero da {s2}.
+str_hero_freed|{s1} di {s3} è stato liberato dalla prigionia da {s2}.
+str_center_captured|{s2} ha preso {s3} da {s1}.
 str_troop_relation_increased|Le tue relazioni con {s1} sono migliorate da {reg1} a {reg2}.
 str_troop_relation_detoriated|Le tue relazioni con {s1} sono peggiorate da {reg1} a {reg2}.
-; str_faction_relation_increased|Your relation with the {s1} has increased from {reg1} to {reg2}.
-; str_faction_relation_detoriated|Your relation with the {s1} has deteriorated from {reg1} to {reg2}.
+str_faction_relation_increased|Il tuo rapporto con {s1} è aumentato da {reg1} a {reg2}.
+str_faction_relation_detoriated|Il tuo rapporto con {s1} è peggiorata da {reg1} a {reg2}.
 str_party_gained_morale|La tua Compagnia guadagna {reg1} punti morale.
 str_party_lost_morale|La tua Compagnia perde {reg1} punti morale.
 str_other_party_gained_morale|{s1} guadagna {reg1} punti morale.
@@ -92,13 +92,13 @@ str_qst_follow_spy_noticed_you|La spia si è accorta di te! Sta correndo ad avvi
 str_duplicate|padre
 str_s3s_s2|{s3} di {s2}
 str_s5_is_s51|{s5} è {s51}.
-; str_s5_is_the_ruler_of_s51|{s5} is the ruler of the {s51}. 
-; str_s5_is_a_nobleman_of_s6|{s5} is a nobleman of the {s6}. 
-; str_relation_mnus_100|Nemesis
-; str_relation_mnus_90|Implacable
+str_s5_is_the_ruler_of_s51|{s5} è il sovrano di {s51}. 
+str_s5_is_a_nobleman_of_s6|{s5} è un nobile di {s6}. 
+str_relation_mnus_100|Nemico
+str_relation_mnus_90|Implacabile
 str_relation_mnus_80|Molto vendicativo
 str_relation_mnus_70|Pieno d'odio
-; str_relation_mnus_60|Antagonistic
+str_relation_mnus_60|Antagonista
 str_relation_mnus_50|Ostile
 str_relation_mnus_40|Adirato
 str_relation_mnus_30|Pieno di risentimento
@@ -106,7 +106,7 @@ str_relation_mnus_20|Polemico
 str_relation_mnus_10|Sospettoso
 str_relation_plus_0|Indifferente
 str_relation_plus_10|Cooperativo
-; str_relation_plus_20|Welcoming
+str_relation_plus_20|Cordiale
 str_relation_plus_30|Favorevole
 str_relation_plus_40|Solidale
 str_relation_plus_50|Amichevole
@@ -114,97 +114,97 @@ str_relation_plus_60|Cortese
 str_relation_plus_70|Affezionato
 str_relation_plus_80|Leale
 str_relation_plus_90|Devoto
-; str_relation_mnus_100_ns|{s60} is your mortal enemy.
-; str_relation_mnus_90_ns|{s60} is implacable towards you.
+str_relation_mnus_100_ns|{s60} è un tuo nemico mortale.
+str_relation_mnus_90_ns|{s60} è implacabile verso di te.
 str_relation_mnus_80_ns|{s60} è astioso nei tuoi confronti.
 str_relation_mnus_70_ns|{s60} ti odia.
-; str_relation_mnus_60_ns|{s60} is antagonistic towards you.
+str_relation_mnus_60_ns|{s60} è contrastante verso di te.
 str_relation_mnus_50_ns|{s60} ti è ostile.
 str_relation_mnus_40_ns|{s60} è irato con te.
-; str_relation_mnus_30_ns|{s60} is resentful towards you.
+str_relation_mnus_30_ns|{s60} è pieno di risentimento verso di te.
 str_relation_mnus_20_ns|{s60} si lamenta di te.
 str_relation_mnus_10_ns|{s60} non si fida di te.
-; str_relation_plus_0_ns|{s60} is indifferent towards you.
+str_relation_plus_0_ns|{s60} è indifferente verso di te.
 str_relation_plus_10_ns|{s60} collabora con te.
 str_relation_plus_20_ns|{s60} è cordiale verso di te.
-; str_relation_plus_30_ns|{s60} is favorable towards you.
-; str_relation_plus_40_ns|{s60} is supportive of you.
-; str_relation_plus_50_ns|{s60} is friendly towards you.
-; str_relation_plus_60_ns|{s60} is gracious towards you.
+str_relation_plus_30_ns|{s60} è favorevole verso di te.
+str_relation_plus_40_ns|{s60} ti supporta.
+str_relation_plus_50_ns|{s60} è amichevole verso di te.
+str_relation_plus_60_ns|{s60} ti è grato.
 str_relation_plus_70_ns|{s60} è cordiale.
 str_relation_plus_80_ns|{s60} ti è leale.
 str_relation_plus_90_ns|{s60} ti è devoto.
 str_relation_reg1| Relazione: {reg1}
-; str_center_relation_mnus_100|^The populace hates you with a passion
-; str_center_relation_mnus_90|^The populace hates you intensely
-; str_center_relation_mnus_80|^The populace hates you strongly
-; str_center_relation_mnus_70|^The populace hates you
-; str_center_relation_mnus_60|^The populace is hateful to you
-; str_center_relation_mnus_50|^The populace is extremely hostile to you
-; str_center_relation_mnus_40|^The populace is very hostile to you
-; str_center_relation_mnus_30|^The populace is hostile to you
-; str_center_relation_mnus_20|^The populace is against you
-; str_center_relation_mnus_10|^The populace is opposed to you
-; str_center_relation_plus_0|^The populace is indifferent to you
-; str_center_relation_plus_10|^The populace is acceptive to you
-; str_center_relation_plus_20|^The populace is cooperative to you
-; str_center_relation_plus_30|^The populace is somewhat supportive to you
-; str_center_relation_plus_40|^The populace is supportive to you
-; str_center_relation_plus_50|^The populace is very supportive to you
-; str_center_relation_plus_60|^The populace is loyal to you
-; str_center_relation_plus_70|^The populace is highly loyal to you
-; str_center_relation_plus_80|^The populace is devoted to you
-; str_center_relation_plus_90|^The populace is fiercely devoted to you
-; str_town_prosperity_0|^The poverty of the town of {s60} is unbearable
-; str_town_prosperity_10|^The town of {s60} is all but deserted to its squalor.
-; str_town_prosperity_20|^The town of {s60} looks a wretched, desolate place.
-; str_town_prosperity_30|^The town of {s60} looks poor and neglected.
-; str_town_prosperity_40|^The town of {s60} appears to be struggling.
-; str_town_prosperity_50|^The town of {s60} seems unremarkable.
-; str_town_prosperity_60|^The town of {s60} seems to be flourishing.
-; str_town_prosperity_70|^The prosperous town of {s60} is bustling with activity.
-; str_town_prosperity_80|^The town of {s60} looks rich and well maintained.
-; str_town_prosperity_90|^The town of {s60} is opulent and crowded with well-to-do people.
-; str_town_prosperity_100|^The glittering town of {s60} openly flaunts its great wealth.
-; str_fort_prosperity_0|^The poverty of the fort of {s60} is unbearable
-; str_fort_prosperity_10|^The fort of {s60} is all but deserted to its squalor.
-; str_fort_prosperity_20|^The fort of {s60} looks a wretched, desolate place.
-; str_fort_prosperity_30|^The fort of {s60} looks poor and neglected.
-; str_fort_prosperity_40|^The fort of {s60} appears to be struggling.
-; str_fort_prosperity_50|^The fort of {s60} seems unremarkable.
-; str_fort_prosperity_60|^The fort of {s60} seems to be flourishing.
-; str_fort_prosperity_70|^The prosperous fort of {s60} is bustling with activity.
-; str_fort_prosperity_80|^The fort of {s60} looks rich and well maintained.
-; str_fort_prosperity_90|^The fort of {s60} is opulent and crowded with well-to-do people.
-; str_fort_prosperity_100|^The glittering fort of {s60} openly flaunts its great wealth.
-; str_village_prosperity_0|^The poverty of the village of {s60} is unbearable.
-; str_village_prosperity_10|^The village of {s60} looks wretchedly poor and miserable.
-; str_village_prosperity_20|^The village of {s60} looks very poor and desolate.
-; str_village_prosperity_30|^The village of {s60} looks poor and neglected.
-; str_village_prosperity_40|^The village of {s60} appears to be somewhat poor and struggling.
-; str_village_prosperity_50|^The village of {s60} seems unremarkable.
-; str_village_prosperity_60|^The village of {s60} seems to be flourishing.
-; str_village_prosperity_70|^The village of {s60} appears to be thriving.
-; str_village_prosperity_80|^The village of {s60} looks rich and well maintained.
-; str_village_prosperity_90|^The village of {s60} looks very rich and prosperous.
-; str_village_prosperity_100|^The village of {s60}, surrounded by vast, fertile fields, looks immensely rich.
-; str_town_alt_prosperity_0|The few wares sold in the market are expensive to the malnourished common man and his weakened livestock. Among ramshackle houses, children in rags are playing with sticks and pebbles.
-; str_town_alt_prosperity_20|Arguments over high prices are heard in the marketplace, where traders are running out of wares. In the streets, children are begging any passer-by for a little bread or anything of worth.
-; str_town_alt_prosperity_40|Wares in the market are of decent quality, and traders sometime bring luxury items for the few wealthy townspeople. Some houses could use repair, while others are in good shape.
-; str_town_alt_prosperity_60|The market is humming with activity as traders from far and wide come to do business and leave, while some migrants stay to seek their luck.
-; str_town_alt_prosperity_80|The thatch and shingles of roofs are well maintained throughout the town, and the people are dressed in quality clothing. Every day flocks of people arrive to find work and wealth in the blooming trading hub.
-; str_village_alt_prosperity_0|Able-bodied people are scarce, and fields are overgrown with weeds. Many have fled the settlement, and draft animals are eaten or dying at the outskirts of town, attracting wild animals.
-; str_village_alt_prosperity_20|A few farmers and animals work in the fields, but many have emigrated in search of a better life. Farms are worn down, and weeds have taken over some of the fields.
-; str_village_alt_prosperity_40|Fairly healthy villagers and animals move about the fields and pastures. However, some houses are in ill repair, and several fields are left unsown.
+str_center_relation_mnus_100|^La popolazione ti odia molto
+str_center_relation_mnus_90|^La popolazione ti odia intensamente
+str_center_relation_mnus_80|^La popolazione ti odia fortemente
+str_center_relation_mnus_70|^La popolazione ti odia
+str_center_relation_mnus_60|^La popolazione è odiosa verso di te
+str_center_relation_mnus_50|^La popolazione ti è estremamente ostile
+str_center_relation_mnus_40|^La popolazione ti è molto ostile
+str_center_relation_mnus_30|^La popolazione ti è ostile
+str_center_relation_mnus_20|^La popolazione è contro di te
+str_center_relation_mnus_10|^La popolazione si oppone a te
+str_center_relation_plus_0|^La popolazione ti è indifferente
+str_center_relation_plus_10|^La popolazione ti è accetta
+str_center_relation_plus_20|^La popolazione è collaborativa con te
+str_center_relation_plus_30|^La popolazione è piuttosto favorevole verso di te
+str_center_relation_plus_40|^La popolazione ti supporta
+str_center_relation_plus_50|^La popolazione ti è molto favorevole
+str_center_relation_plus_60|^La popolazione ti è fedele
+str_center_relation_plus_70|^La popolazione ti è molto fedele
+str_center_relation_plus_80|^La popolazione ti è devota
+str_center_relation_plus_90|La popolazione è fieramente devota a te
+str_town_prosperity_0|^La povertà della città di {s60} è insopportabile
+str_town_prosperity_10|^La città di {s60} è completamente abbandonata al suo squallore.
+str_town_prosperity_20|^La città di {s60} sembra un posto infelice e desolato.
+str_town_prosperity_30|^La città di {s60} sembra povera e trascurata.
+str_town_prosperity_40|^La città di {s60} sembra in rivolta.
+str_town_prosperity_50|^La città di {s60} non sembra degna di nota.
+str_town_prosperity_60|^La città di {s60} sembra essere fiorente.
+str_town_prosperity_70|^La facoltosa città di {s60} prospera di attività.
+str_town_prosperity_80|^La città di {s60} sembra ricca e ben mantenuta.
+str_town_prosperity_90|^La città di {s60} è ricca e affollata di persone  benestanti.
+str_town_prosperity_100|^La scintillante città di {s60} mostra apertamente le sue grandi ricchezze
+str_fort_prosperity_0|^La povertà del forte di {s60} è insopportabile
+str_fort_prosperity_10|^Il forte di {s60} è completamente abbandonata al suo squallore.
+str_fort_prosperity_20|^Il forte di {s60} sembra un posto infelice, desolato.
+str_fort_prosperity_30|^Il forte di {s60} sembra povero e trascurato.
+str_fort_prosperity_40|^Il forte di {s60} sembra in rivolta.
+str_fort_prosperity_50|^Il forte di {s60} non sembra degno di nota.
+str_fort_prosperity_60|^Il forte di {s60} sembra essere fiorente.
+str_fort_prosperity_70|^Il prosperoso forte di {s60} è brulicante di attività.
+str_fort_prosperity_80|^Il forte di {s60} sembra ricco e ben mantenuto.
+str_fort_prosperity_90|^Il forte di {s60} è ricca e affollata di persone benestanti.
+str_fort_prosperity_100|^Lo scintillante forte di {s60} mostra apertamente le sue grandi ricchezze.
+str_village_prosperity_0|^La povertà del villaggio di {s60} è insopportabile.
+str_village_prosperity_10|^Il villaggio di {s60} sembra disgraziatamente povero e miserabile.
+str_village_prosperity_20|^Il villaggio di {s60} sembra molto povero e desolato.
+str_village_prosperity_30|^Il villaggio di {s60} sembra povero e trascurato.
+str_village_prosperity_40|^Il villaggio di {s60} sembra essere alquanto povero e mostra segni di rivolta.
+str_village_prosperity_50|^Il villaggio di {s60} non sembra degno di nota.
+str_village_prosperity_60|^Il villaggio di {s60} sembra essere fiorente.
+str_village_prosperity_70|^Il villaggio di {s60} sembra essere prospero.
+str_village_prosperity_80|^Il villaggio di {s60} sembra ricco e ben mantenuto.
+str_village_prosperity_90|^Il villaggio di {s60} sembra molto ricco e prosperoso.
+str_village_prosperity_100|^Il villaggio di {s60}, circondato da vasti e fertili terreni, sembra immensamente ricco.
+str_town_alt_prosperity_0|Le poche mercanzie vendute al mercato sono costose per l'uomo comune malnutrito e il suo bestiame indebolito. Tra le case fatiscenti, bambini in stracci stanno giocando con bastoni e sassi.
+str_town_alt_prosperity_20|Nel mercato si odono molte discussioni sui prezzi alti, dove i commercianti sono a corto di merce. Per le strade, i bambini mendicano ai passanti per un pò di pane o qualcosa di valore.
+str_town_alt_prosperity_40|Al mercato ci sono articoli qualità decente, e a volte i commercianti portano oggetti di lusso per i pochi cittadini ricchi. Alcune case hanno bisogno di essere ristrutturate, mentre altre sono in buona condizione.
+str_town_alt_prosperity_60|Il mercato sta ronzando con attività mentre i commercianti da tutto il mondo vengono a fare affari e ripartono, mentre alcuni migranti rimangono a cercare la loro fortuna.
+str_town_alt_prosperity_80|I tetti di paglia e tegole sono ben tenuti in tutta la città, e le persone sono vestite con abbigliamento di qualità. Ogni giorno stormi di persone arrivano per trovare lavoro e ricchezza nel fiorente centro del commercio.
+str_village_alt_prosperity_0|Le persone capaci sono scarse, e i campi sono invasi dalle erbacce. Molti sono fuggiti dall'insediamento, e gli animali da traino sono provati o morenti alla periferia della città, attirando gli animali selvatici.
+str_village_alt_prosperity_20|Alcuni agricoltori e animali lavorano nei campi, ma molti sono migrati in cerca di una vita migliore. Le fattorie sono logorate, e le erbacce hanno preso il sopravvento su alcuni campi.
+str_village_alt_prosperity_40|Gli abitanti del villaggio e gli animali abbastanza sani si muovono nei campi e nei pascoli. Tuttavia, alcune case sono in riparazione, e diversi campi sono lasciati senza semina.
 str_village_alt_prosperity_60|I campi e i frutteti ronzano di attività, con sacchi pieni di grano e di carne ad essiccare che testimoniano la produttività del terreno agricolo e dei pascoli del villaggio.
-; str_village_alt_prosperity_80|Fields and orchards are filled with able-bodied, well-fed villagers expanding the fields to feed the many farm animals. All the while, laborers are flocking to work and join the prosperity.
-; str_oasis_village_alt_prosperity_0|The fruit groves are virtually abandoned, and the canals which irrigate them are clogged with silt. The handful of villagers you see look malnourished and restless. The draft animals have long since starved or been eaten, although a few carcasses still lie on the outskirts, their bones gnawed by the wolves.
-; str_oasis_village_alt_prosperity_20|Few villagers can be seen tending to the fruit groves, and in places, the ruins appear to be encroaching on the gardens. Many of the canals are clogged with silt, and the wells and cisterns are filled with sand.
-; str_oasis_village_alt_prosperity_40|Men and women are busy tending the fruit groves, climbing to the tops of trees to pollinate the fruit. Healthy animals draw the pumps and wheels that bring water to the fields. Some of the irrigation canals and cisterns, however, could use some maintenance.
-; str_oasis_village_alt_prosperity_60|The fruit groves and orchards are humming with activity. Farmers call to each other cheerfully from the tops of the trees, where they pollinate the fruit. The creak of wooden pumps, the bellowing of draft animals, and the rush of flowing water speak of an irrigation system that is thriving under the villagers' attention.
-; str_oasis_village_alt_prosperity_80|The fruit groves are humming with activity, as farmers load up a bumper crop of apples for sale to the market. Men and women are hard at work digging new wells and canals, to bring additional land under irrigation.
-; str_acres_grain|acres of grain fields
-; str_acres_orchard|acres of fruit groves
+str_village_alt_prosperity_80|Campi e frutteti sono pieni di paesani abili e ben nutriti, nei campi in espansione per alimentare i numerosi animali della fattoria. Per tutto il tempo, i lavoratori si affollano per lavorare e partecipare alla prosperità.
+str_oasis_village_alt_prosperity_0|I frutteti sono praticamente abbandonati, e i canali che l'irrigano sono intasati dal fango. I pochi abitanti sembrano malnutriti e inquieti. Gli animali da traino sono morti di fame o sono stati mangiati e, anche se si trovano un paio di carcasse in periferia, le loro ossa sono state rosicchiate dai lupi.
+str_oasis_village_alt_prosperity_20|Si vedono pochi abitanti che si prendono cura dei frutteti, e in alcuni punti le rovine sembrano invadere i giardini. Molti dei canali sono intasati dal fango, e pozzi e serbatoi sono pieni di sabbia.
+str_oasis_village_alt_prosperity_40|Uomini e donne si prendono cura dei frutteti, salendo in cima agli alberi per impollinare i frutti. Gli animali sani fan muovere le pompe e le ruote che portano l'acqua ai campi. Ad alcuni canali d'irrigazione e serbatoi, tuttavia, servirebbero delle manutenzioni.
+str_oasis_village_alt_prosperity_60|I palmeti e gli orti brulicano di attività. I contadini chiamano gli altri allegramente dalla cima degli alberi, dove impollinano i frutti. Lo scricchiolio delle pompe in legno, il muggire delle mucche, ela corsa dell'acqua che scorre fa parlare di un sistema di irrigazione fiorente e sotto il costante controllo degli abitanti.
+str_oasis_village_alt_prosperity_80|I frutteti brulicano di attività, mentre i contadini caricano l'abbondante raccolto di mele per poi venderlo al mercato. Uomini e donne sono al lavoro per scavare nuovi pozzi e canali, per portarli in altre terre per l'irrigazione.
+str_acres_grain|acri di campi di grano
+str_acres_orchard|acri di frutteti
 str_acres_oasis|acri di oasi e giardini irrigati
 str_looms|telai
 str_boats|barche
@@ -222,13 +222,13 @@ str_caravans|carovane terrestri
 str_traps|trappole
 str_gardens|piccoli giardini
 str_tanneries|vasche per la concia
-; str_master_miller|Foreman miller
-; str_master_brewer|Foreman brewer
-; str_master_presser|Foreman presser
-; str_master_smith|Foreman smith
-; str_master_tanner|Foreman tanner
-; str_master_weaver|Foreman weaver
-; str_master_dyer|Foreman dyer
+str_master_miller|Mastro-Mugnaio
+str_master_brewer|Mastro-Birraio
+str_master_presser|Mastro-Pressatore
+str_master_smith|Mastro-Fabbro
+str_master_tanner|Mastro-Conciatore
+str_master_weaver|Mastro-Tessitore
+str_master_dyer|Mastro-Tintore
 str_war_report_minus_4|siamo a un passo dalla sconfitta
 str_war_report_minus_3|la situazione è grave
 str_war_report_minus_2|le cose non vanno molto bene per noi
@@ -238,67 +238,67 @@ str_war_report_plus_1|abbiamo una chiara possibilità di vincere la guerra
 str_war_report_plus_2|le cose vanno abbastanza bene
 str_war_report_plus_3|non avremo difficoltà a batterli
 str_war_report_plus_4|siamo ad un passo dalla vittoria
-; str_persuasion_summary_very_bad|You try your best to persuade {s50}, but none of your arguments seems to come out right. Every time you start to make sense, you seem to say something entirely wrong that puts you off track. By the time you finish speaking, you've failed to form a single coherent point in your own favour, and you realise that all you've done was dig yourself deeper into a hole. Unsurprisingly, {s50} does not look impressed.
+str_persuasion_summary_very_bad|Fai del tuo meglio per convincere {s50}, ma nessuna delle tue argomentazioni sembra essere efficace. Ogni volta che provi a dire qualcosa di sensato, ti sfuggono parole talmente fuori luogo che vanificano ogni tuo tentativo di persuasione. Nel momento stesso in cui finisci di parlare ti rendi conto di aver fatto una misera figura e vorresti sotterrarti dalla vergogna . Ovviamente, {s50} non sembra affatto convinto.
 str_persuasion_summary_bad|Provi a convincere {s50}, ma {reg51?lei:lui} svia la discussione fin dall'inizio. Le tue frasi migliori suonano male persino alle tue orecchie . {s50}, non è rimasto assolutamente colpito da quello che stai dicendo.
 str_persuasion_summary_average|{s50} risulta essere un abile oratore dalla mente acuta, e sembra che tu non possa dire niente che {reg51?lei:lui} non riesca a controbattere razionalmente. Alla fine non riesci a spuntarla su nessun argomento in questa discussione.
 str_persuasion_summary_good|Mente lucida e ragionamenti chiari ti permettono di esporre bene la tue idee, obbligando {s50} a darti ragione riguardo molti aspetti. Tuttavia, {reg51?lei:lui} resta ancora dubbioso a proposito delle tue richieste.
-; str_persuasion_summary_very_good|You deliver an impassioned speech that echoes through all listening ears like poetry. The world itself seems to quiet down in order to hear you better. The inspiring words have moved {s50} deeply, and {reg51?she:he} looks much more well disposed towards helping you.
+str_persuasion_summary_very_good|Il tuo appassionato discorso echeggerà nei secoli e verrà ricordato come poesia. Il pianeta stesso sembra fermarsi per ascoltare le tue parole. Le tue espressioni ispirate hanno toccato {s50} profondamente, e {reg51?lei:lui} sembra disposto ad aiutarti.
 str_secret_sign_1|L'armadio balla a mezzanotte...
-; str_secret_sign_2|I am selling these fine tapestries from Constantinople. Would you like to buy some?
+str_secret_sign_2|Vendo questi delicati arazzi di Costantinopoli. Volete comprarne qualcuno?
 str_secret_sign_3|Un amico di un mio amico mi ha detto...
 str_secret_sign_4|Il vento soffia forte da ovest e il fiume scorre rosso...
 str_countersign_1|Ma balla per i vestiti o per il candelabro?
 str_countersign_2|Si, ne avete qualcuno in blu?
 str_countersign_3|Ma, amico mio, l'amico del vostro amico non avrà mai un amico come me.
 str_countersign_4|State bene?
-; str_name_1|Aelle
-; str_name_2|Alduini
-; str_name_3|Berdun
-; str_name_4|Caedmon
-; str_name_5|Cearl
-; str_name_6|Coenred
-; str_name_7|Eadbald
-; str_name_8|Arthfael
-; str_name_9|Eafa
-; str_name_10|Earpwald
-; str_name_11|Hengist
-; str_name_12|Horsa
-; str_name_13|Osred
-; str_name_14|Thrydwulf
-; str_name_15|Wictred
-; str_name_16|Wuffa
-; str_name_17|Cyny
-; str_name_18|Cunedog
-; str_name_19|Idnerth
-; str_name_20|Dyfrig
-; str_name_21|Treni
-; str_name_22|Cadfan
-; str_name_23|Cadwgon
-; str_name_24|Rhiwallon
-; str_name_25|Hywel
-; str_surname_1|{s50} of Lundenwic
-; str_surname_2|{s50} of Dorce Ceaster
-; str_surname_3|{s50} of Bebbanburh
-; str_surname_4|{s50} of Caer Wenddoleu
-; str_surname_5|{s50} of Emain Macha
-; str_surname_6|{s50} of Cirren Ceaster
-; str_surname_7|{s50} of Din Draithou
-; str_surname_8|{s50} of Licidfelth
-; str_surname_9|{s50} of Caer Lloyw
-; str_surname_10|{s50} of Colne Ceaster
-; str_surname_11|{s50} of Din Erth
-; str_surname_12|{s50} of Norwic
-; str_surname_13|{s50} of Caer Riderch
-; str_surname_14|{s50} of Duin Ollaigh
-; str_surname_15|{s50} of Denisesburna
-; str_surname_16|{s50} of Dun Buicead
-; str_surname_17|{s50} of Swanawic
-; str_surname_18|{s50} of Wodetun
-; str_surname_19|{s50} of Badun
-; str_surname_20|{s50} of Leim an Eich
+str_name_1|Aelle
+str_name_2|Alduini
+str_name_3|Berdún
+str_name_4|Caedmon
+str_name_5|Cearl
+str_name_6|Coenred
+str_name_7|Eadbald
+str_name_8|Arthfael
+str_name_9|Eafa
+str_name_10|Earpwald
+str_name_11|Hengist
+str_name_12|Horsa
+str_name_13|Osred
+str_name_14|Thrydwulf
+str_name_15|Wictred
+str_name_16|Wuffa
+str_name_17|Cyny
+str_name_18|Cunedog
+str_name_19|Idnerth
+str_name_20|Dyfrig
+str_name_21|Treni
+str_name_22|Cadfan
+str_name_23|Cadwgon
+str_name_24|Rhiwallon
+str_name_25|Hywel
+str_surname_1|{s50} di Lundenwic
+str_surname_2|{s50} di Dorce Ceaster
+str_surname_3|{s50} di Bebbanburh
+str_surname_4|{s50} di Caer Wenddoleu
+str_surname_5|{s50} di Emain Macha
+str_surname_6|{s50} di Cirren Ceaster
+str_surname_7|{s50} di Din Draithou
+str_surname_8|{s50} di Licidfelth
+str_surname_9|{s50} di Caer Lloyw
+str_surname_10|{s50} di Colne Ceaster
+str_surname_11|{s50} di Din Erth
+str_surname_12|{s50} di Norwich
+str_surname_13|{s50} di Caer Riderch
+str_surname_14|{s50} di Duin Ollaigh
+str_surname_15|{s50} di Denisesburna
+str_surname_16|{s50} di Dun Buicead
+str_surname_17|{s50} di Swanawic
+str_surname_18|{s50} di Wodetun
+str_surname_19|{s50} di Badun
+str_surname_20|{s50} di Leim un Eich
 str_surname_21|{s50} il Lungo
 str_surname_22|{s50} il Magro
-; str_surname_23|{s50} Silky-Beard
+str_surname_23|{s50} Barba-Setosa
 str_surname_24|{s50} il Passero
 str_surname_25|{s50} il Povero
 str_surname_26|{s50} lo Sfregiato
@@ -312,7 +312,7 @@ str_surname_33|{s50} il Senzapaura
 str_surname_34|{s50} il Valoroso
 str_surname_35|{s50} l'Astuto
 str_surname_36|{s50} il Codardo
-; str_surname_37|{s50} the Bright
+str_surname_37|{s50} il Brillante
 str_surname_38|{s50} il Veloce
 str_surname_39|{s50} il Menestrello
 str_surname_40|{s50} l'Audace
@@ -329,17 +329,17 @@ str_casualty_display_hp|^Hai ricevuto ferite per {reg1} punti vita.
 str_quest_log_updated|Il registro missioni è stato aggiornato...
 str_banner_selection_text|Ti è stato concesso il diritto di portare uno stendardo. Il tuo stendardo indicherà la tua condizione e ti porterà onore. Quale stendardo vuoi scegliere?
 str_retirement_text_1|Solo troppo tardi ti rendi conto che il tuo denaro non durerà. Non ci vuole molto a sprecare quel poco che hai potuto salvare, e vagherai miseramente cercando, senza esito, di tornare a condurre una vita avventurosa. Diventi indigente a {s9}, vivendo di elemosina e della carità della chiesa.
-; str_retirement_text_2|Only too late do you realise that your money won't last. It doesn't take you long to fritter away what little you bothered to save. Once every pening has evaporated in your hands you are forced to start a life of crime in the back streets of {s9}, using your skills to eke out a living robbing coppers from women and poor townsmen.
+str_retirement_text_2|Solo troppo tardi ti rendi conto che il tuo denaro non durerà. Non ci vuole molto a sprecare quel poco che hai potuto salvare. Non appena ogni denaro è svanito dalla tua mano inizi tuo malgrado una vita criminale nei vicoli di {s9}, usando le tue abilità arrangiandoti e rubando meschinamente monete di rame da donne o cittadini poveri quanto te.
 str_retirement_text_3|Solo troppo tardi ti rendi conto che il tuo denaro non durerà. Non ci vuole molto a sprecare quel poco che hai potuto salvare, diventi così una persona indigente, andando di taverna a taverna scroccando bevute da benefattori impietositi, intrattenendoli con storie di guerra alle quali nessuno in fondo crede.
-; str_retirement_text_4|The silver you've saved doesn't last long, but you manage to put together enough to buy some land near the village of {s7}. There you become a free farmer, and you soon begin to attract potential {reg59?husbands:wives}. In time, the villagers come to treat you as their local hero. You always receive a place of honour at feasts, and your exploits are told and retold in the pubs and taverns so that the children may keep a memory of you forever and ever.
-; str_retirement_text_5|The silver you've saved doesn't last long, but it's enough to buy a small tavern in {s9}. Although the locals are wary of you at first, they soon accept you into their midst. In time, your growing tavern becomes a popular feast hall and meeting place. People come for miles to eat or stay there due to your sheer renown and the epic stories you tell of your adventuring days.
-; str_retirement_text_6|You've saved wisely throughout your career, and now your silver and your intelligence allows you to make some excellent investments to cement your future. After buying several shops and warehouses in {s9}, your shrewdness turns you into one of the most prominent merchants in town, and you soon become a wealthy {reg59?woman:man} known as much for your trading empire as your exploits in battle.
+str_retirement_text_4|L'argento che hai conservato non dura a lungo, ma riesci a metterne insieme abbastanza da comprare delle terre vicine al villaggio di {s7}. Ti dedichi alla vita contadina, e presto cominci ad attrarre potenziali {reg59?mogli:mariti}. Col tempo i paesani arrivano a trattarti come simbolo locale. Ricevi sempre un posto d'onore alle feste, e le tue imprese sono raccontate e ripetute nei locali e nelle taverne, cosicché i bambini possano tenerti sempre a mente quale esempio.
+str_retirement_text_5|L'argento che hai conservato non dura a lungo, ma è abbastanza per comprare una piccola taverna a {s9}. Anche se le persone del posto sono inizialmente diffidenti, ti accettano presto tra loro. Nel tempo la tua sempre più florida attività diviene un popolare luogo di festa e d'incontro. Le persone vengono da miglia e miglia di distanza per mangiare o per trattenersi, a causa della tua fama pura e delle storie epiche dei tuoi giorni avventurosi di cui ti viene sempre chiesto il racconto.
+str_retirement_text_6|Hai risparmiato saggiamente per tutta la tua carriera, e ora il tuo argento a la tua intelligenza ti permettono di fare qualche investimento eccellente per consolidare il tuo futuro. Dopo aver comprato parecchi negozi e magazzini a {s9}, la tua accortezza ti fa diventare una persona tra le più rilevanti nel mercato in città, e presto divieni {reg59?una donna ricca:un uomo ricco}, una persona conosciuta tanto per il suo impero commerciale che per le sue imprese in battaglia.
 str_retirement_text_7|Come nobile con proprietà terriere, per quanto minori, il tuo futuro è tutto tranne che certo. Ti ambienti nel tuo possedimento a  {s7}, amministrando il villaggio e i campi, controllando le corti locali e adempiendo i tuoi obblighi verso il tuo sovrano. Occasionalmente sua maestà ti chiama per radunare e condurre eserciti nelle sue campagne, ma questi lavori sono brevi, e tu non ritorni mai veramente all'avventura dei giorni passati in gioventù. Hai già fatto la tua fortuna. Con i tuoi stessi magazzini e terreni, hai poche necessità che il tuo ricco capitale e il reddito delle tue terre non possano permetterti.
 str_retirement_text_8|Non ci sono dubbi, hai tutto ciò che puoi desiderare. I tuoi ampi territori e la ricchezza delle avventure trascorse, sono abbastanza per permetterti una vita ricca e agiata per il resto dei tuoi giorni. Ritirandoti nel tuo luogo nobiliare a {s8}, scambi l'avventura con la politica, e presto ti affermi come una forza considerevole nel regno del tuo sovrano. Mentre ti occupi di attività che ti mantengano in forma, con le tue stesse foreste per la caccia, una sala dove festeggiare e cento belle storie di guerra da raccontare, hai poche difficoltà a decidere come gestire gli anni che seguono.
-; str_retirement_text_9|As a reward for your competent and loyal service, your liege lord decrees that you be given a hereditary title, joining the major nobility of the realm. Soon you complete your investiture as lord of {s7}, and you become one of your liege's close advisors and adjutants. Your renown garners you much subtle pull and influence as well as overt political power. Now you spend your days playing the games of power, administering your great fiefs, and recounting the old times of adventure and glory.
-; str_retirement_text_10|Though you started from humble beginnings, your liege lord holds you in high esteem, and a ripple of shock passes through the realm when he names you to the hereditary title of {reg59?ducessa:dux} of {s9}. Vast fiefs and fortunes are now yours to rule. You quickly become your liege's most trusted advisor, almost his equal. You are charged with much of the running of his realm, and you sit upon a throne in your own splendourous palace as one of the most powerful figures in Britannia and Hibernia.
-; str_loot_village|attack innocent people
-; str_steal_from_villagers|steal from poor people
+str_retirement_text_9|Come ricompensa per il tuo competente e leale servizio, il tuo sovrano decreta che ti sia dato un titolo ereditario, entrando a far parte della maggiore nobiltà del reame. Presto completi la tua investitura con il titolo baronale di {s7}, e diventi una persona fidata tra i consiglieri e aiutanti più vicini al sovrano. La tua fama ti fa ottenere un'influenza sottile e discreta, quando non un palese potere politico. Ora trascorri i tuoi giorni partecipando ai giochi di potere, amministrando i tuoi grandi feudi, e raccontando dei vecchi tempi colmi d'avventura e gloria.
+str_retirement_text_10|Nonostante le tue umili origini, godi della profonda stima del tuo sovrano. Il regno intero è scosso da un fremito quando il re ti ritiene degno del titolo di {reg59?ducessa:dux} di {s9}. Vasti feudi e fortune sono ora sotto il tuo controllo. Rapidamente acquisti la reputazione di consigliere più fidato del re, quasi un suo pari, mentre ti viene attribuita autorità su molti dei suoi domini. Siedi sul trono nel tuo splendido palazzo, in qualità di una delle più potenti figure di Britannia e Hibernia.
+str_loot_village|attacca persone innocenti
+str_steal_from_villagers|derubare la povera gente
 str_rob_caravan|deruba una carovana mercantile
 str_sell_slavery|vendi persone in schiavitù
 str_men_hungry|rimanere senza cibo
@@ -348,9 +348,9 @@ str_excessive_casualties|faccia divenire ogni battaglia un bagno di sangue per t
 str_surrender|ti arrenda al nemico
 str_flee_battle|ritirandoti dalla battaglia
 str_pay_bandits|paga i comuni banditi
-; str_fail_quest|fail a quest that we undertook on word of honour
-; str_treason_one|honour
-; str_missed_npc|fail.
+str_fail_quest|si fallisca in una missione alla quale ci siamo impegnati dando la parola d'onore
+str_treason_one|onore
+str_missed_npc|fallito.
 str_squander_money|sperpera i denari datici con fiducia
 str_murder_merchant|ci facciamo coinvolgere in assassinii a sangue freddo
 str_round_up_serfs|radunare servi fuggiaschi a nome di qualche nobile
@@ -359,7 +359,7 @@ str_battle_fate_2|Ho subito ferite e restando in mezzo ai caduti
 str_battle_fate_3|Un colpo nemico mi ha fatto perdere i sensi
 str_battle_fate_4|Ero in ostaggio, per un riscatto
 str_battle_fate_5|Ero in prigionia, ma ho guadagnato la fuga
-; str_npc_morale_report|I'm {s6} your choice of companions, {s7} your style of leadership, and {s8} the general state of affairs.
+str_npc_morale_report|Sono {s6} la vostra scelta degli accompagnatori, {s7} il vostro stile di comando, e {s8} lo stato generale degli affari
 str_happy|felice riguardo
 str_content|mi accontento riguardo
 str_concerned|in ansia riguardo
@@ -372,87 +372,87 @@ str_bar_weary|          Stanco
 str_bar_disgruntled|     Scontento
 str_bar_miserable|  Infelice
 str_here_plus_space|qui
-; str_npc1_intro|Salve, Warlord. My name is Caio. My father sent me.
-; str_npc2_intro|Heill! My name is Egil.
-; str_npc3_intro|{reg59?Who sent you? I'll never go back!:Do not come close to me. I am tired of being abused by every person that crosses my path!}
+str_npc1_intro|Salve, signore della guerra. Il mio nome è Caio. Mio padre mi ha mandato.
+str_npc2_intro|Heill! Il mio nome è Egil.
+str_npc3_intro|{reg59?Chi ti ha mandato? Non indietreggerò!: Non avvicinarti. Sono stanco di essere abusato da ogni persona che incrocia il mio cammino!}
 str_npc4_intro|Si?
-; str_npc5_intro|Hello, traveler. Would you join me for a drink?
-; str_npc6_intro|I have things to tell you. Listen carefully.
+str_npc5_intro|Salve, viaggiatore. Vorreste unirvi a me per una bevuta?
+str_npc6_intro|Ho qualcosa da dirti. Ascolta bene.
 str_npc7_intro|Si? Mantenete la distanza, per cortesia.
 str_npc8_intro|Che cosa volete?
-; str_npc9_intro|You there, good {reg59?woman:man}. Be so kind as to fetch me another drink, eh?
-; str_npc10_intro|God thee mid sie, {reg59?madame:sir}! Here's to the doom and downfall of all Welsh!
-; str_npc11_intro|Heill, {reg59?my pretty:handsome}. I've been watching you a while.
-; str_npc12_intro|Heill, {reg59?madame:sir}. Nice to meet you.
-; str_npc13_intro|Yes? What do you need?
-; str_npc14_intro|Hail, traveller. I am Ailchu, a Gael warrior. No doubt you've heard of me.
-; str_npc15_intro|Yeia sou! Yeia sou! To your health, {reg59?madame:sir}. My name is Agathinos. Are you by any chance heading out of this place any time soon?
-; str_npc16_intro|Ah... you... I...
-; str_npc1_intro_response_1|Yes, I know. Tell me about yourself.
-; str_npc2_intro_response_1|Speak, Egil
-; str_npc3_intro_response_1|Calm down. I intend you no harm. Why are you so afraid?
-; str_npc4_intro_response_1|You're not very talkative, are you?
+str_npc9_intro|Ehi tu, {reg59?brava donna:brav'uomo}, sii così gentile da andare a prendere un'altra bevuta, d'accordo?
+str_npc10_intro|Il Vostro Dio li ha divisi, {reg59?Signora:Signore}! Questo è il castigo e la caduta di tutti i Gallesi!
+str_npc11_intro|Heill, {reg59?mia bella:bello}. Ti ho osservato per un po' di tempo.
+str_npc12_intro|Heill, {reg59?Signora:Signore}. Piacere di conoscerla.
+str_npc13_intro|Sì? Di cosa cosa avete bisogno?
+str_npc14_intro|Hail,  viaggiatori. Io sono Ailchu, un guerriero di Gael. Sicuramente avrete sentito parlare di me.
+str_npc15_intro|Yeia sou! Yeia sou! Alla vostra salute, {reg59?Signora:Signore}. Il mio nome è Agathinos. C'è un modo di uscire da questo posto velocemente?
+str_npc16_intro|Ah... si... Io...
+str_npc1_intro_response_1|Sì lo so. Parlami di te.
+str_npc2_intro_response_1|Parla, Egil
+str_npc3_intro_response_1|Calmati. Non voglio farti del male. Perchè hai paura?
+str_npc4_intro_response_1|Non sei molto loquace, vero?
 str_npc5_intro_response_1|Certamente. Con chi ho il piacere di bere?
-; str_npc6_intro_response_1|Continue, friend.
+str_npc6_intro_response_1|Continua, amico.
 str_npc7_intro_response_1|Le mie scuse. Stavo solo per dire che sembrate un po' giù di morale.
-; str_npc8_intro_response_1|Merely to pass the time of day, foreigner, if you're not otherwise engaged.
-; str_npc9_intro_response_1|You must have me confused with another person, sir.
-; str_npc10_intro_response_1|Why do you say that, man?
-; str_npc11_intro_response_1|Who are you, and why are you watching me?
-; str_npc12_intro_response_1|So nice to meet you.
-; str_npc13_intro_response_1|To pass the time of day with a fellow traveler, if you permit.
+str_npc8_intro_response_1|Solo per passare un po di tempo, straniero, se non hai altri impegni.
+str_npc9_intro_response_1|Deve avermi confuso con un'altra persona, signore.
+str_npc10_intro_response_1|Perché dite questo, signore?
+str_npc11_intro_response_1|Chi sei, e perché mi stai guardando?
+str_npc12_intro_response_1|Piacere di conoscerti.
+str_npc13_intro_response_1|Vorrei passare la giornata con un viaggiatore come voi, se non avete nulla in contrario...
 str_npc14_intro_response_1|Uhm... Non penso.
-; str_npc15_intro_response_1|I am. What concern is it of yours, may I ask?
-; str_npc16_intro_response_1|Are you tongue-tied?
-; str_npc1_intro_response_2|Yes, I know that he wants you to join me, but I do not need you. Farewell.
+str_npc15_intro_response_1|Sono io. Perchè ti interessa, posso chiedere?
+str_npc16_intro_response_1|Sei muto?
+str_npc1_intro_response_2|Sì, lo so che vuole unirsi a me, ma non ho bisogno di voi. Addio.
 str_npc2_intro_response_2|Ho cose migliori da fare.
-; str_npc3_intro_response_2|Run along now, girl. I have real work to do -- not whatever it is you fear I'll do.
+str_npc3_intro_response_2|Andate via, donna. Ho da fare -- Non farò quello ce temete
 str_npc4_intro_response_2|No.
 str_npc5_intro_response_2|Non ho tempo per questo.
 str_npc6_intro_response_2|Ho cose migliori da fare.
 str_npc7_intro_response_2|D'accordo. Non vi assillerò allora.
 str_npc8_intro_response_2|Nulla da una persona totalmente priva di buona creanza, a quanto vedo. Buon proseguimento.
 str_npc9_intro_response_2|Andatevelo a prendere da solo!
-; str_npc10_intro_response_2|That's arrogant talk, and I'll hear none of it. Good day to you.
-; str_npc11_intro_response_2|Oh, I have no time for this!
+str_npc10_intro_response_2|Questo è un discorso arrogante, non ascolterò altro. Buonagiornata a voi.
+str_npc11_intro_response_2|Oh, non ho tempo per questo!
 str_npc12_intro_response_2|Spiacente, ma ho altro da fare al momento.
 str_npc13_intro_response_2|Niente affatto. Le mie scuse.
 str_npc14_intro_response_2|No, e non posso dire ch'io muoia dalla voglia di fare la vostra conoscenza.
 str_npc15_intro_response_2|Vi sarei grato se vi faceste gli affari vostri, signore.
-; str_npc16_intro_response_2|I'm going. When you learn to talk, let me know.
-; str_npc1_backstory_a|Warlord, I am the youngest son of the man known as the old Roman. As you know, my family is a legend in this area. We preserve the history of our ancestors, who patrolled Hadrian's Wall.
-; str_npc2_backstory_a|A little time, {reg59?madame:sir}. Listen to my story. I am important to you.
-; str_npc3_backstory_a|I... I am sorry, but please understand. My life has been a living hell since I became a maid in the house of the jarl of Kennemer.
-; str_npc4_backstory_a|I am a man of action. If you want a man of words, find a priest.
-; str_npc5_backstory_a|I am Morgant from Bosvenegh. However, I am exiled from my homeland for now...
-; str_npc6_backstory_a|I should be dead, but I still live when others who should be alive are dead. I came to consider the ship that brought me north, The Woden Ric, as a home, with its crew as my family. So when the Vikings attacked, I grabbed my sword and my shield and prepared to defend them to the death.^^The Cantabrians are Christians, but some of us still remember the old gods. One in particular, Erudino, guides us in battle, and I shout his name while attacking with my sword.
+str_npc16_intro_response_2|Io vado. Quando imparai a parlare, fammelo sapere.
+str_npc1_backstory_a|Signore della guerra, io sono il figlio più giovane dell'uomo conosciuto come il vecchio Romano. Come sapete, la mia famiglia è una leggenda da queste parti. Preserviamo la storia dei nostri antenati, che pattugliavano il Vallo di Hadrian.
+str_npc2_backstory_a|Avete un po' di tempo, {reg59?signora:signore}. Ascolti la mia storia. Sono importante per voi.
+str_npc3_backstory_a|Io... Mi dispiace, ma vi prego di capire. La mia vita è stata un inferno da quando sono diventata una cameriera nella casa di jarl di Kennemer.
+str_npc4_backstory_a|Io sono un uomo d'azione. Se desiderate un uomo di parole, trovate un sacerdote.
+str_npc5_backstory_a|Io sono Morgant da Bosvenegh. Tuttavia, sono esiliato dalla mia patria per ora...
+str_npc6_backstory_a|Dovrei essere morto, ma sono ancora vivo quando altri che dovrebbero essere vivi sono morti. Sono venuto a prendere in considerazione la nave che mi ha portato al Nord, La Woden Ric, come una casa, con il suo equipaggio come la mia famiglia. Così quando i Vichinghi attaccarono, ho afferrato la mia spada e il mio scudo e mi preparai per difenderla fino alla morte.^^I Cantabri sono cristiani, ma alcuni di noi ricordano ancora gli antichi dei. Uno in particolare, Erudino, ci guida in battaglia, e io grido il suo nome mentre attacco con la mia spada.
 str_npc7_backstory_a|Parlate delle mie sventure? Potete ben dirlo !
 str_npc8_backstory_a|Parliamo, allora. Vi racconterò la mia storia e voi la vostra.
 str_npc9_backstory_a|Le mie più umili scuse. A volte qui è difficile riconoscere la gente in mezzo al fumo e al buio. Ancora non riesco a credere che debba alloggiare in un luogo come questo.
 str_npc10_backstory_a|È una lunga storia, ma se vi fate una bevuta, sarò lieto di raccontarvela.
-; str_npc11_backstory_a|Calm down, {reg59?my pretty:handsome}. It is wiser to be grateful, but allow me to introduce myself. My name is Solveig Olafsdottir. I'm not just any woman. I'm a skjaldmo.
-; str_npc12_backstory_a|I think it's a good time to introduce myself officially, since it is likely that our paths are attached. I am Asbjorn from Odinsve, and I am a loeknir, a simple doctor who wasted some time in Frankia until I returned to Danmark some months ago.
-; str_npc13_backstory_a|Very well. I do not mind. My name is Helgi, killer of Danes and Slavs.
-; str_npc14_backstory_a|You have not? Then perhaps you have heard of my steed, which cuts across the plains like a beam of moonlight? Or of my sword, a connoisseur of the blood of the highest-born princes of Hibernia?
-; str_npc15_backstory_a|Well, let me tell you. I'm an engineer who specializes in the art of fortification. If you need a wall knocked down, I am your man. If you need a wall built back up, I am your man too -- but that will take a bit longer and cost you a lot more.
-; str_npc16_backstory_a|Excuse me, {reg59?madame:sir}... I am a man of God, a priest of Christ. You are {playername}...
-; str_npc1_backstory_b|I, personally, am a very fine tracker. Actually, I am the best tracker around, as my mission has always been to protect my family when we left the caves. Releasing me to your service, my father has done you a great favor.
-; str_npc2_backstory_b|I am a son of King Horik, but not a legitimate one. The king likes pretty women, and, well, he met my mother among the handmaids of his wife. So that's how I got here, I guess. I was happy during my childhood in Ribe, but soon the king sent me to live with one of his huskarls. The man was tough and violent. He insisted on teaching me how to handle the spear, sword and shield. He didn't let me drink mead or frequent the company of girls. Can you believe someone would inflict such hardship?
-; str_npc3_backstory_b|I used to live in a small village, Doccinga. I was happy. My father, Thonkrik, cared a lot for me since my mother died. But, one day, the jarl of Kennemer stopped in our village, and he saw me. He, damn him, forced my father to send me to his house as a maid for his wife. He promised that he would respect me, but he lied. I don't like to speak of this... Well, since then I had really become a slave. I had to give myself to him and then to his men.
-; str_npc4_backstory_b|What you ought to know is that my name is Donnchadh of Dal Riata and that I am a Scot.
-; str_npc5_backstory_b|For as long as anyone can remember, our family has feuded with another nearby clan. Many men have died in this fight, on both sides, including two of my brothers. The king of Cornubia ordered us to cease, but I know my rights, and my brothers' blood cries out for vengeance. I waylaid and killed an enemy on a mountain path, and I rode out of our hall the same night, without even having the chance to bid farewell to my father. I was later told that the king exiled me and revoked my noble rights. I am now condemned to roam the world, forever banished from my homeland and my kin.
-; str_npc6_backstory_b|I'm not an idiot. I knew that the battle was lost. We were outnumbered, and they were better armed, but I asked Erudino to let me kill as many as possible before my trip to paradise. I hoped my sacrifice would allow the others to flee or cause fear among the Vikings, but these Vikings were hardened men who knew their job well. Half a dozen of them surrounded me and beat me while their companions invaded the Woden Ric and killed whomever stood in their way...
-; str_npc7_backstory_b|It was my bad luck to be ordered by a stupid Pictish warlord to scout the woods during the night. It was my bad luck that the enemy had laid a carefully planned ambush and considerably outnumbered our small war party. It was my bad luck that I was the only one who managed to escape from the bloodshed. It was my bad luck that the war council deemed me a traitor, and I had to flee from my tribe during the night. It is my bad luck to have you to tell all this to right now.
-; str_npc8_backstory_b|Not many people around here will listen to good old Reginhard. I was born in Dorestad, and my life has not exactly been easy, but I was happy until my wife and two children died of an unknown plague two years ago. I had a farm, you know, and I sold it because everything in it reminded me of them. Now I'm a drunk and an idiot and no one wants to be with me ... well, until you came along.
-; str_npc9_backstory_b|I am a Frank, my father's first son, his heir and the bravest warrior in his hall, but when my mother died, my father remarried. His new wife thought that her son should inherit. She could not move against me openly, but the other day I fed a pot of suet that had been left out for me to one of my hounds, and it keeled over. I accused my stepmother, but my father, befuddled by her witchcraft, refused to believe me and ordered me to leave his sight.
-; str_npc10_backstory_b|I am a Saxon warrior. I have fought my whole life against the Welsh, and Angles too. The fate of West Seaxe is to govern Englaland. It is the arrogance and hatred of our neighbors that prevents this land from being unified under a single king. The way I see it, only a Saxon ruler or at least a man that does not accept the arrogance of those peoples can truly bring peace to this land.
-; str_npc11_backstory_b|By your face, I see you do not know what I'm talking about. Well, I must admit that there are not many like me, and here even less than in my own land, Northvegr. So you can understand, a skjaldmo is a virgin who takes the way of weapons. Also poetry, since poetry and war come from the same impulse.
-; str_npc12_backstory_b|On my way back to Odinsve, I landed in Ribe and ended up staying here for a few months, serving the local elites -- and not so elites. I guess my services earned me enough prestige to be summoned as althing in the Assembly held a few days ago.
-; str_npc13_backstory_b|I am the second son of a hersir from the land east of Northvegr. I am a Svia Viking. I traveled west to seek my fortune in Englaland, unlike many of my compatriots who seek their fortunes in the East with the Rus. I am good at leading assaults and training men in the art of war. Unfortunately, the jarl here has no taste for the disciplinary methods needed to turn that rabble of his into soldiers. I told him it was wiser to flog them now than bury them later, but he would not listen. Instead, he told me to take my services elsewhere.
-; str_npc14_backstory_b|I have always been a warrior, not a farmer or anything else; only a warrior. I admit a modest affection for these lands, and for the past several years, I have visited their towns, forts, and villages, making the most of my particular talents.
-; str_npc15_backstory_b|I am also an unfortunate man. I am originally from Konstantinoupolis, far away from here... Maybe you have heard of it. The Varangians call it Mikligard. A few years ago, a group of them kidnapped me and brought me here, to the far north. They made me a slave and sold me to the jarl of Hordaland. I worked for him until a few days ago, when I finally earned enough money to buy my freedom.
-; str_npc16_backstory_b|Sorry... I am an idiot. Let me introduce myself. I am Beda. I joined the Holy Church when I was but a boy and eventually became a priest. I believe that even the toughest warrior has a place for Christ in his heart and that I can better fulfill the mission God gave to me in a shield wall than in a sacristy.
-; str_npc1_backstory_c|For my part, I can only say that I was willing to travel and see the world. You have given me this opportunity. I am glad that, when my father asked my brothers and me who would pay his debt, I volunteered.
+str_npc11_backstory_a|Calmati, {reg59?mia bella:bello}. È più saggio essere grati, ma permettimi di presentarmi. Il mio nome è Solveig Olafsdottir. Io non sono una donna qualsiasi. Io sono un skjaldmo.
+str_npc12_backstory_a|Penso sia un buon momento per presentarmi ufficialmente, poiché probabilmente le nostre strade sono collegate. Io sono Asbjorn da Odinsve, è sono un loeknir, un semplice dottore che sprecato qualche tempo in Francia, fino a quando sono tornato in Danimarca alcuni mesi fa.
+str_npc13_backstory_a|Molto bene. Non mi dispiace. Il mio nome è Helgi, killer dei danesi e degli slavi.
+str_npc14_backstory_a|No? Allora forse avrete sentito parlare del mio destriero, che attraversa le pianure come un raggio di luna...? O della mia spada, conoscitrice del sangue dei più importanti princìpi di Hibernia...?
+str_npc15_backstory_a|Beh, mi permetta di dirle. Sono un ingegnere specializzato nell'arte della fortificazione. Se vi serve abbattere un muro, sono il vostro uomo. Se avete bisogno di un muro da fortificare, posso fare anche questo -- benché richieda più tempo e vi costerà di più.
+str_npc16_backstory_a|Mi scusi, {reg59?signora:signore}... Io sono un uomo di Dio, un sacerdote di Cristo. Lei è {playername}...
+str_npc1_backstory_b|Personalmente, sono un segugio molto abile. In realtà, sono il miglior  inseguitore inseguitore qui intorno, la mia missione è sempre stata quella di proteggere la mia famiglia da quando abbiamo lasciato le grotte. Affidandomi al vostro servizio, mio padre ha vi ha fatto un grande favore.
+str_npc2_backstory_b|Io sono un figlio di re Horik, ma non legittimo. Al re  piacciono le belle donne, e, Beh, ha conosciuto mia madre tra le Ancelle di sua moglie. Ecco come sono arrivato qui, suppongo. Ero felice durante la mia infanzia a Ribe, ma ben presto il re mi ha mandato a vivere con uno dei suoi huscarli. L'uomo era duro e violento. Ha insistito insegnarmi l'uso della lancia, della spada e dello scudo. Non mi lasciava bere idromele o frequentare ragazze. Credi che qualcuno debba affrontare tali difficoltà?
+str_npc3_backstory_b|Ho vissuto in un piccolo villaggio, Doccinga. Sono stata felice. Mio padre, Thonkrik, se è prenso molta cura di me quando è morta mia madre. Ma, un giorno, lo jarl di Kennemer si è fermato nel nostro villaggio, e mi ha vista. Lui, accidenti a lui, ha costretto mio padre a mandarmi a casa sua come cameriera per sua moglie. Aveva promesso che mi avrebbe rispettata, ma ha mentito. Non mi piace parlare di questo... Beh, da allora sono davvero diventata una schiava. Ho dovuto concedermi a lui e ai suoi uomini.
+str_npc4_backstory_b|Quello che devi sapere è che il mio nome è Donnchadh di Dal Riata e che sono uno scozzese.
+str_npc5_backstory_b|A memoria d'uomo, il nostro clan e stato in lotta contro un clan vicino. Molti uomini sono morti in questa lotta, da entrambe le parti, tra cui due dei miei fratelli. Il re di Cornubia ci ha ordinato di cessare gli scontri, ma conosco i miei diritti, e il sangue dei miei fratelli grida vendetta. Ho teso un agguato e ucciso un nemico sul sentiero di montagna, ho cavalcato via dalla nostra sala la stessa notte, senza nemmeno avere la possibilità di dire addio a mio padre. Poi mi è stato riferito che il Re mi ha esiliato e revocato i miei diritti nobili. Sono ora condannato a vagare per il mondo, per sempre bandito dalla mia terra e dalla mia gente.
+str_npc6_backstory_b|Io non sono un idiota. Sapevo che la battaglia era persa. Siamo rimasti in inferiorità numerica ed erano meglio armati di noi, ma ho chiesto a Erudino di farmi uccidere il maggior numero possibile di nemici prima del mio viaggio in paradiso. Speravo che il mio sacrificio avrebbe permesso agli altri di fuggire o che causasse paura tra i Vichinghi, ma questi Vichinghi sono uomini temprati che conoscono bene il loro lavoro. Una mezza dozzina di loro mi hanno circondato e battuto mentre i loro compagni hanno invaso Woden Ric e ucciso chiunque si trovasse sulla loro strada...
+str_npc7_backstory_b|E ' stata mia sfortuna se sono  stato messo di pattuglia nel bosco di notte da uno stupido signore della guerra Pitto. E stata la mia sfortuna se il nemico aveva preparato un agguato attentamente pianificato e numericamente superiore della nostra pattuglia. E stata la mia sfortuna se sono l'unico che è riuscito a sfuggire da quel bagno di sangue. E stata la mia sfortuna se il Consiglio di guerra ha ritenuto che sono un traditore e sono dovuto fuggire dalla mia tribù durante la notte. "È stata la mia sfortuna" è tutto quello che ho da dire per il momento.
+str_npc8_backstory_b|Non molte persone qui intorno ascoltebbero il buon vecchio Reginhard. Sono nato a Dorestad, e la mia vita non è stata esattamente facile, ma ero felice fino a quando mia moglie e i nostri due bambini sono morti di una piaga sconosciuta due anni fa. Avevo una fattoria, sai, l'ho venduta perché tutto li ricordava loro. Ora sono un ubriacone e un idiota e nessuno si avvicina a me ... beh, fino a quando sei arrivato tu.
+str_npc9_backstory_b|Io sono un Franko, primogenito di mio padre, suo erede e il guerriero più coraggioso della sua sala, ma quando mia madre morì, mio padre si risposò. La sua nuova moglie pensava che suo figlio avrebbe dovuto ereditare tutto. Non poteva contrastarmi apertamente contro di me, ma l'altro giorno ho dato da mangiare un vasetto di strutto che era stato lasciato fuori per me ad uno dei miei cani ed è crollato. Ho accusato la mia matrigna, ma mio padre, confuso dalla sua stregoneria, si è rifiutato di credermi e mi ha ordinato di sparire dalla sua vista.
+str_npc10_backstory_b|Io sono un guerriero sassone. Ho combattuto tutta la mia vita contro i Gallesi, e Angli. Il destino di West Seaxe è di governare l'Englaland. È l'arroganza e l'odio dei nostri vicini che impedisce di unificarci sotto l'unico re di questa terra. Dal mio punto di vista, solo un sovrano sassone o almeno un uomo che non accetta l'arroganza di questi popoli può veramente portare pace in questa terra.
+str_npc11_backstory_b|Dalla tua faccia, vedo che non sai di cosa sto parlando. Beh, devo ammettere che non ci sono molti come me, e qui anche meno che nella mia terra, Northvegr. Ti spiego, una skjaldmo è una vergine che prende la via delle armi. Oltre che la poesia, perché la poesia e la guerra provengono dallo stesso impulso.
+str_npc12_backstory_b|Al mio ritorno a Odinsve, sono approdato a Ribe e sono rimasto qui per qualche mese, poichè offre l'élite dei locali..-- non sono l'élite. Credo che i miei servizi mi hanno fatto guadagnare abbastanza prestigio da essere convocato come Althing nell'Assemblea tenuta pochi giorni fa.
+str_npc13_backstory_b|Io sono il secondo figlio di un Hersir della terra a est di Northvegr. Sono Svia il Vichingo. Ho viaggiato ad ovest per cercare la mia fortuna ad Englaland, a differenza dei miei connazionali che cercano la loro fortuna a Oriente con il Rus. Io sono bravo a condurre gli assalti e nella formazione degli uomini nell'arte della guerra. Purtroppo, agli jarl di qui non gli piacciono i miei metodi disciplinari necessari per trasformare quella loro marmaglia in soldati. Gli ho detto che era più saggio frustarli ora che seppellirli più tardi, ma loro non hanno voluto ascoltarmi. Invece, mi ha detto di portare i miei servizi altrove.
+str_npc14_backstory_b|Sono sempre stato un guerriero, non un contadino o qualsiasi altra cosa; solo un guerriero. Ammetto un certo affetto per queste terre, e c'ho passato parecchi anni, ho visitato le loro città, fortezze, e villaggi, rendendo la maggior parte dei miei talenti particolari.
+str_npc15_backstory_b|Sono un uomo sfortunato. Sono originario di Konstantinoupolis, lontano da qui ... Forse ne avete sentito parlare. I Variaghi la chiamano Mikligard. Alcuni anni fa, un gruppo di loro mi ha rapito e mi ha portato qui, nel lontano nord. Mi hanno fatto schiavo e mi hanno venduto allo Jarl di Hordaland. Ho lavorato per lui fino a pochi giorni fa, quando ho finalmente guadagnato abbastanza soldi per comprare la mia libertà.
+str_npc16_backstory_b|Mi dispiace ... Sono un idiota. Mi presento. Sono Beda. Mi sono unito alla Santa Chiesa quando ero un ragazzo e alla fine sono diventato un sacerdote. Credo che anche il guerriero più duro abbia un posto per Cristo nel suo cuore e che io possa svolgere meglio la missione che Dio mi ha dato in mezzo ai soldati che in una sacrestia.
+str_npc1_backstory_c|Dalla mia parte, posso solo dire che desideravo viaggiare e vedere il mondo. Tu mi hai dato questa opportunità. Sono contento che, quando mio padre ha chiesto a me e ai miei fratelli, che avremmo dovuto pagare il suo debito, io mi sono offerto volontario.
 ; str_npc2_backstory_c|Now I serve in the guard of King Horik. I'm not particularly happy, since I'm in the shadow of hardened men who won the job by their efforts, while I was granted my position only by the virtue of being a bastard son of the king.
 ; str_npc3_backstory_c|I so desperately wanted to escape. If only I could start a new, free life... You could take me with you! I could help mend the wounds of your warriors. I could even learn to be a warrior myself, if that's what it takes to be free again. Will you take me with you, {reg59?madame:sir}?
 ; str_npc4_backstory_c|Another important thing is that I do not like Picts. Yes, I know my people are ruled by the kings of Alban, but that does not mean they have become one people. We are Gaels, and not those rats.
@@ -3360,7 +3360,7 @@ str_campaign_ai|IA Campagna:
 ; str_battle_size_text|Limits the maximum number of troops in a battle. If you are experiencing poor performance in battles, try to reduce this.^Also check the Game Video Options for more settings that can improve your performance. You can access those from the main game menu or by pressing ESC when you are in the world map.
 ; str_this_setting_affects_all|This setting affects the player and all game characters.
 ; str_game_concepts_tutorial|^^By now, you have some experience with Viking Conquest. If this is your first game, we recommend making yourself familiar with some of the game concepts. You will be directed to a page that presents them now.^^You can always come back to this page on the campaign map. Simply click the 'Notes' button and from there the 'Game concepts' button.
-; str_wounds|Wounds:
+str_wounds|Ferite:
 ; str_blood_loss|Blood loss:
 ; str_quantity_bandit_parties|Bandit Parties:
 ; str_game_difficulty_warning|Game Difficulty Warning

@@ -232,18 +232,18 @@ mno_aceptar_ok|Questa è una buona notizia. Lascerà meno uomini per difendere l
 menu_infiltracion_resultado5|Oh, signore. Il nemico ha inviato un sacco con le teste dei tuoi uomini. Alcuni dei nostri soldati hanno visto, e la paura dilaga nel campo.
 mno_infiltracion_moral|Vigliacchi! Come possono un paio di teste affondare il morale dell'esercito? Sono Uomini o bestiame?
 ; menu_campos_cercanos1|Sir, crops and farms were burned, but since this is not the harvest season, it wasn't possible to get food.
-; mno_back_behind_d|Well done, do not worry.
+mno_back_behind_d|Ben fatto, non ti preoccupare.
 ; menu_campos_cercanos2|Sir, crops and farms were burned, and as it is the harvest season, we found an abundance of food.
-; mno_back_behind_c|Well done, food is always welcome.
+mno_back_behind_c|Ben fatto, il cibo è sempre benvenuto.
 ; menu_campos_cercanos2_c|Sir, crops and farms were burned. The grain is still green, but edible. We found an abundance of food.
 ; menu_campos_cercanos3|Sir, we burned the fields, but as it is after the harvest time, there was no grain left. However, the farmers have left some of their cattle behind.
-; mno_back_behind_b|Food is always welcome.
+mno_back_behind_b|Il cibo è sempre benvenuto.
 ; menu_campos_cercanos4|We have encountered problems. The fields were burned, but the farmers struck back with support from some members of the garrison.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_back_behind_a|Terrible news!
+mno_back_behind_a|Notizie terribili!
 ; menu_poner_escaleras|Your vanguard advances, bringing ladders, shovels and other useful siege equipment... A display of men armed with ranged weapons goes forth, attracting the enemy's missiles. Your heart races in its bony cage. Somehow, all battles seem to be the first.^The thrill, terror and sweat are there, always. You noticed how your men made a shield formation and advanced over the walls...^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_back_behind_esc1|Your men have met the enemy. It is your time...
+mno_back_behind_esc1|I tuoi uomini hanno incontrato il nemico. E' il tuo momento...
 ; menu_poner_escaleras_mantlets|Your vanguard advances, bringing ladders, mantlets, shovels and other useful siege equipment... A display of men armed with ranged weapons goes forth, guarded by mantlets, attracting the enemy's missiles. Your heart races in its bony cage. Somehow, all battles seem to be the first.^The thrill, terror and sweat are there, always. You noticed how your men made a shield formation and advanced over the walls. Using the mantles saved many lives.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_back_behind_esc2|Your men have met the enemy. It is your time...
+mno_back_behind_esc2|I tuoi uomini hanno incontrato il nemico. E' il tuo momento...
 ; menu_informacion_ciudad|The scout stops in front of you: '{s11}^^{s12} {s1} {s5}^^{s17}
 menu_castle_besiege_inner_battle|{s1}
 ; menu_build_mantles2|The mantlets help protect your men when they have to use assault equipment. They save many lives. As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build mantlets.
@@ -295,7 +295,7 @@ mno_village_manage|Gestisci il villaggio.
 mno_recruit_volunteers|Recluta volontari.
 mno_village_center|Vai al centro del villaggio.
 mno_village_center_door|Porta per il centro del villaggio.
-; mno_meet_leader|Meet the leader.
+mno_meet_leader|Incontra il Capo.
 mno_meet_leader_door|Porta per il centro del villaggio.
 mno_village_buy_food|Compra vettovaglie dai contadini.
 mno_comprar_cattle|Vorrei comprare del bestiame.
@@ -313,7 +313,7 @@ mno_village_steal_cattle|Ruba del bestiame.
 mno_village_loot|Saccheggia il villaggio e successivamente brucialo.
 menu_recruit_volunteers|{s18}
 ; mno_continue_not_enough_gold|I don't have enough money.
-; mno_recruit_them|Recruit them ({reg6} peningas).
+mno_recruit_them|Reclutarli ({reg6} peningas).
 ; menu_village_hunt_down_fugitive_defeated|A heavy blow from the fugitive sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again, you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
 ; menu_village_confront_contact_defeated|A heavy blow from the villager sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again, you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
 ; menu_village_hunt_lover_defeated|A heavy blow from the ghost sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again, you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
@@ -378,23 +378,23 @@ menu_town|{s30}
 ; mno_join_tournament|Join the Competition.
 ; mno_town_castle|Visit the lord's hall.
 ; mno_town_castle_door|To the Meduseld.
-; mno_town_center|Stroll through town.
+mno_town_center|Passeggia attraverso la città.
 ; mno_town_center_door|To the center of town.
-; mno_town_tavern|Visit the mead hall.
+mno_town_tavern|Visita la sala di idromele.
 ; mno_town_tavern_door|To the mead hall.
 mno_town_merchant|Parla con i mercanti.
 ; mno_town_merchant_door|To the merchant.
-; mno_town_arena|Visit the training grounds.
+mno_town_arena|Visitare i campi di allenamento.
 ; mno_town_arena_door|To the training grounds.
 mno_town_dungeon|Mai: Entra nella prigione.
 ; mno_town_dungeon_door|To the prison.
 ; mno_castle_inspect|Tour the grounds.
 mno_castle_inspect_door|Lascia.
-; mno_town_enterprise|Visit your farmstead.
+mno_town_enterprise|Visitare la tua fattoria.
 ; mno_town_enterprise_door|To your enterprise.
-; mno_visit_lady|Attempt to visit a lady.
+mno_visit_lady|Tentare di far visita a una lady.
 ; mno_visit_lady_door|To the garden.
-; mno_trade_with_merchants|Trade with locals.
+mno_trade_with_merchants|Commercia con i locali.
 ; mno_travel|Travel to another port.
 ; mno_travel_door|Outfit your party.
 mno_walled_center_manage|Amministra {reg0?questa città:questo castello}.
@@ -402,11 +402,11 @@ mno_walled_center_move_court|Sposta qui la tua corte.
 mno_castle_station_troops|Disponi una guarnigione qui {s10}
 ; mno_castle_wait|Wait here for some time {s5}.
 ; mno_castle_wait_door|Bed.
-; mno_town_alley|Ask for potential recruits.
-; mno_town_visit_port|See the ships.
+mno_town_alley|Chiedi di potenziali reclute.
+mno_town_visit_port|Vedi le navi.
 ; mno_banquete_mead|My men deserve a symbel in {reg0?town:castle}. Buy mead and food.
 ; mno_banquete_mead_door|Set sail.
-; mno_set_sail|Sail from port.
+mno_set_sail|Salpare dal porto.
 ; mno_set_sail_door|Set sail.
 mno_town_leave|Parti...
 mno_town_leave_door|Lascia quest'area.
@@ -486,7 +486,7 @@ mno_back|Indietro.
 ; mno_buy_a_ship|Buy or sell a ship.
 ; mno_reset_town_ships|CHEAT: Give towns new ships.
 ; mno_spawn_enemy_ship|CHEAT: Spawn Dena pirates next to town.
-; mno_sail_from_port|Sail from port.
+mno_sail_from_port|Salpare dal porto.
 ; mno_go_to_town|Go to town.
 ; menu_camp_on_sea|You stop your ships in the sea. What do you want to do?^^{s1}
 ; mno_epic_sea_battle|B. Epic sea battle!
@@ -814,7 +814,7 @@ menu_lugar_destruido|{s4}.
 ; mno_hirelair_staff|Hire staff.
 ; mno_lair_inspect|Take a walk around your refuge.
 ; mno_lair_inspect_door|Go to the square.
-; mno_mylair_station_troops|Manage the garrison.
+mno_mylair_station_troops|Amministra la guarnigione.
 ; mno_demoler_lair|Demolish your personal refuge.
 mno_lair_wait|Aspetta qui per un po' di tempo.
 ; mno_embark|Embark.
