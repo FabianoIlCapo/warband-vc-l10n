@@ -837,10 +837,10 @@ qstr_{s1}_Rebels|{s1} Ribelli
 qstr_Given_by:_{s62}|Assegnata da: {s62}
 qstr_Given_on:_{s60}|Assegnata il: {s60}
 qstr_You_have_{reg0}_days|Hai {reg0} giorni per finire la missione.
-; qstr_This_quest_has_been_|This quest has been concluded. Give {s59} the news.
-; qstr_This_quest_has_been_c|This quest has been concluded.
-; qstr_This_quest_has_been_s|This quest has been successfully completed. Talk to {s59}.
-; qstr_This_quest_has_been_su|This quest has been successfully completed.
+qstr_This_quest_has_been_|Questa missione è stata conclusa. Da a {s59} le notizie.
+qstr_This_quest_has_been_c|Questa missione è stata conclusa.
+qstr_This_quest_has_been_s|Questa missione è stata completata con successo. Parla con {s59}.
+qstr_This_quest_has_been_su|La missione è stata completata con successo.
 qstr_This_quest_has_faile|La missione è fallita. Parla a {s59} per spiegargli la situazione.
 ; qstr_This_quest_has_failed|This quest has failed.
 qstr_At_the_time_quest_wa|Quando la missione è stata data:^{s1}
