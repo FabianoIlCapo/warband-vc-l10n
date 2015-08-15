@@ -782,7 +782,7 @@ trp_knight_9_2|Mael Cadell map Rhodri
 trp_knight_9_2_pl|Cadell map Rhodri
 trp_knight_9_3|Mael Merfyn map Rhodri
 trp_knight_9_3_pl|Merfyn map Rhodri
-trp_knight_9_4|Ri Gwgon map Meurig 
+; trp_knight_9_4|Ri Gwgon map Meurig
 trp_knight_9_4_pl|Gwgon map Meurig
 trp_knight_9_5|Guledic Gwriad map Merfyn
 trp_knight_9_5_pl|Gwriad map Merfyn
@@ -896,7 +896,7 @@ trp_knight_19_5|Conall mac Echach
 trp_knight_19_5_pl|Conall mac Echach
 trp_knight_20_1|Mael Domnall dasachtach mac Causantin
 trp_knight_20_1_pl|Domnall dasachtach mac Causantin
-trp_knight_20_2|Ard Tiarna Aed mac Cinaeda
+; trp_knight_20_2|Ard Tiarna Aed mac Cinaeda
 trp_knight_20_2_pl|Aed mac Cinaeda
 trp_knight_20_3|Tiarna Causantin mac Aeda
 trp_knight_20_3_pl|Causantin mac Aeda
@@ -942,7 +942,7 @@ trp_kingdom_2_lady_1|Gyda Eirikdottir
 trp_kingdom_2_lady_1_pl|Gyda
 trp_kingdom_2_lady_2|Yngvild
 trp_kingdom_2_lady_2_pl|Yngvild
-trp_kingdom_2_lady_3|Thorunn Ketilsdottir 
+; trp_kingdom_2_lady_3|Thorunn Ketilsdottir
 trp_kingdom_2_lady_3_pl|Thorunn
 trp_kingdom_2_lady_4|Hallbera
 trp_kingdom_2_lady_4_pl|Hallbera
@@ -956,8 +956,8 @@ trp_kingdom_3_lady_4|Asgerd
 trp_kingdom_3_lady_4_pl|Asgerd
 trp_kingdom_4_lady_1|Helga
 trp_kingdom_4_lady_1_pl|Helga
-trp_kingdom_4_lady_2|Hakon
-trp_kingdom_4_lady_2_pl|Hakon
+; trp_kingdom_4_lady_2|Asfrid
+; trp_kingdom_4_lady_2_pl|Asfrid
 trp_kingdom_4_lady_3|Ingibjorg
 trp_kingdom_4_lady_3_pl|Ingibjorg
 trp_kingdom_4_lady_4|Sacun
@@ -1871,12 +1871,11 @@ trp_orm_robagranjas_pl|Orm Svarti
 trp_pagano|Godi Olafr
 trp_pagano_pl|Sacerdote
 trp_pseudo_troop_01|pt01
-trp_pseudo_troop_01_pl|4,2777,1,82,99,777,7,849,2,1640,7,3,0,0,0,0,0,0,0,0,0,0,0,0 /
+trp_pseudo_troop_01_pl|
 trp_pseudo_troop_02|pt02
 trp_pseudo_troop_02_pl|
-Date:3,3,100,0,0,2,0,0,0,34
 trp_pseudo_troop_03|pt03
-trp_pseudo_troop_03_pl|;Date:3,/21,6/193,0/194,3/240,3/447,0/190,6/31,14/48,2/44,12/45,2/207,4/119,13/41,11/107,3/35,2/30,10/47,3/23,3/81,6/150,4/43,9/67,11/42,6/33,0/180,2/46,3/37,2/22,3/36,6/Others,50;/Templates:/6,73,98,25/7,6,6,0/8,13,16,3/9,13,14,1/10,11,12,1/11,16,16,0/12,16,16,0/13,8,8,0/14,10,12,2/15,8,8,0/16,3,3,0/17,3,3,0/18,19,25,6;/
+trp_pseudo_troop_03_pl|
 trp_pseudo_troop_04|pt04
 trp_pseudo_troop_04_pl|pt
 trp_pseudo_troop_05|pt05

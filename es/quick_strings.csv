@@ -177,6 +177,7 @@ qstr_Fastest|Muy rápido
 ; qstr_Wounded_troops_take_|Wounded troops take damage from blood loss.^^{s8}
 ; qstr_From_now_on_spawn_33|From now on, spawn 33% less or 50% more bandits, raiders, etc.
 ; qstr_Sets_the_player_as_c|Sets the player as commander of the chosen division. This division will set up immediately left and behind the player on Hold and Follow commands (Wedge will put player on the point). Consider it for bodyguard divisions.
+; qstr_Equipment_may_get_da|Equipment may get damaged in battles depending on its stats and the weapon maintenance skill of the party. Weaponsmiths and Armorers offer to repair and refine your Equipment.^^{s8}
 ; qstr_{s3}^^{s4}|{s3}^^{s4}
 qstr_Default|Por defecto
 qstr_Randomize|Al azar
@@ -807,8 +808,8 @@ qstr_Your_relation_with_{s|Vuestra relación con {s1} se ha deteriorado.
 ; qstr_The_{s15}_complies_w|The {s15} complies with its alliance with the {s17} by attacking the {s16}.
 ; qstr_The_{s1}_and_the_{s2|The {s1} and the {s2} have made peace with each other.
 qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?estaba:está actualmente} en {s3}.
-qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?estaba:está} viajando hacia {s3} y {reg3?estaba:debería estar} cerca de {s4}.
-qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?estaba:está} por los campos y {reg3?estaba:debería estar} cerca de {s3}.
+; qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?was:is} travelling to {s3}, and {reg4?she:he} {reg3?was:should be} close to {s4}{reg3?: at the moment}.
+; qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?was:is} in the field, and {reg4?she:he} {reg3?was:should be} close to {s3}{reg3?: at the moment}.
 qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?se encontraba:se encuentra} en cautividad en {s3}.
 qstr_{s2}_{reg3?was:has_b|{s2} {reg3?estaba:ha sido} {reg4?capturada:capturado} por sus enemigos.
 ; qstr_I_don_t_know_where_{|I don't know where {s2} {reg3?was:is}.
@@ -1028,13 +1029,16 @@ qstr_You_lose_right_to_ru|Perdéis en derecho a gobernar.
 ; qstr_Scars:^^none|Scars:^^none
 ; qstr_Scars:^^{s1}These_in|Scars:^^{s1}These injuries have become permanent. They now can't be cured.
 ; qstr_Lifetime_wounds:_{re|Lifetime wounds: {reg1} so far.
-; qstr_Current_Party_size_l|Current Party size limit: {reg0}.^^Modifiers are:^^Base size: {s5}{reg31}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Renown: {s4}{reg34}^Fiefs: {s6}{reg35}^Ships (only in sea): {s7}{reg2}^TOTAL:  {reg0}
+; qstr_Current_party_size_l|Current party size limit: {reg0}.^^Renown: {reg34}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Fiefs: {s6}{reg35}^Ships (only in sea): {s7}{reg2}^^{playername} can completely manage {reg36} troops.^{reg59?She:He} currently has {reg37}.
 qstr_^No_food:___{reg7}|^Sin comida:  -{reg7}
 ; qstr_^Wage_debt:___{reg7}|^Wage debt:  -{reg7}
-; qstr_{s11}_{s12}|{s11} {s12},
-; qstr_These_Christian_troo|These Christian troops could cause some morale troubles: {s11}
-; qstr_These_pagan_troops_c|These pagan troops could cause some morale troubles: {s11}
-; qstr_Current_party_morale|Current party morale: {reg5}.^^Modifiers are:^^Base morale:  +{reg8}^Party size penalty: {s2}{reg1}^Lack of rest: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^Recent events: {s7}{reg4}^{s13}^^{s19}^^TOTAL:  {reg5}^^^
+; qstr_Currently_falling_fr|Currently falling from: +
+; qstr_Currently_rising_fro|Currently rising from: 
+; qstr_{s11}{s10}{s12}|{s11}{s10}{s12}
+; qstr_^^These_Christian_tr|^^These Christian troops could cause some morale troubles: {s11}
+; qstr_^^These_pagan_troops|^^These pagan troops could cause some morale troubles: {s11}
+; qstr_^^Player_currently_h|^^Player currently has more troops than can be completely managed.
+; qstr_Current_party_morale|Current party morale: {reg5}.^^Base morale:  +{reg8}^Party size penalty: {s2}{reg1}^Lack of rest: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^{s7}{reg4}{s8}{s13}^^{s19}
 ; qstr_{s18}^^_____________|{s18}^^----------------^^{s20}
 ; qstr_{s17}_^_{s18}|{s17} ^ {s18}
 ; qstr_{s15}_^_{s16}|{s15} ^ {s16}
@@ -1111,10 +1115,15 @@ qstr_{s5}_has_been_defeat|¡{s5} ha sido derrotado!
 ; qstr_This_lord_is_a_priso|This lord is a prisoner of {s10}
 ; qstr_Christian_Lord|Christian Lord
 ; qstr_Pagan_Lord|Pagan Lord
-; qstr_{s40}._His_love_inte|{s40}. His love interest is {s39}.
-; qstr_{s40}._He_is_betroth|{s40}. He is betrothed to {s39}.
+; qstr_{s37}__his_betrothed|{s37} (his betrothed)
+; qstr_{s40}._His_love_inte|{s40}. His love interests are reported to be {s37}.
+; qstr_His_love_interests_a|His love interests are reported to be {s37}.
+; qstr_{s40}._His_love_inter|{s40}. His love interest is reported to be {s37}.
+; qstr_His_love_interest_is|His love interest is reported to be {s37}.
 ; qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^Kingdom: {s3}^Relation: {reg4}^Centers: {reg5}^{s5}^{s47}
 ; qstr_Army_size:_{reg26}|Army size: {reg26}
+; qstr_{s40}._His_love_intere|{s40}. His love interest is {s39}.
+; qstr_{s40}._He_is_betroth|{s40}. He is betrothed to {s39}.
 ; qstr_{s1}^^{s2}_of_the_{s|{s1}^^{s2} of the {s3}^Relation {reg3}^Last visit {reg4} days ago
 ; qstr_{reg2}_warriors_acco|{reg2} warriors accompany the king.
 ; qstr_{s2}^^{reg2}_warrior|{s2}^^{reg2} warriors serve various lords of the kingdom.
@@ -1267,7 +1276,7 @@ qstr_you|vos
 ; qstr_They_weren_t_good_ti|They weren't good times. In Anno Domini 861, my master, Bishop Swithunus, died. Before he died, he told me that the end of time was coming.^^In 865, a pagan army attacked Cent. Men from Cent managed to placate them, but under the pretence of peace and the lure of money, the invaders pillaged the country nevertheless.^^Later that year, in East Anglia, a large pagan army made winter quarters. The following summer, King Eadmund, eager to see them off, quickly horsed them. This was no raiding party; it became known as the Great Heathen Army. Thousands of men, led by the sons of Ragnar, had come to stay.^^In 867, the end of time started, as Swithunus had predicted. The Great Heathen Army of Danes went over the mouth of the river Humbre to Eoferwic. They captured the town, and there was an immense slaughter of the Northumbrians. Both kings, Osbert and Aella, were slain. So now the Danish rule the north, imposing their laws and pagan ways... Where is God when you need him?^^In the south, the Friese coast was being devastated by Vikings. Merchant ships fled north, seeking the protection of West Seaxe.^^In Ireland and Wales, the pagans were becoming more powerful each day. Many said that the Dal Riata and land of the Picts would soon be no more...
 ; qstr_BEDA_CHRONICLE^^{s2}^|BEDA CHRONICLE^^{s2}^^{s3}
 ; qstr_The_news_coming_from|The news coming from the north was disturbing. Ragnar's sons were calling men to advance on Mercia. It was still a great army; nonetheless, reinforcements from Danmark were expected. God protect us.
-; qstr_Some_merchants_repor|Some merchants report that Sigurd 'Snake in the Eye' is bringing warriors on hundreds of boats. I overheard some of the king's advisers in Witan Ceaster saying that the Danish want to destroy all the kingdoms of Englaland.^^The only good news I heard was when a messenger informed us that some Danish sent by Jarl Sigurd, Ragnar's son in Danmark, to attack Friese were defeated in Doccinga.^^That was the first time I heard the name of {playername}, who had led the defense of Doccinga.^^Little did I know then that he was going to be an important figure in my life.
+; qstr_Some_merchants_repor|Some merchants report that Sigurd 'Snake in the Eye,' Ragnar's son in Danmark, is bringing warriors on hundreds of boats. I overheard some of the king's advisers in Witan Ceaster saying that the Danish want to destroy all the kingdoms of Englaland.^^The only good news I heard was when a messenger informed us that some Danish sent by Jarl Sigurd to attack Friese were defeated in Doccinga.^^That was the first time I heard the name of {playername}, who had led the defense of Doccinga.^^Little did I know then that {reg59?she:he} was going to be an important figure in my life.
 ; qstr_There_was_a_man_call|There was a man called Egbert, or I should say a king, Egbert Cyning, for he was king of Northhymbre. But he was a puppet king, chosen by the Vikings because he was a weak man whom they could handle. Was this the fate that awaited us also?
 ; qstr_In_Anno_Domini_868_t|In Anno Domini 868, the Vikings took Snotingaham. There was fear, much fear, but West Seaxe and Mierce joined forces. Aelfred of West Seaxe, the king's brother, was married to Ealswith, daughter of Aethelred Mucel, ealdorman of the Gaini, and of Eadburh, from the royal line of the king of the Mercians.^^The two realms called the fyrd to war. West Seaxe advanced on Snotingaham from the south, and Mierce joined them on the way. Maybe they could finally put an end to the advance of the sons of Ragnar?^^My life was about to change, but I did not know that.
 ; qstr_I_still_dream_of_Dou|I still dream of Douar-an-Enez when I close my eyes. No man of God should allow such dreams -- it was as if the devil had escaped from prison and taken over the world.
@@ -1367,7 +1376,7 @@ qstr_Inventory|Inventario
 ; qstr_Camera_follow_terrain|Camera follow terrain mode OFF.
 ; qstr_Camera_rotate_before|Camera rotate before pan ON.
 ; qstr_Camera_rotate_before_|Camera rotate before pan OFF.
-; qstr_{s12}^^A_Battle_Comm|{s12}^^A Battle Command Display is often available by pressing the {s1} key.
+; qstr_{s0}^^A_Battle_Comma|{s0}^^A Battle Command Display is often available by pressing the {s1} key.
 ; qstr_Strategy_Camera|Strategy Camera
 ; qstr_Tactical_Controls|Tactical Controls
 ; qstr_Death_Camera|Death Camera
@@ -1422,7 +1431,7 @@ qstr_Tutorial|Tutorial
 ; qstr_The_stranger_shouts_|The stranger shouts, 'Heill! My name is Olvir, known as White Hair. So you're the one seeking my brother, Sven, known as Bull Neck. Well, I do not care. I have come solely on behalf of Sigurd Ragnarsson, to exchange your mother for the man called Bodo.'
 ; qstr_The_stranger_shouts__|The stranger shouts, 'Heill! My name is Olvir, known as White Hair. So you're the one seeking my brother, Sven, known as Bull Neck. Well, I do not care. I have come solely on behalf of Sigurd Ragnarsson, to give you your mother.'
 ; qstr_Egil_yells__Heill_Ol|Egil yells, 'Heill Olvir White Hair! I have heard of you and your agreements with Loki. Let my friend join {reg59?her:his} mother before continuing this conversation.'
-; qstr_Olvir_shouts:__Sure_|Olvir shouts: 'Sure, Egil, king's bastard, I have heard of you, too, and I see that you have become the mouth of {playername}, the traitor of Kennemer. He is free to talk to our prisoner. I will send her to you.'
+; qstr_Olvir_shouts:__Sure_|Olvir shouts: 'Sure, Egil, king's bastard, I have heard of you, too, and I see that you have become the mouth of {playername}, the traitor of Kennemer. {reg59?She:He} is free to talk to our prisoner. I will send her to you.'
 ; qstr_Mission:_Speak_to_yo|Mission: Speak to your mother.
 ; qstr_Suddenly_Olvir_shout|Suddenly Olvir shouts: 'Men. Shield wall. Now! By Ragnar! By Sigurd! By Odin! Death to our enemies!
 ; qstr_The_old_hero_is_too_|The old hero is too much for you. You fall in a puddle of blood, and your vision slowly fades away...
@@ -1450,10 +1459,13 @@ qstr_Tutorial|Tutorial
 ; qstr_Bodo_has_received_ma|Bodo has received many blows and is semiconscious.
 ; qstr_Bandits_strike_at_yo|Bandits strike at you furiously, and you fall in a puddle of blood. They think you're dead...
 ; qstr_The_bandits_and_slav|The bandits and slavers have been dealt with. Get the prisoners and leave through the air shaft.^^When you want to leave, press TAB.
+; qstr_You_can_t_leave_the_|You can't leave the cave while there still enemies!
 ; qstr_You_have_just_killed|You have just killed the bandit king's main bodyguards. Rummaging through their things, you find some treasures. You still need to defeat the other bandits before you can collect your reward.
 ; qstr_You_have_killed_the_c|You have killed the captain, an ugly guy, big and crooked and smelling like a rat. Picking through the remains, you find a few useful things. You still need to defeat the other bandits before you can collect your reward.
 ; qstr_Rising_victorious_ov|Rising victorious over the body of the bandit king, your steel stained with blood, you put an end to a long reign of terror and banditry with all its horrors. Among the remains of the once proud bandit king are:
-; qstr_The_body_of_Atli_Eir|The body of Atli Eiriksson, former second man of Sigurd Ragnarsson, lies at your feet. You rummage through his clothes and find a bloodstained parchment with a broken seal. It is the letter of Bodo.
+; qstr_The_body_of_Atli_Eir|The body of Atli Eiriksson, former second man of Sigurd Ragnarsson, lies at your feet. You rummage through his clothes and find a bloodstained parchment with a broken seal. It is the letter of Bodo.^ Finish with the remaining enemies in the cave before reading.
+; qstr_The_danish_and_Atli_|The danish and Atli have been dealt with. Talk to Bodo and leave through the air shaft
+; qstr_Explore_the_cave_and|Explore the cave and kill all the enemies.
 ; qstr_As_you_advance_you_f|As you advance, you find there is a light inside. It seems this place is not as deserted as you thought.
 ; qstr_You_feel_the_tension|You feel the tension with every step that you take.
 ; qstr_The_mouth_of_a_rock_|The mouth of a rock opens before you. All around is cold stone, and you behold graven marks in a language you do not know. What surprises and treasures are hidden here?
@@ -1470,10 +1482,10 @@ qstr_Tutorial|Tutorial
 ; qstr_King_Horik_yells__Si|King Horik yells, 'Sigurd, we don't prevent the embarking of these men. In fact, we are unhappy that they have not already left.'
 ; qstr_Sven_Bull_Neck_shout|Sven Bull Neck shouts, 'These men will embark when they have a proper leader. Guthrum was not to be their leader. Their leader was to be my brother, Olvir White Hair, but was killed. It's time to take this issue for consideration at the Assembly.'
 ; qstr_Mission:_The_Thing_h|Mission: The Thing has begun. Approach King Horik.
-; qstr_Harald_orders_arrive|Harald orders arrive with the wind: 'We cannot hold them. They are too many. Does everyone flee from here! Meet at Jorvik. Flee!'
+; qstr_Harald_s_orders_arri|Harald's orders arrive on the wind: 'We cannot hold them. They are too many. Everyone flee! Meet at Jorvik. Flee!'
 ; qstr_Try_to_flee!_|Try to flee!'
 ; qstr_A_stranger_shouts__Q|A stranger shouts, 'Quick. Back to camp. You're in danger!'
-; qstr_On_attacker_yells__W|On attacker yells, 'Who are you, woman? Anyway, you're too late! {playername}, the jarl of Kennemer wants your head. You were a fool to walk away from your camp. Now you're going to die! Greet Hell for me!'
+; qstr_One_attacker_yells__|One attacker yells, 'Who are you, woman? Anyway, you're too late! {playername}, the jarl of Kennemer wants your head. You were a fool to walk away from your camp. Now you're going to die! Greet Hell for me!'
 ; qstr_Not_far_in_the_dista|Not far in the distance are Snotingaham's walls. Exit the forest and walk towards them.
 ; qstr_You_run_into_the_for|You run into the forest and manage to flee.
 ; qstr_Your_mission_is_to_f|Your mission is to follow the road to Snotingaham on the other side of the forest, avoiding the Mercians patrols.^^If you feel lost at some point, press the K key to remember these goals.
@@ -1516,7 +1528,7 @@ qstr_Tutorial|Tutorial
 ; qstr_Horns_sound_in_the_d|Horns sound in the distance, and it seems that the fog dissipates a bit. Someone is coming to your aid. Morrigan and her animals turn from their attack.
 ; qstr_Breaking_before_your|Breaking before your ferocious attack, your enemies retreat to the cave. There are not many, but they fight hard and leave no casualties.
 ; qstr_Explore_the_area_and|Explore the area and meet Morrigan.
-; qstr_Fire_consumes_the_ha|Fire consumes the hall, and smoke enters your body with every breath you take. You must find an exit or you will die soon. Hurry up!'
+; qstr_Fire_consumes_the_ha|Fire consumes the hall, and smoke enters your body with every breath you take. You must find an exit or you will die soon. Hurry up! Find a weak spot in the burned walls!'
 ; qstr_You_take_5_damage_fr|You take 5 damage from smoke.
 ; qstr_You_find_a_small_hol|You find a small hole in one wall and open it using your hands and weapons, looking to escape the hell of fire that consumes the room.
 ; qstr_Chaos_and_war!_The_f|Chaos and war! The feast converts into a slaughterhouse as Fergus, Mael Bresail's man, leads his warriors to kill yours. You are not yet safe; even now, death hovers near. If you somehow survive, Mael Bresail will have much to answer for!
@@ -1526,18 +1538,19 @@ qstr_Tutorial|Tutorial
 ; qstr_Ambush!_There_were_m|Ambush! There were men hiding in the houses!
 ; qstr_You_can_t_sleep._You|You can't sleep. You can hear the constant crunch of the boat hull, smell sea brine, and feel the breeze caressing your face, but your eyes are closed and refuse to open. And your mind keeps dreaming, remembering other times, a past life that feels far away and that you remember less every day, even though not many months have passed since your departure.^^Now, the future is uncertain. Your journey has brought you to the Frisian Sea hoping to find news about an old sorcerer who takes care of all ills, because your mother is sick. For her you left everything behind, a world you knew like the back of your hand, and paid for passage on a north boat, a paunchy merchantman. It's slow and clumsy, but its captain has promised to take you to the remote part of Friese where the sorcerer lives.^^Your mother travels with you; nobody else has joined you. Her illness progresses, and there are days when she no longer recognizes you, but she appears to be completely sound at other times. Every morning you wake up not knowing which day it will be: will you be able to converse with her or will you have to tie her to a post so she does not fall overboard?^^You need to wake up, though your eyes oppose you and your mind boils with fever...^^One more effort. Your eyelids obey...
 ; qstr_You_can_t_have_more_|You can't have more than two active troop quarters.
-; qstr_The_night_falls_whil|The night falls while the ship, The Woden Ric, crosses the ocean. There is a good wind and The Woden Ric enjoys good sailing away from the site of the battle where it stopped in the morning. The Frisian coast is near by the time you fall asleep.^The ship sails during the night while the shift rotates at the rudder. If all goes well, landfall will occur the next day, and you'll be a little closer to your destination.^If all goes well... if only your nights were not filled with nightmares of ships consumed by fire and drowned men floating on bloody water. You are trapped in this way, costing you escape even to the world of dreams, when a hand shakes you, and a voice calls loudly near your ear.^You open your eyes and see the taciturn face of the captain illuminated by the light of dawn.  You see his lips moving frantically and gradually begin to understand his words...^^
+; qstr_The_night_falls_whil|The night falls while the ship, the Woden Ric, crosses the ocean. There is a good wind and the Woden Ric enjoys good sailing away from the site of the battle where it stopped in the morning. The Frisian coast is near by the time you fall asleep.^The ship sails during the night while the shift rotates at the rudder. If all goes well, landfall will occur the next day, and you'll be a little closer to your destination.^If all goes well... if only your nights were not filled with nightmares of ships consumed by fire and drowned men floating on bloody water. You are trapped in this way, costing you escape even to the world of dreams, when a hand shakes you, and a voice calls loudly near your ear.^You open your eyes and see the taciturn face of the captain illuminated by the light of dawn.  You see his lips moving frantically and gradually begin to understand his words...^^
 qstr_Back_to_the_beginnin|Volver al comienzo...
 qstr_View_next_segment...|Ver segmento siguiente...
-; qstr_These_Christian_troop|These Christian troops could cause some problems with party morale: {s11}
-; qstr_These_pagan_troops_co|These pagan troops could cause some problems with party morale: {s11}
+; qstr_{s11}_{s12}|{s11} {s12},
+; qstr_These_Christian_troo|These Christian troops could cause some problems with party morale: {s11}
+; qstr_These_pagan_troops_c|These pagan troops could cause some problems with party morale: {s11}
 ; qstr_Current_party_morale_|Current party morale is {reg5}.^Current party morale modifiers are:^^Base morale:  +{reg6}^Party size penalty: {s2}{reg1}^Lack of rest: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^Recent events: {s7}{reg4}^{s13}^^TOTAL:  {reg5}^^^
 qstr_Selected_faction_is:|La facción seleccionada es: {s10}^^{s9}
 qstr_You_are_currently_re|Actualmente estáis leyendo {s8}.
 qstr_You_are_not_reading_|No estáis leyendo ningún libro.
 qstr_{s5}_and_{s6}|{s5} y {s6}
 qstr_Your_estates_are:_{s|Vuestras propiedades son: {s8}.^{s9}
-; qstr_Current_party_size_l|Current party size limit is {reg0}.^Current party size modifiers are:^^Base size: {s5}{reg31}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Renown: {s4}{reg34}^TOTAL:  {reg0}
+; qstr_Current_party_size_li|Current party size limit is {reg0}.^Current party size modifiers are:^^Base size: {s5}{reg31}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Renown: {s4}{reg34}^TOTAL:  {reg0}
 ; qstr_Your_relation_with_th|Your relation with the kingdoms are:^{s2}
 ; qstr_You_don_t_have_the_m|You don't have the money to pay your men to fortify the camp. They do the job, but angrily.
 ; qstr_After_you_buy_the_ma|After you buy the materials, your men build a permanent shelter for you.
@@ -1560,7 +1573,8 @@ qstr_You_flip_through_the|Pasáis las páginas de {s2}, pero el texto os parece 
 qstr_Villagers|Aldeanas
 ; qstr_Refuge_Troops|Refuge Troops
 ; qstr_Garrison_Troops|Garrison Troops
-; qstr_Ambush!_{s1}_has_man|Ambush! {s1} has maneuvered to gain a good position, and you fell into an ambush.^^ Being ambushed puts you into a poor and disorganized defensive position, and your men will have morale problems and reduced ability to cause damage to your enemies.^^
+; qstr_Camp_Troops|Camp Troops
+; qstr_Ambush!_The_enemy_ha|Ambush! The enemy has maneuvered to gain a good position, and you fell into an ambush.^^Being ambushed puts you in a poor and disorganized defensive position, and your men will have morale problems and reduced ability to cause damage to your enemies.^^
 ; qstr_You_have_encountered|You have encountered {s1}.^^The warlord encourages his men with a rousing speech. Your enemies have very high morale.^^
 ; qstr_You_have_encountered_|You have encountered {s1}.^^The warlord gathers his men to pray and invoke the protection of their god. Your enemies have high morale.^^
 ; qstr_You_have_encountered_{|You have encountered {s1}.^^Before we were prepared, we were surprised by enemy missile troops. They caused some casualties.^^
@@ -1688,7 +1702,8 @@ qstr_Try_as_you_might_you|Por más que lo intentasteis, no pudisteis vencer a lo
 qstr_castle|El castillo
 qstr_The_{s17}_has_no_imp|{s17} no tiene mejoras.
 ; qstr_The_{s17}_has_the_fo|The {s17} has the following improvements: {s18}.
-; qstr___Will_lose_{reg33}_| (Will lose {reg33} relations)
+; qstr___Christian_riots_co| (Christian riots could cause: {reg33} relations drop)
+; qstr___Pagan_riots_could_| (Pagan riots could cause: {reg33} relations drop)
 ; qstr_Your_enemies_beat_yo|Your enemies beat you down and leave you for dead.
 ; qstr_You_have_fallen._You|You have fallen. Your enemies quickly search your body for every coin they can find, then vanish into the night. They have left you alive, if only barely.
 ; qstr_Luckily_some_of_your|Luckily, some of your companions come to search for you when you do not return and find you lying by the side of the road. They hurry you to safety and dress your wounds.
@@ -1698,8 +1713,6 @@ qstr_The_{s17}_has_no_imp|{s17} no tiene mejoras.
 ; qstr_Your_efforts_to_conv|Your efforts to convert people have failed miserably.
 qstr_You_fail_to_steal_an|Sois incapaz de robar el ganado.
 ; qstr_You_drive_away_{reg1|You drive away {reg17} head of cattle from the village's herd.
-; qstr_Villager_size_is_{re|Villager size is {reg0}
-; qstr_total_size_is_{reg44|total size is {reg44}
 ; qstr_People_aren_t_very_h|People aren't very happy with your presence in their home.
 ; qstr_^This_town_is_a_bast|^This town is a bastion of your faith.
 ; qstr__As_you_reach_the_sett| As you reach the settlement, you are greeted by your men.^{s15}
@@ -2124,8 +2137,8 @@ qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?se ha:se han} escapado de vuestro gr
 ; qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits at night.
 qstr_{s1}_has_won_the_tou|{s1} ha ganado el torneo en {s2}.
 qstr_You_pay_for_accommod|Pagáis por el alojamiento.
-; qstr_Congratulations!_It_|Congratulations! It seems while you were busy, away from your home, your wife has  taken a lover,  a man known as {s33}. Well-wishers were on hand to inform you of your new-grown horns.
-; qstr_Adultery_discovered|Adultery discovered
+; qstr_You_have_been_inform|You have been informed that, while you were busy, away from your home, your wife took a lover, a man known as {s33}. You discover that the rumors had already been flying.
+; qstr_Adultery_Discovered|Adultery Discovered
 qstr__Your_tactics_skill_| Vuestra habilidad de tácticas ha aumentado 1 punto.
 qstr__Your_persuasion_ski| Vuestra habilidad de persuadir ha aumentado 1 punto.
 qstr__Your_leadership_ski| Vuestra habilidad de liderar ha aumentado 1 punto.
@@ -2147,9 +2160,11 @@ qstr_{s1}_is_scouted.|Habéis localizado {s1}.
 ; qstr_The_scriptorium_in_{|The scriptorium in {s1} adds to your renown.
 ; qstr_Due_to_the_good_word|Due to the good word Christian clergymen spread about you, your relationship with the {s1} improves.
 ; qstr_Due_to_the_bad_word_|Due to the bad word Christian clergymen spread about you, your relationship with the {s1} declines.
+; qstr_{s1}_has_become_host|{s1} has become hostile to you due to your mistreatment of Christian subjects.
+; qstr_Faction_became_hosti|Faction became hostile
 ; qstr_Due_to_the_good_word_|Due to the good word influential pagans spread about you, your relationship with the {s1} improves.
 ; qstr_Due_to_the_bad_word_i|Due to the bad word influential pagans spread about you, your relationship with the {s1} declines.
-; qstr_{s13}_has_too_many_t|{s13} has too many troops garrisoned in and maybe picked by marshal to levy soldiers.
+; qstr_{s13}_has_too_many_t|{s13} has too many troops garrisoned in and may be picked by marshal to levy soldiers.
 ; qstr_most|most
 ; qstr_half|half
 ; qstr_some|some
@@ -2196,8 +2211,13 @@ qstr_{s1}_is_scouted.|Habéis localizado {s1}.
 ; qstr_Skirt_Chaser_Achieve|Skirt Chaser Achievement
 ; qstr_Congratulations!_You_v|Congratulations! You've managed to tuck away 25 or more barrels of wine in your household storage, a great feat considering you are in the part of the world more known for mead and ale. Either you have a drinking problem, or you are a true wine connoisseur.
 ; qstr_Wine_Connoisseur_Ach|Wine Connoisseur Achievement
+; qstr_{s33}_revokes_your_r|{s33} revokes your right to recruit in {s34} due to bad relations between you two.
+; qstr_Recruitment_Right_Re|Recruitment Right Revoked
+; qstr_The_village_leader_o|The village leader of {s34} revokes your right to recruit due to bad relations between you and his village.
 ; qstr_fixing_banners;_plea|fixing banners; please reset your banner
 ; qstr_unable_to_restore_ba|unable to restore banner {reg0} assigned to troop {reg1}
+; qstr_Updating_econ_info|Updating econ info
+; qstr_Setup_complete|Setup complete
 ; qstr_Prisoners_revolted!_|Prisoners revolted! near {s33}
 ; qstr_Your_gift_sent_to_{s|Your gift sent to {s13} appeared to improve your relations with him.
 ; qstr_Gift_Sent_to_Lord|Gift Sent to Lord
@@ -2241,7 +2261,6 @@ qstr_{reg65?Madame:Sir}|{reg65?Señora:Señor}
 ; qstr_The_port_master_of_{|The port master of {s4} wants you to deliver a pack of furs to {s3} in Eriu, to the local merchant, called Hogni.
 ; qstr_The_port_master_from_|The port master from {s4} gave you the location of Odin's cave: near {s3}. Go there to recover Bodo's letter.
 ; qstr_The_port_master_from_R|The port master from Ribe gave you the location of Odin's cave: near {s3}. Go there to recover Bodo's letter.
-; qstr_original_money_is_{r|original money is {reg7}, new money is {reg8}, difference is {reg9}
 ; qstr_Embark_on_your_boat_|Embark on your boat, join the fleet, and lead it to Douar-an-Enez.
 ; qstr_Perhaps_there_is_a_l|Perhaps there is a little time left until the end of the world. (Phlegmatic)
 ; qstr_You_re_right!_The_co|You're right! The coming of the Vikings shows that it's truly the End! (Melancholic)
@@ -2313,10 +2332,10 @@ qstr_we_are_on_the_verge_|estamos a punto de alcanzar la victoria. Los enemigos 
 ; qstr_Reginhard_thinks_tha|Reginhard thinks that you are a weak leader.
 ; qstr_Bodo_thinks_that_you|Bodo thinks that you are a weak leader.
 ; qstr_Brunhild_has_advised|Brunhild has advised that you go first to an enemy of {s9}, {s11}, for support before you place yourself in the hands of the son of Ragnar.
-; qstr_I_m_not_sure_I_want_|I'm not sure I want to hear what you'll say. (Phlegmatic)
-; qstr_You_re_worrying_me_B|You're worrying me, Bodo. What do you have to say? Out with it already! (Melancholic)
-; qstr_I_m_very_calm..._Tru|I'm very calm... Trust me - you wouldn't like to see me nervous, Bodo. I have little patience. Speak, or I'll beat you up. (Choleric)
-; qstr_Whatever_you_have_to|Whatever you have to say, say it. I have prepared myself for this moment long time ago. (Sanguine)
+; qstr_I_m_not_sure_I_want_|I'm not sure I want to hear what you are going to say. (Phlegmatic)
+; qstr_You_are_worrying_me_|You are worrying me, Bodo. What do you have to say? Out with it already! (Melancholic)
+; qstr_I_m_very_calm..._Tru|I'm very calm... Trust me, you wouldn't like to see me nervous. I have little patience. Speak, or I'll beat you up. (Choleric)
+; qstr_Whatever_you_have_to|Whatever you have to say, say it. I prepared myself for this moment a long time ago. (Sanguine)
 ; qstr_I_understand_my_frie|I understand, my friend, but you must know... everything.
 ; qstr_Stay_calm_please._I_|Stay calm, please. I'll tell you everything.
 ; qstr_No_need_to_be_aggres|No need to be aggressive. You know my loyalty to my friends is unquestionable. Now, open your ears.
@@ -2543,10 +2562,10 @@ qstr_{s14}|{s14}
 ; qstr_I_say_nothing_bastar|I say nothing, bastard!
 ; qstr___He_twists_his_mout|--He twists his mouth and looks at you with contempt.--
 ; qstr_Sigurd__Snake_in_the_|Sigurd 'Snake in the Eye' is Sven Bull Neck's jarl, and Sven is my hersir. Both of them are powerful men, great warriors, so stay away from them, or they will send you straight to hell.
-; qstr_Sven_Bull_Neck_hersi|Sven Bull Neck, hersir, and {s11} 'Snake in the Eye,' jarl, are famous warriors in Danmark. You'll have to be careful if you intend to fight them.
+; qstr_Sven_Bull_Neck_and_{|Sven Bull Neck and {s11}, 'Snake in the Eye,' are famous warriors in Danmark. You'll have to be careful if you intend to fight them.
 ; qstr_Scum!|Scum!
 ; qstr___He_tilts_his_head_|--He tilts his head and stares, pondering the answer.--
-; qstr_You_wish_to_know_abo|You wish to know about the great Ragnar Lodbrok, from Ynglingeaetten Clan, the descendant of Odin, eh? Well, he was a jarl feared by all Christians. He attacked Englaland and Frankia many times, and he is famous for his huge expeditions. He knew how to unite and lead men.
+; qstr_You_wish_to_know_abo|You wish to know about the great Ragnar Lodbrok, from the Ynglingeaetten clan, descendants of Odin, eh? Well, he was a jarl feared by all Christians. He attacked Englaland and Frankia many times, and he is famous for his huge expeditions. He knew how to unite and lead men.
 ; qstr___He_looks_directly_|--He looks directly at you with emphatic blue eyes.--
 ; qstr_Ragnar_was_more_than|Ragnar was more than a man, and his sons, too -- he had many sons with his many wives, especially Lathgertha and Aslaug. Ivar the Boneless, Bjorn Ironside, Halfdan, Sigurd 'Snake in the Eye,' Ubbe, and others... He had more than ten sons and many daughters.^If you are so clever, you will avoid confronting them. You should even ask Sigurd's forgiveness for killing his men in Doccinga.
 ; qstr___He_spits_to_the_si|--He spits to the side before continuing.--
@@ -2764,7 +2783,7 @@ qstr_{s14}|{s14}
 ; qstr_I_did_not_know_your_|I did not know your plans. Doccinga asked me for help, and so I went. (Phlegmatic)
 ; qstr_Calm_down_and_tell_me|Calm down and tell me what the problem is. We are civilized people. (Melancholic)
 ; qstr_There_is_only_one_tr|There is only one traitor, and that's you. Damned dog! It will cost you dearly. (Choleric)
-; qstr_These_Vikings_were_f|These Vikings were few and weak. You were a fool you help you take the throne. (Sanguine)
+; qstr_These_Vikings_were_f|These Vikings were few and weak. You were a fool to think they would help you. (Sanguine)
 ; qstr_Note_3:_You_chose_no|Note 3: You chose not to become an open enemy of {s9} for his betrayal and alliance with {s11}, Sven Bull Neck's patron.
 ; qstr_Note_3:_You_chose_to_b|Note 3: You chose to become an enemy of {s9} for his betrayal and alliance with {s11}, Sven Bull Neck's patron. You know he will send assassins for your head.
 ; qstr_Note_3:_You_chose_not|Note 3: You chose not to openly become the enemy of {s9} for his betrayal and alliance with {s11}, Sven Bull Neck's patron.
@@ -2809,16 +2828,17 @@ qstr_{s14}|{s14}
 ; qstr_Note_1:_You_gave_the|Note 1: You gave the letter to Ragnar's sons. {s9} thanked you, and now you're helping him.
 ; qstr___He_rests_a_hand_on|--He rests a hand on your shoulder.--
 ; qstr___He_laughs_loudly._|--He laughs loudly.--
-; qstr_{s9}_wants_you_find_|{s9} wants you find and speak with {s3} of the {s4} to give him your oath of homage.
+; qstr_{s9}_wants_you_find_|{s9} wants you find and speak with {s3} of the {s4} to give him your oath of homage. Then, he wants you to return for an assignment.
 ; qstr_As_he_rejoins_his_br|As he rejoins his brothers to decide what to do about the letter of Bodo, {s11} has asked you to go to the Kingdom of Alban, conquer {s3} and keep it twenty days to weaken the Picts and secure the rear of the Danish in Northhymbre.
 ; qstr___He_takes_a_deep_bre|--He takes a deep breath.--
 ; qstr___He_smiles_pleased.|--He smiles, pleased.--
 ; qstr_The_time_to_meet_with_|The time to meet with the troops from the Kingdom of Asturias has arrived. Bodo's letter indicates that they will dock at {s3}, and {s11} wants you go there and meet with them. There is a traitor. Use him to gain favor with the Asturian troops and bring them to the side of the sons of Ragnar. But if you fail to convince them, {s11} wants them destroyed.^^But before you leave Englaland, you must go to {s3} and talk to the old captain at the port, as {s11} has gathered men and ships to help you in Douar-an-Enez.
+; qstr_The_king_wants_no_le|The king wants no letters. You have been sent to speak to his brother, {s11}.
 ; qstr___He_takes_the_letter_|--He takes the letter from your hands, and you see his fingers are stained with ink. Aelfred reads the letter slowly, absorbing with interest all that it contains. After reading it, without saying anything, Aelfred calls Bodo and takes him aside a few meters, where they talk a long time. --
 ; qstr_Note_1:_You_gave_the_|Note 1: You gave the letter to West Seaxe. {s9} thanked you, and now you're helping him.
 ; qstr___For_a_moment_he_sh|--For a moment, he shows surprise.--
 ; qstr___He_studies_you_slo|--He studies you slowly, like examining a horse.--
-; qstr_{s9}_wants_you_to_fi|{s9} wants you to find and speak with {s3} of the {s4}, to give him your oath of homage.
+; qstr_{s9}_wants_you_to_fi|{s9} wants you to find and speak with {s3} of the {s4}, to give him your oath of homage. Then, he wants you to return for an assignment.
 ; qstr_{s11}_has_asked_you_|{s11} has asked you to go to the land of the Welsh. You are to conquer {s3} and keep it twenty days.
 ; qstr_The_time_to_meet_with_t|The time to meet with the troops from the Kingdom of Asturias has arrived. Bodo's letter indicates that they will dock at {s3}, and {s11} wants you go there and meet with them. There is a traitor. You have to expose him and destroy him diplomatically, without breaking relations with the Asturians.^^{s11} has gathered men and ships to help you in Douar-an-Enez. You must go to {s3} and talk to the old captain at the port.
 ; qstr___He_snaps_his_finge|--He snaps his fingers.--
@@ -2938,8 +2958,8 @@ qstr_Persuasion_Attempt|Intento de persuasión
 ; qstr_You_get_a_beautiful_|You get a beautiful Long Axe.
 ; qstr_You_get_a_great_long|You get a great long bow.
 ; qstr_You_get_an_expensive|You get an expensive mail.
-; qstr_You_get_an_expensive_|You get an expensive helmet.
-; qstr_You_get_an_expensive_m|You get an expensive mail shirt.
+; qstr_You_get_an_expensive_|You get an expensive mail shirt.
+; qstr_You_get_an_expensive_h|You get an expensive helmet.
 qstr_A_villager_from_{s7}|Un aldeano de {s7} os ha rogado que salvéis a su aldea de los bandidos que se han refugiado allí.
 ; qstr_Hey_what_do_you_want|Hey, what do you want? We're drinking.
 ; qstr_Are_you_looking_for_|Are you looking for men who are willing to risk their skin for glory and wealth?
@@ -3155,12 +3175,12 @@ qstr_There_s_a_toll_for_p|Para pasar por aquí tenéis que pagar un peaje, así 
 qstr_That_was_a_mistake._|Habéis cometido un error. Ahora tendré que daros una muerte lenta y dolorosa.
 qstr_Brave_words._Let_s_s|Valientes palabras. ¡A ver cómo las demostráis con hechos, {perro/perra}!
 ; qstr_Your_God_is_for_wimp|Your God is for wimps and weaklings! Across the rainbow bridge to Walhalla Odin's waiting for me!
-; qstr_I_ve_always_felt_Chr|I've always felt Christianity was to my liking, especially the forgiving part. Yes, {playername}, I'm a true Christian now. As soon as I am able to move around freely, I will pay a visit to one of the monasteries and will pray hard for my sins to be forgiven. Now, let me go, so I can fulfill the will of the mighty Christian God!
 ; qstr_I_ve_been_pondering_|I've been pondering the Christian religion for a while now. Perhaps it's time for me to experience fully what it means to be a true Christian. However, I can hardly be baptized while wearing chains!
+; qstr_I_ve_always_felt_Chr|I've always felt Christianity was to my liking, especially the forgiving part. Yes, {playername}, I'm a true Christian now. As soon as I am able to move around freely, I will pay a visit to one of the monasteries and will pray hard for my sins to be forgiven. Now, let me go, so I can fulfill the will of the mighty Christian God!
 ; qstr_I_see_no_reason_even|I see no reason even to discuss things like that with someone like you!
 ; qstr_Your_Odin_knows_noth|Your Odin knows nothing more but how to force people to kill themselves. I will remain a Christian!
-; qstr_You_know_{playername|You know, {playername}, I only recently converted to Christianity, and still remember our old gods, Odin, Thor and Freya. Christianity does nothing but make men wimps and weaklings, I am definitely better than that. As of this moment, I'm no longer Christian!
 ; qstr_I_ve_been_pondering_t|I've been pondering this Christian religion for a while now. It's definitely not to my liking! Too much time is spent bending your knees instead of swinging an axe. As of this moment, I renounce Christianity and return to the true gods of Odin, Thor and Freya!
+; qstr_You_know_{playername|You know, {playername}, I only recently converted to Christianity, and still remember our old gods, Odin, Thor and Freya. Christianity does nothing but make men wimps and weaklings, I am definitely better than that. As of this moment, I'm no longer Christian!
 ; qstr_I_see_no_reason_to_e|I see no reason to even discuss things like that with someone like you!
 ; qstr_Plain|Plain
 ; qstr_Please_note_that_thi|Please note that this refinement makes the weapon cause more damage but also makes it slower.

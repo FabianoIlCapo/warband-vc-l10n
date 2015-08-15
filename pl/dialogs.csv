@@ -95,7 +95,7 @@ dlga_port_chief_travel_4:close_window|{s1}
 ; dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_3|I will consider this and may come back later.
 ; dlga_port_chief_build_ship_missing_3:port_chief2|Take your time, but trust me. My ships are worth every pening.
 ; dlga_port_chief_build_ship_main_6:port_chief2|Very well! Come back in {reg12} days.
-; dlga_port_chief3:close_window|I see. Farewell.
+; dlga_port_chief3:close_window|Nothing, for now. Farewell.
 ; dlga_port_chief_fleet1:port_chief_fleet2|{s2}^^Heill, {playername}. I see you have made a name for yourself in this land. It makes me happy to think that my business with you has helped in this. That should deserve a line or two in any saga about you! The fleet of Sven and Harald is across the bay. It numbers fifty boats, many of them war ships, totalling over 800 men. Have you finished your affairs in Danmark? Are you ready to leave? I warrant you won't be back soon!
 ; dlga_port_chief_fleet2:the_fleetmt1|Yes, let's get started. Let's board my men.
 ; dlga_the_fleetmt1:close_window|Well, good luck Vinr. Although you can see many boats here, most of the fleet is anchored over in the bay, outside the city. Join them as soon as you feel ready!
@@ -138,7 +138,7 @@ dlga_port_chief_travel_4:close_window|{s1}
 ; dlga_port_chief_bodoletter9:port_chief_bodoletter5|Well, but remember, no more discounts. Well, Atli Eiriksson is in Northvegr. At least, that's what one of his men told a whore here. Apparently, Atli carries something important that needs to be hidden...for now. He has gone to hide in a cave on the north coast of Northvegr, near Hordaland. Far thu vel.
 ; dlga_port_chief_pieles:port_chief_bodoletter5|I like doing business with you. Well, Atli Eiriksson is in Northvegr. At least, that's what one of his men told a whore here. Apparently, Atli carries something important that needs to be hidden...for now. He has gone to hide in a cave on the north coast of Northvegr, near Hordaland. Far thu vel.
 ; dlga_start:port_prisoners|Who are you?
-; dlga_port_prisoners:port_prisoners_2|Are you looking for a slave trader? {s9} wouldn't prosper without my slaves, so if you have any prisoners of war I'd be willing to buy them.
+; dlga_port_prisoners:port_prisoners_2|Are you looking for a slave trader? {s9} wouldn't prosper without my slaves, so if you have any prisoners of war, I'd be willing to buy them.
 ; dlga_port_prisoners_2:port_prisoners_3|I've brought some prisoners.
 dlga_port_prisoners_2:close_window|Żegnaj.
 ; dlga_port_prisoners_3:port_prisoners_4|Nice to hear. Let's go.
@@ -405,7 +405,7 @@ dlga_egil_conversationcamp3:close_window|{s4}
 ; dlga_bedavsagathinos_conv9:bedavsagathinos_conv9_2|Ha! That was good!
 ; dlga_bedavsagathinos_conv9_2:close_window|Why do I even bother? I'm surrounded by lust.
 ; dlga_bedavsagathinos_conv10:close_window|I asked you because I thought you were a brave man and not a coward who evades a straight answer. Farewell.
-; dlga_start:ragnarssons_1|I have sent a notice of your arrival to the sons of Ragnar. You are bold to go with all these Mercians. Who sent you?
+; dlga_start:ragnarssons_1|I have sent a notice of your arrival to the sons of Ragnar. You are bold to come through all these Mercians. Who sent you?
 ; dlga_start:alfredthegreat1|Emissary of the Danish, I present you to Aelfred of West Seaxe, son of Aethelwulf, Aetheling, Ealdorman, God loved, and brother of and designated successor to the great Athelred, king of West Seaxe and Brytenwalda. Bow to someone who is above you.
 ; dlga_start:close_window.16|Sorry, this is not a good time to talk. The leaders are up in the center of the village.
 ; dlga_start:close_window.17|I am keeping watch.
@@ -562,7 +562,7 @@ dlga_ramun_sell_prisoners:ramun_sell_prisoners_2|Spójrzmy co oferujesz...
 ; dlga_ramun_talk:ramun_leave|I'd better be going.
 ; dlga_ramun_leave:close_window|Remember, any prisoners you've got, bring them to me. I'll pay you good silver for every one.
 ; dlga_start:nurse_talk|I humbly request that your lordship keep his hands where I can see them.
-; dlga_nurse_talk:close_window|No problem. I have no pockets anyways.
+; dlga_nurse_talk:close_window|No problem.
 ; dlga_nurse_talk:nurse_talk1|Can you tell me what it takes to convince your lady to marry me?
 ; dlga_nurse_talk1:nurse_talk2|I would gladly tell your lordship, if he finds 25 peningas in his pock..., purse.
 ; dlga_nurse_talk2:close_window|Don't think I want to pay you.
@@ -898,7 +898,7 @@ dlga_start:companion_recruit_intro_responsebodos|{s5}
 dlga_start:companion_recruit_intro_responseregin|{s5}
 dlga_start:companion_recruit_intro_responsebrunhilds|{s5}
 dlga_start:companion_recruit_intro_response|{s5}
-; dlga_companion_recruit_intro_responsebodos:companion_recruit_backstory_a|Tell me what's happened since the Woden Ric was attacked by Sven Bull Neck. Is my mother still alive?
+; dlga_companion_recruit_intro_responsebodos:companion_recruit_backstory_a|Tell me what's happened since the Woden Ric was attacked by Sven Bull Neck.
 ; dlga_companion_recruit_intro_responsebrunhilds:companion_recruit_backstory_a|Calm down. Your father, Thonkrik, has sent me to find you.
 dlga_companion_recruit_intro_responseregin:companion_recruit_backstory_a|{s6}
 ; dlga_companion_recruit_intro_response:companion_recruit_egil1|Keep your distance and tell me what you want.
@@ -920,7 +920,7 @@ dlga_companion_recruit_backstory_c:companion_recruit_backstory_response|{s5}
 ; dlga_companion_recruit_backstory_responsesolveig:companion_questions_solveig3|Thanks, but no help was needed with these men.
 ; dlga_companion_questions_solveig1:companion_recruit_backstory_response|{s2}^^Neither do I! I'm Solveig, and I have chosen to serve you and protect you while you remain worthy.
 ; dlga_companion_questions_solveig2:companion_recruit_backstory_response|{s2}^^They were but fools. They had been following you for days and have had a hundred better opportunities. However, any chosen time would have been a failure, because I was ready to rescue you.
-; dlga_companion_questions_solveig3:companion_recruit_backstory_response|{s2}^^Yes, I'm sure of it. Do not worry, I will not tell anyone that I had to rescue you when you were with your pants down.
+; dlga_companion_questions_solveig3:companion_recruit_backstory_response|{s2}^^Do not worry. I will not tell anyone that I had to rescue you when you were with your pants down.
 ; dlga_companion_recruit_backstory_responseagathinos:companion_questions_aghatinos1|Are you not afraid of bandits on the roads, traveling alone as you are?
 ; dlga_companion_recruit_backstory_responseagathinos:companion_questions_aghatinos2|I would never have expected to see a Greek in Northvegr.
 ; dlga_companion_questions_aghatinos1:companion_recruit_backstory_response|{s2}^^Well, I was not alone, and now I'm with you, and I'm sure the bandits will run away when they see you.
@@ -966,7 +966,7 @@ dlga_companion_questions_beda3:companion_questions_beda4|{s4}
 ; dlga_bodo_carta1:bodo_carta2|{s2}^^Damn! These Vikings have broken the seal. Fortunately, the letter of King Aldefonso was encrypted. I hope that the Vikings were not able to solve the mystery.
 ; dlga_bodo_carta1:bodo_carta21|{s2}^^When you gave me to Sigurd 'Snake in the Eye,' I thought it was my end. I would die disgraced for having brought death to the Woden Ric and for not being able to fulfill the mission of my king. Fortunately for me, the letter of King Aldefonso was encrypted, so I'm still alive. The Vikings were not able to solve the mystery and brought me here to torture and tell them the code before the Assembly. The Vikings are not imaginative with torture, but they are brutal. I think if you had not come, I would not have endured much longer alive.
 ; dlga_bodo_carta21:bodo_carta31|I'm sorry for having given you to Sigurd, my friend. I'm glad to have you back.
-; dlga_bodo_carta21:bodo_carta32|I thought Sigurd would kill you, I see you're tougher than I thought.
+; dlga_bodo_carta21:bodo_carta32|I thought Sigurd would kill you. I see you're tougher than I thought.
 ; dlga_bodo_carta2:bodo_carta33|--You try to read the letter.--
 ; dlga_bodo_carta2:bodo_carta34|--You don't know how to read, so you cannot understand it. Give the letter to Bodo.--
 ; dlga_bodo_carta2:bodo_carta35|Tell me about this letter, Bodo. Why is it so important?
@@ -976,14 +976,14 @@ dlga_companion_questions_beda3:companion_questions_beda4|{s4}
 ; dlga_bodo_carta4:bodo_carta34|--You don't know how to read, so you cannot understand it. Give the letter to Bodo.--
 ; dlga_bodo_carta4:bodo_carta35|Tell me about this letter, Bodo. Why is it so important?
 ; dlga_bodo_carta33:bodo_carta34|--The text is Latin, and it talks about Noah and his ark, with many comments by a monk, but nothing that would appear relevant.--
-; dlga_bodo_carta35:bodo_carta34|This letter is important and can change everything, but I need your help to finish my mission. It's time to know their secrets...
+; dlga_bodo_carta35:bodo_carta34|This letter is important and can change everything, but I need your help to finish my mission. It's time to reveal its secrets...
 ; dlga_bodo_carta34:bodo_carta5|The trick is to read the first word after each period in the first three lines of each paragraph and read the last words before the period in the following.
 ; dlga_bodo_carta5:bodo_carta6|{s2}^^Aldefonso became king very recently, after inheriting the throne of his father. He explains at the beginning of this letter that he respects the North and continues the covenants of his father. He sends a messenger to West Seaxe -- me -- and another to Frankia. The North Sea, he says, should be made safe and the Vikings eradicated. West Seaxe is the best place from which to do this, given its proximity to Danmark.
 ; dlga_bodo_carta6:bodo_carta61|Why would the Kingdom of Asturias be worried about the Vikings?
 ; dlga_bodo_carta6:bodo_carta8|Get to the point, Bodo.
-; dlga_bodo_carta61:bodo_carta7|{s2}^^My king, Aldefonso, is particularly concerned about the Danish, who are the ones who led the raids on his kingdom in the past. There were two particularly worrying attacks, which King Aldefonso does not want repeated. The first was about twenty four years ago, during the reign of King Ranimiro, Aldefonso's grandfather, when the Vikings were seen near to Asturias coast -- more than 120 ships and 3000 men. Ranimiro quickly gathered his men in Cantabria and Asturias and sent messages to come to Gallaecia, where the Vikings landed to cause damage. Ranimiro was a warrior king. When the Vikings arrived, he was firmly entrenched in a stronghold, so he was able to defeat them in battle and burned 70 ships.
-; dlga_bodo_carta7:bodo_carta8|All the same, another big Viking expedition came in the time of King Ordonio, the father of the current king, ten years ago with almost 100 ships and led by Bjorn Ironside and Haesten, Ragnar's sons. They disembarked in Gallaecia, near the tomb of Santiago, and caused much damage before they were expelled. After this King Ordonio began contacting other kingdoms in the North that had been attacked by Vikings, too, especially Frankia and West Seaxe. This letter is the finale to years of diplomatic efforts.
-; dlga_bodo_carta8:bodo_carta9|The letter says that according to what was promised by his father, Aldefonso agrees to send 20 ships and 600 men to West Seaxe. The men are all veterans of the Muslim wars, fully equipped with chain mail, sword, spear and shield. These men joining West Seaxe, with contributions from Frankia, will cleanse the sea of Vikings. The letter details the route and the ports these men will use on their journey to West Seaxe and asks the very noble king, Aethelred of the Seaxna, to prepare accommodation and food for them. Do you see the importance of this letter, and why Sigurd Ragnarsson, or any Viking leader, for that matter, would want to intercept it?
+; dlga_bodo_carta61:bodo_carta7|{s2}^^My king, Aldefonso, is particularly concerned about the Danish, who are the ones who led the raids on his kingdom in the past. There were two particularly worrying attacks, which King Aldefonso does not want repeated. The first was about twenty-four years ago, during the reign of King Ranimiro, Aldefonso's grandfather, when the Vikings were seen near to Asturias coast with more than 120 ships and 3000 men. Ranimiro quickly gathered his men in Cantabria and Asturias and sent messages to come to Gallaecia, where the Vikings landed to cause damage. Ranimiro was a warrior king. When the Vikings arrived, he was firmly entrenched in a stronghold, so he was able to defeat them in battle and burn 70 ships.
+; dlga_bodo_carta7:bodo_carta8|All the same, another big Viking expedition came ten years ago, in the time of King Ordonio, the father of the current king. The fleet of almost 100 ships was led by Bjorn Ironside and Haesten, Ragnar's sons. They disembarked in Gallaecia, near the tomb of Santiago, and caused much damage before they were expelled. After this King Ordonio began contacting other kingdoms in the North that had been attacked by Vikings, too, especially Frankia and West Seaxe. This letter is the finale to years of diplomatic efforts.
+; dlga_bodo_carta8:bodo_carta9|The letter says that according to what was promised by his father, Aldefonso agrees to send 20 ships and 600 men to West Seaxe. The men are all veterans of the Muslim wars, fully equipped with chain mail, sword, spear and shield. These men, joining West Seaxe with contributions from Frankia, will cleanse the sea of Vikings. The letter details the route and the ports these men will use on their journey to West Seaxe and asks the very noble king, Aethelred of the Seaxna, to prepare accommodation and food for them. Do you see the importance of this letter, and why Sigurd Ragnarsson, or any Viking leader, for that matter, would want to intercept it?
 ; dlga_bodo_carta9:bodo_carta91|This alliance may harm the interests of the Danish and their way of life.
 ; dlga_bodo_carta9:bodo_carta92|Six hundred veteran men would allow West Seaxe to conquer other kingdoms.
 ; dlga_bodo_carta9:bodo_carta91.1|I'd rather you tell me.
@@ -1001,7 +1001,7 @@ dlga_companion_questions_beda3:companion_questions_beda4|{s4}
 ; dlga_bodo_carta13:bodo_carta14|Well, we will tell King Horik that the letter was destroyed during the fight with Atli Eiriksson. Then he does not have to worry about Sigurd 'Snake in the Eye' using it in the Assembly. This will ensure his support for your cause.
 ; dlga_bodo_carta14:close_window|Let's not waste any more time but get out of this cave.
 ; dlga_brunhild_avisa:companion_brunhild_conv|Sigurd 'Snake in the Eye' was in the mead hall of the jarl of Kennemer on more than one occasion. He is not just any man, my {reg59?lady:lord}! You know that the jarl of Kennemer is a hard man, but he trembled before Sigurd. Sigurd doesn't say a lot, he never smiles, and his snake eyes burrow into you as if he were trying to read your thoughts. I was but a slave, but I heard things. People say that he is the most dangerous of the sons of Ragnar, a man who would kill you just for coughing nearby or for being in his way on the wrong day.
-; dlga_companion_brunhild_conv:companion_brunhild_conv3|The beautiful Brunhild is right, {playername}. From what I know, Sigurd Ragnarsson is a kind of man that anyone should stay away from. Unfortunately, he is in our way...
+; dlga_companion_brunhild_conv:companion_brunhild_conv3|The beautiful Brunhild is right, {playername}. From what I know, Sigurd Ragnarsson is the kind of man that one should avoid. Unfortunately, he blocks our way...
 ; dlga_companion_brunhild_conv3:companion_brunhild_conv4|I don't believe it is so bad. You can't trust the jarl of Kennemer, since he is an accomplished actor who uses every possible tool to try to manipulate others. If he saw an advantage in passing as timid before Sigurd, he would've done that. I would be very careful with him, as he's a man who smiles when you face him, and stabs you with a dagger when you turn. With Sigurd, at least, you always know where he is coming from.
 ; dlga_companion_brunhild_conv4:companion_brunhild_conv5|Reginhard is talking without knowing him. I've heard things and seen things. Maybe Reginhard was too busy drinking or betraying someone. Sigurd is spiteful, never forgiving -- and never forgetting...
 ; dlga_companion_brunhild_conv5:companion_brunhild_conv6|You have the gall, woman, to call me a drunk and traitor to my face! You know nothing about me! Watch your words, or you will have to watch your back.
@@ -1014,15 +1014,15 @@ dlga_companion_questions_beda3:companion_questions_beda4|{s4}
 ; dlga_companion_brunhild_conv73:companion_brunhild_conv74|We are at crossroads. Sigurd 'Snake in the Eye' has what we need, and your mother's life is in danger. In my opinion, we should go and talk to him, even if it costs us our lives. We have no choice...
 ; dlga_companion_brunhild_conv74:companion_brunhild_conv75|Maybe there is another way. There is a powerful man who hates Sigurd: King Horik Gottfredsson of Danmark, Sigurd's king.
 ; dlga_companion_brunhild_conv75:companion_brunhild_conv76|Why does his king hate him, Brunhild?
-; dlga_companion_brunhild_conv75:companion_brunhild_conv8|Imagine your proposal: if you talk to King Horik, what will you say?
+; dlga_companion_brunhild_conv75:companion_brunhild_conv8|Imagine what you propose. If you were to speak to King Horik, what would you say?
 ; dlga_companion_brunhild_conv76:companion_brunhild_conv8|Well, I know only what I've heard. They are enemies. Maybe Sigurd wants to be king himself.
-; dlga_companion_brunhild_conv8:companion_brunhild_conv9|Sigurd would be stupid, then. King Horik could banish him, make him an outcast, and strip him of his lands by denouncing him in the Assembly, The Thing, of the slightest infraction.
+; dlga_companion_brunhild_conv8:companion_brunhild_conv9|Sigurd would be stupid, then. King Horik could banish him, make him an outcast, and strip him of his lands by denouncing him for the slightest infraction at the Thing.
 ; dlga_companion_brunhild_conv9:companion_brunhild_conv10|My knowledge is limited, but perhaps Sigurd is as powerful as the king himself. Or maybe King Horik doesn't want more wars in Danmark, after getting his throne after a long war with the other jarls.
 ; dlga_companion_brunhild_conv10:companion_brunhild_conv111|Reginhard, what is this 'thing' you speak of?
 ; dlga_companion_brunhild_conv10:companion_brunhild_conv112|Speak with Sigurd or tell King Horik? We have a difficult decision to make.
 ; dlga_companion_brunhild_conv111:companion_brunhild_conv112|The Thing or the Assembly is a meeting of free men where disputes are solved and political decisions are made.
 ; dlga_companion_brunhild_conv112:companion_brunhild_conv12|I think we should get the protection and support of King Horik. This will give us an advantage when talking to Sigurd and will force him to respect our lives. If King Horik helps us, you can legally claim your mother back.
-; dlga_companion_brunhild_conv12:companion_brunhild_conv13|Do not go straight to Sigurd 'Snake in the Eye' now. It may cause the death of your mother, and perhaps you will lose track of Sven Bull Neck forever. What is more, there is no guarantee that King Horik will support us.
+; dlga_companion_brunhild_conv12:companion_brunhild_conv13|Do not go straight to Sigurd 'Snake in the Eye' now. It may cause the death of your mother, and perhaps you will lose track of Sven Bull Neck forever. Why not see whether King Horik will support us?
 ; dlga_companion_brunhild_conv13:companion_brunhild_conv14|If I had to choose between going straight to Sigurd and getting myself killed or going to Horik and getting your mother killed, I wouldn't know what to say. You got me out of the hole where I was, so I'm fine with your choice whatever it is.
 ; dlga_companion_brunhild_conv14:close_window|I need to think about it. Thank you, all. We have to continue our travels.
 ; dlga_companion_questions_bodo1:companion_recruit_backstory_responsebodo|Sven Bull Neck came here after the attack. He left some of his men here with us, the prisoners. I also saw him sending ships on a mission to attack Friese. Then he went north. I think something or someone called him there. Rather, I have heard his men say this, but not everything they say is true.
@@ -1042,7 +1042,7 @@ dlga_companion_responsebodostory5:companion_responsebodostory64|{s10}
 ; dlga_companion_responsebodostory62:companion_responsebodostory7|{s2}^^I know, and I'm so sorry.
 ; dlga_companion_responsebodostory63:companion_responsebodostory7|{s2}^^This is not the issue to deal with now... but I promised Erudino.
 ; dlga_companion_responsebodostory64:companion_responsebodostory7|{s2}
-; dlga_companion_responsebodostory7:companion_responsebodostory8|I was stupid. I believed that the Woden Ric was safe, but I was wrong. I was betrayed by its captain. The poor man thought that Sven Bull Neck would give him wealth. He was cheated, for, when the Vikings raided the Woden Ric, he was killed. Maybe some things become clear now like why we stopped among those shipwrecks, and why the captain of the Woden Ric gave control of the ship to you, a novice among us.
+; dlga_companion_responsebodostory7:companion_responsebodostory8|I was stupid. I believed that the Woden Ric was safe, but I was wrong. I was betrayed by its captain. The poor man thought that Sven Bull Neck would give him wealth. He was cheated, for, when the Vikings raided the Woden Ric, he was killed. Maybe that is the real reason why we stopped among those shipwrecks...
 ; dlga_companion_responsebodostory8:companion_responsebodostory9|The Woden Ric captain betrayed me -- indeed, all of us -- but I do not begrudge him that. He was just an idiot, and this cost him his life.
 ; dlga_companion_responsebodostory9:companion_responsebodostory101|He is lucky to be dead, because I would kill him myself. I hate traitors.
 ; dlga_companion_responsebodostory9:companion_responsebodostory102|But why was Sven Bull Neck chasing you? Why were YOU his goal?
@@ -1195,7 +1195,7 @@ dlga_companion_recruit_backstory_response:close_window|{s7}
 dlga_companion_recruit_signup:companion_recruit_signup_b|{s5}
 dlga_companion_recruit_signup_b:companion_recruit_signup_responsebrunhild|{s5}
 dlga_companion_recruit_signup_b:companion_recruit_signup_response|{s5}
-; dlga_companion_recruit_signup_responsebrunhild:companion_recruit_payment|Your father wants you as far away from the jarl, and I understand why. You are welcome.
+; dlga_companion_recruit_signup_responsebrunhild:companion_recruit_payment|Your father wants you as far away as possible from the jarl, and I understand why. You are welcome.
 ; dlga_companion_recruit_signup_responsebrunhild:close_window|Unfortunately, I can't take on any more hands in my party right now.
 ; dlga_companion_recruit_signup_response:close_window|Unfortunately, I can't take on any more hands in my party right now.
 dlga_companion_recruit_signup_response:companion_recruit_payment|{s6}
@@ -1254,7 +1254,7 @@ dlga_start:companion_rehire.2|{s5}
 ; dlga_minister_talk:minister_kingdom_report1|Give me a report on the kingdom.
 ; dlga_minister_kingdom_report1:close_window|But of course, {reg59?my lady:sire}. I have it ready to present.
 ; dlga_minister_talk:minister_messenger_system1|I want to send a message.
-; dlga_minister_messenger_system1:minister_messenger_system2|Certainly, {reg59?my lady:my lord}. We have a messenger ready at your disposal. Who would you like to send the message to? I've heard the following are not too far to reach:
+; dlga_minister_messenger_system1:minister_messenger_system2|Certainly, {reg59?my lady:my lord}. We have a messenger ready at your disposal. To whom would you like to send the message? I've heard the following are nearby:
 dlga_minister_messenger_system2:minister_messenger_system3|{s1}.
 ; dlga_minister_messenger_system2:minister_pretalk|No, none of those. Later perhaps.
 ; dlga_minister_messenger_system3:close_window|Very well. What do you wish to say?
@@ -1368,7 +1368,7 @@ dlga_center_captured_lord_advice:center_captured_lord_advice_2|{s11}. {s1}
 ; dlga_center_captured_lord_advice_2:close_window|Hmmm. All right, {playername}. I value your counsel highly. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.
 ; dlga_event_triggered:reginhard_calm1|My God, My God, he's dead. We killed Thiaderd.
 ; dlga_event_triggered:reginhard_mission3_1|All right, {playername}, you've seen who the jarl is, and you know what he did. He only wants one thing -- the power -- and now he's using you to take it, as before he used me to reach my Thiaderd. For him, we are expendable tools, and the jarl of Kennemer will finish you off when you're either not useful or become dangerous, as he did with me.
-; dlga_event_triggered:reginhard_postdoccingaca|The jarl of Kennemer is an ambitious and dangerous man, I admire your fortitude to bite him and help save Doccinga despite the consequences this has had.^You are a good person, Friese can be hostile land for us now, but I'm sure we'll find our destiny elsewhere.
+; dlga_event_triggered:reginhard_postdoccingaca|The jarl of Kennemer is an ambitious and dangerous man, I admire your fortitude to bite him and help save Doccinga despite the consequences this has had. You are a good person.^^Friese can be hostile land for us now, but I'm sure we'll find our destiny elsewhere.
 ; dlga_event_triggered:egil_mensajerey|{reg59?My lady:Sir}, I have taken the liberty of sending a message to King Horik. I think it will be best if we have the support of some of the king's men, especially if you have any intention of killing Sven.^Well, I have not spent much time with you, but I think this could lead to a battle. I hope you will look well upon the initiative I took to invite the king's men to join us.
 ; dlga_egil_mensajerey:egil_mensajerey1|Yes, I think it was a good idea, Egil. Thanks.
 ; dlga_egil_mensajerey:egil_mensajerey2|No, I do not want you taking initiatives without asking me beforehand. Do you understand?
@@ -1592,7 +1592,7 @@ dlga_pretender_discuss_rebellion_2a:pretender_discuss_rebellion_2|{s11}
 ; dlga_lord_invite_player_monarch_1:lord_enter_service_reject|No. That oath sticks in my throat.
 ; dlga_start:lord_invite_1|{playername}, I've been expecting you. Word has reached my ears of your exploits. Why, I keep hearing such tales of prowess and bravery that my mind was quickly made up. I knew that I had found someone worthy of becoming my vassal.
 ; dlga_lord_invite_1:lord_give_oath_under_oath_already|However, you are already oath-bound to serve {s5}, are you not?
-; dlga_lord_invite_1:lord_invite_1_1|I knew that I had found someone worthy of becoming my vassal.
+; dlga_lord_invite_1:lord_invite_1_1|I sincerely hope you will become a lord of the realm.
 ; dlga_lord_invite_1_1:lord_invite_2|Thank you, {s65}. You honour me with your offer.
 ; dlga_lord_invite_1_1:lord_invite_2.1|It is good to have my true value recognised.
 ; dlga_lord_invite_2:lord_invite_3|Aye. Let us dispense with the formalities, {playername}; are you ready to swear homage to me?
@@ -1630,6 +1630,9 @@ dlga_lord_start:lord_start|{s42}
 ; dlga_lord_start:wedding_ceremony_bride_vow|May the heavens witness that I am ready to give you my {s11} {s4}, to have in marriage...
 ; dlga_lord_start:lord_wedding_reschedule|It is good to see you, {playername}. We look forward to the wedding, as soon as we can all gather together for the feast.{s12}
 ; dlga_lord_wedding_reschedule:lord_start|It is no problem. I can wait.
+; dlga_lord_wedding_reschedule:lord_ok|Then we should have a feast right now!
+; dlga_lord_ok:close_window|As you wish, you highness.
+; dlga_lord_ok:close_window.1|Unfortunately, we have no acceptable venue for the event.
 ; dlga_lord_wedding_reschedule:lord_return_dower|I have no faith that this wedding will be concluded. Please return my dower.
 ; dlga_lord_return_dower:close_window|Well, that is your right, if you indeed have no confidence in our family's commitments. Take your money.
 ; dlga_lord_talk:gartnait_historia|I noticed that some of your warriors painted their bodies.
@@ -1846,7 +1849,7 @@ dlga_start:close_window.55|Żegnaj.
 ; dlga_thora_dialog_sigurd2:thora_dialog_sigurd2|Why, thank you... sir. I blush at your compliments. You're also... very handsome.
 ; dlga_thora_dialog_sigurd2:close_window|(Allow them to continue talking and go talk to Ulf)
 ; dlga_thora_dialog_sigurd2:thora_dialog_sigurd3|Egil, leave the girl alone, and let's go.
-; dlga_thora_dialog_sigurd3:close_window|Damn, you cannot stand to see people happy, can you? All right, I will, sir.
+; dlga_thora_dialog_sigurd3:close_window|Damn, you cannot stand to see people happy, can you? All right, I will, {reg59?madam:sir}.
 ; dlga_thora_dialog_romance:thora_dialog_romance2|Why, thank you... sir. I blush at your compliments. You're also... very handsome.
 ; dlga_thora_dialog_romance:thora_dialog_sigurd|Thank you, but you should talk to my father, Ulf.
 ; dlga_thora_dialog_romance2:thora_dialog_romance4|(Use your powers of persuasion to make Thora interested in you)
@@ -1945,7 +1948,7 @@ dlga_ulf_testigo42_2:ulf_testigo42_31|Nie.
 ; dlga_ulf_testigo11:ulf_testigo13|I do not care who you are. This is a private matter. Go away.
 ; dlga_ulf_testigo13:ulf_testigo12|Oh, I don't think so. This farm and the girl pregnant because of you will be my property tomorrow, so you will negotiate with me and not with this old fool.
 ; dlga_ulf_testigo12:ulf_testigo14_1|{playername}, my father has his pride, but we need your support. Orm Svarti is a berserk and a duelist. He is an evil person, but no one can stand up to him. He arrived shortly after you left us and asked for my hand, which my father withheld. Then he challenged my father to a duel to the death. Orm will kill my father and then stay with me on the farm. My father is old and cannot deal with this man. Please be our second.
-; dlga_ulf_testigo14_1:ulf_testigo14|{s2}^^This man is scum, {reg59?my lady:my lord}. He challenges old defenseless peasants in order to steal everything they have. Worst of all, he wants to make Ulf's daughter, Thora a slave... and who knows what will happen to the child in Thora's belly.
+; dlga_ulf_testigo14_1:ulf_testigo14|{s2}^^This man is scum, {reg59?my lady:my lord}. He challenges old defenseless peasants in order to steal everything they have. Worst of all, he wants to make Ulf's daughter a slave... and who knows what will happen to the child in Thora's belly.
 ; dlga_ulf_testigo14:ulf_testigo15|Ignore them. You're lucky I'm here. Ulf will not testify against you in the Assembly on account of his death, and the girl will not be your problem because I will take care of her and the rat within. And since I like you, I'll give you half price. All you have to do is give me 2000 peningas. What do you say?
 ; dlga_ulf_testigo15:ulf_testigo16_1|It's a deal, Orm. Take this money, and thanks for taking care of this matter.
 ; dlga_ulf_testigo15:ulf_testigo16_2|Ulf will be dead tomorrow, so my problem is solved. Why pay you a single pening?
@@ -1956,8 +1959,8 @@ dlga_ulf_testigo42_2:ulf_testigo42_31|Nie.
 ; dlga_ulf_testigo16_2:ulf_testigo16|Oh, well, right you are. Then get off my farm. Good travels and good luck so that, someday, in the unlikely event that you ever make anything of yourself, we may meet again.
 ; dlga_ulf_testigo16_3:ulf_testigo16|Well, his money is my money. If you are such an idiot, the better for me. A farm, a pretty girl and 4000 peningas to boot. The gods have always loved me. Good travel and good luck so that, someday, in the unlikely event that you ever make anything of yourself, we may meet again.
 ; dlga_ulf_testigo16_4:ulf_testigo20|{reg59?My lady:My lord}, are you sure? Have you considered your relative height and your old wounds? This man is made for murder!
-; dlga_ulf_testigo20:ulf_testigo21|No, worse, he's a berserker. If he enter trance, {playername}, you won't have a chance.
-; dlga_ulf_testigo21:ulf_testigo22|Ha! No way back.
+; dlga_ulf_testigo20:ulf_testigo21|No, worse, he's a berserker. If he enters his trance, {playername}, you won't have a chance.
+; dlga_ulf_testigo21:ulf_testigo22|Ha! No way to back out now! A word spoken is a word that cannot be returned!
 ; dlga_ulf_testigo22:ulf_testigo23|The gods bless you, {playername}. We will always be indebted to you.
 ; dlga_ulf_testigo23:ulf_testigo24|I did not expect this selfless reaction. I know that I do not stand a chance against Orm Svarti, so I'm very grateful. Whatever happens, know that I will not testify against you at the Assembly. Ragnarsson will not like that much, but it's you that are here for me. What's more, I won't ask wergild for my daughter. What you do makes up for any debt between us. Thank you. We are now at peace.
 ; dlga_ulf_testigo24:close_window|If you are such an idiot, the better for me. Such heroes always end up occupying but six square feet of earth. If you so desire such a plot, your time has come. I am only too happy to add all of your things to the farm and the girl.
@@ -2155,7 +2158,7 @@ dlga_prisionero_interrogation42:prisionero_interrogation43|{s5}
 ; dlga_prisionero_interrogation43:prisionero_interrogation44|My mother was on that ship.
 ; dlga_prisionero_interrogation43:prisionero_interrogation45|Where did the prisoners go?
 ; dlga_prisionero_interrogation44:prisionero_interrogation43|Well, we spared some men, even a madwoman who talked nonsense. Maybe your mother is among them.
-; dlga_prisionero_interrogation45:prisionero_interrogation22th|Sven Bull Neck took them with him. He was going to leave them in his hideout before continuing his journey north. The hideout is in Danmark. It is a good place and well defended, but I will not tell you where it is. I will not betray my masters so you just can kill me.
+; dlga_prisionero_interrogation45:prisionero_interrogation22th|Sven Bull Neck took them with him. He was going to leave them in his hideout before continuing his journey north. The hideout is in Danmark. It is a good place and well defended, but I will not tell you where it is. I will not betray my masters just so you can kill me.
 ; dlga_prisionero_interrogation22th:prisionero_interrogation22th2|{s3}^^There is no need to torture him for that information. There is a man in the port of Ribe who deals with the Vikings for their slaves. He is a Frisian from Doccinga who has thrived in Ribe as port master. One often finds him outside, by the docks. He is not a good person, but he will sell whatever information you may require. When you talk to him, please do not mention my name, because it was I who forced him to leave Doccinga some years ago.
 ; dlga_prisionero_interrogation22th2:prisionero_interrogation22|I have nothing to add.
 ; dlga_start:close_window.61|Awaiting orders.
@@ -2218,7 +2221,7 @@ dlga_prisionero_interrogation42:prisionero_interrogation43|{s5}
 ; dlga_svenlair_21:svenlair_41|{playername}, to pay these men is to encourage them to keep attacking and enslaving people. We should make them pay dearly for the damage they do to people, not reward them for it!
 ; dlga_svenlair_41:svenlair_42|Keep your mouth shut! I would like to see these slaves.
 ; dlga_svenlair_41:close_window|You are right. We're going to kill you all!
-; dlga_svenlair_42:svenlair_43|Well, I have three slaves. You can enter by yourself. Go ahead and look at them, then come back to me to talk about buying them.
+; dlga_svenlair_42:svenlair_43|Well, I have three slaves. They're inside, down by the river. Go ahead and look at them, then come back to me to talk about buying them.
 ; dlga_svenlair_43:close_window|Sounds good! I'll look over the merchandise, and then we will talk money.
 ; dlga_sven_comprapr:sven_comprapr_todo|I understand. I'll take the three prisoners. Take your peningas. (900 peningas)
 ; dlga_sven_comprapr:sven_comprapr_trade|Look at them! Your men have starved and raped them. I'll pay 300 coin for the lot. (Trade)
@@ -2492,7 +2495,7 @@ dlga_hero_pretalk:lord_talk|Coś jeszcze?
 ; dlga_kinghorik_quest_thething1:kinghorik_quest_thething2|{s2}^^Why have you been so long in coming? Sigurd Ragnarsson is looking strong.
 ; dlga_kinghorik_quest_thething2:kinghorik_quest_thething3|I had to resolve some issues, but still, I arrived on time.
 ; dlga_kinghorik_quest_thething2:kinghorik_quest_thething3.1|I came as soon as I got your message. Maybe it was your messenger who was delayed?
-; dlga_kinghorik_quest_thething3:kinghorik_quest_thething4|No matter, I think they are also awaiting your arrival, which means that maybe I should not have sent for you. I suspect they have some ploy to launch. Sigurd Ragnarsson has complained of 800 men who cannot board because I will not let him lead them. That much is true, because I proposed that Guthrum lead them. The problem is that Guthrum some days ago suffered the misfortune to have been killed on his farm. They accuse outlaws, and criminals of burning down his house whilst he was hosting a feast inside. I think that it was Sven Bull Neck, the prow man of Sigurd's hird, who did it, but I have no evidence or witnesses. Everything and everyone was burned with the house.
+; dlga_kinghorik_quest_thething3:kinghorik_quest_thething4|No matter, I think they are also awaiting your arrival, which means that maybe I should not have sent for you. I suspect they have some ploy to launch. Sigurd Ragnarsson has complained of 800 men who cannot board because I will not let him lead them. That much is true, because I proposed that Guthrum lead them. The problem is that Guthrum some days ago suffered the misfortune to have been killed on his farm. They accuse outlaws and criminals of burning down his house whilst he was hosting a feast inside. I think that it was Sven Bull Neck, the prow man of Sigurd's hird, who did it, but I have no evidence or witnesses. Everything and everyone was burned with the house.
 ; dlga_kinghorik_quest_thething4:kinghorik_quest_thething5|Everything taken together, the situation is quite serious. Since Guthrum is dead, Sigurd is pushing hard to gain control of those 800 men. I fear he wishes to use them to take my throne.
 dlga_kinghorik_quest_thething5:kinghorik_quest_thething61|{s10}
 ; dlga_kinghorik_quest_thething5:kinghorik_quest_thething7|Let's see what happens.
@@ -2501,7 +2504,7 @@ dlga_kinghorik_quest_thething61:kinghorik_quest_thething7|{s4}
 ; dlga_kinghorik_quest_thething63:kinghorik_quest_thething7|My problems are your problems. If Sigurd triumphs, your life will be worth nothing without my protection. The Assembly will name you an outlaw. You will lose everything and have to hide in the woods until someone kills you.
 ; dlga_kinghorik_quest_thething7:kinghorik_quest_thething8_1|{s2}^^Greetings, {playername}. Sven Bull Neck has permission to speak to the assembly now. Let's see what that rat has to say.
 ; dlga_kinghorik_quest_thething8_1:kinghorik_quest_thething8|Silence! Let's see what that snake has to say.
-; dlga_kinghorik_quest_thething8:kinghorik_quest_thething81|{s2}^^Men of Danmark, you know me. When I was little more than a child, I was with Ragnar when he sacked Frankia with 120 ships and more than 4,000 men, an adventure that the skalds still relate. I am the man who led 400 Vikings in West Seaxe, the strongest kingdom in Englaland, to obtain great fame and wealth. Therefore, men fear me across Friese, Englaland, and Frankia, but here in Danmark rightfully respect and love me.
+; dlga_kinghorik_quest_thething8:kinghorik_quest_thething81|{s2}^^Men of Danmark, you know me. When I was little more than a child, I was with Ragnar when he sacked Frankia with 120 ships and more than 4,000 men, an adventure that the skalds still relate. I am the man who led 400 Vikings in West Seaxe, the strongest kingdom in Englaland, to obtain great fame and wealth. Therefore, men fear me across Friese, Englaland, and Frankia, but here in Danmark, they rightfully respect and love me.
 ; dlga_kinghorik_quest_thething81:kinghorik_quest_thething82|I had a brother, Olvir White Hair, a better man than me. He was a man of honor, loved by the gods, but in the prime of life, he was murdered. Now the king protects his murderer. I have never demanded anything of the Assembly, but now I call for justice. Is it right that his murderer be here, among us, or that a king protect evil? Shall murderers go unpunished in this land?^^{s2}
 ; dlga_kinghorik_quest_thething82:kinghorik_quest_thething83|{s2}^^It's what we expected. They use you to attack King Horik and undermine his authority.
 ; dlga_kinghorik_quest_thething83:kinghorik_quest_thething85|{s2}^^Everyone knows your worth, Sven Bull Neck, and the feats you've done in your past, but your words seem to indicate that a king could support a murderer. This charge is very grave. The Assembly shall now listen to King Horik's response.
@@ -2554,7 +2557,7 @@ dlga_kinghorik_quest_thething14_7:kinghorik_quest_thething15|{s4}
 ; dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5.1|{s2}^^My quarrel is not with you, Egil. Thiaderd was like a brother to me, and {playername} lied to me in order to take him and kill him. I won {playername}'s trust and promised that one day I would avenge Thiaderd's death, and that day has come. I just want to be happy, have a farm, wife, and children, but {playername} brings only misfortune wherever {reg59?she:he} goes. I need to feel protected, and Sigurd has promised me everything that I wish for.
 ; dlga_kinghorik_quest_thething16_5:kinghorik_quest_thething17_1|Reginhard, you know me. You know how I treat traitors. We will meet again.
 dlga_kinghorik_quest_thething16_5:kinghorik_quest_thething17_2|{s10}
-; dlga_kinghorik_quest_thething16_5:kinghorik_quest_thething18|As you said once, Gaed a wyrd swa hio scel!, Fate always goes as she must.
+; dlga_kinghorik_quest_thething16_5:kinghorik_quest_thething18|As you said once, 'Gaed a wyrd swa hio scel!' Fate always goes as she must.
 ; dlga_kinghorik_quest_thething17_1:kinghorik_quest_thething18|I do not think so. We will never see one another again. I'll have my farm, my wife and the protection of a jarl. You'll be dead or an outlaw.
 dlga_kinghorik_quest_thething17_2:kinghorik_quest_thething18|{s4}
 ; dlga_kinghorik_quest_thething18:kinghorik_quest_thething19|King Horik, Sigurd Ragnarsson has made very serious allegations, supported by a witness. What do you say in your defense?
@@ -2572,8 +2575,8 @@ dlga_kinghorik_quest_thething17_2:kinghorik_quest_thething18|{s4}
 ; dlga_kinghorik_quest_thething20_6:kinghorik_quest_thething20_7.2|I'm not sure why I said that.
 ; dlga_kinghorik_quest_thething20_7:kinghorik_quest_thething20_2|Silence! We do not tolerate anyone making a mockery of this Assembly.
 ; dlga_kinghorik_quest_thething20_2:kinghorik_quest_thething21|Now, this is a very delicate matter that may affect the stability of the kingdom. The judges shall retire to deliberate for a moment.
-; dlga_kinghorik_quest_thething21:kinghorik_quest_thething22|(You watch as the judges get behind the big rock before entering a heated discussion. All around you, everyone engages in energetic conversations. Some jarls support King Horik; others Jarl Sigurd Ragnarsson. This Assembly may either be the solution to civil war or the trigger to start one. Everything depends on the judges' decision.^^You realize that no one approaches you; everyone avoids you like the plague. You are aware also that nobody gave you the opportunity to present the case of the abduction of your mother. You feel you have not been more than a piece in a game of Hneftalf between the powerful men of Danmark.)
-; dlga_kinghorik_quest_thething22:kinghorik_quest_thething23|(The judges are slow to come to a decision. You're not sure how much time has passed, but it seems it takes them very, very long. Many men around you have decided to sit on the ground, and there are even merchants distributing food and mead. Reginhard remains in the same spot, silent and without moving a muscle, as if carved in granite. Egil doesn't look at you, either. He is among the men around King Horik, advising and encouraging him.^^Finally, the judges return from behind the large rock.)
+; dlga_kinghorik_quest_thething21:kinghorik_quest_thething22|-- You watch as the judges get behind the big rock before entering a heated discussion. All around you, everyone engages in energetic conversations. Some jarls support King Horik; others Jarl Sigurd Ragnarsson. This Assembly may either be the solution to civil war or the trigger to start one. Everything depends on the judges' decision.^^You realize that no one approaches you; everyone avoids you like the plague. You are aware also that nobody gave you the opportunity to present the case of the abduction of your mother. You feel you have not been more than a piece in a game of Hneftalf between the powerful men of Danmark. --
+; dlga_kinghorik_quest_thething22:kinghorik_quest_thething23|-- The judges are slow to come to a decision. You're not sure how much time has passed, but it seems it takes them very, very long. Many men around you have decided to sit on the ground, and there are even merchants distributing food and mead. Reginhard remains in the same spot, silent and without moving a muscle, as if carved in granite. Egil doesn't look at you, either. He is among the men around King Horik, advising and encouraging him.^^Finally, the judges return from behind the large rock. --
 ; dlga_kinghorik_quest_thething23:kinghorik_quest_thething24|Odin Fjolnsvidr, Odin Sanngetall, father of gods and the Scyldings. We, elected by our peers, call upon your wisdom to guide our words. May our judgment reach your ears, and may those who do not comply with it be punished by Hel. We have decided the following:
 ; dlga_kinghorik_quest_thething24:kinghorik_quest_thething25_1|In the case of the death of Olvir White Hair, Sven Bull Neck shall receive wergild of 4800 peningas. {playername}, can you pay this wergild now?
 ; dlga_kinghorik_quest_thething24:kinghorik_quest_thething25_2|In the case of the death of Olvir White Hair, this Assembly rules that {playername} acted in self-defense and declares him innocent.
@@ -2684,10 +2687,10 @@ dlga_kinghorik_quest_thething17_2:kinghorik_quest_thething18|{s4}
 ; dlga_lord_talk:aelfred_ad_1|I recently returned from Douar-an-Enez, and I received your urgent message.
 ; dlga_lord_talk:aelfred_bt_1|I'm ready to join the army and defend West Seaxe.
 ; dlga_lord_talk:aelfredbodoletter_1|I have an important letter for you.
-; dlga_lord_talk:aelfredbodoletter_1_1|I've joined West Seaxe. It is time to talk.
+; dlga_lord_talk:aelfredbodoletter_1_1|Yes, I've joined West Seaxe and returned, as you requested.
 ; dlga_lord_talk:aethelred_wp_1|I conquered Din Bych and kept it in my power for twenty days, as agreed.
 ; dlga_lord_talk:raethbarthbodoletter_1|I have an important letter for you.
-; dlga_lord_talk:raethbarthbodoletter_1_1|I've joined Northhymbre. It is time to talk.
+; dlga_lord_talk:raethbarthbodoletter_1_1|Yes, I've joined Northhymbre and returned, as you requested.
 ; dlga_lord_talk:raethbarth_1|Jarl Raethbarth, I have important news for you.
 ; dlga_lord_talk:raethbarthbjorn_1|Bjorn sent me back to you.
 ; dlga_lord_talk:raethbarth_wp_1|I conquered Dun Taruo and kept it in my power for twenty days, as agreed.
@@ -2700,12 +2703,12 @@ dlga_kinghorik_quest_thething17_2:kinghorik_quest_thething18|{s4}
 ; dlga_lord_talk:sigurd_quest_revenge_horik0|Sigurd, it's time to talk. I can cause you a lot of damage if you do not listen to me.
 ; dlga_lord_talk:sigurd_quest_revenge_horik|Sigurd, it's time to talk. I'm not an ordinary man; I have the support of King Horik.
 ; dlga_sigurd_quest_revenge1:lord_pretalk|I do not care who you are or what your motives may be. Here in Danmark, you're a nobody, someone insignificant. You have neither credentials nor support. I say it only once: get out of my presence, rat.
-; dlga_sigurd_quest_revenge_horik0:sigurd_quest_revenge2|{s2}^^I see. I was hoping to avoid this, but I am tired. Your mere presence offends my sight. Of course I know your name, {playername}; {s4} sent me news about you. The {reg59?lady:man} who would kill King Hrorik Hemmingsson and help us take Friese. I was happy to hear this, but then I got more news from {s4} yesterday. '{playername} is a traitor,' said the messenger. 'Be careful. {reg59?She:He} wants Sven Bull Neck and comes to talk to you. {reg59?She:He} has destroyed our plans in Friese, protected Doccinga and killed your Vikings. When you see him, kill him.' You are perhaps too bold to come here.
-; dlga_sigurd_quest_revenge_horik:sigurd_quest_revenge2|{s2}^^You are persistent! I was hoping to avoid this, but you name names... none other than that of King Horik.^^Of course I know your name, {playername}; {s4} sent me news about you. The {reg59?lady:man} who would kill King Hrorik Hemmingsson and help us take Friese. I was happy to hear this, but then I got more news from {s4} yesterday. '{playername} is a traitor,' said the messenger. 'Be careful. {reg59?She:He} wants Sven Bull Neck and comes to talk to you. {reg59?She:He} has destroyed our plans in Friese, protected Doccinga and killed your Vikings. When you see him, kill him.' You are perhaps too bold to come here.
+; dlga_sigurd_quest_revenge_horik0:sigurd_quest_revenge2|{s2}^^I see. I was hoping to avoid this, but I am tired. Your mere presence offends my sight. Of course I know your name, {playername}; {s4} sent me news about you. The {reg59?lady:man} who would kill King Hrorik Hemmingsson and help us take Friese. I was happy to hear this, but then I got more news from the jarl yesterday. '{playername} is a traitor,' said the messenger. 'Be careful. {reg59?She:He} wants Sven Bull Neck and comes to talk to you. {reg59?She:He} has destroyed our plans in Friese, protected Doccinga and killed your Vikings. When you see {reg59?her:him}, kill {reg59?her:him}.' You are perhaps too bold to come here.
+; dlga_sigurd_quest_revenge_horik:sigurd_quest_revenge2|{s2}^^You are persistent! I was hoping to avoid this, but you name names... none other than that of King Horik.^^Of course I know your name, {playername}; {s4} sent me news about you. The {reg59?lady:man} who would kill King Hrorik Hemmingsson and help us take Friese. I was happy to hear this, but then I got more news from the jarl yesterday. '{playername} is a traitor,' said the messenger. 'Be careful. {reg59?She:He} wants Sven Bull Neck and comes to talk to you. {reg59?She:He} has destroyed our plans in Friese, protected Doccinga and killed your Vikings. When you see {reg59?her:him}, kill {reg59?her:him}.' You are perhaps too bold to come here.
 ; dlga_sigurd_quest_revenge2:sigurd_quest_revenge31|My issues are not with you. I just want to find Sven Bull Neck and my mother.
 ; dlga_sigurd_quest_revenge2:sigurd_quest_revenge32|I did not know the jarl's plans, so I defended Doccinga. I am loyal to your cause.
 ; dlga_sigurd_quest_revenge31:sigurd_quest_revenge4|How stupid can you be? Sven Bull Neck is not just any man but my favorite, the man who stands in the prow of my own personal ship. You and I have nothing to talk about. Get out now, while my obligation to hear you in peace still weighs down my sword.
-; dlga_sigurd_quest_revenge32:sigurd_quest_revenge322|Your loyalty is too strange and too late. You're just the rat that thwarted my plans in Friese. {s4} had promised me six hundred men for the expedition to Englaland. 'Now I have exactly none.
+; dlga_sigurd_quest_revenge32:sigurd_quest_revenge322|Your loyalty is too strange and too late. You're just the rat that thwarted my plans in Friese. {s4} had promised me six hundred men for the expedition to Englaland. Now I have exactly none.
 ; dlga_sigurd_quest_revenge322:sigurd_quest_revenge31|Sorry, but I just want to know where Sven Bull Neck is.
 ; dlga_sigurd_quest_revenge322:sigurd_quest_revenge33|I will recruit six hundred men for you.
 ; dlga_sigurd_quest_revenge33:lord_pretalk|{s4}^^I do hope you're not teasing me and that it is not Loki speaking with your mouth. Frankly, I doubt you're able to recruit six hundred men, but if you recruit more than two hundred, come back here, and we will talk. Maybe you will get to chat with my friend, Sven.
@@ -2754,7 +2757,7 @@ dlga_kennemerjarl_8:kennemerjarl_91|{s10}
 ; dlga_kennemerjarl_92:kennemerjarl_93|Are you indeed so motivated by honor? Alright, I can do this: I'll give you a place among the men who will face Sven if you prove your worth.
 ; dlga_kennemerjarl_93:kennemerjarl_94|{s1}^^There is a problem I need to solve. Not far from here is a monastery of Christians, Odin damn them, who have sent a request to intercede in a land property dispute.^Honestly, I care very little about their problems, but the king wants Christian priests happy, to avoid Frisian rebellions.
 ; dlga_kennemerjarl_94:kennemerjarl_95|Anyway, my men are busy, protecting important things like the people on the coast, so you go in my name and make the arrangement that best suits my interests.^   The most important thing is to keep the monks quiet. I do not want them stirring up the people versus rightful Danish dominion.
-; dlga_kennemerjarl_95:kennemerjarl_10|Thank you, My Lord. I will not disappoint you.
+; dlga_kennemerjarl_95:kennemerjarl_10|Thank you, my lord. I will not disappoint you.
 ; dlga_kennemerjarl_95:kennemerjarl_10.1|Is there a reward?
 ; dlga_kennemerjarl_95:kennemerjarl_10.2|It will be done quickly. Farewell.
 ; dlga_kennemerjarl_10:lord_pretalk|Are you still here, {reg59?woman:man}? You have a mission! Complete it, and your revenge on Sven will be that much closer. Now, get out!
@@ -2764,8 +2767,8 @@ dlga_kennemerjarl_8:kennemerjarl_91|{s10}
 ; dlga_kennemerjarl_juicio_4:kennemerjarl_juicio_41|No one can think that you are unfair when justice has been done.
 ; dlga_kennemerjarl_juicio_41:kennemerjarl_juicio_42|Oho! A {reg59?lady:gentleman} with values. Justice is all very nice, but this world isn't right and won't recognize it. That land wasn't important, but good relations with monastery are. Do not upset me again.
 ; dlga_kennemerjarl_juicio_42:kennemerjarl_juicio_5|What about our deal? May I join the hunt now?
-; dlga_kennemerjarl_juicio_5:kennemerjarl_juicio_6_old|Err, not just yet. Now I need you to do something else to prove your worth, this time as a warrior. There is a rebellious Frisian, called Thiaderd, who has been causing me a headache, and I do not have the time right now to take care of him.^I'll give you permission to recruit on my land. Also, I will send a letter to the king so he may likewise allow you to recruit men in Friese.
-; dlga_kennemerjarl_juicio_6_old:kennemerjarl_juicio_6_final|This is what I want you to do. Take this silver and recruit fifteen men. The cheapest are village idlers or refugees at the monastery. Then come back here, and I will tell you how to find Thiaderd.
+; dlga_kennemerjarl_juicio_5:kennemerjarl_juicio_6_old|Err, not just yet. Now I need you to do something else to prove your worth, this time as a warrior. There is a rebellious Frisian, called Thiaderd, who has been causing me a headache, and I do not have the time right now to take care of him.^^I'll give you permission to recruit on my land. Also, I will send a letter to the king so he may likewise allow you to recruit men in Friese.
+; dlga_kennemerjarl_juicio_6_old:kennemerjarl_juicio_6_final|This is what I want you to do. Take this silver and recruit fifteen men. The cheapest are village idlers or refugees at the monastery. Sometimes spare men are available at farmsteads. Once you have men, come back here, and I will tell you how to find Thiaderd.
 ; dlga_kennemerjarl_juicio_6_final:lord_pretalk|--He scratches his nose--^^Well, good luck. Now, you have things to do.
 ; dlga_kennemerjarl_recruit_back1:kennemerjarl_juicio_6_new|Well, you again have proven useful. As I mentioned before, there is a rebellious Frisian called Thiaderd who has been a headache for me. I do not have the time right now to take care of him. You'll do it for me!^^Oh, and here is some money to equip yourself better. I can't allow people to think that I employ such shabby help.
 ; dlga_kennemerjarl_juicio_6_new:kennemerjarl_juicio_61|I like the sound of this.
@@ -2776,7 +2779,7 @@ dlga_kennemerjarl_8:kennemerjarl_91|{s10}
 ; dlga_kennemerjarl_juicio_71:kennemerjarl_juicio_71_fin|Are you still here? You have a mission! I would see you on it, {reg59?madame:sir}!
 ; dlga_kennemerjarl_juicio_71_fin:lord_pretalk|--He scratches his nose--
 ; dlga_kennemerjarl_thiaderdm1:kennemerjarl_thiaderdm2|I am very happy. The news of Thiaderd's death came before you.^^I must say that I doubted your abilities, but certainly you're smarter than I thought. Moreover, you have proven to be someone trustworthy and loyal. Take this money as compensation for your efforts. It is a pity that you didn't kill Reginhard, too, but I guess you need a pet in your party. However, I do not want him around me, so keep that rat away when you come to see me.
-; dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^Well, well... I must confess something. I've been waiting for someone like you for a long time.^You are a person that can find solutions and accomplish what is ordered. That is very important. Sometimes I feel like I'm surrounded by dolts.^Now, there is a delicate subject I want to talk to you about -- one that can make you rich.
+; dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^Well, well... I must confess something. I've been waiting for someone like you for a long time. You are a person that can find solutions and accomplish what is ordered. That is very important. Sometimes I feel like I'm surrounded by dolts.^^Now, there is a delicate subject I want to talk to you about -- one that can make you rich.
 ; dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm41|Wealth, I do not care about. I just want Sven.
 ; dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm42|I like what I hear! Please continue...
 ; dlga_kennemerjarl_thiaderdm41:kennemerjarl_thiaderdm42|That much I know! But the two are related. Listen to the whole story and see for yourself.
@@ -2793,15 +2796,17 @@ dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm74|{s10}
 ; dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm9|I accept your proposal. I will kill your king.
 ; dlga_kennemerjarl_thiaderdm71:kennemerjarl_thiaderdm8|No more deals, lies or missions! Just this one condition, and everything will be yours. What is your answer?
 ; dlga_kennemerjarl_thiaderdm74:kennemerjarl_thiaderdm8|{s2}
-; dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm9|I accept. I will kill {s10}
+; dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm9|I accept. I will kill {s10}.
 ; dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm91|No, you will have to find another assassin. I will hunt Sven Bull Neck on my own.
-; dlga_kennemerjarl_thiaderdm9:kennemerjarl_salida|I was sure I would hear that answer. I have not wronged you. {s10} is not just any man. Everyone fears him, not the least because he is always accompanied by an escort of faithful warriors. His death should be public, in the sight of those who fear him. The ideal time would be during a feast. I do not care if you use poison or a dagger, but two things are very important.^^First, if you are caught, do not mention my name. You must appear to be acting alone. Even beforehand, we should not be seen together. If we happen to meet, we must pretend not to know each other. Secondly and more importantly, do not get caught!^^Once you are done, do not come here. Hide in the mountains, where Thiaderd's camp was, and I will send for you when things are calm and I am the king. Now go and make me king.
-; dlga_kennemerjarl_thiaderdm91:kennemerjarl_salida|You're dumber than I thought. It's quite beyond you, with your resources, to find Sven. Even if you do, he will kill you easily. If you decide to change your mind, remember this: {s10} must die in public, in the sight of those who fear him, ideally at a feast. I do not care if you use poison or a dagger, but two things are very important.^^First, if you are caught, do not mention my name. You must appear to be acting alone. Even beforehand, we should not be seen together. If we happen to meet, we must pretend not to know each other. Secondly and more importantly, do not get caught!^^Once you are done, do not come here. Hide in the mountains, where Thiaderd's camp was, and I will send for you when things are calm and I am the king. If you are smart, you'll do it and leave Friese quickly. Otherwise, you will have to face the consequences.
+; dlga_kennemerjarl_thiaderdm9:kennemerjarl_thiaderdm9a|I was sure I would hear that answer, for I have not misled you. {s10} is not just any man. Everyone fears him, not the least because he is always accompanied by an escort of faithful warriors. His death should be public, in the sight of those who fear him. The ideal time would be during a feast. I do not care if you use poison or a dagger, but two things are very important...
+; dlga_kennemerjarl_thiaderdm9a:kennemerjarl_salida|Firstly, if you are caught, do not mention my name. You must appear to be acting alone. Even beforehand, we should not be seen together. If we happen to meet, we must pretend not to know each other.^^Secondly and more importantly, do not get caught!^^Once you are done, do not come here. Hide in the mountains, where Thiaderd's camp was, and I will send for you when things are calm and I am the king. Now go and make me king.
+; dlga_kennemerjarl_thiaderdm91:kennemerjarl_thiaderdm91a|You're dumber than I thought. It's quite beyond you, with your resources, to find Sven. Even if you do, he will kill you easily. If you decide to change your mind, remember this: {s10} must die in public, in the sight of those who fear him, ideally at a feast. I do not care if you use poison or a dagger, but two things are very important...
+; dlga_kennemerjarl_thiaderdm91a:kennemerjarl_salida|Firstly, if you are caught, do not mention my name. You must appear to be acting alone. Even beforehand, we should not be seen together. If we happen to meet, we must pretend not to know each other.^^Secondly and more importantly, do not get caught!^^Once you are done, do not come here. Hide in the mountains, where Thiaderd's camp was, and I will send for you when things are calm and I am the king. If you are smart, you'll do it and leave Friese quickly. Otherwise, you will have to face the consequences.
 dlga_kennemerjarl_salida:lord_pretalk|Bardzo dobrze.
 ; dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad2|Beware, Jarl! Those were Sven's men. You are the traitor, and I am your enemy now.
 dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad3|{s10}
 ; dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad4|I have served you well. In return, you lied to me about Sven, and now you threaten me.
-; dlga_kennemerjarl_enemistad2:kennemerjarl_enemistad21|Yes, I'm sure of that. To honor services provided, I will give you a few days head start. Then you will have assassins after you, for I will put a price on your head. You'll have to sleep with one eye open and a knife under your pillow.^If you do not leave Friese or we meet in person, I will kill you with my bare hands.
+; dlga_kennemerjarl_enemistad2:kennemerjarl_enemistad21|Yes, I'm sure of that. To honor services provided, I will give you a few hours to pack your things and leave. Then you will have assassins after you, for I will put a price on your head. You'll have to sleep with one eye open and a knife under your pillow.^If you do not leave Friese or we meet in person, I will kill you with my bare hands.
 ; dlga_kennemerjarl_enemistad4:kennemerjarl_enemistad21|Yes. These men were going to take and fortify the village, then wait for more troops from Danmark. Now that's impossible. You've ended my dreams. Sigurd 'Snake in the Eye' will think I'm a traitor and will want my head because of you. Go away! You're no longer welcome here. If we meet again, I do not know if I will be able to control myself and not kill you.^^I recommend you leave Friese.
 dlga_kennemerjarl_enemistad3:kennemerjarl_enemistad21|{s4}
 ; dlga_kennemerjarl_enemistad21:kennemerjarl_enemistad22|Someday, we will meet again, and I'll kill you.
@@ -2849,7 +2854,7 @@ dlga_kinghorik_quest_atlieiriksson4:kinghorik_quest_atlieiriksson51|{s10}
 dlga_kinghorik_quest_atlieiriksson51:kinghorik_quest_atlieiriksson6|{s4}
 ; dlga_kinghorik_quest_atlieiriksson52:kinghorik_quest_atlieiriksson6|I see. Well, it is your neck.
 ; dlga_kinghorik_quest_atlieiriksson53:kinghorik_quest_atlieiriksson6|It is not advisable to push away the hand that protects you. I am the only person preventing you from getting killed. If you ever threaten me, I'll be the one killing you, with my bare hands.
-; dlga_kinghorik_quest_atlieiriksson6:lord_pretalk|Well, the important thing is that the letter has been destroyed. Finish what you have to do before the Assembly. Anything else?
+; dlga_kinghorik_quest_atlieiriksson6:lord_pretalk|Well, the important thing is that the letter has been destroyed. Finish what you have to do before the Assembly.
 ; dlga_kinghorik_ulf_testigo1:kinghorik_ulf_testigo2|Glad to hear that. Did you improve your relations with the jarls of my kingdom?^^     --Current good relations:^{s2}--
 ; dlga_kinghorik_ulf_testigo2:kinghorik_ulf_testigo31|I did what I could.
 ; dlga_kinghorik_ulf_testigo2:kinghorik_ulf_testigo32|No. I need more time. I want to go and improve my relations with the jarls.
@@ -2857,10 +2862,10 @@ dlga_kinghorik_quest_atlieiriksson51:kinghorik_quest_atlieiriksson6|{s4}
 ; dlga_kinghorik_ulf_testigo31:lord_pretalk|Well, frankly I'm surprised at how effective you've been. When you're ready for the Assembly, let me know.
 ; dlga_kinghorik_thething1:kinghorik_thething2|I see. In that case, now everything is in the hands of the gods. The Assembly lasts several days. I recommend you take advantage of these days to gain popularity and reputation with the people of this country.
 ; dlga_kinghorik_thething2:lord_pretalk|I'll send a messenger as soon as your presence is required. Be ready.
-; dlga_jarlbjornnegtruce_1:jarlbjornnegtruce_2|That is good news! We will negotiate a withdrawal with them now, but in the future, we will return and make West Seaxe pay dearly for their weakness. You've done a great service to me and my brothers. Allow me to reward you with friendship and gold.
+; dlga_jarlbjornnegtruce_1:jarlbjornnegtruce_2|That is good news! We will negotiate a withdrawal with them now, but in the future, we will return and make West Seaxe pay dearly for their weakness. You've done a great service to me and my brothers. Allow me to reward you with friendship and silver.
 ; dlga_jarlbjornnegtruce_2:jarlbjornnegtruce_3|For my part, I do not need anything else. You should return to Rathbarth.
 ; dlga_jarlbjornnegtruce_3:lord_pretalk|Well.
-; dlga_jarlbjornneg_1:jarlbjornneg_2|I can imagine that Halfdan imposed his opinion. I had hoped to be mindful of his reasons and I'm glad I did so. Now it is necessary to contact the Saxons. I have prepared a letter for them where we offer a truce to cover our retreat to Northhymbre and to summon them to a meeting outside Snotingaham's gate to discuss the details. My informants tell me that one of the Saxon chieftains, Aelfreds, patrol around Snotingaham every day. Meet with him and give him my letter.
+; dlga_jarlbjornneg_1:jarlbjornneg_2|I can imagine that Halfdan imposed his opinion. I had hoped to be mindful of his reasons and I'm glad I did so.^^Now it is necessary to contact the Saxons. I have prepared a letter for them where we offer a truce to cover our retreat to Northhymbre and to summon them to a meeting outside Snotingaham's gate to discuss the details.^^My informants tell me that one of the Saxon chieftains, Aelfred, patrols around Snotingaham every day. Meet with him and give him my letter.
 ; dlga_jarlbjornneg_2:jarlbjornneg_31|Who is Aelfred?
 ; dlga_jarlbjornneg_2:jarlbjornneg_32|Why not take the letter to the Mercians? We are in their kingdom.
 ; dlga_jarlbjornneg_2:jarlbjornneg_33|The king of West Seaxe is Aethelred. Why not give the letter to him?
@@ -2912,10 +2917,9 @@ dlga_jarlbjorn_5_2:jarlbjorn_6|{s4}
 ; dlga_raethbarthbodoletter_52:raethbarthbodoletter_6|I'm not sure we can get information in Friese. It might be best to go Frankia directly... but this is something we cannot decide right now, you and me.
 ; dlga_raethbarthbodoletter_53:raethbarthbodoletter_6|{s2}^^My brother Bjorn could tell you some stories about the warriors of Asturias, and even in Al-Andalus, where he lost most of his ships. We are talking about 600 men versed in war. You should give up this matter.
 ; dlga_raethbarthbodoletter_54:raethbarthbodoletter_6|I have sent men to look for Sven Bull Neck in every corner of Englaland. I can tell you that he survived his battle with Harald Haraldsson, but has not been seen since. Some say he's traveling south with his men.
-; dlga_raethbarthbodoletter_6:raethbarthbodoletter_7|I will send messengers to my brothers to join them soon. We will discuss this letter and make a decision. I have to ask you something. I need you go north, to the territory of the Kingdom of Alban. The Picts never cease to cause us problems, and I need someone to punish them.
-; dlga_raethbarthbodoletter_6:raethbarthbodoletter_91|But first talk to my brother, Jarl Halfdan Ragnarsson, and offer him your allegiance. It is important for you to enter his service as soon as possible.
-; dlga_raethbarthbodoletter_91:lord_pretalk|Halfdan is a clever man who will appreciate your worth. Good luck.
-; dlga_raethbarthbodoletter_1_1:raethbarthbodoletter_7|I sent a messenger to my brothers for a meeting. We are holding this meeting to direct the affairs of the kingdom, but we will discuss this letter and make a decision soon. Meanwhile, I have to ask you something. I need you go north, to the territory of the Kingdom of Alban. The Picts never cease to cause us problems, and we need someone to punish them.
+; dlga_raethbarthbodoletter_6:raethbarthbodoletter_91|I will send a messenger to my brother, Jarl Halfdan Ragnarsson, for a meeting. We will discuss this letter and make a decision soon. Meanwhile, go yourself to talk to the him and offer him your allegiance. You are a person of great ability. You must enter the service of Northhymbre for us to reward you fully as you deserve.
+; dlga_raethbarthbodoletter_91:lord_pretalk|Halfdan is a clever man who will appreciate your worth.^^After that, return to me, for I already have a task for you..
+; dlga_raethbarthbodoletter_1_1:raethbarthbodoletter_7|Ah, {playername}. I am honored that you have joined us. Now, as I mentioned, I already have something to ask of you.^^ I need you go north, to the territory of the Kingdom of Alban. The Picts never cease to cause us problems, and we need someone to punish them.
 ; dlga_raethbarthbodoletter_7:raethbarthbodoletter_81|What is it you need done?
 ; dlga_raethbarthbodoletter_7:raethbarthbodoletter_82|I'm sorry. My priority is Sven Bull Neck.
 ; dlga_raethbarthbodoletter_81:raethbarthbodoletter_9|I want to secure our rear. We cannot take any action against the south, Asturians or Franks if the Picts can raise an army and attack Jorvik.^Recruit an army and conquer Dun Taruo. Keep it in your power for at least twenty days, so that Alban will think that we plan to attack the heart of their kingdom. If you want to keep it, it's yours, but we need thirty days to secure a deal with Alban.
@@ -2956,10 +2960,9 @@ dlga_jarlbjorn_5_2:jarlbjorn_6|{s4}
 ; dlga_aelfredbodoletter_52:aelfredbodoletter_6|West Seaxe has informants across Englaland. If Sven Bull Neck appears somewhere, soon we'll know. As soon as I know something, I'll let you know.
 ; dlga_aelfredbodoletter_53:aelfredbodoletter_6|{s2}^^I see. Take this silver. About Sven Bull Neck, West Seaxe has informants across Englaland. If Sven Bull Neck appears somewhere, soon we'll know.
 ; dlga_aelfredbodoletter_54:aelfredbodoletter_6|Well, friendship is one of the most cherished virtues among the Saxons. By helping him, you have helped West Seaxe. Take this reward and know that as soon as we know anything of the whereabouts of Sven Bull Neck, we'll let you know.
-; dlga_aelfredbodoletter_6:aelfredbodoletter_7|I will send a messenger to my brother, the king, for a meeting. We will discuss this letter and make a decision soon. I have to ask you something. We have received repeated requests from the lands of the Welsh for help. Things are very hectic there. Because of our confrontation with the Danish, we were unable to give the full attention the problem deserves. I want you go there on behalf of West Seaxe and impose peace.
-; dlga_aelfredbodoletter_6:aelfredbodoletter_91|But first, talk to my brother, the king, and offer him your allegiance. It is important for you to enter the service of West Seaxe.
-; dlga_aelfredbodoletter_91:close_window|My brother is a good man. I am sure he will accept you. Good luck.
-; dlga_aelfredbodoletter_1_1:aelfredbodoletter_7|I sent a messenger to my brother, the king, for a meeting. The meeting is to direct the affairs of the kingdom, but we will discuss this letter and make a decision soon. I have to ask you something. We have received repeated requests from the lands of the Welsh for help. Things are very hectic there. Because of our confrontation with the Danish, we were unable to give the attention the problem deserves. I want you go there on behalf of West Seaxe and impose peace.
+; dlga_aelfredbodoletter_6:aelfredbodoletter_91|I will send a messenger to my brother, the king, for a meeting. We will discuss this letter and make a decision soon.^^Meanwhile, go yourself to talk to the king and offer him your allegiance. You are a person of great ability. You must enter the service of West Seaxe for us to reward you fully as you deserve.
+; dlga_aelfredbodoletter_91:close_window|My brother is a good man. I am sure he will accept you.^^After that, return to me, for I already have a task for you.
+; dlga_aelfredbodoletter_1_1:aelfredbodoletter_7|Ah, {playername}. I am honored that you have joined us. Now, as I mentioned, I already have something to ask of you.^^We have received repeated requests from the lands of the Welsh for help. Things are very hectic there. Because of our confrontation with the Danish, we were unable to give the attention the problem deserves. I want you go there on behalf of West Seaxe and impose peace.
 ; dlga_aelfredbodoletter_7:aelfredbodoletter_81|What you need me to do?
 ; dlga_aelfredbodoletter_7:aelfredbodoletter_82|I am sorry. My priority is Sven Bull Neck.
 ; dlga_aelfredbodoletter_82:aelfredbodoletter_81|You can be sure that, when you return from this mission, we will have news about Sven Bull Neck for you. Sven Bull Neck is a man known for his outbursts of rage, so our informers will soon hear something.
@@ -3984,11 +3987,13 @@ dlga_lady_tournament_dedication_reaction:lady_pretalk|{s9}
 ; dlga_lady_recite_poetry:lady_pretalk|Actually, I can't think of any that I would care to recite...
 dlga_lady_recite_poetry_response:lady_private_conversation_end|{s11}
 ; dlga_lady_private_conversation_end:lady_pretalk|Time is passing quickly, and we cannot linger here too long.
+; dlga_lady_talk:lady_ask_lover_no2|My lady, is there chance for something more in our relationship?
 ; dlga_lady_talk:lady_ask_lover|My lady, is there chance for something more in our relationship?
 ; dlga_lady_talk:lady_marriage_discussion|Do you think that we may have a future together, my lady?
 ; dlga_lady_ask_lover:lady_start_lover|Yes, {playername}, I have always felt very fond of you. You will always be in my heart!
 ; dlga_lady_ask_lover:lady_talk|No, {playername}, I am a married woman. I love my husband and would prefer us to remain friends.
 ; dlga_lady_start_lover:lady_talk|But my reputation depends on your discretion, {playername}. I trust you will do everything in your power to ensure no one, especially my husband, would ever learn about our love.
+; dlga_lady_ask_lover_no2:lady_talk|No, {playername}, are you crazy? We barely know and I am a married woman! I love my husband and would prefer us to remain friends.
 ; dlga_lady_marriage_discussion:lady_other_suitor|Sir -- as you may know, I have been entertaining offers from a number of gentlemen such as yourself. I am not yet at a stage where I can commit to any of them.
 ; dlga_lady_marriage_discussion:lady_proposal_refused|It is good to hear that you are thinking seriously about the future. However, I would like to see you rise a little further in the world before I am ready to commit to marry you.
 ; dlga_lady_marriage_discussion:lady_proposal_refused.1|It is good to hear that your intentions are honorable. However, I have resolved only to marry a man of the strongest moral fiber. I would like you to prove yourself more in that regard.
@@ -4468,8 +4473,10 @@ dlga_tavernkeeper_pretalk:tavernkeeper_talk|Coś jeszcze?
 ; dlga_tavernkeeper_talk:tavernkeeper_deliver_wine_lost|I was told to deliver to you {reg9} units of {s4}, but I lost the cargo on the way.
 ; dlga_tavernkeeper_deliver_wine_lost:tavernkeeper_pretalk|What? I have been waiting for that {s4} for weeks, and now you tell me that you lost it? You may rest assured that I will let {s1} know about this.
 ; dlga_tavernkeeper_talk:tavernkeeper_messenger_system1|I want to send a message.
-; dlga_tavernkeeper_messenger_system1:tavernkeeper_messenger_system2|We can do that. To whom would you like to send the message? I've heard the following are not too far to reach:
-dlga_tavernkeeper_messenger_system2:tavernkeeper_messenger_system3|{s1}.
+; dlga_tavernkeeper_messenger_system1:tavernkeeper_messenger_system2|We can do that. Who do you want to sent it to? I've heard the following are nearby:
+dlga_tavernkeeper_messenger_system2:tavernkeeper_messenger_system3|{s1}
+dlga_tavernkeeper_messenger_system2:tavernkeeper_messenger_system3.1|{s1}.
+dlga_tavernkeeper_messenger_system2:tavernkeeper_messenger_system3.2|{s1}.
 ; dlga_tavernkeeper_messenger_system2:tavernkeeper_pretalk|No, none of those. Later, perhaps.
 ; dlga_tavernkeeper_messenger_system3:tavernkeeper_messenger_system4|Very well. What is the message?
 ; dlga_tavernkeeper_messenger_system4:close_window|It is this...
@@ -4482,7 +4489,7 @@ dlga_tavernkeeper_messenger_system2:tavernkeeper_messenger_system3|{s1}.
 ; dlga_tavernkeeper_buy_drinks_troops:tavernkeeper_buy_drinks_troops_2|Of course, {reg59?my lady:my lord}. I reckon {reg5} peningas should be enough for that. What should I tell the lads?
 ; dlga_tavernkeeper_buy_drinks_troops_2:tavernkeeper_buy_drinks_troops_end|The price is fair enough. Let my men have at it.
 ; dlga_tavernkeeper_buy_drinks_troops_end:tavernkeeper_pretalk|Don't worry {reg59?madam:sir}. Your men will enjoy their pints.
-; dlga_tavernkeeper_buy_drinks_troops_2:tavernkeeper_pretalk|Actually, forgot this.
+; dlga_tavernkeeper_buy_drinks_troops_2:tavernkeeper_pretalk|Actually, forget this.
 ; dlga_tavernkeeper_talk:tavernkeeper_job_ask|Have you heard of anyone in this realm who might have a job for a {reg59?woman:man} like me?
 ; dlga_tavernkeeper_job_ask:tavernkeeper_job_search|Hmm... Well, {s10} is often looking for mercenaries to fight in his wars.{s9}
 ; dlga_tavernkeeper_talk:tavernkeeper_herrero|Where can I get special weapons and armor?
@@ -4521,7 +4528,7 @@ dlga_ransom_broker_info_talk:ransom_broker_pretalk|To wszystko co potrzebuję wi
 ; dlga_ransom_broker_pretalk:ransom_broker_talk|Anyway, if you have any prisoners, I will be happy to buy them from you.
 ; dlga_ransom_broker_talk:ransom_broker_sell_prisoners|Then you'd better bring your purse. I have prisoners to sell.
 ; dlga_ransom_broker_talk:ransom_broker_sell_prisoners_done|I want to sell all prisoners I have.
-; dlga_ransom_broker_sell_prisoners_done:ransom_broker_pretalk|Well. Back when you have more slaves for me.
+; dlga_ransom_broker_sell_prisoners_done:ransom_broker_pretalk|Well, come back when you have more slaves for me.
 dlga_ransom_broker_talk:ransom_broker_intro_2|Powiedz mi jeszcze raz czym się zajmujesz.
 ; dlga_ransom_broker_talk:ransom_broker_ransom_companion|I wish to ransom one of my companions.
 ; dlga_ransom_broker_ransom_companion:ransom_broker_ransom_companion_choose|Whom do you wish to ransom?
@@ -4601,20 +4608,20 @@ dlga_book_trade_completed:bookseller_talk|Coś jeszcze?
 ; dlga_herrero_buy:herrero_trade|But of course, {reg59?madam:sir}.
 ; dlga_herrero_buy:close_window|Sorry, friend, but my art is for the men of fame only. Come back when you've made a name for yourself (600 renown).
 ; dlga_herrero_trade:herrero_choose|I sell specialty items. I can make a noble sword or elite spear, or I can sell you an axe from Frankia, and more... The quality depends on the material that I have today. What would you like?
-; dlga_herrero_choose:herrero_window|I'd like the sword. I'll call it Widow Maker (30000 peningas).
-; dlga_herrero_choose:herrero_window.1|The spear, please (14000 peningas).
-; dlga_herrero_choose:herrero_window.2|I'd like the Frankish axe. It's a symbol of wealth (17000 peningas).
-; dlga_herrero_choose:herrero_window.3|I'd like something else. Surprise me (4 options, 25000 peningas).
+; dlga_herrero_choose:herrero_window|I'd like the sword. I'll call it Widow Maker (13000 peningas).
+; dlga_herrero_choose:herrero_window.1|The spear, please (8000 peningas).
+; dlga_herrero_choose:herrero_window.2|I'd like the Frankish axe. It's a symbol of wealth (11000 peningas).
+; dlga_herrero_choose:herrero_window.3|I'd like something else. Surprise me (4 options, 10000 peningas).
 ; dlga_herrero_choose:close_window|Nothing. Thank you.
 ; dlga_herrero_window:close_window|Good luck. Remember my name if you need something else. Farewell.
 ; dlga_town_merchant_talk:armorer_buy|I like your armors, but I need something more... special.
 ; dlga_armorer_buy:armorer_trade|Sure thing, {reg59?madam:sir}.
 ; dlga_armorer_buy:close_window|Sorry, friend, but my art is for the men of fame only. Come back when you've made a name for yourself (600 renown).
 ; dlga_armorer_trade:armorer_choose|I sell specialty items. I can sell you a suit of mail from Frankia. If you need a helmet, I can make you a noble helmet or a hersir helmet, and more... The quality depends on the material that I have today. What would you like?
-; dlga_armorer_choose:armorer_window|The mail, please. I'd like to have it (33000 peningas).
-; dlga_armorer_choose:armorer_window.1|I'd like the noble helm. It's a symbol of wealth (18000 peningas).
-; dlga_armorer_choose:armorer_window.2|I'd like the hersir helm. I love how it accentuates my facial features (20000 peningas).
-; dlga_armorer_choose:armorer_window.3|I'd like something else. Surprise me (4 options, 22000 peningas).
+; dlga_armorer_choose:armorer_window|The mail, please. I'd like to have it (17000 peningas).
+; dlga_armorer_choose:armorer_window.1|I'd like the noble helm. It's a symbol of wealth (9000 peningas).
+; dlga_armorer_choose:armorer_window.2|I'd like the hersir helm. I love how it accentuates my facial features (12000 peningas).
+; dlga_armorer_choose:armorer_window.3|I'd like something else. Surprise me (4 options, 19000 peningas).
 ; dlga_armorer_choose:close_window|Nothing. Thank you.
 ; dlga_armorer_window:close_window|Good luck. Remember my name if you need something else. Farewell.
 ; dlga_start:quastuosa_talk|Hello, {reg59?my lady:my lord} - she smiles and looks at you provocatively -, How can I serve you?
@@ -4724,7 +4731,7 @@ dlga_start:mercenary_tavern_talk01|{s4}
 ; dlga_mercenary_tavern_talk01:mercenary_tavern_talk02|You seem somebody strong and accustomed to hard life. I am interested in recruiting you.
 ; dlga_mercenary_tavern_talk01:close_window|Sorry, I did not mean to bother you. Farewell.
 ; dlga_mercenary_tavern_talk02:close_window|Don't you see I am busy? I do not have time or inclination to join you.^^(You need 150 renown to recruit high-level troops).
-; dlga_mercenary_tavern_talk02:mercenary_tavern_talk|I am a traveler in these lands, but I might consider staying for a while in your service if you pay well, {reg59?madam:sir}. {reg3?Me and {reg4?{reg3} of my mates:one of my mates} are:I am} want to hear what you can offer.More to the point, we're talking about {reg5} peningas.
+; dlga_mercenary_tavern_talk02:mercenary_tavern_talk|We are traveling through these lands, but we might consider staying if you hire us, {reg59?madam:sir}. {reg3?Me and {reg4?{reg3} of my mates:one of my mates}:I} will join you for {reg5} peningas.
 ; dlga_start:mercenary_after_recruited|Any orders, {reg59?madam:sir}?
 ; dlga_mercenary_after_recruited:mercenary_after_recruited_2|Make your preparations. We'll be moving at dawn.
 ; dlga_mercenary_after_recruited:mercenary_after_recruited_2.1|Take your time. We'll be staying in this town for a while.
@@ -5039,15 +5046,15 @@ dlga_bardo_sing_lady2:bardo_pretalk|Nie ważne.
 ; dlga_start:pagano_talk|West thu hal, {reg59?my lady:my lord}. I am a priest of Odin, the almighty carrier-off the dead, which, if brave enough, forever rest by his side at the great halls of Walhalla. He is also the trickster god, the one-eyed one, and the leader of the Wild Hunt.
 ; dlga_pagano_pretalk:pagano_talk|West thu hal, {playername}. What do you need?
 ; dlga_pagano_talk:pagano_angry|I am not a pagan, but follow Christ! You should do the same.
-; dlga_pagano_angry:close_window|Oooooodiiiiin! Only because we are at this place, I will not immediately offer your life to the gods... -The priest's eyes burn like a hot-lit fireplace-. Begone from my sight! Let this land neither feed you nor give you rest but speed you away to cursed grave.
-; dlga_pagano_talk:pagano_ayuda|I am still true to the pagan ways, for I respect and pay homage to Woden, and love war -you down your head with respect.-
+; dlga_pagano_angry:close_window|Oooooodiiiiin! Only because we are in this place will I not immediately offer your life to the gods. - The priest's eyes burn with hot fire. - Begone from my sight! Let this land neither feed you nor give you rest, but speed you away to a cursed grave.
+; dlga_pagano_talk:pagano_ayuda|I am still true to the pagan ways, praying to Woden and waging war. - You bow your head. -
 ; dlga_pagano_talk:pagano_ayuda.1|I wish to be taught about the old gods so that I might honor them (conversion to paganism).
 ; dlga_pagano_talk:close_window|I have no need for a man of any god at this time.
-; dlga_pagano_ayuda:pagano_ayuda2|Come, brave warrior! - He smiles, pleased. - Odin is more than pleased to smile upon great warriors like yourself, and he knows your feats of arms. I am here to bring you back to honour the old gods of our ancestors, {playername}. But you must also help us. Christianity spreads like a plague, and displaces the old gods from their rightful seats. We need money to recruit warriors to kill their coward clerics, you must donate 300 peningas. - He places his hands on your shoulders. - This way, I can spread everywhere how {playername} is truly favoured by Odin, Thor, and Freiya, thus letting all the kingdom know of your respect for our gods, but you must fund my travels, and this will cost you 1000 peningas.
+; dlga_pagano_ayuda:pagano_ayuda2|Come, brave warrior! - He smiles, pleased. - Odin is more than pleased to smile upon great warriors like yourself, and he knows your feats of arms. I am here to bring you back to honour the old gods of our ancestors, {playername}, but you must also help us. Christianity spreads like a plague and displaces the old gods from their rightful seats. We need money to recruit warriors to kill their cowardly clerics. - He places his hands on your shoulders. - We ask for just 300 peningas. I can even tell everyone how {playername} is truly favoured by Odin, Thor, and Freiya, letting all the kingdom know of your respect for our gods, but you must fund my travels. My travel expenses would amount to 1000 peningas for that.
 ; dlga_pagano_ayuda2:pagano_sins|Kill them all. I will donate 300 coins.
 ; dlga_pagano_sins:pagano_pretalk|Thank you, warrior of Woden. I will talk to your men about Woden and his sons Wecta, Baeldaeg, Casere and Wihtlaeg. That will encourage them to fight proudly by your side, to earn their seats at Waelcyrge.
-; dlga_pagano_ayuda2:pagano_pretalk|Thank you, I want this realm to love and respect me. I will give you 1000 coins.
-; dlga_pagano_ayuda2:pagano_angry|Are you selling to Woden? You are a pig!
+; dlga_pagano_ayuda2:pagano_pretalk|Thank you. I want this realm to love and respect me. I will give you 1000 coins.
+; dlga_pagano_ayuda2:pagano_angry|Are you selling to Woden? What a pig you are!
 ; dlga_pagano_ayuda2:pagano_pretalk.1|Actually, cancel that order.
 ; dlga_start:problema_juicio8|Well, have you talked to them?^For us, these lands are very important, and the jarl's happiness, you must know, depends on ours.^^Are you ready for a verdict?
 ; dlga_start:problema_juicio7|Are you ready for my judgment?
@@ -5465,6 +5472,7 @@ dlga_farmstead_boss_sins:farmstead_boss_sins2|{s4}
 ; dlga_start:reeve_talk|Hello, stranger. You seem to be new to {s9}. I am the reeve of this fort.
 ; dlga_start:reeve_begin.1|Good day, {playername}.
 ; dlga_reeve_begin:reeve_friendly_pretalk|I have heard that you found the perpetrator and recovered my valuable {s13}. You are really as good as they say. Here is your reward: {reg5} peningas.
+; dlga_reeve_begin:close_window|I heard that you lost a fight against the runaway guard and my valuable {s9} is gone forever.  I am very disappointed, {playername}, as I've heard so many good things about your reliability. 
 ; dlga_reeve_begin:reeve_friendly_pretalk.1|I have heard about your deeds. You have given those bandits the punishment they deserved. You are really as good as they say. Here is your reward: {reg5} peningas. I would like to give more but those bandits almost brought me to bankruptcy.
 ; dlga_reeve_begin:reeve_talk|What can I do for you?
 ; dlga_reeve_friendly_pretalk:reeve_talk|Now... What else may I do for you?
@@ -5523,10 +5531,11 @@ dlga_mayor_looters_quest_goods_response:mayor_looters_quest_goods_2|{s5}.
 ; dlga_mayor_looters_quest_goods_2:close_window|Well done, {playername}! That's the last of the goods I need. Here is the money for your {s6} and a small bonus for helping me out. I'm afraid I won't be paying for any more goods or offering bounties on looters, but you're welcome to keep hunting the bastards if any remain. Thank you for your help. I won't forget it.
 ; dlga_mayor_begin:close_window|Good to see you again, {playername}. I have heard that you have delivered the cattle successfully. I will tell the merchants how reliable you are. And here is your pay, {reg8} peningas.
 ; dlga_mayor_begin:move_cattle_herd_failed|I heard that you have lost the cattle herd on your way to {s9}. I had a very difficult time explaining your failure to the owner of that herd, {reg59?madam:sir}. Do you have anything to say?
+; dlga_mayor_begin:close_window.1|I heard that you lost a fight against the runaway guard and my valuable {s9} is gone forever.  I am very disappointed, {playername}, as I heard so many good things about your reliability. 
 ; dlga_move_cattle_herd_failed:move_cattle_herd_failed_2|I am sorry, but I was attacked on the way.
 ; dlga_move_cattle_herd_failed:move_cattle_herd_failed_2.1|I am sorry. The stupid animals wandered off during the night.
 ; dlga_move_cattle_herd_failed_2:merchant_ask_for_debts|Well, it was your responsibility to deliver that herd safely, no matter what. You should know that the owner of the herd demanded to be compensated for his loss. I had to pay him 1000 peningas, so you now owe me that money.
-; dlga_mayor_begin:close_window.1|{playername} -- I am in your debt for bringing back my friend's daughter.  Please take the {reg8} peningas that I promised you.  My friend wished he could give more but paying that ransom brought him to his knees.
+; dlga_mayor_begin:close_window.2|{playername} -- I am in your debt for bringing back my friend's daughter.  Please take the {reg8} peningas that I promised you.  My friend wished he could give more but paying that ransom brought him to his knees.
 ; dlga_mayor_begin:mayor_friendly_pretalk|Well -- it sounds like you were able to track down the bandits, and show them what happens to those who would disrupt the flow of commerce. Here is your reward: {reg5} peningas. It is well earned, and we are most grateful.
 ; dlga_mayor_begin:mayor_friendly_pretalk.1|I have heard about your deeds. You have given those bandits the punishment they deserved. You are really as good as they say. Here is your reward: {reg5} peningas. I would like to give more but those bandits almost brought me to bankruptcy.
 ; dlga_mayor_begin:mayor_friendly_pretalk.2|I have heard that you found the perpetrator and recovered my valuable {s13}. You are really as good as they say. Here is your reward: {reg5} peningas.
@@ -6438,7 +6447,7 @@ dlga_town_dweller_talk:close_window|[Odejdź]
 ; dlga_party_relieved:close_window|Thank you for helping us against those bastards.
 ; dlga_start:battle_reason_stated|I will drink from your skull!
 ; dlga_member_chat:regular_member_talk|Your orders, {reg59?madam:sir}?
-; dlga_regular_member_talk:view_regular_char_requested|Tell me about yourself
+; dlga_regular_member_talk:view_regular_char_requested|Tell me about yourself.
 ; dlga_view_regular_char_requested:do_regular_member_view_char|Aye, {reg59?madam:sir}. Let me tell you all there is to know about me.
 dlga_do_regular_member_view_char:regular_member_talk|Coś jeszcze?
 ; dlga_regular_member_talk:caliacas_son1|Bran, what is your story?
@@ -6489,7 +6498,7 @@ dlga_start:merchant_quest_1_prologue_11|{s1}
 ; dlga_raiders_bribe12:close_window|Now why would you ask us to turn insult into injury? You're the one that's crazy.
 ; dlga_raiders_bribe13:close_window|It's your head that you should be considering. Not that it's very good at that. At 'em, boys!
 ; dlga_start:free|Hello. What can I do for you?
-; dlga_free:view_char_requested|Tell me about yourself
+; dlga_free:view_char_requested|Tell me about yourself.
 ; dlga_view_char_requested:view_char|Very well, listen to this...
 dlga_view_char:free|Coś jeszcze?
 ; dlga_end:close_window|[Done]

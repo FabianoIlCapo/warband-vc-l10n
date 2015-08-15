@@ -105,7 +105,7 @@ ui_explanation_throwing|S'applique à l'utilisation des armes de jet telles que 
 ; ui_explanation_strength|Strength: Every point adds +1 to hit points. The following skills can not be developed beyond 1/2 of Strength: ironflesh, Power-strike, Power-throw, Power-draw, Inventory Management. Every 5 levels, you get an extra point to add to your attributes.
 ; ui_explanation_agility|Agility: Each point gives five weapon points and slightly increases movement speed. The following skills can not be developed beyond 1/2 of Agility: weapon-master, Spotting, Athletics, Riding, Path finding, Looting. Every 5 levels, you get an extra point to add to your attributes.
 ; ui_explanation_intelligence|Intelligence: Every point to intelligence immediately gives one extra skill point. The following skills can not be developed beyond 1/2 of Intelligence: Trainer, Tracking, Tactics, Wound treatment, Surgery, First-aid, Engineer, Navigation, Weapon Maintenance. Every 5 levels, you get an extra point to add to your attributes.
-; ui_explanation_charisma|Charisma: Each point increases your party size limit by +1. The following skills can not be developed beyond 1/2 of Charisma: Sea King, Leadership, Persuasion, Trade. Every 5 levels, you get an extra point to add to your attributes.
+; ui_explanation_charisma|Charisma: Affect in dialogues, seduction and how others see you. Each point increases your party size limit by +1. The following skills can not be developed beyond 1/2 of Charisma: Sea King, Leadership, Persuasion, Trade. Every 5 levels, you get an extra point to add to your attributes.
 ui_level|Niveau : %d
 ui_xp|Expérience : %d
 ui_next_level_at|Niveau suivant à : %d

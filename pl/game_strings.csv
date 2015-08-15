@@ -389,7 +389,7 @@ str_npc4_intro|Tak?
 ; str_npc15_intro|Yeia sou! Yeia sou! To your health, {reg59?madame:sir}. My name is Agathinos. Are you by any chance heading out of this place any time soon?
 ; str_npc16_intro|Ah... you... I...
 ; str_npc1_intro_response_1|Yes, I know. Tell me about yourself.
-; str_npc2_intro_response_1|Speak, Egil
+; str_npc2_intro_response_1|Speak, Egil.
 ; str_npc3_intro_response_1|Calm down. I intend you no harm. Why are you so afraid?
 ; str_npc4_intro_response_1|You're not very talkative, are you?
 ; str_npc5_intro_response_1|Certainly. With whom do I have the pleasure of drinking?
@@ -421,13 +421,13 @@ str_npc4_intro_response_2|Nie.
 ; str_npc15_intro_response_2|I'd be obliged if you minded your own business, sir.
 ; str_npc16_intro_response_2|I'm going. When you learn to talk, let me know.
 ; str_npc1_backstory_a|Warlord, I am the youngest son of the man known as the old Roman. As you know, my family is a legend in this area. We preserve the history of our ancestors, who patrolled Hadrian's Wall.
-; str_npc2_backstory_a|A little time, {reg59?madame:sir}. Listen to my story. I am important to you.
+; str_npc2_backstory_a|I crave a little of your time, {reg59?madame:sir}. Listen to my story. I am important to you.
 ; str_npc3_backstory_a|I... I am sorry, but please understand. My life has been a living hell since I became a maid in the house of the jarl of Kennemer.
 ; str_npc4_backstory_a|I am a man of action. If you want a man of words, find a priest.
 ; str_npc5_backstory_a|I am Morgant from Bosvenegh. However, I am exiled from my homeland for now...
-; str_npc6_backstory_a|I should be dead, but I still live when others who should be alive are dead. I came to consider the ship that brought me north, The Woden Ric, as a home, with its crew as my family. So when the Vikings attacked, I grabbed my sword and my shield and prepared to defend them to the death.^^The Cantabrians are Christians, but some of us still remember the old gods. One in particular, Erudino, guides us in battle, and I shout his name while attacking with my sword.
+; str_npc6_backstory_a|{reg59?Madam:Sir}, I should be dead, but I still live while others who should be alive are dead. I came to consider the ship that brought me north, the Woden Ric, as a home, with its crew as my family. So when the Vikings attacked, I grabbed my sword and my shield and prepared to defend them to the death.^^The Cantabrians are Christians, but some of us still remember the old gods. One in particular, Erudino, guides us in battle, and I shout his name while attacking with my sword.
 ; str_npc7_backstory_a|My luck? You could say that.
-; str_npc8_backstory_a|Ah. Well, if you must know, I shall tell you.
+; str_npc8_backstory_a|Ah. Well, if you must know, I shall tell you. Not many people around here will listen to good old Reginhard.
 ; str_npc9_backstory_a|My most humble apologies. It is sometimes hard to recognize folk amid the smoke and gloom here. I still cannot believe that I must make my home in such a place.
 ; str_npc10_backstory_a|It's a long story, but if you get yourself a drink, I'll be glad to tell it.
 ; str_npc11_backstory_a|Calm down, {reg59?my pretty:handsome}. It is wiser to be grateful, but allow me to introduce myself. My name is Solveig Olafsdottir. I'm not just any woman. I'm a skjaldmo.
@@ -437,13 +437,13 @@ str_npc4_intro_response_2|Nie.
 ; str_npc15_backstory_a|Well, let me tell you. I'm an engineer who specializes in the art of fortification. If you need a wall knocked down, I am your man. If you need a wall built back up, I am your man too -- but that will take a bit longer and cost you a lot more.
 ; str_npc16_backstory_a|Excuse me, {reg59?madame:sir}... I am a man of God, a priest of Christ. You are {playername}...
 ; str_npc1_backstory_b|I, personally, am a very fine tracker. Actually, I am the best tracker around, as my mission has always been to protect my family when we left the caves. Releasing me to your service, my father has done you a great favor.
-; str_npc2_backstory_b|I am a son of King Horik, but not a legitimate one. The king likes pretty women, and, well, he met my mother among the handmaids of his wife. So that's how I got here, I guess. I was happy during my childhood in Ribe, but soon the king sent me to live with one of his huskarls. The man was tough and violent. He insisted on teaching me how to handle the spear, sword and shield. He didn't let me drink mead or frequent the company of girls. Can you believe someone would inflict such hardship?
+; str_npc2_backstory_b|I am a son of King Horik, but not a legitimate one. The king likes pretty women, and, well, he met my mother among the handmaids of his wife. So that's how I got here, I guess. I was happy during my childhood in Ribe, but soon the king sent me to live with one of his huskarls.^^The man was tough and violent. He insisted on teaching me how to handle the spear, sword and shield. He didn't let me drink mead or frequent the company of girls. Can you believe someone would inflict such hardship?
 ; str_npc3_backstory_b|I used to live in a small village, Doccinga. I was happy. My father, Thonkrik, cared a lot for me since my mother died. But, one day, the jarl of Kennemer stopped in our village, and he saw me. He, damn him, forced my father to send me to his house as a maid for his wife. He promised that he would respect me, but he lied. I don't like to speak of this... Well, since then I had really become a slave. I had to give myself to him and then to his men.
 ; str_npc4_backstory_b|What you ought to know is that my name is Donnchadh of Dal Riata and that I am a Scot.
 ; str_npc5_backstory_b|For as long as anyone can remember, our family has feuded with another nearby clan. Many men have died in this fight, on both sides, including two of my brothers. The king of Cornubia ordered us to cease, but I know my rights, and my brothers' blood cries out for vengeance. I waylaid and killed an enemy on a mountain path, and I rode out of our hall the same night, without even having the chance to bid farewell to my father. I was later told that the king exiled me and revoked my noble rights. I am now condemned to roam the world, forever banished from my homeland and my kin.
 ; str_npc6_backstory_b|I'm not an idiot. I knew that the battle was lost. We were outnumbered, and they were better armed, but I asked Erudino to let me kill as many as possible before my trip to paradise. I hoped my sacrifice would allow the others to flee or cause fear among the Vikings, but these Vikings were hardened men who knew their job well. Half a dozen of them surrounded me and beat me while their companions invaded the Woden Ric and killed whomever stood in their way...
 ; str_npc7_backstory_b|It was my bad luck to be ordered by a stupid Pictish warlord to scout the woods during the night. It was my bad luck that the enemy had laid a carefully planned ambush and considerably outnumbered our small war party. It was my bad luck that I was the only one who managed to escape from the bloodshed. It was my bad luck that the war council deemed me a traitor, and I had to flee from my tribe during the night. It is my bad luck to have you to tell all this to right now.
-; str_npc8_backstory_b|Not many people around here will listen to good old Reginhard. I was born in Dorestad, and my life has not exactly been easy, but I was happy until my wife and two children died of an unknown plague two years ago. I had a farm, you know, and I sold it because everything in it reminded me of them. Now I'm a drunk and an idiot and no one wants to be with me ... well, until you came along.
+; str_npc8_backstory_b|I was born in Dorestad. My life has not exactly been easy, but I was happy until my wife and two children died of a plague two years ago. I had a farm, you know, and I sold it because everything in it reminded me of them. Now I'm a drunk and an idiot and no one wants to be with me... well, until you came along.
 ; str_npc9_backstory_b|I am a Frank, my father's first son, his heir and the bravest warrior in his hall, but when my mother died, my father remarried. His new wife thought that her son should inherit. She could not move against me openly, but the other day I fed a pot of suet that had been left out for me to one of my hounds, and it keeled over. I accused my stepmother, but my father, befuddled by her witchcraft, refused to believe me and ordered me to leave his sight.
 ; str_npc10_backstory_b|I am a Saxon warrior. I have fought my whole life against the Welsh, and Angles too. The fate of West Seaxe is to govern Englaland. It is the arrogance and hatred of our neighbors that prevents this land from being unified under a single king. The way I see it, only a Saxon ruler or at least a man that does not accept the arrogance of those peoples can truly bring peace to this land.
 ; str_npc11_backstory_b|By your face, I see you do not know what I'm talking about. Well, I must admit that there are not many like me, and here even less than in my own land, Northvegr. So you can understand, a skjaldmo is a virgin who takes the way of weapons. Also poetry, since poetry and war come from the same impulse.
@@ -454,10 +454,10 @@ str_npc4_intro_response_2|Nie.
 ; str_npc16_backstory_b|Sorry... I am an idiot. Let me introduce myself. I am Beda. I joined the Holy Church when I was but a boy and eventually became a priest. I believe that even the toughest warrior has a place for Christ in his heart and that I can better fulfill the mission God gave to me in a shield wall than in a sacristy.
 ; str_npc1_backstory_c|For my part, I can only say that I was willing to travel and see the world. You have given me this opportunity. I am glad that, when my father asked my brothers and me who would pay his debt, I volunteered.
 ; str_npc2_backstory_c|Now I serve in the guard of King Horik. I'm not particularly happy, since I'm in the shadow of hardened men who won the job by their efforts, while I was granted my position only by the virtue of being a bastard son of the king.
-; str_npc3_backstory_c|I so desperately wanted to escape. If only I could start a new, free life... You could take me with you! I could help mend the wounds of your warriors. I could even learn to be a warrior myself, if that's what it takes to be free again. Will you take me with you, {reg59?madame:sir}?
+; str_npc3_backstory_c|I so desperately wanted to escape. If only I could start a new, free life...^^I know! You could take me with you! I could help mend the wounds of your warriors. I could even learn to be a warrior myself, if that's what it takes to be free again. Will you take me with you, {reg59?madame:sir}?
 ; str_npc4_backstory_c|Another important thing is that I do not like Picts. Yes, I know my people are ruled by the kings of Alban, but that does not mean they have become one people. We are Gaels, and not those rats.
 ; str_npc5_backstory_c|So, as a man robbed of his heritage, any opportunities to earn a living with my sword would be most welcome.
-; str_npc6_backstory_c|I saw everyone down: the captain, the sailors, the archers that protected the boat... and I thought I myself was dead until I woke up in the Viking ship, tied hand and foot. I was a prisoner, but thank God, I escaped. I'm a miserable man before Erudino. I should be dead and the others alive. Now I just live for redemption.
+; str_npc6_backstory_c|I saw everyone down: the captain, the sailors, the archers that protected the boat... and I thought I myself was dead until I woke up in the Viking ship, tied hand and foot. I was a prisoner, but thank God, I escaped.^^Now, I am a miserable man before Erudino. I should be dead and the others alive. Now, I just live for redemption.
 ; str_npc7_backstory_c|But I do not count myself unlucky, stranger, no more than any other woman in this world. This fetid backwater is populated by apes and jackals that do not see that it is worth it to live another day just to kill the hated enemy, and that the way of the tracker and the hunter is better than the way of the ignorant warrior. 
 ; str_npc8_backstory_c|'Reginhard the Fool,' some call me here. Shit, I shouldn't even be here.
 ; str_npc9_backstory_c|I hope to offer my sword to some worthy warlord, as it is the only honorable profession for a man of my birth apart from owning land, but in the meantime, I am condemned to make my bed among thieves, vagabonds, merchants, and the other riff-raff of the road.
@@ -494,7 +494,7 @@ str_npc4_intro_response_2|Nie.
 ; str_npc8_backstory_response_1|I can offer you opportunities and a future.
 ; str_npc9_backstory_response_1|Perhaps you would like to join my shield wall for a while.
 ; str_npc10_backstory_response_1|If you're looking for work, I can use experienced fighters.
-; str_npc11_backstory_response_1|Why... of course! Plenty of luck to go around!
+; str_npc11_backstory_response_1|So you wish to join for luck? Why... of course! Plenty of luck to go around!
 ; str_npc12_backstory_response_1|A doctor, eh? Yes, you are welcome.
 ; str_npc13_backstory_response_1|I might be able to use you in my shield wall.
 ; str_npc14_backstory_response_1|I might be able to use an extra sword.
@@ -518,13 +518,13 @@ str_npc4_intro_response_2|Nie.
 ; str_npc16_backstory_response_2|Sorry, priest. You sound like you might be trouble. I respect whatever faith.
 ; str_npc1_signup|I will serve with loyalty and dedication, I will become worthy of your trust.
 ; str_npc2_signup|I was trained by Thorgil. Look at me well, because unlike many who are with you, I'm a warrior. I could beat anyone here with spear or sword. I'm worth perhaps five men like yours.
-; str_npc3_signup|I am? Really, would you help me escape and protect me? Well, I am in no position to be picky! I would be pleased to join you in exchange for my freedom.
+; str_npc3_signup|I am? Will you really help me escape and protect me? Well, I am in no position to be picky! I would be pleased to join you in exchange for my freedom.
 ; str_npc4_signup|Then I'm your man. Do not ask me to talk too much, but give me an axe and a shield and let me do my job.
 ; str_npc5_signup|Why, that is a most generous offer.
 ; str_npc6_signup|Fate is written with blood and steel, and my redemption weaves through them both.
 ; str_npc7_signup|I might be. I'm not really happy to be here. At first, I thought this would be a safe place, filled with people looking to get away from it all and draw closer to the old gods, but that man, the high druid, is crazy! He kills people for fun, saying that invokes the gods, but the truth is that he knows them very little.
 ; str_npc8_signup|Thank you, my friend! I know I'm rough. Thank God for people like you giving me a chance.
-; str_npc9_signup|I would very much like that, {reg59?madame:sir}
+; str_npc9_signup|I would very much like that, {reg59?madame:sir}.
 ; str_npc10_signup|Well, I guess I can give you the chance to prove your worthiness. I shall fight for you.
 ; str_npc11_signup|Oh, luck can't be valued too much. This is a harsh, harsh world. The timid die young, {reg59?my pretty:handsome}, and the bold quickly follow.
 ; str_npc12_signup|I am glad. I am young, and my thirst for knowledge knows no limits. I hope our travels will help increase my experience.
@@ -1520,17 +1520,17 @@ str_npc1_kingsupport_2b|Zapomnij.
 ; str_feast_lengthy_description_4|You have provided enough food and drink, and with sufficient varieties, to do yourself credit. The food, drink, and merriment have loosened your guests' tongues, allowing them to converse candidly about the matters of the realm, and deepening their trust in you.
 ; str_feast_lengthy_description_5|You have provided a bountiful table not just for your noble guests but also for their retinues, with food left over to be distributed to the poor. Your guests lavish praise upon you for your generosity, and for your understanding of the social obligations of your rank. The conversation, fueled by the food and drink, has been merry, strengthening the bonds between those who attended.
 ; str_feast_lengthy_description_6|The realm will be speaking of the bounty of your table for months to come, and it will become the standard to which all other feasts will aspire. You have filled the bellies not just of your noble guests and their retinues, but also of the poor who flocked to the gates. 
-; str_credits_1|Â©2010 TaleWorlds Entertainment. Mount & Blade: Warband^Â©2014 Brytenwalda S.L. Viking Conquest
+; str_credits_1|©2010 TaleWorlds Entertainment. Mount & Blade: Warband^©2014 Brytenwalda S.L. Viking Conquest
 ; str_credits_2|BRYTENWALDA S.L.^^Game Design^Alberto Fuentevilla^Matthias Grohmann^Michael 'Motomataru' Richter
 ; str_credits_3|Programming^Alberto Fuentevilla^Matthias Grohmann^Michael 'Motomataru' Richter^Slawomir Libura^Michael Lyubchenko^^Special thanks for the Battle GUI^Alexander Souslov (Snowbird Studios)
 ; str_credits_4|Scenes^Asbjorn Lindegaard Moller^^Models^Cesar Inarrea^Leyre Ramirez^Miguel Egana Silva^^2D Art^Yeyo Balbas^^Textures^Miguel Egana Silva^Sebastian Wunnicke
 ; str_credits_5|Shaders^Marc Natta^^Animations^Slawomir Libura^^Concept Artist^Yeyo Balbas
 ; str_credits_6|Script^Alberto Fuentevilla
 ; str_credits_7|Music^Marcus Bressler - Viking Raid^CrystalMoors - Antiqvam Exqvirite Matrem, Nabia Orebia, The Unconquered Land^Juha-Matti Koppelomaki - Viking War Horns^Symphony of Specters - Day of War^Mike Sea - Go Vikes.^KlepatoDesign - The Ancients^Darius Sobolewski - Nordic Orchestra^Logan Epic Canto - Celtic Spirit^Allegro120 - Celtic^Cinemonia - Celtic Legend^^Tim Donovan - Solemn Funeral Pyre, Fallen Warrior^MrHumble - Ballad of a Hero.^^External support^Yughues Nobiax^Stephen Pollington
-; str_credits_8|Testers and contributions^^Kalarhan^Hunta^Ragnarson^Takeda Shingen^YourStepDad^Nijis^Krisvk^Dowdpride^Arch3r^Kazzan^Rurin^Fredelios^Blivandefar^Cleric Johnson^AZAN^Mitchell^M^Ozan Celik^Reiksmarshal^Hrotha^^Very special thanks to the players and betatesters of the original Brytenwalda module for many years of valuable feedback, only a fraction of which we had time to implement.^^Marketing Assets^Miguel Egana Silva (KreativLandschaft)
-; str_credits_10|TALEWORLDS ENTERTAINMENT^^Lead Programming^Cem Ã‡imenbiÃ§er^Åžahin Serdar KoÃ§demir^^Programming^Mustafa Korkmaz^GÃ¶khan Uras^DÃ¼ndar Ãœnsal
-; str_credits_11|Lead Artist^Ã–zgÃ¼r Saral^^Artists^AndaÃ§ BingÃ¶l^Deniz KÃ¶klÃ¼^Fatma Nadide Ã–cba^FÄ±rat Murat Ã‡ebi^GÃ¶kalp DoÄŸan^OÄŸuz Tunceli^Sten Oom
-; str_credits_12|TaleWorlds Management^^Founder/Chief Executive Officer^ArmaÄŸan Yavuz^^Chief Operating Officer^Ali Erkin^^Producer/Business Development^Vishnu Vijayakumar^^PR/Community Manager^Frank Elliott
+; str_credits_8|Testers and contributions^^Kalarhan^Kraggrim^Hunta^Ragnarson^Takeda Shingen^YourStepDad^Nijis^Krisvk^Dowdpride^Arch3r^Kazzan^Rurin^Fredelios^Blivandefar^Cleric Johnson^AZAN^Mitchell^M^Ozan Celik^Reiksmarshal^Hrotha^^Very special thanks to the players and betatesters of the original Brytenwalda module for many years of valuable feedback, only a fraction of which we had time to implement.^^Marketing Assets^Miguel Egana Silva (KreativLandschaft)
+; str_credits_10|TALEWORLDS ENTERTAINMENT^^Lead Programming^Cem Çimenbiçer^Şahin Serdar Koçdemir^^Programming^Mustafa Korkmaz^Gökhan Uras^Dündar Ünsal
+; str_credits_11|Lead Artist^Özgür Saral^^Artists^Andaç Bingöl^Deniz Köklü^Fatma Nadide Öcba^Fırat Murat Çebi^Gökalp Doğan^Oğuz Tunceli^Sten Oom
+; str_credits_12|TaleWorlds Management^^Founder/Chief Executive Officer^Armağan Yavuz^^Chief Operating Officer^Ali Erkin^^Producer/Business Development^Vishnu Vijayakumar^^PR/Community Manager^Frank Elliott
 ; str_credits_9|Live Action Video^^Daniel Renger^Martin Unglert^Josef Becker^Jan Jaegers^Markus Beck^Jurgen Bonisch^Chris Czichowsky^Florian Dosch^Michael Exner^Fryzel Hans-Jurgen^Alexandra Gorner^Alexander Gorner^Franz Hauser^Jenna Klein^Claudia Klingner^Marcus Langer^Hans Lendorf^Markus Mickel^Patrick Mouka^Corinna Oppitz^Sibylle Oppitz^Bernd Rohde^Volker Schlott^Benjamin Schuler^Michael Schuler^Rebekka Schuler^Julia Schuster^Alexander Seufert^Susan Sumer^Johannes Werth^Bernd Wolfsteiner^Sabine Wudy^Sebastian Wudy^Stefan Wudy^^Location^Geschichtspark Barnau^^Logotype^Jason Brown^^Cover Art^Piotr Fox Wysocki^^Layout^Christian Sabe^Melina Grundel^^Poster^Piotr Fox Wysocki^^Concept Art^Ganbat Badamkhand^^Manual Editing & Digital Wordsmithing^Ryan Newman^Nick Stewart^^Web^Martin Ericsson^^Marketing Assets^2Coats^^Localization^S&H Entertainment Localization
 ; str_multi_scene_1|Saxon Village
 ; str_multi_scene_2|Din Tagell
@@ -1856,7 +1856,7 @@ str_done|Gotowe
 ; str_i_mine_iron_from_a_vein_in_a_nearby_cliffside_they_use_it_to_make_tools_arms_and_other_goods|I mine iron from a vein in a nearby cliffside. They use it to make tools, arms, and other goods.
 ; str_i_make_pottery_which_people_use_to_store_grain_and_carry_water|I make pottery, which people use to store grain and carry water.
 ; str_trade_explanation_tools|I work in a smithy, {reg59?madame:sir}, making all sorts of ironware -- knives, axes, pots, plough-blades, scythes, hammers, anvils, tongs, adzes, saws, nails, horseshoes, firesteel, braziers, and of course arms and armor for your excellencies.
-; str_trade_explanation_tar|I work in a tar kiln, producing tar from pine wood brought in from the countryside. If you can afford it, our tar has a hundred uses â€“ to waterproof sails and boats or to protect leather.
+; str_trade_explanation_tar|I work in a tar kiln, producing tar from pine wood brought in from the countryside. If you can afford it, our tar has a hundred uses – to waterproof sails and boats or to protect leather.
 ; str_trade_explanation_linen|I weave linen, using flax brought in from the surrounding countryside. It's makes a tough, light fabric, {reg59?madame:sir} -- good for summer clothing, sails for boats, and the like.
 ; str_trade_explanation_silver|I work in one of this town's silver smithies, carefully making the jewelry for which we are known. We use the precious metal brought from the German silver mines of the Harz Mountains, to make of it the finest and most expensive ornaments that can be found in the land.
 ; str_trade_explanation_mead|I work in a mead factory, collecting honey from the beehives to put into barrels. I mix it with pure water, for fermenting. Mead is cheaper than wine and more renowned than beer. No feast can be held without it.
@@ -1865,9 +1865,9 @@ str_done|Gotowe
 ; str_trade_explanation_ivory|I sail to the far north to hunt walrus on the remote beaches of the icy land beyond the ocean. These marine beast have two prominent tusks of fine ivory. Back home, carvers make a lot of precious objects with this hard, expensive and pure white material.
 ; str_trade_explanation_leatherwork|I work in the tanneries outside the walls, turning cured hides from the countryside into good, supple leather. It's foul work, and I come home stinking of urine, dung, and lime -- but that's where your boots, saddles, and bridles come from, {reg59?my lady:sir}.
 ; str_trade_explanation_flax|I sew and harvest linseed, and rot the stems to make flax fibers. That's the source of your fine linens, {reg59?my lady:sir} -- a rotting pit on the edge of a field.
-; str_trade_explanation_soapstone|I work in a quarry of soapstone. This stone can be hewed directly from the rock face and shaped to be sold here and abroad. Soapstone is relatively soft and can be easily carved, so itâ€™s used for sculpture or bowls.
+; str_trade_explanation_soapstone|I work in a quarry of soapstone. This stone can be hewed directly from the rock face and shaped to be sold here and abroad. Soapstone is relatively soft and can be easily carved, so it’s used for sculpture or bowls.
 ; str_trade_explanation_venison|I hunt deer in the forest and work in a smokehouse, in which I smoke meat to preserve it for long periods. During the cold season, and even in summer, venison is the finest meal you can eat.
-; str_s14_i_hear_that_you_can_find_a_good_price_for_it_in_s15|{s14}. I hear that you can find a good price for it in {s15}.
+; str_s14_i_hear_that_you_can_find_a_good_price_for_it_in_s15|{s14} I hear that you can find a good price for it in {s15}.
 ; str_s2s_rebellion|{s2}'s Rebellion
 ; str_political_suggestion|Political suggestion
 ; str_instability_reg0_of_lords_are_disgruntled_reg1_are_restless|Instability: {reg0}% of lords are disgruntled, {reg1}% are restless
@@ -2491,7 +2491,7 @@ str_done|Gotowe
 ; str_s9_asked_you_to_attack_a_village_or_some_caravans_as_to_provoke_a_war_with_s13|{s9} asked you to attack a village or some caravans as to provoke a war with the {s13}.
 ; str_s9_asked_you_to_catch_the_three_groups_of_runaway_serfs_and_bring_them_back_to_s4_alive_and_breathing_he_said_that_all_three_groups_are_heading_towards_s3|{s9} asked you to catch the three groups of runaway serfs and bring them back to {s4}, alive and breathing. He said that all three groups are heading towards {s3}.
 ; str_you_intend_to_bring_goods_to_s9_in_preparation_for_the_feast_which_will_be_held_as_soon_as_conditions_permit|You intend to bring goods to {s9} in preparation for the feast, which will be held as soon as conditions permit.
-; str_hello_playername|Hello, {playername}
+; str_hello_playername|Hello, {playername}!
 ; str_ah_my_gentle_playername_how_much_good_it_does_my_heart_to_see_you_again| How much good it does my heart to see you again! Sometimes, I feel that there is a mystic bond between us that transcends the distance.
 ; str_playername__i_am_so_glad_to_see_you_again_i_must_say_i_do_envy_your_freedom_to_ride_out_and_experience_the_world| I must say, I do envy your freedom to ride out and experience the world.
 ; str_playername__i_am_so_glad_to_see_you_i_trust_that_you_have_been_behaving_honorably_since_last_we_met| I trust that you have been behaving honorably since last we met.
@@ -2666,7 +2666,7 @@ str_farewell|Żegnaj.
 ; str_quick_battle_troop_cam|Watch the AI play the battle out. The camera uses the standard movement and rotation controls, plus F for up and V for down, +/- for zoom, Q to toggle follow terrain, numpad for game speed, mouse wheel for camera speed, arrow key rotation, Y to toggle invert y-axis, and R to toggle rotate-before-pan.
 ; str_strategy_cam|This camera follows the player. One may increase distance with the F key and reduce it with the V key. +/- for zoom, numpad for game speed (when cheats are enabled), and mouse wheel for camera speed.
 ; str_tutorial_training_ground_intro_message|Walk around the training field and speak with the fighters to practice various aspects of combat. You can use ASDW keys to move around. To talk to a character, approach him until his name appears on your screen and then press the F key. You can also use the F key to pick up items, open doors and interact with objects. Press the Tab key to exit the tutorial any time you like.
-; str_tutorial_doccinga_ground_intro_message|Doccinga is a small fishing village on the coast of Friese. People here are hard working and still very prosperous although foreigners no longer come as they did before the death of the old sorcerer. When you go into the village, you see a lot of activity around you. Apart from the busy villagers, some warriors swarm among the people, exercising the arts of war, perhaps preparing for an adventure beyond the sea. Maybe you can ask the warriors for practice in the various aspects of combat... (Remember: ASDW keys to move around. To talk to a character, approach him until his name appears on your screen and then press the F key. You can also use the F key to pick up items, open doors and interact with objects. Press the Tab key to exit Doccinga.)
+; str_tutorial_doccinga_ground_intro_message|Doccinga is a small fishing village on the coast of Friese. People here are hard working and still very prosperous, although foreigners no longer come as they did before the death of the old sorcerer. When you go into the village, you see a lot of activity around you. Apart from the busy villagers, some warriors swarm among the people, exercising the arts of war, perhaps preparing for an adventure beyond the sea. Maybe you can ask the warriors for practice in the various aspects of combat... (Remember: ASDW keys to move around. To talk to a character, approach him until his name appears on your screen and then press the F key. You can also use the F key to pick up items, open doors and interact with objects. Press the Tab key to exit Doccinga.)
 str_map_basic|Mapa
 str_game_type_basic|Tryb gry
 str_battle|Bitwa
@@ -3357,7 +3357,7 @@ str_combat_ai|AI w walce:
 ; str_special_setting|Special Setting
 ; str_formation_feature|Formation Setting
 ; str_performance_feature|Performance Setting
-; str_battle_size_text|Limits the maximum number of troops in a battle. If you are experiencing poor performance in battles, try to reduce this.^Also check the Game Video Options for more settings that can improve your performance. You can access those from the main game menu or by pressing ESC when you are in the world map.
+; str_battle_size_text|Limits the maximum amount of troops on a battlefield at once. If you experience low performance in big battles, you should try to reduce the battle size. A battle size above the engine maximum of 300 could cause problems.^^For additional settings, you can try the Video Options, available in the game's main menu, or accessible during the game by pressing ESC.
 ; str_this_setting_affects_all|This setting affects the player and all game characters.
 ; str_game_concepts_tutorial|^^By now, you have some experience with Viking Conquest. If this is your first game, we recommend making yourself familiar with some of the game concepts. You will be directed to a page that presents them now.^^You can always come back to this page on the campaign map. Simply click the 'Notes' button and from there the 'Game concepts' button.
 ; str_wounds|Wounds:
@@ -3366,6 +3366,12 @@ str_combat_ai|AI w walce:
 ; str_game_difficulty_warning|Game Difficulty Warning
 ; str_game_difficulty_warning_desc|At the current Campaign AI level, {s1} of the bandit parties will be stronger than the player's upon spawning. They will have up to {reg1} troops.^^Reset that level from the ESC options menu if desired. Deserters will not be affected, and sea based bandits always start with a minimum of one ship (30 men).
 ; str_player_division|Player division:
+; str_poll_cooldown|Delay between polls (seconds)
+; str_polls_disabled_for_reg1|Polls are disabled for {reg1} seconds.
+; str_poll_cooldown_is_now_reg1|Delay between polls is now set to {reg1} seconds.
 ; str_poll_change_gametype|{s0} started a poll to change game type to {s1}.
 ; str_poll_to_change_gametype|Poll to change game type to {s1}: 1 = Accept, 2 = Decline
 ; str_make_gametype_voteable|Allow polls to change game type
+; str_changing_gametype_is_voteable|Changing gametype is voteable.
+; str_changing_gametype_is_not_voteable|Changing gametype is not voteable.
+; str_weapon_break|Damageable Equipment:
