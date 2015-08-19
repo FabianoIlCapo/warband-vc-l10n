@@ -301,7 +301,7 @@ mno_village_buy_food|Compra vettovaglie dai contadini.
 mno_comprar_cattle|Vorrei comprare del bestiame.
 mno_village_attack_bandits|Attacca i banditi.
 mno_village_wait|Aspetta qui per un po' di tempo.
-; mno_collect_taxes_qst|{reg5?Continue collecting taxes:Collect taxes}.
+mno_collect_taxes_qst|{reg5?Continua a raccogliere tasse:Raccogli tasse}.
 mno_train_peasants_against_bandits_qst|Addestra i paesani.
 mno_village_hostile_action|Compi un'azione ostile.
 mno_village_leave|Parti...
@@ -389,7 +389,7 @@ mno_town_arena|Visitare i campi di allenamento.
 ; mno_town_arena_door|To the training grounds.
 mno_town_dungeon|Mai: Entra nella prigione.
 ; mno_town_dungeon_door|To the prison.
-; mno_castle_inspect|Tour the grounds.
+mno_castle_inspect|Visitare i giardini.
 mno_castle_inspect_door|Lascia.
 mno_town_enterprise|Visitare la tua fattoria.
 ; mno_town_enterprise_door|To your enterprise.
@@ -738,7 +738,7 @@ mno_sacri_1|Indietro.
 ; menu_discurso_11|You inspect the troops and move among them.  While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'Let us go out from this burning place into the open and stand up to our enemies. He who dies shall be with our god. He who dies not, his name will be honoured. I go first, and what I do, you do. May God be my witness, I will never leave you, my brothers and fellow knights!'
 ; menu_discurso_12|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'The sun will set on our enemy this evening, but we shall shine as the rays of the sun on a spring day. You may be nervous and trembling now, but your shaking hands are nothing compared to theirs. They are but autumn leaves in the wind; we are the howling storm that will scatter them across the meadows, never to be seen again. Brandish your spears. Be the thunder that topples their tree. This land is ours -- these woods, these hills, these fields -- and so shall it be season after season, year after year, forever and ever!'
 ; menu_doccinga_messenger|A farmer approaches, beating a squalid mule. He stops in front of you, takes a breath and shouts,^^'Sven Bull Neck is advancing on Doccinga with three ships! Thonkrik sent me to warn you. {s4} won't come; he has left us to luck! I will give the news to the other jarls, but they are Danish and do not worry about Frisians. Please, we need your help. Save our people!'^^The farmer kicks his mule and rides away from you. His desperate words, 'Save our people,' remain in your mind, an echo of distress.
-; mno_choice_01_1|Continue
+mno_choice_01_1|Continua
 ; menu_doccinga_messenger2|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'Thonkrik seeks your presence in Doccinga, {playername}. He has captured a prisoner from Sven Bull Neck's Viking raiders in the recent battle.^He thinks you'll be interested in interrogating him and requests that you go to see him as soon as you can. Thonkrik does not know how long he can hold the prisoner before the king or jarl claims him.'
 ; menu_doccinga_c_assault|From a hill near Doccinga, you can see that the townspeople are fleeing. Some of the braver ones and a few of the king's men are trying to form a shield wall at the beach, ready to defend their possessions or, in the worst case, to protect their loved ones' escape.^^Far off, in the sea, you distinguish three Viking warships. You cannot see them well from this far, but it isn't hard to imagine that they are full of warriors.^^Your mind cannot help but return to memories of that naval battle where Sven Bull Neck attacked your ship. Now, finally, the big Viking is again within reach.^^From Doccinga, you notice that a man leaves, running. He looks like a warrior. Noticing you, he heads towards you...
 ; mno_choice_01_1d|Advance to help Doccinga and meet the warrior.
@@ -751,7 +751,7 @@ mno_choice_01_3d|Continua.
 ; mno_choice_01_1e|Enter Doccinga.
 ; menu_doccinga_victory|Blood drips from your hand to your elbow. Around you, there is only death, and your ears are filled with the groans of the dying.^^The Vikings, defeated, have returned to the sea, leaving behind many dead and wounded, but the cost has been very high.^^Sven Bull Neck was not among the assailants, and that surprises you, as the boats were his. Where then is your hated enemy?^^Thonkrik's words resonate in your mind. Perhaps it is time to pay a visit to the jarl of Kennemer. He has some explanations to give.
 ; menu_frisa_proscrito|The time given by the jarl of Kennemer to leave Doccinga is over. Now you are an outlaw in Friese.
-; mno_choice_01_1a|Continue
+mno_choice_01_1a|Continua
 ; menu_thiaderd_muerto|The fight was tough. Thiaderd's men fought like lions, but your troops managed to finish them off.^^Thiaderd's corpse is among the bodies of his warriors. You have done your part; all that's left is to loot Thiaderd's camp, located just ahead.
 ; menu_thiaderd_battle|The battle is inevitable. Thiaderd is furious upon seeing Reginhard and orders his men to attack.
 ; mno_choice_01_thiaderd|To battle!
@@ -845,7 +845,7 @@ mno_talk_to_egil|Continua.
 ; menu_egil_duel|Egil moves toward you. The men close around the two of you. It's you or him...
 ; mno_fight_egilreb|Fight.
 menu_backfrom_frankia|{s4}
-; mno_choice_01_1frankia|Continue
+mno_choice_01_1frankia|Continua
 ; menu_cueva_odin|The smell of the sea is pervasive in this area, and the rumble of the waves crashing against the cliffs resonates in your head like thunder. There is a path, very narrow at the end of a beach, where you distinguish traces of men. It is a difficult way that you can only follow on your own, so you order your people to wait behind while you investigate.
 ; mno_choice_doccingas|I need to recruit more men.
 ; menu_orm_duel|You move from the farm to a clearing, where Ulf's thralls are preparing a ritual circle of stones that mark the boundary of the dueling area. Around you, all the men from the farm and your men form another circle to cheer you on.^^In front of you, Orm the Black warms his oversized muscles. He seems confident. Perhaps, given his spotless record of wins, he can't be said to be too confident. Your companions give you pats on the back, advice and wishes for good luck. All but Reginhard, who is pessimistic and says he will record the runes on your gravestone. Suddenly, Egil points toward Orm. The berserker has ceased to warm up his muscles. His body convulses uncontrollably, and his mouth foams white. Suddenly, he lifts his head and, looking at you with bloodshot eyes, shouts something unintelligible. He launches himself towards you like a viper, much more quickly than one would expect from such a large man...
@@ -858,7 +858,7 @@ menu_duel_troop_rebelion|{s4}
 ; menu_duel_rebelion_enemyback|Frightened by your fierceness, your opponent in the end refuses to face you in duel. He withdraws while your troops tease him for his cowardice.
 ; menu_duel_rebelion_win|The duel is over. Your enemy lies on the ground, defeated by your skill with weapons. You hope that this serves as a warning to other potential rivals. Now your mission is to restore confidence and improve your army's morale.
 ; menu_thething_messenger|A messenger approaches, beating his horse. He stops in front of you, takes a breath and shouts,^^'My King, Horik of Danmark, invites you to the Assembly being held near Ribe. Since it is going to be about your complaint with Sven Bull Neck and Sigurd Ragnarsson, you must go soon, or the judgment of the Assembly will go against you.'^^The messenger then kicks his mount and rides away.
-; mno_choice_01_1thing|Continue
+mno_choice_01_1thing|Continua
 ; menu_the_holmgang|A group of heavily armed men approaches you. It is led by Harald Haraldsson, king's right hand, who reminds you of your promise at the Assembly. It is the hour of the holmgang and your opponent is already on Short Island. They surround your party and lead you to a nearby beach, where a gaunt old man waits in a small boat. You get in the boat, and two of Harald's men push it into the water. The old man, without a word to you, begins paddling toward an island on the horizon.
 mno_choice_01_1duel|Continua.
 ; menu_the_holmgang2|The water is gentle. The only sound you hear is that of the oars on the water, striking in a slow and deliberate rhythm. The old man is not so old, but wrinkles of a hard life at sea make him look like an elder. He wears a worn and salt-bleached tunic, and the skin of his hands look like hard leather. His eyes are blue and crystal clear and do not look directly at you even for a moment, but remain focused on the island. Up ahead awaits an opponent who once was a companion. The Assembly has decided that two go to Short Island, but only one return. The boat stops near a small beach, and after you get off, the old man paddles it a few tens of meters back into the ocean, where he stops and waits.
@@ -897,7 +897,7 @@ mno_talk_to_alfred|Continua.
 ; mno_relax_broken|Quickly dress and take up your weapon.
 ; menu_welsh_and_pictish_complete|It has been thirty days, and you've managed to keep {s3}. It is time to return for news of Sven Bull Neck and the decision regarding the letter of Bodo.
 ; menu_messeger_mothernews|A messenger approaches, beating a squalid horse. He stops in front of you, takes a breath and shouts,^^'This message is for somebody called {playername}. If you want news of your mother, go to Boar Grove near Dommoc and look for the lumberjack's house.'^^The messenger kicks his mount until it starts moving again and rides off.
-; mno_choice_01_newsm|Continue
+mno_choice_01_newsm|Continua
 ; menu_circle_mystic|Your eyes distinguish a special place, which looks like it was raised by the ancients. Perhaps it is a good time to visit and enjoy the art of another time.
 ; mno_enter_quest|Go.
 ; mno_enter_mystic|Approach.
