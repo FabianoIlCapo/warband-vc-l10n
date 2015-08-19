@@ -1,4 +1,4 @@
-
+﻿
 ui_music_volume|Music Volume:
 ui_sound_volume|Sound Volume:
 ui_mouse_sensitivity|Mouse Sensitivity:
@@ -102,10 +102,10 @@ ui_explanation_archery|Covers usage of bows.
 ui_explanation_crossbow|Covers usage of crossbows.
 ui_explanation_throwing|Covers usage of thrown weapons like javelins, darts, stones etc.
 ui_explanation_firearms|Covers usage of slings.
-ui_explanation_strength|Strength: Every point adds +1 to hit points. The following skills can not be developed beyond 1/2 of Strength: ironflesh, Power-strike, Power-throw, Power-draw, Inventory Management. Every 5 levels, you get an extra point to add to your attributes.
-ui_explanation_agility|Agility: Each point gives five weapon points and slightly increases movement speed. The following skills can not be developed beyond 1/2 of Agility: weapon-master, Spotting, Athletics, Riding, Path finding, Looting. Every 5 levels, you get an extra point to add to your attributes.
-ui_explanation_intelligence|Intelligence: Every point to intelligence immediately gives one extra skill point. The following skills can not be developed beyond 1/2 of Intelligence: Trainer, Tracking, Tactics, Wound treatment, Surgery, First-aid, Engineer, Navigation, Weapon Maintenance. Every 5 levels, you get an extra point to add to your attributes.
-ui_explanation_charisma|Charisma: Affect in dialogues, seduction and how others see you. Each point increases your party size limit by +1. The following skills can not be developed beyond 1/2 of Charisma: Sea King, Leadership, Persuasion, Trade. Every 5 levels, you get an extra point to add to your attributes.
+ui_explanation_strength|Strength: Every point adds +1 to hit points. The following skills cannot be developed beyond 1/2 of Strength: Ironflesh, Power Strike, Power Throw, Power Draw, and Inventory Management. Every 5 levels, you get an extra point to add to attributes like this.
+ui_explanation_agility|Agility: Each point gives five weapon points and slightly increases movement speed. The following skills cannot be developed beyond 1/2 of Agility: Weapon Master, Spotting, Athletics, Riding, Path Finding, and Looting. Every 5 levels, you get an extra point to add to attributes like this.
+ui_explanation_intelligence|Intelligence: Every point to intelligence immediately gives one extra skill point. The following skills cannot be developed beyond 1/2 of Intelligence: Trainer, Tracking, Tactics, Wound Treatment, Surgery, First Aid, Engineer, Navigation, and Weapon Maintenance. Every 5 levels, you get an extra point to add to attributes like this.
+ui_explanation_charisma|Charisma: Affects dialogues, seduction, and how others see you. Each point increases your party size limit by +1. The following skills cannot be developed beyond 1/2 of Charisma: Sea King, Leadership, Persuasion, Trade. Every 5 levels, you get an extra point to add to attributes like this.
 ui_level|Level: %d
 ui_xp|Experience: %d
 ui_next_level_at|Next level at: %d
