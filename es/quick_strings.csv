@@ -177,7 +177,7 @@ qstr_Fastest|Muy rápido
 ; qstr_Wounded_troops_take_|Wounded troops take damage from blood loss.^^{s8}
 ; qstr_From_now_on_spawn_33|From now on, spawn 33% less or 50% more bandits, raiders, etc.
 ; qstr_Sets_the_player_as_c|Sets the player as commander of the chosen division. This division will set up immediately left and behind the player on Hold and Follow commands (Wedge will put player on the point). Consider it for bodyguard divisions.
-; qstr_Equipment_may_get_da|Equipment may get damaged in battles depending on its stats and the weapon maintenance skill of the party. Weaponsmiths and Armorers offer to repair and refine your Equipment.^^{s8}
+; qstr_Equipment_may_get_da|Equipment may get damaged in battles, depending on its stats and the weapon maintenance skill of the party. Moreover, weaponsmiths and armorers offer to repair your equipment.^^{s8}
 ; qstr_{s3}^^{s4}|{s3}^^{s4}
 qstr_Default|Por defecto
 qstr_Randomize|Al azar
@@ -796,6 +796,7 @@ qstr_{s3}_is_no_longer_un|{s3} ya no se encuentra bajo asedio.
 ; qstr_{s1}_has_been_besieg|{s1} has been besieged by {s2} of the {s3}.
 qstr__{s1}__{s11}:_{s14}|({s1}) {s11}: {s14}
 qstr_{s14}__{s21}_|{s14} ({s21})
+; qstr_Feast_concludes|Feast concludes
 ; qstr_{s1}_is_the_new_mars|{s1} is the new marshal of the {s2}.
 ; qstr_You_gain_{reg12}_ren|You gain {reg12} renown.
 qstr_You_lose_{reg12}_ren|Vuestro renombre ha sido mancillado en {reg12} puntos.
@@ -848,7 +849,7 @@ qstr_At_the_time_quest_wa|Esta misión, al momento de ser asignada:^{s1}
 ; qstr_The_{s5}_has_a_stren|The {s5} has a strength of {reg1} men in total.
 ; qstr_According_to_the_las|According to the last time you saw {reg1?her:him}, {s1}
 ; qstr_According_to_the_last|According to the last time you heard about {reg1?her:him}, {s1}
-; qstr_The_current_garrison|The current garrison consists of {reg5} men.^It has food stocks enough for {reg6} days.
+; qstr_The_current_garrison|The current garrison consists of {reg5} men.^It should have food stocks for {reg6} days.
 qstr_Very_Poor|Muy pobre
 qstr_Poor|Mala
 qstr_Average|Media
@@ -914,6 +915,7 @@ qstr_two_days_ago|hace dos días
 ; qstr_The_marshal_is_levyi|The marshal is levying {reg0} troops from your center {s10}.
 ; qstr_{s35}_of_the_{s34}|{s35} of the {s34}
 ; qstr_{s37}_of_the_{s36}|{s37} of the {s36}
+; qstr_You_can_t_possibly_t|You can't possibly think of marrying into my family since you do not even believe in the same gods! Convert first, then we may discuss this topic again.
 ; qstr_The_brewery_in_{s1}_|The brewery in {s1} adds to its prosperity.
 qstr_You_gain_right_to_ru|Ganáis en derecho a gobernar.
 qstr_You_lose_right_to_ru|Perdéis en derecho a gobernar.
@@ -1456,16 +1458,16 @@ qstr_Tutorial|Tutorial
 ; qstr_Do_you_want_to_stop_|Do you want to stop your work and give up your pay?
 ; qstr_Your_own_life_seems_|Your own life seems not so bad, now that you see these poor wretches working themselves into an early grave just for the bread to survive.
 ; qstr_The_rattle_of_spikes|The rattle of spikes on the stone is deafening. Below, you can see people working hard under the command of a foreman.
-; qstr_Bodo_has_received_ma|Bodo has received many blows and is semiconscious.
+; qstr_Bodo_has_received_to|Bodo has received too many blows to continue fighting.
+; qstr_Bodo_spots_you_shake|Bodo spots you, shakes his head, and silently indicates that there are still enemies about.
 ; qstr_Bandits_strike_at_yo|Bandits strike at you furiously, and you fall in a puddle of blood. They think you're dead...
 ; qstr_The_bandits_and_slav|The bandits and slavers have been dealt with. Get the prisoners and leave through the air shaft.^^When you want to leave, press TAB.
 ; qstr_You_can_t_leave_the_|You can't leave the cave while there still enemies!
 ; qstr_You_have_just_killed|You have just killed the bandit king's main bodyguards. Rummaging through their things, you find some treasures. You still need to defeat the other bandits before you can collect your reward.
 ; qstr_You_have_killed_the_c|You have killed the captain, an ugly guy, big and crooked and smelling like a rat. Picking through the remains, you find a few useful things. You still need to defeat the other bandits before you can collect your reward.
 ; qstr_Rising_victorious_ov|Rising victorious over the body of the bandit king, your steel stained with blood, you put an end to a long reign of terror and banditry with all its horrors. Among the remains of the once proud bandit king are:
-; qstr_The_body_of_Atli_Eir|The body of Atli Eiriksson, former second man of Sigurd Ragnarsson, lies at your feet. You rummage through his clothes and find a bloodstained parchment with a broken seal. It is the letter of Bodo.^ Finish with the remaining enemies in the cave before reading.
-; qstr_The_danish_and_Atli_|The danish and Atli have been dealt with. Talk to Bodo and leave through the air shaft
-; qstr_Explore_the_cave_and|Explore the cave and kill all the enemies.
+; qstr_The_body_of_Atli_Eir|The body of Atli Eiriksson, former second man of Sigurd Ragnarsson, lies at your feet. You rummage through his clothes and find a bloodstained parchment with a broken seal. It is the letter that had been entrusted to Bodo. You'll have to ask him about it.
+; qstr_The_Danish_and_Atli_|The Danish and Atli have been dealt with. Talk to Bodo about the letter.
 ; qstr_As_you_advance_you_f|As you advance, you find there is a light inside. It seems this place is not as deserted as you thought.
 ; qstr_You_feel_the_tension|You feel the tension with every step that you take.
 ; qstr_The_mouth_of_a_rock_|The mouth of a rock opens before you. All around is cold stone, and you behold graven marks in a language you do not know. What surprises and treasures are hidden here?
@@ -1485,7 +1487,7 @@ qstr_Tutorial|Tutorial
 ; qstr_Harald_s_orders_arri|Harald's orders arrive on the wind: 'We cannot hold them. They are too many. Everyone flee! Meet at Jorvik. Flee!'
 ; qstr_Try_to_flee!_|Try to flee!'
 ; qstr_A_stranger_shouts__Q|A stranger shouts, 'Quick. Back to camp. You're in danger!'
-; qstr_One_attacker_yells__|One attacker yells, 'Who are you, woman? Anyway, you're too late! {playername}, the jarl of Kennemer wants your head. You were a fool to walk away from your camp. Now you're going to die! Greet Hell for me!'
+; qstr_An_attacker_yells__W|An attacker yells, 'Who are you, woman? Anyway, you're too late! {playername}, the jarl of Kennemer wants your head. You were a fool to walk away from your camp. Now you're going to die! Greet Hell for me!'
 ; qstr_Not_far_in_the_dista|Not far in the distance are Snotingaham's walls. Exit the forest and walk towards them.
 ; qstr_You_run_into_the_for|You run into the forest and manage to flee.
 ; qstr_Your_mission_is_to_f|Your mission is to follow the road to Snotingaham on the other side of the forest, avoiding the Mercians patrols.^^If you feel lost at some point, press the K key to remember these goals.
@@ -1621,8 +1623,8 @@ qstr_{s9}_wants_you_to_fo|{s9} quiere que sigáis a su ejército hasta que os in
 ; qstr__You_are_greeted_by_| You are greeted by men loyal to you.
 ; qstr__You_are_greeted_by_m| You are greeted by men loyal to {s7}.
 ; qstr_You_make_sure_they_s|You make sure they see that their lord, {s11}, is held prisoner by your army.
-qstr_The_{reg6?town_s:cas|Las reservas de comida {reg6?de la ciudad:del castillo} deberían durar {reg3} días más.
-qstr_The_{reg6?town_s:cast|Las reservas de comida {reg6?de la ciudad:del castillo} se han agotado y los defensores están hambrientos.
+; qstr_The_{reg6?town_s:for|The {reg6?town's:fort's} food stores should last for {reg3} more days.
+; qstr_The_{reg6?town_s:fort|The {reg6?town's:fort's} food stores have run out and the defenders are starving.
 ; qstr_>>Your_men_are_build|>>Your men are building checkpoints and small camps around {s4} to prevent anyone from going in or out.^^
 ; qstr_>>Your_perimeter_con|>>Your perimeter control is ready. You have set a perimeter for surveillance around {s4}. No one can enter or leave without the knowledge of your men.^This will be beneficial especially when you have to negotiate the surrender of the castle with its commander.^^
 ; qstr_>>Your_men_are_ready|>>Your men are ready for assault.^^
@@ -1661,7 +1663,7 @@ qstr_The_{reg6?town_s:cast|Las reservas de comida {reg6?de la ciudad:del castill
 ; qstr_{s4}_lost_between_30|{s4} lost between 30 and 40% of its food reserves.
 ; qstr_{s4}_lost_between_10|{s4} lost between 10 and 20% of its food reserves.
 ; qstr_{s4}_have_between_10|{s4} have between 10 and 30% of its garrison sick for a few days.
-; qstr_^^The_garrison_has_{|^^The garrison has {reg5} men.^It has food stocks for {reg6} days.
+; qstr_^^The_garrison_has_{|^^The garrison has {reg5} men.^It should have food stocks for {reg6} days.
 ; qstr_^^The_following_armi|^^The following armies are currently inside:^
 ; qstr_{s3}_with_{reg1}_tro|{s3} with {reg1} troops.^
 ; qstr_Commander_this_town_|Commander, this town is one big rock. Many before us have fled the place before a single blow was exchanged, so we must keep morale up among the men. The path to the main gate is formidably narrow and steep, but if we set up the camp and build a battering ram, we can break down the wall at the back entrance of the town. When the wall is down, we can charge in without losing breath. The steps up to the town center are fewer there.
@@ -1736,6 +1738,9 @@ qstr_Victory_is_yours!_Yo|¡La victoria es vuestra! Habéis ganado este combate,
 qstr_You_were_beaten._The|Os han vencido. Los campesinos están felices de su éxito, pero la lección que intentabais inculcarles probablemente no les ha llegado...
 ; qstr_After_beating_your_l|After beating your last opponent, you explain to the peasants how to defend themselves better against such an attack. You hope that they will take the experience to heart and be better prepared next time.
 qstr_The_bandits_are_brok|¡Los bandidos han sido derrotados! Los pocos que quedan vivos y conscientes huyen con el rabo entre las piernas, aterrorizados de los campesinos y de su nuevo líder.
+; qstr_Can_t_merge_both_fle|Can't merge both fleets because your sea-king skill isn't high enough.
+; qstr_Can_t_merge_both_flee|Can't merge both fleets because this would exceed the fleet limit of seven ships.
+; qstr_Fleets_merged.|Fleets merged.
 ; qstr_The_trader_you_are_e|The trader you are escorting does not want to use a ferry.
 ; qstr_The_ferry_station_is|The ferry station is too small and can't transport a marshal and his whole army.
 ; qstr_You_can_t_enter_the_|You can't enter the port because you are not welcome in this town.
@@ -2164,6 +2169,7 @@ qstr_{s1}_is_scouted.|Habéis localizado {s1}.
 ; qstr_Faction_became_hosti|Faction became hostile
 ; qstr_Due_to_the_good_word_|Due to the good word influential pagans spread about you, your relationship with the {s1} improves.
 ; qstr_Due_to_the_bad_word_i|Due to the bad word influential pagans spread about you, your relationship with the {s1} declines.
+; qstr_{s1}_has_become_hosti|{s1} has become hostile to you due to your mistreatment of Pagan subjects.
 ; qstr_{s13}_has_too_many_t|{s13} has too many troops garrisoned in and may be picked by marshal to levy soldiers.
 ; qstr_most|most
 ; qstr_half|half
@@ -2216,8 +2222,6 @@ qstr_{s1}_is_scouted.|Habéis localizado {s1}.
 ; qstr_The_village_leader_o|The village leader of {s34} revokes your right to recruit due to bad relations between you and his village.
 ; qstr_fixing_banners;_plea|fixing banners; please reset your banner
 ; qstr_unable_to_restore_ba|unable to restore banner {reg0} assigned to troop {reg1}
-; qstr_Updating_econ_info|Updating econ info
-; qstr_Setup_complete|Setup complete
 ; qstr_Prisoners_revolted!_|Prisoners revolted! near {s33}
 ; qstr_Your_gift_sent_to_{s|Your gift sent to {s13} appeared to improve your relations with him.
 ; qstr_Gift_Sent_to_Lord|Gift Sent to Lord

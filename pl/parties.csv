@@ -46,7 +46,7 @@ p_zendar|Zendar
 ; p_castle_16|Stanford
 ; p_castle_17|Norwic
 ; p_castle_18|Haegelisdun
-; p_castle_19|Rendlaesburh
+; p_castle_19|Rendlaesham
 ; p_castle_20|Grantebrycge
 ; p_castle_21|Hrofae Ceaster
 ; p_castle_22|Dornwara Ceaster
@@ -185,12 +185,12 @@ p_zendar|Zendar
 ; p_village_65|Bal Sebuirge
 ; p_village_66|Bal Magh
 ; p_village_67|Bal Magh Cobha
-; p_village_68|Bal Mor North
+; p_village_68|Bal Mor
 ; p_village_69|Bal Clochair
 ; p_village_70|Bal Fearnmhaigh
 ; p_village_71|Bal Macha
 ; p_village_72|Bal Dumai
-; p_village_73|Bal Mor South
+; p_village_73|Bal Mor
 ; p_village_74|Bal Eachadha
 ; p_village_75|Bal Breacain
 ; p_village_76|Bal Crannoc
@@ -250,9 +250,8 @@ p_zendar|Zendar
 ; p_village_130|Bal Maistiu East
 ; p_village_131|Bal Maistiu West
 ; p_village_132|Tref Meguaidd East
-; p_village_133|Tref Meguaidd West
-; p_village_134|Tom Ham East
-; p_village_135|Tom Ham South
+; p_village_135|Tref Meguaidd West
+; p_village_134|Tom Ham North
 ; p_village_136|Bal Caiseal East
 ; p_village_137|Bal Caiseal West
 ; p_village_138|Bal Aileach East
@@ -363,33 +362,41 @@ p_training_ground_3|Pole do ćwiczeń
 ; p_ferry_2b|ferry station
 ; p_ferry_3b|ferry station
 ; p_ferry_4b|ferry station
+; p_jetty_1|jetty 1
+; p_jetty_2|jetty 2
+; p_jetty_3|jetty 3
+; p_jetty_4|jetty 4
+; p_jetty_5|jetty 5
+; p_jetty_6|jetty 6
 ; p_looter_spawn_point|their hideout
 ; p_looter_spawn_point2|their hideout
 ; p_looter_spawn_point3|their hideout
-; p_steppe_bandit_spawn_point|their longphort
+; p_steppe_bandit_spawn_point|their camp
 ; p_taiga_bandit_spawn_point|their longphort
 ; p_forest_bandit_spawn_point|their den
 ; p_forest_bandit_spawn_point2|their den
 ; p_forest_bandit_spawn_point4|their den
 ; p_mountain_bandit_spawn_point|their camp
 ; p_mountain_bandit_spawn_point3|their camp
-; p_sea_raider_spawn_point_1|their camp
+; p_new_sp|their parish
+; p_new_sp2|their parish
+; p_new_sp3|the countryside
+; p_new_sp4|the countryside
+; p_sea_raider_spawn_point_1|their longphort
 ; p_sea_raider_spawn_point_2|their longphort
 ; p_sea_raider_spawn_point_3|their longphort
 ; p_desert_bandit_spawn_point|their camp
-; p_frank_looters_sp_1|their camp
-; p_frank_looters_sp_2|their camp
-; p_pagan_spawn_1|the countryside
-; p_pagan_spawn_2|the countryside
-; p_pagan_spawn_3|the countryside
-; p_pagan_spawn_4|the countryside
-; p_ship_raider_spawn_point_1|the channel
-; p_ship_raider_spawn_point_2|the area
-; p_ship_raider_spawn_point_3|the area
-; p_ship_raider_spawn_point_4|the area
-; p_ship_raider_spawn_point_5|the area
-; p_ship_raider_spawn_point_6|the area
+; p_frank_looters_sp_1|their den
+; p_frank_looters_sp_2|their den
+; p_ship_raider_spawn_point_1|their landing
+; p_ship_raider_spawn_point_2|their longphort
+; p_ship_raider_spawn_point_3|their landing
+; p_ship_raider_spawn_point_4|their longphort
+; p_ship_raider_spawn_point_5|their longphort
+; p_ship_raider_spawn_point_6|their landing
+; p_testing_spawn_point|the sea
 ; p_landing_point|landing point
+; p_landing_point2|landing point2
 ; p_the_fleet|The Fleet
 ; p_transporter|Transporter
 ; p_troop_camp_1|Troop camp

@@ -879,13 +879,13 @@ dlga_member_fief_grant_2:member_fief_grant_3|{s11}
 ; dlga_member_fief_grant_2:do_member_trade|Never mind. There is no fief I can offer.
 dlga_member_fief_grant_3:close_window|{s5}
 ; dlga_start:close_window.35|You lead.
-; dlga_start:bodo_carta1|{reg59?Lady:Lord}, you got the letter!
-; dlga_start:bodo_choiceside1|Wait, {reg59?lady:lord}, it's time to say farewell to the Danish and travel south to West Seaxe. We need to deliver the letter of the king of Asturias to Aethelred Aethelwulfing, king of West Seaxe and brother of Aelfred. I will finally be able to finish my mission.
-; dlga_start:bodo_danishcamp1|{reg59?Lady:Lord}, give me a moment before we go to the Danish camp, please!
+; dlga_start:bodo_carta1|My {reg59?lady:lord}, you have retrieved the letter!
+; dlga_start:bodo_choiceside1|Wait, my {reg59?lady:lord}. It's time to say farewell to the Danish and travel south to West Seaxe. We need to deliver the letter of the king of Asturias to Aethelred Aethelwulfing, king of West Seaxe and brother of Aelfred. I will finally be able to finish my mission.
+; dlga_start:bodo_danishcamp1|My {reg59?lady:lord}, give me a moment before we go to the Danish camp, please!
 ; dlga_start:close_window.36|Good luck with Bjorn.
 ; dlga_start:sigurd_quest_revenge10|You send me to my death, my friend, but I do not blame you. I understand that you want to rescue your mother. I regret only two things: failing my king and leaving his letter in the hands of his enemies and not having obtained your fidelity when I had the chance.
 ; dlga_start:close_window.37|So, scum, did you think that you could turn against the Danish and not pay? It's time for someone else to take legitimate direction of this party. It is time for me, Egil, to take possession of this letter and bring it to my father, King Horik. I spent so long at your side, just to discover that you are a treacherous rat. After everything that has happened... Well, I have long doubted your skills to command an army. Now, you are going to die. This is my moment of glory.
-; dlga_start:close_window.38|{reg59?Lady:Lord}, you must hurry to join the king. Follow me.
+; dlga_start:close_window.38|My {reg59?lady:lord}, you must hurry to join the king. Follow me.
 ; dlga_start:close_window.39|Sorry, this is not a good time to talk.
 ; dlga_start:brunhild_avisa|My {reg59?lady:lord}, Sven's hideout was a dangerous place, but we managed to ransom Bodo. I understand you want to find your mother, but let me tell you when I was in the court of the jarl of Kennemer, I heard horrible things about Sigurd...
 ; dlga_start:companions_despuesduelo1|My {reg59?lady:lord}, we want you to know that no one blames you for what happened in the duel, and everyone still fully supports you.
@@ -1041,7 +1041,7 @@ dlga_companion_responsebodostory5:companion_responsebodostory64|{s10}
 ; dlga_companion_responsebodostory61:companion_responsebodostory7|{s2}^^You're not listening to me! I was the Sven's target. How can I betray myself?
 ; dlga_companion_responsebodostory62:companion_responsebodostory7|{s2}^^I know, and I'm so sorry.
 ; dlga_companion_responsebodostory63:companion_responsebodostory7|{s2}^^This is not the issue to deal with now... but I promised Erudino.
-; dlga_companion_responsebodostory64:companion_responsebodostory7|{s2}
+dlga_companion_responsebodostory64:companion_responsebodostory7|{s4}
 ; dlga_companion_responsebodostory7:companion_responsebodostory8|I was stupid. I believed that the Woden Ric was safe, but I was wrong. I was betrayed by its captain. The poor man thought that Sven Bull Neck would give him wealth. He was cheated, for, when the Vikings raided the Woden Ric, he was killed. Maybe that is the real reason why we stopped among those shipwrecks...
 ; dlga_companion_responsebodostory8:companion_responsebodostory9|The Woden Ric captain betrayed me -- indeed, all of us -- but I do not begrudge him that. He was just an idiot, and this cost him his life.
 ; dlga_companion_responsebodostory9:companion_responsebodostory101|He is lucky to be dead, because I would kill him myself. I hate traitors.
@@ -1631,7 +1631,7 @@ dlga_lord_start:wedding_ceremony_bride_vow|Puissent les cieux être témoins de 
 dlga_lord_start:lord_wedding_reschedule|Que c'est bon de vous voir, {playername}. Nous nous réjouissons pour la noce et dès que nous pouvons nous nous rassemblons pour la fête.{s12}
 dlga_lord_wedding_reschedule:lord_start|Pas de problème, je peux attendre.
 ; dlga_lord_wedding_reschedule:lord_ok|Then we should have a feast right now!
-; dlga_lord_ok:close_window|As you wish, you highness.
+; dlga_lord_ok:close_window|As you wish, your highness.
 ; dlga_lord_ok:close_window.1|Unfortunately, we have no acceptable venue for the event.
 dlga_lord_wedding_reschedule:lord_return_dower|Je doute que ce mariage puisse être célébré, rendez-moi mon douaire.
 dlga_lord_return_dower:close_window|Eh bien c'est votre droit, si vous n'accordez aucune confiance aux engagements de notre famille, prenez votre argent.
@@ -2446,7 +2446,7 @@ dlga_hero_pretalk:lord_talk|Autre chose ?
 ; dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot1|Sigurd Ragnarsson sent men to kill us at Ulf's farmstead.
 ; dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot2|Sigurd promised to give me Sven and my mother at Ulf's farm, but we were attacked instead.
 ; dlga_kinghorik_quest_danmarkprot2:kinghorik_quest_danmarkprot1|Sigurd will not deliver up Sven Bull Neck, his best man. If you believed he would do such a thing, then you're dumber than I thought.
-; dlga_kinghorik_quest_danmarkprot1:kinghorik_quest_danmarkprot3|My king, as you've asked me, I've been your eyes and ears. I know all the important information, because in {playername}'s camp there are no secrets. As you already know, {playername} is the one who broke Sigurd's plans to put a puppet on the throne of Friese. But it was likely by accident than a deliberate act, as {playername} is looking for Sven Bull Neck, Sigurd's first man, for revenge, and because he has imprisoned {playername}'s mother. When {playername} talked to Sigurd, they agreed that, in exchange for Bodo the Cantabrian, Sigurd would deliver up Sven and {playername}'s mother to Ulf's farm.
+; dlga_kinghorik_quest_danmarkprot1:kinghorik_quest_danmarkprot3|My king, as you've asked me, I've been your eyes and ears. I know all the important information, because in {playername}'s camp there are no secrets. As you already know, {playername} is the one who broke Sigurd's plans to put a puppet on the throne of Friese. It was more likely an accident than a deliberate act, as {playername} is looking for Sven Bull Neck, Sigurd's first man, for revenge, because Sven has imprisoned {playername}'s mother. When {playername} talked to Sigurd, they agreed that, in exchange for Bodo the Cantabrian, Sigurd would deliver up Sven and {playername}'s mother at Ulf's farm.
 ; dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4|Yes, it is more or less what I expected.
 ; dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4.1|{s2}^^Yes, I heard that Sigurd holds Bodo prisoner. Bodo will be tortured, and when they finish, Sigurd will kill him and deliver his body to Njord.
 ; dlga_kinghorik_quest_danmarkprot4:kinghorik_quest_danmarkprot41|Egil, traitor, you're nothing but a spy!
@@ -2485,8 +2485,8 @@ dlga_hero_pretalk:lord_talk|Autre chose ?
 ; dlga_kinghorik_quest_danmarkprot181:kinghorik_quest_danmarkprot19|Your neck is also important to me now, so trust me. Good luck.
 ; dlga_kinghorik_quest_danmarkprot182:kinghorik_quest_danmarkprot19|You're right. I've spent much time here. Good luck.
 ; dlga_kinghorik_quest_danmarkprot19:kinghorik_quest_danmarkprot20|{s2}^^{playername}, we have a mission to fulfill.
-; dlga_kinghorik_quest_danmarkprot20:kinghorik_quest_danmarkprot21|I will not forget you or your betrayal, Egil.
-; dlga_kinghorik_quest_danmarkprot20:close_window|Yes, do not waste any more time.
+; dlga_kinghorik_quest_danmarkprot20:kinghorik_quest_danmarkprot21|Very well, but I will not forget you or your betrayal, Egil.
+; dlga_kinghorik_quest_danmarkprot20:close_window|Yes, let us not waste any more time.
 ; dlga_kinghorik_quest_danmarkprot21:kinghorik_quest_danmarkprot22|{s2}^^You're a liar, Egil. You tricked me, I trusted you. I thought there might be something between us, and all you wanted was information about {playername}. I... we... I thought...^^{s3}
 ; dlga_kinghorik_quest_danmarkprot22:kinghorik_quest_danmarkprot23|{s2}^^King Horik is my king and my father. My loyalty is to him above any other. I don't have to give anyone an explanation. I didn't use Brunhild. We both had fun. It's her fault if she thought that it was something more. She should've known that someone like me will never marry, and certainly not a Frisian slave. You can think whatever you want, but thanks to me, you have the support of my father.
 ; dlga_kinghorik_quest_danmarkprot23:close_window|When this is over, you will walk away. You will go back to your dear father.
@@ -2703,7 +2703,7 @@ dlga_kinghorik_quest_thething17_2:kinghorik_quest_thething18|{s4}
 ; dlga_lord_talk:sigurd_quest_revenge_horik0|Sigurd, it's time to talk. I can cause you a lot of damage if you do not listen to me.
 ; dlga_lord_talk:sigurd_quest_revenge_horik|Sigurd, it's time to talk. I'm not an ordinary man; I have the support of King Horik.
 ; dlga_sigurd_quest_revenge1:lord_pretalk|I do not care who you are or what your motives may be. Here in Danmark, you're a nobody, someone insignificant. You have neither credentials nor support. I say it only once: get out of my presence, rat.
-; dlga_sigurd_quest_revenge_horik0:sigurd_quest_revenge2|{s2}^^I see. I was hoping to avoid this, but I am tired. Your mere presence offends my sight. Of course I know your name, {playername}; {s4} sent me news about you. The {reg59?lady:man} who would kill King Hrorik Hemmingsson and help us take Friese. I was happy to hear this, but then I got more news from the jarl yesterday. '{playername} is a traitor,' said the messenger. 'Be careful. {reg59?She:He} wants Sven Bull Neck and comes to talk to you. {reg59?She:He} has destroyed our plans in Friese, protected Doccinga and killed your Vikings. When you see {reg59?her:him}, kill {reg59?her:him}.' You are perhaps too bold to come here.
+; dlga_sigurd_quest_revenge_horik0:sigurd_quest_revenge2|{s2}^^I see. I was hoping to avoid this, but I am tired of trying. Your mere presence offends my sight. Of course I know your name, {playername}; {s4} sent me news about you. The {reg59?lady:man} who would kill King Hrorik Hemmingsson and help us take Friese. I was happy to hear this, but then I got more news from the jarl yesterday. '{playername} is a traitor,' said the messenger. 'Be careful. {reg59?She:He} wants Sven Bull Neck and comes to talk to you. {reg59?She:He} has destroyed our plans in Friese, protected Doccinga and killed your Vikings. When you see {reg59?her:him}, kill {reg59?her:him}.' You are perhaps too bold to come here.
 ; dlga_sigurd_quest_revenge_horik:sigurd_quest_revenge2|{s2}^^You are persistent! I was hoping to avoid this, but you name names... none other than that of King Horik.^^Of course I know your name, {playername}; {s4} sent me news about you. The {reg59?lady:man} who would kill King Hrorik Hemmingsson and help us take Friese. I was happy to hear this, but then I got more news from the jarl yesterday. '{playername} is a traitor,' said the messenger. 'Be careful. {reg59?She:He} wants Sven Bull Neck and comes to talk to you. {reg59?She:He} has destroyed our plans in Friese, protected Doccinga and killed your Vikings. When you see {reg59?her:him}, kill {reg59?her:him}.' You are perhaps too bold to come here.
 ; dlga_sigurd_quest_revenge2:sigurd_quest_revenge31|My issues are not with you. I just want to find Sven Bull Neck and my mother.
 ; dlga_sigurd_quest_revenge2:sigurd_quest_revenge32|I did not know the jarl's plans, so I defended Doccinga. I am loyal to your cause.
@@ -2908,7 +2908,7 @@ dlga_jarlbjorn_5_2:jarlbjorn_6|{s4}
 ; dlga_raethbarth_6_3:lord_pretalk|So be it. If Sven is guilty, I'll take care of him and keep the woman safe until you return.
 ; dlga_raethbarthbodoletter_1:raethbarthbodoletter_2|This is the letter that your brother Sigurd tried so earnestly to get. I will give it to you, transcribed and decoded, so you can understand the seriousness of the danger you're facing.
 ; dlga_raethbarthbodoletter_2:raethbarthbodoletter_3|{s2}^^You are a great friend of the Danish, and especially the sons of Ragnar. I must say that I knew of the existence of the alliance that unites West Seaxe, Asturias and Frankia, but I hadn't known that they had come so far. Asturias is going to send ships and men, and not any men but veterans of the wars with the Moors.
-; dlga_raethbarthbodoletter_3:raethbarthbodoletter_4|{s3}^^Frankia may have also mobilized men and ships. If West Seaxe has these men available, it could change the balance of power across the north. Sorry, I'm thinking out loud. Take this reward for serving me so well.
+; dlga_raethbarthbodoletter_3:raethbarthbodoletter_4|{s3}^^Frankia may have also mobilized men and ships. If West Seaxe receives these men, it will change the balance of power across the north. Sorry, I'm thinking out loud. Take this reward for serving me so well.
 ; dlga_raethbarthbodoletter_4:raethbarthbodoletter_51|Thank you. Could I do anything else to help?
 ; dlga_raethbarthbodoletter_4:raethbarthbodoletter_52|I could go to Friese and learn about the Franks' movements.
 ; dlga_raethbarthbodoletter_4:raethbarthbodoletter_53|I could destroy the warriors from Asturias.
@@ -3870,6 +3870,7 @@ dlga_spouse_feast_confirm:spouse_feast_confirm_yes|Envoyons les invitations.
 dlga_spouse_feast_confirm:spouse_pretalk|Alors attendons.
 dlga_spouse_feast_confirm_yes:spouse_pretalk|Et bien, je vais faire passer le mot que nous organisons un banquet dès que les conditions le permettront pour le royaume . Vous devriez peut-être continuer de provisionner notre garde-manger pour que nous honorions notre réputation d'hospitalité.
 dlga_spouse_feast_confirm_yes:spouse_pretalk.1|Alors soit, que le banquet soit immédiatement organisé dans notre demeure, {reg4?ici :}à {s9}. Vous devez continuer à approvisionner notre garde-manger, il en va de notre réputation d'hospitalité. Ainsi vous pourrez annoncer la fête à n'importe quel moment, oralement et par missives pour que tous les vassaux soient prévenus.
+; dlga_spouse_feast_confirm_yes:spouse_pretalk.2|Very well, then. Let the feast begin immediately in {s9}. You perhaps should continue to stock our larder, so that we may do justice to our reputation for hospitality. You may declare the feast to be concluded at any time, either by beginning a campaign or by letting it be known that the vassals can return to their homes.
 ; dlga_start:close_window.66|How wonderful it is... In a short while, we shall be married! However, I should point out that, in the remaining few days, it is not customary for us to speak too much together.
 dlga_start:close_window.67|{playername}, vous n'aurez pas le temps de voir nos coutumes de mariage, mais j'avais espéré que quelqu'un vous en parle. Allez d'abord voir ma {s11}, {s4}.
 dlga_start:close_window.68|Je ne sais pas où trouver mon {s11} {s10}, qui par tradition doit présider à notre mariage. Peut-être devrions-nous attendre jusqu'à ce qu'on le trouve...
@@ -5370,6 +5371,7 @@ dlga_bandit_treasure7:bandit_treasure8.4|Laisser tomber
 ; dlga_old_angry:old_ayuda|-He smiles.-^^I live here with my family, which has been here for several generations. An ancestor of mine, who took up a residence here, was said to be a Roman, or perhaps he was of Roman lineage.
 ; dlga_old_ayuda:old_sins2|The place where you have set your foot is Vallum Aelium, Hadrian's Wall. It became the frontier of civilization here, in the far north, after the Romans abandoned the Antonine Wall. Farther north, there are only Caledonians and Picts, impoverished and wild people not worth conquering.^^Vallum Aelium was garrisoned by auxiliari, non-legionary troops. My ancestor was one of those auxiliari, who became a citizen after fulfilling his military service for Rome. I was told another story about a hero in the days of King Penda who helped my family in difficult times.
 ; dlga_old_sins2:old_continue|Roma Victrix, Old man.
+; dlga_old_sins2:old_continue.1|Rome was great, Old man.
 ; dlga_old_sins2:old_continue2|The thought of Rome disgusts me, old man.
 ; dlga_old_continue:old_ayuda_2|Oh, it is good you know about the Romans or have at least heard of them. You seem like a person that I can trust. I have a favor to ask... We need your help.
 ; dlga_old_continue2:old_ayuda_2|I understand. For me Rome means nothing. It is part of my past, but only part was Roman. In fact, I am more Briton and Angle than Roman. At any rate, you seem like a person that I can trust. I have a favor to ask... We need your help.
@@ -5848,7 +5850,7 @@ dlga_village_elder_thonkrik10:village_elder_thonkrik11|{s1}
 ; dlga_doccinga_thonkrikca72_f:close_window|Follow his orders. Please fight with us! Good luck.
 ; dlga_doccinga_interrogation_1:doccinga_interrogation_12|What you want to do with the prisoner?
 ; dlga_doccinga_interrogation_12:doccinga_interrogation_mu|Kill him! He is a murderer and does not deserve to live.
-; dlga_doccinga_interrogation_12:doccinga_interrogation_mu.1|Free him. I don't want his blood to weigh on our souls.
+; dlga_doccinga_interrogation_12:doccinga_interrogation_mu.1|Free him. I don't want his blood to weigh on our hands.
 ; dlga_doccinga_interrogation_mu:doccinga_interrogation_11|It will be done as you have said. As for you, what will you do now?
 ; dlga_doccinga_interrogation_11:doccinga_interrogation_2|In Friese, I'm not wanted. I've earned powerful enemies against whom I cannot fight now, Thonkrik. My priority is my mother. I must save her. I will try finding passage to Danmark on some ship and looking for Sven Bull Neck. Maybe we will never meet again...
 ; dlga_doccinga_interrogation_2:doccinga_interrogation_3|I know you'll be back someday...
@@ -6165,7 +6167,7 @@ dlga_village_elder_tell_capture_mission_6:village_elder_capture_mission_reject|J
 ; dlga_village_elder_capture_slave_mission_reject:close_window|Yes, of course {reg59?madam:sir}. Well, we will find someone else for the job.
 ; dlga_start:capture_slave_pretalk_1|Greetings, traveller.
 ; dlga_capture_slave_pretalk_1:capture_slave_pretalk_2|Greetings. What are you doing here in the middle of nowhere?
-; dlga_capture_slave_pretalk_2:capture_slave_talk|I ran away from a nearby village and I'm hiding here trying to decide what to do next.
+; dlga_capture_slave_pretalk_2:capture_slave_talk|I ran away from a nearby village, and I'm hiding here trying to decide what to do next.
 ; dlga_capture_slave_pretalk_x:capture_slave_talk|Anything else you want to know?
 ; dlga_capture_slave_talk:capture_slave_ask_why|Why did you run away?
 ; dlga_capture_slave_ask_why:capture_slave_pretalk_x|My master has beaten me on more than one occasion. I could not stand it any longer.
