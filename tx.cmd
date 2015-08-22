@@ -14,7 +14,7 @@ for /R %x in (*.csv) do ren "%x" *.ini
 ::tx push -t -l sv --skip --no-interactive
 
 ::pull latest translations
-tx pull -a -f --skip --minimum-perc=0 --mode=reviewer
+tx pull -a -f --skip --minimum-perc=1 --mode=reviewer
 
 ::Rename extension of language file from ini to csv
 for /R %x in (*.ini) do ren "%x" *.csv

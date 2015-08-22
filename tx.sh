@@ -15,7 +15,7 @@ find . -name "*.csv" -exec rename -v 's/\.csv$/\.ini/i' {} \;
 # tx push -t -l sv --skip --no-interactive
 
 # pull latest translations
-tx pull -a -f --skip --minimum-perc=0
+tx pull -a -f --skip --minimum-perc=1
 
 # Rename extension of language file from ini to csv
 find . -name "*.ini" -exec rename -v 's/\.ini$/\.csv/i' {} \;
