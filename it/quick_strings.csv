@@ -1020,7 +1020,7 @@ qstr_a_shop_assistant|Un assistente di bottega
 ; qstr_{s1}On_face.___{reg2|{s1}On face. (-{reg2} charisma)^{s2}^^
 ; qstr_{s1}On_body.___{reg2|{s1}On body. (-{reg2} strength)^{s2}^^
 ; qstr_{s1}On_limbs.___{reg|{s1}On limbs. (-{reg2} agility)^{s2}^^
-; qstr_Accumulated_Injuries|Accumulated Injuries:^^none
+qstr_Accumulated_Injuries|Lesioni accumulate:^^nessuna
 ; qstr_Accumulated_Injuries:|Accumulated Injuries:^^{s1}A physician in a larger town can treat these injuries.
 ; qstr_Healing_wounds:^^non|Healing wounds:^^none
 ; qstr_Healing_wounds:^^{s1|Healing wounds:^^{s1}These wounds have been treated. They will heal on their own.
