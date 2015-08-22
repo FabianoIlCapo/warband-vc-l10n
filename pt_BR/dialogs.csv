@@ -165,7 +165,7 @@ dlga_start:kinghorik_quest_danmarkprot|Este é um lugar bem longe de curiosos ou
 dlga_start:kinghorik_quest_revenge4|Este é um lugar bem longe de curiosos ouvidos. Agora, fale.
 dlga_start:kinghorik_quest_thething1|Heill, {playername}.
 dlga_start:svenbn_hunting1_1|Heill, {playername}, vinr. Graças a você, hoje vencemos esta batalha! Seaxe Ocidental agora é nosso! Mas acho que você se importa mais com localização do Sven Bull pescoço, certo? Bem, ele foi embora, mas não longe. Ele tomou Readingum e tornou-se um reduto de lá, mas os meus homens têm seguido. Coloquei um hersir em minha confiança, Arnvid, encarregado da missão. Encontrá-lo no Readingum. Seus homens estão à sua disposição, se você decidir atacar o lugar.
-dlga_start:svenbn_hunting1_1.1|Salve, {playername}! Os dinamarquês estão fugindo e perderam muitos jarls nesta batalha. Embora haja ainda muitos deles deixou, conseguimos uma vitória importante, e eles não serão tão ousados no futuro. Eu tenho uma notícia para você. Pescoço de touro Sven tem fugiram de volta para Readingum e fortificou-se lá dentro. Meus homens, liderados por um homem chamado Eadric, tem ido com ele. Estarão à sua disposição quando você chegar. O momento é seu! Vá para Readingum e acertar suas contas com pescoço de touro de Sven.
+; dlga_start:svenbn_hunting1_1.1|Salve, {playername}! The Danish are on the run and have lost many jarls in this battle. Although there are still many of them left, we have achieved an important victory, and they will not be so bold in the future.^^I have some news for you. Sven Bull Neck has fled back to Readingum and has fortified himself in there. My men, led by a man named Eadric, have followed him. They will be at your disposal when you arrive. The moment is yours! Go to Readingum and settle your accounts with Sven Bull Neck.
 dlga_start:close_window.6|Desculpa, isso não é uma boa hora para falar.
 dlga_start:close_window.7|Desculpa, isso não é uma boa hora para falar.
 dlga_start:close_window.8|Desculpa, isso não é uma boa hora para falar.
@@ -1810,12 +1810,12 @@ dlga_start:close_window.54|Adeus.
 ; dlga_campeon1_dialog1:campeon1_dialog1_1|Eh? Oh, yes... My name is Aed mac Ainmerech, and the man who accompanies me is Olchobar mac Cinaeda of the Ui Neill.
 ; dlga_campeon1_dialog1_1:campeon1_dialog3|That's me. We have been chosen to save Bal Luighne from the evil that has befallen it.
 ; dlga_campeon1_dialog2:campeon1_dialog3|Our help? This is pure coincidence! We were returning to Bal Luighne when we saw something in the fog. We played the horns to signal that we had no hostile intentions.
-; dlga_campeon1_dialog3:campeon1_dialog3_1|That was Morrigan? With the fog, I saw demons. I thought old Caliacas' problem was a Viking war band...
+; dlga_campeon1_dialog3:campeon1_dialog3_1|Was that Morrigan? With the fog, I saw demons. I was sure old Caliacas' problem was a Viking war band...
 ; dlga_campeon1_dialog3_1:campeon1_dialog3_2|You seem worried now, Aed, but a few hours ago you were telling me how you could defeat any creature!
 ; dlga_campeon1_dialog3_2:campeon1_dialog3_3|This is no time for jokes, Olchobar.^^--He turns to you--^^And who are you, and what brings you to this godforsaken place?
 dlga_campeon1_dialog3_3:campeon1_dialog4|{s10}
 dlga_campeon1_dialog4:campeon1_dialog4_1|{s4}
-; dlga_campeon1_dialog4_1:campeon1_dialog4_2|The performances are stellar, but unfortunately we must cut this entertainment short. If that's Morrigan, we have to follow her and find out where her lair is.
+; dlga_campeon1_dialog4_1:campeon1_dialog4_2|Your performances are stellar, but unfortunately we must cut this entertainment short. If that's Morrigan, we have to follow her and find out where her lair is.
 ; dlga_campeon1_dialog4_2:campeon1_dialog4_3|But Caliacas sent us a message to return to the village. Something bad must be happening...
 ; dlga_campeon1_dialog4_3:campeon1_dialog5|This is more important. We should all follow Morrigan.
 ; dlga_campeon1_dialog4_3:campeon1_dialog5_2|The village is more important. We should all return with haste.
@@ -2080,7 +2080,7 @@ dlga_lair_captain_add_port_1:lair_captain_pretalk|Eu mudei de idéia.
 ; dlga_olvir_dialog2:olvir_dialog32|I do not care about your lord. Where is your brother, Olvir?
 ; dlga_olvir_dialog2:olvir_dialog33|Sigurd is making a lot of trouble for me. It's time he pays for his treachery.
 ; dlga_olvir_dialog31:olvir_dialog33|{s2}^^You will be accused of having killed Olvir before the Assembly, the assembly of free men, and they will demand payment or revenge. As Sigurd already wants you dead, it is clear that they will kill you.
-; dlga_olvir_dialog32:olvir_dialog33|{s2}^^Do not worry, he will find you. You will regret having pursued him and have caused many evils for Sigurd Ragnarsson. You've annoyed the wrong people, {playername}.
+; dlga_olvir_dialog32:olvir_dialog33|{s2}^^Do not worry, he will find you. You will regret having pursued him, and have caused many evils for Sigurd Ragnarsson. You've annoyed the wrong people, {playername}.
 ; dlga_olvir_dialog33:olvir_dialog4|{s2}^^You fool! I will laugh at you when Sigurd Ragnarsson kills you as I enjoy feasts at Walhalla. You have no idea who Sigurd 'Snake in the Eye' is and what he is capable of. Everyone fears him, even his own brothers... well, maybe not Ivar the Boneless. Ivar is the most ruthless of the sons of Ragnar.
 ; dlga_olvir_dialog4:olvir_dialog411|{s2}^^I'm dying... Give me my sword, so that the Valkyries will see that I am a warrior and take me to the halls of Odin.
 ; dlga_olvir_dialog411:olvir_dialog41|{playername}, this man has insulted and threatened you, and tried to kill us. He is not deserving of our compassion. Also, giving the sword is a pagan custom. Let him die and go to hell.
@@ -2203,7 +2203,7 @@ dlga_harald_meeting1:harald_meeting3|(Dizer nada)
 ; dlga_harald_meeting13_1:harald_meeting13_2|--All around you, the sudden tumult and shouting of men drowns out your answer. A warrior bursts into the meeting. He is hot, and his eyes show panic.--
 ; dlga_harald_meeting13_2:harald_meeting13_3|Hersir Harald, sir! Sven Bull Neck has attacked us! Half the fleet is charging us! Thor help us, Sven has caught us unprepared.
 ; dlga_harald_meeting13_3:close_window|{s3}^^Captains, return to your ships and lead your crew. Sven Bull Neck will pay dearly for this attack. If we should lose this battle, remember to inform Rathbarth Ragnarsson about this betrayal by Sven Bull Neck. Good luck. Now, to battle!
-; dlga_start:svenfinal_ld1|{playername}! My lord advised me that you'd come. Sven Bull Neck has taken Readingum and has many men with him, mainly Danish, who has sworn allegiance. They are tough, battle-hardened people, same as Sven, who is a legend. I would not like to be in the shoes of you or your men.
+; dlga_start:svenfinal_ld1|{playername}! My lord advised me that you'd come. Sven Bull Neck has taken Readingum and has many men with him, mainly Danish, who have sworn allegiance. They are tough, battle-hardened people, same as Sven, who is a legend. I would not like to be in the shoes of you or your men.
 ; dlga_svenfinal_ld1:svenfinal_ld11|I am not afraid. It is the time of reckoning.
 ; dlga_svenfinal_ld1:svenfinal_ld2|Do you know if a woman is with him?
 ; dlga_svenfinal_ld1:svenfinal_ld3|Will you not stay and fight with us?
@@ -2260,9 +2260,9 @@ dlga_problema_monjes_1:problema_monjes_22|{s10}
 ; dlga_problema_monjes_3:problema_monjes_n1|Ok. I understand.
 ; dlga_problema_monjes_31:problema_monjes_1|{s2}
 ; dlga_start:monjes_2|I am busy, talk to the Abbot.
-; dlga_monjes_2:close_window|Well, good man. Farewell.
+; dlga_monjes_2:close_window|Very well, my good man. Farewell.
 ; dlga_start:monjesw_2|I am busy, talk to the Abbot.
-; dlga_monjesw_2:close_window|Well, good man. Farewell.
+; dlga_monjesw_2:close_window|Very well, my good man. Farewell.
 ; dlga_regular_member_talk:followers_action|I've decided that you join our followers' party.
 ; dlga_followers_action:close_window|Very well, I will support you from the rear.
 ; dlga_regular_member_talk:briton_action|Pater, I will donate 500 peningas to aid the families of my fallen men.
@@ -2984,25 +2984,25 @@ dlga_aethelred_wp_42:aethelred_wp_5|(Dizer nada)
 ; dlga_aethelred_wp_71:aethelred_wp_72|{s2}^^I like that the people who serve be smart. You're right.
 ; dlga_aethelred_wp_73:aethelred_wp_72|This obsession must be giving you headaches...
 ; dlga_aethelred_wp_72:aethelred_wp_8|During the time you were busy with the Welsh, I met with my brother. Almost certainly, the Asturian fleet has left port. The letter you gave us mentioned that they will meet our people in Frankia, near a village called Douar-an-Enez. I fear that, in some way, the sons of Ragnar have obtained this information.
-; dlga_aethelred_wp_8:aethelred_wp_91|A man, Reginhard, betrayed me. Perhaps he mentioned this to Sigurd
-; dlga_aethelred_wp_8:aethelred_wp_9|I remember Sigurd mentioned a traitor in Asturias. Somebody called Silo.
+; dlga_aethelred_wp_8:aethelred_wp_91|A man, Reginhard, betrayed me. Perhaps he mentioned this to Sigurd.
+; dlga_aethelred_wp_8:aethelred_wp_9_1|I remember Sigurd mentioned a traitor in Asturias. Somebody called Silo.
 ; dlga_aethelred_wp_91:aethelred_wp_9|Maybe. It shows your poor judgment when it comes to choosing companions.
 ; dlga_aethelred_wp_9:aethelred_wp_9_1|That's not fair! I remember Sigurd mentioned a traitor in Asturias. Perhaps the information came to them from there.
 ; dlga_aethelred_wp_9_1:aethelred_wp_10|If there is a traitor in the fleet of the Kingdom of Asturias, you must find and kill him. These men from Asturias are very important. Do not fail us.^^Finish everything you have pending, as you will be out for several weeks. We have gathered men and have prepared ships for them. They await you in {s3}. Ask the old captain at the port. He is the man who deals with hiring sailors.
-; dlga_aethelred_wp_10:lord_pretalk|Above all, remember that it is very important that this Asturian army reaches West Seaxe.
+; dlga_aethelred_wp_10:lord_pretalk|Above all, remember that it is very important that this Asturian army reach West Seaxe.
 ; dlga_aelfred_ad_1:aelfred_ad_2|{s3}^^Yes, it's true. The news preceded you. It seems that the Danish surprised you. The army was lost, the best that we had right now, and all this work and diplomatic expense has been for nothing.
 ; dlga_aelfred_ad_2:aelfred_ad_31|I admit my failure.
-; dlga_aelfred_ad_2:aelfred_ad_32|Thanks to my victory in Douar-an-Enez today, you have 600 Danish less attacking West Seaxe.
+; dlga_aelfred_ad_2:aelfred_ad_32|Thanks to my victory in Douar-an-Enez, you have 600 Danish less attacking West Seaxe.
 ; dlga_aelfred_ad_31:aelfred_ad_4|{s2}^^Look, it's not worth worrying about what could be and was not. Now we have problems that are more serious.
 ; dlga_aelfred_ad_32:aelfred_ad_4|{s2}^^I would not call it a victory. The news I received was that there was dissension in the camp of the Asturians. I distinctly remember asking you neutralize the traitor as soon as possible. If you had followed my instruction, you would have defeated the Danish and today we would have 500 veterans here to help. Well, forget it. Now we have problems that are more serious.
-; dlga_aelfred_ad_4:aelfred_ad_5|We are in dire straits. The Danish have become strong in Readingum, and they resisted our attempt to drive them away. My brother, King Aethelred, is convinced that God was not on our side and is trying to regain his favor by praying as much as he can. We need God's favor and more men to defeat the Danish. That's why I was so desperate so see you. Did I say desperate? Well, I mean I needed your help. You are a resourceful {reg59?lady:man}.
+; dlga_aelfred_ad_4:aelfred_ad_5|We are in dire straits. The Danish became strong in Readingum, and they resisted our attempt to drive them away. My brother, King Aethelred, is convinced that God was not on our side and is trying to regain his favor by praying as much as he can. I think we need more men AND God's favor to defeat the Danish. That's why I was so desperate to see you. Ahm, did I say 'desperate?' Well, I meant I need your help, for you have proven to be a resourceful {reg59?lady:man}.
 ; dlga_aelfred_ad_5:aelfred_ad_6|{s2}^^The Danish are preparing to advance to our meeting. They know that if we are defeated, West Seaxe will be at their mercy, and they will do the same thing here that they did in East Engle and Northhymbre. After the defeat at Readingum, many men were scattered, and I sent out thegns to gather them and also to raise the fyrd in the villages to cover our losses. We need food to feed all these people. I need you to bring me {reg3} head of cattle so I can keep the troops fed. I care very little about where you get them. Just bring them to me as soon as you can.
 ; dlga_aelfred_ad_6:aelfred_ad_71|Well, I'll get the cattle while you gather your men. It's time to end the Danish.
 ; dlga_aelfred_ad_6:aelfred_ad_72|I'm tired of being a peon for West Seaxe.
 ; dlga_aelfred_ad_6:aelfred_ad_73|Sven was not in Douar-an-Enez. I cannot take search for cattle; I have to find him.
 ; dlga_aelfred_ad_71:lord_pretalk|Well, I knew I could count on you.
 ; dlga_aelfred_ad_72:aelfred_ad_74|Look, I'm usually not so expressive, but I will tell you that you are very important to West Seaxe. I understand that none of this is easy. Moreover, Sven Bull Neck is in the enemy army. Fighting on our side is the best way to reach him. Well, do something! West Seaxe needs you because we are in a situation of life or death, so we will reward you for this service. I'll pay 10,000 peningas from my own treasure. Do you agree?
-; dlga_aelfred_ad_73:aelfred_ad_74|Sven Bull Neck is among our enemies, ready to pillage West Seaxe. That makes our interests coincide. Well, West Seaxe needs you because we are in a situation of life or death, so we will reward you for this service. I'll pay 10,000 peningas from my own treasure. Do you agree?
+; dlga_aelfred_ad_73:aelfred_ad_74|Sven Bull Neck is among our enemies, ready to pillage West Seaxe. That makes our interests coincide. Well, West Seaxe needs you in any case because we are in a life or death situation. We will reward you for this service. I'll pay 10,000 peningas from my own treasure. Do you agree?
 ; dlga_aelfred_ad_74:aelfred_ad_71|Your money is not necessary. I will do this to have your support to hunt to Sven Bull Neck.
 ; dlga_aelfred_ad_74:aelfred_ad_75|Glad to know that I will be rewarded at last. Pay me, and I'll bring you cattle.
 ; dlga_aelfred_ad_75:lord_pretalk|Take your money. Now bring the cattle. Good luck.
@@ -3871,6 +3871,7 @@ dlga_spouse_evaluate_larder_for_feast:spouse_feast_confirm|{s9}
 ; dlga_spouse_feast_confirm_yes:spouse_pretalk|I shall send word, then, that we will host a feast as soon as conditions in the realm permit. You perhaps should continue to stock our larder, so that we may do justice to our reputation for hospitality.
 ; dlga_spouse_feast_confirm_yes:spouse_pretalk.1|Very well, then. Let the feast begin immediately at our court {reg4?here:} in {s9}. You perhaps should continue to stock our larder, so that we may do justice to our reputation for hospitality. You may declare the feast to be concluded at any time, either by beginning a campaign or by letting it be known that the vassals can return to their homes.
 ; dlga_spouse_feast_confirm_yes:spouse_pretalk.2|Very well, then. Let the feast begin immediately in {s9}. You perhaps should continue to stock our larder, so that we may do justice to our reputation for hospitality. You may declare the feast to be concluded at any time, either by beginning a campaign or by letting it be known that the vassals can return to their homes.
+; dlga_spouse_feast_confirm_yes:spouse_pretalk.3|Unfortunately, there are no suitable venues available to host the feast.
 ; dlga_start:close_window.66|How wonderful it is... In a short while, we shall be married! However, I should point out that, in the remaining few days, it is not customary for us to speak too much together.
 ; dlga_start:close_window.67|Em, {playername}, you might not be used to our wedding customs, but I had hoped that someone would tell you... Speak first to my {s11}, {s4}.
 ; dlga_start:close_window.68|I do not know where to find my {s11} {s10}, who by tradition should preside over our wedding. Perhaps we should wait until he can be found...
@@ -5103,7 +5104,7 @@ dlga_bardo_sing_lady2:bardo_pretalk|Deixa para lá.
 ; dlga_abad_dalibro:abad_pretalk|Well, here's the book. Take care of it. It is a valuable relic. If one day you are able, bring it back.
 ; dlga_abad_dalibro_ps:close_window|Then you have to kill us all and take the book from our dead hands. God will make us martyrs and condemn you.
 ; dlga_abad_dalibro_ps:close_window.1|Take the book. I will not allow you to kill all those people, but a divine curse will fall on you. Now, go away, demon.
-; dlga_abad_talk:addonstoryabad1|I received your message. Please explain what has happened.
+; dlga_abad_talk:addonstoryabad1|I received your message. Why have you sent for me?
 ; dlga_abad_talk:addonstoryabad1_re|I could be interested in your offer.
 ; dlga_abad_talk:addonsthesnakedead|'The Snake' is dead.
 ; dlga_abad_talk:abadmorrigan_end1|Morrigan won't be a problem any more.
@@ -5120,8 +5121,8 @@ dlga_bardo_sing_lady2:bardo_pretalk|Deixa para lá.
 ; dlga_addonsmaelflaithbertach3_2:addonsmaelflaithbertach4|I guess you didn't have enough time to get to know him better, but back to our business. Here is your reward for finding out where Flaithbertach's grandchildren were hiding.
 ; dlga_addonsmaelflaithbertach3_3:addonsmaelflaithbertach4|Well, well, back quickly to what's important to you. Here is your reward for finding out where Flaithbertach's grandchildren were hiding.
 ; dlga_addonsmaelflaithbertach4:addonstoryabad6_1m|Thank you, but he mentioned another task...
-; dlga_addonsmaelflaithbertach4:addonsmaelflaithbertach5|He told me that I would get me more peningas. (persuasion)
-; dlga_addonsmaelflaithbertach5:addonsmaelflaithbertach6|Did he say that? I understand, let me to open the purse. I'll give you 2,000 peningas more. Now, time to talk about out next task.
+; dlga_addonsmaelflaithbertach4:addonsmaelflaithbertach5|He told me that I would get more peningas. (persuasion)
+; dlga_addonsmaelflaithbertach5:addonsmaelflaithbertach6|Did he say that? Then let me open my purse again. I'll give you 2,000 peningas more. Now, it's time to talk about out next task.
 ; dlga_addonsmaelflaithbertach5:addonsmaelflaithbertach6.1|I like jokes, but we have more important things to deal with. Please, let's be serious. Time to talk about out next task.
 ; dlga_addonsmaelflaithbertach6:addonstoryabad6_1m|Very well, I am listening.
 dlga_addonstoryabad1:addonstoryabad2|{s4}
@@ -5166,7 +5167,7 @@ dlga_addonstoryabad6:addonstoryabad6_1.1|Estou ouvindo.
 ; dlga_addonsthesnakedead7:addonsthesnakedead9|Donngal has a weakness for gold. I'm sure you'll be able to convince him. Come back as soon as possible with news about the location of Flaithbertach's grandchildren. Good luck.
 ; dlga_addonsthesnakedead9:close_window|You keep those 5,000 peningas handy, for I will return soon.
 ; dlga_addonsthesnakedead9:close_window.1|Farewell, pater.
-; dlga_addonstoryabad6_1m:addonstoryabad7|--The abbot clears his throat and fixes his eyes on yours--^^At the west end of Eriu there is a village with, err...problems. It is a remote place, near harsh, sea-beaten cliffs and populated by fishermen. Its residents have asked for help because a great evil has befallen them. It shatters men beyond recognition and kidnaps their wives and children.
+; dlga_addonstoryabad6_1m:addonstoryabad7|--The abbot clears his throat and fixes his eyes on yours--^^At the west end of Eriu there is a village with, err... problems. It is a remote place, near harsh, sea-beaten cliffs and populated by fishermen. Its residents have asked for help because a great evil has befallen them. It shatters men beyond recognition and kidnaps their wives and children.
 ; dlga_addonstoryabad7:addonstoryabad8|My patron wants you to travel to this village, Bal Luighne, and talk to its leader. He will tell you all the details. Then put an end to the evil in the area and come back here. Nothing particularly complicated, but you will be paid handsomely for fulfilling your mission. To be precise, you will be paid 10,000 peningas for this favor.
 ; dlga_addonstoryabad8:addonstoryabad9_1|Are there not lords of Eriu that can deal with this problem?
 ; dlga_addonstoryabad8:addonstoryabad9_2|Can you tell me more about the evil that attacks them?
@@ -5380,7 +5381,7 @@ dlga_bandit_treasure5:bandit_treasure6|{s10}
 ; dlga_old_ayuda_3:close_window|I haven't got time for this.
 ; dlga_old_ayuda_4:close_window|Thank you. Take this money and return as soon as possible. We have hungry children crying.
 ; dlga_start:quarry_refugee2|I am busy. Talk to the foreman.
-; dlga_quarry_refugee2:close_window|Well, good man. Farewell.
+; dlga_quarry_refugee2:close_window|Very well, my good man. Farewell.
 ; dlga_start:capataz_talk|What do you want? Can't you see that I am busy?
 ; dlga_capataz_pretalk:capataz_talk|Yes?
 ; dlga_capataz_talk:capataz_angry|Watch how you speak to me, man, or I shall give you a painful reply.
@@ -5552,17 +5553,17 @@ dlga_mayor_looters_quest_goods_response:mayor_looters_quest_goods_2|{s5}.
 ; dlga_mayor_talk:mayor_info_begin|Can you tell me about what you do?
 ; dlga_mayor_talk:mayor_dongall_quest1|I've heard that the grandchildren of Flaithbertach are here. Did you know that?
 ; dlga_mayor_talk:mayor_dongall_quest6|About Flaithbertach's grandchildren...
-; dlga_mayor_dongall_quest1:mayor_dongall_quest2|Yes, everyone has heard of them. The children of the son of Flaithbertach mac Niall, the brother of Aed mac Niall, ri h-Erenn uile, called 'Findliath,' or 'Fair Warrior.' Flaithbertach's untimely death gave Aed access to the throne of Aileach. Flaithbertach's family had a bad end too, but two of his sons escaped, with the two grandchildren. I heard that one of the two who escaped died recently. I feel sorry for him. So very tragic.
+; dlga_mayor_dongall_quest1:mayor_dongall_quest2|Yes, everyone has heard of them. The children of the son of Flaithbertach mac Niall, the brother of Aed mac Niall, ri h-Erenn uile, called 'Findliath,' or 'Fair Warrior.' Flaithbertach's untimely death gave Aed access to the throne of Aileach. Flaithbertach's family had a bad end too, but two of his children escaped with the two grandchildren. I heard that one of the two who escaped died recently. I feel sorry for him. So very tragic.
 ; dlga_mayor_dongall_quest2:mayor_dongall_quest3|Could you tell me where to find them?
-; dlga_mayor_dongall_quest2:mayor_dongall_quest4|I have some gold I want to give you the benefit of this town (1.000 peningas)
-; dlga_mayor_dongall_quest2:mayor_dongall_quest4.1|I have some gold I want to give you the benefit of this town (3.000 peningas)
-; dlga_mayor_dongall_quest2:mayor_dongall_quest4.2|I have some gold I want to give you the benefit of this town (5.000 peningas)
+; dlga_mayor_dongall_quest2:mayor_dongall_quest4|I have some silver that I want to give to this town (1000 peningas)
+; dlga_mayor_dongall_quest2:mayor_dongall_quest4.1|I have some silver that I want to give to this town (3000 peningas)
+; dlga_mayor_dongall_quest2:mayor_dongall_quest4.2|I have some silver that I want to give to this town (5000 peningas)
 ; dlga_mayor_dongall_quest3:mayor_dongall_quest5|Hiding somewhere where they cannot be found. They have many enemies.
 ; dlga_mayor_dongall_quest4:mayor_dongall_quest5|Your gift is welcome in these difficult times. I'll let the people of this town know of your interest in their welfare.
 ; dlga_mayor_dongall_quest5:mayor_dongall_quest6|I am very interested to know where Flaithbertach's grandchildren are.
-; dlga_mayor_dongall_quest5:mayor_dongall_quest6.1|Knowing where Flaithbertach's grandchildren are is very important. This gold could help (1.000 peningas)
-; dlga_mayor_dongall_quest5:mayor_dongall_quest6.2|Knowing where Flaithbertach's grandchildren are is very important. This gold could help (3.000 peningas)
-; dlga_mayor_dongall_quest5:mayor_dongall_quest6.3|Knowing where Flaithbertach's grandchildren are is very important. This gold could help (5.000 peningas)
+; dlga_mayor_dongall_quest5:mayor_dongall_quest6.1|I must find them. This silver could help (1000 peningas)
+; dlga_mayor_dongall_quest5:mayor_dongall_quest6.2|I must find them. This silver could help (3000 peningas)
+; dlga_mayor_dongall_quest5:mayor_dongall_quest6.3|I must find them. This silver could help (5000 peningas)
 ; dlga_mayor_dongall_quest6:mayor_pretalk|You look like a trustworthy sort, and I do not owe anything to Flaithbertach's grandchildren, but I would like in return service to my community. Make their life better so that they love you in this town, and then we'll talk again.
 ; dlga_mayor_dongall_quest6:mayor_dongall_quest7|You have done a lot for this town, and people appreciate you. I give you now what you seek: Flaithbertach's grandchildren are in a farm near Dinas Bran. I don't know why you are so interested in them. They are only two children eight years old. They are alone in life after the death of their father. I understand that Aed Findliath wants to get rid of any pretender to his throne, but these children have no one to support them. They are hardly a danger to him.
 ; dlga_mayor_dongall_quest7:close_window|Children grow, Donngal. Anyway, this is none of our concern. Farewell.

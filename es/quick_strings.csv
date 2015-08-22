@@ -107,7 +107,7 @@ qstr_TOTAL_SCORE:_{reg0}|PUNTUACION TOTAL: {reg0}
 ; qstr_Disable_mod_formatio|Disable mod formations: 
 ; qstr_Put_player_in_divisi|Put player in division: 
 qstr_{s1}|{s1}
-; qstr_Formations_rotate_to|Formations rotate to face enemy center: 
+; qstr_Army_rotates_to_face|Army rotates to face enemy center: 
 ; qstr_Prevent_AI_from_taki|Prevent AI from taking defensive: 
 ; qstr_Anno_Domini_867|Anno Domini 867
 ; qstr_We_are_in_the_ninth_|We are in the ninth century.^Long gone are the lights of Rome,^absorbed by the tide of time,^yet several centuries remain until the^golden age of knights and princesses^to come.^^It is a brutal, dark and ruthless^era of raw strength and survival,^where men go to bed every night^praying to see a new day.
@@ -164,7 +164,7 @@ qstr_Fastest|Muy rápido
 ; qstr_Disable_the_3D_view_|Disable the 3D view in settlement/village menus to improve the loading time for slower machines.
 ; qstr_Attack_while_holding|Attack while holding your shield (default: hold Right Mouse Button + Left Mouse Button). The short delay is meant to keep the player from mistakenly executing a shield bash during normal fighting.^^The AI will also be able to use this ability.
 ; qstr_The_divisions_of_the|The divisions of the player's army will not adopt the formations of shield wall, wedge, or square. Moreover, the F4 menu that contains these selections will no longer appear.^^The default ranks formations will always be adopted when the player closes ranks beyond the point needed to make a shoulder-to-shoulder line.
-; qstr_The_divisions_of_the_|The divisions of the player's army will rotate every few seconds to face the center of the enemy forces. Without this option, player divisions will maintain the facing that the player has when he/she issues a HOLD order.
+; qstr_When_multiple_divisi|When multiple divisions are placed, they will set up to face the center of the enemy forces. Without this option, they will set up along the facing that the player has when he/she places them, although individual divisions will still turn to face the enemy.^^For example, with the option OFF and the player facing AWAY from the attacker, infantry will set up on the RIGHT flank rather than the LEFT.
 ; qstr_The_army_opposing_th|The army opposing the player never takes a defensive position at the back of the map, but will always charge the armies of the player and his/her allies.
 ; qstr_Disable_music_in_bat|Disable music in battles and add more ambient sounds.
 ; qstr_Set_how_much_damage_|Set how much damage is done to your character.
@@ -416,6 +416,7 @@ qstr_Good|Buena
 ; qstr_Customize_Ship|Customize Ship
 ; qstr_Sell_Ship|Sell Ship
 ; qstr_Buy_Ship|Buy Ship
+; qstr_Are_you_sure_you_wan|Are you sure you want to do this transaction?
 ; qstr_Leave_ship_at_the_sh|Leave ship at the shore
 ; qstr_Next_ship|Next ship
 ; qstr_Fleet_Capacity:|Fleet Capacity:
@@ -1282,7 +1283,7 @@ qstr_you|vos
 ; qstr_There_was_a_man_call|There was a man called Egbert, or I should say a king, Egbert Cyning, for he was king of Northhymbre. But he was a puppet king, chosen by the Vikings because he was a weak man whom they could handle. Was this the fate that awaited us also?
 ; qstr_In_Anno_Domini_868_t|In Anno Domini 868, the Vikings took Snotingaham. There was fear, much fear, but West Seaxe and Mierce joined forces. Aelfred of West Seaxe, the king's brother, was married to Ealswith, daughter of Aethelred Mucel, ealdorman of the Gaini, and of Eadburh, from the royal line of the king of the Mercians.^^The two realms called the fyrd to war. West Seaxe advanced on Snotingaham from the south, and Mierce joined them on the way. Maybe they could finally put an end to the advance of the sons of Ragnar?^^My life was about to change, but I did not know that.
 ; qstr_I_still_dream_of_Dou|I still dream of Douar-an-Enez when I close my eyes. No man of God should allow such dreams -- it was as if the devil had escaped from prison and taken over the world.
-; qstr_I_remember_sailing_i|I remember sailing into battle and vomiting several times. My hands were shaking and a painful chill overlaid my spine. I was no warrior, but my fate lay with {playername} and {reg59?her:his} men. If we were defeated, would die with the rest. Fortunately, by some miracle of God, I survived. Too many did not, including Bodo, with whom, I hear, {playername} had shared long time since they met on a ship called the Woden Ric. I figured Bodo would be a great loss for {reg59?her:him} after everything that had happened, but {reg59?her:his} face was imperturbable, and no one dared to ask how {reg59?she:he} felt.^^After the two battles of Douar-an-Enez, we spent a few weeks in the remains of the village, healing the wounded, burying the dead, and recovering all of the past. I really think that this time was when my work was most needed. Many came to me to find comfort and to thank me for all my words over the dead.^^Then we sailed back to Englaland, where, we didn't yet know, that the world had changed...
+; qstr_I_remember_sailing_i|I remember sailing into battle and vomiting several times. My hands were shaking and a painful chill overlaid my spine. I was no warrior, but my fate lay with {playername} and {reg59?her:his} men. If we were defeated, we would die with the rest. Fortunately, by some miracle of God, I survived. Too many did not, including Bodo, with whom, I hear, {playername} had spent much time since they first met on a ship called the Woden Ric. I figured Bodo would be a great loss for {reg59?her:him} after everything that had happened, but {reg59?her:his} face was imperturbable, and no one dared to ask how {reg59?she:he} felt.^^After the two battles of Douar-an-Enez, we spent a few weeks in the remains of the village, healing the wounded, burying the dead, and recovering all of the past. I really think that times like that are when my work is most needed. Many came to me to find comfort and to thank me for all my words over the dead.^^Then we sailed back to Englaland, where, we didn't yet know, that the world had changed...
 ; qstr_Maybe_part_of_him_is|Maybe part of him is left in the baby that he had with Thora, daughter of Ulf from Danmark. The boy, named after his father, grows strong and healthy, and promises to be a powerful man someday.
 ; qstr_My_name_is_Beda_and_|My name is Beda, and this book started as a chronicle of a dark time, but the time is not so dreadful, as it was overshadowed by a hero.
 ; qstr_I_was_there_when_the|I was there when the armies of the Saxons and Danes fought at Aescendun. I was there when {playername} changed the course of history. But even this and what happened next pales in importance when the world lost its hero. I remember it like it just happened, when we entered the hall and watched as Sven Bull Neck finished off {playername}'s mother. I remember {reg59?her:his} face. It became ice cold. Neither anger nor fear nor crying; only coldness. I assure you that Sven Bull Neck turned pale because he knew that his death was inevitable. We fought in the hall and Sven died, but that did not change the hardness of the face of {playername}. Neither then nor later, at the funeral of {reg59?her:his} mother, revered like a queen, and buried with rich grave goods in a warship.^^After that day, we lost our hero. {reg59?She:He} said farewell to us, who we had followed {reg59?her:him} from battle to battle, and said {reg59?she:he} was leaving without revealing {reg59?her:his} destination.^^{reg59?She:He} left us, I fear, to never return. I hope I am wrong, because this dark world still stands in need of {reg59?her:his} exploits.
@@ -1302,9 +1303,9 @@ qstr_you|vos
 ; qstr_^^Helgi_became_depre|^^Helgi became depressed after the departure of {playername}. Without clear direction, he marched east and became a Rus, looking for his fate in unending war.
 ; qstr_^^The_Greek_Agathino|^^The Greek, Agathinos, stayed in the north, near Lundenwic. There he got a job rebuilding the old Roman infrastructure. Sometimes I get letters from him. I do not know why we were never friends, but he likes to keep up the relations he made in his past, and I must be the only remnant of another time he has left.
 ; qstr_^^And_that_is_all_wh|^^And that is all what I know about people who served under {playername}.
-; qstr_After_the_departure_|After the departure of our leader, we, {reg59?her:his} followers, dispersed to the four winds. I hid in a monastery in a remote part of West Seaxe, far from it all. Here I will wait for the end of my days. I pay people to bring me news from outside, especially if they find {playername}, but nobody has seen {reg59?her:him}. However, I have a little news from others who were with him until the end.
+; qstr_After_the_departure_|After the departure of our leader, we, {reg59?her:his} followers, dispersed to the four winds. I hid in a monastery in a remote part of West Seaxe, far from it all. Here I will wait for the end of my days. I pay people to bring me news from outside, especially if they find {playername}, but nobody has seen {reg59?her:him}. However, I have a little news from others who were with {reg59?her:him} until the end.
 ; qstr_{s11}{s12}{s13}{s14}|{s11}{s12}{s13}{s14}{s15}{s16}{s17}{s18}{s19}{s20}{s21}{s22}{s23}.
-; qstr_{s2}^^{s3}^^I_hope_m|{s2}^^{s3}^^I hope my writings serve to keep {playername} in history. The {reg59?lady:man} who started from nothing, on a ship called the Woden Ric, and rose to be a warlord who was able to put in check the powers of {reg59?her:his} time. {reg59?She:He} it was who killed the dreaded Sven Bull Neck and could be measured face to face with the most powerful men, like the sons of Ragnar and the kings of West Seaxe.^^May the world remember {playername} when the rest of us have all perished.
+; qstr_{s2}{s3}^^I_hope_my_|{s2}{s3}^^I hope my writings serve to keep {playername} in history. The {reg59?lady:man} who started from nothing, on a ship called the Woden Ric, and rose to be a warlord who was able to put in check the powers of {reg59?her:his} time. {reg59?She:He} it was who killed the dreaded Sven Bull Neck and could be measured face to face with the most powerful men, like the sons of Ragnar and the kings of West Seaxe.^^May the world remember {playername} when the rest of us have all perished.
 ; qstr_They_say_that_Eriu_i|They say that Eriu is a wilderness, inhabited by people too untrustworthy for truce or trade, and too violent to make it worth conquering. I have heard many stories about Eriu, but none is worth retelling. What I am sure of is that the time {playername} spent there left him scarred for life.
 ; qstr_Honestly_Mael_Bresai|Honestly, Mael Bresail's death meant nothing to {playername}. {reg59?She:He} continues {reg59?her:his} life largely as if Mael Bresail never existed. Perhaps {reg59?she:he} has a few more enemies among the lords of Eriu and a few extra peningas in {reg59?her:his} pockets, but nothing more.^^But Morrigan was another thing altogether. That woman had something magical. It was not just her singing, which itself was able to freeze time. It was something deeper. When she left, the whole army felt a void. Nobody has ever seen her since, although I know that my {reg59?lady:lord} always hopes for news about her.^^They say many things about Eriu, but nobody tells the legend of Morrigan.
 ; qstr_The_agreement_with_M|The agreement with Mael Bresail made {playername} a rich person, but his fate was above wealth, and money was only a way to achieve {reg59?her:his} goals. Little news reached us of Mael Bresail after the pact. He always tried to stay out of the way of my {reg59?lady:lord}, even when the affairs of {reg59?my lady:my lord} and his king crossed. I don't know if Mael Bresail just honored his oath or felt sheer terror toward {playername}.^^They say many things about Eriu, but few people remember the legend of how Flaithbertach's children were killed.
@@ -1384,6 +1385,9 @@ qstr_Inventory|Inventario
 ; qstr_Death_Camera|Death Camera
 ; qstr_You_can_give_the_com|You can give the command to row forward, fast forward, backwards, or stay. The up and down arrow keys switch between these commands.^You can also give the command to go straight, starboard, hard starboard, port or hard port. The left and right arrow keys switch between these commands.^Current commands are represented by arrows around the representation of your ship in the upper right corner.^Press Enter to set the sail and backspace to get a wide view of the scene.
 ; qstr_Ship_Control|Ship Control
+; qstr_Dog|Dog
+; qstr_You_have_obtained_th|You have obtained the prison keys.
+; qstr_You_killed_the_ghost|You killed the ghost
 ; qstr_You_are_so_tired_you|You are so tired you can barely move a muscle. You can inflict only half damage, and you can't run.
 ; qstr_You_take_1_damage_fr|You take 1 damage from blood loss.
 ; qstr_Your_{s1}_was_damage|Your {s1} was damaged!
@@ -1391,9 +1395,6 @@ qstr_Inventory|Inventario
 ; qstr_Speed_400%|Speed 400%
 ; qstr_Speed_0_for_AI_agent|Speed 0 for AI agents
 ; qstr_{s33}_changes_weapon|{s33} changes weapons
-; qstr_Dog|Dog
-; qstr_You_have_obtained_th|You have obtained the prison keys.
-; qstr_You_killed_the_ghost|You killed the ghost
 ; qstr_We_lost_a_quarter_of|We lost a quarter of our troops in a very short time. The hearts of our troops are filled with fear.
 ; qstr_Half_of_our_army_has|Half of our army has fallen within a very short time. The troops panic!
 ; qstr_The_enemy_lost_a_qua|The enemy lost a quarter of his troops in a very short time. The hearts of his troops are filled with fear.
@@ -1511,7 +1512,7 @@ qstr_Tutorial|Tutorial
 ; qstr_Halfdan_takes_you_as|Halfdan takes you aside and says, '{playername}, we have divided our army into two. I will lead the party to attack the hill where King Aethelred is, and my brothers will take the other against where the king's brother, Aelfred, is.'
 ; qstr_Halfdan_continues__W|Halfdan continues, 'We will move quickly to confuse them and break their spirit. I want you to advance with your troops and offer support wherever the Saxons offer the most resistance. I'm not sure where exactly Sven is, but when we find him, he will be yours.'
 ; qstr___Halfdan_turns_to_h|--Halfdan turns to his men.--^^Let's go Scyldings! By Odin! By Ragnar!'
-; qstr_Sven_shouts__I_knew_|Sven shouts, 'I knew you would. In fact, I expected you, {playername}. You and me have unfinished business that must be concluded. The blood of my brother, Olvir White Hair, still stains your hands. Thanks to you, I had to turn against my lord Sigurd, kill Harald and become a masterless man. But now I'm strong. Many men follow me and are willing to fight for me.'
+; qstr_Sven_shouts__Hah!_I_|Sven shouts, 'Hah! I knew you would come, {playername}. You and me have unfinished business that must be concluded. The blood of my brother, Olvir White Hair, still stains your hands. Thanks to you, I had to turn against my lord Sigurd, kill Harald and become a masterless man. But now I'm strong. Many men follow me and are willing to fight for me.'
 ; qstr_You_say__You_and_you|You say, 'You and you alone are the cause of your ruin, Sven. You should never have attacked the Woden Ric. Now, free my mother, and let's settle this between you and me.'
 ; qstr_Sven_shouts__I_think|Sven shouts, 'I think not. She is my wife and my seidr. If you want her, come get her. But have a care; you might find my sword instead!'
 ; qstr_Your_mother_looks_ti|Your mother looks tired and withered. She says, 'My little one, I see your face, and I remember. I regret everything you've had to do for my sake. Go and live your life. I die soon. Sven is a murderer and a madman. Do not give him the satisfaction of killing you... I want you to live. I want you to live for both of us.'
@@ -1748,11 +1749,6 @@ qstr_The_bandits_are_brok|¡Los bandidos han sido derrotados! Los pocos que qued
 ; qstr_You_can_t_enter_the_po|You can't enter the port. You already have a fleet in the port and your sea-king skill isn't high enough to merge both fleets.
 ; qstr_You_can_t_enter_the_por|You can't enter the port. You already have a fleet in the port and you can't merge both fleets because this would exceed the fleet limit of seven ships.
 ; qstr_You_already_have_a_f|You already have a fleet in the port. Do you want to merge both fleets?
-; qstr_The_place_was_sacked|The place was sacked recently. A raid would not be worth it.
-; qstr_You_are_too_weak_to_|You are too weak to lead a raid.
-; qstr_You_don_t_have_enough_|You don't have enough men to raid the place.
-; qstr_This_town_can_t_be_a|This town can't be attacked with ships.
-; qstr_What_do_you_want_to_|What do you want to do?
 ; qstr_Number_of_Sailors:_{|Number of Sailors: {reg5}^Speed from Sailors: {reg6}
 ; qstr_Unfortunately_{reg3?|Unfortunately, {reg3?You are:{s1} is} unable to find any trade goods that would bring a profit.
 ; qstr_^Buying_{s4}_here_an|^Buying {s4} here and selling it at {s5} would bring a profit of {reg6} peningas per item.{s3}
@@ -1775,12 +1771,13 @@ qstr_{s13}_ordered_you_to|{s13} os ha ordenado que os unáis en el asalto a {s14
 qstr_There_has_been_an_al|Ha habido un incidente fronterizo: {s9}
 ; qstr_There_has_been_an_all|There has been an alleged border incident: the people of the {s4} are considering war against the {s3}.
 ; qstr_Border_incident:_Wor|Border incident: Word reaches you that {s9}. Though you don't know whether or not the rumors are true, you do know one thing -- this seemingly minor incident has raised passions among the people of the {s4}, making it easier for them to go to war against the {s3}...
+; qstr_The_great_lords_of_y|The great lords of your kingdom plan to gather at the great hall of {s15} in {s10} for a feast
 ; qstr_^{s64}^|^{s64}^
 ; qstr_^^Note_that_as_long_|^^Note that as long as you remain marshal, the lords of the realm will be expecting you to lead them on campaign. So, if you are awaiting a feast, either for a wedding or for other purposes, you may wish to resign the marshalship by speaking to your liege.
 ; qstr_Strange..._You_ve_be|Strange... You've been asleep, but you can't remember any nightmares. What you remember clearly are Viking warriors boarding the Woden Ric, plunging their weapons into the bodies of the captain and sailors, and Bodo, the Cantabrian, defending himself like a lion until cornered. You hear his words in your consciousness, '{playername}! Fight! I am yet with you!'^^You remember the death -- your death -- when your enemies fell upon you. You still feel the wooden floor of the boat smash into your cheek before you could hardly breathe a goodbye to the world. Your eyes met your mother's, just before the end, as a huge Viking, dressed in iron -- could he be Sven? -- cracked her head with his spear and threw her body to the side.^^You crawled, leaving a trail of blood, preferring to give your body to the fish, but you remember no more.^^Are you dead? But if you're dead, why do you feel the sore muscles of your body, or the heat from a nearby fire? How is it that you can clench your hands, open your eyes and distinguish the beams of a roof over you?^^And if you're alive, who has saved you, why and how?
 ; qstr_It_is_night_and_the_|It is night, and the monastery seems quiet.
 ; qstr_The_monks_bless_you_|The monks bless you, and you continue on your way.
-; qstr_You_don_t_have_enough_s|You don't have enough silver. How embarrassing!
+; qstr_You_don_t_have_enough_|You don't have enough silver. How embarrassing!
 ; qstr_You_are_now_a_Christ|You are now a Christian.
 ; qstr_You_need_to_have_more_m|You need to have more men for this.
 ; qstr_It_is_night_and_the_h|It is night, and the hof seems quiet.
@@ -1880,7 +1877,7 @@ qstr_You_are_at_{s2}.|Estáis en {s2}.
 ; qstr_While_your_messenger|While your messengers try to negotiate with the enemy raiders, a squad of your men appears by chance, and a battle begins. Your men manage to destroy the looters and fix the problem, but at the cost of some lives.
 ; qstr_The_enemy_raiders_ac|The enemy raiders accept the deal, take the money and promise not to attack your supplies for some weeks.
 ; qstr_The_raiders_are_left|The raiders are left with the money, kill the messengers, and continue to damage your supply routes.
-; qstr_You_don_t_have_enough_si|You don't have enough silver. You order water to be rationed and wells to be dug.
+; qstr_You_don_t_have_enough_s|You don't have enough silver. You order water to be rationed and wells to be dug.
 ; qstr_the_enemy_thinks_rei|the enemy thinks reinforcements will soon arrive.
 ; qstr_fear_and_discontent_|fear and discontent are spreading inside.
 ; qstr_he_likes_the_wife_of|he likes the wife of his former master, and he will fight by your side if you give her to him after the conquest.

@@ -171,7 +171,7 @@ mno_siege_request_meeting|Solicitad una vista con el comandante del castillo.
 ; mno_siege_assault_p|Siege Warfare (Preparing Assault).
 mno_wait_24_hours|Esperad hasta mañana.
 ; menu_siege_plan|You meet with your advisers to plan the siege and try to conquer {s4} with the least possible casualties. Your strategy could be to reduce the place by famine and demoralization.^^{s15} {s17} {s18} {s19} {s20}
-; mno_build_circunvalation|Blockade: build checkpoints and small camps around {s4}.
+; mno_build_circunvalation|Blockade: build checkpoints around {s4}.
 ; mno_close_circunvalation|Checkpoints are finished. Now order active watching.
 ; mno_town_investigar|Investigate the defenses: try to sneak inside. Tracking skill helps.
 ; mno_traicion_interna|Find a traitor within the defenses of {s4}.
@@ -179,7 +179,7 @@ mno_wait_24_hours|Esperad hasta mañana.
 ; mno_infiltracion_interna|Send some men to infiltrate the defences to cause damage.
 ; mno_infiltracion_interna3|Any news from the men sent to infiltrate?
 ; mno_build_varios|Order the construction of sanitation to prevent disease.
-; mno_destruir_campos_a|Pillage crops and farms nearby to replenish your stocks and impoverish the enemy.
+; mno_destruir_campos_a|Pillage farms nearby to replenish your stocks and harm the enemy.
 ; mno_destruir_campos_b|Any news from the men I sent to pillage crops and farms nearby?
 ; menu_siege_assault|Time is of essence, and you fear the arrival of support force for the place. Assaulting will mean heavy casualties, but you have made up your mind.^^{s17} {s18} {s19}
 ; mno_scout_investigar|Call the scouts who have been gathering information on {s4}.
@@ -478,17 +478,6 @@ mno_reembark_no|No.
 ; menu_port_encounter|You encounter the port of {s2}. {s3}
 ; mno_attack|Attack.
 ; mno_merge|Merge the fleets.
-; menu_port_encounter_2|You encounter the port of {s2}. You are not welcome in this town.^^{s7}
-; mno_coastal_assault|Land the ships and raid the place.
-; menu_after_sea_raid|You and your man fight, gather plunder and quickly get back in the ships to leave the place. From the silver and other valuables that are found, you get your share: {reg1} peningas' worth.
-; menu_sea_raid_defeat|They managed to push you back into the sea.
-; menu_port_new|Welcome to the port of {s1}. As you wander the streets of the port district, you feel the wind coming from the sea, bringing smells of salt and distant lands. The squawks of gulls and the voices of sailors in several different languages seem to transport you to another world...
-; mno_town_port_new|Visit the town port.
-; mno_buy_a_ship|Buy or sell a ship.
-; mno_reset_town_ships|CHEAT: Give towns new ships.
-; mno_spawn_enemy_ship|CHEAT: Spawn Dena pirates next to town.
-; mno_sail_from_port|Sail from port.
-; mno_go_to_town|Go to town.
 ; menu_camp_on_sea|You stop your ships in the sea. What do you want to do?^^{s1}
 ; mno_epic_sea_battle|B. Epic sea battle!
 ; mno_d_day1|C. D-day! (200 ships)
@@ -873,7 +862,7 @@ mno_encounter_leavethething|Idos.
 ; mno_choice_mettingcap|Captains' meeting.
 ; menu_playerflee_svenattack|Behind you fades the battle, the pitiful cries of the wounded, and the clash of swords. You leave behind Harald Haraldsson's army while Sven Bull Neck's men massacre them. Your mission now is to go to Englaland to find Rathbarth Ragnarsson and tell him what happened and how Sven Bull Neck betrayed the king's men.
 ; mno_choice_flee1|Flee.
-; menu_way_to_douaranenez|You gather the fleet and immediately the sailors cast off the boats and pull the halyards to raise the sails. The cloth is stirred, moved by the morning breeze, and the ships begin to move. The captains shout orders to their crews, which start to row. Moved by sail and oars, the fleet leaves the harbor and heads for open water.
+; menu_way_to_douaranenez|You gather the fleet and immediately the sailors cast off the boats and pull the halyards to raise the sails. The cloth is stirred, moved by the breeze, and the ships begin to move. The captains shout orders to their crews, which start to row. Moved by sail and oars, the fleet leaves the harbor and heads for open water.
 ; menu_way_to_douaranenez2|You spend days at sea, uncomfortable on a boat with so many men, where there is no space for privacy and tranquillity. The smell of stale sweat, urine and sebum fills the air, even above the salty scent of the sea.^The climate is mild: no storms, no wind, despite the early appearance of fog. In fact, with so little wind, the fleet advances slowly, making the trip longer.^^Finally, from a nearby ship, one of the lookouts points to the horizon, and you can see Douar-an-Enez. In the bay of the village, there are more than 40 boats, many of them in the sea, lashed together in battle formation. One ship leaves the group and heads towards you...
 ; mno_choice_d1|Join the parley.
 ; menu_way_to_douaranenez3|Behind you, you hear discussion in the village. There seems to be dissension in the camp of the Astures. You hear swords and shouting.^^But none of that matters to you at the moment. In full sail, a Cantabrian ship takes you to where your boat awaits. You see, in the distance, your fleet maneuvering to confront their attackers. Gundinsalvo travels with you. He is serious, very serious, despite the buffoonery at the meeting. He looks to where the two fleets jockey for position with their oars. His face is fierce, that of a seasoned warrior who does not fear death. As soon as your ship arrives, it rows toward your fleet. It's time to take control...
@@ -920,9 +909,9 @@ menu_the_speech_l|{s4}
 ; menu_thetravel_danisharmy_l|The Danish army, the Great Summer Army, has reached Aescendun.^^ King Aethelred has divided his army in two: one led by himself and the other in the hands of his brother, young Aelfred. Each division takes one side of the ancient road, the Ridgeway.^^ While the Vikings deploy, Aethelred decides that he must pray before the battle and refuses to budge until the service is complete. But the Danish approach quickly, their army also split in two...
 ; menu_mega_battle_ashdown|The Saxon army has taken a vantage point on two hills, split in two. One of the hills is dominated by the troops of King Aethelred and the other by those of Aelfred. The Danish move quickly, more than expected, not stopping to rest or form up. This is something that Aethelred did not anticipate. He is still immersed in his prayers and has ordered not to be disturbed until finished. The Danish don't wait. They divide their own army into two in their advance. One division under the army leaders, Jarl Halfdan and King Bagsecg, heads straight for the hosts of Aethelred. The other, under five other jarls, moves in the direction of Aelfred. They start to seize the high ground on a hill above the Saxon positions. If they finish deploying, they will have the height advantage over their enemies...^^{s2} You have {reg10} troops fit for battle against their {reg11}.
 ; mno_encounter_attackasc|Battle of Aescesdun.
-; menu_svenbn_hunting|On the way down the battlefield, all you've seen are the remains of weapons, corpses, wounded men, looters, priests giving final unction to the dying, and you feel something inside that mixes the euphoria of remaining alive with a strong sense of desolation. But mostly, you ask one recurring question: why? Why am I alive when so many others died?^^But your thoughts and fate walk in different directions. {s4}
+; menu_svenbn_hunting|On the way from the battlefield, all you see are broken weapons, corpses, wounded men, looters, and priests giving final unction to the dying. You feel a mix of the euphoria of remaining alive with a strong sense of desolation. But mostly, you ask one recurring question: why? Why am I alive when so many others died?^^But your thoughts and fate walk in different directions. {s4}
 ; mno_talk_to_leader|Talk to him.
-; menu_ashdown_battle_over|The battle is over, but the thunder of shields and swords, screams of men, and the cries of the wounded still ring in your ears. Your stiff hand is squeezing your weapon, you can still feel the tension of the battle and even your senses remain more alert than ever. You've survived carnage, just as you have many times before, by always living on the edge, always relying on your trusty sword. You've won today, but you do know that your luck may end one day, and your life will be over, giving glory and fame to the one who would manage to kill you.^^Aescesdun has not been just a battle, it has brought together hundreds of men, and most of them are now lying dead in the grass. The story of Aescesdun will surely be retold by bards and storytellers for many years to come.
+; menu_ashdown_battle_over|The battle is over, but the thunder of shields and swords, screams of men, and the cries of the wounded still ring in your ears. Your stiff hand is squeezing your weapon. You can still feel the tension of the battle, and your senses remain on high alert. You've survived carnage, just as you have many times before, by always living on the edge, always relying on your trusty sword. You've won today, but you know that your luck will end one day. Then, your life will be over, giving glory and fame to the one who kills you.^^Aescesdun has not been just any battle. It brought together hundreds of men, and most of them are now lying dead in the grass. The story of Aescesdun will surely be retold by bards and storytellers for many years to come.
 ; mno_aescesdun_no|Continue.
 ; menu_followers_camp_begin|Attracted by the growth of your army, some priests and women have joined you lately. Now, even some merchants seek permission to follow you.^^Although they would give your army easy access to many services that will improve the morale of your men, they will slow your army.^^Followers' services are accessible in your camp area.
 ; mno_followers_yes|Sure. They are welcome.

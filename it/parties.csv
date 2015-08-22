@@ -30,7 +30,7 @@ p_zendar|Zendar
 ; p_town_29|Temair
 ; p_castle_1|Caer Ligualid
 ; p_castle_2|Mame Ceaster
-; p_castle_3|Donne Ceaster 
+; p_castle_3|Donne Ceaster
 ; p_castle_4|Middelsburh
 ; p_castle_5|Denisesburna
 ; p_castle_6|Ad Gefrin
@@ -46,7 +46,7 @@ p_zendar|Zendar
 ; p_castle_16|Stanford
 ; p_castle_17|Norwic
 ; p_castle_18|Haegelisdun
-; p_castle_19|Rendlaesham
+; p_castle_19|Rendlaesburh
 ; p_castle_20|Grantebrycge
 ; p_castle_21|Hrofae Ceaster
 ; p_castle_22|Dornwara Ceaster
@@ -185,12 +185,12 @@ p_zendar|Zendar
 ; p_village_65|Bal Sebuirge
 ; p_village_66|Bal Magh
 ; p_village_67|Bal Magh Cobha
-; p_village_68|Bal Mor
+; p_village_68|Bal Mor North
 ; p_village_69|Bal Clochair
 ; p_village_70|Bal Fearnmhaigh
 ; p_village_71|Bal Macha
 ; p_village_72|Bal Dumai
-; p_village_73|Bal Mor
+; p_village_73|Bal Mor South
 ; p_village_74|Bal Eachadha
 ; p_village_75|Bal Breacain
 ; p_village_76|Bal Crannoc
@@ -239,8 +239,8 @@ p_zendar|Zendar
 ; p_village_119|Bal Scuin West
 ; p_village_120|Witan Ham North
 ; p_village_121|Witan Ham South
-; p_village_122|Tref Bodmine East
-; p_village_123|Tref Bodmine West
+; p_village_122|Tref Bosvenegh East
+; p_village_123|Tref Bosvenegh West
 ; p_village_124|Bal Cainnighn North
 ; p_village_125|Bal Cainnighn South
 ; p_village_126|Bal Rigmonaid North
@@ -250,8 +250,9 @@ p_zendar|Zendar
 ; p_village_130|Bal Maistiu East
 ; p_village_131|Bal Maistiu West
 ; p_village_132|Tref Meguaidd East
-; p_village_135|Tref Meguaidd West
-; p_village_134|Tom Ham North
+; p_village_133|Tref Meguaidd West
+; p_village_134|Tom Ham East
+; p_village_135|Tom Ham South
 ; p_village_136|Bal Caiseal East
 ; p_village_137|Bal Caiseal West
 ; p_village_138|Bal Aileach East
@@ -281,7 +282,7 @@ p_battlefields|Campo di Battaglia
 ; p_farmland_special|Farmland
 ; p_roman_fort|Roman Fort
 ; p_troll_bridge|The Trolls Bridge
-; p_circle_mystic1|Circle Mystic
+; p_circle_mystic1|Mystic Circle
 ; p_celidon_forest|Ancient Stones
 ; p_hidden_valley|Strange Ruins
 ; p_quarry1|Quarry
@@ -362,42 +363,40 @@ p_followers_camp|Seguaci dell' Accampamento
 ; p_ferry_2b|ferry station
 ; p_ferry_3b|ferry station
 ; p_ferry_4b|ferry station
-; p_jetty_1|jetty 1
-; p_jetty_2|jetty 2
-; p_jetty_3|jetty 3
-; p_jetty_4|jetty 4
-; p_jetty_5|jetty 5
-; p_jetty_6|jetty 6
-; p_looter_spawn_point|their hideout
-; p_looter_spawn_point2|their hideout
-; p_looter_spawn_point3|their hideout
-; p_steppe_bandit_spawn_point|their camp
-; p_taiga_bandit_spawn_point|their longphort
-; p_forest_bandit_spawn_point|their den
-; p_forest_bandit_spawn_point2|their den
-; p_forest_bandit_spawn_point4|their den
-; p_mountain_bandit_spawn_point|their camp
-; p_mountain_bandit_spawn_point3|their camp
-; p_new_sp|their parish
-; p_new_sp2|their parish
-; p_new_sp3|the countryside
-; p_new_sp4|the countryside
-; p_sea_raider_spawn_point_1|their longphort
-; p_sea_raider_spawn_point_2|their longphort
-; p_sea_raider_spawn_point_3|their longphort
-; p_desert_bandit_spawn_point|their camp
-; p_frank_looters_sp_1|their den
-; p_frank_looters_sp_2|their den
-; p_ship_raider_spawn_point_1|their landing
-; p_ship_raider_spawn_point_2|their longphort
-; p_ship_raider_spawn_point_3|their landing
-; p_ship_raider_spawn_point_4|their longphort
-; p_ship_raider_spawn_point_5|their longphort
-; p_ship_raider_spawn_point_6|their landing
-; p_testing_spawn_point|the sea
+p_wales_spawn_point|Razziatori della costa
+p_fortiu_spawn_point|Razziatori della costa
+; p_sussex_spawn_point|South Seaxe
+; p_clyde_coast_spawn_point|the river
+p_limerick_spawn_point|Razziatori della costa
+; p_norway_spawn_point|the mountains
+; p_northumbria_spawn_point|the countryside
+; p_mierce_spawn_point|the countryside
+; p_crafu_spawn_point|the countryside
+; p_alban_spawn_point|the countryside
+; p_aileach_spawn_point|the countryside
+p_engla_coast_spawn_point|Razziatori della costa
+p_cornish_coast_spawn_point|Razziatori della costa
+; p_leinster_spawn_point|the countryside
+; p_frisia_spawn_point|the countryside
+; p_denmark_spawn_point|the countryside
+; p_caitness_priest_spawn_point|the countryside
+; p_northumbria_priest_spawn_point|the countryside
+; p_norway_priest_spawn_point|the countryside
+; p_denmark_priest_spawn_point|the countryside
+; p_channel_spawn_point|the channel
+; p_bight_spawn_point|the Southern Bight
+; p_irish_sea_spawn_point|the Irish Sea
+; p_forth_firth_spawn_point|the Forth of Firth
+; p_skagerrak_spawn_point|the Skagerrak
+; p_firth_clyde_spawn_point|the Forth of Clyde
 ; p_landing_point|landing point
-; p_landing_point2|landing point2
 ; p_the_fleet|The Fleet
 ; p_transporter|Transporter
-; p_troop_camp_1|Troop camp
-; p_troop_camp_2|Troop camp
+; p_troop_camp_1|Troop Quarters
+; p_troop_camp_2|Troop Quarters
+; p_paganholysites1|Odin's Hof
+; p_paganholysites2|Thor's Hof
+; p_oldpagan_hut|Old Pagan's Hut
+; p_morrigan_lair|Morrigan's Lair
+; p_bresail_farm|Mael Bresail's Farm
+; p_bresail_fort|Mael Bresail's Fort

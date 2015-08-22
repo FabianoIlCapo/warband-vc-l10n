@@ -453,7 +453,7 @@ str_npc4_intro_response_2|Nie.
 ; str_npc15_backstory_b|I am also an unfortunate man. I am originally from Konstantinoupolis, far away from here... Maybe you have heard of it. The Varangians call it Mikligard. A few years ago, a group of them kidnapped me and brought me here, to the far north. They made me a slave and sold me to the jarl of Hordaland. I worked for him until a few days ago, when I finally earned enough money to buy my freedom.
 ; str_npc16_backstory_b|Sorry... I am an idiot. Let me introduce myself. I am Beda. I joined the Holy Church when I was but a boy and eventually became a priest. I believe that even the toughest warrior has a place for Christ in his heart and that I can better fulfill the mission God gave to me in a shield wall than in a sacristy.
 ; str_npc1_backstory_c|For my part, I can only say that I was willing to travel and see the world. You have given me this opportunity. I am glad that, when my father asked my brothers and me who would pay his debt, I volunteered.
-; str_npc2_backstory_c|Now I serve in the guard of King Horik. I'm not particularly happy, since I'm in the shadow of hardened men who won the job by their efforts, while I was granted my position only by the virtue of being a bastard son of the king.
+; str_npc2_backstory_c|Now I serve in the royal guard. I'm not particularly happy, since I'm in the shadow of hardened men who won the job by their efforts, while I was granted my position only by the virtue of being a bastard son of the king.
 ; str_npc3_backstory_c|I so desperately wanted to escape. If only I could start a new, free life...^^I know! You could take me with you! I could help mend the wounds of your warriors. I could even learn to be a warrior myself, if that's what it takes to be free again. Will you take me with you, {reg59?madame:sir}?
 ; str_npc4_backstory_c|Another important thing is that I do not like Picts. Yes, I know my people are ruled by the kings of Alban, but that does not mean they have become one people. We are Gaels, and not those rats.
 ; str_npc5_backstory_c|So, as a man robbed of his heritage, any opportunities to earn a living with my sword would be most welcome.
@@ -557,9 +557,9 @@ str_npc4_intro_response_2|Nie.
 ; str_npc7_signup_response_1|You are welcome.
 ; str_npc8_signup_response_1|OK, get your stuff. The way awaits us.
 ; str_npc9_signup_response_1|Well, it shouldn't be. I'll have a talk with them.
-; str_npc10_signup_response_1|Good man, but beware! You should not put any Briton in our shield wall.
+; str_npc10_signup_response_1|Good man, but beware! You will not put down any Briton in my shield wall.
 ; str_npc11_signup_response_1|Very well, you are hired, but stop calling me '{reg59?my pretty:handsome}.'
-; str_npc12_signup_response_1|Then welcome to our shield wall, loeknir.
+; str_npc12_signup_response_1|Then welcome to my shield wall, loeknir.
 ; str_npc13_signup_response_1|Good. I'll be happy to hire someone like you.
 ; str_npc14_signup_response_1|Good. Make yourself ready, and we'll be on our way. 
 ; str_npc15_signup_response_1|That works for me. I will be pleased to hire you.
@@ -573,7 +573,7 @@ str_npc4_intro_response_2|Nie.
 ; str_npc7_signup_response_2|Actually, on second thought, you sound like you might be trouble. Good day to you. 
 ; str_npc8_signup_response_2|Mm, maybe you'd best seek your fortune elsewhere.
 ; str_npc9_signup_response_2|You assume wrong, sir. In my shield wall, we respect courage and skill, rather than birth.
-; str_npc10_signup_response_2|I'd rather not see any of my men killed because they are not Saxon. Good day to you.
+; str_npc10_signup_response_2|I will not see any of my men killed because they are not Saxon. Good day to you.
 ; str_npc11_signup_response_2|Sorry, milady. Now I remember that we've already got as many singers as we can handle.
 ; str_npc12_signup_response_2|A battle is not a place for men of science. Perhaps you should look elsewhere for work.
 ; str_npc13_signup_response_2|My warriors are already disciplined enough without the likes of you. Good day, sir.
@@ -803,7 +803,7 @@ str_npc16_payment_response|Bardzo dobrze.
 ; str_npc13_home_description|While the Danes and Norwegians focus on the west, the Svia look east to the land of the Slavs and beyond, even to the rich trading city of Mikligard.
 ; str_npc14_home_description|This is the home of the best bards from these lands. Even small boys and girls from this kingdom sing better than the bards from the rest of world. Many of the people also respect the old traditions and gods, and thus Munster is the most prosperous land in all of Eriu.
 ; str_npc15_home_description|Hordaland is one of the small kingdoms in Northvegr. It is led by Eirik Konungr, who was my master. I know him well. He's a tough man, violent and loving nothing more than the independence of his kingdom. So he doesn't like the vow of Harald Tanglehair to unify Northvegr under one king.
-; str_npc16_home_description|Witan Ceaster is the capital of the Saxons of West Seaxe. The king of West Seaxe is now the most powerful man in Britannia or Englaland, as our land is called. With Mierce weakened, West Seaxe is the only kingdom that can stop the Danish.
+; str_npc16_home_description|Witan Ceaster is the capital of the Saxons of West Seaxe. West Seaxe is now the most powerful kingdom in Britannia or Englaland, as our land is called. With Mierce weakened, West Seaxe is the only kingdom that can stop the Danish.
 ; str_npc1_home_description_2|Since then, it has passed from father to son. My father, the old Roman that you met, is called Caio. The name will not be lost, for all my brothers are also called Caio. My mother called us Caio Maior, Caio Secundo, and Caio Minor in order to distinguish us.
 ; str_npc2_home_description_2|Someday I'll buy a farm near Ribe. I will marry two or three women and dedicate myself to making children. Or maybe not. I may soon get bored of it...
 ; str_npc3_home_description_2|But now it seems that the Danish may be worse, in fact, than the Franks. Many Frisians have rebelled against their dominion. The Danish are people who take what they want, regardless of who is harmed, and they value their strength above our laws. I hate them! They made me a slave!
@@ -2754,7 +2754,7 @@ str_enemy|Wróg
 ; str_tutorial_training_ground_horseman_text_5|Shoot at the archery target that has an arrow on top of it!
 ; str_tutorial_training_ground_horseman_text_6|You have finished the exercise successfully. Now go back to the trainer and talk to him.
 ; str_the_great_lords_of_your_kingdom_plan_to_gather_at_your_hall_in_s10_for_a_feast|The great lords of your kingdom plan to gather at your hall in {s10} for a feast
-; str_your_previous_court_some_time_ago|your previous court some time ago,
+; str_your_previous_court_some_time_ago|your previous court some time ago
 ; str_awaiting_the_capture_of_a_fortress_which_can_serve_as_your_court|awaiting the recapture of a fortress which can serve as your court.
 ; str_but_if_this_goes_badly| I value your advice. But if this goes badly, I shall hold you responsible.
 ; str_i_realize_that_you_are_on_good_terms_with_s4_but_we_ask_you_to_do_this_for_the_good_of_the_realm| I realize that you are on good terms with {s4}, but this is all for the good of the realm
@@ -3343,7 +3343,7 @@ str_normal|Normalny
 ; str_disable_scenic_menu|Disable scenic menu:
 ; str_shield_bash|Shield bash:
 ; str_disable_complex_formations|Disable complex formations:
-; str_have_formations_face_enemy|Have formations face enemy:
+; str_have_formations_face_enemy|Auto turn army to face enemy:
 ; str_players_enemies_only_attack|Player's enemies only attack:
 ; str_music_in_battles|Replace music in battles:
 ; str_damage_to_player|Player damage:

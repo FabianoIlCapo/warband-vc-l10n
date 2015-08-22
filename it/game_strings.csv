@@ -453,7 +453,7 @@ str_npc14_backstory_b|Sono sempre stato un guerriero, non un contadino o qualsia
 str_npc15_backstory_b|Sono un uomo sfortunato. Sono originario di Konstantinoupolis, lontano da qui ... Forse ne avete sentito parlare. I Variaghi la chiamano Mikligard. Alcuni anni fa, un gruppo di loro mi ha rapito e mi ha portato qui, nel lontano nord. Mi hanno fatto schiavo e mi hanno venduto allo Jarl di Hordaland. Ho lavorato per lui fino a pochi giorni fa, quando ho finalmente guadagnato abbastanza soldi per comprare la mia libertà.
 str_npc16_backstory_b|Mi dispiace ... Sono un idiota. Mi presento. Sono Beda. Mi sono unito alla Santa Chiesa quando ero un ragazzo e alla fine sono diventato un sacerdote. Credo che anche il guerriero più duro abbia un posto per Cristo nel suo cuore e che io possa svolgere meglio la missione che Dio mi ha dato: sia essa in mezzo ai soldati che in una sacrestia.
 str_npc1_backstory_c|Dalla mia parte, posso solo dire che desideravo viaggiare e vedere il mondo. Tu mi hai dato questa opportunità. Sono contento che, quando mio padre ha chiesto a me e ai miei fratelli, che avremmo dovuto pagare il suo debito, io mi sono offerto volontario.
-str_npc2_backstory_c|Ora servo nella guardia di Re Horik. Non ne sono particolarmente felice, poiché sono all'ombra di uomini potenti che hanno ottenuto questa posizione con i loro sforzi, mentre a me mi è stata concessa solo in virtù che sono il figlio bastardo del re.
+; str_npc2_backstory_c|Now I serve in the royal guard. I'm not particularly happy, since I'm in the shadow of hardened men who won the job by their efforts, while I was granted my position only by the virtue of being a bastard son of the king.
 str_npc3_backstory_c|Ho così disperatamente cercato di fuggire. Se solo potesi ricominciare una nuova vita, libera...^^Lo sò! Potresti portarmi con te! Potrei aiutare a ricucire le ferite dei vostri guerrieri. Potrei anche imparare ad essere un guerriero, se è questo quello che serve per essere di nuovo liberi. Mi porterai con te, {reg59?signora:signore}?
 str_npc4_backstory_c|Un'altra cosa importante è che non mi piacciono i Pitti. Sì, lo so la mia gente sono governati dai re di Alban, ma questo non significa che sono diventati un popolo. Siamo gaelici e non quei ratti.
 str_npc5_backstory_c|Così, come un uomo derubato della sua eredità, qualsiasi opportunità di guadagnarsi da vivere con la mia spada è benvenuta.
@@ -557,9 +557,9 @@ str_npc1_signup_response_1|Bene. Potete tornarmi utile.
 ; str_npc7_signup_response_1|You are welcome.
 ; str_npc8_signup_response_1|OK, get your stuff. The way awaits us.
 str_npc9_signup_response_1|Bene, ma non dovrebbe essere così. Parlerò con loro.
-; str_npc10_signup_response_1|Good man, but beware! You should not put any Briton in our shield wall.
+; str_npc10_signup_response_1|Good man, but beware! You will not put down any Briton in my shield wall.
 ; str_npc11_signup_response_1|Very well, you are hired, but stop calling me '{reg59?my pretty:handsome}.'
-; str_npc12_signup_response_1|Then welcome to our shield wall, loeknir.
+; str_npc12_signup_response_1|Then welcome to my shield wall, loeknir.
 str_npc13_signup_response_1|Bene. Sono felice di avere uno come voi tra le mie fila.
 str_npc14_signup_response_1|Bene. Tenetevi pronto, partiremo presto. 
 str_npc15_signup_response_1|Mi sta bene. Sono lieto di accogliervi nella mia Compagnia.
@@ -573,7 +573,7 @@ str_npc16_signup_response_1|Sembra che possiate fare questo lavoro. Credo che v'
 str_npc7_signup_response_2|Veramente, ripensandoci, sembrate qualcuno che potrebbe fare un po' di danni. Buongiorno. 
 ; str_npc8_signup_response_2|Mm, maybe you'd best seek your fortune elsewhere.
 ; str_npc9_signup_response_2|You assume wrong, sir. In my shield wall, we respect courage and skill, rather than birth.
-; str_npc10_signup_response_2|I'd rather not see any of my men killed because they are not Saxon. Good day to you.
+; str_npc10_signup_response_2|I will not see any of my men killed because they are not Saxon. Good day to you.
 ; str_npc11_signup_response_2|Sorry, milady. Now I remember that we've already got as many singers as we can handle.
 ; str_npc12_signup_response_2|A battle is not a place for men of science. Perhaps you should look elsewhere for work.
 ; str_npc13_signup_response_2|My warriors are already disciplined enough without the likes of you. Good day, sir.
@@ -803,7 +803,7 @@ str_npc13_morality_speech|Non mi piace che {s21} abbiate mostrato paura. Nessuno
 ; str_npc13_home_description|While the Danes and Norwegians focus on the west, the Svia look east to the land of the Slavs and beyond, even to the rich trading city of Mikligard.
 ; str_npc14_home_description|This is the home of the best bards from these lands. Even small boys and girls from this kingdom sing better than the bards from the rest of world. Many of the people also respect the old traditions and gods, and thus Munster is the most prosperous land in all of Eriu.
 ; str_npc15_home_description|Hordaland is one of the small kingdoms in Northvegr. It is led by Eirik Konungr, who was my master. I know him well. He's a tough man, violent and loving nothing more than the independence of his kingdom. So he doesn't like the vow of Harald Tanglehair to unify Northvegr under one king.
-; str_npc16_home_description|Witan Ceaster is the capital of the Saxons of West Seaxe. The king of West Seaxe is now the most powerful man in Britannia or Englaland, as our land is called. With Mierce weakened, West Seaxe is the only kingdom that can stop the Danish.
+; str_npc16_home_description|Witan Ceaster is the capital of the Saxons of West Seaxe. West Seaxe is now the most powerful kingdom in Britannia or Englaland, as our land is called. With Mierce weakened, West Seaxe is the only kingdom that can stop the Danish.
 ; str_npc1_home_description_2|Since then, it has passed from father to son. My father, the old Roman that you met, is called Caio. The name will not be lost, for all my brothers are also called Caio. My mother called us Caio Maior, Caio Secundo, and Caio Minor in order to distinguish us.
 ; str_npc2_home_description_2|Someday I'll buy a farm near Ribe. I will marry two or three women and dedicate myself to making children. Or maybe not. I may soon get bored of it...
 ; str_npc3_home_description_2|But now it seems that the Danish may be worse, in fact, than the Franks. Many Frisians have rebelled against their dominion. The Danish are people who take what they want, regardless of who is harmed, and they value their strength above our laws. I hate them! They made me a slave!
@@ -2754,7 +2754,7 @@ str_tutorial_training_ground_horseman_text_4|Colpisci il manichino indicato dall
 str_tutorial_training_ground_horseman_text_5|Tira al bersaglio indicato dalla freccia!
 str_tutorial_training_ground_horseman_text_6|Hai terminato l'esercizio con successo. Ora torna dall'addestratore e parla con lui.
 str_the_great_lords_of_your_kingdom_plan_to_gather_at_your_hall_in_s10_for_a_feast|I maggiori lords del tuo regno intendono riunirsi nel vostro salone a {s10} per una festa.
-str_your_previous_court_some_time_ago|il possedimento in cui aveva sede il tuo seguito,
+; str_your_previous_court_some_time_ago|your previous court some time ago
 str_awaiting_the_capture_of_a_fortress_which_can_serve_as_your_court| in attesa della riconquista di una fortezza dove possa instaurare la vostra corte.
 str_but_if_this_goes_badly| Apprezzo il vostro consiglio. Ma se darà risultati negativi, vi riterrò personalmente responsabile.
 str_i_realize_that_you_are_on_good_terms_with_s4_but_we_ask_you_to_do_this_for_the_good_of_the_realm|Comprendo come siate in buoni rapporti con {s4}, ma questo è tutto per il bene del regno.
@@ -3343,7 +3343,7 @@ str_gore|Violenza:
 ; str_disable_scenic_menu|Disable scenic menu:
 ; str_shield_bash|Shield bash:
 ; str_disable_complex_formations|Disable complex formations:
-; str_have_formations_face_enemy|Have formations face enemy:
+; str_have_formations_face_enemy|Auto turn army to face enemy:
 ; str_players_enemies_only_attack|Player's enemies only attack:
 ; str_music_in_battles|Replace music in battles:
 ; str_damage_to_player|Player damage:
