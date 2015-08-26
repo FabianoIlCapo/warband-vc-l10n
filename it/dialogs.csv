@@ -2018,13 +2018,13 @@ dlga_lair_cook_pretalk:lair_cook|Nient'altro?
 ; dlga_barber_talk:barber_curel_1|I need you to dress my light wounds.
 ; dlga_barber_curel_1:barber_curel_2|You have some light wounds. I will cure them, but I charge {reg1} peningas for my work.
 ; dlga_barber_curel_2:barber_curel_3|Here are your {reg1} peningas. Now cure my wounds.
-; dlga_barber_curel_2:barber_pretalk|I don't have enough money.
+dlga_barber_curel_2:barber_pretalk|Non ho abbastanza denaro.
 ; dlga_barber_curel_3:close_window|I shall do as you ask, {reg59?madame:sir}. Fetch oil and wine!
 ; dlga_barber_talk:barber_cureh_1|I need you to tend to my heavy wounds.
 ; dlga_barber_talk:close_window|I have no need of your services. Farewell.
 ; dlga_barber_cureh_1:barber_cureh_2|You have serious injuries. I will cure them, but I charge {reg1} peningas for my work.
 ; dlga_barber_cureh_2:barber_cureh_3|Here are your {reg1} peningas. Now cure my wounds.
-; dlga_barber_cureh_2:barber_pretalk|I don't have enough money.
+dlga_barber_cureh_2:barber_pretalk|Non ho abbastanza denaro.
 ; dlga_barber_cureh_3:close_window|I shall do my best, {reg59?madame:sir}. Fetch a hot iron and pliers!
 ; dlga_start:skald_talk|Ave, {reg59?my lady:my lord}. I am your skald. I can recite you a poem, or I can compose songs and poems about your honor and valour.
 ; dlga_start:skald_talk.1|Ave, {reg59?my lady:my lord}. I am your bard. I can recite you a poem, or I can compose songs and poems about your honor and valour.
@@ -2049,7 +2049,7 @@ dlga_lair_cook_pretalk:lair_cook|Nient'altro?
 ; dlga_lair_captain_add_port_0:lair_captain_pretalk|The Refuge is too far away from the shore. We can't do this.
 ; dlga_lair_captain_add_port_1:lair_captain_add_port_2|Do so. Here is the money.
 dlga_lair_captain_add_port_1:lair_captain_pretalk|Ho cambiato il mio modo di pensare.
-; dlga_lair_captain_add_port_1:lair_captain_pretalk.1|I don't have enough money.
+dlga_lair_captain_add_port_1:lair_captain_pretalk.1|Non ho abbastanza denaro.
 ; dlga_lair_captain_add_port_2:lair_captain_pretalk|Very well. It won't take long to build the jetties. You will be able to disembark here soon.
 ; dlga_lair_captain:lairparty_action|I will donate 500 peningas to the families of my men.
 ; dlga_lair_captain:close_window|That'll be all.
@@ -6374,7 +6374,7 @@ dlga_smith_requested_repair_2:merchant_trade|Niente.
 ; dlga_item_improve_1:merchant_trade|Hmm, let me take a look... There is nothing I can do for your {s7}. I can't refine it.
 ; dlga_item_improve_2:item_improve_3|Agreed!
 dlga_item_improve_2:merchant_trade|Ho cambiato il mio modo di pensare.
-; dlga_item_improve_2:merchant_trade.1|I don't have enough money.
+dlga_item_improve_2:merchant_trade.1|Non ho abbastanza denaro.
 ; dlga_item_improve_3:merchant_trade|Here you have your {s7} back. It's refined.
 ; dlga_town_merchant_talk:armorer_requested_repair_1|I want to refine one of my armor parts.
 ; dlga_armorer_requested_repair_1:armorer_requested_repair_2|Which one?

@@ -165,7 +165,7 @@ dlga_start:kinghorik_quest_danmarkprot|Este é um lugar bem longe de curiosos ou
 dlga_start:kinghorik_quest_revenge4|Este é um lugar bem longe de curiosos ouvidos. Agora, fale.
 dlga_start:kinghorik_quest_thething1|Heill, {playername}.
 dlga_start:svenbn_hunting1_1|Heill, {playername}, vinr. Graças a você, hoje vencemos esta batalha! Seaxe Ocidental agora é nosso! Mas acho que você se importa mais com localização do Sven Bull pescoço, certo? Bem, ele foi embora, mas não longe. Ele tomou Readingum e tornou-se um reduto de lá, mas os meus homens têm seguido. Coloquei um hersir em minha confiança, Arnvid, encarregado da missão. Encontrá-lo no Readingum. Seus homens estão à sua disposição, se você decidir atacar o lugar.
-; dlga_start:svenbn_hunting1_1.1|Salve, {playername}! The Danish are on the run and have lost many jarls in this battle. Although there are still many of them left, we have achieved an important victory, and they will not be so bold in the future.^^I have some news for you. Sven Bull Neck has fled back to Readingum and has fortified himself in there. My men, led by a man named Eadric, have followed him. They will be at your disposal when you arrive. The moment is yours! Go to Readingum and settle your accounts with Sven Bull Neck.
+dlga_start:svenbn_hunting1_1.1|Salve, {playername}! Os Danish estão em fuga e perderam muitos Jarls nesta batalha. Embora ainda existam muitos deles sobrando, conseguimos uma importante vitória e eles não serão tão ousados no futuro... ^ ^ Eu tenho notícias pra você. Sven Pescoço de touro  fugiu de volta para Readingum e tem se fortificado lá dentro. Meus homens, liderados por um homem chamado Eadric, o tem seguido. Estarão à sua disposição quando você chegar. O momento é seu! Vá para Readingum e acerte suas contas com Sven Pescoço de Touro!
 dlga_start:close_window.6|Desculpa, isso não é uma boa hora para falar.
 dlga_start:close_window.7|Desculpa, isso não é uma boa hora para falar.
 dlga_start:close_window.8|Desculpa, isso não é uma boa hora para falar.
@@ -588,7 +588,7 @@ dlga_looters_2bribe:close_window|Eu me importo muito pouco quem você é. Está 
 dlga_looters_2bribe:looters_2bribeg|Sim, já ouvi de você. Dizem que os homens de sua tropa desfrutam os melhores espólios. Perdoe-nos, e teremos todo o prazer em se juntar a um líder tão feroz.
 dlga_looters_2bribe:looters_2bribere|Sim, já ouvi de você. Dizem que paga bem. Consideraríamos a sua oferta para se inscrever por {reg0} peningas.
 dlga_looters_2bribere:close_window|Não consigo imaginar lutando sem guerreiros de tal qualidade ao meu lado. Bem-vindo ao meu exército.
-dlga_looters_2bribere:looters_bribe12|Oh! No meu modo de ver, você deveria me pagar por tal oportunidade. Esqueça!
+dlga_looters_2bribere:looters_bribe12|Oho! Ao que vejo, você deveria me pagar por tal oportunidade. Esqueça!
 dlga_looters_2bribeg:close_window|Por que, você é o tipo de empresa que eu tenho procurado tanto para encontrar!
 dlga_looters_2bribeg:looters_bribe13|Deixa para lá. Era só o hidromel falando.
 dlga_looters_bribe12:close_window|Oh, temos pagamento em abundância para você, botão-de-ouro.
@@ -969,12 +969,12 @@ dlga_bodo_carta21:bodo_carta31|Me desculpe por ter te dado para Sigurd, meu amig
 dlga_bodo_carta21:bodo_carta32|Pensei que Sigurd iria matá-lo. Vejo que é mais forte do que eu pensava.
 dlga_bodo_carta2:bodo_carta33|-Você tenta ler a carta....
 dlga_bodo_carta2:bodo_carta34|-Você não sabe ler, então não consegue entender isso. Dê a carta para Bodo....
-; dlga_bodo_carta2:bodo_carta35|Tell me about this letter, Bodo. Why is it so important?
-; dlga_bodo_carta31:bodo_carta4|{s2}^^Do not worry. I am aware of the pressure that you feel on your shoulders and of the concern that you have for the life of your mother. What matters now is that we are together and we have the letter.
-; dlga_bodo_carta32:bodo_carta4|Fortunately, they needed me to decrypt the document. If I had given them what they wanted, I would have been dead long ago. Well, I do not want to think about this. Now we're back together and have the letter.
+dlga_bodo_carta2:bodo_carta35|Me conte sobre esta carta, Bodo. Por que ela é tão importante?
+dlga_bodo_carta31:bodo_carta4|{s2} ^ ^ Não se preocupe. Estou ciente da pressão que você sente em seus ombros e da preocupação que tens pela vida de sua mãe. O que importa agora é que estamos juntos e nós temos a carta.
+dlga_bodo_carta32:bodo_carta4|Felizmente, eles precisavam de mim para descriptografar o documento. Se eu tivesse dado a eles o que queriam, eu estaria morto há muito tempo. Bem, eu não quero pensar sobre isso. Agora estamos juntos de novo e temos a carta.
 ; dlga_bodo_carta4:bodo_carta33|--You open the parchment carefully, avoiding touching Atli's bloodstains with your fingers. You try reading the letter.--
 dlga_bodo_carta4:bodo_carta34|-Não sabe como ler, então você não pode entender isso. Dê a carta para Bodo....
-; dlga_bodo_carta4:bodo_carta35|Tell me about this letter, Bodo. Why is it so important?
+dlga_bodo_carta4:bodo_carta35|Me conte sobre esta carta, Bodo. Por que ela é tão importante?
 ; dlga_bodo_carta33:bodo_carta34|--The text is Latin, and it talks about Noah and his ark, with many comments by a monk, but nothing that would appear relevant.--
 ; dlga_bodo_carta35:bodo_carta34|This letter is important and can change everything, but I need your help to finish my mission. It's time to reveal its secrets...
 ; dlga_bodo_carta34:bodo_carta5|The trick is to read the first word after each period in the first three lines of each paragraph and read the last words before the period in the following.

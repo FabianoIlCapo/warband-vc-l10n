@@ -1,0 +1,84 @@
+skl_trade|Comércio
+skl_trade_desc|Cada nível desta habilidade este reduz sua desvantagem comercial em 5%%. (Habilidade de Equipe)
+skl_leadership|Liderança
+skl_leadership_desc|Cada ponto aumenta o número máximo de tropas que você pode comandar em 5 e reduz os salários da tropa. (Habilidade de Líder)
+skl_prisoner_management|Gestão de Prisioneiros
+skl_prisoner_management_desc|Cada nível desta habilidade aumenta o número máximo de prisioneiros em %d. (Habilidade de Líder)
+skl_reserved_1|Habilidade Reservada 1
+skl_reserved_1_desc|Esta é uma Habilidade reservada.
+skl_reserved_2|Habilidade Reservada 2
+skl_reserved_2_desc|Esta é uma Habilidade reservada.
+skl_reserved_3|Habilidade Reservada 3
+skl_reserved_3_desc|Esta é uma Habilidade reservada.
+skl_reserved_4|Habilidade Reservada 4
+skl_reserved_4_desc|Esta é uma Habilidade reservada.
+skl_persuasion|Persuasão
+skl_persuasion_desc|Esta habilidade o ajuda fazer outras pessoas aceitarem seu ponto de vista. Ela também reduz o nível mínimo de relacionamento necessário pra conseguir com que um NPCs faça o que você quer. (Habilidade Pessoal)
+skl_engineer|Engenharia
+skl_engineer_desc|Esta habilidade permite que você construa equipamentos de cerco e melhorias de feudo mais eficientemente. (Habilidade de Equipe)
+skl_first_aid|Primeiros Socorros
+skl_first_aid_desc|Heróis recuperam 5%% por nível de habilidade de pontos de vida perdidos durante missão. (Habilidade de Equipe)
+skl_surgery|Cirurgia
+skl_surgery_desc|Cada ponto desta habilidade dá 4%% de chance de que um membro da tropa mortalmente atingido seja ferido ao invés de morto. (Habilidade de Equipe)
+skl_wound_treatment|Tratamento de Feridas
+skl_wound_treatment_desc|A velocidade de cura da tropa é aumentada em 20%% por nível desta habilidade. Além disso, cada ponto aumenta a chance de que feridas profundas curem melhor em 5%%. (Habilidade de Equipe)
+skl_inventory_management|Gestão de Inventário
+skl_inventory_management_desc|Aumenta a capacidade do Inventário em +6 por nível de habilidade. (Habilidade de Líder)
+skl_spotting|Detecção
+skl_spotting_desc|O alcance de visão da tropa é aumentado em 10%% por nível de habilidade. (Habilidade de Equipe)
+skl_pathfinding|Deslocamento
+skl_pathfinding_desc|A velocidade em terra da tropa é aumentada em 3%% por nível de habilidade. (Habilidade de Equipe)
+skl_tactics|Táticas
+skl_tactics_desc|Cada 2 níveis desta habilidade aumenta a vantagem inicial de batalha em 1. (Habilidade de Equipe)
+skl_tracking|Rastreamento
+skl_tracking_desc|Rastros se tornam mais informativos. (Habilidade de Equipe)
+skl_trainer|Treinador
+skl_trainer_desc|Todos os dias, cada herói com esta habilidade adiciona alguma experiência para todos os outros membros do tropa, cujo nível seja inferior ao dele/dela. Experiência adquirida segue como: {0,4,10,16,23,30}. (Habilidade Pessoal)
+skl_reserved_5|Habilidade Reservada 5
+skl_reserved_5_desc|Esta é uma habilidade reservada.
+skl_reserved_6|Habilidade Reservada 6
+skl_reserved_6_desc|Esta é uma habilidade reservada.
+skl_reserved_7|Habilidade Reservada 7
+skl_reserved_7_desc|Esta é uma habilidade reservada.
+skl_reserved_8|Habilidade Reservada 8
+skl_reserved_8_desc|Esta é uma habilidade reservada.
+skl_looting|Pilhagem
+skl_looting_desc|Esta habilidade aumenta a quantidade de espólios obtidos em 10%% por nível de habilidade. (Habilidade de Equipe)
+skl_horse_archery|Mira Montada
+skl_horse_archery_desc|Reduz penalidades de dano e precisão para arcos e arremessos a cavalo. (Habilidade Pessoal)
+skl_riding|Equitação
+skl_riding_desc|Permite a você cavalgar, montar cavalos de níveis mais difíceis e melhora sua velocidade e manobra ao montar. Com nível 4 ou superior, você também pode chamar seu cavalo com a tecla 'H' em uma batalha. (Habilidade Pessoal)
+skl_athletics|Atletismo
+skl_athletics_desc|Melhora sua velocidade de corrida. (Habilidade Pessoal)
+skl_shield|Escudo
+skl_shield_desc|Reduz dano a escudos em (8%% por nível de habilidade) e melhora a velocidade do escudo e cobertura. (Habilidade Pessoal)
+skl_weapon_master|Mestre de Armas
+skl_weapon_master_desc|Torna mais fácil aprender Proficiências em Armas, aumenta os limites de proficiência e melhora a velocidade de escudo e cobertura. Limites seguem como: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Habilidade Pessoal)
+skl_maintenance|Manutenção de Armas
+skl_maintenance_desc|Manutenção adequada de seu equipamento irá diminuir a chance deles quebrarem em batalha. Cada ponto desta habilidade reduz a probabilidade de quebra em 7%. (Habilidade de Equipe)
+skl_reserved_10|Habilidade Reservada 10
+skl_reserved_10_desc|Esta é uma Habilidade reservada.
+skl_reserved_11|Habilidade Reservada 11
+skl_reserved_11_desc|Esta é uma Habilidade reservada.
+skl_reserved_12|Habilidade Reservada 12
+skl_reserved_12_desc|Esta é uma Habilidade reservada.
+skl_reserved_13|Habilidade Reservada 13
+skl_reserved_13_desc|Esta é uma Habilidade reservada.
+skl_power_draw|Arquerismo
+skl_power_draw_desc|Permite ao personagem usar arcos mais poderosos. Cada ponto nesta esta habilidade (de 1 a 4 acima do nível de exigência do arco) aumenta o dano do arco em 14%%. (Habilidade Pessoal)
+skl_power_throw|Arremesso
+skl_power_throw_desc|Cada ponto nesta esta habilidade aumenta o dano de arremesso em 10%%. (Habilidade Pessoal)
+skl_power_strike|Força de Ataque
+skl_power_strike_desc|Cada ponto nesta habilidade aumenta o dano com armas de ataque em 8%%. (Habilidade Pessoal)
+skl_ironflesh|Carne de Ferro
+skl_ironflesh_desc|Cada ponto nesta habilidade aumenta os pontos de vida em +2. (Habilidade Pessoal)
+skl_navigation|Navegação
+skl_navigation_desc|A velocidade da tropa ao mar é aumentada em 5%% por nível de habilidade. (Habilidade de Equipe)
+skl_sea_king|Rei Marítimo
+skl_sea_king_desc|Cada ponto aumenta o número máximo de navios que você pode comandar. (Habilidade de Líder)
+skl_reserved_16|Habilidade reservada 16
+skl_reserved_16_desc|Esta é uma Habilidade reservada.
+skl_reserved_17|Habilidade reservada 17
+skl_reserved_17_desc|Esta é uma Habilidade reservada.
+skl_reserved_18|Habilidade reservada 18
+skl_reserved_18_desc|Esta é uma Habilidade reservada.

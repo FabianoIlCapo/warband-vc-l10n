@@ -12,7 +12,7 @@ menu_start_phase_2x|Indietro
 menu_start_phase_22|{s1}
 mno_town_4|Continua.
 menu_custom_battle_scene|(NO TRANS)
-; menu_custom_battle_end|The battle is over. {s1} Your side killed {reg5} enemies and lost {reg6} troops during the battle. You personally slew {reg7} men in the fighting.
+menu_custom_battle_end|La battaglia è finita. {s1} La tua fazione ha ucciso {reg5} nemici e perso {reg6} truppe durante la battaglia. Tu hai messo fuori combattimento o ucciso {reg7} avversari in battaglia.
 menu_start_game_2|Benvenuto in Viking Conquest.
 menu_start_game_1|Benvenuto in Viking Conquest.
 menu_start_game_11|Esci?
@@ -171,7 +171,7 @@ mno_siege_warfare_p|Guerra d'assedio (Pianifica Assedio).
 mno_siege_assault_p|Guerra d'assedio (Prepara l'assalto).
 mno_wait_24_hours|Aspetta fino a domani.
 menu_siege_plan|Ti incontri con i tuoi consulenti per pianificare l'assedio e cercare di conquistare {s4} con le minor perdite possibili. La tua strategia potrebbe essere quello di portare il posto alla carestie e alla demoralizzazione.^^{s15} {s17} {s18} {s19} {s20}
-; mno_build_circunvalation|Blockade: build checkpoints around {s4}.
+mno_build_circunvalation|Bloccare: costruisce posti di blocco intorno {s4}
 mno_close_circunvalation|I posti di blocco sono Completati. Ora Ordina di attivare l'Osservazione.
 mno_town_investigar|Indagare sulle difese: tenta di intrufolarsi all'interno. L'abilità Osservazione aiuta.
 mno_traicion_interna|Trova un traditore all'interno delle difese di {s4}.
@@ -179,7 +179,7 @@ mno_traicion_interna3|Novità dagli uomini inviati in cerca di un traditore?
 mno_infiltracion_interna|Invia alcuni uomini ad infiltrarsi nelle difese per causare danni.
 mno_infiltracion_interna3|Novità dagli uomini inviati a infiltrarsi?
 mno_build_varios|Ordina la costruzione di servizi igienico-sanitari per prevenire le malattie.
-; mno_destruir_campos_a|Pillage farms nearby to replenish your stocks and harm the enemy.
+mno_destruir_campos_a|Saccheggia le fattorie vicine per risanare le tue scorte e danneggiare il nemico.
 mno_destruir_campos_b|Novità dagli uomini che ho inviato a saccheggiare coltivazioni e fattorie vicine?
 menu_siege_assault|Il tempo è essenziale, e si teme l'arrivo dei rinforzi per il posto. Assaltare significherà pesanti perdite, ma avete fatto la vostra parte. ^^ {s17} {s18} {s19}
 mno_scout_investigar|Chiamare gli scout che hanno raccolto informazioni su {s4}.
@@ -231,56 +231,56 @@ menu_infiltracion_resultado4_c|I tuoi uomini sono tornati. Mi hanno detto che ha
 mno_aceptar_ok|Questa è una buona notizia. Lascerà meno uomini per difendere le mura.
 menu_infiltracion_resultado5|Oh, signore. Il nemico ha inviato un sacco con le teste dei tuoi uomini. Alcuni dei nostri soldati hanno visto, e la paura dilaga nel campo.
 mno_infiltracion_moral|Vigliacchi! Come possono un paio di teste affondare il morale dell'esercito? Sono Uomini o bestiame?
-; menu_campos_cercanos1|Sir, crops and farms were burned, but since this is not the harvest season, it wasn't possible to get food.
+menu_campos_cercanos1|Sir, le coltivazione e gli allevamenti sono stati bruciati, ma dato che non era stagione del raccolto, è stato impossibile raccogliere cibo.
 mno_back_behind_d|Ben fatto, non ti preoccupare.
-; menu_campos_cercanos2|Sir, crops and farms were burned, and as it is the harvest season, we found an abundance of food.
+menu_campos_cercanos2|Sir, coltivazioni e allevamenti sono stati bruciati, e siccome è la stagione abbiamo raccolto cibo in abbondanza.
 mno_back_behind_c|Ben fatto, il cibo è sempre benvenuto.
-; menu_campos_cercanos2_c|Sir, crops and farms were burned. The grain is still green, but edible. We found an abundance of food.
-; menu_campos_cercanos3|Sir, we burned the fields, but as it is after the harvest time, there was no grain left. However, the farmers have left some of their cattle behind.
+menu_campos_cercanos2_c|Sir, coltivazioni e allevamenti sono stati bruciati. Il grano è ancora verde, ma commestibile. Abbiamo raccolto cibo in abbondanza.
+menu_campos_cercanos3|Sir, Abbiamo bruciato i campi, ma siccome è stato dopo il periodo di raccolto, non c'è rimasto grano. Comunque, i contadini hanno risparmiato un po' del loro bestiame.
 mno_back_behind_b|Il cibo è sempre benvenuto.
-; menu_campos_cercanos4|We have encountered problems. The fields were burned, but the farmers struck back with support from some members of the garrison.^^Your casualties: {s8}^^Enemy casualties: {s9}
+menu_campos_cercanos4|Abbiamo incontrato problemi. I campi sono stati bruciati, ma gli agricoltori ci hanno respinto con supporto da alcuni membri della guarnigione.^^Le tue vittime: {s8}^^Vittime del nemico: {s9}
 mno_back_behind_a|Notizie terribili!
-; menu_poner_escaleras|Your vanguard advances, bringing ladders, shovels and other useful siege equipment... A display of men armed with ranged weapons goes forth, attracting the enemy's missiles. Your heart races in its bony cage. Somehow, all battles seem to be the first.^The thrill, terror and sweat are there, always. You noticed how your men made a shield formation and advanced over the walls...^^Your casualties: {s8}^^Enemy casualties: {s9}
+menu_poner_escaleras|La tua avanguardia avanza, porta scale, pale e altro equipaggiamento d'assedio utile... Un gruppo di uomini armati con armi a distanza avanza, attirando i proiettili del nemico. Il tuo cuore batte nella sua gabbia toracica. In qualche modo, tutte le battaglie sembrano essere le prime.^Il brivido, il terrore e il sudore sono sempre li. Hai notato come i tuoi uomini fanno una formazione di scudi e avanzano oltre le mura...^^Le tue perdite: {s8}^^Perdite del nemico: {s9}
 mno_back_behind_esc1|I tuoi uomini hanno incontrato il nemico. E' il tuo momento...
-; menu_poner_escaleras_mantlets|Your vanguard advances, bringing ladders, mantlets, shovels and other useful siege equipment... A display of men armed with ranged weapons goes forth, guarded by mantlets, attracting the enemy's missiles. Your heart races in its bony cage. Somehow, all battles seem to be the first.^The thrill, terror and sweat are there, always. You noticed how your men made a shield formation and advanced over the walls. Using the mantles saved many lives.^^Your casualties: {s8}^^Enemy casualties: {s9}
+menu_poner_escaleras_mantlets|La tua avanguardia avanza, porta scale, pale e altro equipaggiamento d'assedio utile... Un gruppo di uomini armati con armi a distanza avanza, protetti dai mantelletti, attirano i proiettili dei nemici. Il tuo cuore batte nella sua gabbia toracica. In qualche modo, tutte le battaglie sembrano essere le prime.^Il brivido, il terrore e il sudore sono sempre li. Noti come i tuoi uomini fanno una formazione di scudi e avanzano oltre le mura. L'utilizzo del mantelletto salva molte vite.^^Le tue perdite: {s8}^^Perdite del nemico: {s9}
 mno_back_behind_esc2|I tuoi uomini hanno incontrato il nemico. E' il tuo momento...
-; menu_informacion_ciudad|The scout stops in front of you: '{s11}^^{s12} {s1} {s5}^^{s17}
+menu_informacion_ciudad|L'esploratore si ferma di fronte a te: '{s11}^^{s12} {s1} {s5}^ {s17}
 menu_castle_besiege_inner_battle|{s1}
-; menu_build_mantles2|The mantlets help protect your men when they have to use assault equipment. They save many lives. As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build mantlets.
+menu_build_mantles2|I mantelletti aiutano a proteggere i tuoi uomini nel momento in cui devono usare l'equipaggiamento d'assalto. molte vite vengono salvate. Come membro della compagnia con il più alto abilità in Ingegneria, ({reg2}), {reg3?prevedi:{s3} prevede} che ci vorrà {reg4} ore per costruire dei mantelletti.
 mno_build_mantles|Fallo.
-; menu_construct_ladders|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build enough equipment for the assault.
+menu_construct_ladders|Come membro della compagnia con la più alta abilità in Ingegneria ({reg2}), {reg3?prevedi:{s3} prevede} che ci vorrà {reg4} ore per costruire abbastanza equipaggiamento per l'assalto.
 mno_build_ladders_cont|Fallo.
-; menu_construct_siege_tower|As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower and other equipment for assault will take {reg4} hours.
+menu_construct_siege_tower|Come membro della compagnia con la più alta abilità in Ingegneria, ({reg2)}, {reg3?prevedi:{s3} prevede} che costruire una torre d'assedio e altro equipaggiamento per l'assalto ci vorranno {reg4} ore.
 mno_build_siege_tower_cont|Comincia a costruire.
 menu_castle_attack_walls_simulate|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico: {s9}
 menu_castle_attack_walls_with_allies_simulate|{s4}^^Le tue perdite: {s8}^^Le perdite alleate: {s9}^^Le perdite del nemico: {s10}
 menu_castle_taken_by_friends|Niente da vedere qui.
 ; menu_castle_taken|The battle for {s60} is almost over. Your troops are eager to start plundering the {reg2?town:fort}. {s10}^You may decide to forbid your troops to harm the {reg2?town:fort} if you want to conquer it for your faction, but your troops may lose morale. You can allow some plundering and keep the {reg2?town:fort}, or you may want to just fill your purse a bit and leave the plundered place for the enemy. Finally, you could also decide to devastate the place completely in order to gain as much loot as possible, enslave the inhabitants, and make it worthless for its owner.
-; mno_saqueo_noallowed|Conquer the {reg2?town:fort}, but forbid plundering.
-; mno_keep_plunder|Conquer and plunder the {reg2?town:fort}.
-; mno_saqueo_normal|Plunder the {reg2?town:fort} and leave.
-; mno_saqueo_total|Devastate the place and leave.
-; menu_castle_taken_plunder|The {reg2?town:fort} is plundered. You have collected {reg7} peningas.
-; menu_castle_taken_native|{s3} has fallen to your troops, and you now have full control of the {reg2?town:fort}. {reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
-; menu_castle_taken_keepplunder|{s3} has fallen to your troops, and you now have full control of the {reg2?town:fort}. Your troops run through the streets getting as much stuff as they can carry. The {reg2?town:fort} is plundered. You have collected {reg7} peningas.{reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
-; menu_castle_taken_2|{s3} has fallen to your troops, and you now have full control of the fort. It is time to send word to {s9} about your victory. {s5}
+mno_saqueo_noallowed|Conquista {reg2?la città:il forte}, ma vieta il saccheggio.
+mno_keep_plunder|Conquista e saccheggia {reg2?la città:il forte}.
+mno_saqueo_normal|Saccheggia {reg2?la città:il forte} e vattene.
+mno_saqueo_total|Devasta il posto e vattene.
+menu_castle_taken_plunder|{reg2?la città:il forte} è saccheggiato. Hai raccolto {reg7} peningas.
+menu_castle_taken_native|{s3} è caduto per mano delle tue truppe, e adesso hai il completo controllo {reg2?della città:del forte}. {reg1? puoi stanzionare truppe qui per difenderla da nemici che possono cercare di ricatturarla. Inoltre, adesso dovresti scegliere se terrai {reg2?la città:il castello} per te stesso oppure darlo a un fedele vassallo...:}
+menu_castle_taken_keepplunder|{s3} è caduto per mano delle tue truppe, e adesso hai il completo controllo {reg2?della città:del forte}. Le tue truppe corrono per le strade afferrando più materiale possibile di quanto possano portare. {reg2?la città:il forte} è saccheggiato. hai raccolto {reg7} peningas. {reg1? puoi stanzionare truppe qui per difenderla da nemici che possono cercare di ricatturarla. Inoltre, adesso dovresti scegliere se terrai {reg2?la città:il castello} per te stesso oppure darlo a un fedele vassallo...:} 
+menu_castle_taken_2|{s3} è caduto per mano delle tue truppe, e adesso hai il completo controllo del forte. è giunto il momento di mandare parola a {s9} della tua vittoria. {s5}
 mno_castle_taken_claim|Chiedi che {s3} ti venga assegnato.
-; mno_castle_taken_claim_2|Request that {s3} be awarded to your {reg59?husband:wife}.
-; mno_castle_taken_no_claim|Ask for no rewards.
-; menu_saqueo_loot_continue|This settlement has been looted.
-; menu_requested_castle_granted_to_player|You receive a message from your liege, {s3}.^^ {reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to you, with all due incomes and titles, to hold in {reg4?her:his} name for as long as you maintain your oath of homage.
+mno_castle_taken_claim_2|Richiedi che {s3} sia assegnato {reg59?tuo marito:tua moglie}.
+mno_castle_taken_no_claim|Non chiedere ricompense.
+menu_saqueo_loot_continue|Questo insediamento è stato saccheggiato
+menu_requested_castle_granted_to_player|Ricevi un messaggio dal tuo signore, {s3}.^^ {reg4?Lei:Lui} ha deciso di concedere {s2}{reg3? e il vicino villaggio di {s4}:} a te, con tutto il dovuto e titoli, a tenere in {reg4?suo:suo} nome per tutto il tempo che mantieni il tuo giuramento di omaggio.
 menu_requested_castle_granted_to_player_husband|Hai recevuto un messaggio dal sovrano, {s3}.^^ {reg4?Lei:Lui} ha deciso di concedere {s2}{reg3? e il vicino villaggio di {s4}:} a tuo marito, {s7}.
-; menu_requested_castle_granted_to_another|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour that I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {reg6} peningas to cover the expenses of your campaign, but {s2} I give to {s5}.' 
+menu_requested_castle_granted_to_another|Ricevi un messaggio dal tuo monarca, {s3}.^^ 'Sono stato informato delle tue eroiche gesta e mi compiaccio vedendo che hai ottenuto la conquista di {s2}. La tua vittoria è una gioia per i nostri cuori. Hai chiesto che ti venga assegnata la proprietà del castello ma è un favore che non posso accordare, in quanto già possiedi rilevanti tenute nel mio regno. Ti ho inviato invece {reg6} denari per coprire le spese della tua campagna, ma {s2} sarà assegnato a {s5}.'
 mno_accept_decision|Accetta la decisione.
 mno_leave_faction|Decidi che è inaccettabile! Sciogli il giuramento di fedeltà!
-; menu_requested_castle_granted_to_another_female|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give ownership of the castle to your husband, but that is a favour that I fear I cannot grant, as he already holds significant estates in my realm. Instead I have sent you {reg6} peningas to cover the expenses of your campaign, but {s2} I give to {s5}.' 
-; menu_leave_faction|Renouncing your oath is a grave act. Your lord may condemn you and confiscate your lands and holdings. However, if you return them on your own free will, he may let the betrayal go unpunished.
+menu_requested_castle_granted_to_another_female|Ricevi un messaggio dal tuo monarca, {s3}.^^ 'Sono stato informato delle tue eroiche gesta e mi compiaccio vedendo che hai ottenuto la conquista di {s2}. La tua vittoria è una gioia per i nostri cuori. Hai chiesto che la proprietà del castello venga assegnato a tuo marito ma è un favore che non posso accordare, in quanto già lui possiede rilevanti tenute nel mio regno. Ti ho inviato invece {reg6} denari per coprire le spese della tua campagna, ma {s2} sarà assegnato a {s5}.' 
+menu_leave_faction|Rinunciare al tuo giuramento è un grave atto. Il tuo lord potrebbe condannarti e confiscarti le tue terre e possedimenti. Comunque, se le ridarai a loro di tua spontanea volontà, potrebbe lasciare il tradimento inpunito.
 mno_leave_faction_give_back|Sciogli il tuo giuramento e rinuncia alle tue proprietà.
 mno_leave_faction_hold|Sciogli il tuo giuramento e mantieni le tue proprietà, compreso {s2}.
 mno_leave_faction_cancel|Rimani fedele e accetta la decisione.
-; menu_give_center_to_player|Your lord offers to extend your fiefs! {s1} sends the word that he is willing to grant {s2} to you in payment for your loyal service, adding it to your holdings. What is your answer?
+menu_give_center_to_player|Il tuo sovrano ti offre di estendere i tuoi feudi! {s1} ti comunica che intende assegnarti {s2} in compenso del tuoi leali servigi, aggiungendolo ai tuoi possedimenti. Qual è la tua risposta?
 mno_give_center_to_player_accept|Accetta l'offerta.
-; mno_give_center_to_player_reject|Reject the offer. You have no interest in holding {s2}.
+mno_give_center_to_player_reject|Rifiuti l'offerta. Non ti interessa avere {s2}.
 menu_give_center_to_player_2|Con una breve ma intensa cerimonia, si conferma che tu sia governante di {s2}{reg3? e dell'annesso villaggio di {s4}:}. {reg3?Essi diverranno:Esso diverrà} parte dei tuoi domini. Ora potrai riscuotere tasse e affitti dalla tua tenuta, assoldare militari tra la popolazione nonchè gestire il territorio secondo i tuoi voleri. Tuttavia, hai il dovere difendere il tuo feudo e la sua popolazione dai pericoli e a far rispettare la legge e l'ordine.
 menu_oath_fulfilled|Hai stipulato un contratto con {s1} con il quale offri i tuoi servigi per un tempo determinato. Il tuo contratto si è ora concluso. Cosa farai?
 mno_renew_oath|Rinnova il contratto con {s1} per un altro mese.
@@ -290,7 +290,7 @@ mno_siege_defender_join_battle|Unirti alla battaglia.
 mno_siege_defender_troops_join_battle|Ordinare ai tuoi uomini di unirsi alla battaglia senza di te.
 menu_siege_join_defense|{s4}^^Le tue perdite: {s8}^^Le perdite alleate: {s9}^^Le perdite del nemico: {s10}
 menu_enter_your_own_castle|{s10}
-; menu_village|{s10} {s12}^{s11}^{s6}{s7}^^{s15}
+menu_village|{s10} {s12}^{s11}^{s6}{s7}^^{s15}
 mno_village_manage|Gestisci il villaggio.
 mno_recruit_volunteers|Recluta volontari.
 mno_village_center|Vai al centro del villaggio.
@@ -305,19 +305,19 @@ mno_collect_taxes_qst|{reg5?Continua a raccogliere tasse:Raccogli tasse}.
 mno_train_peasants_against_bandits_qst|Addestra i paesani.
 mno_village_hostile_action|Compi un'azione ostile.
 mno_village_leave|Parti...
-; menu_village_hostile_action|What action do you have in mind?^ (You need over 30 troops.)
-; mno_village_force_convert|Try to convert the peasants forcefully.
-; mno_village_take_food|Force peasants to give you supplies.
+menu_village_hostile_action|Che tipo di azione hai in mente?^ {hai bisogno di oltre 30 truppe.)
+mno_village_force_convert|Tenta di convertire i contadini con la forza.
+mno_village_take_food|Costringi i contadini a darti le loro scorte.
 mno_village_steal_cattle|Ruba del bestiame.
-; mno_enslave_villagers|Enslave the villagers.
+mno_enslave_villagers|Schiavizza gli abitanti.
 mno_village_loot|Saccheggia il villaggio e successivamente brucialo.
 menu_recruit_volunteers|{s18}
-; mno_continue_not_enough_gold|I don't have enough money.
+mno_continue_not_enough_gold|Non ho abbastanza denaro.
 mno_recruit_them|Reclutarli ({reg6} peningas).
-; menu_village_hunt_down_fugitive_defeated|A heavy blow from the fugitive sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again, you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
-; menu_village_confront_contact_defeated|A heavy blow from the villager sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again, you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
-; menu_village_hunt_lover_defeated|A heavy blow from the ghost sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again, you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
-; menu_village_hunt_music_defeated|A heavy blow from the rogue guard sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again, you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
+menu_village_hunt_down_fugitive_defeated|Un colpo violento del fuggitivo ti scaraventa a terra, la tua vista si fa annebbiata e poi più nulla. Il tempo passa. Quando riprendi conoscenza il tuo corpo è contuso e sanguinante, ma fortunatamente nessuna ferita è risultata letale.
+menu_village_confront_contact_defeated|Un colpo violento di un abitante ti scaraventa a terra, la tua vista si fa annebbiata e poi più nulla. Il tempo passa. Quando riprendi conoscenza il tuo corpo è contuso e sanguinante, ma fortunatamente nessuna ferita è risultata letale.
+menu_village_hunt_lover_defeated|Un colpo violento del fantasma ti scaraventa a terra, la tua vista si fa annebbiata e poi più nulla. Il tempo passa. Quando riprendi conoscenza il tuo corpo è contuso e sanguinante, ma fortunatamente nessuna ferita è risultata letale.
+menu_village_hunt_music_defeated|Un colpo violento della guardia canaglia ti scaraventa a terra, la tua vista si fa annebbiata e poi più nulla. Il tempo passa. Quando riprendi conoscenza il tuo corpo è contuso e sanguinante, ma fortunatamente nessuna ferita è risultata letale.
 menu_village_infest_bandits_result|{s9}
 menu_village_infestation_removed|In una battaglia degna di essere ricordata nelle canzoni dei bardi, tu e i tuoi uomini avete scacciato i banditi dal villaggio, rendendolo sicuro come mai prima d'ora. Ai contadini è rimasto ben poco dopo questo terribile momento, ma ti offrono tutto ciò che riescono a trovare.
 mno_village_bandits_defeated_accept|Prendi quanto ti è dovuto.
@@ -325,25 +325,25 @@ mno_village_bandits_defeated_cont|Rifiuta, affermando che loro ne hanno molto pi
 menu_center_manage|{s19}^{reg6?^^Attualmente stai costruendo {s7}. L'edificio sarà completato tra {reg8} giorno{reg9?/i:}.:}
 mno_center_build_manor|Costruisci un maniero.
 mno_center_build_fish_pond|Costruisci un mulino.
-; mno_center_build_watch_tower|Build a watchtower.
+mno_center_build_watch_tower|Costruisci una torre d'osservazione
 mno_center_build_school|Costruisci una scuola.
 mno_center_build_messenger_post|Costruisci un ufficio postale.
 mno_center_build_prisoner_tower|Costruisci una torre prigione.
-; mno_center_build_religion1|Build a Christian monastery (conversion factor).
-; mno_center_build_religion2|Build a temple to Odin (conversion factor).
-; mno_center_build_religion3|Build a Christian church (conversion factor).
-; mno_center_build_religion4|Build a shrine to Norse gods (conversion factor).
-; mno_center_build_herreria|Build a smithy.
-; mno_center_build_guilds|Build a merchants' rest hall.
-; mno_center_build_library|Build a scriptorium.
-; mno_center_build_slavemarket|Build a slave market.
-; mno_center_kill_slavemarket|Remove a slave market.
-; mno_center_build_brewery|Build a brewery.
+mno_center_build_religion1|Costruisci un monastero Cristiano (fattore di conversione).
+mno_center_build_religion2|Costruisci un tempio a Odino (fattore di conversione)
+mno_center_build_religion3|Costruisci una chiesa Cristiana (fattore di conversione)
+mno_center_build_religion4|Costruisci un santuario per gli dei Norreni (fattore di conversione).
+mno_center_build_herreria|Costruisci un fabbro.
+mno_center_build_guilds|Costruisci una sala di riposo per i mercanti.
+mno_center_build_library|Costruisci uno scriptorium.
+mno_center_build_slavemarket|Costruisci un mercato di schiavi.
+mno_center_kill_slavemarket|Rimuovi il mercato di schiavi.
+mno_center_build_brewery|Costruisci un birrificio.
 ; menu_remove_slaves|Do you wish to remove the slave traders and forbid them from conducting their ungodly business within the boundaries of your town?  Keep in mind this will reduce the tariffs of the town and its prosperity temporarily.
 mno_remove_slaves|Agisci.
 ; menu_center_improve|{s19} As the party member with the highest engineer skill ({reg2}), {reg3?you reckon:{s3} reckons} that building the {s4} will cost you {reg5} peningas and will take {reg6} days.
 ; mno_improve_cont|Go on{s15}.
-; mno_improve_not_enough_gold|I don't have enough money.
+mno_improve_not_enough_gold|Non ho abbastanza denaro.
 menu_town_bandits_failed|{s4} {s5}
 ; menu_town_bandits_succeeded|The enemies fall before you as grain to a scythe! Soon you stand alone in the streets while most of your attackers lie unconscious, dead or dying. Searching the bodies, you find a purse, which must have belonged to a previous victim of these brutes. Or perhaps, it was given to them by someone who wanted to arrange a suitable ending to your life. {s33}
 ; mno_reveal|Try to find out who wanted you dead.
@@ -364,7 +364,7 @@ mno_village_raid_leave|Lascia stare questo villaggio.
 ; menu_village_raid_villagers_toslaves|Do you want to hunt the villagers down like animals and make them slaves?
 ; mno_villagers_slaves|Take all villagers prisoner!
 ; menu_village_loot_no_resist|The villagers here are few and frightened, and they quickly scatter and run before you, but your men manage to catch some of them. The village is at your mercy.
-; mno_village_enslave|Enslave the villagers.
+mno_village_enslave|Schiavizza gli abitanti.
 mno_take_supplies1|Prendi le merci.
 ; menu_village_loot_no_resist_population_flee|Most villagers ran away when they saw your army. The village is at your mercy.
 ; menu_village_loot_complete|On your orders, your troops sack the village, pillaging everything of any value, and then put the buildings to the torch. From the coins and valuables that are found, you get your share of {reg1} peningas.
