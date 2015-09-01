@@ -453,7 +453,7 @@ str_npc14_backstory_b|Sono sempre stato un guerriero, non un contadino o qualsia
 str_npc15_backstory_b|Sono un uomo sfortunato. Sono originario di Konstantinoupolis, lontano da qui ... Forse ne avete sentito parlare. I Variaghi la chiamano Mikligard. Alcuni anni fa, un gruppo di loro mi ha rapito e mi ha portato qui, nel lontano nord. Mi hanno fatto schiavo e mi hanno venduto allo Jarl di Hordaland. Ho lavorato per lui fino a pochi giorni fa, quando ho finalmente guadagnato abbastanza soldi per comprare la mia libertà.
 str_npc16_backstory_b|Mi dispiace ... Sono un idiota. Mi presento. Sono Beda. Mi sono unito alla Santa Chiesa quando ero un ragazzo e alla fine sono diventato un sacerdote. Credo che anche il guerriero più duro abbia un posto per Cristo nel suo cuore e che io possa svolgere meglio la missione che Dio mi ha dato: sia essa in mezzo ai soldati che in una sacrestia.
 str_npc1_backstory_c|Dalla mia parte, posso solo dire che desideravo viaggiare e vedere il mondo. Tu mi hai dato questa opportunità. Sono contento che, quando mio padre ha chiesto a me e ai miei fratelli, che avremmo dovuto pagare il suo debito, io mi sono offerto volontario.
-; str_npc2_backstory_c|Now I serve in the royal guard. I'm not particularly happy, since I'm in the shadow of hardened men who won the job by their efforts, while I was granted my position only by the virtue of being a bastard son of the king.
+str_npc2_backstory_c|Ora servo nella guardia Reale. Non ne sono particolarmente felice, poiché sono all'ombra di uomini potenti che hanno ottenuto questa posizione con i loro sforzi, mentre a me mi è stata concessa solo in virtù che sono il figlio bastardo del re.
 str_npc3_backstory_c|Ho così disperatamente cercato di fuggire. Se solo potesi ricominciare una nuova vita, libera...^^Lo sò! Potresti portarmi con te! Potrei aiutare a ricucire le ferite dei vostri guerrieri. Potrei anche imparare ad essere un guerriero, se è questo quello che serve per essere di nuovo liberi. Mi porterai con te, {reg59?signora:signore}?
 str_npc4_backstory_c|Un'altra cosa importante è che non mi piacciono i Pitti. Sì, lo so la mia gente sono governati dai re di Alban, ma questo non significa che sono diventati un popolo. Siamo gaelici e non quei ratti.
 str_npc5_backstory_c|Così, come un uomo derubato della sua eredità, qualsiasi opportunità di guadagnarsi da vivere con la mia spada è benvenuta.
@@ -461,7 +461,7 @@ str_npc6_backstory_c|Ho visto tutti a faccia in giù: il capitano, i marinai, gl
 str_npc7_backstory_c|Ma io non mi considero sfortunata, straniero, non più di qualsiasi altra donna in questo mondo. Questo stagno fetido è popolato da scimmie e sciacalli che non vedono quanto vale la pena vivere un altro giorno solo per uccidere l'odiato nemico e che la strada dell'inseguitore e del cacciatore è meglio che della strada del guerriero ignorante.
 str_npc8_backstory_c|'Reginhard il Matto', qui qualcuno mi chiama così. Merda, non dovrei nemmeno essere qui.
 str_npc9_backstory_c|Spero di offrire la mia spada a qualche Signore della guerra degno, è l'unica professione onorevole per un uomo del mio lignaggio oltre che a possedere qualche terra, ma nel frattempo, sono condannato a dividere il  letto con ladri, vagabondi, mercanti e l'altra marmaglia di strada.
-str_npc10_backstory_c|Ora, se mai troverò un uomo così, sarei filice di servire nel suo esercito.
+str_npc10_backstory_c|Ora, se mai troverò un uomo così, sarei felice di servire nel suo esercito.
 str_npc11_backstory_c|La cosa importante è che ho seguito e studiato i giorni passati. Mi unisco a voi ora. Lei ha un grande futuro davanti a sè, se il mio intuito è buono, voglio condividere la vostra fortuna.
 str_npc12_backstory_c|La verità è che non ero interessato a tornare a Odinsve così presto, poiché sono ancora giovane e ho l'opportunità di viaggiare in altri luoghi per imparare di più. Le Norne devono aver notato e legato insieme i nostri destini. Hai bisogno di qualcuno che può curare le ferite dei tuoi guerrieri, e io ho bisogno di qualcuno con la tua fortuna, che brilla di più del resto degli uomini che ho conosciuto.
 str_npc13_backstory_c|Così se conoscete qualche signore della guerra che voglia vincere le battaglie piuttosto che viziare i suoi soldati, me lo potrebbe presentare.
@@ -477,73 +477,73 @@ str_npc6_backstory_later|Ho vagato, ma devo ancora trovare la redenzione. Forse 
 str_npc7_backstory_later|Vago alla ricerca di un lavoro come esploratore, ma non è facile. Britanni e Sassoni sono spregevoli pidocchi ignoranti, e non è facile lavorare con loro. Non che noi Pitti siamo migliori... Comunque, Io sono di gran lunga un'eccezione, come avrai del resto capito.
 str_npc8_backstory_later|Sono alla ricerca di un comandante che mi permetta di combattere tra le sue fila. Ho bisogno di sentirmi tra fratelli, con la morte dietro di me, per dimenticare la mia famiglia che ho perso un paio di anni fa.
 str_npc9_backstory_later|Ho offerto la mia spada a molti signori di queste terre. Ma ho visto che spesso, il mio compito consisteva nel consegnare messaggi, addestrare i popolani, o altre cose non adatte ad un gentiluomo del mio rango.
-; str_npc10_backstory_later|I have travelled through Englaland, but I've had no luck yet in finding a man worthy of being my king. At least I got to kill some Britons the other day...
-; str_npc11_backstory_later|What do you think? Do you have any idea how lucky you are that I want to join your cause?
-; str_npc12_backstory_later|People are in dire need of medical services, but I know my fate is not here.
+str_npc10_backstory_later|Ho viaggiato per tutto l'Englaland, ma non ho ancora avuto la fortuna di trovare un uomo degno di essere il mio re. Almeno l'altro giorno ho avuto modo di uccidere alcuni cittadini britannici...
+str_npc11_backstory_later|Che ne pensi? Hai una vaga idea di quanto tu sia fortunato che io mi voglia unire alla tua causa?
+str_npc12_backstory_later|Le persone hanno un disperato bisogno di servizi medici, ma so che la mia sorte non è qui.
 str_npc13_backstory_later|Ho girato di corte in corte ma non ho trovato ancora un lord che mi vada a genio.
-; str_npc14_backstory_later|I have been wandering through the towns, leaving a string of lovesick women and cuckolded husbands in my wake. But I grow weary of such simple challenges. I have been thinking of turning to pastimes that are more martial.
-; str_npc15_backstory_later|The years in Northvegr were not easy. I used to construct pretty stone buildings in Konstantinoupolis, but in Northvegr, everything was made from wood. Eventually, I discovered that wood can also be beautiful. The Varangians have their own style for their dwellings that bears an intimate relationship to their boats.
-; str_npc16_backstory_later|My mission still goes on. Every day, I bring more sheep to the flock of Christ.
-; str_npc1_backstory_response_1|I appreciate him giving me a skilled tracker.
+str_npc14_backstory_later|Ho vagato in tante città, lasciandomi alle spalle una scia di donne innamorate e mariti cornuti. Ma Sono stanco di queste sfide semplici. Ho pensato di passare a passatempi un pò più marziali.
+str_npc15_backstory_later|Gli anni in Norvegia non sono stati facili. Ho edificato belle costruzioni in pietra a Konstantinoupolis, ma in Norvegia, tutto è fatto dal legno. Alla fine, ho scoperto che anche il legno può essere bello. I Variaghi hanno un proprio stile per i loro abitazioni che porta una intima relazione con le loro barche.
+str_npc16_backstory_later|La mia missione và avanti. Ogni giorno, portare sempre più pecore nel gregge del Cristo.
+str_npc1_backstory_response_1|Apprezzo che lui mi dia un'esploratore qualificato.
 str_npc2_backstory_response_1|Bene, potrei offrirvi del lavoro. Sapete combattere?
-; str_npc3_backstory_response_1|Well, I take pity on you, and your healing abilities could be useful.
-; str_npc4_backstory_response_1|I run such a shield wall, and might be able to hire an extra hand.
+str_npc3_backstory_response_1|Beh, ho avuto pietà di te, e la vostra capacità di guarigione potrebbe essermi utile.
+str_npc4_backstory_response_1|Io dirigo un'esercito, e ho giusto bisogno di una mano in più.
 str_npc5_backstory_response_1|Questo è lo spirito giusto! Potrei offrirvi qualcosa.
-; str_npc6_backstory_response_1|You must join us. Our way should remain united.
+str_npc6_backstory_response_1|Dovreste unirvi a noi. La nostra stada è rimanere insieme.
 str_npc7_backstory_response_1|Hmm... Cercate una possibilità di lavoro?
 str_npc8_backstory_response_1|Ti posso offrire nuove opportunità e un futuro migliore.
-; str_npc9_backstory_response_1|Perhaps you would like to join my shield wall for a while.
+str_npc9_backstory_response_1|Forse vi piacerebbe unirvi per un po di tempo al nostro esercito.
 str_npc10_backstory_response_1|Se cercate lavoro, a me servono combattenti esperti.
-; str_npc11_backstory_response_1|So you wish to join for luck? Why... of course! Plenty of luck to go around!
+str_npc11_backstory_response_1|Così desiderate unirvi a noi per fortuna? Perché... ovviamente! Ci vuole un sacco di fortuna per andare in giro!
 str_npc12_backstory_response_1|Un dottore eh? Si, Siete il benvenuto.
-; str_npc13_backstory_response_1|I might be able to use you in my shield wall.
-; str_npc14_backstory_response_1|I might be able to use an extra sword.
+str_npc13_backstory_response_1|Potete tornare utile al mio esercito.
+str_npc14_backstory_response_1|Potrei aver bisogno di una spada in più.
 str_npc15_backstory_response_1|Suppongo di poter essere d'aiuto.
 str_npc16_backstory_response_1|Cosa sapete fare, precisamente?
 str_npc1_backstory_response_2|Non posso prendermi carico di questa responsabilità. Tornate indietro da lui.
 str_npc2_backstory_response_2|Buona fortuna, amico. Buona giornata.
 str_npc3_backstory_response_2|Tornate dal vostro padrone, fanciulla. Dimenticate la vostra vecchia vita ed accettate il vostro destino da schiava.
 str_npc4_backstory_response_2|No, Scusate.
-; str_npc5_backstory_response_2|I do not wish to be a new weapon in your feud.
+str_npc5_backstory_response_2|Non voglio essere una nuova arma nella vostra faida.
 str_npc6_backstory_response_2|Il vostro destino non è certamente con me. Mi dispiace.
-; str_npc7_backstory_response_2|What I perceive is errant bigotry. Good day to you, madam.
+str_npc7_backstory_response_2|Ciò che percepisco è bigottismo errante. Buon giorno a voi, signora.
 str_npc8_backstory_response_2|Beh, buona fortuna, siete ubricaco. Dovreste cercare una nuova moglie o qualcosa del genere.
 str_npc9_backstory_response_2|Molti dei miei amici sono considerati canaglie. Buongiorno, signore.
-; str_npc10_backstory_response_2|Well, good luck on finding your Saxon king before finding your death. Good day, sir.
-; str_npc11_backstory_response_2|Well, I still don't know what a skjaldmo is, but at least now I know I don't like it!
+str_npc10_backstory_response_2|Beh, vi auguro un buona fortuna per trovare il re dei Sassoni prima di trovare la vostra morte. Buon giorno, signore.
+str_npc11_backstory_response_2|Beh, non sapevo ancora cosa fosse uno skjaldmo, ma almeno ora so che non mi piace!
 str_npc12_backstory_response_2|Spiacente. Non posso prendermi carico di altre mani per ora.
 str_npc13_backstory_response_2|Vi farò sapere se sento qualcosa. Buongiorno.
 str_npc14_backstory_response_2|No, mi spiace. Non c'è nulla che posso fare per voi.
 str_npc15_backstory_response_2|Mi spiace. Ho tutti gli uomini che mi servono per ora.
-; str_npc16_backstory_response_2|Sorry, priest. You sound like you might be trouble. I respect whatever faith.
+str_npc16_backstory_response_2|Siamo spiacenti, prete. Parli come se fossi nei guai. Io rispetto qualsiasi fede.
 str_npc1_signup|Vi servirò con fedeltà e dedizione, diventerò degna della vostra fiducia.
-; str_npc2_signup|I was trained by Thorgil. Look at me well, because unlike many who are with you, I'm a warrior. I could beat anyone here with spear or sword. I'm worth perhaps five men like yours.
-; str_npc3_signup|I am? Will you really help me escape and protect me? Well, I am in no position to be picky! I would be pleased to join you in exchange for my freedom.
-; str_npc4_signup|Then I'm your man. Do not ask me to talk too much, but give me an axe and a shield and let me do my job.
+str_npc2_signup|Sono stato addestrato da Thorgil. Guardami bene, perché a differenza di molti che sono con voi, io sono un guerriero. Potrei battere chiunque qui con lancia o spada. Io forse valgo cinque dei tuoi uomini.
+str_npc3_signup|Io sono? Volete davvero aiutarmi a scappare e mi proteggerà? Beh, io non posso essere pignolo! Sarei lieto di unirmi a voi in cambio della mia libertà.
+str_npc4_signup|Allora io sono il tuo uomo. Non chiedermi di parlare troppo, ma dammi un'ascia e uno scudo e fammi fare il mio lavoro.
 str_npc5_signup|Si?, questa è un'offerta generosa, senza dubbio...
 str_npc6_signup|Il mio destino è scritto con il sangue e l'acciaio e la mia redenzione passa attraverso essi..
-; str_npc7_signup|I might be. I'm not really happy to be here. At first, I thought this would be a safe place, filled with people looking to get away from it all and draw closer to the old gods, but that man, the high druid, is crazy! He kills people for fun, saying that invokes the gods, but the truth is that he knows them very little.
-; str_npc8_signup|Thank you, my friend! I know I'm rough. Thank God for people like you giving me a chance.
+str_npc7_signup|Potrei essere. Non sono davvero felice di essere qui. In un primo momento, ho pensato che questo sarebbe stato un posto sicuro, pieno di persone che cercano di fuggire da tutto e di riavvicinarsi agli antichi dèi, ma quell'uomo, l'alto druido, è un pazzo! Uccide la gente per divertimento, dicendo che invoca gli dei, ma la verità è che lui sa molto poco di loro.
+str_npc8_signup|Grazie amico mio! So di essere scontroso. Grazie a Dio c'è gente come te che mi danno una possibilità.
 str_npc9_signup|Mi piacerebbe moltissimo, {reg59?Signora:Signore}.
-; str_npc10_signup|Well, I guess I can give you the chance to prove your worthiness. I shall fight for you.
-; str_npc11_signup|Oh, luck can't be valued too much. This is a harsh, harsh world. The timid die young, {reg59?my pretty:handsome}, and the bold quickly follow.
-; str_npc12_signup|I am glad. I am young, and my thirst for knowledge knows no limits. I hope our travels will help increase my experience.
+str_npc10_signup|Beh, credo che posso darvi la possibilità di dimostrare la vostra dignità. Io combatterò per voi.
+str_npc11_signup|Oh, la fortuna non può contare troppo. Questo è un mondo duro, duro. I timidi muoiono giovani, {reg59?mia cara:caro}, e gli audaci li seguono rapidamente.
+str_npc12_signup|Sono contento. Sono giovane, e la mia sete di conoscenza non ha limiti. Spero che i nostri viaggi contribuiscano ad aumentare la mia esperienza.
 str_npc13_signup|Sarà un piacere cavalcare al vostro fianco, per quanto a lungo potrà durare.
 str_npc14_signup|Davvero? Non vi pentirete di averlo fatto.
-; str_npc15_signup|Glad to hear that! I'd be happy to travel, for a change. I'd like to know more about the North beyond this place.
-; str_npc16_signup|Well, {reg59?madame:sir}, let me tell you. Inasmuch as my main mission is spiritual, I shall bring peace to every soul in this shield wall.
+str_npc15_signup|Sono contento di sentire questo! Sarei felice di viaggiare, per cambiare. Mi piacerebbe sapere di più sul nord oltre a questo posto.
+str_npc16_signup|Beh, {reg59?Signora:Signore}, lasciatemelo dire. In quanto la mia missione principale è spirituale, devo portare la pace ad ogni anima in questo esercito.
 str_npc1_signup_2|Ho cavalcato in lungo e in largo nella mia vita. Sono un buon esploratore e ho buon occhio per il territorio. Cosa ne dite?
-; str_npc2_signup_2|I can also be a great drinker, and I have been praised many times as a skald.
+str_npc2_signup_2|Posso anche essere un gran bevitore, e sono stato elogiato molte volte come uno scaldo.
 str_npc3_signup_2|Credo che mi troverete molto utile in aggiunta alle vostre truppe. Sono portata alla letteratura classica e posso declamare molti poemi epici della mia gente. Inoltre mia nonna mi ha insegnato come prendermi cura dei miei compagni.
-; str_npc4_signup_2|If you are clever, you will give me a position of command and keep me far from any Pict.
+str_npc4_signup_2|Se sei saggio, dammi una posizione di comando e tienimi lontano da qualsiasi Pitto.
 str_npc5_signup_2|Io non vi abbandonerò... Fin quando, almeno, mi pagherete, mi darete cibo e non mi trascinerete in battaglie che non possono essere vinte. Portatemi il rispetto che merito ed io sarò il vostro miglior guerriero.
-; str_npc6_signup_2|Erudino has answered my prayers, bringing you to me! You will not find a more loyal companion or closer friend.
+str_npc6_signup_2|Erudino ha risposto alle mie preghiere, che lo porta a me! Non troverete un compagno più fedele o un amico più vicino.
 str_npc7_signup_2|Fate in modo che i vostri uomini sappiano che non sopporto gli zoticoni e le bestie. Chiunque si comporterà male con me, si ritroverà una freccia in gola.
 str_npc8_signup_2|Mi guadagnerò il vostro rispetto. Scoprirete di potervi fidare di me.
 str_npc9_signup_2|Sono un gentiluomo, preferisco combattere con spada e lancia. Vedo che siete più giovane di me. Non è un disonore per me servire un condottiero così giovane -- tuttavia, naturalmente, non legherò molto con i vostri uomini, che saranno gelosi del mio coraggio. Spero che questo non sia un problema per voi.
-; str_npc10_signup_2|You won't regret taking me on, {reg59?milady:sir}. I'm a very experienced warrior, deadly against those damn Welsh. And I've probably trained more raw recruits than you've had hot dinners.
-; str_npc11_signup_2|But I am a skjaldmo. I fight like a Valkyrjar and sing as Balder sang before that cunning Loki finished him off mid-stanza. The jarls of Northvegr and Danmark would pay a fortune and their left thumb for me to join them, but the one I choose is you, {reg59?my pretty:handsome}!
-; str_npc12_signup_2|It is very interesting how the Norns spin their yarn. Until a few days ago, before the Assembly, I thought I would return home to Odinsve, to end my days remedying wounds and sniffles. Then I met you, and I knew that all this would change.
+str_npc10_signup_2|Non ve ne pentirete prendendomi, {reg59?Mia Signora: Signore}. Sono un guerriero molto esperto, mortale contro quei maledetti gallesi. E probabilmente ho addestrato più reclute che hai mai avuto a cena.
+str_npc11_signup_2|Ma io sono un skjaldmo. Combatto come una Valkyrjar e canto come Balder ha cantato prima che l'astuto Loki finisse metà strofa. I Jarl di Norvegia e Danmarca pagherebbero una fortuna e loro pollice sinistro per farmi unire a loro, ma quello che ho scelto è lei, {reg59?mia cara:caro}!
+str_npc12_signup_2|È molto interessante come le Norne intrecciano i loro fili. Fino a pochi giorni fa, prima dell'Assemblea, ho pensato che sarei tornato a casa a Odinsve, per terminare i miei giorni curando le mie ferite e il raffreddore. Poi ho incontrato te, e sapevo che tutto questo sarebbe cambiato.
 str_npc13_signup_2|Sono uno spadaccino esperto, posso addestrare i vostri uomini nel combattimento. Ma vi avviso, non amo combattere per un leader che si dimostra debole nei confronti dei {reg59?suoi:suoi} uomini, perché a lungo andare perderà il loro rispetto.
 str_npc14_signup_2|Spada, lancia, arco... La mia abilità nell'uso di queste armi è degna di un poema epico. Insieme compiremo gesta di tale valore che verranno narrate in ogni angolo del regno per molte generazioni.
 ; str_npc15_signup_2|And you'll be glad to have me. Although siege work is my specialty, I reckon I can handle myself well enough in an open battle. As for besieging, I can truly help you take any place you might want. The fortresses here are rudimentary; they do not compare to the ones in my homeland.

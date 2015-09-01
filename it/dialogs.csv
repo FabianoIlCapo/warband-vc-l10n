@@ -2048,7 +2048,7 @@ dlga_barber_cureh_2:barber_pretalk|Non ho abbastanza denaro.
 ; dlga_lair_captain_add_port_0:lair_captain_add_port_1|We will need 1,000 peningas, to pay staff and buy materials in order to build the jetties.
 ; dlga_lair_captain_add_port_0:lair_captain_pretalk|The Refuge is too far away from the shore. We can't do this.
 ; dlga_lair_captain_add_port_1:lair_captain_add_port_2|Do so. Here is the money.
-dlga_lair_captain_add_port_1:lair_captain_pretalk|Ho cambiato il mio modo di pensare.
+dlga_lair_captain_add_port_1:lair_captain_pretalk|Ho cambiato idea.
 dlga_lair_captain_add_port_1:lair_captain_pretalk.1|Non ho abbastanza denaro.
 ; dlga_lair_captain_add_port_2:lair_captain_pretalk|Very well. It won't take long to build the jetties. You will be able to disembark here soon.
 ; dlga_lair_captain:lairparty_action|I will donate 500 peningas to the families of my men.
@@ -5390,7 +5390,7 @@ dlga_capataz_pretalk:capataz_talk|Si?
 ; dlga_start:close_window.104|You haven't finished your work yet. As I said, the stone down here must be broken out of the earth.
 ; dlga_capataz_talk:quarry_work_0|I would like to work here.
 ; dlga_quarry_work_0:quarry_work_1|We have use for a day laborer. We pay five peningas per day.
-; dlga_quarry_work_1:close_window|I'm not interested.
+dlga_quarry_work_1:close_window|Non sono interessato.
 ; dlga_quarry_work_1:quarry_work_2|Very well, I want to work one day here.
 ; dlga_quarry_work_2:close_window|The stone down here must be broken out of the earth. Here is a pickaxe.
 ; dlga_capataz_ayuda:close_window|Sorry, my {reg59?lady:lord}, but this place is our place. This place belonged to our fathers and before them, our grandparents. Only my men and my slaves work here.
@@ -5412,7 +5412,7 @@ dlga_capataz_sins:capataz_sins2|{s4}
 ; dlga_start:close_window.105|You haven't finished your work yet. As I said, in the tunnel next to me, the salt must be struck out of the mountain.
 ; dlga_capataz_talk2:salt_work_0|I would like to work here.
 ; dlga_salt_work_0:salt_work_1|We have use for a day laborer. We pay five peningas per day.
-; dlga_salt_work_1:close_window|I'm not interested.
+dlga_salt_work_1:close_window|Non sono interessato.
 ; dlga_salt_work_1:salt_work_2|Very well, I want to work one day here.
 ; dlga_salt_work_2:close_window|In the tunnel next to me, the salt must be struck out of the mountain. Here is a pickaxe.
 ; dlga_capataz_talk2:capataz_sins2_2|I want to buy some salt.
@@ -5431,7 +5431,7 @@ dlga_capataz_sins:capataz_sins2|{s4}
 ; dlga_start:close_window.107|You haven't finished your work yet. As I said, the wood next to me needs to be cut into smaller pieces, and the trees behind this house have to be felled.
 ; dlga_capataz_talk3:lumber_work_0|I would like to work here.
 ; dlga_lumber_work_0:lumber_work_1|We have use for a day laborer. We pay four peningas per day.
-; dlga_lumber_work_1:close_window|I'm not interested.
+dlga_lumber_work_1:close_window|Non sono interessato.
 ; dlga_lumber_work_1:lumber_work_2|Very well, I want to work one day here.
 ; dlga_lumber_work_2:close_window|The wood next to me needs to be cut into smaller pieces, and the trees behind this house have to be felled. Here is your axe.
 ; dlga_capataz_talk3:lumbercamp_angry|Such nice trees, but they burn easily. I could ensure that they don't -- for a small fee.
@@ -5453,7 +5453,7 @@ dlga_capataz_sins:capataz_sins2|{s4}
 ; dlga_start:close_window.109|You haven't finished your work yet. As I said, the hay in the two wheat fields near the courtyard must be piled up.
 ; dlga_farmstead_boss_talk:farmstead_work_0|I would like to work here.
 ; dlga_farmstead_work_0:farmstead_work_1|We have a use for a day laborer. We pay three peningas per day.
-; dlga_farmstead_work_1:close_window|I'm not interested.
+dlga_farmstead_work_1:close_window|Non sono interessato.
 ; dlga_farmstead_work_1:farmstead_work_2|Very well, I want to work one day here.
 ; dlga_farmstead_work_2:close_window|The hay in the two wheat fields near the courtyard must be piled up. Here is a pitchfork.
 ; dlga_farmstead_boss_talk:farmstead_boss_ayuda|I see some of your men are loitering around. Can I hire some of them?
@@ -6373,7 +6373,7 @@ dlga_smith_requested_repair_2:merchant_trade|Niente.
 ; dlga_item_improve_1:item_improve_2|Hmm, let me take a look... Your {s7} is {s8}. I think I will be able to make it {s9} for {reg1} peningas. {s10}
 ; dlga_item_improve_1:merchant_trade|Hmm, let me take a look... There is nothing I can do for your {s7}. I can't refine it.
 ; dlga_item_improve_2:item_improve_3|Agreed!
-dlga_item_improve_2:merchant_trade|Ho cambiato il mio modo di pensare.
+dlga_item_improve_2:merchant_trade|Ho cambiato idea.
 dlga_item_improve_2:merchant_trade.1|Non ho abbastanza denaro.
 ; dlga_item_improve_3:merchant_trade|Here you have your {s7} back. It's refined.
 ; dlga_town_merchant_talk:armorer_requested_repair_1|I want to refine one of my armor parts.

@@ -285,27 +285,27 @@ p_battlefields|Campo di Battaglia
 ; p_circle_mystic1|Mystic Circle
 ; p_celidon_forest|Ancient Stones
 ; p_hidden_valley|Strange Ruins
-; p_quarry1|Quarry
-; p_quarry2|Quarry
-; p_quarry3|Quarry
-; p_quarry4|Quarry
+p_quarry1|Cava
+p_quarry2|Cava
+p_quarry3|Cava
+p_quarry4|Cava
 p_saltmine1|Miniera di Sale
 p_saltmine2|Miniera di Sale
 p_saltmine3|Miniera di Sale
 p_saltmine4|Miniera di Sale
-; p_lumbercamp1|Lumber Camp
-; p_lumbercamp2|Lumber Camp
-; p_lumbercamp3|Lumber Camp
-; p_lumbercamp4|Lumber Camp
-; p_farmsteadsp1|Farmstead
-; p_farmsteadsp2|Farmstead
-; p_farmsteadsp3|Farmstead
-; p_farmsteadsp4|Farmstead
-; p_farmsteadsp5|Farmstead
-; p_farmsteadsp6|Farmstead
-; p_farmsteadsp7|Farmstead
-; p_farmsteadsp8|Farmstead
-; p_farmsteadsp9|Farmstead
+p_lumbercamp1|Legnaia
+p_lumbercamp2|Legnaia
+p_lumbercamp3|Legnaia
+p_lumbercamp4|Legnaia
+p_farmsteadsp1|Fattoria
+p_farmsteadsp2|Fattoria
+p_farmsteadsp3|Fattoria
+p_farmsteadsp4|Fattoria
+p_farmsteadsp5|Fattoria
+p_farmsteadsp6|Fattoria
+p_farmsteadsp7|Fattoria
+p_farmsteadsp8|Fattoria
+p_farmsteadsp9|Fattoria
 ; p_hadrian_wall1|Hadrian Wall
 ; p_bjorn_camp|Bjorn's camp
 ; p_snotingaham_siege|Snotingaham under siege
@@ -316,33 +316,33 @@ p_saltmine4|Miniera di Sale
 p_dhorak_keep|Dhorak Keep
 p_training_ground|Campo d'addestramento
 p_training_ground_1|Campo d'addestramento
-; p_training_ground_2|Training Village
+p_training_ground_2|Villaggio d'addestramento
 p_training_ground_3|Campo d'addestramento
-; p_training_ground_4|Training Lake
-; p_training_ground_5|Training Camp
+p_training_ground_4|Lago d'addestramento
+p_training_ground_5|Campo d'addestramento
 ; p_monasterio1|Ad Candida Casam
-; p_monasterio2|Willibrord
-; p_monasterio3|Dommoc
-; p_monasterio4|Lindisfarne
-; p_monasterio5|Aporcrosan
-; p_monasterio6|Petrus
-; p_monasterio7|Apurnethige
-; p_monasterio8|Llanteulyddog
-; p_monasterio9|Ynys Enlli
-; p_monasterio10|Eveshomme
-; p_monasterio11|Inderawuda
-; p_monasterio12|Hagustaldes
-; p_monasterio13|Briudun
-; p_monasterio14|Gudlac
-; p_monasterio15|Wochingas
-; p_monasterio16|Clofesho
-; p_monasterio17|Waerburh
-; p_monasterio18|Derhurst
-; p_monasterio19|Ythan
-; p_monasterio20|Petrockstow
-; p_monasterio21|Medeshamstede
-; p_monasterio22|Cocheham
-; p_monasterio23|Patricius
+p_monasterio2|Willibrord
+p_monasterio3|Dommoc
+p_monasterio4|Lindisfarne
+p_monasterio5|Aporcrosan
+p_monasterio6|Petrus
+p_monasterio7|Apurnethige
+p_monasterio8|Llanteulyddog
+p_monasterio9|Ynys Enlli
+p_monasterio10|Eveshomme
+p_monasterio11|Inderawuda
+p_monasterio12|Hagustaldes
+p_monasterio13|Briudun
+p_monasterio14|Gudlac
+p_monasterio15|Wochingas
+p_monasterio16|Clofesho
+p_monasterio17|Waerburh
+p_monasterio18|Derhurst
+p_monasterio19|Ythan
+p_monasterio20|Petrockstow
+p_monasterio21|Medeshamstede
+p_monasterio22|Cocheham
+p_monasterio23|Patricius
 ; p_monasterio24|Daire Calgaich
 ; p_monasterio25|Finian
 ; p_monasterio26|Raithean
@@ -355,14 +355,14 @@ p_training_ground_3|Campo d'addestramento
 ; p_destroy2|Sven's Lair, Destroyed
 ; p_destroy3|Aescesdun Battlefield
 p_followers_camp|Seguaci dell' Accampamento
-; p_ferry_1a|ferry station
-; p_ferry_2a|ferry station
-; p_ferry_3a|ferry station
-; p_ferry_4a|ferry station
-; p_ferry_1b|ferry station
-; p_ferry_2b|ferry station
-; p_ferry_3b|ferry station
-; p_ferry_4b|ferry station
+p_ferry_1a|stazione traghetti
+p_ferry_2a|stazione traghetti
+p_ferry_3a|stazione traghetti
+p_ferry_4a|stazione traghetti
+p_ferry_1b|stazione traghetti
+p_ferry_2b|stazione traghetti
+p_ferry_3b|stazione traghetti
+p_ferry_4b|stazione traghetti
 p_wales_spawn_point|Razziatori della costa
 p_fortiu_spawn_point|Razziatori della costa
 ; p_sussex_spawn_point|South Seaxe

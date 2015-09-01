@@ -6,8 +6,8 @@ trp_temp_troop|Tropa temporária
 trp_temp_troop_pl|Tropa temporária
 trp_find_item_cheat|Encontrar Item cheat
 trp_find_item_cheat_pl|Encontrar Item cheat
-trp_random_town_sequence|Sequência aleatória cidade
-trp_random_town_sequence_pl|Sequência aleatória cidade
+trp_random_town_sequence|Sequência Aleatória de Cidade
+trp_random_town_sequence_pl|Sequência Aleatória de Cidade
 trp_tournament_participants|Participantes do Torneio
 trp_tournament_participants_pl|Participantes do Torneio
 trp_tutorial_maceman|Gladiador
@@ -50,14 +50,14 @@ trp_farmer|Fazendeiro
 trp_farmer_pl|Fazendeiros
 trp_cantaber_iuventus|Guerreiro Cantábrio
 trp_cantaber_iuventus_pl|Saqueador Cantábrio
-trp_asturias_veteran|Astúrio Veterano
-trp_asturias_veteran_pl|Astúrios Veteranos
+trp_asturias_veteran|Veterano Astúrio
+trp_asturias_veteran_pl|Veteranos Astúrios
 trp_gallaecia_warrior|Guarda do Advento Galício
 trp_gallaecia_warrior_pl|Guardas do Advento Galício
-trp_townsman|Citadino
-trp_townsman_pl|Citadinos
-trp_watchman|Vigia
-trp_watchman_pl|Vigias
+trp_townsman|Habitante
+trp_townsman_pl|Habitantes
+trp_watchman|Vigilante
+trp_watchman_pl|Vigilantes
 trp_mercenary_cavalry|Cavaleiro Franco
 trp_mercenary_cavalry_pl|Cavaleiros Francos
 trp_caravan_guard|Lanceiro
@@ -74,8 +74,8 @@ trp_hired_blade|Guerreiro Svear
 trp_hired_blade_pl|Guerreiros Svear
 trp_mercenary_crossbowman|Arqueiro Finn
 trp_mercenary_crossbowman_pl|Arqueiros Finnas
-trp_mercenaries_end|Aldeão
-trp_mercenaries_end_pl|Aldeões
+trp_mercenaries_end|Habitante
+trp_mercenaries_end_pl|Habitantes
 trp_norse_slave|Emancipado Nórdico (Leysingi)
 trp_norse_slave_pl|Emancipados Nórdicos (Leysingja)
 trp_norse_bowman|Arqueiro Nórdico (Gestr)
@@ -1270,64 +1270,64 @@ trp_town_27_arena_master|Mestre de Competição
 trp_town_28_arena_master|Mestre de Competição
 trp_town_29_arena_master|Mestre de Competição
 trp_town_1_armorer|Armeiro
-; trp_town_2_armorer|Armorer
-; trp_town_3_armorer|Armorer
-; trp_town_4_armorer|Armorer
-; trp_town_5_armorer|Armorer
-; trp_town_6_armorer|Armorer
-; trp_town_7_armorer|Armorer
-; trp_town_8_armorer|Armorer
-; trp_town_9_armorer|Armorer
-; trp_town_10_armorer|Armorer
-; trp_town_11_armorer|Armorer
-; trp_town_12_armorer|Armorer
-; trp_town_13_armorer|Armorer
-; trp_town_14_armorer|Eadwine the Armorer
-; trp_town_15_armorer|Donnchadh the Armorer
-; trp_town_16_armorer|Paega the Armorer
-; trp_town_17_armorer|Lifris the Armorer
-; trp_town_18_armorer|Fearchair the Armorer
-; trp_town_19_armorer|Armorer
-; trp_town_20_armorer|Armorer
-; trp_town_21_armorer|Armorer
-; trp_town_22_armorer|Armorer
-; trp_town_23_armorer|Armorer
-; trp_town_24_armorer|Armorer
-; trp_town_25_armorer|Armorer
-; trp_town_26_armorer|Armorer
-; trp_town_27_armorer|Armorer
-; trp_town_28_armorer|Armorer
-; trp_town_29_armorer|Armorer
-; trp_town_30_armorer|Ingleri
-; trp_town_1_weaponsmith|Weaponsmith
-; trp_town_2_weaponsmith|Weaponsmith
-; trp_town_3_weaponsmith|Weaponsmith
-; trp_town_4_weaponsmith|Weaponsmith
-; trp_town_5_weaponsmith|Atli the Weaponsmith
-; trp_town_6_weaponsmith|Harenbili the Weaponsmith
-; trp_town_7_weaponsmith|Egil the Weaponsmith
-; trp_town_8_weaponsmith|Godgyfu the Weaponsmith
-; trp_town_9_weaponsmith|Uormuin the Weaponsmith
-; trp_town_10_weaponsmith|Weaponsmith
-; trp_town_11_weaponsmith|Weaponsmith
-; trp_town_12_weaponsmith|Weaponsmith
-; trp_town_13_weaponsmith|Weaponsmith
-; trp_town_14_weaponsmith|Weaponsmith
-; trp_town_15_weaponsmith|Weaponsmith
-; trp_town_16_weaponsmith|Weaponsmith
-; trp_town_17_weaponsmith|Weaponsmith
-; trp_town_18_weaponsmith|Weaponsmith
-; trp_town_19_weaponsmith|Weaponsmith
-; trp_town_20_weaponsmith|Weaponsmith
-; trp_town_21_weaponsmith|Weaponsmith
-; trp_town_22_weaponsmith|Weaponsmith
-; trp_town_23_weaponsmith|Weaponsmith
-; trp_town_24_weaponsmith|Weaponsmith
-; trp_town_25_weaponsmith|Weaponsmith
-; trp_town_26_weaponsmith|Weaponsmith
-; trp_town_27_weaponsmith|Weaponsmith
-; trp_town_28_weaponsmith|Weaponsmith
-; trp_town_29_weaponsmith|Weaponsmith
+trp_town_2_armorer|Armadureiro
+trp_town_3_armorer|Armadureiro
+trp_town_4_armorer|Armadureiro
+trp_town_5_armorer|Armadureiro
+trp_town_6_armorer|Armadureiro
+trp_town_7_armorer|Armadureiro
+trp_town_8_armorer|Armadureiro
+trp_town_9_armorer|Armadureiro
+trp_town_10_armorer|Armadureiro
+trp_town_11_armorer|Armadureiro
+trp_town_12_armorer|Armadureiro
+trp_town_13_armorer|Armadureiro
+trp_town_14_armorer|Eadwine O Armadureiro
+trp_town_15_armorer|Donnchadh O Armadureiro
+trp_town_16_armorer|Paega O Armadureiro
+trp_town_17_armorer|Lifris O Armadureiro
+trp_town_18_armorer|Fearchair O Armadureiro
+trp_town_19_armorer|Armadureiro
+trp_town_20_armorer|Armadureiro
+trp_town_21_armorer|Armadureiro
+trp_town_22_armorer|Armadureiro
+trp_town_23_armorer|Armadureiro
+trp_town_24_armorer|Armadureiro
+trp_town_25_armorer|Armadureiro
+trp_town_26_armorer|Armadureiro
+trp_town_27_armorer|Armadureiro
+trp_town_28_armorer|Armadureiro
+trp_town_29_armorer|Armadureiro
+trp_town_30_armorer|Ingleri
+trp_town_1_weaponsmith|Armeiro
+trp_town_2_weaponsmith|Armeiro
+trp_town_3_weaponsmith|Armeiro
+trp_town_4_weaponsmith|Armeiro
+trp_town_5_weaponsmith|Atli O Armeiro
+trp_town_6_weaponsmith|Harenbili O Armeiro
+trp_town_7_weaponsmith|Egil O Armeiro
+trp_town_8_weaponsmith|Godgyfu O Armeiro
+trp_town_9_weaponsmith|Uormuin O Armeiro
+trp_town_10_weaponsmith|Armeiro
+trp_town_11_weaponsmith|Armeiro
+trp_town_12_weaponsmith|Armeiro
+trp_town_13_weaponsmith|Armeiro
+trp_town_14_weaponsmith|Armeiro
+trp_town_15_weaponsmith|Armeiro
+trp_town_16_weaponsmith|Armeiro
+trp_town_17_weaponsmith|Armeiro
+trp_town_18_weaponsmith|Armeiro
+trp_town_19_weaponsmith|Armeiro
+trp_town_20_weaponsmith|Armeiro
+trp_town_21_weaponsmith|Armeiro
+trp_town_22_weaponsmith|Armeiro
+trp_town_23_weaponsmith|Armeiro
+trp_town_24_weaponsmith|Armeiro
+trp_town_25_weaponsmith|Armeiro
+trp_town_26_weaponsmith|Armeiro
+trp_town_27_weaponsmith|Armeiro
+trp_town_28_weaponsmith|Armeiro
+trp_town_29_weaponsmith|Armeiro
 trp_town_30_weaponsmith|Ulfberht
 trp_town_31_weaponsmith|Weland
 trp_town_1_tavernkeeper|Hospedeiro
@@ -1601,8 +1601,8 @@ trp_village_149_elder|Líder Local
 trp_village_150_elder|Thonkrik
 trp_monje_mercader|Monge Mercador
 trp_monje_mercader_pl|Monges Mercadores
-; trp_merchants_end|merchants end
-; trp_merchants_end_pl|merchants end
+trp_merchants_end|fim de comerciantes
+trp_merchants_end_pl|fim de comerciantes
 trp_town_1_healer|Médico
 trp_town_2_healer|Médico
 trp_town_3_healer|Médico
@@ -1633,7 +1633,7 @@ trp_town_27_healer|Médico
 trp_town_28_healer|Médico
 trp_town_29_healer|Médico
 trp_town_30_healer|Médico
-; trp_healer_end|healer end
+trp_healer_end|final de curandeiro
 trp_town_1_shipwright|Carpinteiro Naval
 trp_town_2_shipwright|Carpinteiro Naval
 trp_town_3_shipwright|Carpinteiro Naval
@@ -1765,19 +1765,19 @@ trp_khergit_merchant|Mercador
 trp_nord_merchant|Curandeiro
 trp_rhodok_merchant|Mercador
 trp_sarranid_merchant|Mercador
-; trp_startup_merchants_end|startup merchants end
-; trp_startup_merchants_end_pl|startup merchants end
+trp_startup_merchants_end|final de comerciantes iniciais
+trp_startup_merchants_end_pl|fim de comerciantes de inicialização
 trp_old_hero_boargrove|Velho Herói
 trp_old_hero_boargrove_pl|Velhos Heróis
 trp_sea_raider_leader|Berserkr
 trp_sea_raider_leader_pl|Berserkir
 trp_looter_leader|Ulfhedinn
 trp_looter_leader_pl|Ulfhednar
-; trp_bandit_leaders_end|bandit leaders end
-; trp_bandit_leaders_end_pl|bandit leaders end
+trp_bandit_leaders_end|fim de líderes de bandido
+trp_bandit_leaders_end_pl|final de líderes de bandido
 trp_relative_of_merchant|Capitão Astúrio
-; trp_relative_of_merchants_end|relative of merchants end
-; trp_relative_of_merchants_end_pl|relative of merchants end
+trp_relative_of_merchants_end|fim de parente decomerciantes
+trp_relative_of_merchants_end_pl|fim de parente de comerciantes
 trp_sacerdote_lair|Padre Beda
 trp_sacerdote_lair_pl|Padre
 trp_pagano_lair|Godi Olafr
@@ -1871,12 +1871,12 @@ trp_orm_robagranjas_pl|Orm Svarti
 trp_pagano|Godi Olafr
 trp_pagano_pl|Sacerdote
 trp_pseudo_troop_01|PT01
-; trp_pseudo_troop_01_pl|4,2777,1,82,99,777,7,849,2,1640,7,3,0,0,0,0,0,0,0,0,0,0,0,0/
+trp_pseudo_troop_01_pl|4,2777,1,82,99,777,7,849,2,1640,7,3,0,0,0,0,0,0,0,0,0,0,0,0/
 trp_pseudo_troop_02|pt02
 trp_pseudo_troop_02_pl|
 Date:3,3,100,0,0,2,0,0,0,34
 trp_pseudo_troop_03|pt03
-; trp_pseudo_troop_03_pl|;Date:3,/21,6/193,0/194,3/240,3/447,0/190,6/31,14/48,2/44,12/45,2/207,4/119,13/41,11/107,3/35,2/30,10/47,3/23,3/81,6/150,4/43,9/67,11/42,6/33,0/180,2/46,3/37,2/22,3/36,6/Others,50;/Templates:/6,73,98,25/7,6,6,0/8,13,16,3/9,13,14,1/10,11,12,1/11,16,16,0/12,16,16,0/13,8,8,0/14,10,12,2/15,8,8,0/16,3,3,0/17,3,3,0/18,19,25,6;/
+trp_pseudo_troop_03_pl|;Date:3,/21,6/193,0/194,3/240,3/447,0/190,6/31,14/48,2/44,12/45,2/207,4/119,13/41,11/107,3/35,2/30,10/47,3/23,3/81,6/150,4/43,9/67,11/42,6/33,0/180,2/46,3/37,2/22,3/36,6/Others,50;/Templates:/6,73,98,25/7,6,6,0/8,13,16,3/9,13,14,1/10,11,12,1/11,16,16,0/12,16,16,0/13,8,8,0/14,10,12,2/15,8,8,0/16,3,3,0/17,3,3,0/18,19,25,6;/
 trp_pseudo_troop_04|pt04
 trp_pseudo_troop_04_pl|pt
 trp_pseudo_troop_05|pt05
@@ -1920,42 +1920,42 @@ trp_mp_briton_peasant_pl|Camponês
 trp_mp_irish_peasant|Camponês
 trp_mp_irish_peasant_pl|Camponês
 trp_mp_scotch_peasant|Camponês
-; trp_mp_scotch_peasant_pl|Peasant
+trp_mp_scotch_peasant_pl|Camponês
 trp_mp_norse_infantry|Infantaria Nórdica
 trp_mp_norse_infantry_pl..=."."
-trp_mp_norse_archer|Arquearia Nórdica
+trp_mp_norse_archer|Arqueiro Nórdico
 trp_mp_norse_archer_pl..=."."
 trp_mp_norse_cavalry|Cavalaria Nórdica
 trp_mp_norse_cavalry_pl..=."."
-; trp_mp_saxon_infantry|Saxon Infantry
+trp_mp_saxon_infantry|Infantaria Saxã
 trp_mp_saxon_infantry_pl..=."."
-; trp_mp_saxon_archer|Saxon Archer
+trp_mp_saxon_archer|ArqueiroSaxão
 trp_mp_saxon_archer_pl..=."."
-; trp_mp_saxon_cavalry|Saxon Cavalry
+trp_mp_saxon_cavalry|Cavalaria Saxã
 trp_mp_saxon_cavalry_pl..=."."
-; trp_mp_angle_infantry|Angle Infantry
+trp_mp_angle_infantry|Infantaria Angla
 trp_mp_angle_infantry_pl..=."."
-; trp_mp_angle_archer|Angle Archer
+trp_mp_angle_archer|Arqueiro Anglo
 trp_mp_angle_archer_pl..=."."
-; trp_mp_angle_cavalry|Angle Cavalry
+trp_mp_angle_cavalry|Cavalaria Angla
 trp_mp_angle_cavalry_pl..=."."
-; trp_mp_briton_infantry|Brittonic Infantry
+trp_mp_briton_infantry|Infantaria Bretã
 trp_mp_briton_infantry_pl..=."."
-; trp_mp_briton_archer|Brittonic Archer
+trp_mp_briton_archer|Arqueiro  Bretão
 trp_mp_briton_archer_pl..=."."
-; trp_mp_briton_cavalry|Brittonic Cavalry
+trp_mp_briton_cavalry|Cavalaria  Bretã
 trp_mp_briton_cavalry_pl..=."."
-; trp_mp_irish_infantry|Goidelic Infantry
+trp_mp_irish_infantry|Infantaria Gaélica
 trp_mp_irish_infantry_pl..=."."
-; trp_mp_irish_archer|Goidelic Archer
+trp_mp_irish_archer|Arqueiro Gaélico
 trp_mp_irish_archer_pl..=."."
-; trp_mp_irish_cavalry|Goidelic Cavalry
+trp_mp_irish_cavalry|Cavalaria Gaélica
 trp_mp_irish_cavalry_pl..=."."
-; trp_mp_scotch_infantry|Pictish Infantry
+trp_mp_scotch_infantry|Infantaria Picta
 trp_mp_scotch_infantry_pl..=."."
-; trp_mp_scotch_archer|Pictish Archer
+trp_mp_scotch_archer|Arqueiro Picto
 trp_mp_scotch_archer_pl..=."."
-; trp_mp_scotch_cavalry|Pictish Cavalry
+trp_mp_scotch_cavalry|Cavalaria Picta
 trp_mp_scotch_cavalry_pl..=."."
 trp_norse_peasant_ai|Homem Livre Nórdico (Leysingi)
 trp_norse_peasant_ai_pl|Homens Livres Nórdicos (Leysingi)
@@ -1969,8 +1969,8 @@ trp_irish_peasant_ai|Servo Irlandês (Senchleithe)
 trp_irish_peasant_ai_pl|Servos Irlandeses (Senchleithe)
 trp_scotch_peasant_ai|Camponês Picto (Bachlach)
 trp_scotch_peasant_ai_pl|Camponeses (Bachlach)
-; trp_fake_berserker|Berserkr
-; trp_fake_berserker_pl|Berserkir
+trp_fake_berserker|Berserkr
+trp_fake_berserker_pl|Berserkir
 trp_copy_npc1|Caio
 trp_copy_npc1_pl|Caio
 trp_copy_npc2|Egil

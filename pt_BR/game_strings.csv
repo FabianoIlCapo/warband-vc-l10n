@@ -1,20 +1,20 @@
 str_yes|Sim.
-str_no|N. º
+str_no|Não.
 str_blank_string..=."."
-; str_noone|no one
-; str_s50_and_s51|{s50} and {s51}
-; str_s52_and_s51|{s52} and {s51}
+str_noone|Ninguém
+str_s50_and_s51|{s50} e {s51}
+str_s52_and_s51|{s52} e {s51}
 ; str_s5_s_party|{s5}'s Party
 ; str_given_by_s1_at_s2|Given by {s1} at {s2}
 ; str_given_by_s1_in_wilderness|Given by {s1} whilst in the field
 ; str_s7_raiders|{s7} Raiders
-; str_bandits_eliminated_by_another|The troublesome bandits have been eliminated by another party.
+str_bandits_eliminated_by_another|Os bandidos problemáticos foram eliminados por outra tropa.
 ; str_msg_battle_won|Battle won, your foes lie slaughtered on the field! (Press tab key to leave)
 ; str_tutorial_map1|You are now viewing the world map. Left-click on the map to move your party to that location, enter the selected town, or pursue the selected party.^Time will pause on the overland map if your party is not moving, waiting or resting. To wait anywhere simply press and hold down the space bar.^This is a good moment to save your game! Press the Esc key and choose Save As or use F12 for quick saving.^^Good luck!
 ; str_tutorial_map11|You now have a strong party of men. Return to the jarl for further instruction.
 ; str_randomize|Randomize
-; str_charge|Charge
-; str_color|Color
+str_charge|Atacar
+str_color|Cor
 ; str_flip_horizontal|Flip Horizontal
 ; str_flip_vertical|Flip Vertical
 ; str_hold_fire|Hold Fire
@@ -25,7 +25,7 @@ str_blank_string..=."."
 ; str_tutorialmq_1_msg_2|Well done. Next, we will learn to interact with objects and persons. Near you, there is a man called Bodo. To find out who a person is, walk toward him or her until the name pops up. In order to talk to Bodo once you find him, press the F key. ^^Use the F key to interact with persons and scene props. It will open doors and chests, pick up items and more. ^^Goal: Talk to Bodo.
 ; str_tutorialmq_1_msg_3|Excellent. Next, we will cover attacking with weapons. ^^You can draw different weapons from your weapon slots by scrolling forward with the wheel of your mouse or by pressing one of the first four numbers on your number pad. ^^You attack with your currently wielded weapon by using your left mouse button. Press and hold the button to ready an attack, then release the button to strike. If you hold down the left mouse button for a while before releasing, your attack will be more powerful. ^^Scroll down or use the number pad to bring out your shield or put it away. ^^Goal: Talk to Veteran to practice some combat.
 ; str_tutorialmq_1_msg_4|Nice work! You know all the basic concepts to play Viking Conquest. Now you can explore, talk to NPCs, fight in sailors, or finally, when you are ready, talk to captain to continue your adventure.
-; str_finished|(Finished)
+str_finished|(Concluído)
 ; str_delivered_damage|Delivered {reg60} damage.
 ; str_archery_target_hit|Distance: {reg61} yards. Score: {reg60}
 ; str_use_baggage_for_inventory|Use your baggage to access your inventory during battle (it's at your starting position).
@@ -35,9 +35,9 @@ str_blank_string..=."."
 ; str_cant_use_inventory_tutorial|Can't access inventory in the training camp.
 ; str_1_denar|1 pening
 ; str_reg1_denars|{reg1} peningas
-; str_january_reg1_reg2|January {reg1}, {reg2}
-; str_february_reg1_reg2|February {reg1}, {reg2}
-; str_march_reg1_reg2|March {reg1}, {reg2}
+str_january_reg1_reg2|Janeiro {reg1}, {reg2}
+str_february_reg1_reg2|Fevereiro {reg1}, {reg2}
+str_march_reg1_reg2|Março{reg1}, {reg2}
 ; str_april_reg1_reg2|April {reg1}, {reg2}
 ; str_may_reg1_reg2|May {reg1}, {reg2}
 ; str_june_reg1_reg2|June {reg1}, {reg2}
@@ -55,7 +55,7 @@ str_blank_string..=."."
 ; str_place_is_occupied_by_enemy|The place is held by hostile troops.
 ; str_place_is_occupied_by_friendly|The place is held by friendly troops.
 ; str_do_you_want_to_retreat|Are you sure you want to retreat?
-; str_give_up_fight|Give up the fight?
+str_give_up_fight|Desistir da luta?
 ; str_do_you_wish_to_leave_tutorial|Do you wish to leave the tutorial?
 ; str_do_you_wish_to_surrender|Do you wish to surrender?
 ; str_can_not_retreat|Can't retreat, there are enemies nearby!
@@ -1568,8 +1568,8 @@ str_multi_scene_inv_3|Castelo de Din Bych
 ; str_multi_game_type_2|Team Deathmatch
 ; str_multi_game_type_3|Battle
 ; str_multi_game_type_4|Siege
-; str_multi_game_type_5|Duel
-; str_multi_game_type_6|Naval Battle
+str_multi_game_type_5|Duelar
+str_multi_game_type_6|Batalha naval
 ; str_multi_game_type_7|Thor's Champion
 ; str_multi_game_type_8|Viking Invasion
 ; str_multi_game_type_9|Warlords Battle
@@ -1627,10 +1627,10 @@ str_combat_speed_1|Mais lenta
 ; str_combat_speed_2|Medium
 str_combat_speed_3|Mais rápida
 ; str_combat_speed_4|Fastest
-; str_off|Off
-; str_on|On
+str_off|Desligado
+str_on|Ligado
 ; str_defender_spawn_count_limit|Defender spawn count:
-; str_unlimited|Unlimited
+str_unlimited|Ilimitado
 str_automatic|Automátic
 str_by_mouse_movement|Pelo movimento do mouse
 ; str_free|Free
@@ -1687,7 +1687,7 @@ str_no_wo_dot|Não
 ; str_kills|Kills
 ; str_deaths|Deaths
 ; str_ping|Ping
-; str_dead|Dead
+str_dead|Mortos
 ; str_reg0_dead|{reg0} Dead
 ; str_bots_reg0_agents|Bots ({reg0} agents)
 ; str_bot_1_agent|Bot (1 agent)
@@ -1713,7 +1713,7 @@ str_back|Voltar
 ; str_choose_troop|Choose Troop
 ; str_choose_a_troop|Choose a troop class:
 ; str_choose_items|Choose Equipment
-; str_options|Options
+str_options|Opções
 ; str_redefine_keys|Redefine Keys
 ; str_submit_a_poll|Submit a Poll
 ; str_administrator_panel|Administrator Panel
@@ -2672,7 +2672,7 @@ str_farewell|Adeus.
 ; str_battle|Battle
 ; str_siege_offense|Siege (Offense)
 ; str_siege_defense|Siege (Defense)
-; str_character|Character
+str_character|Personagem
 ; str_biography|Background
 ; str_player|Player
 str_enemy|Inimigo
@@ -3000,9 +3000,9 @@ str_the_coast|A costa
 ; str_inv_command_class_1|Archers: {reg1}
 ; str_inv_command_class_2|Cavalry: {reg1}
 ; str_inv_command_class_deselect|Deselect
-; str_inv_command_order_charge|Charge
+str_inv_command_order_charge|Atacar
 ; str_inv_command_order_move|Move to...
-; str_inv_command_order_use_any|Use Any Weapon
+str_inv_command_order_use_any|Use qualquer arma
 ; str_inv_command_order_use_melee|Use Melee Weapons
 ; str_inv_command_order_use_ranged|Use Ranged Weapons
 ; str_norse_slave|Leysingja Levy Auxillary

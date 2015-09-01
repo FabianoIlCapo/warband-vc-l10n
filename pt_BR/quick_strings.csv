@@ -1,74 +1,74 @@
-; qstr_{reg1}.0|{reg1}.0
-; qstr_{reg1}.00{reg2}|{reg1}.00{reg2}
-; qstr_{reg1}.0{reg2}|{reg1}.0{reg2}
-; qstr_{reg1}.{reg2}|{reg1}.{reg2}
-; qstr_{s1}_|{s1} 
-; qstr_Next_Page|Next Page
-; qstr_Naval_Battle|Naval Battle
-; qstr_Coastal_Assault__Off|Coastal Assault (Offense)
-; qstr_Coastal_Assault__Def|Coastal Assault (Defense)
-; qstr_Players:|Players:
-; qstr_Invaders:|Invaders:
-; qstr_Invasion_difficulty_|Invasion difficulty (%):
-; qstr_Allow_Shield_Bash|Allow Shield Bash
-; qstr_Allow_Falling_from_H|Allow Falling from Horses
-; qstr_Allow_Shield_Wall_Bo|Allow Shield Wall Bonuses
-; qstr_Remove_Stray_Horses_|Remove Stray Horses after xxx Seconds (0=off)
+qstr_{reg1}.0|{reg1}.0
+qstr_{reg1}.00{reg2}|{reg1}.00{reg2}
+qstr_{reg1}.0{reg2}|{reg1}.0{reg2}
+qstr_{reg1}.{reg2}|{reg1}.{reg2}
+qstr_{s1}_|{s1} 
+qstr_Next_Page|Próxima página
+qstr_Naval_Battle|Batalha naval
+qstr_Coastal_Assault__Off|Ataque à costa (ofensiva)
+qstr_Coastal_Assault__Def|Ataque à costa (defesa)
+qstr_Players:|Jogadores:
+qstr_Invaders:|Invasores:
+qstr_Invasion_difficulty_|Dificuldade de invasão (%):
+qstr_Allow_Shield_Bash|Permitir Shield Bash
+qstr_Allow_Falling_from_H|Permitir a queda de cavalos
+qstr_Allow_Shield_Wall_Bo|Permitir que o bônus de parede escudo
+qstr_Remove_Stray_Horses_|Remova cavalos perdidos após xxx segundos (0 = off)
 ; qstr_Replace_All_Weapons_|Replace All Weapons with Deadly Bow
-; qstr_God_Mode|God Mode
-; qstr________Game_Descript|-------Game Description-------^
-; qstr_Game_Rules:^|Game Rules:^
-; qstr_0|0
-; qstr_Players:_{reg1}|Players: {reg1}
-; qstr_Command_enemy_troops|Command enemy troops
-; qstr_Invaders|Invaders
-; qstr_Extra_silver_for_tro|Extra silver for troops: {reg2}
-; qstr_{s0}__{reg1}s_|{s0} ({reg1}s)
-; qstr_Thor_s_champion_has_|Thor's champion has been killed!
-; qstr_You_have_killed_the_|You have killed the champion and gained Thor's favour!
-; qstr_{s1}_has_killed_the_|{s1} has killed the Champion and gained Thor's favour!
-; qstr_Thor_has_chosen_{s1}|Thor has chosen {s1} as his new champion!
-; qstr_^^Congratulations!^^|^^Congratulations!^^You have survived the invasion!
-; qstr_New_enemies_are_comi|New enemies are coming!^Prepare yourself!
-; qstr_{reg0}:{reg1}{reg2}_|{reg0}:{reg1}{reg2} until the next enemy wave.
-; qstr_Enemies_left:_{reg1}|Enemies left: {reg1}
-; qstr_Show_game_rules|Show game rules
-; qstr_Admin_tools_panel|Admin tools panel
-; qstr_Change_game_type|Change game type
-; qstr_All_Players|All Players
-; qstr_The|The
-; qstr_Candidate_#1:_{s1}|Candidate #1: {s1}
-; qstr_Candidate_#2:_{s1}|Candidate #2: {s1}
-; qstr_{s3}_of_the_{s4}_wis|{s3} of the {s4} wishes to select a new marshal and invites his vassals for a counsel. {s1} and {s2} are the likely candidates.
-; qstr_Whom_do_you_wish_to_|Whom do you wish to support?
-; qstr_{s1}_gives_his_suppo|{s1} gives his support to {s2}.
-; qstr_Number_of_Supporters|Number of Supporters: {reg0}
-; qstr_{s2}_has_heard_his_v|{s2} has heard his vassals' counsel. He selects {s1} as the marshal of the {s3}.
-; qstr_Strategy_Camera:_pre|Strategy Camera: press the Enter key.'
-; qstr_Orders|Orders
-; qstr_Mount|Mount
-; qstr_Attack_Order|Attack Order
-; qstr_Retreat|Retreat
+qstr_God_Mode|Modo Deus
+qstr________Game_Descript|---Descrição do Jogo--^
+qstr_Game_Rules:^|Regras do jogo: ^
+qstr_0|0
+qstr_Players:_{reg1}|Jogadores: {reg1}
+qstr_Command_enemy_troops|Comando de tropas inimigas
+qstr_Invaders|Invasores
+qstr_Extra_silver_for_tro|Prata extra para as tropas: {reg2}
+qstr_{s0}__{reg1}s_|{s0} ({reg1}s)
+qstr_Thor_s_champion_has_|Campeão do Thor foi morto!
+qstr_You_have_killed_the_|Você matou o campeão e ganhou o favor de Thor!
+qstr_{s1}_has_killed_the_|{s1} matou o campeão e ganhou o favor de Thor!
+qstr_Thor_has_chosen_{s1}|Thor escolheu {s1} como seu novo campeão!
+qstr_^^Congratulations!^^|^ ^ Parabéns! ^ ^ você sobreviver a invasão!
+qstr_New_enemies_are_comi|Novos inimigos estão vindo! ^ Prepare-se!
+qstr_{reg0}:{reg1}{reg2}_|{reg0}:{reg1}{reg2} até a próxima onda de inimigos.
+qstr_Enemies_left:_{reg1}|Inimigos que restam: {reg1}
+qstr_Show_game_rules|Mostrar as regras do jogo
+qstr_Admin_tools_panel|Painel de ferramentas de administração
+qstr_Change_game_type|Alterar o tipo de jogo
+qstr_All_Players|Todos os jogadores
+qstr_The|O
+qstr_Candidate_#1:_{s1}|Candidato #1: {s1}
+qstr_Candidate_#2:_{s1}|Candidato #2: {s1}
+qstr_{s3}_of_the_{s4}_wis|{s3} do {s4} deseja selecionar um novo delegado e convida seus vassalos para um conselho. {s1} e {s2} são os prováveis candidatos.
+qstr_Whom_do_you_wish_to_|Quem você gostaria de apoiar?
+qstr_{s1}_gives_his_suppo|{s1} dá seu apoio para {s2}.
+qstr_Number_of_Supporters|Número de apoiadores: {reg0}
+qstr_{s2}_has_heard_his_v|{s2} ouviu o Conselho dos seus vassalos. Ele seleciona {s1} como o xerife do {s3}.
+qstr_Strategy_Camera:_pre|Estratégia da câmera: Pressione a tecla Enter.'
+qstr_Orders|Ordens
+qstr_Mount|Montar
+qstr_Attack_Order|Ordem de ataque
+qstr_Retreat|Recuar
 ; qstr_Stand_Ground|Stand Ground
-; qstr_Charge|Charge
-; qstr_Follow_Me|Follow Me
-; qstr_Hold_This_Position|Hold This Position
-; qstr_Spread_Out|Spread Out
-; qstr_Stand_Closer|Stand Closer
-; qstr_Fall_Back|Fall Back
-; qstr_Advance|Advance
-; qstr_Dismount|Dismount
-; qstr_Fire_At_Will|Fire At Will
-; qstr_Hold_Your_Fire|Hold Your Fire
-; qstr_Use_Blunt_Weapons|Use Blunt Weapons
-; qstr_Use_Any_Weapon|Use Any Weapon
-; qstr_Ready|Ready
-; qstr_Wounded|Wounded
-; qstr_Dead|Dead
-; qstr_Number_of_men_knocke|Number of men knocked down: {reg1}
-; qstr_Number_of_men_left:_|Number of men left: {reg1}
+qstr_Charge|Atacar
+qstr_Follow_Me|Siga-me
+qstr_Hold_This_Position|Mantenha esta posição
+qstr_Spread_Out|Espalhem-se
+qstr_Stand_Closer|Ficar mais próximos
+qstr_Fall_Back|Ir para trás
+qstr_Advance|Avançar
+qstr_Dismount|Desmontar
+qstr_Fire_At_Will|Ataque à vontade
+qstr_Hold_Your_Fire|Cessar fogo
+qstr_Use_Blunt_Weapons|Usar armas sem corte
+qstr_Use_Any_Weapon|Use qualquer arma
+qstr_Ready|Pronto
+qstr_Wounded|Feridos
+qstr_Dead|Mortos
+qstr_Number_of_men_knocke|Número de homens derrubados: {reg1}
+qstr_Number_of_men_left:_|Número de homens que restam: {reg1}
 ; qstr_Opponents_Beaten:_{r|Opponents Beaten: {reg1}
-; qstr_Opponents_Remaining:|Opponents Remaining: {reg1}
+qstr_Opponents_Remaining:|Os adversários restantes: {reg1}
 ; qstr_Remain_in_retirement|Remain in retirement.
 ; qstr_Go_back_to_adventuri|Go back to adventuring.
 ; qstr_You_have_retired_at_|You have retired at level {reg4} after {reg5} days of adventuring.
@@ -138,12 +138,12 @@ qstr_{s4}|{s4}
 ; qstr_More|More
 ; qstr_Campaign_Type|Campaign Type
 ; qstr_Difficulty_Type|Difficulty Type
-; qstr_Options|Options
+qstr_Options|Opções
 ; qstr_These_options_can_be|These options can be changed later in the camp menu.
-qstr_Reduced_to_1/4__Easi|Reduzido para 1/4 (mais fácil)
-qstr_Reduced_to_1/2__Easy|Reduzida para 1/2 (fácil)
-qstr_Reduced_to_1/2__Easi|Reduzido para 1/2 (o mais fácil)
-qstr_Reduced_to_3/4__Easy|Reduzido para 3/4 (fácil)
+qstr_Reduced_to_1/4__Easi|Reduzido para 1/4 (Muito Fácil)
+qstr_Reduced_to_1/2__Easy|Reduzido para 1/2 (Fácil)
+qstr_Reduced_to_1/2__Easi|Reduzido para 1/2 (Muito Fácil)
+qstr_Reduced_to_3/4__Easy|Reduzido para 3/4 (Fácil)
 ; qstr_Slowest|Slowest
 qstr_Slower|Mais lenta
 qstr_Faster|Mais rápida
@@ -179,7 +179,7 @@ qstr_Faster|Mais rápida
 ; qstr_Sets_the_player_as_c|Sets the player as commander of the chosen division. This division will set up immediately left and behind the player on Hold and Follow commands (Wedge will put player on the point). Consider it for bodyguard divisions.
 ; qstr_Equipment_may_get_da|Equipment may get damaged in battles, depending on its stats and the weapon maintenance skill of the party. Moreover, weaponsmiths and armorers offer to repair your equipment.^^{s8}
 ; qstr_{s3}^^{s4}|{s3}^^{s4}
-; qstr_Default|Default
+qstr_Default|Padrão
 ; qstr_Randomize|Randomize
 qstr_Who_are_you?|Quem é você?
 ; qstr_Be_careful_with_your|Be careful with your choices.^They will affect your attributes, skills and dialogs, among other things.
@@ -223,7 +223,7 @@ qstr_{s0}|{s0}
 ; qstr_Peasant|Peasant
 ; qstr_Priest|Priest
 ; qstr_Craftsman|Craftsman
-; qstr_Merchant|Merchant
+qstr_Merchant|Mercador
 ; qstr_Noble|Noble
 ; qstr_Farming|Farming
 ; qstr_Stealing|Stealing
@@ -356,7 +356,7 @@ qstr_Economy|Economia
 ; qstr_Diplomacy|Diplomacy
 ; qstr_Armies|Armies
 ; qstr_Centers|Centers
-; qstr_Rename|Rename
+qstr_Rename|Renomear
 ; qstr_Map_Colour|Map Colour
 ; qstr_Make_a_Royal_Decree:|Make a Royal Decree:^^Changing orders will take a few hours,^as messengers need time to reach your vassals.^Once you select your order click DONE for confirmation.
 ; qstr_Gather_Our_Forces|Gather Our Forces
@@ -368,13 +368,13 @@ qstr_Economy|Economia
 ; qstr_Exhausted|Exhausted
 ; qstr_Very_Tired|Very Tired
 ; qstr_Tired|Tired
-; qstr_High|High
+qstr_High|Alta
 ; qstr_What_name_would_you_|What name would you like to give to your refuge?
 ; qstr_Save_it_as:_{s5}.|Save it as: {s5}.
 ; qstr_You_head_into_town_t|You head into town to select items for your party...
 ; qstr_Peningas:_{reg0}|Peningas: {reg0}
 ; qstr_Save_for_Wages:_|Save for Wages: 
-; qstr_Reset|Reset
+qstr_Reset|Redefinir
 ; qstr_Commit|Commit
 ; qstr_Melee_Weapons:|Melee Weapons:
 ; qstr_Ranged_Weapons:|Ranged Weapons:
@@ -388,7 +388,7 @@ qstr_Economy|Economia
 ; qstr_{reg2}|{reg2}
 ; qstr_Do_you_want_to_save_|Do you want to save your progress in Viking Conquest Campaign?
 qstr_Yes.|Sim.
-qstr_No.|N. º
+qstr_No.|Não.
 ; qstr_On_several_occasions|On several occasions throughout your life, you have seen the strange Latin letters. You quickly learn to read. Perhaps, in time, you will also learn to write!^^This will require you to stay a week at the monastery. Do you still want to learn to read?
 ; qstr_No_one_here_wants_to|No one here wants to join your party.
 ; qstr_One_{s3}_is_willing_|One {s3} is willing to follow you.
@@ -824,7 +824,7 @@ qstr_Take_an_action.|Tome uma ação.
 ; qstr_You_have_run_into_a_|You have run into a trap!
 ; qstr_You_are_attacked_by_|You are attacked by a group of bandits!
 ; qstr_Following|Following
-; qstr_Holding|Holding
+qstr_Holding|Segurando-se
 ; qstr_Charging|Charging
 ; qstr_Advancing|Advancing
 ; qstr_Falling_Back|Falling Back
@@ -1074,9 +1074,9 @@ qstr_Average|Média
 ; qstr_You_already_have_a_r|You already have a refuge built. Destroy your current refuge if you want to move it here.
 ; qstr_You_don_t_have_enough|You don't have enough money! The workers who would build a refuge for you demand 1000 peningas.
 ; qstr_You_need_to_have_mor|You need to have more than thirty men to start this job.
-qstr_Your_men_await_your_|Seus homens aguardam suas ordens pra começarem a construir o refúgio. Há bastante material coletado até agora, e o que pode estar faltando pode ser comprado em vilas próximas... ^ ^ Custo Total: 1000 peningas. ^ Tempo necessário: 6 horas.
+qstr_Your_men_await_your_|Seus homens aguardam suas ordens pra começarem a construir o refúgio. Há material coletado o suficiente até agora, e o que possa estar faltando pode ser comprado em Vilas próximas.^^Custo Total: 1000 Peningas.^Tempo necessário: 6 horas.
 ; qstr_{s2}^^_{s3}|{s2}^^ {s3}
-qstr_Camping_allows_your_|Acampar permite que seus homens descansem por um tempo e se recuperem da vida dura das viagens. Ele também permite que você para forragem, aumentando seus suprimentos de comida. Isto é particularmente útil quando em campanha em território inimigo, onde é difícil comprar suprimentos.
+qstr_Camping_allows_your_|Acampar permite que seus homens descansem por um tempo e se recuperem da dura vida das viagens. Também permite que você forrageie, aumentando seus suprimentos de comida. Isto é particularmente útil quando se está em campanha em território inimigo, onde é difícil comprar suprimentos.
 ; qstr_Traveling_by_sea_exh|Traveling by sea exhausts men completely. Allowing your warriors some rest time will help make the trip more bearable.
 ; qstr_You_are_in_the_kingd|You are in the kingdom of DANMARK.^^Danmark is an important Norse state in the Viking Age. The Danes not only maintain their independence against the powerful Frankish empire but also attack and plunder towns, churches and monasteries throughout Western Europe. Danish Vikings are excellent merchants who trade with most of their known world. A strong central authority has been established in Jutland, and the Danes now look beyond their own territory for land, trade and plunder. While the men are out at sea, the women manage the farms.
 ; qstr_You_are_in_the_kingdo|You are in the kingdom of NORTHVEGR.^^In Northvegr, mountainous terrain and fjords form strong natural boundaries. Communities remain independent of each other, and thirty small kingdoms exist in this land. The most powerful leaders of the petty kingdoms have entered a major power struggle. The sea is the easiest way to communicate between the Norwegian kingdoms and the outside world, and the people have become traders and explorers as well as plunderers. The lack of suitable farming land forces Norwegians to colonize the sparsely populated islands to the west. Norwegians carried out the early Viking raids on Britain and Ireland, but later the Danes joined in.
@@ -1322,7 +1322,7 @@ qstr_Camping_allows_your_|Acampar permite que seus homens descansem por um tempo
 ; qstr_Kind|Kind
 ; qstr_Admirable|Admirable
 ; qstr_Heroic|Heroic
-; qstr_Inventory|Inventory
+qstr_Inventory|Inventário
 ; qstr_Show_stats|Show stats
 ; qstr_Show_item_details__|Show item details  
 ; qstr_Troop_detail|Troop detail
@@ -1573,7 +1573,7 @@ qstr_Tutorial|Tutorial
 ; qstr_No_one_accepts_the_o|No one accepts the offer.
 ; qstr_You_start_reading_{s|You start reading {s2}. After a few pages, you feel you could learn a lot from this book. You decide to keep it close by and read whenever you have the time.
 ; qstr_You_flip_through_the|You flip through the pages of {s2}, but you find the text confusing and difficult to follow. Try as you might, it soon gives you a headache, and you're forced to give up the attempt.
-qstr_Villagers|Aldeões
+qstr_Villagers|Habitantes
 ; qstr_Refuge_Troops|Refuge Troops
 ; qstr_Garrison_Troops|Garrison Troops
 ; qstr_Camp_Troops|Camp Troops

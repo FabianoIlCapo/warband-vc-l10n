@@ -399,7 +399,7 @@ mno_castle_inspect_door|Odejdź.
 ; mno_travel|Travel to another port.
 ; mno_travel_door|Outfit your party.
 mno_walled_center_manage|Zarządzaj tym {reg0?town:castle}.
-; mno_walled_center_move_court|Move your court here.
+mno_walled_center_move_court|Rusz się tu.
 mno_castle_station_troops|Zarządzaj garnizonem {s10}
 ; mno_castle_wait|Wait here for some time {s5}.
 ; mno_castle_wait_door|Bed.
@@ -410,18 +410,18 @@ mno_castle_station_troops|Zarządzaj garnizonem {s10}
 ; mno_set_sail|Sail from port.
 ; mno_set_sail_door|Set sail.
 mno_town_leave|Odejdź...
-; mno_town_leave_door|Leave Area.
+mno_town_leave_door|Opuść obszar.
 menu_cannot_enter_court|W sali lorda w tej chwili trwa biesiada i nie masz odpowiedniego statusu aby wejść do środka. Może poprawa twojej renomy zapewni ci wstęp lub spróbuj wykazać się na turnieju w trakcie biesiady.
 ; menu_lady_visit|Who do you wish to visit?
-; mno_visit_lady_1|Visit {s12}
-; mno_visit_lady_2|Visit {s12}
-; mno_visit_lady_3|Visit {s12}
+mno_visit_lady_1|Odwiedź {s12}
+mno_visit_lady_2|Odwiedź {s12}
+mno_visit_lady_3|Odwiedź {s12}
 mno_visit_lady_3_door|Drzwi do ogrodu.
-; mno_visit_lady_4|Visit {s12}
-; mno_visit_lady_5|Visit {s12}
-; mno_visit_lady_6|Visit {s12}
-; mno_visit_lady_7|Visit {s12}
-; mno_visit_lady_8|Visit {s12}
+mno_visit_lady_4|Odwiedź {s12}
+mno_visit_lady_5|Odwiedź {s12}
+mno_visit_lady_6|Odwiedź {s12}
+mno_visit_lady_7|Odwiedź {s12}
+mno_visit_lady_8|Odwiedź {s12}
 menu_town_tournament_lost|Zostałeś wyeliminowany z turnieju.{s8}
 ; menu_town_tournament_won|You have won the tournament of {s3}! You are filled with pride as the crowd cheers your name. In addition to honour, fame and glory, you earn a prize of {reg9} peningas. {s8}
 ; menu_town_tournament_won_by_another|As the only {reg3?fighter:man} to remain undefeated this day, {s1} wins the lists and the glory of this tournament.
@@ -552,10 +552,10 @@ mno_marshal_candidate_reject|Powiedz wszystkim, że jesteś teraz zajęty.
 ; menu_captivity_avoid_wilderness|Suddenly, all the world goes black around you. Many hours later, you regain your consciousness and find yourself at the spot where you fell. Your enemies must have left you for dead and left you there. However, it seems that none of your wounds was lethal, and, although you feel awful, you find out that can still walk. You get up and look for any other survivors from your party.
 ; menu_captivity_start_wilderness|Stub
 ; menu_captivity_start_wilderness_surrender|Stub
-; menu_captivity_start_wilderness_defeat|Your enemies take you prisoner.
+menu_captivity_start_wilderness_defeat|Przeciwnik wziął cię w niewole.
 ; menu_captivity_start_castle_surrender|Stub
 ; menu_captivity_start_castle_defeat|Stub
-; menu_captivity_start_under_siege_defeat|Your enemies take you prisoner.
+menu_captivity_start_under_siege_defeat|Przeciwnik wziął cię w niewole.
 ; menu_captivity_wilderness_taken_prisoner|{s2}
 mno_continue1|Dalej...
 ; menu_captivity_wilderness_check|stub
@@ -573,13 +573,13 @@ mno_captivity_end_ransom_accept|Zaakceptuj ofertę.
 ; menu_kingdom_army_quest_join_siege_order|{s8} sends word that you are to join the siege of {s9} in preparation for a full assault. Your troops are to take {s9} at all costs.
 ; menu_kingdom_army_follow_failed|You have failed to follow {s8}. The marshal assumes that you were otherwise engaged, but would have appreciated your support.
 ; menu_invite_player_to_faction_without_center|You receive an offer of vassalage!^^ {s8} of the {s9} has sent a royal herald to bring you an invitation in his own hand. You would be granted the honour of becoming a vassal {reg59?lady:lord} of the {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, although he offers you no lands or titles. He will surely be offended if you do not take the offer...
-; mno_faction_accept|Accept!
+mno_faction_accept|Zaakceptowano!
 ; mno_faction_reject|Decline the invitation.
 ; menu_invite_player_to_faction|You receive an offer of vassalage!^^ {s8} of the {s9} has sent a royal herald to bring you an invitation in his own hand. You would be granted the honour of becoming a vassal {reg59?lady:lord} of the {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, offering you the fief of {s2} for your loyal service. He will surely be offended if you do not take the offer...
 ; menu_invite_player_to_faction_accepted|In order to become a vassal, you must swear an oath of homage to {s3}. You shall have to find him and give him your oath in person. {s5}
 ; menu_question_peace_offer|Truce^^The {s1} offers you a peace agreement. What is your answer?
-; mno_peace_offer_accept|Accept
-; mno_peace_offer_reject|Reject
+mno_peace_offer_accept|Akceptowano
+mno_peace_offer_reject|Odrzucono
 ; menu_notification_truce_expired|Truce Has Expired^^The truce between the {s1} and the {s2} has expired.
 menu_notification_feast_quest_expired|{s10}
 ; menu_notification_sortie_possible|Enemy Sighted: Enemies have been sighted outside the walls of {s4}, and {s5} and others are preparing for a sortie. You may join them if you wish.
@@ -623,8 +623,8 @@ menu_notification_player_kingdom_holds_feast|{s11}
 ; menu_notification_peace_declared|Peace Agreement^^The {s1} and the {s2} have made peace!^{s57}^^These two peoples have stopped fighting. It may only be a temporary truce that some of them take to prepare for another war, or perhaps peace is sincere and lasting.
 ; menu_notification_alliance_declared|Alliance Agreement^^The {s1} and the {s2} have entered into an alliance!^{s57}^^Both kingdoms have joined their fate and are certainly stronger now.
 ; menu_notification_alliance_offer|The {s1} offers to enter into an alliance with you. What is your answer?
-; mno_offer_accept|Accept
-; mno_offer_reject|Reject
+mno_offer_accept|Akceptowano
+mno_offer_reject|Odrzucono
 ; menu_notification_kingdom_reborn|Rebellion!^^The people of the defeated {s13} have taken up their weapons, and {s14} has taken a fief from the {s12}. The {s13} has been restored! Long live the King!
 ; menu_notification_center_restoration|Local rebellion!^^The people of the {s12} have taken up their weapons and have recovered {s11}.
 ; menu_notification_faction_defeated|Faction Eliminated^^The {s1} is no more!
@@ -640,12 +640,12 @@ mno_cattle_ok3|Zapomnij.
 ; menu_notification_player_feast_in_progress|Feast in Preparation^^Your wife has started preparations for a feast in your hall in {s11}.
 ; menu_notification_lady_requests_visit|An elderly woman approaches your party and passes one of your men a letter, sealed in plain wax. It is addressed to you. When you break the seal, you see it is from {s15}. It reads, 'I so enjoyed your last visit. {s14} I am currently in {s10}.{s12}'
 menu_garden|{s12}
-; mno_nurse|Go with the nurse
+mno_nurse|Idź z pielęgniarką
 ; menu_kill_local_merchant_begin|You spot your victim and follow him, observing as he turns a corner into a dark alley.  This will surely be your best opportunity to attack him.
-; menu_debug_alert_from_s65|DEBUG ALERT: {s65}
+menu_debug_alert_from_s65|DEBUG ALERT: {s65}
 ; menu_auto_return_to_map|stub
 menu_bandit_lair|{s3}
-; mno_continue_1|Attack the hideout...
+mno_continue_1|Zaatakuj kryjówkę...
 ; mno_trade_withbandits|Sell spoils to bandits.
 mno_leave_no_attack|Odejdź...
 mno_leave_victory|Dalej...
@@ -810,7 +810,7 @@ mno_choice_01_sigur|Wejdź.
 mno_lair_wait|Poczekaj trochę czasu.
 ; mno_embark|Embark.
 mno_lair_leave|Odejdź...
-; mno_lair_leave_door|Leave Area.
+mno_lair_leave_door|Opuść obszar.
 ; menu_demoler_lairm|Are you sure you want to demolish your refuge?
 ; mno_demoler_yes|Yes (1000 peningas).
 ; mno_demoler_no|Return.

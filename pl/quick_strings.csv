@@ -457,7 +457,7 @@ qstr_Good|Dobra
 ; qstr_Apply|Apply
 ; qstr_Only_ships_made_of_o|Only ships made of oak are considered to deserve a special finish.
 ; qstr_You_don_t_have_enoug|You don't have enough money.
-; qstr_Accept|Accept
+qstr_Accept|Akceptowano
 ; qstr_Dismiss_Staff|Dismiss Staff
 ; qstr_Recruit_staff_for_yo|Recruit staff for your refuge:
 ; qstr_^Hiring_staff_has_bo|^Hiring staff has both initial and continuing costs. A good reputation and an impressive refuge will attract a greater variety of candidates.
@@ -658,7 +658,7 @@ qstr_Never:_Enter_the_pri|Nigdy: Nie traf do więzienia.
 ; qstr_Trade_with_locals.|Trade with locals.
 ; qstr_Travel_to_another_Po|Travel to another Port.
 ; qstr_Manage_this_{reg0?to|Manage this {reg0?town:fort}.
-; qstr_Move_your_court_here|Move your court here.
+qstr_Move_your_court_here|Rusz się tu.
 ; qstr_Manage_the_garrison.|Manage the garrison.
 ; qstr___{reg1}_peningas_pe| ({reg1} peningas per night)
 ; qstr___1_pening_per_night| (1 pening per night)
@@ -1763,7 +1763,7 @@ qstr_{s10}_{s14}^{s11}{s1|{s10} {s14}^{s11}{s12}{s13}
 ; qstr_The_training_went_pe|The training went perfectly.
 ; qstr_You_fall_on_the_grou|You fall on the ground with multiple injuries. Each time your heart beats more slowly and your vision fades away... This battle was too much for you, and death rides to meet you.^^While life escapes, you hope that someone will just remember that there was once someone special called {playername}.
 ; qstr_After_losing_the_sea|After losing the sea battle, you manage to escape with one of your ships.
-; qstr_Your_enemies_take_yo|Your enemies take you prisoner.
+qstr_Your_enemies_take_yo|Przeciwnik wziął cię w niewole.
 ; qstr_{s13}_asked_you_to_r|{s13} asked you to report to him with at least {reg13} troops.
 ; qstr_{s13}_ordered_you_to|{s13} ordered you to join the assault against {s14}.
 ; qstr_Find_and_speak_with_|Find and speak with {s3} of the {s4} to give him your oath of homage.
