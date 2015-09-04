@@ -12,7 +12,7 @@ str_bandits_eliminated_by_another|Os bandidos problemáticos foram eliminados po
 ; str_msg_battle_won|Battle won, your foes lie slaughtered on the field! (Press tab key to leave)
 ; str_tutorial_map1|You are now viewing the world map. Left-click on the map to move your party to that location, enter the selected town, or pursue the selected party.^Time will pause on the overland map if your party is not moving, waiting or resting. To wait anywhere simply press and hold down the space bar.^This is a good moment to save your game! Press the Esc key and choose Save As or use F12 for quick saving.^^Good luck!
 ; str_tutorial_map11|You now have a strong party of men. Return to the jarl for further instruction.
-; str_randomize|Randomize
+str_randomize|Aleatorizar
 str_charge|Atacar
 str_color|Cor
 ; str_flip_horizontal|Flip Horizontal
@@ -1566,8 +1566,8 @@ str_multi_scene_inv_3|Castelo de Din Bych
 ; str_multi_scene_end|multi scene end
 ; str_multi_game_type_1|Deathmatch
 ; str_multi_game_type_2|Team Deathmatch
-; str_multi_game_type_3|Battle
-; str_multi_game_type_4|Siege
+str_multi_game_type_3|Batalha
+str_multi_game_type_4|Cerco
 str_multi_game_type_5|Duelar
 str_multi_game_type_6|Batalha naval
 ; str_multi_game_type_7|Thor's Champion
@@ -1622,11 +1622,11 @@ str_multi_game_type_6|Batalha naval
 ; str_respawn_period|Respawn period (seconds):
 ; str_add_to_official_game_servers_list|Add to official game servers list
 ; str_combat_speed|Combat speed:
-; str_combat_speed_0|Slowest
+str_combat_speed_0|Muito mais lenta
 str_combat_speed_1|Mais lenta
 ; str_combat_speed_2|Medium
 str_combat_speed_3|Mais rápida
-; str_combat_speed_4|Fastest
+str_combat_speed_4|Muito mais rápida
 str_off|Desligado
 str_on|Ligado
 ; str_defender_spawn_count_limit|Defender spawn count:
@@ -2669,12 +2669,12 @@ str_farewell|Adeus.
 ; str_tutorial_doccinga_ground_intro_message|Doccinga is a small fishing village on the coast of Friese. People here are hard working and still very prosperous, although foreigners no longer come as they did before the death of the old sorcerer. When you go into the village, you see a lot of activity around you. Apart from the busy villagers, some warriors swarm among the people, exercising the arts of war, perhaps preparing for an adventure beyond the sea. Maybe you can ask the warriors for practice in the various aspects of combat... (Remember: ASDW keys to move around. To talk to a character, approach him until his name appears on your screen and then press the F key. You can also use the F key to pick up items, open doors and interact with objects. Press the Tab key to exit Doccinga.)
 ; str_map_basic|Map
 ; str_game_type_basic|Game Type
-; str_battle|Battle
+str_battle|Batalha
 ; str_siege_offense|Siege (Offense)
 ; str_siege_defense|Siege (Defense)
 str_character|Personagem
 ; str_biography|Background
-; str_player|Player
+str_player|Jogador
 str_enemy|Inimigo
 ; str_faction|Culture
 ; str_army_composition|Army Composition
@@ -2687,7 +2687,7 @@ str_army_size|Tamanho do Exército
 ; str_you|you
 ; str_myself|myself
 ; str_my_friend_s15|my friend {s15}
-; str_custom_battle|Custom Battle
+str_custom_battle|Batalha Customizada
 ; str_comment_intro_liege_affiliated_to_player|I am told that you would dispute my claim to the crown. Needless to say, I am not pleased by this news. However, we may still talk.
 ; str_s21_the_s8_declared_war_out_of_personal_enmity|{s21} The {s8} declared war out of personal enmity
 ; str_s21_the_s8_declared_war_in_response_to_border_provocations|{s21} The {s8} declared war in response to border provocations
@@ -2959,7 +2959,7 @@ str_the_coast|A costa
 ; str_trait_4|Strong
 ; str_s12s15_dominates_its_weaker_neighbor_s16|{s12}{s15} attempts to dominate {reg4?her:his} weaker neighbor {s16}.
 ; str_s12s15_acts_to_drive_the_people_of_s16_and_their_like_out_of_the_isles|{s12}{s15} acts to drive the people of {s16} and their like out of the Isles!
-; str_none|None
+str_none|Nenhum
 ; str_camp_pillage| Enemy in Camp! 
 ; str_camp_pillage2| The enemy is in the camp and has accessed your treasure chest. They are looting your money!^{s4} peningas was lost.
 ; str_capitan_mode_started|Reconnaissance Round: Explore the terrain and kill enemy champions. In the next round, your troops will come!

@@ -144,10 +144,10 @@ qstr_Reduced_to_1/4__Easi|Reduzido para 1/4 (Muito Fácil)
 qstr_Reduced_to_1/2__Easy|Reduzido para 1/2 (Fácil)
 qstr_Reduced_to_1/2__Easi|Reduzido para 1/2 (Muito Fácil)
 qstr_Reduced_to_3/4__Easy|Reduzido para 3/4 (Fácil)
-; qstr_Slowest|Slowest
+qstr_Slowest|Muito mais lenta
 qstr_Slower|Mais lenta
 qstr_Faster|Mais rápida
-; qstr_Fastest|Fastest
+qstr_Fastest|Muito mais rápida
 ; qstr_Less|Less
 ; qstr_Warning:_The__{s1}__|Warning: The '{s1}' and '{s2}' options for this setting can't be disabled any more after you click '{s3}.'
 ; qstr_Choose_a_campaign_ty|Choose a campaign type!
@@ -180,7 +180,7 @@ qstr_Faster|Mais rápida
 ; qstr_Equipment_may_get_da|Equipment may get damaged in battles, depending on its stats and the weapon maintenance skill of the party. Moreover, weaponsmiths and armorers offer to repair your equipment.^^{s8}
 ; qstr_{s3}^^{s4}|{s3}^^{s4}
 qstr_Default|Padrão
-; qstr_Randomize|Randomize
+qstr_Randomize|Aleatorizar
 qstr_Who_are_you?|Quem é você?
 ; qstr_Be_careful_with_your|Be careful with your choices.^They will affect your attributes, skills and dialogs, among other things.
 ; qstr_Bio:|Bio:
@@ -270,7 +270,7 @@ qstr_Merchant|Mercador
 ; qstr_Relations|Relations
 ; qstr_Budget|Budget
 qstr_Statistics|Estatísticas
-; qstr_Companions|Companions
+qstr_Companions|Companheiros
 qstr_Factions|Facções
 ; qstr_Known_Lords|Known Lords
 qstr_Courtship|Cortejo
@@ -618,7 +618,7 @@ qstr_No|Não
 ; qstr_{reg1}_{reg2}|{reg1}, {reg2}
 ; qstr_New_Goal|New Goal
 ; qstr_Current_Goal:_{s1}|Current Goal: {s1}
-; qstr_Troops:|Troops:
+qstr_Troops:|Tropas:
 ; qstr_Marry:|Marry:
 ; qstr_Wealth|Wealth
 ; qstr_{s3}^_______________|{s3}^-------------------------------^

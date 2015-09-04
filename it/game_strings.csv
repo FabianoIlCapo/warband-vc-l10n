@@ -547,88 +547,88 @@ str_npc12_signup_2|È molto interessante come le Norne intrecciano i loro fili. 
 str_npc13_signup_2|Sono uno spadaccino esperto, posso addestrare i vostri uomini nel combattimento. Ma vi avviso, non amo combattere per un leader che si dimostra debole nei confronti dei {reg59?suoi:suoi} uomini, perché a lungo andare perderà il loro rispetto.
 str_npc14_signup_2|Spada, lancia, arco... La mia abilità nell'uso di queste armi è degna di un poema epico. Insieme compiremo gesta di tale valore che verranno narrate in ogni angolo del regno per molte generazioni.
 ; str_npc15_signup_2|And you'll be glad to have me. Although siege work is my specialty, I reckon I can handle myself well enough in an open battle. As for besieging, I can truly help you take any place you might want. The fortresses here are rudimentary; they do not compare to the ones in my homeland.
-; str_npc16_signup_2|I will be useful in every kind of battle, be it mundane or be it spiritual -- be it against the very hordes of Hell.
+str_npc16_signup_2|sarò utile in ogni tipo di battaglia, sia essa mondana o spirituale -- sia contro le orde dell'inferno.
 str_npc1_signup_response_1|Bene. Potete tornarmi utile.
-; str_npc2_signup_response_1|I need no more information, Egil. Just do not give me problems.
-; str_npc3_signup_response_1|Hum, that's a start. We can teach you the rest. Hurry, I am rescuing you right now.
+str_npc2_signup_response_1|Non ho bisogno di altre informazioni, Egil. Soltanto non datemi problemi.
+str_npc3_signup_response_1|Hum, è un inizio. Possiamo insegnarti il resto. Presto, ti sto salvando.
 str_npc4_signup_response_1|Molto bene. Sarà un piacere avervi con noi.
-; str_npc5_signup_response_1|Certainly. Those are my obligations to every man under my command.
-; str_npc6_signup_response_1|Grab your things. We've lots to do.
+str_npc5_signup_response_1|Certamente. Quelli sono i miei doveri verso ogni uomo sotto il mio comando.
+str_npc6_signup_response_1|Raccogli le tue cose. Abbiamo molto da fare.
 str_npc7_signup_response_1|Siete il benvenuto.
-; str_npc8_signup_response_1|OK, get your stuff. The way awaits us.
+str_npc8_signup_response_1|Ok, prendi le tue cose. La strada ci aspetta.
 str_npc9_signup_response_1|Bene, ma non dovrebbe essere così. Parlerò con loro.
-; str_npc10_signup_response_1|Good man, but beware! You will not put down any Briton in my shield wall.
+str_npc10_signup_response_1|Brav'uomo, ma fate attenzione! Non metterete giù qualsiasi britannico nel mio muro di scudi.
 ; str_npc11_signup_response_1|Very well, you are hired, but stop calling me '{reg59?my pretty:handsome}.'
-; str_npc12_signup_response_1|Then welcome to my shield wall, loeknir.
+str_npc12_signup_response_1|Allora benvenuto nel mio muro di scudi, loeknir.
 str_npc13_signup_response_1|Bene. Sono felice di avere uno come voi tra le mie fila.
 str_npc14_signup_response_1|Bene. Tenetevi pronto, partiremo presto. 
 str_npc15_signup_response_1|Mi sta bene. Sono lieto di accogliervi nella mia Compagnia.
 str_npc16_signup_response_1|Sembra che possiate fare questo lavoro. Credo che v'ingaggerò.
 str_npc1_signup_response_2|Preferirei non avervi nelle mie fila. Buona giornata, signore.
 str_npc2_signup_response_2|No, preferisco compagni di altra tipologia. Buona giornata..
-; str_npc3_signup_response_2|Actually, I think you are pretty useless. Go back to your master, slave.
+str_npc3_signup_response_2|In verità, penso che sei abbastanza inutile. Torna dal tuo padrone, schiavo.
 str_npc4_signup_response_2|Veramente, non è nostra abitudine assumere uomini come voi. Buona giornata, signore.
 str_npc5_signup_response_2|Ripensandoci, preferisco non assumere un uomo esiliato.
 str_npc6_signup_response_2|Spiacente, ma non ho bisogno di voi. Preferisco non avervi intorno.
 str_npc7_signup_response_2|Veramente, ripensandoci, sembrate qualcuno che potrebbe fare un po' di danni. Buongiorno. 
 str_npc8_signup_response_2|Mm, temo dobbiate cercare miglior fortuna altrove.
-; str_npc9_signup_response_2|You assume wrong, sir. In my shield wall, we respect courage and skill, rather than birth.
-; str_npc10_signup_response_2|I will not see any of my men killed because they are not Saxon. Good day to you.
-; str_npc11_signup_response_2|Sorry, milady. Now I remember that we've already got as many singers as we can handle.
+str_npc9_signup_response_2|Supponi male, sir. Nel mio muro di scudi, noi rispettiamo il coraggio e l'abilità, piuttosto che la stirpe.
+str_npc10_signup_response_2|Non vedrò uno dei miei uomini ucciso perché loro non sono sassoni. buona giornata a te.
+str_npc11_signup_response_2|perdonatemi, milady. ora ricordo che abbiamo già molti cantanti più di quanti possiamo permetterci.
 str_npc12_signup_response_2|La battaglia non è il luogo adatto per uomini di scienza. Dovreste cercare lavoro altrove.
 str_npc13_signup_response_2|I miei guerrieri sono già disciplinati a sufficienza, non ho bisogno di voi. Buona giornata, Signore.
 ; str_npc14_signup_response_2|Actually, on second thought, a fighter overeager for glory and women is dangerous to have.
-; str_npc15_signup_response_2|You know, now that I think about it, I won't need your expertise for the foreseeable future.
+str_npc15_signup_response_2|Sai, ora che ci penso, non ho bisogno delle tue competenze per il prossimo futuro.
 str_npc16_signup_response_2|Per essere onesti, preferirei qualcuno che non sia un fanatico religioso.
-; str_npc1_payment|I will be very useful to you, {reg59?madame:sir}, you can bet on that. Just one more thing before we leave, would you mind lending me {reg3} peningas? I am ashamed to say it, but I have made myself a bit of debt here, staying in this tavern over the last few weeks, and the tavern owners no longer believe that I am loaded with silver as I used to tell them. You know, things could get ugly here if they see me leaving with you before paying them.
-; str_npc2_payment|Before I sign up, I will need 300 coins here.
-; str_npc3_payment|Then I will fight your enemies for you!
-; str_npc4_payment|Before we depart, would you be so kind as to lend me {reg3} peningas? I had to pawn a family heirloom at a pawnbroker here in {s20}, and I would like to retrieve it before we leave.
-; str_npc5_payment|Thank you. Now, to seal off our agreement, I ask for {reg3} peningas from you, so I can adequately equip myself with armor and weapons necessary to fill my new obligations to you.
-; str_npc6_payment|Before I sign up, I need 300 coin as pay.
-; str_npc7_payment|All right, then. I will come with you, but I want a payment of {reg3} peningas first. You aren't expecting me to work for free, are you?
-; str_npc8_payment|Then I will fight your enemies for you!
-; str_npc9_payment|That's very good of you, but before I join, can you lend me {reg3} peningas, so that I can buy some proper clothing that befits a gentleman of noble birth like me? The coat on me has worn badly due to my recent bad fortune, and I cannot let common soldiers mistake me as one of their own.
-; str_npc10_payment|That's good news, but I'll ask for one last thing, warlord. I have a woman here in {s20}, a happy widow, and she says she has my child in her belly. Damn, she is a Brythonic wench, but I want to give her some money before I leave... for the child, you know. Even if the child's only half-Saxon, it still deserves some future. Do you think you can spare {reg3} peningas?
+str_npc1_payment|Vi sarò davvero utile, {reg59?signora:signore}, potete scommetterci. Solo una cosa prima di andare, potreste prestarmi {reg3} denari? Mi vergogno a dirlo, ma ho contratto un po' di debiti qui, stando in questa taverna in queste poche settimane, e i proprietari non credono più che abbia l'argento per pagarli. Sapete, le cose potrebbero peggiorare se vedessero che me ne vado con voi prima di aver saldato il debito...
+str_npc2_payment|Prima di iscrivermi, avrò bisogno di 300 monete.
+str_npc3_payment|allora combatterò i tuoi nemici per te!
+str_npc4_payment|Prima i partire, saresti cosi gentile da prestarmi {reg3} peningas? ho impegnato un cimelio di famiglia ad un usuraio qui in {s20}, e vorreri ritirarlo prima che ce ne andiamo.
+str_npc5_payment|Grazie. Ora per sigillare il nostro accordo, ti chiedo se puoi darmi {reg3} peningas, in modo che possa equipaggiarmi adeguatamente con armature e armi necessarie per adempiere ai miei  nuovi obblighi verso di te.
+str_npc6_payment|Prima di iscrivermi, ho bisogno 300 monete come pagamento.
+str_npc7_payment|va bene. Verrò con te, ma voglio prima un pagamento di {reg3} peningas. Non ti aspetterai che lavori gratis, vero?
+str_npc8_payment|allora combatterò i tuoi nemici per te!
+str_npc9_payment|Questo è davvero gentile da parte tua, ma prima che mi unisca, puoi prestarmi {reg3} peningas, in modo che possa comprarmi dei vestiti degni di un gentiluomo di nobili origini come me? il soprabito che ho si è sciupato per una mia recente disgrazia, e non posso permettere che dei soldati comuni facciano errore di credermi uno di loro.
+str_npc10_payment|è una buona notizia, ma ti chiedo un ultima cosa, signore della guerra. Ho una donna qui in {s20}, una vedova allegra, e dice di essere incinta del mio bambino. Dannazione lei è una fanciulla britannica, ma voglio darle del denaro prima di andarmene... per il bambino, sai. Anche se il bambino sia solo per metà sassone, merita un futuro. Pensi di potermi prestare {reg3} peningas?
 ; str_npc11_payment|Sure, {reg59?my pretty:handsome}, but before joining you, I would like a payment of {reg3} peningas. You know, as back pay for watching over you all this time.
 ; str_npc12_payment|Before I sign up, I need to settle some agreements I entered into for lodging and the like. Would you be able to cover them? Just 300 coins ought to do it.
-; str_npc13_payment|Ah, one last thing. I would like an initial bounty of {reg3} peningas before I join your command. It's my principle never to enter someone's service without receiving the payment I deserve.
-; str_npc14_payment|Before I sign up, there is the small matter of some expenses I have incurred while staying here -- {reg3} peningas. Do you think that you could cover those for me, as a gesture of our already legendary friendship?
-; str_npc15_payment|Good. By the way, as a skilled engineer, I expect a payment up front. A signing bonus of {reg3} peningas would be fair, I think.
-; str_npc16_payment|Before I sign up, I will need 200 coins here.
-; str_npc1_payment_response|Very well, here's {reg3} peningas. Now, fall in with the rest.
+str_npc13_payment|Ah, un'ultima cosa. Volevo chiedervi un pagamento iniziale di {reg3} denari prima di unirmi alla vostra Compagnia. È un mio principio quello di non entrare mai al servizio di qualcuno senza ricevere il pagamento che mi merito.
+str_npc14_payment|Prima di unirmi alla vostra Compagnia, c'è la questione di alcune spese che ho affrontato stando qui...{reg3} denari. Pensate di poterle pagare voi per me, come gesto per cementare questa leggendaria amicizia?
+str_npc15_payment|Bene. Ad ogni modo, come ogni esperto ingegnere chiedo un pagamento per i miei servigi. Un bonus iniziale di {reg3} denari sarebbe equo, penso.
+str_npc16_payment|Prima di iscrivermi, avrò bisogno di 200 monete.
+str_npc1_payment_response|Molto bene, eccoti {reg3} peningas. Ora, vai con gli altri.
 ; str_npc2_payment_response|Very well. Your loss.
 str_npc3_payment_response|Molto bene.
-; str_npc4_payment_response|Certainly. Here's {reg3} peningas.
-; str_npc5_payment_response|Well... here's {reg3} peningas, then. Your first payment.
+str_npc4_payment_response|Certo, eccoti {reg3} peningas.
+str_npc5_payment_response|Bene... eccoti {reg3} peningas, quindi. il tuo primo pagamento.
 str_npc6_payment_response|Molto bene.
-; str_npc7_payment_response|No, of course not. Here's {reg3} peningas.
-; str_npc8_payment_response|Oh, I am no pauper, great warrior. Here's {reg3} peningas for you.
-; str_npc9_payment_response|Very well, here's {reg3} peningas.
-; str_npc10_payment_response|Ha ha, of course. Here, {reg3} peningas.
-; str_npc11_payment_response|Very well, here's {reg3} peningas. Now let's get back on our way. And stop... ah, well, forget it.
+str_npc7_payment_response|No, non di certo. Eccoti {reg3} peningas.
+str_npc8_payment_response|Oh, non sono indigente, grande guerriero. Eccoti {reg3} peningas per te.
+str_npc9_payment_response|Molto bene, eccoti {reg3} peningas.
+str_npc10_payment_response|Ha ha, certamente. Ecco, {reg3} peningas.
+str_npc11_payment_response|Molto bene, eccoti {reg3} peningas. Adesso torniamo sulla nostra strada. e basta... ah, bhe, come non detto.
 str_npc12_payment_response|Molto bene.
-; str_npc13_payment_response|All right, here's {reg3} peningas. You are most welcome in our shield wall.
-; str_npc14_payment_response|Of course, here's {reg3} peningas. Make ready to leave soon.
-; str_npc15_payment_response|All right, here's {reg3} peningas. Glad to have you with us.
+str_npc13_payment_response|Va bene, eccoti {reg3} peningas. Sei il benvenuto nel nostro muro di scudi.
+str_npc14_payment_response|Certo, eccoti {reg3} peningas. Preparati ce ne andremo presto.
+str_npc15_payment_response|Va bene, eccoti {reg3} peningas. Lieto di averti con noi.
 str_npc16_payment_response|Molto bene.
-; str_npc1_morality_speech|Oy -- Warlord. Please don't take this the wrong way, but it's a hard life, and it's a bit much that we {s21}. Take a little more care in the future, warlord, if you don't mind my saying.
-; str_npc2_morality_speech|I do not care to {s21}. No one with a reputation for blatant cowardice will be properly respected and obeyed by his shield wall.
-; str_npc3_morality_speech|Perhaps it is not my place to say so, {reg59?madame:sir}, but I confess that I am somewhat shocked that we {s21}. Of course I realize that war is cruel, but there is no need to make it more cruel than necessary.
+str_npc1_morality_speech|Ehi --  Comandante. Non prendetela nel modo sbagliato ma è una vita dura ed è un po' troppo che noi {s21}. Se volete un consiglio, fate più attenzione in futuro.
+str_npc2_morality_speech|Non mi piace che {s21}. Nessuno che porti addosso il marchio della sfacciata codardia potrà essere rispettato e temuto dai suoi uomini.
+str_npc3_morality_speech|Forse non spetta a me dirlo, {reg59?signora:signore}, ma confesso che sono piuttosto indignato del fatto che noi {s21}. Ovviamente, so che la guerra è dura, ma non è necessario renderla ancora più crudele.
 ; str_npc4_morality_speech|The Scots do not care to {s21}. I will not be pleased if you continue to take this course.
-; str_npc5_morality_speech|Pardon me, warlord. It is not good to {s21}. Your first duty is to the men who form your shield wall. The least they can expect is food, pay, the opportunity to loot, and that you not waste their lives needlessly.
+str_npc5_morality_speech|Perdonatemi. Non è una buona cosa che {s21}. Il vostro primo dovere è verso gli uomini che hanno accettato di entrare nella vostra compagnia. Il minimo che loro si aspettano è cibo, salario, dividere il bottino e che non sprechiate inutilmente le loro vite.
 ; str_npc6_morality_speech|Listen to me, {playername}. As you know, I am a loyal man, with strong values. I will get my redemption. I did not expect to {s21}.
-; str_npc7_morality_speech|Warlord, I do not like to see us {s21}. Such are the actions of a common bandit chief, with no regard for his followers.
-; str_npc8_morality_speech|I was not pleased that you decided to {s21}. To fall in battle is an honor, but to fight in a shield wall led by a coward is a disgrace.
-; str_npc9_morality_speech|{reg59?Madame:Sir}, it is not my way to {s21}. Men of my house will accept death but not dishonor. Please do not make me ashamed to serve under you.
-; str_npc10_morality_speech|Begging your pardon, warlord. I can't say that I'm happy to see us {s21}. Those are just simple people, trying to make a living. If we could try to go easy on the poor wretches, warlord, I'd feel much better.
+str_npc7_morality_speech|Comandante! Non mi piace vedere che noi {s21}. Queste sono le azioni tipiche del capo di una comune banda di ladri, senza riguardo per i suoi uomini.
+str_npc8_morality_speech|Non mi è piaciuto che abbiate deciso di {s21}. Cadere in battaglia è un onore ma combattere in una compagnia con un codardo è un disonore.
+str_npc9_morality_speech|{reg59?Signora/Signore} avete disprezzato il nostro orgoglio guerriero {s21}. La mia gente accetta la morte ma non il disonore. Vi prego, non fatemi vergognare d'essere al vostro servizio.
+str_npc10_morality_speech|Implorando il vostro perdono, comandante. Non posso dire d'essere felice di vederci {s21}. Queste sono persone semplici, cercano di vivere come meglio possono. Se potessimo non infierire sui poveri disgraziati, comandante, mi sentirei molto meglio.
 ; str_npc11_morality_speech|Excuse me, {reg59?my pretty:handsome}. It's not good that we {s21}. The least the soldiers expect of a leader is to feed them, pay them, and do {reg59?her:his} best to keep their sorry skins intact as best {reg59?she:he} can.
-; str_npc12_morality_speech|Warlord, I do not like to see us {s21}. I am prepared to be your hirdman, but not a brigand. Pray let us try to show a little more compassion.
+str_npc12_morality_speech|Comandante... Non mi piace vedere che noi {s21}. Sono addestrato ad essere un guerriero, non un bandito. Vi prego, lasciateci mostrare un po' di compassione.
 str_npc13_morality_speech|Non mi piace che {s21} abbiate mostrato paura. Nessuno che porti addosso il marchio della codardia potrà essere temuto e rispettato dai suoi uomini.
-; str_npc14_morality_speech|Warlord, if we can avoid it, I'd prefer not to {s21}. This world is a small place, and one's reputation is precious. You would have me ignore much to respect you.
-; str_npc15_morality_speech|{reg59?Madame:Sir}, just so you know my opinion, any commander with sense will not let his shield wall {s21}. I hope you don't mind me speaking so bluntly.
+str_npc14_morality_speech|Comandante, se possiamo evitarlo, preferirei non {s21}. Questo mondo è un piccolo paese e la reputazione di ognuno di noi è preziosa. Se deciderete di ignorarli avrete il mio rispetto.
+str_npc15_morality_speech|{reg59?Signora/Signore}... Giusto per farvi sapere come la penso, ogni comandante con un po' di buon senso, non permetterebbe alla sua Compagnia di {s21}. Spero che comprenderete la mia franchezza.
 ; str_npc16_morality_speech|Warlord, I don't like to {s21}. God does not approve of this kind of behavior. It will surely cause you to fall if left unchecked by my holy teachings.
-; str_npc1_2ary_morality_speech|Warlord, just so you know, I have no problem if we {s21}. Living to fight another day makes good sense to me.
+str_npc1_2ary_morality_speech|Comandante, giusto per dirvelo, non ho problemi se noi {s21}. Vivere per poter lottare un altro giorno mi sta bene.
 ; str_npc2_2ary_morality_speech|You know, friend {playername}, it's none too reassuring to see how you just {s21}. If you can break your word to them, you can break your word to me. That's how I figure it.
 ; str_npc3_2ary_morality_speech|{reg59?Madame:Sir}, I can't say I like to see us {s21}. There is no shame in finding a way to avoid the spilling of blood.
 ; str_npc4_2ary_morality_speech|I think nothing of it that you {s21}. You should adopt whatever ruse you need to survive in these troubled times.
@@ -3317,11 +3317,11 @@ str_inv_command_order_use_any|Usate armi a scelta!
 str_com_s0|{s0}
 ; str_com_debug_1|Char picture for npc = {s0}, id = 
 ; str_com_debug_2|Click for troop: {s1}, id = 
-; str_com_heroes|  Heroes  
-; str_com_morale_reg0|{s1}^^Morale: {reg0}
-; str_com_relation_reg12|{s1}^^Relation: {reg12}
-; str_com_catholic|{s1}^^Religion: Christianity
-; str_com_pagan|{s1}^^Religion: Pagan
+str_com_heroes|Eroi
+str_com_morale_reg0|{s1}^^Morale: {reg0}
+str_com_relation_reg12|{s1}^^Relazioni: {reg12}
+str_com_catholic|{s1}^^Religione: Cristiana
+str_com_pagan|{s1}^^Religione: Pagana
 ; str_tactical_controls|Use the keyboard NUMBERS to select a division. Press 0 to select your entire force.^^Use F1-F4 to order selected divisions. Keep the F1 key down to place selected divisions. One may target an enemy division through this mechanism.^^Pressing the ENTER key often initiates an overhead Strategy Camera.^^Pressing the BACKSPACE key often initiates a Battle Command Display with 'radar.'
 ; str_division_placement|When ONE division is selected, the center of its front rank is placed at the spot indicated.^^When MANY divisions are selected, they are separated and spread out as if the player were standing at the spot indicated.^^One may memorize the placement of selected divisions relative to the player by pressing F2, F7. Default is infantry to the left, cavalry right, and ranged forward.
 ; str_formations|The Complex Formations on the Battle Menu are:^^- RANKS with best troops up front^- SHIELD WALL, ranks with shields in front and longer weapons in back^- WEDGE with best troops up front^- SQUARE in no particular order^- NO FORMATION^^Even in the last case, the player can make formations up to four lines by ordering Stand Closer enough times.
