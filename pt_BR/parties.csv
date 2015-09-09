@@ -30,7 +30,7 @@ p_town_28|Cidade de CRUAGHAN
 p_town_29|Cidade de TEMAIR
 p_castle_1|Castelo de Caer Ligualid
 p_castle_2|Castelo de Mame Ceaster
-p_castle_3|Castelo de Donne Ceaster
+; p_castle_3|Donne Ceaster 
 p_castle_4|Castelo de Middelsburh
 p_castle_5|Castelo de Denisesburna
 p_castle_6|Castelo de Anúncio Gefrin
@@ -46,7 +46,7 @@ p_castle_15|Castelo de Gegnesburh
 p_castle_16|Castelo de Stanford
 p_castle_17|Castelo de Norwic
 p_castle_18|Castelo de Haegelisdun
-p_castle_19|Castelo de Rendlaesburh
+p_castle_19|Vila de Rendlaesham
 p_castle_20|Castelo de Grantebrycge
 p_castle_21|Castelo de Hrofae Ceaster
 p_castle_22|Castelo de Dornwara Ceaster
@@ -185,12 +185,12 @@ p_village_64|Vila de Vles Inge Terp
 p_village_65|Vila de Bal Sebuirge
 p_village_66|Vila de Bal Magh
 p_village_67|Vila de Bal Magh Cobha
-p_village_68|Vila de  Bal Mor Norte
+; p_village_68|Bal Mor
 p_village_69|Vila de Bal Clochair
 p_village_70|Vila de Bal Fearnmhaigh
 p_village_71|Vila de Bal Macha
 p_village_72|Vila de Bal Dumai
-p_village_73|Vila de Bal Mor South
+; p_village_73|Bal Mor
 p_village_74|Vila de Bal Eachadha
 p_village_75|Vila de Bal Breacain
 p_village_76|Vila de Bal Crannoc
@@ -239,8 +239,8 @@ p_village_118|Vila de Bal Scuin Leste
 p_village_119|Vila de Bal Scuin Oeste
 p_village_120|Vila de Witan Ham Norte
 p_village_121|Vila de Witan Ham Sul
-p_village_122|Vila de Tref Bosvenegh Leste
-p_village_123|Vila de Tref Bosvenegh Oeste
+; p_village_122|Tref Bodmine East
+; p_village_123|Tref Bodmine West
 p_village_124|Vila de Bal Cainnighn Norte
 p_village_125|Vila de Bal Cainnighn Sul
 p_village_126|Vila de Bal Rigmonaid Norte
@@ -250,9 +250,8 @@ p_village_129|Vila de Bal Celtair Oeste
 p_village_130|Vila de Bal Maistiu Leste
 p_village_131|Vila de Bal Maistiu Oeste
 p_village_132|Vila de Tref Meguaidd Leste
-p_village_133|Vila de Tref Meguaidd Oeste
-p_village_134|Vila de Tom Ham Leste
-p_village_135|Vila de Tom Ham Sul
+p_village_135|Vila de Tref Meguaidd Oeste
+; p_village_134|Tom Ham North
 p_village_136|Vila de Bal Caiseal Leste
 p_village_137|Vila de Bal Caiseal Oeste
 p_village_138|Vila de Bal Aileach Leste
@@ -282,7 +281,7 @@ p_battle_stones|Fileira de Pedras
 p_farmland_special|Terras agrícolas
 p_roman_fort|Forte Romano
 p_troll_bridge|A Ponte de Trolls
-p_circle_mystic1|Círculo Místico
+; p_circle_mystic1|Circle Mystic
 p_celidon_forest|Pedras Antigas
 p_hidden_valley|Estranhas Ruínas
 p_quarry1|Pedreira
@@ -349,7 +348,7 @@ p_monasterio26|Mosteiro Raithean
 p_monasterio27|Mosteiro Carthach
 p_monasterio28|Mosteiro Scelic Mhichi
 p_monasterio29|Mosteiro Gleann Da Loch
-p_yourlair|Meu Refúgio
+; p_yourlair|Jab's Refuge
 p_thiaderd_lair|Esconderijo de Thiaderd
 p_destroy1|Esconderijo de Thiaderd, Destruído
 p_destroy2|Covil de Sven, Destruído
@@ -363,40 +362,42 @@ p_ferry_1b|Estação de balsa
 p_ferry_2b|Estação de balsa
 p_ferry_3b|Estação de balsa
 p_ferry_4b|Estação de balsa
-p_wales_spawn_point|A costa
-p_fortiu_spawn_point|A costa
-p_sussex_spawn_point|Seaxe Sul
-p_clyde_coast_spawn_point|O rio
-p_limerick_spawn_point|A costa
-p_norway_spawn_point|As montanhas
-p_northumbria_spawn_point|A zona rural
-p_mierce_spawn_point|A zona rural
-p_crafu_spawn_point|A zona rural
-p_alban_spawn_point|A zona rural
-p_aileach_spawn_point|A zona rural
-p_engla_coast_spawn_point|A costa
-p_cornish_coast_spawn_point|A costa
-p_leinster_spawn_point|A zona rural
-p_frisia_spawn_point|A zona rural
-p_denmark_spawn_point|A zona rural
-p_caitness_priest_spawn_point|A zona rural
-p_northumbria_priest_spawn_point|A zona rural
-p_norway_priest_spawn_point|A zona rural
-p_denmark_priest_spawn_point|A zona rural
-p_channel_spawn_point|O canal
-p_bight_spawn_point|A Baía Sul
-p_irish_sea_spawn_point|Mar da Irlanda
-p_forth_firth_spawn_point|O avanço de Firth
-p_skagerrak_spawn_point|O Skagerrak
-p_firth_clyde_spawn_point|O avanço de Clyde
+; p_jetty_1|jetty 1
+; p_jetty_2|jetty 2
+; p_jetty_3|jetty 3
+; p_jetty_4|jetty 4
+; p_jetty_5|jetty 5
+; p_jetty_6|jetty 6
+; p_looter_spawn_point|their hideout
+; p_looter_spawn_point2|their hideout
+; p_looter_spawn_point3|their hideout
+; p_steppe_bandit_spawn_point|their camp
+; p_taiga_bandit_spawn_point|their longphort
+; p_forest_bandit_spawn_point|their den
+; p_forest_bandit_spawn_point2|their den
+; p_forest_bandit_spawn_point4|their den
+; p_mountain_bandit_spawn_point|their camp
+; p_mountain_bandit_spawn_point3|their camp
+; p_new_sp|their parish
+; p_new_sp2|their parish
+p_new_sp3|A zona rural
+p_new_sp4|A zona rural
+; p_sea_raider_spawn_point_1|their longphort
+; p_sea_raider_spawn_point_2|their longphort
+; p_sea_raider_spawn_point_3|their longphort
+; p_desert_bandit_spawn_point|their camp
+; p_frank_looters_sp_1|their den
+; p_frank_looters_sp_2|their den
+; p_ship_raider_spawn_point_1|their landing
+; p_ship_raider_spawn_point_2|their longphort
+; p_ship_raider_spawn_point_3|their landing
+; p_ship_raider_spawn_point_4|their longphort
+; p_ship_raider_spawn_point_5|their longphort
+; p_ship_raider_spawn_point_6|their landing
+; p_testing_spawn_point|the sea
 p_landing_point|Ponto de Desembarque
+; p_landing_point2|landing point2
 p_the_fleet|A Frota
 p_transporter|Transportador
-p_troop_camp_1|Quartel  de Tropa
-p_troop_camp_2|Quartel  de Tropa
-p_paganholysites1|Templo de Odin
-p_paganholysites2|Templo de Thor
-p_oldpagan_hut|Cabana do Velho Pagão
-p_morrigan_lair|Refúfio de Morrigan
-p_bresail_farm|Fazenda de Mael Bresail
-p_bresail_fort|Forte de Mael Bresail
+; p_troop_camp_1|Troop camp
+; p_troop_camp_2|Troop camp

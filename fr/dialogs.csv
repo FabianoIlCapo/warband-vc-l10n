@@ -23,7 +23,7 @@
 ; dlga_dog_talk_train:dog_talk_pretrain.5|Here is some {s7} for your teeth!
 ; dlga_dog_talk_train:dog_talk_1|I have no more food for you.
 ; dlga_dog_talk_train:dog_talk_1.1|That's all for today.
-; dlga_start:close_window.1|You should go down to your mother and drop off something she can use on her way to Valhalla.
+; dlga_start:close_window.1|You should go down to your mother and drop off something she can use on her way to Walhalla.
 ; dlga_start:close_window.2|I'm waiting for somebody who is coming with a girl. Have you seen them?
 ; dlga_start:close_window.3|Ah, you are {playername}. Thonkrik told me you would come here. Get on the ship. My men and I will show you how easily she sails.
 ; dlga_start:port_chief_travel|Heill! Are you looking to travel to another town?
@@ -106,7 +106,7 @@ dlga_port_chief_travel_4:close_window|{s1}
 ; dlga_port_chief_catach32:port_chief_catach4|My client will not be happy, and people will know you're not reliable. My client would've paid me 10,000 peningas for the book. Do you have that kind of money?
 ; dlga_port_chief_catach4:port_chief_catach5|I've got the money. Here, take it, and tell me where Sven is!
 ; dlga_port_chief_catach4:port_chief2|Unfortunately, no. I will be back as soon as I have it.
-; dlga_port_chief_catach5:port_chief_catach5_1|Oh my, you're a rich man! The hideout is here, in Danmark, southeast of Ribe, up the river. Far thu vel.
+; dlga_port_chief_catach5:port_chief_catach5_1|Oh my, you're a rich {reg59?woman:man}! The hideout is here, in Danmark, southeast of Ribe, up the river. Far thu vel.
 dlga_port_chief_catach5_1:port_chief2|Merci.
 ; dlga_port_chief_catach31:port_chief_catach31_1|Well, thank you. The hideout is here, in Danmark, southeast of Ribe, up the river. Far thu vel.
 dlga_port_chief_catach31_1:port_chief2|Merci.
@@ -155,7 +155,7 @@ dlga_port_recruits2:port_crew_talk.1|Non, pas pour l'instant.
 ; dlga_port_crew_fleetpr:close_window|Sorry, I'm busy preparing the boats and supplies for a fleet. If you do not need sailors, please leave me alone and come back later.
 ; dlga_port_r_2:port_crew_fleet1|My name is {playername}. Aetheling Aelfred sent me.
 ; dlga_port_r_2:port_crew_fleet1.1|My name is {playername}. Jarl Rathbarth send me.
-; dlga_port_crew_fleet1:port_crew_fleet2|^^Greetings, {playername}. I was notified about your arrival. You are in charge of a fleet bound for Frankia. There are men, guides and boats waiting for you to pick up.
+; dlga_port_crew_fleet1:port_crew_fleet2|^^Greetings, {playername}. I was notified about your arrival. You are in charge of a fleet bound for Frankia. There are men, guides and boats waiting for you to join them out of port.
 ; dlga_port_crew_fleet2:the_fleetcrew1|Yes, the time has come. Douar-an-Enez awaits me.
 ; dlga_the_fleetcrew1:close_window|I was told it would be weeks, even months out, so good luck. Your fleet is waiting for you at the exit of the port. Take your boat and go with them.
 ; dlga_port_crew_fleet2:close_window|No, I need to finish some things. I will be back.
@@ -421,6 +421,8 @@ dlga_helgi_conversationcamp2:helgi_conversationcamp4|Je vous écoute.
 ; dlga_award_fief_to_vassal:award_fief_to_vassal_2.1|My idea is to devastate the place completely and leave.
 ; dlga_award_fief_to_vassal_2:close_window|As you wish, {reg59?my lady:my lord}.
 ; dlga_award_fief_to_vassal_2:close_window.1|As you wish, {reg59?my lady:my lord}. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.
+; dlga_award_fief_to_vassal_2:close_window.2|As you wish, {reg59?my lady:my lord}. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.
+; dlga_award_fief_to_vassal_2:close_window.3|We have no possibility of doing this. Men want to devastate this site and leave, {reg59?my lady:my lord}.
 dlga_event_triggered:center_captured_rebellion|Personne ne gère {s1}, à qui confier cette responsabilité ?
 dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {s1}
 dlga_center_captured_rebellion:center_captured_rebellion_2.1|S'il vous plaît {s65}, j'aimerais que l'on me confie {s1}. (fiefs : {s0})
@@ -588,7 +590,8 @@ dlga_looters_2:close_window.1|Vous n'obtiendrez de moi que la lame de mon épée
 ; dlga_looters_2bribe:looters_2bribeg|Yes, I've heard of you. They say the men of your party enjoy the best loot. Forgive us, and we will be delighted to join such a fierce leader.
 ; dlga_looters_2bribe:looters_2bribere|Yes, I've heard of you. They say you pay well. We would consider your offer to sign up for {reg0} peningas.
 ; dlga_looters_2bribere:close_window|I cannot imagine fighting without warriors of such fine quality by my side. Welcome to my army.
-; dlga_looters_2bribere:looters_bribe12|Oho! The way I see it, you should be paying me for such an opportunity. Forget it!
+dlga_looters_2bribere:looters_bribe12|Je n'ai pas assez d'argent...
+; dlga_looters_2bribere:looters_bribe12.1|Oho! The way I see it, you should be paying me for such an opportunity. Forget it!
 ; dlga_looters_2bribeg:close_window|Why, you're just the sort of company I have been seeking so hard to find!
 ; dlga_looters_2bribeg:looters_bribe13|Never mind. It was just the mead talking.
 ; dlga_looters_bribe12:close_window|Oh, we've got plenty of payment for you, buttercup.
@@ -1544,7 +1547,7 @@ dlga_party_encounter_lord_hostile_attacker_2:lord_recruit_1_relation|Attendez ! 
 dlga_party_encounter_lord_hostile_attacker_2:party_encounter_offer_dont_fight|N'y a-t-il aucun moyen d'éviter cette bataille ? Je ne veux pas me battre avec vous. 
 dlga_party_encounter_lord_hostile_attacker_2:close_window.1|N'attaquez pas, nous nous rendons !
 dlga_party_encounter_offer_dont_fight:close_window|Je vous dois une faveur, n'est-ce-pas ? Pour cette fois je vous laisse partir.
-dlga_party_encounter_offer_dont_fight:close_window.1|{s43}
+; dlga_party_encounter_offer_dont_fight:close_window.1|{s43}.
 dlga_start:lord_requests_recruitment|{s9}
 dlga_lord_requests_recruitment:close_window|{s9}
 dlga_lord_requests_recruitment:lord_requests_recruitment_refuse|{s9}
@@ -2088,7 +2091,7 @@ dlga_lair_cook_pretalk:lair_cook|Autre chose ?
 ; dlga_olvir_dialog41:olvir_dialog52|No, he's right. You do not deserve Walhalla, Olvir. Egil, give me the sword.
 dlga_olvir_dialog41:olvir_dialog51.1|{s10}
 ; dlga_olvir_dialog51:olvir_dialog7|{s2}^^Banquets, women and endless battles await you in the hall of the gods, Olvir. You've been good warrior, although we have been enemies. I will see you someday, and maybe we can fight alongside each other at Ragnarok.
-; dlga_olvir_dialog52:olvir_dialog54|{reg59?Madame:Sir}, this man fought well, let him go to Walhalla.
+; dlga_olvir_dialog52:olvir_dialog54|{reg59?Madame:Sir}, this man fought well. Let him go to Walhalla.
 ; dlga_olvir_dialog54:olvir_dialog55|Please...
 ; dlga_olvir_dialog55:olvir_dialog51|Well, Egil, give him his sword.
 ; dlga_olvir_dialog55:olvir_dialog6|No. Egil, give me his sword, for it will be mine. Let him go to hell.
@@ -2268,7 +2271,7 @@ dlga_problema_monjes_1:problema_monjes_22|{s10}
 ; dlga_regular_member_talk:briton_action|Pater, I will donate 500 peningas to aid the families of my fallen men.
 ; dlga_briton_action:regular_member_talk|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. Your men will feel better now.
 ; dlga_regular_member_talk:anglo1_action|Priest, my men need Odin. I will donate 500 peningas to you for your aid in this matter.
-; dlga_anglo1_action:regular_member_talk|I will talk to your men about Odin, relentless Thor, and Freyja, the hope of the slain. It will encourage them to fight proudly by your side, to earn their seats at Valhalla or Folkvangr.
+; dlga_anglo1_action:regular_member_talk|I will talk to your men about Odin, relentless Thor, and Freyja, the hope of the slain. It will encourage them to fight proudly by your side, to earn their seats at Walhalla or Folkvangr.
 ; dlga_regular_member_talk:porta_presentacion|Heill, what can you do in battle?
 ; dlga_porta_presentacion:regular_member_talk|Me? - He approaches and whispers in your ear. - We are very useful. I am important for you. When your men see me in battle, they will gain courage. If things go wrong, they will fight longer before fear seizes them.
 ; dlga_porta_presentacion:regular_member_talk.1|Me? - He approaches and whispers in your ear. - I am important for you. When your men see me in battle, they will gain courage. If things go wrong, they will fight longer before fear seizes them.
@@ -2840,11 +2843,13 @@ dlga_kennemerjarl_enemistad22_f:lord_pretalk|Très bien.
 ; dlga_kinghorik_quest_revenge22:lord_pretalk|I do not like others to waste my time.
 ; dlga_kinghorik_quest_revenge21:kinghorik_quest_revengegrove|This is a delicate subject about which I do not like to talk, but I've heard about you. Your renown precedes you, so I will listen. Follow me to a nearby grove with your nearest companions, and we will talk...
 ; dlga_kinghorik_quest_revenge21:kinghorik_quest_revengegrove.1|This is a delicate subject about which I do not like to talk, but I've heard about you. Your reputation precedes you, so I will listen. Follow me to a nearby grove with your nearest companions, and we will talk...
+; dlga_kinghorik_quest_revenge21:lord_pretalk|Lower your voice, this is not the place. Wait till I leave this site with my army and ask me on the road.
 ; dlga_kinghorik_quest_revenge21:kinghorik_quest_revenge21_1|Sigurd Ragnarsson is one of my jarls, and we have nothing to talk about. You understand?
 ; dlga_kinghorik_quest_revenge21_1:lord_pretalk|Are we finished, or do you need something else?
 ; dlga_kinghorik_quest_revengegrove:close_window|Thank you, King Horik.
 ; dlga_kinghorik_quest_revengegrove:close_window.1|Thanks, King Horik.
 ; dlga_kinghorik_quest_thing1:close_window|Lower your voice. Come. Follow me. Let us talk in private.
+; dlga_kinghorik_quest_thing1:lord_pretalk|Lower your voice, this is not the place. Wait till I leave this site with my army and ask me on the road.
 ; dlga_kinghorik_quest_atlieiriksson1:kinghorik_quest_atlieiriksson2|That is good news. Where was he?
 ; dlga_kinghorik_quest_atlieiriksson2:kinghorik_quest_atlieiriksson3|We found Atli Eiriksson and his men in a cave in Northvegr, near Hordaland. Sigurd 'Snake in the Eye' sent him there to hide and protect Bodo's letter. Now Atli Eiriksson and his men are dead, but they burned the letter during the fighting. You no longer have to fear that Sigurd 'Snake in the Eye' can use it against you at the Assembly.
 ; dlga_kinghorik_quest_atlieiriksson3:kinghorik_quest_atlieiriksson4|Atli is dead? He was Sigurd Ragnarsson's second man, after Sven Bull Neck. Wherever you go, you leave just corpses. I wanted Sigurd quiet, with no weapons to use against me, nor motives for revenge. I hope you killed everybody in that cave, or he may present as a witness against you for killing Atli. I will not be able to protect you from banishment in that case.
@@ -2935,16 +2940,16 @@ dlga_jarlbjorn_5_2:jarlbjorn_6|{s4}
 ; dlga_raethbarth_wp_42:raethbarth_wp_43.1|I am the one who killed Olvir. He was a dog that deserved what he got.
 ; dlga_raethbarth_wp_42:raethbarth_wp_5|(Say nothing)
 ; dlga_raethbarth_wp_43:raethbarth_wp_5|The messenger did not mention your name in his story, but I imagine there are many troubles between you and Sven. That can only end in blood.
-; dlga_raethbarth_wp_5:raethbarth_wp_6|As a result, Sven Bull Neck is now an outlaw and an enemy of the Danish -- especially the sons of Ragnar. However, West Seaxe is a strong and large kingdom. Sven Bull Neck could just hide there, and you would never find him. However, he has two things that West Seaxe needs -- ships and good sailors -- so I think I know where they will send him.
+; dlga_raethbarth_wp_5:raethbarth_wp_6|Sven Bull Neck is now an outlaw and an enemy of the Danish -- especially the sons of Ragnar. However, West Seaxe is a strong and large kingdom. Sven Bull Neck could just hide there, and you would never find him. However, he has two things that West Seaxe needs -- ships and good sailors -- so I think I know where they will send him.
 ; dlga_raethbarth_wp_6:raethbarth_wp_71|To meet the ships from the Kingdom of Asturias and to lead them to West Seaxe. Right?
 ; dlga_raethbarth_wp_6:raethbarth_wp_72|Tell me what you know.
 ; dlga_raethbarth_wp_6:raethbarth_wp_73|Where he goes, I will go to seek him.
 ; dlga_raethbarth_wp_71:raethbarth_wp_72|{s2}^^I like the people who serve me to be smart. You're absolutely right.
 ; dlga_raethbarth_wp_73:raethbarth_wp_72|This obsession is your bane...
-; dlga_raethbarth_wp_72:raethbarth_wp_8|During the time you were busy in the Kingdom of Alban I met with my brothers, and we sent fast ships south for more information. Almost certainly, the Asturian fleet has left port. The letter you gave us mentioned that they are meeting with people sent from West Seaxe in Frankia, in a village called Douar-an-Enez. There is a man called Bodo, once your companion, who is now with the Saxons, so we must assume that the Saxons have the same information as we do. My feeling is that West Seaxe will send Sven Bull Neck and Bodo to Douar-an-Enez soon, if they have not already done so.
+; dlga_raethbarth_wp_72:raethbarth_wp_8|During the time you were busy in the Kingdom of Alban, I met with my brothers, and we sent fast ships south for more information. Almost certainly, the Asturian fleet has left port. The letter you gave us mentioned that they are meeting with people sent from West Seaxe in Frankia, in a village called Douar-an-Enez. There is a man called Bodo, once your companion, who is now with the Saxons, so we must assume that the Saxons have the same information as we do. My feeling is that West Seaxe will send Sven Bull Neck and Bodo to Douar-an-Enez soon, if they have not already done so.
 ; dlga_raethbarth_wp_8:raethbarth_wp_91|Bodo will not work with Sven. He hates him as much as I do.
 ; dlga_raethbarth_wp_8:raethbarth_wp_9|Then I must go to Douar-an-Enez.
-; dlga_raethbarth_wp_91:raethbarth_wp_9|Maybe. I do not know so well as you this Bodo, but now he is not with you but with our enemies, and I know that you ended well with him. We cannot take the risk.
+; dlga_raethbarth_wp_91:raethbarth_wp_9|Maybe. I do not know so well as you this Bodo, but now he is not with you but with our enemies, and I know that you are finished with him. We cannot take the risk.
 ; dlga_raethbarth_wp_9:raethbarth_wp_10|These men from Asturias are very important, and we could use them on our side against West Seaxe. There is a traitor among them, a man named Silo, who was a prisoner of my brother Bjorn when he was in those lands. Bjorn freed him after earning his loyalty. That man has been passing us information in exchange for silver, much silver. Use Silo to gain favor with the Asturians, to pit them against West Seaxe and join us. But if you fail to convince them, kill them all.
 ; dlga_raethbarth_wp_10:close_window|Finish everything you have pending, as you will be out several weeks. We have gathered men and have prepared ships for them. They await you in {s3}. Ask the old captain at the port. He is the man who deals with hiring sailors. Above all, remember that it is very important that this Asturian army never helps West Seaxe.
 ; dlga_aethelredbodoletter_1:lord_pretalk|A letter? I am not a scribe. Talk to my brother Aelfred.
@@ -4455,7 +4460,8 @@ dlga_deserter_talk:deserter_barter|Inutile de se battre, je peux payer pour pass
 ; dlga_deserters_2bribe:deserters_2bribeg|Yes, I've heard of you. They say your men collect the best loot. Forgive us, and we will be delighted to join such a fierce leader
 ; dlga_deserters_2bribe:deserters_2bribere|We would consider your offer if you fronted us {reg0} peningas.
 ; dlga_deserters_2bribere:close_window|It is a good bargain, considering your proven head busting skills. Welcome to the band, lads.
-; dlga_deserters_2bribere:deserters_bribe12|Ouch! You value your worth over much, methinks. Forget it. 
+dlga_deserters_2bribere:deserters_bribe12|Je n'ai pas assez d'argent...
+; dlga_deserters_2bribere:deserters_bribe12.1|Ouch! You value your worth over much, methinks. Forget it. 
 ; dlga_deserters_2bribeg:close_window|Why, you are just the sort of gentle lads I dream of accompanying me!
 ; dlga_deserters_2bribeg:deserters_bribe13|Never mind. On second thought, we have enough lads to split the wealth with.
 ; dlga_deserters_bribe12:close_window|Ooh. Well, we'll let you do the valuating then.
@@ -4886,7 +4892,7 @@ dlga_bodo_merchant_1:bodo_merchant_22|{s10}
 ; dlga_petro_leader_38_1:petro_leader_38_2|West Seaxe can still fight, and I think it would be quite good at it. You sing well, messenger. It would be nice to switch our looting to places other than the lands of the Moors.
 ; dlga_petro_leader_38_2:petro_leader_38_3|Well, this sounds good to me.
 ; dlga_petro_leader_38_3:petro_leader_38_4|You're forgetting that our king has an alliance with the king of West Seaxe. Is it your intention to disobey your king?
-; dlga_petro_leader_38_4:petro_leader_40|Do not be deceived by their flattering words. Anyone who pays attention to him ends badly.
+; dlga_petro_leader_38_4:petro_leader_40|Do not be deceived by {reg59?her:his} flattering words. Anyone who pays attention to {reg59?her:him} ends badly.
 ; dlga_petro_leader_41:petro_leader_40|Are you listening to {reg59?her:him}? Makes demands like a king, and if they are not accepted, threatens with the sword.
 ; dlga_petro_leader_40:petro_leader_40_1|Bodo is a good man, but he will lead you to destruction if you listen to him.
 ; dlga_petro_leader_40:petro_leader_50|It's time for you to make a decision.
@@ -4895,12 +4901,12 @@ dlga_bodo_merchant_1:bodo_merchant_22|{s10}
 ; dlga_petro_leader_50_1:petro_leader_50_2|I did not bleed for a kingdom destined to perish. I'm with Silo. Join the Danish and ransack West Seaxe.
 ; dlga_petro_leader_50_1:petro_leader_50_2.1|I would prefer killing Danes rather than Saxons... Yes, that's my decision.
 ; dlga_petro_leader_50_2:petro_leader_51|King Aldefonso named me, his duke, lord of this army, to complete our mission of helping West Seaxe. Barring orders to the contrary, that is our goal, and anything else is treason.
-; dlga_petro_leader_51:petro_leader_52|Your people cannot be trusted, Duke Petro. I am Bodo Vimaraniz from Malacoria. You know me, I am a man of the royal court and here is my seal. I did not want to resort to this...I am the word of the king here. I have given an order to have the West Seaxe fleet attack {playername}'s fleet. Look over there and enjoy the show!
+; dlga_petro_leader_51:petro_leader_52|Your people cannot be trusted, Duke Petro. I am Bodo Vimaraniz from Malacoria. You know me, I am a man of the royal court, and here is my seal. I did not want to resort to this...^^I am the word of the king here. I have given an order to have the West Seaxe fleet attack {playername}'s fleet. Look over there and enjoy the show!
 ; dlga_petro_leader_52:petro_leader_52_2|Silo is a traitor and will be executed. Gundinsalvo will gather and embark his Cantabrians now and prepare for battle. You, Petro, will leave some men here to protect our food supply and send the rest with Gundinsalvo. {playername} shall return to {reg59?her:his} ship to die with {reg59?her:his} men. We will advance from here with our ships in a pincer attack and end this matter. Then we will travel in aid of West Seaxe as agreed.
 ; dlga_petro_leader_52_2:petro_leader_52_3|You are not the king, and you have ordered an attack without our consent. This breaks all the rules. I'm going with {playername}, but I will not fight.
 ; dlga_petro_leader_52_3:petro_leader_53|Bodo, you're stupidly crazy! You're sending these men to their death.
 ; dlga_petro_leader_52_3:petro_leader_53.1|See you soon.
-; dlga_petro_leader_53:close_window|Away with {playername}! Everyone must prepare for battle. Gundinsalvo, go with your men, but if you happen to betray him, you will pay dearly!
+; dlga_petro_leader_53:close_window|Away with {playername}! Everyone must prepare for battle. Gundinsalvo, go with your men, but if you happen to betray us, you will pay dearly!
 ; dlga_petro_leaderwessex_4:petro_leaderwessex_31|Welcome {playername}, we expected you days ago.
 ; dlga_petro_leaderwessex_31:petro_leaderwessex_32|The king of West Seaxe sent a nobody. That is an insult!
 ; dlga_petro_leaderwessex_32:petro_leaderwessex_33|{s2}^^You get offended too easily, Silo.
@@ -6267,12 +6273,13 @@ dlga_start:bandit_meet|Hein ? Qu'est-ce que c'est ?
 dlga_bandit_meet:bandit_attack|Ta chance a tourné mon bougre, prépare-toi à mourir !
 ; dlga_bandit_meet:bandit_attack.1|Why wouldn't you hand over yours, scum?
 dlga_bandit_attack:close_window|{s5}
-; dlga_bandit_meet:bandit_meet1|Do you know whom you talking about? I will not kill you if you join me.
+; dlga_bandit_meet:bandit_meet1|Do you know whom you are talking to? I will not kill you if you join me.
 ; dlga_bandit_meet1:close_window|I care very little who you are. It's time for you to die.
 ; dlga_bandit_meet1:bandit_meet1g|Yes, I've heard of you. They say your men get the best loot. Forgive us, and we will be delighted to join such a fierce leader.
 ; dlga_bandit_meet1:bandit_meet1e|We would consider your offer if you added {reg0} peningas to it.
 ; dlga_bandit_meet1e:close_window|Peningas come to me more easily than quality fighters do. Welcome to my army.
-; dlga_bandit_meet1e:bandit_meet12|Now I know why they call you bandits. Never mind.
+dlga_bandit_meet1e:bandit_meet12|Je n'ai pas assez d'argent...
+; dlga_bandit_meet1e:bandit_meet12.1|Now I know why they call you bandits. Never mind.
 ; dlga_bandit_meet1g:close_window|And I for my part welcome such doughty men!
 ; dlga_bandit_meet1g:bandit_meet13|On second thought, I want fighters more loyal to me than the spoils. Never mind.
 ; dlga_bandit_meet12:close_window|Huh. I've always fancied being called 'Killer.' Time to make me a new name.
@@ -6495,7 +6502,8 @@ dlga_battle_reason_stated:close_window|Je n'ai pas peur de vous, je vais vous co
 ; dlga_raiders_bribe1:raiders_bribe1g|Yes, I've heard of you. They say your men get the most loot. Forgive us, and we will be delighted to join such a fierce leader.
 ; dlga_raiders_bribe1:raiders_bribe1e|We would consider your offer if you better it by {reg0} peningas.
 ; dlga_raiders_bribe1e:close_window|What? Would I let such a trifle spoil our friendship? Welcome to my army.
-; dlga_raiders_bribe1e:raiders_bribe12|Never mind. You fellows are just plain crazy.
+dlga_raiders_bribe1e:raiders_bribe12|Je n'ai pas assez d'argent...
+; dlga_raiders_bribe1e:raiders_bribe12.1|Never mind. You fellows are just plain crazy.
 ; dlga_raiders_bribe1g:close_window|You fellows won't make my crew any uglier. Welcome!
 ; dlga_raiders_bribe1g:raiders_bribe13|Never mind. I have my reputation to consider.
 ; dlga_raiders_bribe12:close_window|Now why would you ask us to turn insult into injury? You're the one that's crazy.

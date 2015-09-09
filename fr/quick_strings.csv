@@ -250,8 +250,8 @@ qstr_Hunter|Destrier
 ; qstr_Can_read:|Can read:
 ; qstr_Reading:|Reading:
 ; qstr_No_books.|No books.
-; qstr_Traits:|Traits:
-; qstr_Special_Traits:|Special Traits:
+; qstr_Trait:|Trait:
+; qstr_Special_Trait:|Special Trait:
 ; qstr_Dungeon_Master|Dungeon Master
 ; qstr_Ladies__Man|Ladies' Man
 ; qstr_Wine_Connoisseur|Wine Connoisseur
@@ -693,7 +693,7 @@ qstr_The_village_of_{s50}|Le village de {s50} près de {s52}
 qstr_{s7}_and_{s8}|{s7} et {s8}
 qstr_{s2}It_has_no_villag|{s2} n'a pas de village.^
 qstr_{s2}{reg0?Its_villag|{s2}{reg0?Ses fiefs sont:Son fief est} {s8}.^
-qstr_{s2}Its_prosperity_i|{s2}Sa Prospérité est : {s50}
+; qstr_{s2}Its_prosperity_i|{s2}Its prosperity is: {s50}.
 qstr_{s9}_and_{s10}|{s9} et {s10}
 ; qstr_{s12}{s14}|{s12}{s14}
 ; qstr_{s12}_{s14}|{s12}, {s14}
@@ -780,6 +780,9 @@ qstr_{reg0}_town{reg1?s:}_{|{reg0} ville{reg1?s:}, {s0}
 qstr_Your_opponents_are_r|Vos adversaires sont prêts à se battre.
 qstr_Try_to_destroy_as_ma|Essayez de détruire autant de cibles que possible. Vous avez deux minutes et demie pour finir.
 qstr_Stay_behind_the_line|Restez derrière la ligne au sol et visez les cibles. Essayez de ne pas rater de tir.
+; qstr_Garrison_Troops|Garrison Troops
+; qstr_Camp_Troops|Camp Troops
+; qstr_Refuge_Troops|Refuge Troops
 qstr_Battle_Advantage_=_{|Avantage tactique = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9} veut que vous suiviez son armée jusqu'à nouvel ordre.
 qstr__Being_Raided_|(En train d'être pillé)
@@ -916,7 +919,6 @@ qstr_two_days_ago|il y a deux jours
 ; qstr_The_marshal_is_levyi|The marshal is levying {reg0} troops from your center {s10}.
 ; qstr_{s35}_of_the_{s34}|{s35} of the {s34}
 ; qstr_{s37}_of_the_{s36}|{s37} of the {s36}
-; qstr_You_can_t_possibly_t|You can't possibly think of marrying into my family since you do not even believe in the same gods! Convert first, then we may discuss this topic again.
 ; qstr_The_brewery_in_{s1}_|The brewery in {s1} adds to its prosperity.
 qstr_You_gain_right_to_ru|Vous gagnez en droit de régner.
 qstr_You_lose_right_to_ru|Vous perdez en droit de régner.
@@ -1505,7 +1507,7 @@ qstr_Tutorial|Didacticiel
 ; qstr_Halfdan_shouts__Thin|Halfdan shouts, 'Think of the riches that await you in slaves and everlasting fame. My father, Ragnar, would be proud of you, as I am. We are Danish. We are Scyldings. Today, brethren, mark a new rune of glory! Are you with me? Are you ready for glory?'
 ; qstr_Knyjum_knyjum_konung|Knyjum, knyjum, konungs lidar, hardla, hardla boanda menn! Knyjum! Knyjum! Knyjum!
 ; qstr_Halfdan_shouts__Knyj|Halfdan shouts, 'Knyjum! knyjum! knyjum!'
-; qstr_The_Asturians_have_t|The Asturians have taken the village, and you see many of them around. Douar-an-Enez stands on a cliff, and you suppose that there will be the men you seek.
+; qstr_The_Asturians_have_t|The Asturians have taken the village, and you see many of them around. Douar-an-Enez sits on a cliff, and you suppose that the men you seek will be there.
 ; qstr_Aelfred_says__{playe|Aelfred says, '{playername}, listen to me. We have a problem. The messengers I send my brother always come back with the same answer. He is still in his prayers and has ordered his guard that nobody disturb him.'
 ; qstr_Aelfred_continues__I|Aelfred continues, 'I think he does not know that the Danish are about to gain the height advantage. If that happens, we will all be killed. His guards are very protective and do not let anyone pass, but if we wait, we die. I will order an attack on the Danish... I think that's what we have to do, you know? I need you to go with me. If we stay here, we die.'
 ; qstr___Aelfred_takes_a_de|--Aelfred takes a deep breath and blows it out hard. You notice that he is very nervous. He turns to his men.--^^Men of Wessex and Cent, follow me!'
@@ -1574,9 +1576,6 @@ qstr_No_one_accepts_the_o|Personne n'accepte votre offre...
 qstr_You_start_reading_{s|Vous commencez à lire {s2}. Vous le gardez près de vous afin d'en lire quelques pages à chaque fois que vous en aurez l'occasion.
 qstr_You_flip_through_the|Après avoir lu quelques pages du livre, vous vous apercevez que malgré vos efforts vous n'y comprenez pas grand chose, et une violente migraine met un terme à la lecture.
 qstr_Villagers|Villageoises
-; qstr_Refuge_Troops|Refuge Troops
-; qstr_Garrison_Troops|Garrison Troops
-; qstr_Camp_Troops|Camp Troops
 ; qstr_Ambush!_The_enemy_ha|Ambush! The enemy has maneuvered to gain a good position, and you fell into an ambush.^^Being ambushed puts you in a poor and disorganized defensive position, and your men will have morale problems and reduced ability to cause damage to your enemies.^^
 ; qstr_You_have_encountered|You have encountered {s1}.^^The warlord encourages his men with a rousing speech. Your enemies have very high morale.^^
 ; qstr_You_have_encountered_|You have encountered {s1}.^^The warlord gathers his men to pray and invoke the protection of their god. Your enemies have high morale.^^
@@ -1664,15 +1663,15 @@ qstr_{s9}_wants_you_to_fo|{s9} souhaite que vous suiviez son armée jusqu'à nou
 ; qstr_{s4}_lost_between_30|{s4} lost between 30 and 40% of its food reserves.
 ; qstr_{s4}_lost_between_10|{s4} lost between 10 and 20% of its food reserves.
 ; qstr_{s4}_have_between_10|{s4} have between 10 and 30% of its garrison sick for a few days.
-; qstr_^^The_garrison_has_{|^^The garrison has {reg5} men.^It should have food stocks for {reg6} days.
-; qstr_^^The_following_armi|^^The following armies are currently inside:^
-; qstr_{s3}_with_{reg1}_tro|{s3} with {reg1} troops.^
-; qstr_Commander_this_town_|Commander, this town is one big rock. Many before us have fled the place before a single blow was exchanged, so we must keep morale up among the men. The path to the main gate is formidably narrow and steep, but if we set up the camp and build a battering ram, we can break down the wall at the back entrance of the town. When the wall is down, we can charge in without losing breath. The steps up to the town center are fewer there.
-; qstr_Alt_Clut_the_rock_hi|Alt Clut, the rock high over the Clyde. This is the mightiest fortress of the northern Britons. Nobody has ever taken it by siege in your day. Controlling the mouth of the Clyde, it was where King Riderch Hael fought the Bernicians and the Picts.
-; qstr_This_formidable_stro|This formidable stronghold is the jewel of the Dumnonian kingdom. Here many ships from Mediterannea arrive full of wine and luxuries. Legend says the warlord, Arthur, was born here.
-; qstr_Dun_Taruo_the_fortre|Dun Taruo, the fortress of the bull. This place seems like the work of giants, and for centuries, the Picts have known its reputation.
-; qstr_The_seat_of_the_brav|The seat of the brave Goutodin warriors. From here, they launched their attacks against the Bernicians, and their heroic end will never be forgotten. You can almost smell their courage from here, even though Goutodin disappeared long ago.
-; qstr_This_place_is_waitin|This place is waiting to be conquered by you.
+; qstr_It_should_have_food_|It should have food stocks for {reg6} days.^The garrison has {reg5} men.
+; qstr_^^The_following_armi|^^The following armies are currently inside:
+; qstr_^{s3}_with_{reg1}_tr|^{s3} with {reg1} troops.
+; qstr_^^Commander_this_tow|^^Commander, this town is one big rock. Many before us have fled the place before a single blow was exchanged, so we must keep morale up among the men. The path to the main gate is formidably narrow and steep, but if we set up the camp and build a battering ram, we can break down the wall at the back entrance of the town. When the wall is down, we can charge in without losing breath. The steps up to the town center are fewer there.
+; qstr_^^Alt_Clut_the_rock_|^^Alt Clut, the rock high over the Clyde. This is the mightiest fortress of the northern Britons. Nobody has ever taken it by siege in your day. Controlling the mouth of the Clyde, it was where King Riderch Hael fought the Bernicians and the Picts.
+; qstr_^^This_formidable_st|^^This formidable stronghold is the jewel of the Dumnonian kingdom. Here many ships from Mediterannea arrive full of wine and luxuries. Legend says the warlord, Arthur, was born here.
+; qstr_^^Dun_Taruo_the_fort|^^Dun Taruo, the fortress of the bull. This place seems like the work of giants, and for centuries, the Picts have known its reputation.
+; qstr_^^The_seat_of_the_br|^^The seat of the brave Goutodin warriors. From here, they launched their attacks against the Bernicians, and their heroic end will never be forgotten. You can almost smell their courage from here, even though Goutodin disappeared long ago.
+; qstr_^^This_place_is_just|^^This place is just waiting for you to conquer it.
 qstr_As_a_last_defensive_|Dans un dernier effort, vous battez en retraite jusqu'au hall du donjon. Vous et vos derniers soldats y engagez un combat désespéré. Si vous êtes vaincu, cet endroit sera le dernier que vous ayez connu.
 ; qstr_You_ve_been_driven_a|You've been driven away from the walls. Now the attackers are pouring into the streets. If you can defeat them, you can perhaps turn the tide and save the day.
 qstr_You_ve_breached_the_|Vous vous êtes emparé des murs mais les défenseurs continuent à résister dans les rues ! Vous devez vous en occuper avant de pouvoir vous attaquer au château, au centre de la ville.
@@ -1794,7 +1793,7 @@ qstr_There_has_been_an_al|Il y a eu un incident frontalier : {s9}
 ; qstr_You_have_saved_{s3}.|You have saved {s3}. Perhaps now is a good time to ask {s9} about his involvement with Sven.
 ; qstr_{s9}_did_not_come_to|{s9} did not come to the aid of {s3}. Thonkrik suspects that the jarl is in an alliance with Sven Bull Neck. Maybe it's time to talk to him, or you can go directly to the king to tell him about {s9}'s betrayal.
 ; qstr_Loot_Thiaderd_s_camp|Loot Thiaderd's camp.
-; qstr_Ahead_in_a_small_cam|Ahead, in a small camp, there are some women and children, the wives and children of the rebels. They look scared, not knowing where to flee.^^Among these people are the wife and son of Thiaderd. It is a difficult choice. Maybe they will seek revenge in the future, but they aren't warriors.
+; qstr_Ahead_in_a_small_cam|Ahead, in a small camp, there are some women and children, the families of the rebels. They look scared, not knowing where to flee.^^Among these people are the wife and son of Thiaderd. It is a difficult choice. Maybe they will seek revenge in the future, but they aren't warriors.
 ; qstr_A_small_camp_stands_|A small camp stands next to a river. You see women and children between the cottages, watching warily. A number of men, few in number but with an aggressive demeanor, come to meet you. A very tall man leads them.
 ; qstr_Note_2:_You_chose_to|Note 2: You chose to kill Thiaderd's wife and son.
 ; qstr_Thiaderd_is_dead._Yo|Thiaderd is dead. You've accomplished your mission.
@@ -2201,7 +2200,6 @@ qstr_{s1}_is_scouted.|Vous avez exploré {s1}.
 ; qstr_The_weather_changed_to:__|The weather changed to: 'Gale'
 ; qstr_The_weather_changed_to:__S|The weather changed to: 'Storm'
 ; qstr_The_operation_of_the|The operation of the slave market in {s33} reduces your reputation.
-; qstr_The_defeated_kingdom|The defeated kingdoms seem calm, and your reports confirm that there are no rebellion plots.
 ; qstr__Possible_Rebellion_|(Possible Rebellion) Rumors say that {s14} is still alive.
 ; qstr__Possible_Rebellion__|(Possible Rebellion) Rumors say that {s14} meets in secret with his faithful.
 ; qstr__Possible_Rebellion__R|(Possible Rebellion) Rumors say that people favor the restoration of {s14}.
@@ -2215,7 +2213,6 @@ qstr_{s1}_is_scouted.|Vous avez exploré {s1}.
 ; qstr_Congratulations!_You_v|Congratulations! You've managed to tuck away 25 or more barrels of wine in your household storage, a great feat considering you are in the part of the world more known for mead and ale. Either you have a drinking problem, or you are a true wine connoisseur.
 ; qstr_Wine_Connoisseur_Ach|Wine Connoisseur Achievement
 ; qstr_{s33}_revokes_your_r|{s33} revokes your right to recruit in {s34} due to bad relations between you two.
-; qstr_Recruitment_Right_Re|Recruitment Right Revoked
 ; qstr_The_village_leader_o|The village leader of {s34} revokes your right to recruit due to bad relations between you and his village.
 ; qstr_fixing_banners;_plea|fixing banners; please reset your banner
 ; qstr_unable_to_restore_ba|unable to restore banner {reg0} assigned to troop {reg1}
