@@ -10,7 +10,7 @@ dlga_dog_talk_2:dog_talk_pretrain|Ecco, ho qualcosa per te...
 dlga_dog_talk_2:close_window.3|Ti chiamo io...
 dlga_dog_talk_2:close_window.4|Cane cattivo! Vattene! Non ti voglio più!
 dlga_dog_talk_2:close_window.5|Buttala!
-; dlga_start:dog_talk_recruit|   
+dlga_start:dog_talk_recruit| 
 dlga_dog_talk_recruit:dog_talk_1|Ecco, ho una salsiccia!
 dlga_dog_talk_recruit:close_window|Bravo cane!
 dlga_dog_talk_recruit:close_window.1|Via!
@@ -95,14 +95,14 @@ dlga_port_chief_build_ship_missing_2:port_chief2|Mi dispiace, ma ho bisogno di s
 dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_3|Accetto quest'ordine e puoi tornare più tardi.
 dlga_port_chief_build_ship_missing_3:port_chief2|Prenditi il tuo tempo, ma fidati di me. Le mie navi valgono ogni penigans.
 dlga_port_chief_build_ship_main_6:port_chief2|Molto bene! Torna tra {reg12} giorni.
-; dlga_port_chief3:close_window|Nothing, for now. Farewell.
+dlga_port_chief3:close_window|Nulla, per ora. Addio.
 dlga_port_chief_fleet1:port_chief_fleet2|{s2}^^Heill, {playername}. Vedo che ti sei fatto un nome in questa terra. Mi rende felice sapere che i miei affari ti hanno aiutato in questo. Meriterebbe una riga o due in una qualsiasi saga su di te! La flotta di Sven e Harald è dall'altra parte della baia. Conta cinquanta Navi, molte delle delle quali sono navi da guerra, per un totale di oltre 800 uomini. Hai finito il tuo affari in Danimarca? Sei pronto a Partire? Ti garantisco che non ci torneremo presto!
 dlga_port_chief_fleet2:the_fleetmt1|Sì, diamoci da fare. Facciamo salire a bordo i miei uomini.
 dlga_the_fleetmt1:close_window|Beh, buona fortuna Vinr. Anche se è possibile vedere molte navi da qui, la maggior parte della flotta è ancorato nella baia, fuori dalla città. Unisciti a loro, non appena vi sentite pronti!
 dlga_port_chief_fleet2:port_chief2|No. Ho bisogno di finire alcune cose. Tornerò.
 ; dlga_port_chief_catach:port_chief_catach2|{s2}^^Well, give me the book, and I will tell you what you asked about.
 ; dlga_port_chief_catach2:port_chief_catach31|Here, take it. Now, Sven's hideout?
-; dlga_port_chief_catach2:port_chief_catach32|Unfortunately, I lost the book. Would you take money instead?
+dlga_port_chief_catach2:port_chief_catach32|Purtroppo, ho smarrito il libro. Volete dei soldi in cambio?
 ; dlga_port_chief_catach32:port_chief_catach4|My client will not be happy, and people will know you're not reliable. My client would've paid me 10,000 peningas for the book. Do you have that kind of money?
 ; dlga_port_chief_catach4:port_chief_catach5|I've got the money. Here, take it, and tell me where Sven is!
 dlga_port_chief_catach4:port_chief2|Sfortunatamente, no. Tornerò non appena lo avrò.

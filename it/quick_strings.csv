@@ -1381,7 +1381,7 @@ qstr_Inventory|Inventario
 ; qstr_Camera_rotate_before_|Camera rotate before pan OFF.
 ; qstr_{s0}^^A_Battle_Comma|{s0}^^A Battle Command Display is often available by pressing the {s1} key.
 ; qstr_Strategy_Camera|Strategy Camera
-; qstr_Tactical_Controls|Tactical Controls
+qstr_Tactical_Controls|Tasti di controllo per la Tattica
 ; qstr_Death_Camera|Death Camera
 ; qstr_You_can_give_the_com|You can give the command to row forward, fast forward, backwards, or stay. The up and down arrow keys switch between these commands.^You can also give the command to go straight, starboard, hard starboard, port or hard port. The left and right arrow keys switch between these commands.^Current commands are represented by arrows around the representation of your ship in the upper right corner.^Press Enter to set the sail and backspace to get a wide view of the scene.
 ; qstr_Ship_Control|Ship Control
@@ -1409,7 +1409,7 @@ qstr_Dog|Cane
 ; qstr_While_exploring_an_a|While exploring an abandoned Roman fort, the scout informs you: Commander, we cannot linger here much longer. The enemy is spotted behind the hill. What are your orders?
 ; qstr_Stretched_out_before|Stretched out before you as far as the eye can see stand the remains of a once great wall. The enemy has taken up position just on the other side.^^A witty person next to you mutters: Let's hope it will protect us better than it did the Romans.
 ; qstr_The_scout_returns_an|The scout returns and informs you, 'The enemy is spotted behind the village. The villagers have fled the fields and sought safety in one of the houses. They know all too well the horrors of war.'^^'As do we... As do we...' you find yourself mumbling.
-; qstr_Division_Placement|Division Placement
+qstr_Division_Placement|Formazioni delle Truppe
 ; qstr_Complex_Formations|Complex Formations
 ; qstr_Formations_turned_OF|Formations turned OFF in options menu
 ; qstr_Division_{reg1}_{s2}_g|Division {reg1} {s2} goes to its memorized position...
@@ -1696,7 +1696,7 @@ qstr_The_enemy_has_been_f|Il nemico è stato costretto alla ritirata. L'assalto 
 ; qstr_This_village_and_the|This village and the surrounding lands belong to you.
 ; qstr_You_remember_that_th|You remember that this village and the surrounding lands belong to {s7}.
 ; qstr_These_lands_belong_t|These lands belong to no one.
-; qstr_The_village_is_infes|The village is infested by {reg8} {s35}.
+qstr_The_village_is_infes|Il villaggio è infestato da {reg8} {s35}.
 ; qstr_The_village_has_been|The village has been pillaged. A handful of souls scatter as you pass through the burnt out houses.
 ; qstr_The_village_is_being|The village is being raided.
 ; qstr_{s10}_{s12}^{s11}{s6|{s10} {s12}^{s11}{s6}{s7}{s15}
@@ -1704,7 +1704,7 @@ qstr_No_one_here_seems_to|Nessuno sembra interessato ad unirsi alla tua Compagni
 qstr_Try_as_you_might_you|Hai tentato con tutto il tuo vigore, ma non hai potuto sconfiggere i banditi. Infuriati, razziano il villaggio per punire i contadini, poi si lasciano dietro la bruciante area desolata per trovare pascoli più verdi da saccheggiare.
 qstr_castle|castello
 qstr_The_{s17}_has_no_imp|Il {s17} non ha miglioramenti.
-; qstr_The_{s17}_has_the_fo|The {s17} has the following improvements: {s18}.
+qstr_The_{s17}_has_the_fo|Il {s17} possiede i seguenti miglioramenti: {s18}.
 ; qstr___Christian_riots_co| (Christian riots could cause: {reg33} relations drop)
 ; qstr___Pagan_riots_could_| (Pagan riots could cause: {reg33} relations drop)
 ; qstr_Your_enemies_beat_yo|Your enemies beat you down and leave you for dead.
@@ -2304,7 +2304,7 @@ qstr_we_have_made_very_li|Abbiamo fatto piccolissimi progressi finora...
 qstr_we_have_become_a_sig|Siamo diventati una forza non indifferente, e abbiamo financo una possibilità di vittoria.
 qstr_we_are_winning_the_w|Stiamo vincendo la guerra, ma i nostri nemici stanno ancora resistendo.
 qstr_we_are_on_the_verge_|Siamo a un passo dalla vittoria. I nemici rimanenti non rappresentano una seria minaccia, ma dobbiamo ancora sconfiggerli.
-; qstr_Warlord|Warlord
+qstr_Warlord|Comandante
 ; qstr_Note_5:_You_fell_in_|Note 5: You fell in love with Morrigan.
 ; qstr_{s21}_seems_happy._{|{s21} seems happy. {s21} looks pleased.
 ; qstr___She_smiles.__|--She smiles.--
