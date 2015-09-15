@@ -194,8 +194,8 @@ mno_destruir_campos_a|Pillage farms nearby to replenish your stocks and harm the
 mno_destruir_campos_b|Any news from the men I sent to pillage crops and farms nearby?
 menu_siege_assault|Time is of essence, and you fear the arrival of support force for the place. Assaulting will mean heavy casualties, but you have made up your mind.^^{s17} {s18} {s19}
 mno_scout_investigar|Call the scouts for a report on {s4}.
-mno_poniendo_elementos_mantles|Order the vanguard to use mantlets, and prepare for the charge of the main army.
-mno_poniendo_elementos|Order the vanguard to place assault material for the charge of the main army.
+mno_poniendo_elementos_mantles|Place mantles and assault material for the charge of the main army.
+mno_poniendo_elementos|Place assault material for the charge of the main army.
 mno_castle_lead_attack|The hour has arrived. Lead your soldiers in assault!
 mno_build_mantlet|Build mantlets.
 mno_build_ladders|Build equipment and clear the ground for assault.
@@ -325,7 +325,7 @@ mno_collect_taxes_qst|{reg5?Continue collecting taxes:Collect taxes}.
 mno_train_peasants_against_bandits_qst|Train the peasants.
 mno_village_hostile_action|Take a hostile action.
 mno_village_leave|Leave...
-menu_village_hostile_action|What action do you have in mind?^ (You need over 30 troops.)
+menu_village_hostile_action|What action do you have in mind?^ (You need over 20 troops.)
 mno_village_force_convert|Try to convert the peasants forcefully.
 mno_village_take_food|Force peasants to give you supplies.
 mno_village_steal_cattle|Steal cattle.
