@@ -693,7 +693,7 @@ qstr_{s51}_belongs_to_{s1|{s51} appartiene a {s1} del {s2}.^
 qstr_{s7}_and_{s8}|{s7} e {s8}
 qstr_{s2}It_has_no_villag|{s2} non ha villaggi.^
 qstr_{s2}{reg0?Its_villag|{s2}{reg0?I suoi villaggi sono:Il suo villaggio è} {s8}.^
-; qstr_{s2}Its_prosperity_i|{s2}Its prosperity is: {s50}.
+qstr_{s2}Its_prosperity_i|{s2}La sua prosperità è: {s50}.
 qstr_{s9}_and_{s10}|{s9} e {s10}
 qstr_{s12}{s14}|{s12}{s14}
 qstr_{s12}_{s14}|{s12}, {s14}
@@ -1002,57 +1002,57 @@ qstr_You_start_as_a_lord_|Inizi come lord o lady di una fazione
 qstr_>_Royal_Sandbox_Camp|> Campagna Sandbox Reale
 qstr_You_start_as_leader_|Iniziate come re di una fazione. Lunga vita al re!
 qstr_{s2}^^{s3}|{s2}^^{s3}
-; qstr_STAMINA_>_Realism_Fe|STAMINA > Realism Feature.
-; qstr_This_feature_affects|This feature affects the player and all game characters.^Stamina is calculated from Health and Athletic skills and affects physical endurance during battle. When a character's stamina is exhausted, he or she won't be able to run and his or her weapons' damage will be halved.
+qstr_STAMINA_>_Realism_Fe|VIGORE>Realistico.
+qstr_This_feature_affects|Questa modalità avrà effetto sul giocatore e su tutti i personaggi.^Il Vigore è calcolato in base alla Salute e alle Abilità Atletiche e colpisce la resistenza fisica durante la battaglia. Quando il vigore di un personaggio è esaurito, lui o lei non saranno in grado di correre e il danno delle armi di lei "saranno dimezzate.
 qstr_ARMOR_PENALTY_>_Real|Penalità Armatura > Caratteristica Realismo.
 qstr_This_feature_affects_|Questa caratteristica influisce il giocatore e tutti i personaggi del gioco.^I tuoi punti abilità si deteriorano quando equipaggi armature pesanti. Questa abilità porta migliore equilibrio al gioco, poichè le truppe leggere diventano più importanti.
-; qstr_EASY_RECRUITMENT_>_B|EASY RECRUITMENT > Beginner's Feature.
-; qstr_When_you_ask_permiss|When you ask permission in the villages to recruit, the answer is always positive and without cost. Not recommended for players who like role-play and immersion.
-; qstr_RESTING_MORALE_>_Rea|RESTING MORALE > Realism Feature.
-; qstr_INSANE_DIFFICULTY_>_|INSANE DIFFICULTY > Advanced Player's Feature.
-; qstr_Your_troops_need_thr|Your troops need three times the normal experience to upgrade. Your enemies will cause double damage while you cause only half. Only recommended for hardcore players.
-; qstr_GORE_>_+18_Feature.|GORE > +18 Feature.
-; qstr_DISABLE_SCENIC_MENU_|DISABLE SCENIC MENU > Performance Feature.
-; qstr_Disable_the_3D_view_i|Disable the 3D view in menus to improve the loading time for slower machines.
-; qstr_SHIELD_BASH_>_Realis|SHIELD BASH > Realism Feature.
-; qstr_Player_and_AI_troops|Player and AI troops will be able to bash enemies with their shields.
-; qstr_...Anno_Domini_868..|...Anno Domini 868...
+qstr_EASY_RECRUITMENT_>_B|RECLUTAMENTO SEMPLIFICATO>Principiante.
+qstr_When_you_ask_permiss|Al livello Principiante, quando chiedi il permesso di reclutare in un villaggio, la risposta è sempre positiva e senza alcun costo. Non raccomandato per chi ama il gioco di ruolo e l'immersione.
+qstr_RESTING_MORALE_>_Rea|IL RIPOSO AUMENTA IL MORALE>Realistico.
+qstr_INSANE_DIFFICULTY_>_|DIFFICOLTA' FOLLE> Solo per Player Esperti.
+qstr_Your_troops_need_thr|Le tue truppe hanno bisogno del triplo  dell'esperienza per salire di livello. I tuoi nemici causano il doppio del danno mentre tu ne causi la metà. Consigliato solo per giocatori hardcore.
+qstr_GORE_>_+18_Feature.|GORE > +18.
+qstr_DISABLE_SCENIC_MENU_|DISABILITA MENU' SCENICO>Performance migliore.
+qstr_Disable_the_3D_view_i|Disabilita la vista 3D nei menù per migliorare il tempo di caricamento nelle macchine più lente.
+qstr_SHIELD_BASH_>_Realis|COLPO CON LO SCUDO>Realistico.
+qstr_Player_and_AI_troops|Le truppe del giocatore e AI saranno in grado di colpire i nemici con lo scudo.
+qstr_...Anno_Domini_868..|...Anno Domini 868...
 ; qstr_My_name_is_Beda_the_|My name is Beda the Old, and if you delve into this world, I recommend you listen carefully...^^Britain. The Britons call her Ynys Prydein, the Goidels call her Alba while the Angles and Saxons gave the name of Englaland to the lands they conquered. These islands are large, rich and beautiful... and are coveted. So the land is currently at war and respects only the law of the sword and spear. Realms are born and killed off, and kings die on the battlefield. Women are widowed, and horses carry arms instead of hay. The shouts of warriors fill the air, and the earth lies barren from the trampling of armies. As in past eras of strife, mortal enemies rise, equipped in armour. Ravens are calling, wolves are howling, spears clash and shields answer.^^In the north, the kingdoms of the Angles crumble before the advance of the Danes. The sons of the notorious Viking lord Ragnar, the new lords of these lands, now rule Bernaccia, Deira and Elmet, the land known as Northhymbre.^^In the south, the Saxons of West Seaxe, led by the Brytenwalda Aethelred and his brother Aelfred, prepare for war. They know that on the other side of the sea, more Danes prepare to cross the ocean in search of fame and wealth.^^Pushed into the remote fringes of their native land by centuries of landward invasion, the native Britons now are threatened by Vikings on their coasts. They fight desperately not to lose what little they have left, dreaming of a king to unify them all and lead them to final victory -- a new King Arthur. The reality is that their equitable inheritance laws keep the holdings of each lord small and unity harder to achieve. Nevertheless, one strongman, Rhodri the Great of Gwynedd, has begun to impose his will over the rest of Wales.^^In the lands of the far north, Norwegian invaders thirty years ago wiped out the old competing Gaelic and Pict aristocracies in one fatal blow at a chance three-way battle. After this disaster, Gaelic strongman Cinead McAlpin started to forge a new kingdom out of the two peoples, but they have been driven to the highland center of their former territories.^^Across the sea, in Ireland, Aed 'Fair Warrior' mac Niall of Aileach has emerged as high king in Temair after overcoming his enemies, but it is nothing more than a prestigious title. His claim is never accepted by the other half of the Ui Neill, and the fighting for land, women and cattle, in the sort of fratricidal wars endemic to that land, continues unabated. Meanwhile, both Danish and Norwegian Vikings have established dozens of coastal strongholds. They use the rivers to plunder the Goidelic hinterland, but they are all too prone to join the native conflict -- on all sides.^^^The world is chaos, and chaos is war.
-; qstr_BEDA_CHRONICLE^^{s2}|BEDA CHRONICLE^^{s2}^^ {s3}
-; qstr_{s1}On_head.___{reg2|{s1}On head. (-{reg2} intelligence)^{s2}^^
-; qstr_{s1}On_face.___{reg2|{s1}On face. (-{reg2} charisma)^{s2}^^
-; qstr_{s1}On_body.___{reg2|{s1}On body. (-{reg2} strength)^{s2}^^
-; qstr_{s1}On_limbs.___{reg|{s1}On limbs. (-{reg2} agility)^{s2}^^
+qstr_BEDA_CHRONICLE^^{s2}|CRONACHE DI BEDA^^{s2}^^ {s3}
+qstr_{s1}On_head.___{reg2|{s1}Sulla testa. (-{reg2}intelligenza)^{s2}^^
+qstr_{s1}On_face.___{reg2|{s1}Sulla faccia. (-{reg2} carisma)^{s2}^^
+qstr_{s1}On_body.___{reg2|{s1}sul corpo. (-{reg2} forza)^{s2}^^
+qstr_{s1}On_limbs.___{reg|{s1}sugli arti. (-{reg2} agilità)^{s2}^^
 qstr_Accumulated_Injuries|Lesioni accumulate:^^nessuna
-; qstr_Accumulated_Injuries:|Accumulated Injuries:^^{s1}A physician in a larger town can treat these injuries.
-; qstr_Healing_wounds:^^non|Healing wounds:^^none
-; qstr_Healing_wounds:^^{s1|Healing wounds:^^{s1}These wounds have been treated. They will heal on their own.
-; qstr_{s1}On_head.___{reg1|{s1}On head. (-{reg1} intelligence)^^
-; qstr_{s1}On_face.___{reg1|{s1}On face. (-{reg1} charisma)^^
-; qstr_{s1}On_body.___{reg1|{s1}On body. (-{reg1} strength)^^
-; qstr_{s1}On_limbs.___{reg1|{s1}On limbs. (-{reg1} agility)^^
-; qstr_Scars:^^none|Scars:^^none
-; qstr_Scars:^^{s1}These_in|Scars:^^{s1}These injuries have become permanent. They now can't be cured.
-; qstr_Lifetime_wounds:_{re|Lifetime wounds: {reg1} so far.
+qstr_Accumulated_Injuries:|Infortuni accumulati:^^{s1} Il medico di una città più grande può trattare queste lesioni.
+qstr_Healing_wounds:^^non|Ferite da guarire:^^nessuna
+qstr_Healing_wounds:^^{s1|Ferite da guarire:^^{S1} Queste ferite sono state trattate. Esse guariranno da sole.
+qstr_{s1}On_head.___{reg1|{s1}Sella testa. (-{reg1} intelligenza)^^
+qstr_{s1}On_face.___{reg1|{s1}Sulla faccia. (-{reg1} carisma)^^
+qstr_{s1}On_body.___{reg1|{s1}Sul corpo. (-{reg1} forza)^^
+qstr_{s1}On_limbs.___{reg1|{s1}Sugli arti. (-{reg1} agilità)^^
+qstr_Scars:^^none|Cicatrici^^nessuna
+qstr_Scars:^^{s1}These_in|Cicatrici:^^{S1} Queste lesioni sono diventate permanenti. Ora non possono più essere curate.
+qstr_Lifetime_wounds:_{re|Ferite permanenti: {reg1} finora.
 ; qstr_Current_party_size_l|Current party size limit: {reg0}.^^Renown: {reg34}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Fiefs: {s6}{reg35}^Ships (only in sea): {s7}{reg2}^^{playername} can completely manage {reg36} troops.^{reg59?She:He} currently has {reg37}.
 qstr_^No_food:___{reg7}|^Niente cibo:  -{reg7}
-; qstr_^Wage_debt:___{reg7}|^Wage debt:  -{reg7}
+qstr_^Wage_debt:___{reg7}|^Debito dai salari:  -{reg7}
 ; qstr_Currently_falling_fr|Currently falling from: +
 ; qstr_Currently_rising_fro|Currently rising from: 
 ; qstr_{s11}{s10}{s12}|{s11}{s10}{s12}
 ; qstr_^^These_Christian_tr|^^These Christian troops could cause some morale troubles: {s11}
 ; qstr_^^These_pagan_troops|^^These pagan troops could cause some morale troubles: {s11}
 ; qstr_^^Player_currently_h|^^Player currently has more troops than can be completely managed.
-; qstr_Current_party_morale|Current party morale: {reg5}.^^Base morale:  +{reg8}^Party size penalty: {s2}{reg1}^Lack of rest: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^{s7}{reg4}{s8}{s13}^^{s19}
-; qstr_{s18}^^_____________|{s18}^^----------------^^{s20}
-; qstr_{s17}_^_{s18}|{s17} ^ {s18}
-; qstr_{s15}_^_{s16}|{s15} ^ {s16}
-; qstr_{s22}^^Friends:_^{s8|{s22}^^Friends: ^{s8} ^^Enemies: ^{s6}^{s19}
-; qstr_^^Your_estates_are:_|^^Your estates are: ^{s18}^{s19}
-; qstr_Report:_^^_{s19}|Report: ^^ {s19}
+qstr_Current_party_morale|Attuale morale della compagnia: {reg5}.^^Morale di base:  +{reg8}^Penalità dimensione compagnia: {s2}{reg1}^Mancanza di riposo: {s3}{reg2}^Varietà di cibo: {s4}{reg3}{s5}{s6}^{s7}{reg4}{s8}{s13}^^{s19}
+qstr_{s18}^^_____________|{s18}^^----------------^^{s20}
+qstr_{s17}_^_{s18}|{s17} ^ {s18}
+qstr_{s15}_^_{s16}|{s15} ^ {s16}
+qstr_{s22}^^Friends:_^{s8|{s22}^^Amici: ^{s8} ^^Nemici: ^{s6}^{s19}
+qstr_^^Your_estates_are:_|^^I tuoi possedimenti sono: ^{s18}^{s19}
+qstr_Report:_^^_{s19}|Rapporti: ^^ {s19}
 qstr_On_loan|In prestito,
-; qstr_is_{s16}_for_your_ch|is {s16} for your choice of companions, {s17} for your style of leadership, and {s18} the general state of affairs. Morale is {reg0}
-; qstr_Companions_Info:^^_{|Companions Info:^^ {s19} ^^-----------^^ Currently:^^ {s7}{s1}
+qstr_is_{s16}_for_your_ch|E' {s16} la vostra scelta degli accompagnatori, {s17} il vostro stile di comando e {s18} lo stato generale degli affari. Il Morale è {reg0}
+qstr_Companions_Info:^^_{|Informazioni sui Compagni:^^ {s19} ^^-----------^^ Corrente:^^ {s7}{s1}
 qstr_Loyal|Leale
 qstr_Devoted|Devoto
 qstr_Fond|Affezionato
@@ -1064,22 +1064,22 @@ qstr_Cooperative|Cooperativo
 qstr_Accepting|Bendisposto
 qstr_Indifferent|Indifferente
 qstr_Suspicious|Sospettoso
-; qstr_Unhappy|Unhappy
+qstr_Unhappy|Infelice
 qstr_Resentful|Pieno di risentimento
 qstr_Angry|Adirato
 qstr_Hostile|Ostile
 qstr_Hateful|Pieno d'odio
 qstr_Vengeful|Molto vendicativo
-; qstr_Sworn_Enmity|Sworn Enmity
-; qstr_Your_relation_with_t|Your relation with the kingdoms are:^^{s2}
-; qstr_Build_your_personal_|Build your personal refuge.
-; qstr_You_already_have_a_r|You already have a refuge built. Destroy your current refuge if you want to move it here.
-; qstr_You_don_t_have_enough|You don't have enough money! The workers who would build a refuge for you demand 1000 peningas.
-; qstr_You_need_to_have_mor|You need to have more than thirty men to start this job.
+qstr_Sworn_Enmity|Nemico Giurato
+qstr_Your_relation_with_t|Il tuo rapporto con i regni è:^^{s2}
+qstr_Build_your_personal_|Costruisci il tuo rifugio personale.
+qstr_You_already_have_a_r|Hai già costruito il tuo rifugio. Distruggi prima quello vecchio se vuoi spostarti qui.
+qstr_You_don_t_have_enough|Non hai abbastanza denaro! I lavoratori che devono costruire il rifugio chiedono 1000 denari.
+qstr_You_need_to_have_mor|E' necessario avere più di trenta uomini per iniziare il lavoro.
 qstr_Your_men_await_your_|I tuoi uomini attendono il tuo ordine per iniziare a costruire il rifugio. C'è abbastanza materiale raccolto fino ad ora, e ciò che manca può essere acquistato nei villaggi vicini ^^ Costo totale:.. 1000 peningas ^ Tempo necessario: 6 ore.
-; qstr_{s2}^^_{s3}|{s2}^^ {s3}
+qstr_{s2}^^_{s3}|{s2}^^ {s3}
 qstr_Camping_allows_your_|Il Campo permette ai tuoi uomini di riposare per riprendersi dal duro viaggio. Inoltre consente di sfamarsi e Aumentare le scorte di Cibo. Questo e particolarmente utile durante una campagna in territorio nemico, dove  e difficile comprare rifornimenti.
-; qstr_Traveling_by_sea_exh|Traveling by sea exhausts men completely. Allowing your warriors some rest time will help make the trip more bearable.
+qstr_Traveling_by_sea_exh|Viaggiando in mare gli uomini si stancano molto. Permetti ai tuoi guerrieri di riposare, ciò contribuirà a rendere il viaggio più sopportabile.
 ; qstr_You_are_in_the_kingd|You are in the kingdom of DANMARK.^^Danmark is an important Norse state in the Viking Age. The Danes not only maintain their independence against the powerful Frankish empire but also attack and plunder towns, churches and monasteries throughout Western Europe. Danish Vikings are excellent merchants who trade with most of their known world. A strong central authority has been established in Jutland, and the Danes now look beyond their own territory for land, trade and plunder. While the men are out at sea, the women manage the farms.
 ; qstr_You_are_in_the_kingdo|You are in the kingdom of NORTHVEGR.^^In Northvegr, mountainous terrain and fjords form strong natural boundaries. Communities remain independent of each other, and thirty small kingdoms exist in this land. The most powerful leaders of the petty kingdoms have entered a major power struggle. The sea is the easiest way to communicate between the Norwegian kingdoms and the outside world, and the people have become traders and explorers as well as plunderers. The lack of suitable farming land forces Norwegians to colonize the sparsely populated islands to the west. Norwegians carried out the early Viking raids on Britain and Ireland, but later the Danes joined in.
 ; qstr_You_are_in_the_kingdom|You are in the kingdom of LAITHLIND.^^Laithlind is the Norse-dominated part of Scotland and the Northern Islands, conquered by the Vikings three decades ago. This kingdom has become an operating base for Norwegian expansion in the British Isles. On the other hand, internal strife between the various strongmen is common.
@@ -1101,155 +1101,155 @@ qstr_Camping_allows_your_|Il Campo permette ai tuoi uomini di riposare per ripre
 ; qstr_You_are_in_the_kingdom_of_MI|You are in the kingdom of MIDE.^^Mide means 'middle,' due this kingdom's position in the middle of Ireland. It was created by Tuathal Teachtmhar who, having subdued the rulers of the four kingdoms of Ireland, created his own realm from lands around the Hill of Tara that he annexed from them. Niall of the Nine Hostages later established himself as king of Tara. For six centuries afterward, almost without interruption, his descendants were considered the high kings of Ireland. His son Loegaire succeeded him and welcomed St. Patrick to his court. Niall's sons and grandsons have continued to annex parts of northern Laigin to carve out the sub-kingdoms of Mide and Brega for their descendants. Currently, the Ui Neill of Meath have an arrangement to alternate the crown of High King with their cousins from Ailech, even as they continue to feud.
 ; qstr_You_are_in_the_kingdom_of_AL|You are in the kingdom of ALBAN.^^In the North of Britain, Picts and Scots, with their separate languages, had been traditional enemies. However, both dynasties were nearly destroyed in a chance three-way battle with Vikings. Then Kenneth MacAlpin of the Dal Riata unified the land by somehow finishing off the Pict royal house. However, continued Viking pressure forced him from the coasts and lowlands. He placed the capital of his new kingdom at Forteviot, in old Pictish territory, and moved his religious center to Dunkeld. There he transferred the remains of St. Columba from Iona.
 ; qstr_You_are_in_territory|You are in territory of the clan of OSRAIGE.^^Osraige is one of the largest clans in Ireland. It was the easternmost region within the Kingdom of Mumain until Osraige warlord, Cerball mac Dunlainge, adeptly obtained independence. Cerball at different times fought and allied with Waterford, Dublin, and Aed Findliath, but generally remains at odds with the neighboring, larger kingdoms of Mumain and Laigin.
-; qstr_Plain.|Plain.
-; qstr_Snow.|Snow.
-; qstr_Forest.|Forest.
-; qstr_Snow_Forest.|Snow Forest.
-; qstr_Ocean.|Ocean.
-; qstr_Sea.|Sea.
-; qstr_Standard_Bearer:_{re|Standard Bearer: {reg1}^Leadership Bonus: {reg2} (max 3)
-; qstr_Musician:_{reg1}^Tac|Musician: {reg1}^Tactics Bonus: {reg2} (max 3)
-; qstr_Note:_You_re_close_t|Note: You're close to the enemy settlement, forcing you to exercise caution.
-; qstr_{s16}^^_____________|{s16}^^-------------------^^Camp Info:^^^{s6}^^{s7}^^Terrain around: {s2}^^Scouts: {s5}^^Foragers: {s3}^^Fortified camp {s4}^^{s11}
+qstr_Plain.|Pianura.
+qstr_Snow.|Neve.
+qstr_Forest.|Foresta.
+qstr_Snow_Forest.|Foresta Innevata.
+qstr_Ocean.|Oceano.
+qstr_Sea.|Mare.
+qstr_Standard_Bearer:_{re|Alfiere:{reg1}^Bonus al Comando: {reg2} (max 3)
+qstr_Musician:_{reg1}^Tac|Musico: {reg1}^Bonus alla tattica: {reg2} (max 3)
+qstr_Note:_You_re_close_t|Nota: Sei vicino all'insediamento nemico, occorre estrema cautela.
+qstr_{s16}^^_____________|{s16}^^-------------------^^Informazioni sul Campo:^^^{s6}^^{s7}^^Terreno Circostante: {s2}^^Esploratori: {s5}^^Foraggiatori: {s3}^^Campo fortificato {s4}^^{s11}
 ; qstr_Camp_Info:^^^^Positi|Camp Info:^^^^Position: {s2}^^You're sailing on your boat.^^^^Ship Management:^^If you are next to a coast, you can search for the closest landing point with a right click on your party.
 ; qstr_Camp_Info:^^^^Positio|Camp Info:^^^^Position: {s2}^^You're sailing on your boat.^^^^Ship Management:^^In a sea battle, you can give a 'stand ground' or 'charge' command to your ships by giving it to class number nine, like you give commands to a troop class in a field battle. The first troops in your army list will be together with you on the flagship. The other troops will be in the following ships. You can change your flagship in a port and while camping on the sea. If you are next to a coast you can also split your fleet while camping on the sea or search for the closest landing point with a right click on your party.
-; qstr_Priests_in_followers|Priests in followers' party: {reg1}^Surgery Bonus: {reg2} (max 3)
+qstr_Priests_in_followers|Sacerdoti nella compagnia:{reg1}^Chirurgia Bonus: {reg2} (max 3)
 ; qstr_Women_in_followers__|Women in followers' party: {reg1}^Wound Treatment Bonus: {reg2} (max 3)^^Note: Every 10 women (as refugees, camp women, soldiers' wives and peasants) will give +1 morale each 72 hours. Maximum +10 morale points.
-; qstr_^^^^Followers:^^{s2}|^^^^Followers:^^{s2}^^--------------^^{s3}
+qstr_^^^^Followers:^^{s2}|^^^Seguaci:^^{s2}^^--------------^^{s3}
 qstr_{s5}_has_been_defeat|{s5} è stato sconfitto!
-; qstr_This_lord_is_a_priso|This lord is a prisoner of {s10}
-; qstr_Christian_Lord|Christian Lord
-; qstr_Pagan_Lord|Pagan Lord
+qstr_This_lord_is_a_priso|Questo signore è prigioniero di {s10}
+qstr_Christian_Lord|Signore Cristiano
+qstr_Pagan_Lord|Signore Pagano
 ; qstr_{s37}__his_betrothed|{s37} (his betrothed)
 ; qstr_{s40}._His_love_inte|{s40}. His love interests are reported to be {s37}.
 ; qstr_His_love_interests_a|His love interests are reported to be {s37}.
 ; qstr_{s40}._His_love_inter|{s40}. His love interest is reported to be {s37}.
 ; qstr_His_love_interest_is|His love interest is reported to be {s37}.
-; qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^Kingdom: {s3}^Relation: {reg4}^Centers: {reg5}^{s5}^{s47}
-; qstr_Army_size:_{reg26}|Army size: {reg26}
+qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^Regno: {s3}^Relazioni: {reg4}^Propietà: {reg5}^{s5}^{s47}
+qstr_Army_size:_{reg26}|Dimensione Esercito: {reg26}
 ; qstr_{s40}._His_love_intere|{s40}. His love interest is {s39}.
-; qstr_{s40}._He_is_betroth|{s40}. He is betrothed to {s39}.
-; qstr_{s1}^^{s2}_of_the_{s|{s1}^^{s2} of the {s3}^Relation {reg3}^Last visit {reg4} days ago
-; qstr_{reg2}_warriors_acco|{reg2} warriors accompany the king.
-; qstr_{s2}^^{reg2}_warrior|{s2}^^{reg2} warriors serve various lords of the kingdom.
-; qstr_{s2}^^{reg2}_warriors|{s2}^^{reg2} warriors garrison our towns.
-; qstr_{s2}^^{reg2}_warriors_|{s2}^^{reg2} warriors garrison our forts.
+qstr_{s40}._He_is_betroth|{s40}. è fidanzata con {s39}.
+qstr_{s1}^^{s2}_of_the_{s|{s1}^{s2} del  {s3}^Relazione {reg3}^Ultima visita {reg4} giorni fa
+qstr_{reg2}_warriors_acco|{reg2} guerrieri accompagnano il re.
+qstr_{s2}^^{reg2}_warrior|{s2}^^{reg2} guerrieri servono i vari signori del regno.
+qstr_{s2}^^{reg2}_warriors|{s2}^^{reg2} guerrieri di guarnigione nelle nostre città.
+qstr_{s2}^^{reg2}_warriors_|{s2}^^{reg2} guerrieri di guarnigione nelle nostre fortezze.
 ; qstr_Kingdom_Armies_Repor|Kingdom Armies Report:^Land levy not included^^^{s2}
-; qstr_{s10}Current_fleet:{|{s10}Current fleet:{s0}^^
-; qstr_{s10}Refuge:{s0}^^|{s10}Refuge:{s0}^^
-; qstr_{s10}Port_of_{s9}:{s|{s10}Port of {s9}:{s0}^^
-; qstr_{s10}Landed_ships_ne|{s10}Landed ships next to {s9}:{s0}^^
-; qstr_You_don_t_own_any_sh|You don't own any ships.
-; qstr_Your_ships_with_ship|Your ships with ship type, name, current condition and type of wood: ^^{s10}
+qstr_{s10}Current_fleet:{|{s10}Flotta corrente:{s0}^^
+qstr_{s10}Refuge:{s0}^^|{s10}Rifugio:{s0}^^
+qstr_{s10}Port_of_{s9}:{s|{s10}Porto di {s9}:{s0}^^
+qstr_{s10}Landed_ships_ne|{s10}Navi sbarcate vicino a {s9}:{s0}^^
+qstr_You_don_t_own_any_sh|Non possiedi nessuna nave.
+qstr_Your_ships_with_ship|Le vostre navi per tipo, nome, condizione attuale e tipo di legno: ^^{s10}
 ; qstr_Rents_and_taxes_from|Rents and taxes from the {reg59?queen:king}'s holdings: {reg0} peningas.
-; qstr_{s2}^Taxes_from_king|{s2}^Taxes from kingdom lords: {reg0} peningas.
-; qstr_{s2}^^Kingdom_Total_|{s2}^^Kingdom Total Income: {reg0} peningas.
+qstr_{s2}^Taxes_from_king|{s2}^Tasse imposte dai signori del regno: {reg0} denari.
+qstr_{s2}^^Kingdom_Total_|{s2}^^Introiti Totali del Regno: {reg0} denari.
 ; qstr_Payroll_for_the_{reg|Payroll for the {reg59?queen:king}'s army: {reg1} peningas.
-; qstr_{s3}^Payroll_for_gar|{s3}^Payroll for garrisons: {reg1} peningas.
-; qstr_{s3}^^Kingdom_Total_|{s3}^^Kingdom Total Expenses: {reg1} peningas.
+qstr_{s3}^Payroll_for_gar|{s3}^Libro paga della guarnigione: {reg1} denari.
+qstr_{s3}^^Kingdom_Total_|{s3}^^Spese totali del regno: {reg1} denari.
 ; qstr_Kingdom_Economy_Repo|Kingdom Economy Report:^^INCOME:^Tax losses are variable^^{s2}^^^^EXPENSES:^These values could vary because of events or extraordinary expenses.^^{s3}^^^^The result of the accounts of the realm is: {reg0} peningas
-; qstr_{s4}^^{s2}^Relation:|{s4}^^{s2}^Relation: {s3}^Prosperity: {s50}^Rents: {reg0}^Tariffs: {reg1}
-; qstr_{s5}^^{s2}^Relation:|{s5}^^{s2}^Relation: {s3}^Prosperity: {s50}^Rents: {reg0}
-; qstr_{s2}^No_information.|{s2}^No information. This village is occupied by bandits.
-; qstr_{s6}^^{s2}|{s6}^^{s2}
-; qstr_{s6}^^{s2}^Relation:|{s6}^^{s2}^Relation: {s3}^Prosperity: {s50}^Rents: {reg0}
-; qstr_Kingdom_Centers_Repo|Kingdom Centers Report:^^^--Towns-- {s4}^^^^--Forts-- {s5}^^^^--Villages--{s6}^^
+qstr_{s4}^^{s2}^Relation:|{s4}^^{s2}^Relatione: {s3}^Prosperità: {s50}^Redite: {reg0}^Tariffe: {reg1}
+qstr_{s5}^^{s2}^Relation:|{s5}^^{s2}^Relatione: {s3}^Prosperità: {s50}^Rendite: {reg0}
+qstr_{s2}^No_information.|{s2}^Nessuna informazione. Questo villaggio è occupato dai banditi.
+qstr_{s6}^^{s2}|{s6}^^{s2}
+qstr_{s6}^^{s2}^Relation:|{s6}^^{s2}^Relatione: {s3}^Prosperità: {s50}^Rendite: {reg0}
+qstr_Kingdom_Centers_Repo|Rapporto sulle Propietà del Regno:^^^--Città-- {s4}^^^^--Forti-- {s5}^^^^--Villaggi--{s6}^^
 qstr_Appoint_next_marshal|Nominare il prossimo Comandante in capo
 qstr_Award_{s12}_as_fief|Ottieni {s12} come feudo
-; qstr_Kingdom_Global_Info:|Kingdom Global Info:^^{s10}^^{s9}
-; qstr_From_this_area_you_c|From this area, you can give the following kingdom orders:
+qstr_Kingdom_Global_Info:|Informazioni Globali sul Regno:^^{s10}^^{s9}
+qstr_From_this_area_you_c|Da questa zona, puoi dare questi ordini nel regno:
 ; qstr_>_Order_the_army_to_|> Order the army to gather.^^> Order all resources to be focused on the defense of the kingdom.^^> Order the landed levy to be called out. This is done only in situations of common peril or high campaign, as the levy requires all free and most capable men of fighting age to join.
-; qstr_>_Kingdom_Strategy|> Kingdom Strategy
-; qstr_You_have_given_the_o|You have given the order that all the household armies of your kingdom lords come to you.
-; qstr_You_have_given_the_or|You have given the order to make every effort to defend the kingdom.
+qstr_>_Kingdom_Strategy|> Strategia del Regno
+qstr_You_have_given_the_o|Hai dato ordine che tutti gli eserciti dei signori di tutto il regno vengano da voi.
+qstr_You_have_given_the_or|Avete dato ordine di fare ogni sforzo per difendere il regno.
 ; qstr_The_landed_levy_of_t|The landed levy of the entire kingdom will be called out. Practically every man capable of fighting will join you.
-; qstr_^^^^^^^^{s2}^^{s3}|^^^^^^^^{s2}^^{s3}
-; qstr_ranks|ranks
-; qstr_shield_wall|shield wall
-; qstr_wedge|wedge
-; qstr_square|square
+qstr_^^^^^^^^{s2}^^{s3}|^^^^^^^^{s2}^^{s3}
+qstr_ranks|ranghi
+qstr_shield_wall|muro di scudi
+qstr_wedge|cuneo
+qstr_square|quadrato
 ; qstr_up|up
-; qstr_Division_{reg1}_{s2}|Division {reg1} {s2} forming {s1}.
-; qstr_Not_enough_troops_in|Not enough troops in division {reg1} {s2} to form {s1}.
+qstr_Division_{reg1}_{s2}|Divisione {reg1} {s2} formare il {s1}.
+qstr_Not_enough_troops_in|Non ci sono abbastanza truppe nella divisione {reg1} {s2} per formare il {s1}.
 ; qstr_Division_{reg1}_{s2}_|Division {reg1} {s2} is an {s3} division and cannot form {s1}.
-; qstr_{s1}:_infantry_forma|{s1}: infantry formation disassembled.
-; qstr_{s1}:_archer_formati|{s1}: archer formation disassembled.
-; qstr_{s1}:_skirmisher_for|{s1}: skirmisher formation disassembled.
-; qstr_{s1}:_cavalry_format|{s1}: cavalry formation disassembled.
-; qstr_{s1}:_formation_disa|{s1}: formation disassembled.
-; qstr_Cavalry_formation_di|Cavalry formation disassembled.
-; qstr_The_placement_of_{s1|The placement of {s1} division {reg0} memorized.
-; qstr_The_placement_of_{s1}|The placement of {s1} division {reg0} set to default.
-; qstr_Your_party_s_tactica|Your party's tactical skill limits how far away you can deploy your troops!
-; qstr_...and_attack_enemy_|...and attack enemy {s1} division!
-; qstr_{s2}:_returning_afte|{s2}: returning after destroying enemy {s1} division.
-; qstr_infantry|infantry
-; qstr_archer|archer
-; qstr_cavalry|cavalry
-; qstr_polearm|polearm
-; qstr_skirmisher|skirmisher
-; qstr_mounted_archer|mounted archer
-; qstr_support|support
-; qstr_bodyguard|bodyguard
-; qstr_undetermined_type_of|undetermined type of
-; qstr_Lame|Lame
-; qstr_Swaybacked|Swaybacked
-; qstr_Timid|Timid
-; qstr_Meek|Meek
-; qstr_Stubborn|Stubborn
-; qstr_Heavy|Heavy
-; qstr_Spirited|Spirited
-; qstr_Champion|Champion
-; qstr_Cracked|Cracked
-; qstr_Battered|Battered
-; qstr_Thick|Thick
-; qstr_Reinforced|Reinforced
-; qstr_Rusty|Rusty
-; qstr_Tattered|Tattered
-; qstr_Ragged|Ragged
-; qstr_Crude|Crude
-; qstr_Sturdy|Sturdy
-; qstr_Hardened|Hardened
-; qstr_Lordly|Lordly
-; qstr_Broken|Broken
-; qstr_Bent|Bent
-; qstr_Chipped|Chipped
-; qstr_Strong|Strong
-; qstr_Balanced|Balanced
-; qstr_Tempered|Tempered
-; qstr_Masterwork|Masterwork
-; qstr_Large_Bag_of|Large Bag of
-; qstr_Strength.|Strength.
-; qstr_Shield_skill.|Shield skill.
-; qstr_Power_Throw_skill.|Power Throw skill.
-; qstr_Power_Draw_skill.|Power Draw skill.
-; qstr_Riding_skill.|Riding skill.
+qstr_{s1}:_infantry_forma|{s1}: formazione di fanteria sciolta.
+qstr_{s1}:_archer_formati|{s1}: formazione di arcieri sciolta.
+qstr_{s1}:_skirmisher_for|{s1}: formazione di schermagliatori sciolta.
+qstr_{s1}:_cavalry_format|{s1}: formazione di cavalleria sciolta.
+qstr_{s1}:_formation_disa|{s1}: formazione sciolta.
+qstr_Cavalry_formation_di|Formazione di cavalleria sciolta.
+qstr_The_placement_of_{s1|Il posizionamento della divisione {s1}  in  {reg0} memorizzato.
+qstr_The_placement_of_{s1}|Il posizionamento della divisione {s1}  in  {reg0} default.
+qstr_Your_party_s_tactica|Abilità tattica della tua compagnia limita quanto lontano è possibile dislocare le truppe!
+qstr_...and_attack_enemy_|... e attacca la divisione nemica {s1}!
+qstr_{s2}:_returning_afte|{s2}: ritorna dopo aver distrutto la divisione nemica {s1}.
+qstr_infantry|Fanteria
+qstr_archer|Arcieri
+qstr_cavalry|Cavalleria
+qstr_polearm|Lanceri
+qstr_skirmisher|Schermagliatori
+qstr_mounted_archer|Arciere a Cavallo
+qstr_support|Supporto
+qstr_bodyguard|Guardie del corpo
+qstr_undetermined_type_of|Tipo indeterminato di
+qstr_Lame|Zoppo
+qstr_Swaybacked|Sfiancato
+qstr_Timid|Timido
+qstr_Meek|Mite
+qstr_Stubborn|Testardo
+qstr_Heavy|Pesante
+qstr_Spirited|Vigoroso
+qstr_Champion|Campione
+qstr_Cracked|Rotto
+qstr_Battered|Malandato
+qstr_Thick|Spesso
+qstr_Reinforced|Rinforzato
+qstr_Rusty|Arrugginito
+qstr_Tattered|Malandato
+qstr_Ragged|Logoro
+qstr_Crude|Rozzo
+qstr_Sturdy|Robusto
+qstr_Hardened|Indurito
+qstr_Lordly|Signorile
+qstr_Broken|Rotto
+qstr_Bent|Incurvato
+qstr_Chipped|Scheggiato
+qstr_Strong|Forte
+qstr_Balanced|Bilanciato
+qstr_Tempered|Temprato
+qstr_Masterwork|Capolavoro
+qstr_Large_Bag_of|Grande Borsa di
+qstr_Strength.|Forza.
+qstr_Shield_skill.|Abilità con lo scudo.
+qstr_Power_Throw_skill.|Abilità Lancio Potente.
+qstr_Power_Draw_skill.|Abilità Tiro potente.
+qstr_Riding_skill.|Abilità Cavalcare.
 ; qstr_{s2}_needs_{reg1}_mo|{s2} needs {reg1} more {s1}
-; qstr_You_do_not_have_the_m|You do not have the money to buy the {s0}.
+qstr_You_do_not_have_the_m|Non hai i soldi necessari a pagare il {s0}.
 qstr_you|voi
 ; qstr_You_place_the_{s0}_t|You place the {s0} that {s1} had been using in your baggage.
 ; qstr_You_dump_a_{s2}_in_o|You dump a {s2} in order to keep the {s0} that {s1} had been using.
-; qstr_Unable_to_Equip_Item|Unable to Equip Item
-; qstr_You_need_five_tool_k|You need five tool kits to improve your refuge!
-; qstr_You_need_five_timber|You need five timber pallets to improve your refuge!
-; qstr_No_staff_have_been_h|No staff have been hired.
-; qstr_To_hire_workers_you_|To hire workers, you need to select them from the list. If the list is empty, you may need to increase your renown or improve your refuge for them to come and offer their services.
-; qstr_Name:_Marcus.|Name: Marcus.
-; qstr_Occupation:_This_cap|Occupation: This captain is already working for you.
-; qstr_Occupation:_Captain^|Occupation: Captain^Initial Cost: 500^Weekly cost: 55^Notes: helps manage your refuge and develop the improvements you need.
-; qstr_Name:_Father_Beda.|Name: Father Beda.
-; qstr_Occupation:_This_pri|Occupation: This priest is already working for you.
-; qstr_Occupation:_Priest^I|Occupation: Priest^Initial Cost: 250^Weekly cost: 30^Notes: encourages the practice of Christianity among your troops.
-; qstr_Name:_Godi_Olafr.|Name: Godi Olafr.
-; qstr_Occupation:_Godi^Ini|Occupation: Godi^Initial Cost: 250 ^Weekly cost: 30^Notes: encourages the practice of paganism among your troops.
-; qstr_Name:_Skald_Bragi.|Name: Skald Bragi.
-; qstr_Occupation:_This_bar|Occupation: This bard is already working for you.
-; qstr_Occupation:_Skald^In|Occupation: Skald^Initial Cost: 200^Weekly cost: 40^Notes: fills your halls with inspiring Nordic music.
-; qstr_Name:_Bard_Siwi.|Name: Bard Siwi.
-; qstr_Occupation:_Bard^Ini|Occupation: Bard^Initial Cost: 200 ^Weekly cost: 40^Notes: fills your halls with inspiring English music.
-; qstr_Name:_Casius.|Name: Casius.
-; qstr_Occupation:_This_man|Occupation: This man is already working for you.
-; qstr_Occupation:_Bottler^|Occupation: Bottler^Initial Cost: 100^Weekly cost: 10^Notes: necessary complement for your mead hall.
+qstr_Unable_to_Equip_Item|Non puoi equipaggiare questo
+qstr_You_need_five_tool_k|Hai bisogno di cinque scatole di atrezzi per migliorare il tuo rifugio!
+qstr_You_need_five_timber|Hai bisogno di cinque pacchi di legno per migliorare il tuo rifugio!
+qstr_No_staff_have_been_h|Non hai assunto nessuno.
+qstr_To_hire_workers_you_|Per assumere lavoratori è necessario selezionarli dalla lista. Se l'elenco è vuoto, potrebbe essere necessario aumentare la tua fama o migliorare il tuo rifugio permettendogli di venire a offrire i propri servizi.
+qstr_Name:_Marcus.|Nome: Marcus.
+qstr_Occupation:_This_cap|Occupazione: Questo capitano attualmente lavora per te.
+qstr_Occupation:_Captain^|Occupazione: Capitano^Costo iniziale: 500^ Costo settimanale: 55^ Nota: aiuta nella gestione del tuo rifugio e a sviluppare i miglioramenti necessari.
+qstr_Name:_Father_Beda.|Nome: Padre Beda.
+qstr_Occupation:_This_pri|Occupazione: Questo prete lavora attualmente per voi.
+qstr_Occupation:_Priest^I|Occupazione: Prete^Costo iniziale: 250^Costo settimanale: 30^Nota: incoraggia la pratica del cristianesimo tra le tue truppe.
+qstr_Name:_Godi_Olafr.|Nome: Godi Olafr.
+qstr_Occupation:_Godi^Ini|Occupazione: Godi,prete pagano^Costo iniziale: 250 ^Costo settimanale: 30^Nota: incoraggia la pratica del paganesimo tra le tue truppe.
+qstr_Name:_Skald_Bragi.|Name: Skald Bragi.
+qstr_Occupation:_This_bar|Occupazione: Questo bardo lavora già per te.
+qstr_Occupation:_Skald^In|Occupazione: Skald,bardo,cantastorie^Costo iniziale: 200^Costo settimanale: 40^Nota: riempe le tue sale con raffinata musica Nordica.
+qstr_Name:_Bard_Siwi.|Name: Bardo Siwi.
+qstr_Occupation:_Bard^Ini|Occupazione: Bardo^Costo iniziale: 200 ^Costo settimanale: 40^Nota: riempe le tue sale con raffinata musica Inglese.
+qstr_Name:_Casius.|Nome: Casius.
+qstr_Occupation:_This_man|Occupazione: Questo uomo lavora già per te.
+qstr_Occupation:_Bottler^|Occupazione:: Bottler^Costo iniziale: 100^Costo settimanale: 10^Nota: necessario per completare la sala dell'idromele.
 ; qstr_Name:_Suaibsech.|Name: Suaibsech.
 ; qstr_Occupation:_This_wom|Occupation: This woman is already serving you.
 ; qstr_Occupation:_Happy_Wi|Occupation: Happy Widow^Initial Cost: 300^Weekly cost: 25^Notes: The best way to make your men happy.
@@ -1546,9 +1546,9 @@ qstr_{s2}|{s2}
 ; qstr_The_night_falls_whil|The night falls while the ship, the Woden Ric, crosses the ocean. There is a good wind and the Woden Ric enjoys good sailing away from the site of the battle where it stopped in the morning. The Frisian coast is near by the time you fall asleep.^The ship sails during the night while the shift rotates at the rudder. If all goes well, landfall will occur the next day, and you'll be a little closer to your destination.^If all goes well... if only your nights were not filled with nightmares of ships consumed by fire and drowned men floating on bloody water. You are trapped in this way, costing you escape even to the world of dreams, when a hand shakes you, and a voice calls loudly near your ear.^You open your eyes and see the taciturn face of the captain illuminated by the light of dawn.  You see his lips moving frantically and gradually begin to understand his words...^^
 qstr_Back_to_the_beginnin|Indietro fino all'inizio...
 qstr_View_next_segment...|Guarda la prossima parte...
-; qstr_{s11}_{s12}|{s11} {s12},
-; qstr_These_Christian_troo|These Christian troops could cause some problems with party morale: {s11}
-; qstr_These_pagan_troops_c|These pagan troops could cause some problems with party morale: {s11}
+qstr_{s11}_{s12}|{s11} {s12},
+qstr_These_Christian_troo|Queste truppe cristiane potrebbero causare alcuni problemi al morale della compagnia:{s11}
+qstr_These_pagan_troops_c|Queste truppe pagane potrebbero causare alcuni problemi al morale della compagnia:{s11}
 ; qstr_Current_party_morale_|Current party morale is {reg5}.^Current party morale modifiers are:^^Base morale:  +{reg6}^Party size penalty: {s2}{reg1}^Lack of rest: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^Recent events: {s7}{reg4}^{s13}^^TOTAL:  {reg5}^^^
 qstr_Selected_faction_is:|La fazione selezionata è: {s10}^^{s9}
 qstr_You_are_currently_re|Al momento stai leggendo {s8}.
@@ -2032,7 +2032,7 @@ qstr_Your_party_has_gaine|La tua compagnia ha guadagnato morale.
 ; qstr_You_feel_good_for_hel|You feel good for helping him.
 ; qstr_When_you_give_him_ar|When you give him armor and food, he proves to be a mighty warrior.
 ; qstr_The_bandits_turn_awa|The bandits turn away, greatly disappointed.
-; qstr_After_two_hours_the_|After two hours, the bandits return with some loot and someone's head...
+qstr_After_two_hours_the_|Dopo due ore, i banditi tornano con il bottino e la testa di qualcuno...
 ; qstr_On_the_remains_of_a_|On the remains of a corpse are a sword and armor of a king. They turn out to be magnificent weapons, once the rust is removed to reveal their high quality. Now they are yours -- if you do not mind the bad luck that attends grave robbers.
 ; qstr_Someday_perhaps_you_|Someday, perhaps, you might have the honor of being buried like a king.
 ; qstr_Meat_is_a_welcome_ad|Meat is a welcome addition to the diet of your men.

@@ -179,7 +179,7 @@ menu_castle_besiege|Sei sotto assedio {s1}. {s2}^^{s15} {s16} {s17} {s18} {s19} 
 mno_siege_request_meeting|Chiedi un incontro con il comandante del castello.
 mno_siege_warfare_p|Guerra d'assedio (Pianifica Assedio).
 mno_siege_assault_p|Guerra d'assedio (Prepara l'assalto).
-; mno_siege_assault_camp|Your Siege Camp.
+mno_siege_assault_camp|Il tuo Accampamento d' Assedio.
 mno_wait_24_hours|Aspetta fino a domani.
 menu_siege_plan|Ti incontri con i tuoi consulenti per pianificare l'assedio e cercare di conquistare {s4} con le minor perdite possibili. La tua strategia potrebbe essere quello di portare il posto alla carestie e alla demoralizzazione.^^{s15} {s17} {s18} {s19} {s20}
 mno_build_circunvalation|Bloccare: costruisce posti di blocco intorno {s4}
@@ -193,7 +193,7 @@ mno_build_varios|Ordina la costruzione di servizi igienico-sanitari per prevenir
 mno_destruir_campos_a|Saccheggia le fattorie vicine per risanare le tue scorte e danneggiare il nemico.
 mno_destruir_campos_b|Novità dagli uomini che ho inviato a saccheggiare coltivazioni e fattorie vicine?
 menu_siege_assault|Il tempo è essenziale, e si teme l'arrivo dei rinforzi per il posto. Assaltare significherà pesanti perdite, ma avete fatto la vostra parte. ^^ {s17} {s18} {s19}
-; mno_scout_investigar|Call the scouts for a report on {s4}.
+mno_scout_investigar|Chiama gli esploratori per fare rapporto su  {s4}.
 mno_poniendo_elementos_mantles|Ordina all'avanguardia di utilizzare i Mantelletti e di prepararsi per la carica dell'esercito principale.
 mno_poniendo_elementos|Ordina all'avanguardia di piazzare il materiale d'assalto per la carica dell'esercito principale.
 mno_castle_lead_attack|È arrivata l'ora. Guida i tuoi soldati all'assalto!
@@ -231,18 +231,18 @@ menu_emboscada_victory|Il traditore conduce i tuoi uomini attraverso la notte ad
 menu_traicion_resultado5|Quando i tuoi uomini ritornano, ti dicono che hanno contattato un uomo che ha il controllo delle razioni, e ha promesso di aumentare il prezzo del cibo ai suoi concittadini per seminare il malcontento, che li rende più propensi abbandonare la fortezza.
 mno_traicion_moral|Perfetto!
 menu_traicion_lucha|I tuoi uomini e quelli del nemico combattono fino alla morte ai piedi delle mura, dove tutto è sfavorevole per le tue truppe. Li guardi mentre combattono e si ritirano verso di voi. Molti corpi rimangono idietro. ^ ^ le tue vittime: {s8} ^ ^ vittime del nemico: {s9}
-; mno_regreso_luchar|Well, no one gets left behind.
+mno_regreso_luchar|Bene, non lasciamo indietro nessuno.
 menu_infiltracion_resultado1|Sono tornati senza notizie. Non sono riusciti ad entrare nell'insediamento.
-; mno_back_behindi|Just bad luck, I guess.
+mno_back_behindi|Solo sfortuna, immagino.
 menu_infiltracion_resultado2|Signore! I nostri uomini sono stati scoperti in {s4}. Purtroppo, nessuno è tornato. Sono stati tutti uccisi o catturati.
 mno_muertos_infiltrado|Notizie terribili.
 menu_infiltracion_resultado3|Vittoria! Sono riusciti a bruciare diversi negozi di alimentari. Il nemico è demoralizzato. Forse è il momento di chiedere la resa.
-; mno_back_to_siegei|Well, give them a barrel of mead.
+mno_back_to_siegei|Bene, dai loro un barile di idromele.
 menu_infiltracion_resultado3_c|Vittoria! Hanno ucciso molti bovini e contaminato le riserve di acqua. Il nemico è demoralizzato e il loro Signore ha perso fama. Forse è il momento di chiedere la resa.
-; mno_back_to_siegein|Well, give them a barrel of mead.
+mno_back_to_siegein|Bene, dai loro un barile di idromele.
 menu_infiltracion_resultado4|I tuoi uomini sono tornati. Mi hanno riferito che alcuni guerrieri sono insoddisfatti, e alcuni sono convinti di passare al tuo fianco. Se siete d'accordo, loro lasciaranno la città questa notte per unirsi al vostro esercito. Prima di andarsene, promettono di causare disordini per facilitare la resa del luogo.
 mno_aceptar_si|Sono i benvenuti.
-; mno_leave_men1|It makes me uneasy. Forget about it.
+mno_leave_men1|Mi mette a disagio. Dimenticatene.
 menu_infiltracion_resultado4_c|I tuoi uomini sono tornati. Mi hanno detto che hanno avvelenato l'acqua di alcuni pozzi e nelle vicinanze di corsi d'acqua. Questo dovrebbe far ammalare molti nella guarnigione.
 mno_aceptar_oki|Questa è una buona notizia. Lascerà meno uomini per difendere le mura.
 menu_infiltracion_resultado5|Oh, signore. Il nemico ha inviato un sacco con le teste dei tuoi uomini. Alcuni dei nostri soldati hanno visto, e la paura dilaga nel campo.
@@ -252,7 +252,7 @@ mno_back_behind_d|Ben fatto, non ti preoccupare.
 menu_campos_cercanos2|Sir, coltivazioni e allevamenti sono stati bruciati, e siccome è la stagione abbiamo raccolto cibo in abbondanza.
 mno_back_behind_c|Ben fatto, il cibo è sempre benvenuto.
 menu_campos_cercanos2_c|Sir, coltivazioni e allevamenti sono stati bruciati. Il grano è ancora verde, ma commestibile. Abbiamo raccolto cibo in abbondanza.
-; mno_back_behind_cc|Well done, food always is welcome.
+mno_back_behind_cc|Ben fatto, il cibo è sempre benvenuto.
 menu_campos_cercanos3|Sir, Abbiamo bruciato i campi, ma siccome è stato dopo il periodo di raccolto, non c'è rimasto grano. Comunque, i contadini hanno risparmiato un po' del loro bestiame.
 mno_back_behind_bc|Il cibo è sempre benvenuto.
 menu_campos_cercanos4|Abbiamo incontrato problemi. I campi sono stati bruciati, ma gli agricoltori ci hanno respinto con supporto da alcuni membri della guarnigione.^^Le tue vittime: {s8}^^Vittime del nemico: {s9}
@@ -261,8 +261,8 @@ menu_poner_escaleras|La tua avanguardia avanza, porta scale, pale e altro equipa
 mno_back_behind_esc1|I tuoi uomini hanno incontrato il nemico. E' il tuo momento...
 menu_poner_escaleras_mantlets|La tua avanguardia avanza, porta scale, pale e altro equipaggiamento d'assedio utile... Un gruppo di uomini armati con armi a distanza avanza, protetti dai mantelletti, attirano i proiettili dei nemici. Il tuo cuore batte nella sua gabbia toracica. In qualche modo, tutte le battaglie sembrano essere le prime.^Il brivido, il terrore e il sudore sono sempre li. Noti come i tuoi uomini fanno una formazione di scudi e avanzano oltre le mura. L'utilizzo del mantelletto salva molte vite.^^Le tue perdite: {s8}^^Perdite del nemico: {s9}
 mno_back_behind_esc2|I tuoi uomini hanno incontrato il nemico. E' il tuo momento...
-; menu_informacion_ciudad|A scout appears before you: '{s11}^{s12}{s1}{s5}{s17}'
-; mno_regreso_luchain|Thank you. Your information is important!
+menu_informacion_ciudad|Un esploratore appare davanti a voi: '{s11}^{s12}{s1}{s5}{s17}'
+mno_regreso_luchain|Grazie. Le tue informazioni sono importanti!
 menu_castle_besiege_inner_battle|{s1}
 menu_build_mantles2|I mantelletti aiutano a proteggere i tuoi uomini nel momento in cui devono usare l'equipaggiamento d'assalto. molte vite vengono salvate. Come membro della compagnia con il più alto abilità in Ingegneria, ({reg2}), {reg3?prevedi:{s3} prevede} che ci vorrà {reg4} ore per costruire dei mantelletti.
 mno_build_mantles|Fallo.
@@ -387,7 +387,7 @@ menu_village_loot_no_resist|Gli abitanti del villaggio sono pochi e impauriti, s
 mno_village_enslave|Schiavizza gli abitanti.
 mno_take_supplies1|Prendi le merci.
 menu_village_loot_no_resist_population_flee|Molti abitanti sono scappati quando hanno visto il tuo esercito. Il villaggio è alla tua merce'.
-; mno_village_lootflee|Plunder the village, then raze it.
+mno_village_lootflee|Saccheggia il paese, poi radilo al suolo.
 mno_take_supplies1flee|Prendi le merci.
 mno_village_raid_leaveflee|Lascia stare questo villaggio.
 menu_village_loot_complete|Al tuo ordine, i soldati saccheggiano il villaggio, depredandolo di ogni oggetto di valore e infine dando fuoco agli edifici. Tra monete e oggetti di valore, ottieni {reg1} denari.
@@ -610,7 +610,7 @@ menu_notification_casus_belli_expired|Regno che non reagisce^^Il {s1} non ha ris
 menu_notification_lord_defects|Defezione: {s4} ha abbandonato il {s5} e si è unito a {s7}, portando {reg4?her:his} i suoi feudi con sè
 menu_notification_treason_indictment|Accusa di tradimento^^{s9}
 menu_notification_border_incident|Incidente di confine^^ In giro si dice che {s9}. Anche se non sai se le voci sono vere, sai una cosa - questo episodio apparentemente minore ha suscitato passioni tra le persone del {s4}, rendendo più facile per loro andare in guerra contro il {s3}...
-; menu_notification_player_faction_active|You now possess land in your name, without being tied to any kingdom. This makes you a monarch in your own right, with your court temporarily located at {s12}. However, the other kings in the Northlands will at first consider you a threat, for if any upstart warlord can grab a throne, then their own legitimacy is called into question.^^You may find it desirable at this time to pledge yourself to an existing kingdom. If you want to continue as a sovereign monarch, then your first priority should be to establish an independent right to rule. You can establish your right to rule through several means -- marrying into a high-born family, recruiting new lords, governing your lands, treating with other kings, or dispatching your companions on missions.^^At any rate, your first step should be to appoint a chief minister from among your companions, to handle affairs of state. Different companions have different capabilities.^You may appoint new ministers from time to time. You may also change the location of your court, by speaking to the minister.
+menu_notification_player_faction_active|Ora possiedi terre in tuo nome senza avere legami rispetto ad alcun regno. Questo fa di te un monarca a pieno titolo, con la tua corte temporaneamente localizzata a {s12}. Tuttavia, gli altri re di queste terre ti considereranno per prima cosa una minaccia, perché se uno dei signori della guerra può afferrare un trono, allora la loro legittimità viene messa in discussione.^^Potresti trovare opportuno in questo momento legarti ad un regno già esistente. Se vuoi continuare come un monarca autonomo, allora la tua prima priorità dovrebbe essere stabilire un autonomo diritto di governare. Puoi formalizzare il tuo diritto a regnare in diversi modi -- matrimonio con una famiglia di alto rango, reclutando nuovi signori, disciplinando le tue terre, trattando con altri re, o mandando i tuoi compagni in missione.^^In ogni caso, il primo passo dovrebbe essere quello di nominare un primo ministro tra i tuoi compagni, per gestire gli affari di stato. I compagni hanno capacità diverse l'uno dall'altro.^Tu puoi nominare nuovi ministri di volta in volta. È inoltre possibile modificare la sede della tua corte, parlando al ministro.
 mno_appoint_spouse|Nomina tua moglie, {s10}...
 mno_appoint_npc1|Nomina {s10}
 mno_appoint_npc2|Nomina {s10}
@@ -662,11 +662,11 @@ mno_cattle_ok2c|Cinque.
 mno_cattle_ok3c|Lascia stare.
 menu_notification_player_feast_in_progress|Festa in preparazione^^Tua moglie ha iniziato i preparativi per una festa nella Sala del lord a {s11}
 menu_notification_lady_requests_visit|Un'anziana donna si avvicina alla tua Compagnia e passa ad uno dei tuoi uomini una lettera, sigillata con la cera. È indirizzata a te. Quando rompi il sigillo vedi che proviene da {s15}. Scrive, 'Mi sono così divertita durante la tua ultima visita. {s14} Sono attualmente a {s10}.{s12}'
-; mno_continuewo|Tell the woman to inform her mistress that you will come shortly.
-; mno_continuewo2|Tell the woman to inform her mistress that you are indisposed.
+mno_continuewo|Di alla donna di informare la sua padrona che arriverai a breve
+mno_continuewo2|Di alla donna di informare la sua padrona che sei indisposto.
 menu_garden|{s12}
 mno_nurse|Vai con l'ancella
-; mno_nurse2|Wait by the spring
+mno_nurse2|Attendi alla sorgente
 menu_kill_local_merchant_begin|Individui la tua vittima e la segui, osservando quando entra in un vicolo buio. Questa sarà sicuramente la tua migliore opportunità per attaccarlo.
 menu_debug_alert_from_s65|DEBUG ALERT: {s65}
 menu_auto_return_to_map|stub
@@ -689,7 +689,7 @@ menu_notification_relieved_as_marshal|{s4} desidera informarti che i tuoi servig
 ; menu_monasterio_visit|You arrive at a monastery. The place stretches out wide, with a church, rooms for the monks and their servants, and large gardens with livestock pens. This place certainly treasures wealth!^^{s13}
 mno_enter_interiorm|Visita l'abate.
 mno_enter_interiorm_door|All'abate.
-; mno_entermo|Visit the monastery.
+mno_entermo|Visita il monastero.
 mno_entermo_door|Parti.
 mno_monasterio_recruitm|Chiedi se qualcuno vuole unirsi a voi.
 mno_donatemo|Fai una donazione al monastero (500 peningas).
@@ -703,7 +703,7 @@ mno_leavemo|Parti.
 mno_enter_hofho_door|Parti.
 mno_hof_recruitho|Prova a reclutare un berserker.
 ; mno_donate_hofho|Make a donation to the hof (500 peningas).
-; mno_convertir_norsegho|Convert to follow Norse gods.
+mno_convertir_norsegho|Convertili a seguire gli Dei Nordici.
 mno_camp_wait_hereho|Aspetta qui per un po' di tempo.
 ; mno_pillage_hofho|Pillage the Hof.
 mno_leaveho|Parti.
@@ -716,14 +716,14 @@ mno_acept_themmo|Assoldali. (20 peningas)
 mno_back_to_town_menumo|Torna indietro.
 menu_refugee_recruit_troops22|Nessuno vuole unirsi a voi.
 menu_refugee_recruit_troops32|Ci sono alcuni pastori e contadini che vogliono unirsi al tuo esercito.
-; mno_acept_themmo2|Hire them. (60 peningas)
+mno_acept_themmo2|Assoldali. (60 denari)
 menu_refugee_recruit_troops42|Ci sono un chierico e alcuni giovani soldati interessati a unirsi al tuo esercito.
-; mno_acept_themmo3|Hire them. (400 peningas)
+mno_acept_themmo3|Assoldali. (400 denari)
 menu_berserker_recruit_2troop|Ci sono due Ulfhednar che vogliono unirsi a noi.
-; mno_acept_thempa|They are welcome!
+mno_acept_thempa|Sono i benvenuti.
 mno_back_to_town_menupa|Torna indietro.
 menu_berserker_recruit_troop|C'è un berserker che vuole unirsi a noi.
-; mno_acept_thempa2|He is welcome!
+mno_acept_thempa2|Sei il benvenuto.
 mno_back_to_town_menupa2|Torna indietro.
 menu_nonberserker_avaiable_troop|I berserker non vogliono unirsi a noi.
 menu_nonberserker_renown_low|Sembri un mendicante, non un leader da seguire. Hai bisogno di più fama (> 150) affinche i berserker vogliano unirsi alla tua compagnia.
@@ -739,18 +739,18 @@ mno_defendiendo_1e|Dannazione!
 mno_defendiendo_2e|Ben fatto.
 ; menu_escaramuza_3|Upon approaching the enemy, our men found the enemy commander had deployed missile troops to protect his army's advance. To avoid losing men, your soldiers did not attack and returned.
 mno_defendiendo_3e|Destra.
-; menu_lucha_2_no|There seems to be no one willing to duel.
+menu_lucha_2_no|Nessuno sembra essere disposto a duellare.
 mno_defendiendo_4e|Indietro.
 ; menu_lucha_1_d|An enemy warrior moves towards your army and stops a stone's throw away. He takes a lamb skin filled with mead from around his neck and throws it to the ground. You see him jump to warm up his muscles. He casts aside his cloak, removes his robe and boots and stands naked, equipped only with spear and shield. He is their champion, and he points to your army challenging your men to face him.^^Before you can speak, a boy runs out from the ranks. He isn't a veteran or the most capable of your troops, but he's certainly brave.^^Your warrior, your champion, advances to the enemy. They circle each other, studying each other's moves. Your warrior's nerves fail, and he gives a jab with his spear, lowering his shield. The enemy champion seizes the opportunity and swiftly plunges the blade of his spear into the heart of your warrior...^^You have lost the duel.
 mno_defendiendo_5e|Indietro.
 ; menu_lucha_2_v|One of your men breaks away from the ranks and saunters towards the enemy, then turns, pulls his coat halfway up, and shows his ass. An enemy champion runs towards him, enraged, and tosses a javelin. It is a wild shot that falls a few feet from your warrior. The enemy then draws his sword and charges with a cry.^^Your man quickly prepares himself and stands his ground, waiting with a spear rocking in his hand. Each champion batters the other's shield in an effort to hit home.^^Watching closely, you observe the first blood spilled, and then the last as your champion thrusts his spear through the mouth of his opponent. After catching his breath, your champion turns around and shouts to your men: 'I was too big a mouthful!'^^You have won the duel.
 mno_defendiendo_6e|Indietro.
-; menu_lucha_1_p|The chief of your enemies stands out in front of his army and points towards you, inviting you to a duel.
+menu_lucha_1_p|Il capo dei vostri nemici si staglia davanti al suo esercito e punta verso di voi, invitandovi a duello.
 mno_defendiendo_7e|Accetta.
 mno_defendiendo_8e|Indietro.
-; menu_sacrificio_off|The gods remain mute to your prayers and sacrifices.
+menu_sacrificio_off|Gli dei restano muti di fronte alle vostre preghiere e ai vostri sacrifici.
 mno_sacri_1s|Indietro.
-; menu_sacrificio_1|The viscera of the slaughtered animals are full of worms: a bad omen.^^Maybe you should not fight today.
+menu_sacrificio_1|Le viscere degli animali macellati sono piene di vermi: un cattivo presagio^^Forse non dovresti combattere oggi.
 mno_sacri_1s2|Indietro.
 ; menu_sacrificio_2|As you look down at the blood of the slaughtered animal, one of your men points to the horizon where an eagle takes flight with a snake in its claws. A good omen indeed.^^The time is ripe to attack the enemy.
 mno_sacri_1s3|Indietro.
@@ -761,85 +761,85 @@ mno_sacri_1s5|Indietro.
 ; menu_discurso_off|You also step forward and try to make condescending remarks, but it's not convincing. Your nerves betray you, and you are unable to articulate a single word.
 mno_defendiendo_1_bd|Indietro.
 ; menu_discurso_1|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'When the young men and beautiful women of your village ask you where you got your battle scars, you can tell them, 'under arms in the greatest army, with the greatest general that Britannia and Hibernia have ever seen!'
-; mno_defendiendo_1_cd|Excelent speech. Back.
+mno_defendiendo_1_cd|Eccellente discorso. Indietro.
 ; menu_discurso_2|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'When the young men and beautiful women of your village ask you where you got your battle scars, you can tell them, 'under arms in the greatest army, with the greatest general that Britannia and Hibernia have ever seen!'
-; mno_defendiendo_1_dd|Normal speech. Back.
+mno_defendiendo_1_dd|Bel discorso. Indietro.
 ; menu_discurso_3|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'And to think that right now, across Bryten, cowards and old men are herding their goats, tending their crops, toiling and sweating for nothing! Yet here we freemen stand. Our own toil is about to begin. Our own sweat and blood are poised to run. For what? For honor! For glory! For wealth!'
-; mno_defendiendo_1_ed|Good speech. Back.
+mno_defendiendo_1_ed|Buon discorso. Indietro.
 ; menu_discurso_4|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'From all across this land we have travelled to meet our destinies on this field of battle, at this moment in time. Long after we have all expired, men will sing our names in their songs. They will sing of the greatness we shall find here in these fields!'
-; mno_defendiendo_1_fd|Good speech. Back.
+mno_defendiendo_1_fd|Buon discorso. Indietro.
 ; menu_discurso_5|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'Brothers! Once you were born; later, you grew into men. Yesterday we marched; today we fight! Today we spill the blood of the host of our enemies and bring them to ruin. Today we smash their shields. All the days of your lives have led to this. Today we conquer together as brothers. Tonight we feast at the table of the enemy!'
-; mno_defendiendo_1_gd|Good speech. Back.
+mno_defendiendo_1_gd|Buon discorso. Indietro.
 ; menu_discurso_6|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'Men! My brothers! Lo, we have marched these many days. Your prize yet waits! The prize, glory, comes from the groans of your enemy! Now go! Go to your destiny! Take your prize! Fight! Fight! Fight!'
 mno_defendiendo_1_hd|Indietro.
 ; menu_discurso_7|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'Friends! Hear me! Now is the day when the songs of our hearths are written with the blood of our foes! You are free men! None can assault our lands and stand to tell the tale. The host before us is great. They do not fight to defend their homes but to plunder yours. They will fall! Ready your spears! Hold fast, and never yield! No man will yield his land or his glory to the cowards in the rabble before us. Fight! Die, but never yield! Never, never, never!'
-; mno_defendiendo_1_id|Good speech. Back.
+mno_defendiendo_1_id|Buon discorso. Indietro.
 ; menu_discurso_8|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'Men, we stand before our enemy, ready for battle. Draw your sword! Take hold of your spear! This shield wall is our home, so let us welcome our enemy! Let him come! Let the shield walls strive one against the other! All that is needed is your own arm and your own heart. Within this shield wall you shall stand, my brothers. I know that within the breast of each man here is a fire so bright that I say these walls protect our foes and not us! Our fate is glory! No man can take that unless you give it to him.'
-; mno_defendiendo_1_jd|Good speech. Back.
+mno_defendiendo_1_jd|Buon discorso. Indietro.
 ; menu_discurso_9|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'Come, men! Let us go forth and face our foe on the field of battle! With men like you, our shield wall will never break or fall to those craven dogs who come against us here! Like the heroes of old, let us go and make a slaughter, every man a hero, every man a true man! This day, we will make gluttons of the ravens!'
-; mno_defendiendo_1_kd|Good speech. Back.
+mno_defendiendo_1_kd|Buon discorso. Indietro.
 ; menu_discurso_10|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'Remember your children and your wives. Remember your homes and your ancestors. Remember your gods and everything for which we fight today. We are here to build a better world! These men facing us know it, and fear our determination. They are so afraid, they piss their pants and shake like leaves, unable to hold their spears.  Men! I am with you, with my sword and my shield, bleeding and sweating, proud to stand shoulder to shoulder with such titans. Men, our fate awaits us. It's time for us to seize it!'
-; mno_defendiendo_1_l|Good speech. Back.
+mno_defendiendo_1_l|Buon discorso. Indietro.
 ; menu_discurso_11|You inspect the troops and move among them.  While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'Let us go out from this burning place into the open and stand up to our enemies. He who dies shall be with our god. He who dies not, his name will be honoured. I go first, and what I do, you do. May God be my witness, I will never leave you, my brothers and fellow knights!'
 mno_defendiendo_1_ll|Indietro.
 ; menu_discurso_12|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'The sun will set on our enemy this evening, but we shall shine as the rays of the sun on a spring day. You may be nervous and trembling now, but your shaking hands are nothing compared to theirs. They are but autumn leaves in the wind; we are the howling storm that will scatter them across the meadows, never to be seen again. Brandish your spears. Be the thunder that topples their tree. This land is ours -- these woods, these hills, these fields -- and so shall it be season after season, year after year, forever and ever!'
-; mno_defendiendo_1_m|Excellent speech. Back.
+mno_defendiendo_1_m|Eccellente discorso. Indietro.
 ; menu_doccinga_messenger|A farmer approaches, beating a squalid mule. He stops in front of you, takes a breath and shouts,^^'Sven Bull Neck is advancing on Doccinga with three ships! Thonkrik sent me to warn you. {s4} won't come; he has left us to luck! I will give the news to the other jarls, but they are Danish and do not worry about Frisians. Please, we need your help. Save our people!'^^The farmer kicks his mule and rides away from you. His desperate words, 'Save our people,' remain in your mind, an echo of distress.
 mno_choice_01mess_1|Continua
 ; menu_doccinga_messenger2|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'Thonkrik seeks your presence in Doccinga, {playername}. He has captured a prisoner from Sven Bull Neck's Viking raiders in the recent battle.^He thinks you'll be interested in interrogating him and requests that you go to see him as soon as you can. Thonkrik does not know how long he can hold the prisoner before the king or jarl claims him.'
-; mno_choice_01mess2_1|Tell Thonkrik that the message has been received.
+mno_choice_01mess2_1|Informa Thonkrik che il messaggio è stato ricevuto.
 ; menu_doccinga_c_assault|From a hill near Doccinga, you can see that the townspeople are fleeing. Some of the braver ones and a few of the king's men are trying to form a shield wall at the beach, ready to defend their possessions or, in the worst case, to protect their loved ones' escape.^^Far off, in the sea, you distinguish three Viking warships. You cannot see them well from this far, but it isn't hard to imagine that they are full of warriors.^^Your mind cannot help but return to memories of that naval battle where Sven Bull Neck attacked your ship. Now, finally, the big Viking is again within reach.^^From Doccinga, you notice that a man leaves, running. He looks like a warrior. Noticing you, he heads towards you...
-; mno_choice_01ass_1d|Advance to help Doccinga and meet the warrior.
+mno_choice_01ass_1d|Avanza in aiuto di Doccinga e incontra il guerriero.
 mno_choice_doccinga|Ho bisogno di reclutare piu' uomini.
 mno_encounter_save|Ritornero' piu' tardi. Doccinga non puo' aspettare.
-; menu_doccinga_c_assaultnoche|It's late at night, and your men need some rest. Come back in the morning.
+menu_doccinga_c_assaultnoche|E' tarda notte, i tuoi uomini hanno bisogno di un po' di riposo. Tornate al mattino.
 mno_choice_01assault_3d|Continua.
 ; menu_noaccessallowed|Having too many men in your party will cause people to fear that you plan to attack. You may wish to put some men in camp quarters for now.
 mno_choice_01nall_3d|Continua.
 ; menu_doccinga_c_assault2|As you approach the village, you see the queue of refugees fleeing Doccinga. They walk loaded with all their belongings and pull heavy wagons, so they move very slowly. If you don't stop the Vikings on the beach, all the refugees will die at their swords.
-; mno_choice_01ent_1e|Enter Doccinga.
+mno_choice_01ent_1e|Entra a Doccinga.
 ; menu_doccinga_victory|Blood drips from your hand to your elbow. Around you, there is only death, and your ears are filled with the groans of the dying.^^The Vikings, defeated, have returned to the sea, leaving behind many dead and wounded, but the cost has been very high.^^Sven Bull Neck was not among the assailants, and that surprises you, as the boats were his. Where then is your hated enemy?^^Thonkrik's words resonate in your mind. Perhaps it is time to pay a visit to the jarl of Kennemer. He has some explanations to give.
 mno_choice_01vic_1|Continua
 ; menu_frisa_proscrito|The time given by the jarl of Kennemer to leave Doccinga is over. Now you are an outlaw in Friese.
 mno_choice_01poc_1a|Continua
 ; menu_thiaderd_muerto|The fight was tough. Thiaderd's men fought like lions, but your troops managed to finish them off.^^Thiaderd's corpse is among the bodies of his warriors. You have done your part; all that's left is to loot Thiaderd's camp, located just ahead.
 mno_choice_01_1ath|Continua
-; menu_thiaderd_battle|The battle is inevitable. Thiaderd is furious upon seeing Reginhard and orders his men to attack.
+menu_thiaderd_battle|La battaglia è inevitabile. Thiaderd è furioso nel vedere Reginhard e ordina ai suoi uomini di attaccare.
 mno_choice_01_thiaderd|Alla battaglia!
 menu_camp_thiaderd|{s5}
 mno_talk_to_thiaderd|Parla agli uomini.
-; mno_kill_thiader_fam|Kill them all and pillage and burn the camp.
-; mno_loot_thiader_fam|Loot the lair, but spare the inhabitants.
+mno_kill_thiader_fam|Uccidili tutti, saccheggia e brucia il campo.
+mno_loot_thiader_fam|Saccheggia il covo ma risparmia gli abitanti.
 mno_no_kill_thiader_f|Non siamo assassini! Lasciamoli vivere in pace.
 mno_choice_farmth|Ho bisogno di reclutare piu' uomini.
 mno_encounter_savefarmth|Parti.
 ; menu_frisa_beach|The sea breeze caresses your face. You hear the seagulls over your head, and the smell of salt is getting stronger. In the distance, you distinguish the silhouette of a boat on a hidden beach. It is the ship that Thonkrik told you about... your ship.
-; mno_enterbea|Walk down to the beach.
-; mno_leavebea|Come back later.
+mno_enterbea|Prosegui a piedi lungo la spiaggia.
+mno_leavebea|Torna più tardi.
 ; menu_sven_lair|On the banks of a river, you distinguish a Viking fort. You've found the hideout of Sven!^It is a good place with a small port for ships, easy to defend. Behind the wall, between the houses, you can see some warriors. You cannot count them all without being seen, but it seems there a few dozen of them in there.^In the middle of the fort, you see some prisoners prepared for sale. Could your mother be among them?
-; mno_talk_to_fort_leader|Request a meeting with the leader of the fort.
-; mno_enter_to_buy_prisoners|Enter the fort and buy the prisoners.
+mno_talk_to_fort_leader|Richiedi un incontro con il comandante del forte.
+mno_enter_to_buy_prisoners|Entra nel forte e compra i prigionieri.
 mno_initial_attack|Attacco a sorpresa.
 mno_nosurprise_attack|Assalto Totale!
-; mno_conquestsl_attack0|Sven's men watch my army. I must return later.
-; mno_conquestsl_attack|Conquer Sven's hideout!
+mno_conquestsl_attack0|Gli uomini di Sven osservano il mio esercito. Dovrò tornare più tardi.
+mno_conquestsl_attack|Conquista il nascondiglio di Sven!
 mno_choice_fort|Ho bisogno di reclutare piu' uomini.
 mno_encounter_savefort|Lascia.
 ; menu_sven_lair_comprado|You leave behind Sven Bull Neck's hideout. You've decided to achieve your goals through diplomacy, to prevent casualties among your men.^^Now there's a new man in your party, an old friend, the Cantabrian, Bodo. Just outside Sven's hideout, he asks you to walk away with him. He wants to tell you what happened after Sven's attack on the Woden Ric.
 mno_talk_to_bodo|Parla con Bodo.
 ; menu_svenlair_victory|After a tough battle, your men have defeated the Vikings protecting the hideout. In one of the houses, you find three prisoners: two women and one man. The women are unknown to you, perhaps prisoners from other Viking raids, but the man is Bodo, the Cantabrian who traveled with you aboard the Woden Ric.^^Bodo joins your party. An old friend is back. He asks you to walk away with him. He wants to tell you what happened after Sven Bull Neck's attack on the Woden Ric. But first, you need to decide what to do with Sven's hideout.
-; mno_take_itv|It is a good place. I order my men to clean it up for me.
-; mno_destroy_itv|Bah. I order my men to pillage and destroy it.
+mno_take_itv|E' un buon posto. Ordini ai tuoi uomini di ripulirlo per te.
+mno_destroy_itv|Bah. Ordini ai tuoi uomini di saccheggiarlo e raderlo al suolo.
 ; menu_sven_lair_final|Fate is playing with you. First, everything was pointing to your mother's death. You were driven partly by the need to survive, but mainly by revenge: find Sven Bull Neck and kill him. But, now that your mother is still alive and in the hands of your enemies, your priority is to find and rescue her.
 mno_travel_sv|Vai.
 ; menu_svenlair_victory_conquista|After a tough battle, your men have defeated the Vikings protecting the hideout. You need to decide what to do with it.
-; mno_take_itsl|It is a good place. I order my men to clean it up for me.
-; mno_destroy_itsl|Bah. I order my men to pillage and destroy it.
+mno_take_itsl|E' un buon posto. Ordina ai tuoi uomini di ripulirlo per te.
+mno_destroy_itsl|Bah. Ordini ai tuoi uomini di saccheggiarlo e raderlo al suolo.
 ; menu_farmstead_sigurd|A dirt road leads to a large fence, beyond which several houses have been built. It seems like a prosperous place, home to a rich man.^From where you are, you can see some men moving around. Everything seems quiet.
-; mno_enter_to_farmstead|Enter the farmstead.
+mno_enter_to_farmstead|Entra nella fattoria.
 mno_encounter_savefarm|Lascia.
 ; menu_farmstead_sigurd2|It is not long before your lookouts warn you that a party of men is approaching. The tension is thick on the farm, but Egil, positioned on a hill, sends a word not to worry, because the visitors carry the banners of the king.^^King Horik is sending reinforcements!
-; mno_talk_kingleader|Talk to the man who leads them.
+mno_talk_kingleader|Parlate con l'uomo che li conduce.
 ; menu_farmstead_sigurd3|You discover that the farm is a good place to spend a day away from the dangers and difficult decisions of the road. For a moment, you dream that the farm is yours. You cultivate the fields, direct the slaves, and have each day bettered by the following. {s2}. You see yourself sitting on a bench at the door, watching the sunset or the dawn... Is this what you want? Or would it be too much of the same for you? No matter, you still have many things to do before thinking of a quiet life.^On the second day, one of your lookouts alerts you about armed men approaching. They are numerous and carry the banner of Sigurd 'Snake in the Eye.' Without having to give orders, your men pick up their weapons, put on their armor, and they run to the farm entrance to form their shield wall.
 mno_enter_to_battlefs|Inizia lo scambio.
 ; menu_farmstead_sigurd4|You look at the men who came. They are many, maybe more than sixty, and they're well armed. A prisoner is pushed ahead with his head covered with a sack...
@@ -847,14 +847,14 @@ mno_choice_01_sigur|Entra.
 ; menu_hablar_olvir|After a brutal combat, Ulf's farm is covered with corpses. Your men roam between the bodies, finishing off the wounded and taking everything that is of value. You look at Egil, who's cutting off the finger of a dying warrior to take a golden ring; then at Brunhild, who's watching with horror all the carnage; then at Reginhard, who's laughing sitting on a corpse. You, yourself do not know how you feel. Somebody said once that war changes people, that it is a voracious demon that devours your soul. Have you changed? Are you different?^^Your thoughts are broken when two of your soldiers bring before you Olvir. He's still alive, but not for long. The blood gushes from his side... unstoppable.
 mno_talk_to_olvir|Parla a Olvir.
 ; menu_doccinga_prisonerjoined|While you travel, a man comes to your army. A few yards away, he puts down his weapons and shows his bare hands. You barely recognize him. It is the same man whom you interrogated in Doccinga, the Viking captain that you had let live.
-; mno_talk_to_captain|Hear what he has to say.
+mno_talk_to_captain|Ascolta quello che ha da dire.
 ; menu_entregar_bodo|Two of Sigurd's men follow you to Bodo, who offers no resistance when you explain the situation. While Sigurd's men lead him away, he stops before you, looking at you with teary eyes. Brunhild and Reginhard don't seem happy with your choice.
 mno_talk_to_bodoentregado|Parla con Bodo.
-; menu_arboleda_conrey|You follow the king to a nearby grove, away from prying eyes and ears.
+menu_arboleda_conrey|Segui il re in un boschetto vicino, lontano da occhi e orecchie indiscrete.
 mno_talk_to_reyhorik|Parla a Re Horik.
-; menu_arboleda_conrey2|You follow the king to a nearby grove, away from prying eyes and ears.
+menu_arboleda_conrey2|Segui il re in un boschetto vicino, lontano da occhi e orecchie indiscrete.
 mno_talk_to_reyhorik2|Parla a Re Horik.
-; menu_meeting_ragnarssons|Several men come to meet you at the gates of Snotingaham. Though armed, they do not threaten but seem happy to see you.
+menu_meeting_ragnarssons|Diversi uomini vengono verso di voi all'ingresso  Snotingaham. Anche se armati, non sono minacciosi, anzi sembrano felici di vederti.
 mno_talk_to_siegemen|Parla con loro.
 ; menu_primer_barco|You have obtained your first ship. A ship doesn't simply make it feasible for you to cross the sea. It makes you rich if you engage in trade across the sea. It makes you a feared man if you make quick raids on settlements on the coast. It makes you a ruler if you conquer foreign lands. The Norsemen say it will even bring you to the after-life.^^However, traveling on a ship is also dangerous. The sea is like an open grave beneath the hull, awaiting you and your men. The storms of winter will harm your ships, but calm weather isn't much better, because it forces your men to row. To avoid overtaxing the crew, it is customary to stop traveling at night and to rest on land.^^A ship is also a valuable possession. The owner should always keep an eye on it.^^Come back to this place as soon as you want to sail...
 mno_choice_01_1bar|Continua.
@@ -863,64 +863,64 @@ mno_lugar_des|Vai.
 ; menu_banquete_moral_refuge|Order your men to leave their weapons outside and invite them to your great hall, to sit at your table by rank. The nearest and dearest sit closest to you. Some girls serve meat and mead in large quantities.^^You've spent a small fortune on this feast because your men deserve it. They are the ones who bleed with you, who have helped you conquer your domains. They are your faithful followers.^^The evening progresses. Many men are as drunk as vats. They shout and sing. Some run off to vomit and others fight like gamecocks to attract the attention of a girl. Behind you, a bard sings of your power and deeds.^^You act like a warlord. You are a warlord... a 'shepherd of men.'
 mno_banquete_okr|Bevi, ridi e gridi in maniera sfacciata.
 mno_banquete_ok2r|Rimani sobrio, gusti la bevanda, ma non bevi più del necessario.
-; mno_banquete_ok3r|You call your men and give them rings and bracelets (2000 peningas).
+mno_banquete_ok3r|Chiama i suoi uomini e dona loro anelli e bracciali (2000 denari).
 ; menu_player_lair_menus|{s10} Your very own refuge, a hidden retreat free from enemies, where you can hide when things go badly, rest from your travels, or save your most personal of treasures.^^{s11}^^{s13}
-; mno_banquete_refugemead|My men deserve a banquet in my refuge.
-; mno_guarida_rename|Rename your refuge.
-; mno_lair_interior|Go to the refuge's hall.
-; mno_lair_interior_door|Gate to your refuge.
-; mno_visit_tavern_lair|Go to the mead hall.
-; mno_visit_tavern_lair_door|Door to the mead hall.
-; mno_lair_buildings_improve|Talk to your captain.
-; mno_lair_buildings_improve_door|Gate to your refuge.
-; mno_hirelair_staff|Hire staff.
-; mno_lair_inspect|Take a walk around your refuge.
-; mno_lair_inspect_door|Go to the square.
+mno_banquete_refugemead|I miei uomini meritano un banchetto al mio rifugio.
+mno_guarida_rename|Rinomina il tuo rifugio.
+mno_lair_interior|Vai alla sala del rifugio.
+mno_lair_interior_door|Cancello del tuo rifugio.
+mno_visit_tavern_lair|Vai alla sala dell'idromele.
+mno_visit_tavern_lair_door|Porta alla sala dell'idromele.
+mno_lair_buildings_improve|Parla col capitano.
+mno_lair_buildings_improve_door|Cancello del tuo rifugio.
+mno_hirelair_staff|Assumi personale.
+mno_lair_inspect|Passeggia per il tuo rifugio.
+mno_lair_inspect_door|Vai alla piazza.
 mno_mylair_station_troops|Amministra la guarnigione.
-; mno_demoler_lair|Demolish your personal refuge.
+mno_demoler_lair|Demolisci il tuo rifugio.
 mno_lair_wait|Aspetta qui per un po' di tempo.
 mno_embarkre|Imbarcarsi.
 mno_lair_leave|Parti...
 mno_lair_leave_door|Lascia quest'area.
-; menu_demoler_lairm|Are you sure you want to demolish your refuge?
+menu_demoler_lairm|Sei sicuro di volerlo demolire?
 mno_demoler_yes|Sì (1000 peningas).
 mno_demoler_no|Ritorna.
-; menu_conversacion_companions1|As you stop to rest on the way, your companions approach you, led by Brunhild. She has something to say.
-; mno_talk_to_brunhild|Listen to Brunhild.
-; menu_conversacion_companions2|As you stop to rest on the way, your companions approach you. Their faces show concern.
+menu_conversacion_companions1|Appena fermati per riposarsi dalla strada, i tuoi compagni si avvicinano, guidati da Brunhild. Lei ha qualcosa da dirti.
+mno_talk_to_brunhild|Ascolta Brunhild.
+menu_conversacion_companions2|Appena fermati per riposarsi dalla strada, i tuoi compagni si avvicinano. I loro volti mostrano preoccupazione.
 mno_talk_to_companions2|Ascoltali.
-; menu_conversacion_companionsbodo_choice|As you stop to rest on the way, your companions approach you, led by Bodo. He has something to say.
-; mno_talk_to_bodochoice|Listen to Bodo.
-; menu_caio_entry|Your men have notified you that someone is here to visit you. It is a lanky boy, looking happy. Surely it is the son of the Old Roman.
+menu_conversacion_companionsbodo_choice|Appena fermati per riposarsi dalla strada, i tuoi compagni si avvicinano, guidati da Bodo. Lui ha qualcosa da dirti.
+mno_talk_to_bodochoice|Ascolta Bodo.
+menu_caio_entry|I tuoi uomini ti hanno comunicato che qualcuno è qui a farti visita. Si tratta di un ragazzo alto e magro, sembra felice. Sicuramente è il figlio di qualche Antico Romano.
 mno_talk_to_caio|Continua.
 ; menu_egil_conversacion|Your men have notified you that someone is coming towards you. It is a single figure, who advances without hiding and with full confidence. He is a tall man, robust and of proud bearing. When he arrives before your men, he shows open hands, so all can see that he is not armed. He seeks you with his eyes and walks towards you. One of your men stops him with his spear...
 mno_talk_to_egil|Continua.
 ; menu_aghatinos_conversacion|On one side of the road, a man is awaiting sitting on a big rock. He is thin, tall, and is dressed in poor clothing. He seems harmless enough. Calmly, the stranger waits until you come close to him. His eyes are searching through the faces of your men until they stop on you, then he gets up and walks to you.
 mno_talk_to_aghatinos|Parla con lui.
-; menu_egil_rebelion|It seems that something is wrong. You hear screaming and see that Egil is heading your way.
-; mno_talk_to_egilreb|Listen to Egil.
-; menu_egil_rebelion2|Egil's body lies at your feet, delivered to eternal sleep. Some of your followers take his body away for burial. Egil was a beloved member of your party, and his death weighs heavily among your warriors.
-; mno_permitir1|Join the men who bury Egil and pay the costs of his burial.
-; mno_permitir2|Allow them to bury Egil.
-; mno_permitir3|Do not allow your men to bury Egil. Leave his corpse to the crows!
-; menu_egil_duel|Egil moves toward you. The men close around the two of you. It's you or him...
+menu_egil_rebelion|Qualcosa non va. Senti delle urla e vedi che Egil che si dirige verso di te.
+mno_talk_to_egilreb|Ascolta Egil.
+menu_egil_rebelion2|Il corpo di Egil è ai tuoi piedi, morto. Alcuni dei tuoi uomini raccolgono il suo corpo per la sepoltura. Egil era un membro amato nella tua compagnia e la sua morte pesa tra i tuoi guerrieri.
+mno_permitir1|Unisciti agli uomini che seppelliscono Egil e paga le spese della sepoltura.
+mno_permitir2|Consentigli di seppellire Egil.
+mno_permitir3|Non permettere ai suoi uomini di seppellire Egil. Lascia il suo cadavere ai corvi!
+menu_egil_duel|Egil si muove verso di te.. Gli uomini si chiudono intorno a voi. Solo uno dei due sopravviverà...
 mno_fight_egilrebdu|Combatti.
 menu_backfrom_frankia|{s4}
 mno_choice_01_1frankia|Continua
 ; menu_cueva_odin|The smell of the sea is pervasive in this area, and the rumble of the waves crashing against the cliffs resonates in your head like thunder. There is a path, very narrow at the end of a beach, where you distinguish traces of men. It is a difficult way that you can only follow on your own, so you order your people to wait behind while you investigate.
 mno_enterod|Avvicinati.
-; mno_enterod2|It looks like someone's den. Investigate.
+mno_enterod2|Sembra il nascondiglio di qualcuno. Indaga.
 mno_choice_od|Ho bisogno di reclutare piu' uomini.
 mno_encounter_savefarmod|Parti.
 ; menu_orm_duel|You move from the farm to a clearing, where Ulf's thralls are preparing a ritual circle of stones that mark the boundary of the dueling area. Around you, all the men from the farm and your men form another circle to cheer you on.^^In front of you, Orm the Black warms his oversized muscles. He seems confident. Perhaps, given his spotless record of wins, he can't be said to be too confident. Your companions give you pats on the back, advice and wishes for good luck. All but Reginhard, who is pessimistic and says he will record the runes on your gravestone. Suddenly, Egil points toward Orm. The berserker has ceased to warm up his muscles. His body convulses uncontrollably, and his mouth foams white. Suddenly, he lifts his head and, looking at you with bloodshot eyes, shouts something unintelligible. He launches himself towards you like a viper, much more quickly than one would expect from such a large man...
-; mno_duel_orm|Jump to the fray.
+mno_duel_orm|Entra nella mischia.
 ; menu_orm_duel_win|Orm the Black's corpse lies at your feet. Your arms are sore from blocking the brutality of his attacks, and your mind keeps replaying the more desperate moments of the duel. You wonder at the fury of Orm and his apparent immunity to pain. There's no doubt you're lucky, for you have just survived a fight with a berserker!
-; menu_viking_duel_win|The duel is over, and you have defeated {s1}. The skalds will talk about your victory, and the fame of your feat will spread by the word of mouth.
-; menu_viking_duel_lose|{s1} was an opponent too skilled for you. You have been defeated. While {s1}'s fame will grow from the victory, thanks to the songs of the skalds, men will remember your name only as that of the beaten.
+menu_viking_duel_win|Il duello è finito e tu hai sconfitto {s1}. I cantastorie parleranno tua vittoria e la fama della tua impresa si diffonderà di bocca in bocca.
+menu_viking_duel_lose|{s1} era un avversario troppo esperto per te. Sei stato sconfitto. Mentre la fama di {s1} crescerà grazie alla sua vittoria, gli uomini si ricorderanno del tuo nome come quello dello sconfitto.
 menu_duel_troop_rebelion|{s4}
-; mno_duel_rebelion|Accept the challenge.
-; menu_duel_rebelion_enemyback|Frightened by your fierceness, your opponent in the end refuses to face you in duel. He withdraws while your troops tease him for his cowardice.
-; menu_duel_rebelion_win|The duel is over. Your enemy lies on the ground, defeated by your skill with weapons. You hope that this serves as a warning to other potential rivals. Now your mission is to restore confidence and improve your army's morale.
+mno_duel_rebelion|Accetta la sfida.
+menu_duel_rebelion_enemyback|Spaventato dalla tua fierezza, il tuo avversario, alla fine si rifiuta di affrontarti in duello. Si ritira mentre le tue truppe lo prendono in giro per la sua vigliaccheria.
+menu_duel_rebelion_win|Il duello è finito. Il tuo nemico giace a terra, sconfitto da vostra abilità con le armi. Speri che questo serva da lezione per altri potenziali rivali. Ora la tua missione è quella di ripristinare la fiducia e migliorare il morale dei tuoi uomini.
 ; menu_thething_messenger|A messenger approaches, beating his horse. He stops in front of you, takes a breath and shouts,^^'My King, Horik of Danmark, invites you to the Assembly being held near Ribe. Since it is going to be about your complaint with Sven Bull Neck and Sigurd Ragnarsson, you must go soon, or the judgment of the Assembly will go against you.'^^The messenger then kicks his mount and rides away.
 mno_choice_01_1thing|Continua
 ; menu_the_holmgang|A group of heavily armed men approaches you. It is led by Harald Haraldsson, king's right hand, who reminds you of your promise at the Assembly. It is the hour of the holmgang and your opponent is already on Short Island. They surround your party and lead you to a nearby beach, where a gaunt old man waits in a small boat. You get in the boat, and two of Harald's men push it into the water. The old man, without a word to you, begins paddling toward an island on the horizon.
@@ -932,22 +932,22 @@ mno_choice_01_2duelhom|Duello.
 mno_enter_thing|Avvicinati.
 mno_encounter_leavethething|Lascia.
 ; menu_partida_ribe_fleet|Since your arrival, there has been a great hubbub in the port of Ribe. Eight hundred Vikings and their captains have been boarding their ships in order of arrival, while slaves load baggage, supplies, and even animals. Most of the ships are the Knorr type, cargo ships, but there are also a good two dozen warships.^^You spend nights on your ship, while during the day you help as you can. Your warriors kill time enjoying the hospitality of the neighbors and happy widows. You have had no chance to get close to Sven Bull Neck or, rather, to his ship, but you hear that he and Harald, the two people in charge of the fleet, have been arguing over all types of stupid things. Some of Harald's men have even been stabbed in the streets.^^Finally, after everyone has prepared for the long journey, the fleet rows out of Ribe to follow the Whale Route, leaving Danmark behind.
-; mno_choice_01_3dfl|Join the expedition.
+mno_choice_01_3dfl|Unisciti alla spedizione.
 ; menu_partida_ribe_fleet2|By now, the differences between Sven Bull Neck, protected by Jarl Sigurd, and Harald Haraldsson, protected by King Horik, are so clear that the fleet progresses divided in two, depending on who supports which commander.^^But it's not the time for worry. The sea brings wind and the freedom of the waves, and your ship is heading for Englaland where rivers carry silver and men get fame. And now you're closer than ever to Sven Bull Neck. You just wait for your chance to kill him and rescue your mother... Fate always rewards the patient.
 ; menu_sven_attack_fleet|The journey from Ribe to Eoferwic or, as the Danish call it, Jorvik is three days with good weather, but with the slower knorrs, the trip will take a day or two more. The ships have spread out, but this is usual. When traveling with sail, the winds govern at will. The ships will reunite at their destination.^^A long trip like this requires a routine. Men take turns in the work of the boat, even at night, because the fleet never stops offshore. The smell of the crowded men is horrible, the water you drink and food you eat taste terrible, and it is always uncomfortable having to peer over the stern when you want to relieve yourself.^^Eventually, the rift between Harald and Sven becomes open. Each now meets separately with the captains who are faithful to him. Each part of the fleet proceeds separately. Harald has called you and the other captains to his boat for an emergency meeting. Apparently, one of the captains faithful to Sven Bull Neck has changed his allegiance to Harald and brings news.^^You look forward to the meeting as well. Maybe there is finally news of your mother.
-; mno_choice_mettingcap|Captains' meeting.
+mno_choice_mettingcap|Riunione dei Capitani.
 ; menu_playerflee_svenattack|Behind you fades the battle, the pitiful cries of the wounded, and the clash of swords. You leave behind Harald Haraldsson's army while Sven Bull Neck's men massacre them. Your mission now is to go to Englaland to find Rathbarth Ragnarsson and tell him what happened and how Sven Bull Neck betrayed the king's men.
 mno_choice_flee1|Fuggire.
 ; menu_way_to_douaranenez|You join the fleet, and immediately the sailors unlash the boats and pull the halyards to raise the sails. The breeze stirs the cloth, and the ships begin to move. The captains shout orders to their crews, which start to row. Moved by sail and oars, the fleet leaves the harbor and heads for open water.
-; mno_choice_01_3ddouar|To Douar-an-Enez.
+mno_choice_01_3ddouar|Per Douar-un-Enez.
 ; menu_way_to_douaranenez2|You spend days at sea, uncomfortable on a boat with so many men. There is no space for privacy and tranquillity. The smell of stale sweat, urine and sebum fills the air, even above the salty scent of the sea.^The climate is mild: no storms, no wind, despite the early appearance of fog. In fact, with so little wind, the fleet advances slowly, making the trip longer.^^Finally, from a nearby ship, one of the lookouts points to the horizon, and you can see Douar-an-Enez. In the bay of the village, there are more than 40 boats, many of them in the sea, lashed together in battle formation. One ship leaves the group and heads towards you...
-; mno_choice_d1douar2|Join the parley.
+mno_choice_d1douar2|Unisciti al colloquio.
 ; menu_way_to_douaranenez3|Behind you, you hear discussion in the village. There seems to be dissension in the camp of the Astures. You hear swords and shouting.^^But none of that matters to you at the moment. In full sail, a Cantabrian ship takes you to where your boat awaits. You see, in the distance, your fleet maneuvering to confront their attackers. Gundinsalvo travels with you. He is serious, very serious, despite the buffoonery at the meeting. He looks to where the two fleets jockey for position with their oars. His face is fierce, that of a seasoned warrior who does not fear death. As soon as your ship arrives, it rows toward your fleet. It's time to take control...
 mno_choice_douarbdouar3|Alla battaglia.
 ; menu_way_to_douaranenez4|The sea has become a hell of fire, blood and death. Victory is yours, but many have been left behind, overcome by the edge of the sword, including the Cantabrian, Gundinsalvo.^^The naval battle was pure delirium of madness, but now your enemies flee. They are seeking to take refuge in Douar-an-Enez, but your warriors have pursued them, sparking a new battle in the little village. It is where you left Bodo, who attempts to bring together the Asturians and coordinate their efforts.^^It's your turn to join the fight...
 mno_choice_douard4|Sbarcare.
 ; menu_way_to_douaranenez5|Douar-an-Enez is not the place it was when you first arrived. Now there are only fire and death... Its inhabitants have been turned over to torment, and you doubt that someday someone would dare repopulate this cursed place.^^You hear the plaintive cry of your own injured people, and men wander past you staring into the distance, still shocked by the battle. You remember how Bodo died in the fight and last time you shared with him. His mission failed with persistent inevitability. There is no longer a fleet from the Kingdom of Asturias, only a few Cantabrians who have joined your cause after losing their own leader, Gundinsalvo. Now you are their leader. Some of your men dedicate themselves to finishing off the enemy and seizing their possessions.
-; mno_choice_douarb15|Claim your share of the spoils.
+mno_choice_douarb15|Richiedi la tua parte di bottino.
 mno_choice_douarb26|Lascia tenere tutto il bottino ai tuoi uomini.
 ; menu_bjorn_camp|On a hill, the Danish have built a small camp. Counting the number of tents that you can see, you figure that there are between 250 and 300 men. On one of the tents waves the banner of Bjorn, one of the most famous sons of Ragnar.^^A couple of men stop you, but they let you pass as soon as you identify yourself, as if they were advised of your arrival.
 mno_enter_bjorncamp|Entra nell'accampamento.
@@ -955,482 +955,482 @@ mno_enter_bjorncamp2|Indaga.
 ; menu_nothingam_siege|Down in the distance, you see two Saxon and Angle camps surrounding Snotingaham. The camps are large, capable of holding thousands of men, and there are also patrols of warriors around the perimeter of the city, making sure that no one goes in or out. From this far away, you can just distinguish the silhouettes of Danish warriors as they patrol around the walls of the fortress. They are certainly in a compromising situation in terms of numbers, and the food is running out every day.
 ; mno_mierce_patrols|Go to Snotingaham, passing between Mierce patrols.
 mno_choice_snott|Ho bisogno di reclutare altri uomini.
-; menu_nothingam_siege2|You leave behind Snotingaham and return to the forest...
+menu_nothingam_siege2|Lasci Snotingaham dietro di te e ritorni nella foresta...
 ; mno_mierce_patrols2|Go to Snotingaham, passing between Mierce patrols.
-; menu_nothingam_siege_al|As you approach Snotingaham, Saxon patrols surround you but do not attack, respecting your emissary flag. They make you wait for about an hour while they look for Aelfred.^^Finally, a group of riders reaches where you are, dismounts and walks up to you.
+menu_nothingam_siege_al|Quando ti avvicini a Snotingaham, pattuglie di sassoni ti circondano, ma non attaccano, rispettando la tua bandiera di emissario. Ti fanno aspettare circa un'ora mentre cercano Aelfred.^^Infine, un gruppo di rider ti si avvicina  e smontati da cavallo si avvicinano a te.
 mno_talk_to_alfred|Continua.
 ; menu_ambush_kennemer|While your party rests to recover from the fatigue of the road, you take advantage to get away a bit from the camp and to have some privacy, as you have an upset stomach.^^But your relaxation, hidden among some rocks, is disturbed by a noise to your right...
-; mno_relax_broken|Quickly dress and take up your weapon.
+mno_relax_broken|Rivestiti velocemente e afferri la tua arma.
 ; menu_welsh_and_pictish_complete|It has been thirty days, and you've managed to keep {s3}. It is time to return for news of Sven Bull Neck and the decision regarding the letter of Bodo.
 ; menu_messeger_mothernews|A messenger approaches, beating a squalid horse. He stops in front of you, takes a breath and shouts,^^'This message is for somebody called {playername}. If you want news of your mother, go to Boar Grove near Dommoc and look for the lumberjack's house.'^^The messenger kicks his mount until it starts moving again and rides off.
 mno_choice_01_newsm|Continua
 ; menu_circle_mystic|Your eyes distinguish a special place, which looks like it was raised by the ancients. Perhaps it is a good time to visit and enjoy the art of another time.
 mno_enter_quest|Vai.
 mno_enter_mystic|Avvicinati.
-; menu_troll_bridge|Not far away there is a bridge over a stream. The stream itself is unnamed, but the bridge is widely known as The Troll's Bridge.
-; mno_enter_troll|Move towards the bridge.
+menu_troll_bridge|Poco distante c'è un ponte sul torrente. Il fiume in sé è senza nome ma il ponte è ampiamente conosciuto, con il nome di Ponte del Troll.
+mno_enter_troll|Attraversa il ponte..
 ; menu_battle_stones|Nearby you see a house surrounded by a row of stones on the ground. It seems an idyllic place to live, surrounded by peace and tranquillity, with nary a concern but to get up and take care of the livestock or crops... It is therefore impossibly distant from your hectic itinerant life on the road.
 mno_enter_stones|Entra.
-; menu_roman_fort|Following the path, you can see ruins of some ancient Roman fort, similar to those found in other parts of old Britannia.
+menu_roman_fort|Seguendo il sentiero,vedi le rovine di un antico forte romano, simili a quelli trovati in altre parti della vecchia Britannia.
 mno_enter_romanfort|Indaga.
-; menu_farmland_menu|You arrive at a small hamlet along the way. Smoke rises from a chimney, but you do not see anyone outside.
-; mno_enter_ambush|Visit the hamlet.
-; menu_boar_grove|You arrive at a deep grove of woods. {s4}
-; mno_enter_hut|Approach the hut.
-; mno_enter_hut2|Approach the hut.
+menu_farmland_menu|Continuando il cammino arrivii in prossimità di un piccolo borgo, del fumo sale dal camino, ma non vedi nessuno nei paraggi.
+mno_enter_ambush|Visita il borgo.
+menu_boar_grove|Arrivi in una profonda foresta. {s4}
+mno_enter_hut|Avvicinati alla capanna.
+mno_enter_hut2|Avvicinati alla capanna.
 ; menu_aescesdun_camp|The Saxon army has retreated to this position to regroup after the defeat at Readingum. They have set up camp on a hill, where they are reinforced with men who arrive every day. It's a good position to recover and to intercept the Danish army in their westward advance before they can penetrate into West Seaxe.^^The site is called Aescesdun.^^{s4}
 mno_enter_aescendun|Entra nell'accampamento.
 ; menu_aescesdun_empty|The camp has been almost empty, with very few people left after the advance of the great army into battle.
 ; menu_readingum_camp|Ragnar's sons have built a fortified camp in a Saxon village called Readingum. The site has good defenses and a moat, and there are still remnants of the earlier battle in which the Saxons tried to expel the Danish. It is a good position from which to defend and protect the surroundings.^^{s4}
 mno_enter_readingum|Entra nell'accampamento.
 menu_the_speech_l|{s4}
-; mno_the_speech|Join them.
+mno_the_speech|Unisciti a loro.
 ; menu_thetravel_danisharmy_l|The Danish army, the Great Summer Army, has reached Aescendun.^^ King Aethelred has divided his army in two: one led by himself and the other in the hands of his brother, young Aelfred. Each division takes one side of the ancient road, the Ridgeway.^^ While the Vikings deploy, Aethelred decides that he must pray before the battle and refuses to budge until the service is complete. But the Danish approach quickly, their army also split in two...
-; mno_choice_01_3ddarm|The Battle of Aescesdun.
+mno_choice_01_3ddarm|La Battaglia di Aescesdun.
 ; menu_mega_battle_ashdown|The Saxon army has taken a vantage point on two hills, split in two. One of the hills is dominated by the troops of King Aethelred and the other by those of Aelfred. The Danish move quickly, more than expected, not stopping to rest or form up. This is something that Aethelred did not anticipate. He is still immersed in his prayers and has ordered not to be disturbed until finished. The Danish don't wait. They divide their own army into two in their advance. One division under the army leaders, Jarl Halfdan and King Bagsecg, heads straight for the hosts of Aethelred. The other, under five other jarls, moves in the direction of Aelfred. They start to seize the high ground on a hill above the Saxon positions. If they finish deploying, they will have the height advantage over their enemies...^^{s2} You have {reg10} troops fit for battle against their {reg11}.
-; mno_encounter_attackasc|Battle of Aescesdun.
+mno_encounter_attackasc|Battaglia di Aescesdun.
 ; menu_svenbn_hunting|On the way from the battlefield, all you see are broken weapons, corpses, wounded men, looters, and priests giving final unction to the dying. You feel a mix of the euphoria of remaining alive with a strong sense of desolation. But mostly, you ask one recurring question: why? Why am I alive when so many others died?^^But your thoughts and fate walk in different directions. {s4}
 mno_talk_to_leader|Parla con lui.
 ; menu_ashdown_battle_over|The battle is over, but the thunder of shields and swords, screams of men, and the cries of the wounded still ring in your ears. Your stiff hand is squeezing your weapon. You can still feel the tension of the battle, and your senses remain on high alert. You've survived carnage, just as you have many times before, by always living on the edge, always relying on your trusty sword. You've won today, but you know that your luck will end one day. Then, your life will be over, giving glory and fame to the one who kills you.^^Aescesdun has not been just any battle. It brought together hundreds of men, and most of them are now lying dead in the grass. The story of Aescesdun will surely be retold by bards and storytellers for many years to come.
 mno_aescesdun_no|Continua.
 ; menu_followers_camp_begin|Attracted by the growth of your army, some priests and women have joined you lately. Now, even some merchants seek permission to follow you.^^Although they would give your army easy access to many services that will improve the morale of your men, they will slow your army.^^Followers' services are accessible in your camp area.
-; mno_followers_yes|Sure. They are welcome.
-; mno_followers_no|No. This is an army, not a puppet show.
-; menu_followers_camp_leave|Recent events and the drastic reduction in the number of your men have caused your camp followers disperse...
+mno_followers_yes|Sicuro. Sono i benvenuti.
+mno_followers_no|No. Questo è un esercito, non uno spettacolo di marionette.
+menu_followers_camp_leave|I recenti avvenimenti e la drastica riduzione del numero dei tuoiuomini hanno causato alcuni diserzioni tra i tuoi compagni...
 mno_follw_yes|Dannazione!
 ; menu_followers_remove|Are you sure you want to disperse your followers? This will make your followers stop accompanying your army. This may mean a strong negative impact on the morale of your men.
 mno_remove_yes|Si.
 mno_remove_no|No.
 ; menu_sven_bullneck_readingum|The site has good defenses and moat, and there are still remnants of the previous battle, when the Saxons tried to expel the Danish. It is a good position to defend.^^{s4}
 mno_talk_to_leadermen|Parla con lui.
-; mno_enter_to_talk_sven|Get closer to Readingum.
+mno_enter_to_talk_sven|Avvicinati a Readingum.
 mno_svenreadingum_attack|Assalto Totale!
 mno_choice_doccingatsvf|Ho bisogno di reclutare piu' uomini.
 mno_encounter_savereadingum|Lascia.
 ; menu_sven_halllatest|The slaughter continues in Readingum, your men still fighting against the remnants of Sven's troops, but that is not the battle you seek. Sven Bull Neck has barricaded himself in the mead hall of Readingum, taking your mother and a few men with him. It's time to end this party...
-; mno_fight_svhall|Enter the mead hall.
+mno_fight_svhall|Entra nella sala dell'idromele.
 ; menu_mother_death|Sven Bull Neck finally lies dead. You have accomplished your revenge, but you are left with a bitter taste in your mouth, because your mother's dead body is lying not far from Sven's. The woman who raised you. For her, you left everything behind to seek a healer in Friese. Her last words of love resonate in your mind, like a distant echo.^^Sven Bull Neck and your mother have been the energy that has driven you so far, but both are now dead. You feel a void, as if part of you went with them.^^After everything that happened, all you have left are memories...
-; mno_mother_funeral|Hold a funeral.
+mno_mother_funeral|Partecipa al funerale.
 ; menu_addons_messenger|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'To the {reg59?woman:man}, named {playername}: my master, the abbot of Finian has sent me. He has heard of you and wants to talk about an important mission. He asks you to visit him at his monastery, Finian, near Bal Eachadha. He will pay you 1000 peningas just to come and listen to him.'
-; mno_morrigan_1|Tell the abbot that the message has been received.
+mno_morrigan_1|Informa l'abate che il messaggio è stato ricevuto.
 ; menu_addons_messenger_morriganlair|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'To the {reg59?woman:man} named {playername}: my warlord, Olchobar mac Cinaeda and his companion, Aed mac Ainmerech, have sent me. They have found Morrigan's lair in the west, and they are waiting for you before attacking.'
-; mno_morriganlair_1|Tell your warlord that I am coming.
+mno_morriganlair_1|Informa il comandante che stai arrivando.
 ; menu_first_attack_morrigan|You know, from the directions given by Caliacas, that the old man's burned hut isn't far from the village, but you're unable to see it. Deep, cold and unnatural fog has blown over everything and lets you see only what is maybe a pace in front of you. As if this were not enough, you hear wolves howling in the distance... each time closer and closer.^^Next... your ears are flooded with a melody. Morrigan has found you.
 mno_morrigan_ambush|Combatti!
 ; menu_morrigan_leave|Your enemies run at the sound of the horns. The fog around you seems to fade, or maybe, now that you are calmer, your eyes simply see better through it. Your enemy is gone, but strangely left no corpses. The swords of your men had not caused them any casualties.^^The horns sound nearer, and in the place where you find yourselves, men begin to enter. They are just are few, certainly less than the sound of their horns led you to believe. One of your men brings their leaders to you.
 mno_campeones_primerencuentro|Parla con loro.
 menu_morrigan_lair_attack|{s4}
 mno_morrigan_ambush2n|Combatti!
-; mno_enter_morriganlairch|Approach the champions.
+mno_enter_morriganlairch|Avvicinati ai campioni.
 mno_leaveslmorrigan|Lascia.
 menu_bresail_farm_visit|{s4}
 mno_enter_maelbresail|Entra.
-; mno_enter_maelbresailhall|Run!
+mno_enter_maelbresailhall|Corri!
 mno_mailbresail_attack|Combatti!
 mno_leave_bresail_farm|Lascia.
-; menu_bresail_fort_visit|On the far side of a river, there are some scattered houses and, in the background, a small fort built in the style of the area. The peasants have fled at the approach of your armed warriors.
+menu_bresail_fort_visit|Sul lato opposto del fiume ci sono alcune case sparse e, sullo sfondo, un fortino costruito nello stile della zona. I contadini sono fuggiti all'avvicinarsi dei tuoi soldati.
 mno_enter_mbfort|Vai.
 mno_leave_mbfort|Lascia.
 mno_leave_finalmbfort|Lascia.
-; menu_morrigan_dialog_final|As you leave Mael Bresail's fort, Morrigan approaches you and asks you a few moments to talk.
-; mno_talk_to_morrigan|Talk to Morrigan.
-; menu_event_siege_01|One of your advisers tells you that he has found rats in the provisions that your men are eating. This could have been prevented with sanitation!
-; mno_choice_01_1a|That is terrible! Destroy the contaminated supplies.
-; mno_choice_01_2a|I cannot leave my men without food. Kill as many rats as you can.
-; menu_ratas_siege|Before all the rats are exterminated, many of your men fall sick and die.^^Your casualties: {s8}
+menu_morrigan_dialog_final|Appena ti allontani dal forte di Mael Bresail, Morrigan si avvicina e ti chiede qualche minuto per parlarti..
+mno_talk_to_morrigan|Parla con Morrigan.
+menu_event_siege_01|Uno dei tuoi consiglieri ti dice che ha trovato dei ratti nelle razioni che i tuoi uomini stanno mangiando. Questo poteva essere evitato con dei servizi igienici adeguati!
+mno_choice_01_1a|Questo è terribile! Distruggi le forniture contaminate.
+mno_choice_01_2a|Non puoi lasciare i tuoi uomini senza cibo. Uccidi tutti i ratti che riesci a trovare.
+menu_ratas_siege|Prima che tutti i topi siano sterminati, molti dei tuoi uomini si ammalano e muoiono^^ le tue vittime: {s8}
 mno_back_to_siegea|Fatto
-; menu_event_siege_02|Poor hygiene in your camp has led to dysentery. The men start dying all around you. This could have been prevented with sanitation!
-; mno_choice_02_1b|Hire a physician to try to help the sick (1000 peningas).
-; mno_choice_02_2b|There is nothing I can do.
-; mno_choice_02_3b|Pray to your god.
-; mno_choice_02_4b|I or my companions can cure them.
-; menu_enfermedad_siege|Death governs your camp. Many of your men are sick and dying.^^Your casualties: {s8}
+menu_event_siege_02|La scarsa igiene nel vostro campo ha causato la dissenteria. Gli uomini cominciano a morire intorno a voi. Questo poteva essere evitato con dei servizi igienici adeguati!
+mno_choice_02_1b|Assumi un medico per cercare di aiutare i malati (1000 denari).
+mno_choice_02_2b|Non c'è nulla che tu possa fare.
+mno_choice_02_3b|Prega il tuo dio.
+mno_choice_02_4b|Tu o i tuoi compagni potete curarli.
+menu_enfermedad_siege|Morte gestisci il campo. Molti uomini si sono ammalati ed ora sono moribondi^^tue vittime: {s8}
 mno_back_to_siegeb|Dannazione!
-; menu_enfermedad2_siege|Some men die from the disease, but most manage to recover thanks to the physician you hired.^^Your casualties: {s8}
-; menu_enfermedad3_siege|Death governs your camp. Many of your men are sick and dying. Perhaps your god has saved some lives.^^Your casualties: {s8}
+menu_enfermedad2_siege|Alcuni dei tuoi uomini muoiono di malattia, ma la maggior parte riesce a recuperare grazie al medico hai assunto^^ le tue vittime: {s8}
+menu_enfermedad3_siege|La morte governa il campo. Molti dei tuoi uomini sono malati e moribondi. Forse il tuo Dio ha salvato qualche vita^^le tue vittime: {s8}
 mno_back_to_sieged|Fatto
-; menu_enfermedad4_siege|Thanks to your healing abilities, you manage to save many men, but some still die.^^Your casualties: {s8}
-; mno_back_to_siegees|Back to siege.
-; menu_event_siege_03|There is so much garbage, vermin and other nasty things that your camp seems to be more of a pigsty. Your men are unhappy. This could have been prevented with sanitation!
-; mno_choice_03_4c|I will give an inspiring speech to gain time while I take measures.
+menu_enfermedad4_siege|Grazie alle tue abilità di guarigione riesci a salvare molte vite, ma alcuni muoiono comunque^^le tue vittime: {s8}
+mno_back_to_siegees|Torna all'assedio,
+menu_event_siege_03|C'è così tanta spazzatura, parassiti e altre cose disgustose che il tuo campo sembra più un porcile. I tuoi uomini sono infelici. Questo avrebbe potuto essere evitato con dei servizi igienici adeguati!
+mno_choice_03_4c|Fai un discorso ispirato per guadagnare tempo e prendere delle contromisure.
 mno_choice_03_2c|Vedro' cosa posso fare.
-; menu_event_siege_04|Some enemies have managed to infiltrate at night and burn some of your supplies. Part of your food was destroyed.
-; mno_choice_04_1d|To set an example, punish the men who were on duty that night.
-; mno_choice_04_2d|No, do nothing!
-; menu_event_siege_05|During the night, your men captured and executed a group of enemies who tried to infiltrate and burn supplies.
-; mno_choice_05_1e|Congratulate them for doing their job well.
-; mno_choice_05_2e|Reward each one of them with a warrior bracelet (300 peningas).
-; mno_choice_05_3e|Reward them with a night off and money to spend (200 peningas).
-; mno_choice_05_4e|Do nothing. You are a firm leader who will not show weakness.
-; menu_event_siege_06|Sir, our food supply routes may be in danger. Our scouts have discovered enemy raiders behind our lines.^We could avoid such problems by blockading the place.^^Do you want to send men to protect the routes and pursue the enemy?
-; mno_choice_06_1f|Send men (troops will be taken from your main army).
-; mno_choice_06_2f|Send messengers to pay them not to attack your supply routes (500 peningas but no guarantees).
-; mno_choice_06_3f|Do nothing (lose part of your food but save your men's lives).
+menu_event_siege_04|Alcuni nemici sono riusciti a infiltrarsi durante la notte e hanno bruciato  alcune delle nostre scorte. Parte del nostro cibo è andata distrutta.
+mno_choice_04_1d|Per dare un esempio, punisci gli uomini che erano di turno quella notte.
+mno_choice_04_2d|Non fare nulla!
+menu_event_siege_05|Durante la notte, i vostri uomini hanno catturato e giustiziato un gruppo di nemici che avevano cercato di infiltrarsi per bruciare le nostre scorte.
+mno_choice_05_1e|Congratulati con loro per aver svolto bene il loro compito.
+mno_choice_05_2e|Dona a ciascuno di essi con un bracciale da guerriero (300 denari).
+mno_choice_05_3e|Premiali con una notte di libera uscita e un donagli pò di soldi da spendere (200 denari).
+mno_choice_05_4e|Non  fare niente. Sei leader che non mostra gentilezza.
+menu_event_siege_06|Signore, i nostri percorsi di approvvigionamento alimentare potrebbero essere in pericolo. I nostri esploratori hanno avvistato incursori nemici dietro le nostre linee.^Potremmo evitare tali problemi bloccando loro la strada.^^Vuoi inviare uomini per proteggere le rotte e perseguire il nemico?
+mno_choice_06_1f|Invia gli uomini (le truppe saranno prese dal tuo esercito principale).
+mno_choice_06_2f|Invia i messaggeri con i soldi per pagare gli incursori affinchè non attacchino le nostre carovane (500 denari ma non ci sono garanzie).
+mno_choice_06_3f|Non fare nulla (perdi parte del tuo cibo ma salvi le vite dei tuoi uomini).
 ; menu_encuentro_avituallamiento|Dispatch a group of men to protect and pursue the enemies that plague your supply routes. Your men attempt to corner the enemy to force him to fight until death. There are some losses, but your men manage to win the battle and secure the supply routes.^^Your casualties: {s8}^^Enemy casualties: {s9}
 mno_back_to_siegeg2|Ben fatto.
 menu_encuentro_avituallamiento2|{s4}
-; mno_back_to_siegeg3|Well.
+mno_back_to_siegeg3|Bene.
 ; menu_event_siege_07|Our scouts have found that the defenders have poisoned the water with dead animals. Do you want to buy water and ask the merchants to bring it via our supply route?
 mno_choice_07_1g|Sì (600 peningas).
-; mno_choice_07_2g|No. Ration water and dig wells.
-; mno_choice_07_3g|Without water the siege cannot continue. Abandon the siege.
-; menu_sed_siege|Water is running out, and your men weaken. Driven by the madness of thirst, some of them drink poisoned water and die. Finally, a well is completed and you get water for the time being. You can continue the siege.^^Your casualties from poisoned water:{s8}
-; mno_back_to_siegeh|Fate is inexorable.
-; menu_event_siege_08|Bad news: one of our men has deserted to the enemy. It may be because of his low morale or because they have offered him money. Whatever it is, the enemy may know our plans.
-; mno_choice_08_1h|Offer 400 peningas. I don't want more desertions.
-; mno_choice_08_2h|Offer 800 peningas. We don't want them tempted by enemy silver.
-; mno_choice_08_3h|Do not worry. I can always change plans.
-; menu_event_siege_09|A deserter from the enemy has joined our ranks. He has informed us that {s2}.
-; mno_choice_09_1i|He is welcome to our ranks.
-; mno_choice_09_2i|I do not want deserters among my men. Kill him.
-; mno_choice_09_3i|I'm sure he's a spy. Return him to the enemy.
+mno_choice_07_2g|No. Raziona l'acqua e scavanuovi pozzi.
+mno_choice_07_3g|Senza acqua l'assedio non può continuare. Abbandona l'assedio.
+menu_sed_siege|L'acqua si sta esaurendo e tuoi uomini si indeboliscono. Spinti dalla follia della sete alcuni di loro bevono l,acqua avvelenata e muoiono. Infine, un pozzo è completato e ottieni l'acqua. Per il momento, è possibile continuare l'assedio^^le tue vittime da acqua avvelenata sono:{s8}
+mno_back_to_siegeh|Il destino è inesorabile.
+menu_event_siege_08|Cattive notizie: uno dei nostri uomini ha disertato per il nemico. Può essere a causa del suo basso morale o perché gli hanno offerto del denaro. Qualunque cosa sia successa, il nemico può sapere i nostri piani.
+mno_choice_08_1h|Offri 400 denari. Non vuoi altre diserzioni.
+mno_choice_08_2h|Offri 800 denari. Non devono essere tentati dall'argento del nemico.
+mno_choice_08_3h|Non preoccuparti. Posso sempre cambiare i miei piani.
+menu_event_siege_09|Un disertore il nemico si è unito alle nostre fila. Egli ci ha informato che {s2}.
+mno_choice_09_1i|E' il benvenuto nelle nostre fila.
+mno_choice_09_2i|Non voglio un disertore tra i miei uomini. Uccidilo.
+mno_choice_09_3i|Sei convinto che sia una spia. rimandalo dai tuoi nemici.
 ; menu_event_siege_10|Our men and the enemy do not insult each other as much any more, and sometimes talk to each other. This can affect their fighting spirit when we attack. What shall we do?
 ; mno_choice_10_1j|Allow it. The enemy's fighting spirit is also affected.
 ; mno_choice_10_2j|What? Forbid it and punish the offenders.
 ; menu_event_siege_11|The cold of winter always takes its toll when it comes. Some men have died of cold, flu and other minor illnesses.^^Your casualties: {s8}
 mno_choice_11_1j|Requiescat in pace.
-; menu_event_siege_12|A farmer comes to you and says that one of your men has raped his daughter, who lives in a village near your siege camp. The farmer desires wergild (compensation) of 100 peningas. What do you do?
-; mno_choice_12_1j|Pay the wergild.
-; mno_choice_12_2j|Pay the wergild and punish your warrior.
-; mno_choice_12_3j|Refuse to pay for damage done to the Enemy.
-; mno_choice_12_4j|Kill the farmer and his daughter.
-; menu_no_paymentandkill|In revenge, the men of the nearby villages joined together and attacked your foraging parties.^^Your casualties: {s8}
+menu_event_siege_12|Un contadino viene da te e afferma che uno dei tuoi uomini ha violentato sua figlia, vive in un villaggio vicino al campo d'assedio. Il contadino vuole guidrigildo (risarcimento) di 100 denari. Che cosa fai?
+mno_choice_12_1j|Paga il guidrigildo.
+mno_choice_12_2j|Paga il guidrigildo e punisci il guerriero.
+mno_choice_12_3j|Rifiuti di pagare per danni causati dal Nemico.
+mno_choice_12_4j|Uccidili il contadino e sua moglie.
+menu_no_paymentandkill|Per vendetta, gli uomini dei villaggi vicini si sono riuniti e hanno attaccato le vostre truppe di approvvigionamento^^le tue perdite: {s8}
 mno_choice_nppayment_2j|Dannazione!
-; menu_event_siege_13|A group of enemies attacked our men by surprise and then quickly withdrew.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_13_1b|This is common. Be cautious (Solution: blockade the place).
-; menu_event_siege_14|While foraging, a group of enemy riders encountered a group of our men.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_14_1b|This is common. Be cautious (Solution: blockade the place).
-; menu_event_siege_15|We were attacked by an enemy force while raiding neighboring villages. The villagers joined the enemy, causing us many casualties.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_15_1b|This is common. Be cautious (Solution: blockade the place).
-; menu_event_siege_16|The enemy and our men came upon each other near a river, and the fight for water caused numerous casualties on both sides.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_16_1b|This is common. Be cautious (Solution: blockade the place).
-; menu_event_siege_17|The enemy sallied out through a secret passage, attacking us before swiftly retreating back to the protection of their walls.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_17_1b|This is common. Be cautious (Solution: blockade the place).
-; menu_event_siege_18|Some of your men have abducted women from the surrounding villages and brought them to the siege camp for fun.
-; mno_choice_18_1b|You allow it and ask for the most beautiful woman.
-; mno_choice_18_2b|Order your men to release the women and punish the kidnappers.
-; menu_event_siege_19|The enemy is trying to break our blockade, and our men are trying to contain them.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_19_1b|Send some men while I make a threat of assault to force them to withdraw.
-; mno_choice_19_2b|Send all the men to protect that part of the circumvallation.
+menu_event_siege_13|Un gruppo di nemici ha attaccato i tuoi uomini di sorpresa e poi si è rapidamente ritirato^^le tue perdite: {s8}^^le perdite del nemico: {s9}
+mno_choice_13_1b|Ciò è normale. Siate più cauti (Soluzione: blocco del posto).
+menu_event_siege_14|Mentre si stavano approvvigionando, un gruppo di cavalieri nemici ha incontrato un gruppo di nostri uomini^^le tue perdite: {s8}^^le perdite del nemico: {s9}
+mno_choice_14_1b|Ciò è normale. Siate più cauti (Soluzione: blocco del posto).
+menu_event_siege_15|Siamo stati attaccati da una forza nemica mentre razziavamo dei villaggi vicini. Gli abitanti del villaggio si sono uniti al nemico, causando molte vittime^^le tue perdite: {s8}^^le perdite del nemico: {s9}
+mno_choice_15_1b|Ciò è normale. Siate più cauti (Soluzione: blocco del posto).
+menu_event_siege_16|Il nemico ed i nostri uomini si sono scontrati nei pressi di un fiume, la lotta per l'acqua ha causato numerose vittime da entrambe le parti^^le tue perdite: {s8}^^le perdite del nemico: {s9}
+mno_choice_16_1b|Ciò è normale. Siate più cauti (Soluzione: blocco del posto).
+menu_event_siege_17|Il nemico ci assalta di sorpresa uscendo da un passaggio segreto, ci attacca rapidamente e si ritira subito sotto le sue mura^^le tue perdite: {s8}^^le perdite del nemico: {s9}
+mno_choice_17_1b|Ciò è normale. Siate più cauti (Soluzione: blocco del posto).
+menu_event_siege_18|Alcuni dei vostri uomini hanno rapito delle donne dai villaggi circostanti e le hanno portate al campo d'assedio per divertirsi.
+mno_choice_18_1b|Loro acconsentono a lasciarti la donna più bella.
+mno_choice_18_2b|Ordina ai tuoi uomini di rilasciare le donne e punire i rapitori.
+menu_event_siege_19|Il nemico sta cercando di spezzare il nostro blocco e i tuoi uomini stanno cercando di contenerle^^le tue perdite: {s8}^^le perdite del nemico: {s9}
+mno_choice_19_1b|Invia altri uomini mentre lanci un finto assalto alla fortezza per costringerli a ritirarsi.
+mno_choice_19_2b|Invia tutti gli uomini per proteggere il perimetro.
 mno_choice_19_3b|Non preoccuparti. Le nostre mura sono resistenti.
-; menu_no_defendiendo|The enemy has overcome our defenses and burned our small camps and checkpoints, breaking our blockade.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_defendiendo_1bnd|We must build the blockade again.
-; menu_defendiendo_circunvallation|We have managed to repel the enemy, who returned to the protection of his walls...^^Your casualties: {s8}^^Enemy casualties: {s9}
+menu_no_defendiendo|Il nemico ha superato le nostre difese e bruciato i nostri accampamenti i posti di blocco, il blocco ha ceduto^^le tue perdite: {s8}^^le perdite del nemico: {s9}
+mno_defendiendo_1bnd|Dobbiamo organizzare un nuovo blocco.
+menu_defendiendo_circunvallation|Siamo riusciti a respingere il nemico che è tornato dentro le mura...^^le tue perdite: {s8}^^le perdite del nemico: {s9}
 mno_defendiendo_1dcir|Ben fatto.
-; menu_defendiendo_mal|Another group of enemies took advantage of our troops being here and set fire to another part of our blockade.^^Your casualties: {s8}^^Enemy casualties: {s9}
+menu_defendiendo_mal|Un altro gruppo di nemici ha approfittato delle nostre truppe rimaste sguarnite e ha dato fuoco a un'altra parte del nostro blocco^^le tue perdite: {s8}^^le perdite del nemico: {s9}
 mno_defendiendo_1mal|Dannazione!
-; menu_event_siege_20|The enemy is trying to burn our assault equipment.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_20_1b|Send some men while I make a threat of assault to force them to withdraw.
-; mno_choice_20_2b|Quickly. Send all men to protect the equipment.
-; mno_choice_20_3b|Do not worry. Our men will guard it.
-; menu_no_defendiendo_equip|The enemy has overcome our defenses and burned down our equipment.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_defendiendo_1bnde|We must begin construction again.
-; menu_defendiendo_equip|We have managed to repel the enemy, who returned to the protection of his walls.^^Your casualties: {s8}^^Enemy casualties: {s9}
+menu_event_siege_20|Il nemico sta cercando di bruciare le nostre attrezzature d'assalto^^le tue perdite: {s8}^^le perdite del nemico: {s9}
+mno_choice_20_1b|Invia altri uomini mentre lanci un finto assalto alla fortezza per costringerli a ritirarsi.
+mno_choice_20_2b|Veloce. Invia tutti gli uomini a proteggere l'equipaggiamento
+mno_choice_20_3b|Non te ne preoccupi. I tuoi uomini faranno buona guardia.
+menu_no_defendiendo_equip|Il nemico ha superato le nostre difese e ha bruciato le nostre attrezzature^^le tue perdite: {s8}^^le perdite del nemico: {s9}
+mno_defendiendo_1bnde|Dobbiamo ricominciare la costruzione di nuovo.
+menu_defendiendo_equip|Siamo riusciti a respingere il nemico, che è tornato all'interno delle mura^^le tue perdite: {s8}^^le perdite del nemico: {s9}
 mno_defendiendo_1heq|Ben fatto.
-; menu_defendiendo_mal_equip|Another group of enemies has surrounded our positions and burned down our siege equipment on the other side.^^Your casualties: {s8}^^Enemy casualties: {s9}
+menu_defendiendo_mal_equip|Un altro gruppo di nemici ha circondato le nostre posizioni e ha bruciato le nostre attrezzature d'assedio sull'altro lato^^le tue perdite: {s8}^^le perdite del nemico: {s9}
 mno_defendiendo_1vmal|Dannazione!
-; menu_event_siege_21|Your guards discovered several men trying to sneak out at night to escape your blockade.
+menu_event_siege_21|Le tue guardie hanno scoperto diversi uomini ce cercavano di sgattaiolare fuori durante la notte per sfuggire al tuo blocco.
 mno_choice_21_1b|Lasciali fuggire.
 mno_choice_21_2b|Uccidili.
-; menu_event_siege_22|At night, your guards report that they observed a group of enemies dressed in sheepskins heading to a nearby stream. Right now, they are filling leather sacks with water to bring back to the settlement.
-; mno_atacar_emboscada_player2|Go there with any companions who want to join.
-; mno_choice_22_1b|Ambush the enemy in sheepskins.
+menu_event_siege_22|Durante la notte, le vostre guardie riferiscono di aver avvistato un gruppo di nemici vestito con pelli di pecora diretto ad un vicino torrente. In questo momento, stanno riempiendo i sacchi di pelle con dell'acqua da riportare all'insediamento.
+mno_atacar_emboscada_player2|Raggiungili con tutti i compagni che vogliono seguirti.
+mno_choice_22_1b|Tendi un'imboscata ai nemici.
 mno_choice_22_2b|Non fare nulla.
-; menu_victoria_ovejas|Your soldiers surrounded the enemy in sheepskins and fell upon them by surprise, spreading death.^^Your casualties: {s8}^^Enemy casualties: {s9}
+menu_victoria_ovejas|I tuoi soldati circondano il nemico con le pelli di pecora attaccandoli di sorpresa e seminando la morte^^le tue perdite: {s8}^^le perdite del nemico: {s9}
 mno_defendiendo_1lovej|Perfetto!
-; menu_derrota_ovejas|It's a trap! Sir, the men dressed in sheepskins were a decoy to bring out our men and ambush them. Many were killed before returning to the protection of our circumvallation.^^Your casualties: {s8}^^Enemy casualties: {s9}
+menu_derrota_ovejas|È una trappola! Signore, gli uomini vestiti con le pelli di pecora erano un esca per portare fuori i nostri uomini e ci hanno teso un'imboscata. Molti sono stati uccisi prima di riuscire a tornare nel campo^^le tue perdite: {s8}^^le perdite del nemico: {s9}
 mno_defendiendo_1poveja|E' terribile.
-; menu_tablas_ovejas|Your soldiers were deployed to surround the enemy, but they were too slow and noisy. The men in sheepskins sensed the threat and returned to the settlement quickly.
+menu_tablas_ovejas|I tuoi soldati si sono stati schierati per circondare il nemico, ma erano troppo lenti e rumorosi. Gli uomini con le pelli di pecora hanno avvertito la minaccia e sono ritornati alla fortezza rapidamente.
 mno_defendiendo_1oveja2|Sarà per la prossima volta.
-; menu_event_siege_23|Today a mercenary who wants to join our ranks came to our camp. He says he is an exile from the place that we are besieging, and he wants revenge.
+menu_event_siege_23|Oggi, un mercenario che dice di volersi unire a noi è venuto nel nostro campo. Dice che è stato esiliato dal luogo che stiamo assediando e vuole vendetta.
 mno_choice_23_1b|Accettalo.
 mno_choice_23_2b|Non ho bisogno di altri uomini.
-; menu_event_siege_24|We have accumulated the heads of enemies and dead peasants. Do you want to launch them over the walls to undermine the morale of the enemy and cause disease?
-; mno_choice_24_1b|What? You're a crazy maniac. Do not do that!
-; mno_choice_24_2b|Sure, it will be useful when negotiating their surrender.
-; menu_cabezas_moral|The heads are launched into the settlement. From the outside, you hear the cries and tears of the citizens when they recognize a loved one. War is merciless, and you've proven you're the most terrible of foes.
-; mno_defendiendo_1q|This will help them give up... or die...
-; menu_event_siege_25|A merchant offers a group of dancers to entertain your men during the night.
-; mno_choice_25_1b|I need my men ready for action, not distracted or tired.
-; mno_choice_25_2b|Hire dancers just for yourself (100 peningas).
-; mno_choice_25_3b|Your men deserve it. Hire dancers for them (500 peningas).
-; menu_event_siege_26|A group of bandits approaches your camp. As your men reach for their arms, the bandits put down their weapons and say they come in peace. The leader of the bandits steps forward and asks if they may join you.
-; mno_choice_26_1b|Of course! My war band always welcomes men of such talent and promise!
-; mno_choice_26_2b|I'm sorry. We have no room for your kind!
-; mno_choice_26_3b|Prove yourselves worthy of my attention by raiding a village.
+menu_event_siege_24|Abbiamo accumulato le teste dei nemici e dei contadini morti. Vuoi lanciarli oltre le mura per minare il morale del nemico e causare qualche malattia?
+mno_choice_24_1b|Che cosa? non sei un pazzo maniaco. Non farlo!
+mno_choice_24_2b|Certo, sarà utile al momento di negoziare la resa.
+menu_cabezas_moral|Le teste sono lanciate all'interno delle mura. Dall'esterno, si sentono le grida e le lacrime dei cittadini quando riconoscono una persona cara. La guerra è spietata e hai dimostrato di essere il più terribile dei nemici.
+mno_defendiendo_1q|Questo li aiuterà ad arrendersi.. o a morire...
+menu_event_siege_25|Un commerciante vi offre un gruppo di ballerini per intrattenere i vostri uomini durante la notte.
+mno_choice_25_1b|Ho bisogno dei miei uomini pronti per l'azione, non distratti o stanchi.
+mno_choice_25_2b|Assumi i ballerini solo per te stesso (100 denari).
+mno_choice_25_3b|I tuoi uomini se lo sono meritato. Assumi i ballerini per loro (500 denari).
+menu_event_siege_26|Un gruppo di banditi si avvicina al campo. Mentre i tuoi uomini raggiungono le loro armi i banditi gettano le loro e dicono di venire in pace. Il capo dei banditi si fa avanti e chiede se possono unirsi a te.
+mno_choice_26_1b|Certamente! La mia banda di guerrieri accoglie sempre uomini di talento e volenterosi!
+mno_choice_26_2b|Spiacente. Non c'è posto per voi qui!
+mno_choice_26_3b|Dimostrare di essere degni della mia attenzione saccheggiando un villaggio.
 mno_choice_26_4b|Uccideteli tutti!
-; menu_sanguinario_p|After two hours, the bandits return with some loot and someone's head...
-; menu_event_siege_27|Several merchants approach you wanting to sell goods in the camp that has formed close to yours with the wives of the soldiers, prostitutes, refugees, children and other followers of the army.
+menu_sanguinario_p|Dopo due ore, i banditi tornano con il bottino e la testa di qualcuno...
+menu_event_siege_27|Diversi commercianti chiedono di avvicinarsi per vendere le merci nel campo che si è formato vicino al tuo, con le mogli dei soldati, prostitute, rifugiati, bambini e gli altri seguaci dell'esercito.
 mno_choice_27_1b|Loro (e i loro soldi) sono i benvenuti.
-; mno_choice_27_2b|There are enough merchants already.
+mno_choice_27_2b|Ci sono già abbastanza commercianti.
 mno_choice_27_3b|Uccidili e ruba i loro soldi.
-; menu_event_siege_28|To make the food last longer, the defenders threw out their women, children and elderly. You can see them moving towards your circumvallation, begging for food.
-; mno_choice_28_1b|Send soldiers to kill the children and elderly, taking the women.
-; mno_choice_28_2b|Buy food for them (1000 peningas). Then let them leave.
-; mno_choice_28_3b|Do not give them anything. Allow them to die of starvation.
-; menu_event_siege_29|One of your soldiers, angered by the long siege, rapes the wife of one of your officers.
+menu_event_siege_28|Per far durare il cibo più a lungo, i difensori hanno cacciato le loro donne, i bambini e gli anziani. Potete vederli in movimento verso di voi che elemosino il cibo.
+mno_choice_28_1b|Invia soldati a uccidere i bambini e gli anziani, lasciandogli le donne.
+mno_choice_28_2b|Comprare del cibo per loro (1000 denari). Poi lasciarli partire.
+mno_choice_28_3b|Non dare loro nulla. Lasciali morire di fame.
+menu_event_siege_29|Uno dei tuoi soldati, irritato dal lungo assedio, violenta la moglie di uno dei vostri ufficiali.
 mno_choice_29_1b|Ignorali e continua.
 mno_choice_29_2b|Punisci il soldato.
 mno_choice_29_3b|Giustizia il soldato.
-; mno_choice_29_4b|Pay wergild (compensation) to the officer (1000 peningas).
-; menu_lucha_oficial|Your officer kills the soldier and there is a brawl between some friends of the soldier and those loyal to your officer, leaving some dead.
+mno_choice_29_4b|Paga il guidrigildo (risarcimento) al tuo ufficiale (1000 denari).
+menu_lucha_oficial|Il vostro ufficiale uccide il soldato e si scatena una rissa tra alcuni amici del soldato e quelli fedeli al vostro ufficiale, lasciando sul campo alcuni morti.
 mno_defendiendo_1z|E' terribile.
 ; menu_messenger_system|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'My masters sent me to tell you that the messenger you sent was found dead on the side of the road. We're sorry to inform you that your message never reached its destination. We will be at your disposal for any other message that you need to send. You know where to find us.'
 mno_error_1|Continua.
 ; menu_messenger_system2|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'My masters sent me to tell you that the messenger you sent to {s9} was found dead on the side of the road. We're sorry to inform you that your message never reached its destination. We will be at your disposal for any other message that you need to send. You know where to find us.'
-; mno_finish_m|Bad luck.
+mno_finish_m|Sfortuna.
 ; menu_messenger_system_res_failure|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'My masters sent me to tell you that the messenger you sent to {s9} was found dead on the side of the road. We're sorry to inform you that your message never reached its destination. We will be at your disposal for any other message that you need to send. You know where to find us.'
-; mno_finish_m2|Bad luck.
+mno_finish_m2|Sfortuna.
 menu_messenger_system_res|{s4}
-; mno_Continue_msse|Thank for your service.
+mno_Continue_msse|Grazie per il servizio reso.
 menu_messenger_system_follow|{s4}
-; mno_Continue_mess2|Well.
+mno_Continue_mess2|Bene.
 menu_messenger_system_gotoplace|{s4}
-; mno_Continue_mess3|Well.
+mno_Continue_mess3|Bene.
 menu_messenger_system_patrolarea|{s4}
-; mno_Continue_mess4|Well.
+mno_Continue_mess4|Bene.
 menu_messenger_system_besiegeplace|{s4}
-; mno_Continue_mess5|Well.
+mno_Continue_mess5|Bene.
 menu_messenger_system_insult|{s4}
-; mno_Continue_mess6|Thank you for your service.
+mno_Continue_mess6|Grazie per il servizio reso.
 menu_messenger_system_sendgift|{s4}
-; mno_Continue_mess7|Thank you for your service.
+mno_Continue_mess7|Grazie per il servizio reso.
 menu_messenger_system_sugalliance|{s4}
-; mno_Continue_messeng1|Thank you for your service.
+mno_Continue_messeng1|Grazie per il servizio reso.
 menu_messenger_system_suggestpeace|{s3}
-; mno_Continue_messeng2|Thank you for your service.
+mno_Continue_messeng2|Grazie per il servizio reso.
 menu_messenger_system_declarewar|{s3}
-; mno_Continue_messeng3|I have my war.
+mno_Continue_messeng3|Ho la mia guerra.
 menu_random_juice_events|Eventi
 mno_leave_jui|Parti.
 ; menu_event_01_juicio|Two farmers, one very tall and lanky, the other low and stocky, were presented to you to discuss the ownership of a calf. Apparently, their fields bordered each other, and the tall farmer had a bull that impregnated a cow belonging to the other. The stocky farmer said the calf was his, because it was his cow giving birth. The tall farmer claimed the calf to be his, being the offspring of his best bull. He said he should at least get stud fees.
-; mno_choice_01_1nj|The owner of the cow is right. The calf is his, just like the cow is.
-; mno_choice_01_2nj|The owner of the bull is right. The bull is his and the calf too.
-; mno_choice_01_3nj|The owner of the cow keeps the calf and pays compensation to the other.
-; mno_choice_01_4nj|Neither is right. I'll slaughter the calf for its meat and give some to my men!
-; mno_choice_01_5nj|Neither is right. Kill the calf and give the meat to both farmers!
+mno_choice_01_1nj|Il proprietario della mucca a ragione. Il vitello è suo, visto che anche la mucca lo è.
+mno_choice_01_2nj|Il proprietario del toro a ragione. Il toro è suo e il vitello anche.
+mno_choice_01_3nj|Il proprietario della mucca terrà il vitello ma pagherà un indennizzo all'altro.
+mno_choice_01_4nj|Nessuno dei due ha ragione. Macelleremo il vitello per la carne e ne daremo un po' ai miei uomini!
+mno_choice_01_5nj|Nessuno ha ragione. Uccidete il vitello e dividete la carne tra i due!
 ; menu_event_02_juicio|My {reg59?lady:lord}, we captured a murderer! This is the man who attacked one of our messengers in {s4}, who is lying seriously injured in bed. This doesn't show us in a good light, for the messenger was under your protection. However, the attacker has an interesting story, and he wishes to talk to you before his execution.^^The prisoner's story: 'My {reg59?lady:lord}, I would have never thought of attacking your messenger, but that man wished to sleep with my young daughter at night, and this offer was refused! However, he did not accept our answer, entered my house with three friends, and raped my dear daughter, laughingly telling me all the while that you would never believe the word of a commoner. A father must protect his only child!'
-; mno_choice_02_1nj|He was under my protection. You and your family will be executed.
-; mno_choice_02_2nj|I will be reasonable: only you will be hanged.
-; mno_choice_02_3nj|Even though he was my servant, I would have done the same. You can go.
-; mno_choice_02_4nj|I order him to be hanged. No one should take advantage of their position.
+mno_choice_02_1nj|Era sotto la mia protezione. Voi e la vostra famiglia verrete giustiziati.
+mno_choice_02_2nj|Sarò ragionevole: solo tu verrai impiccato.
+mno_choice_02_3nj|Anche se era un mio servo, avrei fatto lo stesso. Puoi andare.
+mno_choice_02_4nj|Ordina l'impiccagione. Nessuno deve approfittare della propria posizione.
 ; menu_event_03_juicio|You summon two men to decide a dispute between them. One is a local leader, while the other is a farmer who rents the land of the leader.^^The man says his harvest was poor and cannot pay the rent, so the leader took the farmer's daughter to his own bed and as a servant in his house. The local leader is an influential figure within {s4}.
-; mno_choice_03_1nj|Punish the farmer. He must pay rent to his lord.
-; mno_choice_03_2nj|Punish the local leader. He has no right to take the farmer's daughter.
-; mno_choice_03_3nj|Kill the noble and force the farmer to join your army for not paying his taxes.
-; mno_choice_03_4nj|Compensate the noble yourself for the tribute and send the girl back.
-; mno_choice_03_5nj|Compensate the farmer by paying wergild for daughter who was raped.
+mno_choice_03_1nj|Punisci l'agricoltore. Deve pagare l'affitto al suo signore.
+mno_choice_03_2nj|Punire il leader locale. Egli non ha diritto di prendere la figlia del contadino.
+mno_choice_03_3nj|Uccidete il nobile e obbliga l'agricoltore ad unirsi al tuo esercito per non aver pagato le tasse.
+mno_choice_03_4nj|Compensate voi la tassa al nobile e riportate indietro la ragazza.
+mno_choice_03_5nj|Compensare il contadino pagando il guidrigildo per la figlia che è stata violentata.
 ; menu_farmer_attack_lord|Not satisfied with your decision, the farmer pulls out his seax and pounces on the local leader, killing him before your men can do anything. Then he turns to you and says, 'This is justice, bastard!' Then with the same seax, he kills himself.
 mno_choice_03_1attackj|Continua.
 ; menu_event_04_juicio|One of your sworn men approaches you. He states his fears that, among the men, there is much dissatisfaction. Reason being that you are too placid and that there is too little gold and honour to be won in your service.
-; mno_choice_04_1nj|Pay the men and give rings to them.
-; mno_choice_04_2nj|The men are released from their oaths if they want to leave.
+mno_choice_04_1nj|Pagate l'uomo e dagli degli anelli.
+mno_choice_04_2nj|Gli uomini vengono esantati dal giuramento, se vogliono, possono andarsene.
 ; mno_choice_04_3nj|Kill the man who approached you and state there shall be no more talk of sedition.
-; mno_choice_04_4nj|Promise to change your leadership style.
+mno_choice_04_4nj|Prometti di cambiare il tuo comportamento al comando.
 ; menu_event_05_juicio|In {s4}, a man is brought before you. Your men inform you that he refuses to pay taxes to the kingdom, and therefore to you. The man insists that he will not pay taxes until the kingdom gives him back his boys, all of them killed in recent wars.
-; mno_choice_05_1nj|This man has already lost enough. Forgive his taxes for life.
-; mno_choice_05_2nj|Punish this man with death if he does not pay.
-; mno_choice_05_3nj|Pay the man a wergild for the death of his boys.
-; menu_nobody_want_paytax|Suddenly, the room where you exercise your legal authority is crowded with people who have lost sons to war, all demanding equal treatment.
-; mno_choice_05_2notaxj|Distribute bags of money among the people as compensation (2000 peningas).
-; mno_choice_05_3notaxj|Having no money for all these people, you order your men to disperse the crowd.
+mno_choice_05_1nj|Questo uomo ha già perso abbastanza. Esentalo dalle tasse a vita.
+mno_choice_05_2nj|Punisci quest'uomo con la morte se continua a rifiutarsi di pagare.
+mno_choice_05_3nj|Pagare all'uomo un guidrigildo per la morte dei suoi ragazzi.
+menu_nobody_want_paytax|Improvvisamente, la stanza in cui eserciti la sua autorità legale è affollata da persone che hanno perso i loro figli in guerra, tutti chiedendo parità di trattamento.
+mno_choice_05_2notaxj|Distribuisci sacchi di denaro tra la gente come risarcimento (2000 denari).
+mno_choice_05_3notaxj|Non avendo soldi per tutte queste persone, ordini ai suoi uomini di disperdere la folla.
 ; menu_event_06_juicio|Two men come to you. Your men say they are ready to kill each other. One of them has cut some old oaks that were blocking traffic on the way, but they were actually within the borders of the estate of the other.^^'Those trees made the passage of my cart difficult!' exclaims the first one. 'We are only talking about trees. I do not understand this suit!'^^'Those trees were on my land, planted by my father, recently deceased,' shouts the other.
-; mno_choice_06_1nj|The man who cut the trees must pay to the other in compensation.
-; mno_choice_06_2nj|Trees hindered the way. They had to be cut.
+mno_choice_06_1nj|L'uomo che ha tagliato gli alberi deve pagare all'altro un risarcimento.
+mno_choice_06_2nj|Gli alberi ostacolavano la strada. Dovevano essere tagliati.
 ; mno_choice_06_3nj|The man who cut the trees must give money to the other and to you as punishment.
-; menu_event_07_juicio|The harvest this year promises to be very bad, which means starvation for the winter. What should we do?
-; mno_choice_07_1nj|Buy some wagons of grain from other places. (1000 peningas)
-; mno_choice_07_2nj|I do not have enough money to buy food elsewhere.
-; mno_choice_07_3nj|Serves them right for not tending to their crops carefully enough!
-; mno_choice_07_4nj|Buy some grain to alleviate the problem. (500 peningas)
+menu_event_07_juicio|Il raccolto di quest'anno promette molto male, il che significa che patiremo la fame quest'inverno. Cosa dovremmo fare?
+mno_choice_07_1nj|Acquista alcuni carri di grano da altri luoghi. (1000 denari)
+mno_choice_07_2nj|Non ho abbastanza soldi per comprare cibo altrove.
+mno_choice_07_3nj|Gli serva da lezione per non aver curato le coltivazioni con la necessaria attenzione!
+mno_choice_07_4nj|Comprare un po 'di grano per mitigare il problema. (500 denari)
 ; menu_event_08_juicio|One of the local leaders approaches you stating that he has an illegitimate son (whom he favours) who wishes to join your captains. You agree to meet the boy, as it would be unseemly to reject a noble outright. When you meet the boy, however, it is clear that he is a homebody, certainly not warrior material. Faced with this plump, smiling youth do you:
-; mno_choice_08_1nj|Allow him to join your captains.
-; mno_choice_08_2nj|Ask for payment to grease the deal.
-; mno_choice_08_3nj|Refuse. Only the best will serve as captains.
+mno_choice_08_1nj|Permettigli di incontrare i tuoi capitani.
+mno_choice_08_2nj|Chiedi un pagamento per ungere l'affare.
+mno_choice_08_3nj|Rifiuta. Solo i meritevoli serviranno come capitani.
 ; menu_event_09_juicio|Two proposals come before you one day. One is from a scholarly young priest called Osberh, who proposes building a church in {s4}. He promises to instruct you in new knowledge that will increase your intelligence in return.^^Another man, upon hearing this, pushes himself before you. He is a hulking, great-bearded warrior who overshadows Osberh completely. He suggests the funds would be better used on a training camp, and he promises to teach you a trick to increase your physical prowess.
-; mno_choice_09_1nj|Choose Osberh's idea. You need to improve your intelligence.
-; mno_choice_09_2nj|Choose the warrior. You need improve your strength.
-; mno_choice_09_3nj|I have enough money to build both facilities (3000 peningas).
+mno_choice_09_1nj|Scegli l'idea di Osberh. E' necessario migliorare la vostra intelligenza.
+mno_choice_09_2nj|Scegli il guerriero. E' necessario migliorare la tua forza.
+mno_choice_09_3nj|Ho abbastanza soldi per costruire entrambe le strutture (3000 denari).
 ; mno_choice_9_4nj|Hah! You have enough intelligence already not to fall for either one.
 ; menu_event_10_juicio|A searing flash crosses the night sky. There is much talk of omens the next day. The people of {s4} generally agree that some act of sacrifice must be committed, or some divine wrath will befall the kingdom. The practise of the wickerman suddenly gains impetus, as it is near harvest time. They find an angelic girl and treat her as a living goddess. Suddenly, you realize that the whole place follows traditions supposedly lost for centuries.
-; mno_choice_10_1nj|Allow the sacrifice of the girl.
-; mno_choice_10_2nj|Forbid the sacrifice and take the girl into your party for safety.
-; mno_choice_10_3nj|This is no affair of yours.
+mno_choice_10_1nj|Permetti il sacrificio della ragazza.
+mno_choice_10_2nj|Vieta il sacrificio e prendi la ragazza nella tua compagnia per la sua sicurezza.
+mno_choice_10_3nj|Questo non è affar tuo.
 ; menu_event_11_juicio|A runner arrives at your court, and after you allow it, starts to tell dire news. 'My {reg59?lady:lord}, a nearby village is in great danger! The populace has some kind of strange sickness, they can hardly move, sweat and vomit, and the local wise-woman has no cure for it. The local leader doesn't let anyone out at the moment and is expecting your orders!'
-; mno_choice_11_1nj|Quarantine the place, but send the best area physicians to help! (500 peningas)
-; mno_choice_11_2nj|Quarantine the place! We will examine the survivors when the epidemic is over!
+mno_choice_11_1nj|Metti in quarantena il posto, ma inviare i migliori medici della zona per aiutare! (500 denari)
+mno_choice_11_2nj|Metti in quarantena il posto, esamineremo i sopravvissuti quando l'epidemia sarà finita!
 ; menu_event_12_juicio|Two nuns approach you. 'My {reg59?lady:lord}, we have a childbirth that is not going well! We tried everything we could, but it seems that the young lady is simply not suited for pregnancy. The girl is the daughter of a prominent local lord. What can we do?'
-; mno_choice_12_1nj|Everybody, kneel down and start praying!
-; mno_choice_12_2nj|Guards: Bring me the wise-woman from the village, NOW!
+mno_choice_12_1nj|Tutti, inginocchiatevi e cominciate a pregare!
+mno_choice_12_2nj|Guardie: Portatemi  la saggia del villaggio, ORA!
 ; menu_event_13_juicio|One day, a loyal noble from nearby comes to you with a strange request. 'My lord, I am in a very bad situation. I spent all my money on proper equipment and troops, so that I can serve you well. However, my first daughter is about to marry, and I cannot send a proper dowry with her to the husband.'
-; mno_choice_13_1nj|Take this bit of silver for your faithful service (800 peningas).
-; mno_choice_13_2nj|I will help you now, but this is the last time (400 peningas).
-; mno_choice_13_3nj|No, you should have saved up the money up front!
+mno_choice_13_1nj|Prendete questo argento per il vostro fedele servizio (800 denari).
+mno_choice_13_2nj|Vi aiuterò ma questa è l'ultima volta (400 denari).
+mno_choice_13_3nj|No, avresti dovuto mettere i soldi da parte quando potevi!
 ; menu_event_14_juicio|One day, a Christian missionary arrives at your doorstep. He is very enthusiastic. 'My {reg59?lady:lord}, I have splendid news! There is a merchant from Jerusalem in {s4} now, and he is willing to sell us a piece of the Holy Cross! I cannot believe that we have the opportunity to own such a famous relic! And this would help me so much to spread the word of Christ to the faithful!'
-; mno_choice_14_1nj|We don't pay for fake relics!
-; mno_choice_14_2nj|Sorry, but this place worships other gods. I won't waste my money.
-; mno_choice_14_3nj|Good offer indeed, but sadly we don't have that much in our coffers.
-; mno_choice_14_4nj|We cannot let this opportunity slip! (5000 peningas)
+mno_choice_14_1nj|Non paghiamo per false reliquie!
+mno_choice_14_2nj|Siamo spiacenti, ma qui adoriamo altri dei. Non sprecherò il mio denaro.
+mno_choice_14_3nj|Bella offerta, davvero, ma purtroppo non abbiamo molto nelle nostre casse.
+mno_choice_14_4nj|Non possiamo lasciarci sfuggire questa opportunità! (5000 denari)
 ; menu_event_15_juicio|You are having a feast with your companions when a messenger comes to your attention, 'My {reg59?lady:lord}, there is a situation in {s4} that needs your counsel.' Excusing yourself, you step outside.^^A crowd has gathered there, arguing, but when you appear, it quickly falls silent. An elder bows to you and asks permission to speak, which you give. He speaks: 'My {reg59?lady:lord}, we need your wisdom. Two women claim to be the mother of this child. Neither will defer.'^Two women are presented. One is in fine clothes and the other in rags.
 mno_choice_15_1nj|Dai il bambino alla donna povera.
 mno_choice_15_2nj|Dai il bambino alla donna ricca.
-; mno_choice_15_3nj|Order to cut the child in half and give each half to one of the women.
+mno_choice_15_3nj|Taglia il bambino a metà e dividilo tra le due donne.
 ; menu_child_half_one|Then the woman in rags screams and says, 'No, please my {reg59?lady:lord}, let the other women have the child then.'^^Then the elder near you exclaims, 'So you are the rightful mother and this child belongs to you!'^^The other woman seems uneasy, 'I can give that child a better life than always living in poverty.'
 mno_choice_half1pj|Dai il bambino alla donna povera e punisci la donna ricca per aver mentito.
 mno_choice_half2pj|Dai il bambino alla donna povera e dai la donna ricca alla folla.
 mno_choice_half3pj|Dai il bambino alla donna ricca.
 mno_choice_half4pj|Dai il bambino alla donna ricca e dai la donna povera ai tuoi uomini.
 ; menu_event_16_juicio|Your advisor, streaked with dirt and sunburned, arrives after inspecting the harvest. 'My Lord, the harvest is poor this year. If you do not reduce taxes there will be starvation this winter.'
-; mno_choice_16_1nj|Less taxes means less soldiers. Better an empty gut than a cut throat.
-; mno_choice_16_2nj|Well, I will compensate them from my purse (1000 peningas).
+mno_choice_16_1nj|Meno tasse significa meno soldati. Meglio un intestino vuoto che una gola tagliata.
+mno_choice_16_2nj|Bene, li ricompenserò direttamente io (1000 denari).
 ; menu_event_17_juicio|A peasant from a nearby village comes to you as a supplicant. He breathlessly reports that armed men have raided his farm, carrying off women, cattle and grain. He is spattered with blood and stinks of burned thatch.
-; mno_choice_17_1nj|Hire watchmen to guard the area (800 peningas).
-; mno_choice_17_2nj|There is nothing to be done here. Away with you, mongrel!
-; mno_choice_17_3nj|There will be war. Take this money and rebuild your village.
+mno_choice_17_1nj|Noleggia sentinelle a guardia della zona (800 denari).
+mno_choice_17_2nj|Non c'è niente da fare qui. Via di qua, bastardo!
+mno_choice_17_3nj|Ci sarà una guerra. Prendi questo denaro e ricostruisci il tuo villaggio.
 ; menu_event_18_juicio|A happy widow is accused of witchcraft after several men sworn to your vassal report pain while relieving themselves. Your vassal backs their claim. You suspect he has the same complaint but knows better than to air it publicly.
-; mno_choice_18_1nj|Banish the happy widow, exiling her to another place.
-; mno_choice_18_2nj|Pay the witch to help counteract the spread of Christianity.
+mno_choice_18_1nj|Bandisci la vedova felice, esiliala in un altro luogo.
+mno_choice_18_2nj|Paga la strega affinchè aiuti a contrastare la diffusione del cristianesimo.
 ; mno_choice_18_3nj|Where there's one, there's many! Kill anyone else reported for witchcraft.
 ; menu_event_19_juicio|A missionary comes upon you and tells you of one of your villages where he was introducing God's grace. When he and his followers wanted to fell an ancient tree important to the pagans, most of the inhabitants took up arms and drove them out.
-; mno_choice_19_1nj|This missionary is right: cut down this heretical tree.
+mno_choice_19_1nj|Questo missionario ha ragione: taglia questo albero eretico.
 ; mno_choice_19_2nj|This missionary is wrong. Have him and his followers burn for the gods.
 ; mno_choice_19_3nj|This missionary is wrong. Have those Christians abandon this village in peace.
 ; menu_event_20_juicio|A woman from a nearby village comes to you claiming that one of your men who died recently was her husband. She asks for assistance to take care of the remains.
-; mno_choice_20_1nj|Give her monetary assistance and send for a priest.
+mno_choice_20_1nj|Datele assistenza monetaria e inviate un prete.
 mno_choice_20_2nj|Non fare nulla. Non e' un mio problema.
 mno_choice_20_3nj|Sfortunatamente, non ho abbastanza denaro per questo.
 ; menu_event_21_juicio|The most important local leader comes to you with a request. 'My {reg59?lady:lord}, would it not show your great mercy and honor to provide for those who have suffered while serving under you? We have dozens of maimed, lame and aged ex-warriors begging for coin in the streets and many families who have lost fathers and husbands in your battles. We need to reward and protect your loyal supporters, or else men might be hesitant in the future to be in your shield wall.
-; mno_choice_21_1nj|It isn't my fault my men don't save their wealth for their families.
-; mno_choice_21_2nj|We should support our veterans and their families (800 peningas).
-; mno_choice_21_3nj|Open my coffers. All families shall receive support (2000 peningas).
-; mno_choice_21_4nj|I have no money for this unexpected expense.
+mno_choice_21_1nj|Non è colpa mia se i miei uomini non conservano il loro stipendio per le loro famiglie.
+mno_choice_21_2nj|Dobbiamo sostenere i nostri veterani e le loro famiglie (800 denari).
+mno_choice_21_3nj|Apri i forzieri. Tutte le famiglie riceveranno sostegno (2000 denari).
+mno_choice_21_4nj|Non ho abbastanza soldi per questa spesa imprevista.
 ; menu_event_22_juicio|A seemingly straightforward case is brought before you. Yesterday, the accused man broke into the victim's house and removed large amounts of wealth. Many people saw him, and the missing items were discovered in his house. The victim is an influential supporter of the previous lord, had actually served as a councillor and was known to be of doubtful loyalty. The accused, on the other hand, happens to be one of your most vocal supporters and a major donor to your cause.
-; mno_choice_22_1nj|Ignoring the evidence, you settle in your man's favor.
-; mno_choice_22_2nj|The evidence is clear, and the accused is found guilty.
-; mno_choice_22_3nj|Both parties are in the wrong. You exile them and confiscate all material.
+mno_choice_22_1nj|Ignora l'evidenza, schierati a fianco del tuo uomo.
+mno_choice_22_2nj|L'evidenza è chiara, l'imputato è colpevole.
+mno_choice_22_3nj|Entrambi sono in torto. Esiliali e confisca tutti i loro beni.
 ; menu_event_juicio_end|A seemingly straightforward case is brought before you. Yesterday, the accused man broke into the victim's house and removed large amounts of wealth. Many people saw him, and the missing items were discovered in his house. But the victim is an influential supporter of the previous lord, had actually served as a councillor and was known to be of doubtful loyalties. The accused, on the other hand, happens to be one of your most vocal supporters and has donated much money to your cause.
-; mno_choice_end_1nj|Ignoring the evidence, you settle in your man's favor.
-; mno_choice_end_2nj|The evidence is clear, and the accused is found guilty!
-; mno_choice_end_3nj|You claim both parties are in the wrong. You exile them and confiscate all material.
+mno_choice_end_1nj|Ignora l'evidenza, schierati a fianco del tuo uomo.
+mno_choice_end_2nj|L'evidenza è chiara, l'accusato è colpevole.
+mno_choice_end_3nj|Sostieni che entrambi sono in torto. Esiliali e confisca tutti i loro beni.
 ; menu_riots_01|Your relation with {s4} is very bad. As you walk its streets, people look at you hatefully and make gestures behind your back. You get beyond a corner, and you're safe -- until several people begin to emerge. Ordinary citizens are tired of your government and begin to insult you. Finally, someone becomes bold enough to pull a knife and attack you.
-; mno_deffend_yr|Defend yourself.
+mno_deffend_yr|Difendi te stesso.
 ; menu_riots_02|An angry mob insulted your name, blamed a group of your warriors walking the streets for all their ills, and attacked and killed them all. You should improve your relations with {s4} as soon as possible.
-; mno_deffend_01ri|Order your men to kill the perpetrators and seize their possessions.
-; mno_deffend_02ri|I will not rule by fear. I have to improve relations by other means.
-; mno_deffend_03ri|Exterminate the population of the entire city and repopulate it with people that are more loyal.
+mno_deffend_01ri|Ordina ai tuoi uomini di uccidere i colpevoli e sequestra i loro beni.
+mno_deffend_02ri|Non voglio governare con la paura. Devo migliorare le relazioni con altri mezzi.
+mno_deffend_03ri|Stermina la popolazione della città e ripopolala con persone più fedeli.
 menu_random_normal_events|Eventi
 menu_random_normal_events2|Eventi
 ; menu_event_01_normal|The sound of a galloping horse pierces the cold morning, and you run outside to find a watchman dismounting. He tells you that a strange ship carrying men who speak a foreign language has been shipwrecked on the coast nearby. What do you do?
-; mno_choice_01_1nor|Send men to search for valuables. If there are any survivors, kill them.
+mno_choice_01_1nor|Invia gli uomini alla ricerca di oggetti di valore. Se trovano dei sopravvissuti, li uccideranno.
 mno_choice_01_2nor|Manda uomini ad investigare. Se ci dovessero essere sopravvissuti, reclutali.
 mno_choice_01_3nor|Non fare nulla.
 menu_event_02_normal|{s4}
 mno_choice_11_msgnor|Continua.
-; menu_event_03_normal|You've heard that a bard has composed a song about your noble deeds.
+menu_event_03_normal|Avete sentito che un bardo ha composto una canzone riguardante le vostre nobili azioni.
 mno_choice_03_1nor|Eccellente notizia!
-; mno_choice_03_2nor|Reward him with 300 peningas. Let this song be played across the land.
+mno_choice_03_2nor|Ricompensalo con 300 denari. Permetti che questa canzone faccia il giro di queste terre.
 ; menu_event_04_normal|Tales of your successes spread around the country. Everywhere you go, your procession is surrounded by beggars.
 ; mno_choice_04_1no|Allocate 200 peningas to an alms fund.
 mno_choice_04_2no|Ignorali.
-; mno_choice_04_3no|Beggars, huh? Release the hounds!
-; menu_event_05_normal|A young noble spreads rumors about your mother. Accusations of working in the world's oldest profession are the more delicate ones.
-; mno_choice_05_1no|I challenge him to a duel!
-; mno_choice_05_2no|It's just talk.
+mno_choice_04_3no|Mendicanti, eh? Sciogliete i mastini!
+menu_event_05_normal|Un giovane nobile diffonde voci su vostra madre. La accusa di fare il mestiere più antico del mondo è tra le più delicate.
+mno_choice_05_1no|Sfidalo in un duello!
+mno_choice_05_2no|Vagli a parlare.
 ; menu_event_06_normal|You encounter one of your soldiers' wives. She begs you to release her husband from his contract. The harvest was poor this year, and his wages can't feed the whole family. If he could come back and work on the field, they might survive.
-; mno_choice_06_1no|This can't be! Here, take 200 peningas.
-; mno_choice_06_2no|You release her husband from his duties.
+mno_choice_06_1no|Ciò non può accadere! Ecco, prendete questi 200 denari.
+mno_choice_06_2no|Sciogli il marito dall'incarico.
 ; menu_event_07_normal|A local naysayer is spreading false rumors about you. While most of the stories are just pure nonsense, sooner or later people will believe them.
-; mno_choice_07_1no|Let him say what he wants. Every man has his rights.
-; mno_choice_07_2no|Ask him to stop. One hundred peningas might help.
-; mno_choice_07_3no|Silence him permanently.
-; menu_event_08_normal|You are travelling through the forest and you suddenly spot a wild hare trapped in the snare. What do you do?
+mno_choice_07_1no|Dica quello che vuole. Ogni uomo ha i suoi diritti.
+mno_choice_07_2no|Chiedigli di smetterla. Cento denari dovrebbero bastare.
+mno_choice_07_3no|Zittiscilo per sempre.
+menu_event_08_normal|Sei in viaggio attraverso la foresta e improvvisamente trovi una lepre selvatica in una trappola. Che cosa fai?
 mno_choice_08_1nor|Libera l'animale.
-; mno_choice_08_2nor|Clench the snare and kill the animal!
+mno_choice_08_2nor|Stringi il laccio e uccidi l'animale!
 mno_choice_08_3nor|Passa vicino all'animale e ignoralo.
-; menu_event_09_normal|You receive news that a group of veteran warriors has heard of your fame and wishes to join you. However, they ask more pay than you typically pay for such troops.
+menu_event_09_normal|Ricevi la notizia che un gruppo di guerrieri veterani ha sentito parlare di te e desidera unirsi a voi. Tuttavia, chiedono uno stipendio più alto di quanto generalmente richiesto da questo tipo di truppe.
 mno_choice_9_1nor|Sono i benvenuti.
-; mno_choice_9_2nor|I do not need more troops.
-; mno_choice_9_3nor|Kill them. Surely they will yield some good loot.
-; menu_event_10_normal|You receive news that a number of women express interest in becoming camp followers.
+mno_choice_9_2nor|Non ho bisogno di altre troppe.
+mno_choice_9_3nor|Uccidilo. Sicuramente produrrà qualche buon bottino.
+menu_event_10_normal|Ricevi la notizia che un certo numero di donne esprimono interesse a diventare seguaci di campo.
 mno_choice_10_1nor|Sono i benvenuti.
-; mno_choice_10_2nor|I do not need more mouths to feed.
-; menu_event_11_normal|You receive news that a group of street musicians wishes to join you as army musicians and a standard bearer.
+mno_choice_10_2nor|Non ho bisogno di altre bocche da sfamare.
+menu_event_11_normal|Ricevi la notizia che un gruppo di musicisti di strada vogliono unirsi a te come musicisti dell'esercito e un alfieri..
 mno_choice_11_1no|Sono i benvenuti.
-; mno_choice_11_2no|I do not need more troops.
-; menu_event_12_normal|You see a crane circling above your party.
-; mno_choice_12_1nor|Tell your men that the crane symbolizes victory!
+mno_choice_11_2no|Non ho bisogno di altre troppe.
+menu_event_12_normal|Noti una gru volteggiare sopra la tua compagnia.
+mno_choice_12_1nor|Dì ai tuoi uomini che la gru simboleggia la vittoria!
 mno_choice_12_2nor|Ignora.
-; mno_choice_12_3nor|The cranes signify bad fortune, but you have faith in your men!
+mno_choice_12_3nor|Le gru significa cattiva sorte, ma hai fede nei tuoi uomini!
 ; menu_event_13_normal|A country farmer stands before you on the road with a weeping girl behind him. He points his finger accusingly at one of your men, saying that he raped his daughter and must be punished.
-; mno_choice_13_1nor|Brand the man and cast him out of your party.
-; mno_choice_13_3nor|It is a hard world, and a man must take what he can.
-; menu_event_14_normal|After hours, while your army rests near a village, the priest's wife comes to see you (alone) while her husband is away.
+mno_choice_13_1nor|Marca l'uomo e caccialo dalla tua compagnia.
+mno_choice_13_3nor|E' un mondo duro e un uomo deve prendere quello che può.
+menu_event_14_normal|Dopo alcune ore, mentre il vostro esercito riposa vicino ad un villaggio, la moglie del prete viene per vedervi (da sola) mentre il marito è lontano.
 mno_choice_14_1nor|Accetti.
 mno_choice_14_3nor|Rifiuti.
-; menu_event_15_normal|Your fame and popularity have attracted young Norsemen to your cause.
+menu_event_15_normal|La tua fama e la tua popolarità hanno attirato alcuni giovani norvegesi alla vostra causa.
 mno_choice_15_1nor|Accettali.
 mno_choice_15_2nor|Non ho bisogno di altri uomini.
 ; menu_event_16_normal|You spot a poor man on the road. He looks tired. You send one of your men to ask him why he is in the wilderness alone. He says that men robbed him, and if he doesn't get some money soon, he will starve. He says he served in the army once, and will make a loyal warrior.
-; mno_choice_16_1nor|Life's not fair. Give him nothing.
+mno_choice_16_1nor|La vita è ingiusta. Non dargli nulla.
 mno_choice_16_2nor|Dai abbastanza soldi per mangiare un giorno (10 peningas).
 mno_choice_16_4nor|Dai soldi per molti giorni (200 peningas).
-; mno_choice_16_5nor|Pay him and suggest he join your army.
+mno_choice_16_5nor|Pagalo e suggeriscigli di unirsi al tuo esercito.
 ; menu_event_17_normal|A group of bandits approaches your camp. As your men reach for their arms, the bandits put down their weapons and say they come in peace. The leader of the bandits approaches you and asks if they may join you.
-; mno_choice_17_1nor|Of course! My party always welcomes bloodthirsty men!
-; mno_choice_17_2nor|I'm sorry. We have no room for your kind!
-; mno_choice_17_3nor|Prove yourselves worthy by raiding a village!
+mno_choice_17_1nor|Certamente! La mia compagnia accoglie sempre uomini assetati di sangue!
+mno_choice_17_2nor|Spiacente. Non c'è posto per voi qui!
+mno_choice_17_3nor|Dimostratevi degni da saccheggiando un villaggio!
 mno_choice_17_4nor|Uccideteli tutti!
-; menu_event_18_normal|You come across the grave of an old forgotten warlord.
+menu_event_18_normal|Passi accanto alla tomba dimenticata di un vecchio comandante,
 ; mno_choice_18_1nor|Rifle it for loot!
 mno_choice_18_2nor|Lascia il posto.
-; mno_choice_18_3nor|Tend to the grave and pay your respects.
-; menu_event_19_normal|You come across unguarded cattle from a nearby village
-; mno_choice_19_1nor|Return the animals to the village and ask for no reward.
-; mno_choice_19_2nor|I will return the animals and demand a reward.
-; mno_choice_19_3nor|Dinner! Round up and slaughter the animals.
-; menu_event_20_normal|Your fame and popularity have attracted two berserkir to your cause.
+mno_choice_18_3nor|Fermati alla tomba e rendigli omaggio.
+menu_event_19_normal|Vi imbattete in bestiame incustodito del villaggio vicino.
+mno_choice_19_1nor|Conduci gli animali al villaggio e non chiedere ricompensa.
+mno_choice_19_2nor|Conduci gli animali al villaggio e chiedi una ricompensa.
+mno_choice_19_3nor|Cena! Finisci e sventra l'animale.
+menu_event_20_normal|La tua fama e la tua popolarità hanno attirato due berserker alla tua causa.
 mno_choice_20_1nor|Accettali.
 mno_choice_20_2nor|Non ho bisogno di altri uomini.
-; menu_event_21_normal|Your fame and popularity have attracted two ulfhednar to your cause.
+menu_event_21_normal|La tua fama e la tua popolarità hanno attirato due ulfhednar alla tua causa.
 mno_choice_21_1nor|Accettali.
 mno_choice_21_2nor|Non ho bisogno di altri uomini.
-; menu_event_22_normal|During a break, some of your men, drunk, start to fight for the last drink of mead. Both draw their weapons and appear ready to kill.
-; mno_choice_22_1nor|Allow them to fight for the amusement of the rest of your men.
-; mno_choice_22_2nor|You prohibit drinking while on campaign. Punish both drunks with death.
-; mno_choice_22_3nor|Stop the fight and punish the men with lashes.
+menu_event_22_normal|Durante una pausa, alcuni dei tuoi uomini, ubriachi, iniziano a lottare per l'ultimo bicchiere di idromele. Entrambi sguainano le loro armi e sembra pronti ad uccidersi.
+mno_choice_22_1nor|Consentire loro di combattere per far svagare i tuoi uomini.
+mno_choice_22_2nor|Proibisci di bere durante la campagna. Punisci entrambi gli ubriachi con la morte.
+mno_choice_22_3nor|Fermare il combattimento e punisci gli uomini con la cinghia.
 ; menu_event_23_normal|As you travel, a man dressed in long robes approaches your army. When you grant him an audience, he says he can sell you Caledfwlch, the legendary sword of King Arthur, for 8000 peningas.
 mno_choice_23_1nor|Compra una spada.
-; mno_choice_23_2nor|You have no money to pay the sword.
+mno_choice_23_2nor|Non hai abbastanza denaro per pagare la spada.
 mno_choice_23_3nor|Non sono interessato.
 ; menu_event_24_normal|As you travel, you come upon a farm. Instead of showing customary hospitality, the farmer bars all the entries and puts his slaves, armed, at the door. Still, you know they are no match for your men.
-; mno_choice_24_1nor|Attack and burn the farm as punishment.
-; mno_choice_24_2nor|Move on. It's not worth stopping.
+mno_choice_24_1nor|Attacca e brucia la fattoria come punizione.
+mno_choice_24_2nor|Vai avanti. Non vale la pena fermarsi.
 ; menu_event_25_normal|Two men stop your army. They tell you that you are surrounded by five hundred warriors, ready to attack if you don't pay them 2000 peningas.
 mno_choice_25_1nor|Pagali.
 mno_choice_25_2nor|Attacca!
-; mno_choice_25_3nor|Go on your way.
+mno_choice_25_3nor|Continua per la tua strada.
 ; menu_event_26_normal|One of you scouts shows up with a bag on his back. You don't want to appear suspicious, but a fight-ready soldier would never carry such a bag. It sounds like... many heavy coins. You decide to.
-; mno_choice_26_1nor|Confiscate the bag and punish the soldier.
-; mno_choice_26_2nor|Allow him to keep it. He risks his life for you, so he deserves it.
-; mno_choice_26_3nor|Force him to share the benefits with the whole army.
+mno_choice_26_1nor|Confiscare la borsa e punisci il soldato.
+mno_choice_26_2nor|Permettigli di tenerlo. Rischia la vita per voi, quindi se lo merita.
+mno_choice_26_3nor|Costringerlo a condividerne i benefici con tutto l'esercito.
 ; menu_event_27_normal|Your soldiers come with an old man. After a long conversation, he admits his group wants to join your army and leave their village. Accepting them could cause problems with their lords. You decide to:
-; mno_choice_27_1nor|Not get involved in local rebellions.
-; mno_choice_27_2nor|Not help him and send his dead body to the village.
-; mno_choice_27_3nor|You could use extra men.
+mno_choice_27_1nor|Non farti coinvolgere in ribellioni locali.
+mno_choice_27_2nor|Non aiutarlo e invia il suo cadavere al villaggio.
+mno_choice_27_3nor|Potresti utilizzare qualche uomo in più.
 ; menu_event_28_normal|While you camp, a delegation of people from nearby approach. They say they have had a bad harvest and ask you for money to feed their children.
 mno_choice_28_1nor|Dai loro 4000 peningas.
 mno_choice_28_2nor|Dai loro 1000 peningas.
-; mno_choice_28_3nor|You tell them you do not have enough money to share.
+mno_choice_28_3nor|Di loro che non hai abbastanza soldi da condividere.
 mno_choice_28_4nor|Ignorali.
 ; menu_event_29_normal|While you camp, a delegation of people from nearby approach. They seem to have a problem with their lord and want your advice. Apparently, Vikings have ransacked the area, so they are poor now, but must still pay taxes to their lord. As their lord did not protect them from the Vikings, they ask whether they should not pay and prepare to fight if their lord attacks them or whether they should pay and let their families starve.
 mno_choice_29_1nor|Dai loro 8000 peningas per pagare le tasse e per comprare del cibo.
 mno_choice_29_2nor|Dai loro 4000 peningas per pagare le tasse.
-; mno_choice_29_3nor|You tell them they should fight rather than pay.
+mno_choice_29_3nor|Dite loro che dovrebbero combattere anzichè essere pagati.
 ; mno_choice_29_4nor|They should pay, for their lord would kill more of them than hunger.
 mno_choice_29_5nor|Ignorali.
 ; menu_event_30_normal|Along the way, you find a sick woman. Her skin has a yellow tone, and she coughs constantly. She's from a nearby village, but as no one there knows how to cure her illness, they have sent her to the roadside to see if a traveler knows a cure.
-; mno_choice_30_1nor|Give her 1000 peningas to hire a good physician.
-; mno_choice_30_2nor|As the best physician, {reg3?you order:{s3} orders} a blood-letting.
+mno_choice_30_1nor|Dai 1000 denari per assumere un buon medico.
+mno_choice_30_2nor|Come miglior medico, {reg3?ordini:{s3} ordini} un salasso.
 mno_choice_30_3nor|Ignorala. La sua malattia potrebbe essere contagiosa.
 menu_season_change|{s1}
 ; menu_troop_camp|A small camp is established for troops you want to leave in this place for the moment.^^(Select the troops you wish to leave in this camp and press the Give button to transfer them.)
@@ -1439,26 +1439,26 @@ menu_player_trait|{s3}
 menu_start_beda_final|FINALE
 ; menu_ship_capture|You are able to capture one of the enemy's ships. It's a {s2}, but due to the fight, the '{s1}' is in a bad condition. Do you want to add this ship to your fleet nevertheless?
 mno_capture|Aggiungi la nave alla tua flotta.
-; menu_sandboxmode_ok|Go to Sandbox mode?
+menu_sandboxmode_ok|Passa alla modalità libera?
 mno_continuesdb|Si.
-; menu_start_sea_travel|You are starting a sea travel.
-; menu_mutiny_start|The morale of some troops is low. They start a mutiny.
-; menu_mutiny_end|After the mutiny, the situation calms down.
+menu_start_sea_travel|Stai cominciando un viaggio in mare.
+menu_mutiny_start|Il morale delle truppe è basso. Sta cominciando un ammutinamento.
+menu_mutiny_end|Dopo l'ammutinamento, la situazione si calma.
 ; menu_print_ships|Your ships with ship type, name, quality and wood type: ^{s10}
 ; menu_work_start|Before long, your limbs tire of the monotonous work, but, as agreed, you work for an entire day.
 ; menu_work_end|Content, you look back on a day of honest labour, but then, looking at your wages, you think that a life of honest labour seems to be a rather meager existence.^^{s7}
 ; menu_landing_point_encounter_as_marshal|You are currently marshal. You attempt to disembark. {s1} {s2}^^Do you want to disembark now or wait?
 mno_disembark_yeslp|Sbarcare.
-; mno_disembark_nolp|Wait.
+mno_disembark_nolp|Aspetta.
 ; menu_landet_ships_encounter_as_marshal|You are currently marshal. You attempt to embark. {s1} {s2}^^Do you want to embark now or wait?
 mno_reembark_yesls|Imbarcarsi.
-; mno_reembark_nols|Wait.
+mno_reembark_nols|Aspetta.
 menu_recruit_volunteers_town|{s18}
-; menu_hunting|You have encountered {s1}. What do you want to do?
+menu_hunting|Hai incontrato {s1}. Che cosa vuoi fare?
 mno_hunt_go|Vai a cacciare.
 menu_after_hunt|{s1}
-; menu_slave_hideout|You have encountered a hideout. What do you want to do?
+menu_slave_hideout|Hai scoperto un nascondiglio. Cosa vuoi fare?
 menu_set_goal_trigger_new_game|{s1}
 menu_set_goal_message_complete_goal|{s1}
-; mno_new_goal|Choose a new goal.
+mno_new_goal|Scegli un nuovo obbiettivo.
 menu_auto_start_presentation|{s1}

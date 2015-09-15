@@ -57,20 +57,20 @@ p_zendar|Zendar
 ; p_castle_27|Badon
 ; p_castle_28|Escan Ceaster
 ; p_castle_29|Towan Blystra
-; p_castle_30|Din Tagell
+p_castle_30|Din Tagell
 ; p_castle_31|Cathures
 ; p_castle_32|Cuil nam
 ; p_castle_33|Caer Caradawg
 ; p_castle_34|Gobhann
 ; p_castle_35|Dun Duim
 ; p_castle_36|Dun Foither
-; p_castle_37|Dun Taruo
+p_castle_37|Dun Taruo
 ; p_castle_38|Dun Averte
 ; p_castle_39|Dun Onlaigh
 ; p_castle_40|Art Muirchol
-; p_castle_41|Din Bych
+p_castle_41|Din Bych
 ; p_castle_42|Dinas Bran
-; p_castle_43|Din Arth
+p_castle_43|Din Arth
 ; p_castle_44|Din Erth
 ; p_castle_45|Caer Seniont
 ; p_castle_46|Caer Sws
@@ -319,7 +319,7 @@ p_training_ground_2|Villaggio d'addestramento
 p_training_ground_3|Campo d'addestramento
 p_training_ground_4|Lago d'addestramento
 p_training_ground_5|Campo d'addestramento
-; p_monasterio1|Ad Candida Casam
+p_monasterio1|Ad Candida Casam
 p_monasterio2|Willibrord
 p_monasterio3|Dommoc
 p_monasterio4|Lindisfarne
@@ -348,7 +348,7 @@ p_monasterio23|Patricius
 ; p_monasterio27|Carthach
 ; p_monasterio28|Scelic Mhichi
 ; p_monasterio29|Gleann Da Loch
-; p_yourlair|Jab's Refuge
+p_yourlair|Rifugio di Jab
 ; p_thiaderd_lair|Thiaderd's Hideout
 ; p_destroy1|Thiaderd's Hideout, Destroyed
 ; p_destroy2|Sven's Lair, Destroyed
@@ -362,42 +362,42 @@ p_ferry_1b|stazione traghetti
 p_ferry_2b|stazione traghetti
 p_ferry_3b|stazione traghetti
 p_ferry_4b|stazione traghetti
-; p_jetty_1|jetty 1
-; p_jetty_2|jetty 2
-; p_jetty_3|jetty 3
-; p_jetty_4|jetty 4
-; p_jetty_5|jetty 5
-; p_jetty_6|jetty 6
-; p_looter_spawn_point|their hideout
-; p_looter_spawn_point2|their hideout
-; p_looter_spawn_point3|their hideout
-; p_steppe_bandit_spawn_point|their camp
+p_jetty_1|Molo 1
+p_jetty_2|Molo 2
+p_jetty_3|Molo 3
+p_jetty_4|Molo 4
+p_jetty_5|Molo 5
+p_jetty_6|Molo 6
+p_looter_spawn_point|loro nascondiglio
+p_looter_spawn_point2|loro nascondiglio
+p_looter_spawn_point3|loro nascondiglio
+p_steppe_bandit_spawn_point|loro campo
 ; p_taiga_bandit_spawn_point|their longphort
-; p_forest_bandit_spawn_point|their den
-; p_forest_bandit_spawn_point2|their den
-; p_forest_bandit_spawn_point4|their den
-; p_mountain_bandit_spawn_point|their camp
-; p_mountain_bandit_spawn_point3|their camp
-; p_new_sp|their parish
-; p_new_sp2|their parish
+p_forest_bandit_spawn_point|loro covo
+p_forest_bandit_spawn_point2|loro covo
+p_forest_bandit_spawn_point4|loro covo
+p_mountain_bandit_spawn_point|loro campo
+p_mountain_bandit_spawn_point3|loro campo
+p_new_sp|loro parrochhia
+p_new_sp2|loro parrochhia
 p_new_sp3|La campagna
 p_new_sp4|La campagna
 ; p_sea_raider_spawn_point_1|their longphort
 ; p_sea_raider_spawn_point_2|their longphort
 ; p_sea_raider_spawn_point_3|their longphort
-; p_desert_bandit_spawn_point|their camp
-; p_frank_looters_sp_1|their den
-; p_frank_looters_sp_2|their den
-; p_ship_raider_spawn_point_1|their landing
+p_desert_bandit_spawn_point|loro campo
+p_frank_looters_sp_1|loro covo
+p_frank_looters_sp_2|loro covo
+p_ship_raider_spawn_point_1|loro sbarco
 ; p_ship_raider_spawn_point_2|their longphort
-; p_ship_raider_spawn_point_3|their landing
+p_ship_raider_spawn_point_3|loro sbarco
 ; p_ship_raider_spawn_point_4|their longphort
 ; p_ship_raider_spawn_point_5|their longphort
-; p_ship_raider_spawn_point_6|their landing
-; p_testing_spawn_point|the sea
+p_ship_raider_spawn_point_6|loro sbarco
+p_testing_spawn_point|il mare
 p_landing_point|Punto di approdo
-; p_landing_point2|landing point2
+p_landing_point2|punto di sbarco 2
 p_the_fleet|La Flotta
 p_transporter|Trasportatore
-; p_troop_camp_1|Troop camp
-; p_troop_camp_2|Troop camp
+p_troop_camp_1|Alloggi delle truppe
+p_troop_camp_2|Alloggi delle truppe
