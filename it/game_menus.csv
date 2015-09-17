@@ -194,8 +194,8 @@ mno_destruir_campos_a|Saccheggia le fattorie vicine per risanare le tue scorte e
 mno_destruir_campos_b|Novità dagli uomini che ho inviato a saccheggiare coltivazioni e fattorie vicine?
 menu_siege_assault|Il tempo è essenziale, e si teme l'arrivo dei rinforzi per il posto. Assaltare significherà pesanti perdite, ma avete fatto la vostra parte. ^^ {s17} {s18} {s19}
 mno_scout_investigar|Chiama gli esploratori per fare rapporto su  {s4}.
-mno_poniendo_elementos_mantles|Ordina all'avanguardia di utilizzare i Mantelletti e di prepararsi per la carica dell'esercito principale.
-mno_poniendo_elementos|Ordina all'avanguardia di piazzare il materiale d'assalto per la carica dell'esercito principale.
+; mno_poniendo_elementos_mantles|Place mantles and assault material for the charge of the main army.
+; mno_poniendo_elementos|Place assault material for the charge of the main army.
 mno_castle_lead_attack|È arrivata l'ora. Guida i tuoi soldati all'assalto!
 mno_build_mantlet|Costruisci Mantelletti.
 mno_build_ladders|Costruisci l'attrezzatura e libera il terreno per l'assalto.
@@ -325,7 +325,7 @@ mno_collect_taxes_qst|{reg5?Continua a raccogliere tasse:Raccogli tasse}.
 mno_train_peasants_against_bandits_qst|Addestra i paesani.
 mno_village_hostile_action|Compi un'azione ostile.
 mno_village_leave|Parti...
-menu_village_hostile_action|Che tipo di azione hai in mente?^ (Hai bisogno di oltre 30 truppe.)
+menu_village_hostile_action|Che tipo di azione hai in mente?^ (Hai bisogno di oltre 20 truppe.)
 mno_village_force_convert|Tenta di convertire i contadini con la forza.
 mno_village_take_food|Costringi i contadini a darti le loro scorte.
 mno_village_steal_cattle|Ruba del bestiame.

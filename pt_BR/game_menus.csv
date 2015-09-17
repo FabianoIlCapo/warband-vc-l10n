@@ -194,8 +194,8 @@ mno_destruir_campos_a|Saquear fazendas próximas para reabastecer seus estoques 
 mno_destruir_campos_b|Alguma notícia dos homens que enviei pra pilhar as colheitas e fazendas vizinhas?
 menu_siege_assault|Tempo é essencial, e você teme a chegada de força de apoio para o lugar. Agredir significará pesadas baixas, mas você fez sua mente. ^^ {s17} {s18} {s19}
 ; mno_scout_investigar|Call the scouts for a report on {s4}.
-mno_poniendo_elementos_mantles|Ordenar a vanguarda a usar manteletes e se preparar para o ataque do exército principal.
-mno_poniendo_elementos|Ordenar a vanguarda a colocar material de assalto para o ataque do exército principal.
+; mno_poniendo_elementos_mantles|Place mantles and assault material for the charge of the main army.
+; mno_poniendo_elementos|Place assault material for the charge of the main army.
 mno_castle_lead_attack|A hora chegou. Lidere seus soldados em assalto!
 mno_build_mantlet|Construir manteletes.
 mno_build_ladders|Construir equipamentos e limpar o terreno para o assalto.
@@ -325,7 +325,7 @@ mno_village_wait|Esperar aqui por algum tempo.
 ; mno_train_peasants_against_bandits_qst|Train the peasants.
 ; mno_village_hostile_action|Take a hostile action.
 ; mno_village_leave|Leave...
-; menu_village_hostile_action|What action do you have in mind?^ (You need over 30 troops.)
+; menu_village_hostile_action|What action do you have in mind?^ (You need over 20 troops.)
 ; mno_village_force_convert|Try to convert the peasants forcefully.
 ; mno_village_take_food|Force peasants to give you supplies.
 ; mno_village_steal_cattle|Steal cattle.
