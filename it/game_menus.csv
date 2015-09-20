@@ -175,7 +175,7 @@ menu_port_attack|Stai attaccando il porto di {s1}. Hai {reg10} truppe in forma p
 mno_lead_attack|Porta i tuoi soldati in un assalto costiero.
 mno_attack_stay_back|Ordina ai tuoi uomini di attaccare mentre tu rimani nelle retrovie...
 mno_lift_siege|Abbandona l'attacco.
-menu_castle_besiege|Sei sotto assedio {s1}. {s2}^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}
+menu_castle_besiege|Stai assediando {s1}. {s2}^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}
 mno_siege_request_meeting|Chiedi un incontro con il comandante del castello.
 mno_siege_warfare_p|Guerra d'assedio (Pianifica Assedio).
 mno_siege_assault_p|Guerra d'assedio (Prepara l'assalto).
@@ -1072,7 +1072,7 @@ menu_encuentro_avituallamiento2|{s4}
 mno_back_to_siegeg3|Bene.
 ; menu_event_siege_07|Our scouts have found that the defenders have poisoned the water with dead animals. Do you want to buy water and ask the merchants to bring it via our supply route?
 mno_choice_07_1g|Sì (600 peningas).
-mno_choice_07_2g|No. Raziona l'acqua e scavanuovi pozzi.
+mno_choice_07_2g|No. Raziona l'acqua e scava nuovi pozzi.
 mno_choice_07_3g|Senza acqua l'assedio non può continuare. Abbandona l'assedio.
 menu_sed_siege|L'acqua si sta esaurendo e tuoi uomini si indeboliscono. Spinti dalla follia della sete alcuni di loro bevono l,acqua avvelenata e muoiono. Infine, un pozzo è completato e ottieni l'acqua. Per il momento, è possibile continuare l'assedio^^le tue vittime da acqua avvelenata sono:{s8}
 mno_back_to_siegeh|Il destino è inesorabile.

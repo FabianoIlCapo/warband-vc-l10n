@@ -139,48 +139,48 @@ dlga_port_chief_bodoletter5:port_chief2|Grazie.
 ; dlga_port_chief_pieles:port_chief_bodoletter5|I like doing business with you. Well, Atli Eiriksson is in Northvegr. At least, that's what one of his men told a whore here. Apparently, Atli carries something important that needs to be hidden...for now. He has gone to hide in a cave on the north coast of Northvegr, near Hordaland. Far thu vel.
 dlga_start:port_prisoners|Chi sei tu?
 ; dlga_port_prisoners:port_prisoners_2|Are you looking for a slave trader? {s9} wouldn't prosper without my slaves, so if you have any prisoners of war, I'd be willing to buy them.
-; dlga_port_prisoners_2:port_prisoners_3|I've brought some prisoners.
+dlga_port_prisoners_2:port_prisoners_3|Ho portato alcuni prigionieri.
 dlga_port_prisoners_2:close_window|Addio.
-; dlga_port_prisoners_3:port_prisoners_4|Nice to hear. Let's go.
+dlga_port_prisoners_3:port_prisoners_4|Sono felice di sentirtelo dire. Andiamo.
 dlga_port_prisoners_4:close_window|È un piacere fare affari con Vostra Signoria.
 ; dlga_start:port_r_2|Greetings. I'm a veteran captain who monitors activity at the port of {s9}. If you are interested in hiring unemployed sailors, let me know.
 dlga_port_crew_talk:port_r_2|C'è qualcosa che posso fare per voi?
-; dlga_port_r_2:port_recruitsl|I want to recruit sailors.
-; dlga_port_recruitsl:port_crew_talk|There are no available sailors in the port at this time. Come back later, {reg59?madam:sir}.
+dlga_port_r_2:port_recruitsl|Voglio reclutare marinai.
+dlga_port_recruitsl:port_crew_talk|Non ci sono marinai al porto disponibili al momento. Tornate più tardi,  {reg59?signore:signore}.
 ; dlga_port_recruitsl:port_crew_talk.1|I don't think anyone would be interested, {reg59?madam:sir}. You need to have more room in your party.
-; dlga_port_recruitsl:port_recruits2|I can think of {reg5} who I suspect would jump at the chance if you could pay 40 peningas {reg7?each for their equipment:for his equipment}. Does that suit you?
-; dlga_port_recruits2:port_crew_talk|Tell {reg7?them:him} to get ready.
+dlga_port_recruitsl:port_recruits2|Penso che {reg5} questa sia un'opportunità interessante. Se gli darete 40 denari {reg7?ognuno per il loro equipaggiamento:per il proprio equipaggiamento}. Vi può andar bene?
+dlga_port_recruits2:port_crew_talk| {reg7?Dite loro:Ditegli} di prepararsi.
 dlga_port_recruits2:port_crew_talk.1|No, non ora.
-; dlga_port_r_2:port_crew_fleetpr|My name is {playername}...
+dlga_port_r_2:port_crew_fleetpr|Il mio nome è {playername}...
 ; dlga_port_crew_fleetpr:close_window|Sorry, I'm busy preparing the boats and supplies for a fleet. If you do not need sailors, please leave me alone and come back later.
-; dlga_port_r_2:port_crew_fleet1|My name is {playername}. Aetheling Aelfred sent me.
-; dlga_port_r_2:port_crew_fleet1.1|My name is {playername}. Jarl Rathbarth send me.
+dlga_port_r_2:port_crew_fleet1|Il mio nome è {playername}. Mi ha mandato Aetheling Aelfred.
+dlga_port_r_2:port_crew_fleet1.1|Il mio nome è {playername}. Mi ha mandato Jarl Rathbarth.
 ; dlga_port_crew_fleet1:port_crew_fleet2|^^Greetings, {playername}. I was notified about your arrival. You are in charge of a fleet bound for Frankia. There are men, guides and boats waiting for you to join them out of port.
 ; dlga_port_crew_fleet2:the_fleetcrew1|Yes, the time has come. Douar-an-Enez awaits me.
 ; dlga_the_fleetcrew1:close_window|I was told it would be weeks, even months out, so good luck. Your fleet is waiting for you at the exit of the port. Take your boat and go with them.
 dlga_port_crew_fleet2:close_window|No. Ho bisogno di finire alcune cose. Tornerò.
-; dlga_port_r_2:close_window|I want to go. Farewell.
+dlga_port_r_2:close_window|Ora devo andare via. Addio .
 ; dlga_start:close_window.5|Why are you bothering me? I'm busy! I have no time for people like you. Come back another day. Or better yet, don't.^^       --It seems that Sigurd is not willing to receive you now. You'll need to look for another way to find out information about Sven.--
-; dlga_start:kinghorik_quest_danmarkprot|This is a good place away from prying ears. Now, talk.
-; dlga_start:kinghorik_quest_revenge4|This is a good place away from prying ears. Now, talk.
-; dlga_start:kinghorik_quest_thething1|Heill, {playername}.
+dlga_start:kinghorik_quest_danmarkprot|Questo è un buon posto, lontano da orecchie indiscrete. Ora, parliamo.
+dlga_start:kinghorik_quest_revenge4|Questo è un buon posto, lontano da orecchie indiscrete. Ora, parliamo.
+dlga_start:kinghorik_quest_thething1|Salve, {playername}.
 ; dlga_start:svenbn_hunting1_1|Heill, {playername}, vinr. Thanks to you, today we have won this battle! West Seaxe is now ours! But I guess you care more about Sven Bull Neck's location, right? Well, he got away, but not far. He has taken Readingum and has made a stronghold there, but my men have followed. I have put a hersir in my confidence, Arnvid, in charge of the mission. Meet him at Readingum. His men are at your disposal if you decide to assault the place.
 ; dlga_start:svenbn_hunting1_1.1|Salve, {playername}! The Danish are on the run and have lost many jarls in this battle. Although there are still many of them left, we have achieved an important victory, and they will not be so bold in the future.^^I have some news for you. Sven Bull Neck has fled back to Readingum and has fortified himself in there. My men, led by a man named Eadric, have followed him. They will be at your disposal when you arrive. The moment is yours! Go to Readingum and settle your accounts with Sven Bull Neck.
-; dlga_start:close_window.6|Sorry, this is not a good time to talk.
-; dlga_start:close_window.7|Sorry, this is not a good time to talk.
-; dlga_start:close_window.8|Sorry, this is not a good time to talk.
-; dlga_start:close_window.9|Sorry, this is not a good time to talk.
-; dlga_start:close_window.10|Sorry, this is not a good time to talk.
-; dlga_start:close_window.11|What do you want? I do not have time for you! Get yourself a priest!
-; dlga_start:close_window.12|Mael Bresail wants to talk to you.
-; dlga_start:close_window.13|Sorry, this is not a good time to talk.
-; dlga_start:conversation_companioncamp|--You find your companion in his usual part of the camp.--
-; dlga_start:close_window.14|I'm busy right now, {playername}. We'll talk later.
-; dlga_start:close_window.15|{reg59?Lady:Sir}, everything is in order in the camp.
+dlga_start:close_window.6|Spiacente, non è un buon momento per parlare.
+dlga_start:close_window.7|Spiacente, non è un buon momento per parlare.
+dlga_start:close_window.8|Spiacente, non è un buon momento per parlare.
+dlga_start:close_window.9|Spiacente, non è un buon momento per parlare.
+dlga_start:close_window.10|Spiacente, non è un buon momento per parlare.
+dlga_start:close_window.11|Che cosa vuoi? Non ho tempo da perdere per te! Cercati un prete!
+dlga_start:close_window.12|Mael Bresail vuole parlare con te.
+dlga_start:close_window.13|Spiacente, non è un buon momento per parlare.
+dlga_start:conversation_companioncamp|--Puoi trovare il tuo compagno al solito posto al campo.--
+dlga_start:close_window.14|Sono impegnato ore, {playername}. Parleremo più tardi.
+dlga_start:close_window.15|{reg59?Signora:Signore},  il campo è in perfetto ordine.
 ; dlga_conversation_companioncamp:beda_conversationcamp1|My {reg59?lady:lord}, sometimes I think, as we travel along the northern lands, what a dismal world we live in. I have read many books, but none of them talks about the violence and many dangers that we go through daily. 
 ; dlga_beda_conversationcamp1:beda_conversationcamp2|Well, I think the Danish are the hordes of Gog and Magog that will come at the last hour of the world and that the Kingdom of West Seaxe is the last human kingdom trying to fight the inevitable before the Second Coming.
 ; dlga_beda_conversationcamp2:beda_conversationcamp3|Err...can you explain that Gog and Magog thing?
-; dlga_beda_conversationcamp2:close_window|Very interesting, but I don't have time for this right now.
+dlga_beda_conversationcamp2:close_window|Molto interessante. ma ora non ho tempo per questo.
 ; dlga_beda_conversationcamp3:beda_conversationcamp4|Oh, well, the Bible mentions Gog as a leader of the horde coming from the land of Magog in the far north. In Ezekiel's prophecy, Gog leads a great army of skilled warriors from many different nations. They will attack the nation of men chosen by God, and there will be a great battle that will affect the whole world. I think that this is what is happening now, with all these pagans advancing over Englaland.
 dlga_beda_conversationcamp4:beda_conversationcamp5|{s10}
 ; dlga_beda_conversationcamp4:beda_conversationcamp6|We need to focus on the here and now. When the End comes, I assure you we won't miss it.
@@ -190,7 +190,7 @@ dlga_beda_conversationcamp5:close_window|{s4}
 ; dlga_conversation_companioncamp:egil_conversationcamp1|{playername}, I like you, but sometimes I think you're too naive as a leader. Allow me to give you some advice.
 ; dlga_egil_conversationcamp1:egil_conversationcamp2|I don't want to offend you, but I think you should take advantage of my experience. As you know, I grew up in the court of the king. I spend a lot of time in Ribe, where I meet the greatest warlords and their commanders.
 dlga_egil_conversationcamp2:egil_conversationcamp3|{s10}
-; dlga_egil_conversationcamp2:close_window|I do not need your lessons.
+dlga_egil_conversationcamp2:close_window|Non ho bisogno di altre lezioni.
 dlga_egil_conversationcamp3:close_window|{s4}
 ; dlga_conversation_companioncamp:donnachdh_conversationcamp1|Salve warlord, you should know that I'm from Eriu and descend directly from ancient warriors. Even my mother came from the old clan that the hero Cu Chulainn belonged to.
 ; dlga_donnachdh_conversationcamp1:donnachdh_conversationcamp2|Eriu is divided into small clans that are grouped under the ones that are more powerful. These form kingdoms, for ages five in number. It is very important for each clan to show its power, and they often fight small wars. We mostly fight against neighboring clans, where rivalry tends to flourish, but many times larger clans lead others to wars between kingdoms, because the most important men of the island aspire to the throne of Tara. Being the master of Tara means you are the high king, Ard Ruire, of all Eriu, and that brings much glory for your clan.
@@ -374,7 +374,7 @@ dlga_helgi_conversationcamp2:helgi_conversationcamp4|Sto ascoltando.
 ; dlga_conversation_companioncamp:brunhildvsegil_conv1|Are you serious, Egil? Did you really make out with a camp follower? I thought you were different and that you really cared about us, but now I see I was wrong. You are just a bastard in every meaning.
 ; dlga_brunhildvsegil_conv1:brunhildvsegil_conv2|Brunhild, Honey, you are just a slave and I'm the son of the king. Our story can't be real. We were just having fun, nothing else. I thought you knew that. You would have to be an idiot to think you can have a king's son just like that. You will always be my favourite, but I have and I will always have my good times with others... Who knows? Maybe someday I will find a lady to marry.
 ; dlga_brunhildvsegil_conv2:brunhildvsegil_conv3|Calm down!
-; dlga_brunhildvsegil_conv2:brunhildvsegil_conv3.1|(Say nothing)
+dlga_brunhildvsegil_conv2:brunhildvsegil_conv3.1|(Non sai niente)
 ; dlga_brunhildvsegil_conv3:brunhildvsegil_conv4|Do you really think that? You are not so superior to me. Your father might be a king, but your mother was nothing but a slave, like me. You will never get anyone better than me, and you will lose me if your attitude doesn't change.
 ; dlga_brunhildvsegil_conv4:brunhildvsegil_conv5|I don't need to be officially recognised as an heir. Everyone knows that I'm the son of the king of Danmark. Every single lady in the kingdom sighs for me. Don't get me wrong, I love you and I really like what we have, but I can have so much more.
 ; dlga_brunhildvsegil_conv5:close_window|...^^--Nothing to do here. You run while you can.--
@@ -889,7 +889,7 @@ dlga_member_fief_grant_3:close_window|{s5}
 ; dlga_start:sigurd_quest_revenge10|You send me to my death, my friend, but I do not blame you. I understand that you want to rescue your mother. I regret only two things: failing my king and leaving his letter in the hands of his enemies and not having obtained your fidelity when I had the chance.
 ; dlga_start:close_window.37|So, scum, did you think that you could turn against the Danish and not pay? It's time for someone else to take legitimate direction of this party. It is time for me, Egil, to take possession of this letter and bring it to my father, King Horik. I spent so long at your side, just to discover that you are a treacherous rat. After everything that has happened... Well, I have long doubted your skills to command an army. Now, you are going to die. This is my moment of glory.
 ; dlga_start:close_window.38|My {reg59?lady:lord}, you must hurry to join the king. Follow me.
-; dlga_start:close_window.39|Sorry, this is not a good time to talk.
+dlga_start:close_window.39|Spiacente, non è un buon momento per parlare.
 ; dlga_start:brunhild_avisa|My {reg59?lady:lord}, Sven's hideout was a dangerous place, but we managed to ransom Bodo. I understand you want to find your mother, but let me tell you when I was in the court of the jarl of Kennemer, I heard horrible things about Sigurd...
 ; dlga_start:companions_despuesduelo1|My {reg59?lady:lord}, we want you to know that no one blames you for what happened in the duel, and everyone still fully supports you.
 dlga_start:close_window.40|Possiamo partire quando lo riterrai opportuno.
@@ -1290,7 +1290,7 @@ dlga_minister_messenger_system2:minister_messenger_system3|{s1}.
 ; dlga_minister_prisionero4:minister_pretalk|What? Even more money is necessary? Ye gods, let us think this over!
 ; dlga_minister_prisionero5:minister_pretalk|Well, a messenger will be sent to {s11} with your proposal to release {s10}.
 ; dlga_minister_talk:minister_faith|I want a report on the piety of my subjects and new conversions.
-; dlga_minister_faith:minister_faith2|{s22}
+dlga_minister_faith:minister_faith2|{s22}
 ; dlga_minister_faith2:minister_pretalk|Thanks.
 ; dlga_minister_talk:minister_basicnanksystem1|I want to see the kingdom's coffers.
 ; dlga_minister_basicnanksystem1:minister_basicnanksystem2|The money in your coffers currently amounts to {reg0} peningas.^^What do you wish to do?
@@ -2178,7 +2178,7 @@ dlga_prisionero_interrogation42:prisionero_interrogation43|{s5}
 ; dlga_revenge_kingmen4:revenge_kingmen5.1|Sven Bull Neck did me much evil. I promise nothing.
 ; dlga_revenge_kingmen5:close_window|The king is a man who likes his wishes to be executed. Now we enter the farm. My men are hungry and thirsty.
 ; dlga_harald_meeting1:harald_meeting21|I am especially interested in this meeting. I have long been waiting to hear from my mother.
-; dlga_harald_meeting1:harald_meeting3|(Say nothing)
+dlga_harald_meeting1:harald_meeting3|(Non sai niente)
 ; dlga_harald_meeting21:harald_meeting3|I think you may be wondering what our guest may have to say about this, but first we go to the most urgent matter.
 ; dlga_harald_meeting3:harald_meeting4|In Northhymbre, our Danish brothers have become strong. They control the kingdom through a puppet king. There are small uprisings of Angles, but these are localized and severely repressed. Nothing serious. The latest news we have is that the sons of Ragnar have moved south and taken a place, known as Snotingaham, in Mierce. The king of Mierce has not taken this well. He has besieged them there with his army, supported by the king of West Seaxe. We fear that the Ragnarssons may be in a hard place, so our mission is to go to Jorvik and join the forces that are gathering under Rathbarth, another of the sons of Ragnar, in support of his brothers. From there we will move south to meet the Angles and Saxons. With a little luck, we will kill their kings and the road south will be opened for plunder. You will come back rich to your wife and kids this year.
 ; dlga_harald_meeting4:harald_meeting4_1|I hope so. I have too many mouths to feed!
@@ -2426,7 +2426,7 @@ dlga_hero_pretalk:lord_talk|Nient'altro?
 ; dlga_kinghorik_quest_revenge68:kinghorik_quest_revenge69|The Ragnarssons are powerful men, with lands in many places, like Danmark, Sweoland and now Northhymbre. Right now, it seems that their efforts are against Englaland, and they are, but this means ensuring that Danmark provide easy access to resources and warriors. If Sigurd is king here, he will guarantee all that. Moreover, now he can unite the Danish, for the gift I was carrying was the sword of Ragnar Lodbrok. His sons, Bjorn Ironside and Haesten, lost it when a Muslim fleet defeated them south of Al-Andalus.
 ; dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7|How did you get the sword from the Muslims?
 ; dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7.1|Bodo, I'm impressed. You know a lot about the Danish. What are you not telling me?
-; dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge71|(Say nothing)
+dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge71|(Non sai niente)
 ; dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71|It was a gift to my king made by the emir of Al-Andalus in exchange for valuable prisoners. Aethelred, king of West Seaxe, was very interested in this sword, and my king Aldefonso got it for him.
 ; dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71.1|I have been before in the north, but this is not important now.
 ; dlga_kinghorik_quest_revenge71:kinghorik_quest_revenge72|Ragnar was more than a man. The skalds revere him as god, and the men feed their souls with his legend. Sigurd could carry the sword to the Assembly and claim the merit of recovering it. He might demand to be king and even kill me, and everyone might just forgive him for having recovered his father's sword. Ragnar's sword must be destroyed before anyone knows it exists.
@@ -2597,7 +2597,7 @@ dlga_kinghorik_quest_thething17_2:kinghorik_quest_thething18|{s4}
 ; dlga_kinghorik_quest_thething30_2:kinghorik_quest_thething31|Well, the Assembly has spoken. Before gods and men, this quarrel has ended between these two men.
 ; dlga_kinghorik_quest_thething31:kinghorik_quest_thething31_2|Odin, Thor and Frey have heard what is here decided. May they punish any who do not fulfill their oaths.
 ; dlga_kinghorik_quest_thething31_2:kinghorik_quest_thething33|Regarding the case of the witness called Reginhard, who has been accused of lying, the gods must decide his culpability. As the accusation is grave, this Assembly has decided that {playername} and Reginhard will engage in a holmgang, a duel to the death, on the island called Short, within six days. Two will go, but only one return. If one of them fails to show up, {reg59?he or she:he} will be declared nithingr, coward, less than a man, and this will be told by skalds and messengers to all men in Danmark and abroad.
-; dlga_kinghorik_quest_thething33:kinghorik_quest_thething33_4|I accept the decision of the Assembly.
+dlga_kinghorik_quest_thething33:kinghorik_quest_thething33_4|Accetta la decisione dell'Assemblea.
 ; dlga_kinghorik_quest_thething33:kinghorik_quest_thething33_1|I refuse to kill Reginhard.
 ; dlga_kinghorik_quest_thething33_1:kinghorik_quest_thething33_2|Do you wish to be a nithingr? Nobody will follow you. Everybody will be free to kill you. Moreover, you are agreeing with Reginhard, who has betrayed us. I argue that Reginhard is a liar, and if you do not face him, giving the reason, I say that you're a liar too.
 ; dlga_kinghorik_quest_thething33_2:kinghorik_quest_thething33_3|The decisions of the Assembly cannot be gainsaid. They are backed by the gods and the free men of Danmark. The sentence is a duel to discover the lie. {playername}, you must choose: fight against Reginhard or defend him against Egil.
@@ -2617,9 +2617,9 @@ dlga_kinghorik_quest_thething17_2:kinghorik_quest_thething18|{s4}
 ; dlga_alfredthegreat1:alfredthegreat22|(Do not bow to him)
 ; dlga_alfredthegreat21:alfredthegreat3|{s2}^^Regards, Danish envoy. What do your masters want now?
 ; dlga_alfredthegreat22:alfredthegreat3|{s2}^^You are a proud {reg59?woman:man}, but you should know that an envoy should be courteous and take full advantage of diplomacy. What do your masters want now?
-; dlga_alfredthegreat3:alfredthegreat41|I have a letter for you from Bjorn, son of Ragnar.
-; dlga_alfredthegreat3:alfredthegreat42|I have a letter for you from Bjorn. They know they will lose and want a truce.
-; dlga_alfredthegreat3:alfredthegreat43|I have a letter for you from Bjorn. They are still willing to negotiate.
+dlga_alfredthegreat3:alfredthegreat41|Ho una lettera per te da parte di Bjorn, figlio di Ragnar.
+dlga_alfredthegreat3:alfredthegreat42|Ho una lettera per te da parte di Bjorn, figlio di Ragnar. Sanno che perderanno e vogliono una tregua.
+dlga_alfredthegreat3:alfredthegreat43|Ho una lettera per te da parte di Bjorn. Vogliono negoziare.
 ; dlga_alfredthegreat41:alfredthegreat5|{s2}^^The Danish want to meet with us to negotiate the terms of their retreat. This is good news.
 ; dlga_alfredthegreat42:alfredthegreat5|{s2}^^The Danish want to meet with us to negotiate the terms of their retreat. Thank you for the information about their weakness, but I think we are still interested in this deal.
 ; dlga_alfredthegreat43:alfredthegreat5|{s2}^^While I admire your loyalty to your masters, do not treat me like a fool. We have received news of the disaster of the fleet sent from Danmark, and in the north, the Danish have many problems with Picts. However, we have our own problems right now, so this deal is good for us.
@@ -2627,19 +2627,19 @@ dlga_kinghorik_quest_thething17_2:kinghorik_quest_thething18|{s4}
 ; dlga_alfredthegreat6:alfredthegreat7|Do not underestimate the enemy, Uthred. We will take this opportunity to make peace.
 ; dlga_alfredthegreat7:alfredthegreat81|It's a good opportunity to avoid further bloodshed on either side.
 ; dlga_alfredthegreat7:alfredthegreat82|You can annihilate us now, but next year the Danish will return with more men.
-; dlga_alfredthegreat7:alfredthegreat83|(Say nothing)
+dlga_alfredthegreat7:alfredthegreat83|(Non sai niente)
 ; dlga_alfredthegreat81:alfredthegreat9|Sod is paet thu segst! I'm glad to see that we agree. The Danish have many men in Snotingaham yet, and the walls are high. Even if we could win this battle, I'm not sure we'd want to. In addition, the winter could see us still besieging this place, and we are far from home. As hard as it would be for them to starve inside, it would be harder for us to starve outside.
 ; dlga_alfredthegreat82:alfredthegreat9|You are a soldier, not a leader. When the lives of others depend on you, you must weigh your options carefully. Not everything is resolved with blood. The Danish have many men in Snotingaham yet, and the walls are high. Even if we could win this battle, I'm not sure we'd want to. In addition, the winter could see us still besieging this place, and we are far from home. As hard as it would be for them to starve inside, it would be harder for us to starve outside.
 ; dlga_alfredthegreat83:alfredthegreat9|The Danish have many men in Snotingaham yet, and the walls are high. Even if we could win this battle, I'm not sure we'd want to. In addition, the winter could see us still besieging this place, and we are far from home. As hard as it would be for them to starve inside, it would be harder for us to starve outside.
 ; dlga_alfredthegreat9:close_window|Well, go back to your jarl, Bjorn Ragnarsson, and tell him that we are ready to negotiate their way out of Snotingaham and lasting peace. I give notice to my men not to attack you. Beod ge gesunde.
 ; dlga_ragnarssons_1:ragnarssons_2_1|Jarl Bjorn Ragnarsson sends me.
-; dlga_ragnarssons_1:ragnarssons_2_2|I cannot talk about this.
+dlga_ragnarssons_1:ragnarssons_2_2|Non voglio parlare di ciò.
 ; dlga_ragnarssons_2_1:ragnarssons_3|{s2}^^It is nice to hear. Bjorn Jarnsida, Ironside, is a legend, possibly the Ragnarsson most loved by Odin. Just have out your news. What is happening?
 ; dlga_ragnarssons_2_2:ragnarssons_3|{s2}^^I see. Just have out your news. What is happening?
 ; dlga_ragnarssons_3:ragnarssons_3_1|The reinforcements that were coming from Danmark were destroyed for treason.
 ; dlga_ragnarssons_3:ragnarssons_3_2|Jarl Bjorn wants to negotiate your surrender with the Saxons.
 ; dlga_ragnarssons_3:ragnarssons_3_3|We have destroyed Saxon foragers!
-; dlga_ragnarssons_3:ragnarssons_3_4|I cannot talk about this.
+dlga_ragnarssons_3:ragnarssons_3_4|Non voglio parlare di ciò.
 ; dlga_ragnarssons_3_1:ragnarssons_4|{s2}^^But this is terrible! Our leaders told us that reinforcements were on the way and that we could then easily defeat the Saxons. By Thor! This changes everything!
 ; dlga_ragnarssons_3_2:ragnarssons_4|I do not believe that! Bjorn would never deliver us to the Saxons. You're a liar!
 ; dlga_ragnarssons_3_3:ragnarssons_4|Well, lovely news! I hope they pay dearly for this siege.
@@ -2725,7 +2725,7 @@ dlga_sigurd_quest_revenge41:sigurd_quest_revenge5|{s4}
 ; dlga_sigurd_quest_revenge51:sigurd_quest_revenge6|Lying! Why do you lie? You say that you traveled on the same boat with your mother, and she says she met Bodo on the same boat. That man, Bodo, is very important to me, but Sven made the mistake of leaving him in his hideout. Now Bodo is gone because someone rescued him. I suspect I know who this someone is! Bodo is so important, that I would gladly trade him for Sven Bull Neck and you mother, who still lives only because Sven has taken a liking to her.
 ; dlga_sigurd_quest_revenge52:sigurd_quest_revenge6|I know, your mother told me. That man, Bodo, is very important to me, but Sven made the mistake of leaving him in his hideout. Now Bodo is gone because someone rescued him. I suspect I know who this someone is! Bodo is so important, that I would gladly trade him for Sven Bull Neck and you mother, who still lives only because Sven has taken a liking to her.
 ; dlga_sigurd_quest_revenge6:sigurd_quest_revenge61|You tell me where Sven Bull Neck and my mother are, and Bodo is yours.
-; dlga_sigurd_quest_revenge6:sigurd_quest_revenge62|I do not know where Bodo is.
+dlga_sigurd_quest_revenge6:sigurd_quest_revenge62|Io non so dove si trova Bodo.
 ; dlga_sigurd_quest_revenge61:sigurd_quest_revenge71|Then we have a deal. I suppose Bodo is with you, so I will send two men to get him. You people keep quiet, for I have hundreds of warriors ready to attack on my order. If they take Bodo without complications, there will be no problems. I hope this will be how it goes, for a fight would not benefit any of us.
 ; dlga_sigurd_quest_revenge71:sigurd_quest_revenge8|{s4}^^As for my part, there is a farm near Skyfa belonging to a man that is loyal to me. Go there, and Sven Bull Neck and your mother will meet you there. {playername}, remember that there are laws in Danmark, and if you cause any damage to Sven, you will have to pay...
 ; dlga_sigurd_quest_revenge62:sigurd_quest_revenge72|I'm too old to swallow your lies. Bodo means too much to me, and I know you know where he is. What I do not know is if you have hidden him among your people or elsewhere. So here is the deal:
@@ -2938,7 +2938,7 @@ dlga_jarlbjorn_5_2:jarlbjorn_6|{s4}
 ; dlga_raethbarth_wp_41:raethbarth_wp_42|{s2}^^I think I can answer that. A messenger from my brother Sigurd came to us shortly after your arrival -- unfortunately too late. Sigurd told us that we had to be careful with Sven Bull Neck. Apparently, someone killed his brother, Olvir White Hair, very dear to Sven, and the Assembly will not punish the guilty party. Sven thought that Sigurd had broken his word to him by not defending his right to revenge. So just before leaving with the fleet, Sven Bull Neck renounced his oath to Sigurd and promised to take revenge on his own.
 ; dlga_raethbarth_wp_42:raethbarth_wp_43|I am the one who killed Olvir, but I did it in self-defense.
 ; dlga_raethbarth_wp_42:raethbarth_wp_43.1|I am the one who killed Olvir. He was a dog that deserved what he got.
-; dlga_raethbarth_wp_42:raethbarth_wp_5|(Say nothing)
+dlga_raethbarth_wp_42:raethbarth_wp_5|(Non sai niente)
 ; dlga_raethbarth_wp_43:raethbarth_wp_5|The messenger did not mention your name in his story, but I imagine there are many troubles between you and Sven. That can only end in blood.
 ; dlga_raethbarth_wp_5:raethbarth_wp_6|Sven Bull Neck is now an outlaw and an enemy of the Danish -- especially the sons of Ragnar. However, West Seaxe is a strong and large kingdom. Sven Bull Neck could just hide there, and you would never find him. However, he has two things that West Seaxe needs -- ships and good sailors -- so I think I know where they will send him.
 ; dlga_raethbarth_wp_6:raethbarth_wp_71|To meet the ships from the Kingdom of Asturias and to lead them to West Seaxe. Right?
@@ -2980,7 +2980,7 @@ dlga_jarlbjorn_5_2:jarlbjorn_6|{s4}
 ; dlga_aethelred_wp_41:aethelred_wp_42|{s2}^^The sons of Ragnar rule Northhymbre, not the king of Danmark, Horik, and from what I know, Sven Bull Neck is the prow man of Sigurd 'Snake in the Eye,' one of the most dangerous of the Ragnarssons.
 ; dlga_aethelred_wp_42:aethelred_wp_43|Someday Sigurd and I will settle our accounts.
 ; dlga_aethelred_wp_42:aethelred_wp_43.1|Sigurd may be in Danmark, but he has long arms.
-; dlga_aethelred_wp_42:aethelred_wp_5|(Say nothing)
+dlga_aethelred_wp_42:aethelred_wp_5|(Non sai niente)
 ; dlga_aethelred_wp_43:aethelred_wp_5|I think you, Sven and Sigurd have many problems among you, and this can only end in blood.
 ; dlga_aethelred_wp_5:aethelred_wp_6|Well, Sven Bull Neck is a problem, but Northhymbre is full of Danes, and they are strong. Sven Bull Neck could just hide there, and you would never find him. However, the Ragnarssons need him to prove his worth. I think I know where they will send him.
 ; dlga_aethelred_wp_6:aethelred_wp_71|To meet the ships from the Kingdom of Asturias and destroy them. Right?
@@ -4925,7 +4925,7 @@ dlga_bodo_merchant_22:bodo_merchant_3|{s2}
 ; dlga_petro_leaderwessex_37:petro_leaderwessex_37_1|Sigurd Ragnarsson mentioned his name when he spoke to {playername} about a traitor in Asturias who's been sending them information regularly. So Sigurd knew about the letter and my movements. He also knows about this fleet now.
 ; dlga_petro_leaderwessex_37_1:petro_leaderwessex_38_1|Everything he says is true.
 ; dlga_petro_leaderwessex_37_1:petro_leaderwessex_38_2|Silo should die now.
-; dlga_petro_leaderwessex_37_1:petro_leaderwessex_38_1.1|(Say nothing)
+dlga_petro_leaderwessex_37_1:petro_leaderwessex_38_1.1|(Non sai niente)
 ; dlga_petro_leaderwessex_38_1:petro_leaderwessex_39|What? You judge and condemn me merely based on the word of this stranger, mere riffraff? By God! I have a noble rank!
 ; dlga_petro_leaderwessex_38_2:petro_leaderwessex_38_1|Kill him? This is a bit hasty, don't you think?
 ; dlga_petro_leaderwessex_39:petro_leaderwessex_40|You should fear what I have to say more than anything else.
@@ -5918,11 +5918,11 @@ dlga_village_elder_talk_p_f:close_window|Seguitemi.
 dlga_village_elder_caliacas11:village_elder_caliacas12|{s10}
 ; dlga_village_elder_caliacas12:village_elder_caliacas13|When there is fog, we can hear their singing and the howl of their wolves. We can even see their figures between dark wisps of fog. The creatures are huge. Well, all except her.
 ; dlga_village_elder_caliacas13:village_elder_caliacas14_1|Her? A woman?
-; dlga_village_elder_caliacas13:village_elder_caliacas14_2|(Say nothing)
+dlga_village_elder_caliacas13:village_elder_caliacas14_2|(Non sai niente)
 ; dlga_village_elder_caliacas14_1:village_elder_caliacas14_2|No, not a woman, she is something else... The ancient gods have sent her to kill us all.
 ; dlga_village_elder_caliacas14_2:village_elder_caliacas14_2|--He lowers his voice to a whisper.--^^She is Morrigan, the Phantom Queen, the pagan goddess of battle and... carnal encounters. She was worshipped before Saint Patrick brought us the word of Christ.
 ; dlga_village_elder_caliacas14_2:village_elder_caliacas15_1|A shield-maiden?
-; dlga_village_elder_caliacas14_2:village_elder_caliacas15_2|(Say nothing)
+dlga_village_elder_caliacas14_2:village_elder_caliacas15_2|(Non sai niente)
 ; dlga_village_elder_caliacas15_1:village_elder_caliacas15_2|What! Please speak lower. Morrigan might hear us. No, she is powerful through magic rather than through physical strength.
 ; dlga_village_elder_caliacas15_2:village_elder_caliacas15_3|My grandfather told me stories about her. The Raven Goddess selects who is going to be slain and takes the blood from their hearts, along with their valor. When they arrive on the battlefield, they are already doomed.^^She appears as a beautiful dark haired woman or sometimes as a crow. A beautiful maiden dressed with a hooded cloak, my grandfather said. She is usually to be found by a river, washing the clothes of men about to die. Centuries ago, she was one of the Tuatha De Danann, the demons that ruled the island before the Gaels arrived. Now she lives in Sidhe, the Underworld, whose entry is the ancient mounds.
 ; dlga_village_elder_caliacas15_3:village_elder_caliacas15_4|She has left Sidhe and has brought her beasts with her. She will destroy us unless some hero defeats her and sends her back to her world.
@@ -6307,7 +6307,7 @@ dlga_prisoner_chat:prisoner_chat_lord|{s1}
 ; dlga_prisoner_chat_lord:prisoner_chat_noble|Yes, {reg59?Lady:Lord} {s1}?
 ; dlga_prisoner_chat_noble:prisoner_chat_noble_conv|{s1}, redeem yourself in the eyes of Odin, and rid yourself of that Christian weakling God!
 ; dlga_prisoner_chat_noble:prisoner_chat_noble_conv.1|{s1}, repent of your sins and accept the one true Lord, our saviour, Jesus Christ!
-; dlga_prisoner_chat_noble_conv:prisoner_chat_noble_conv2|{s22}
+dlga_prisoner_chat_noble_conv:prisoner_chat_noble_conv2|{s22}
 ; dlga_prisoner_chat_noble_conv2:prisoner_chat_noble_release|Wonderful news, you're free to go!
 ; dlga_prisoner_chat_noble_conv2:prisoner_chat_noble_keep|On the second thought, maybe you should stay my prisoner
 ; dlga_prisoner_chat_noble_conv2:close_window|Whatever suits you!
