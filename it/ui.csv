@@ -72,7 +72,7 @@ ui_error_removing_file|Errore nel rimuovere il file...
 ui_day_datedisplay|Giorno %d (%d:%d%d)
 ui_reset_changes|Annulla modifiche
 ui_weapon_proficiencies|Competenze
-ui_skills|Abilita'
+ui_skills|Abilità
 ui_attributes|Attributi
 ui_enter_name_here|*Inserisci il nome qui*
 ui_edit_face|Clicca per modificare il volto
@@ -101,7 +101,7 @@ ui_explanation_polearm|Competenza nell'uso di Armi con asta quali Lance, Picche,
 ui_explanation_archery|Competenza nell'uso degli Archi.
 ui_explanation_crossbow|Competenza nell'uso delle Balestre.
 ui_explanation_throwing|Competenza nell'uso delle armi da lancio quali Giavellotti, Coltelli, Pietre, ecc.
-ui_explanation_firearms|Copre l'utilizzo delle imbracature.
+ui_explanation_firearms|Competenza nell'uso delle fionde.
 ui_explanation_strength|Forza: Ogni punto aggiunge +1 a colpire. Le seguenti abilità non possono essere sviluppate oltre 1/2 di forza: Resistenza, Colpo Potente, Tiro Potente, Lancio Potente, gestione dell'inventario. Ogni 5 livelli, si ottiene un punto extra da aggiungere ai tuoi attributi.
 ui_explanation_agility|Agilità: Ogni punto dà cinque punti arma in più e aumenta leggermente la velocità di movimento. Le seguenti abilità non possono essere sviluppate oltre 1/2 dell'agilità: Maestro d'Armi, Osservazione, Atletica, Cavalcare, Orientamento, Saccheggio. Ogni 5 livelli, si ottiene un punto extra da aggiungere ai tuoi attributi.
 ui_explanation_intelligence|Intelligenza: Ogni punto di intelligenza dà immediatamente un punto abilità aggiuntivo. Le seguenti abilità non possono essere sviluppate oltre 1/2 di intelligenza: Addestratore, Seguire tracce, Tattiche, Curare Ferite, Chirurgia, Pronto Soccorso, Ingegneria, Navigazione, Manutenzione Arma. Ogni 5 livelli, si ottiene un punto extra da aggiungere ai tuoi attributi.
@@ -275,7 +275,7 @@ ui_polearms|Armi con Asta
 ui_archery|Archi
 ui_crossbows|Balestre
 ui_throwing|Armi da Lancio
-ui_firearms|Imbracature
+ui_firearms|Fionde
 ui_reset|Resetta
 ui_release_one|Rilasciane uno
 ui_move_up|Muovi in Su
@@ -313,7 +313,7 @@ ui_capture|Cattura
 ui_party_capcity_reached|(Limite truppe raggiunto)
 ui_all|Tutti
 ui_joining_cost_weekly_wage|Costo reclute: %d, Salario settimanale: %d
-ui_weekly_wage|Stipendio settimanale: %d peningas
+ui_weekly_wage|Stipendio settimanale: %d denari
 ui_price|Prezzo: %d
 ui_number_ready_to_upgrade|%d pronti alla promozione.
 ui_upgrade_to_value| Eseguire l'aggiornamento a %s (%dp)
@@ -531,7 +531,7 @@ ui_order_button_stand_closer|Ordina il raggruppamento
 ui_order_button_mount_horses|Ordina di montare a cavallo
 ui_order_button_dismount|Smontate!
 ui_order_button_hold_fire|Ordina di smettere di tirare
-ui_order_button_fire_at_will|Ordina di tirare a volonta'
+ui_order_button_fire_at_will|Ordina di tirare a volontà
 ui_order_button_use_blunt_weapons|Ordina di utilizzare solo armi contundenti
 ui_order_button_use_any_weapon|Ordina di usare qualsiasi arma
 ui_order_button_movement_orders|Ordini di movimento
@@ -567,7 +567,7 @@ ui_game_log|Registro del gioco
 ui_recent_messages|Messaggi recenti
 ui_custom_battle|Battaglia veloce
 ui_player|Giocatore
-ui_value_denars|%d peningas
+ui_value_denars|%d denari
 ui_back|Indietro
 ui_forward|Avanti
 ui_display_on_map|Mostra sulla mappa
@@ -599,7 +599,7 @@ ui_cannot_be_used_on_horseback|Impossibile da usare a cavallo
 ui_enable_vertex_shaders2|Metodo render:
 ui_screen_size2|Risoluzione schermo:
 ui_use_desktop_resolution2|Usa la risoluzione del desktop
-ui_shadow_quality2|Qualita' delle ombre:
+ui_shadow_quality2|Qualità delle ombre:
 ui_m_low2|Basso
 ui_m_high2|Alto
 ui_m_ultra_high2|Molto alto

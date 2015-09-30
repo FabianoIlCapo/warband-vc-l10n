@@ -34,7 +34,7 @@ str_cant_use_inventory_arena|Nell'arena non puoi accedere all'inventario.
 str_cant_use_inventory_disguised|Quando usi un camuffamento non puoi accedere all'inventario.
 str_cant_use_inventory_tutorial|Nel campo d'addestramento non puoi accedere all'inventario.
 str_1_denar|1 pening
-str_reg1_denars|{reg1} peningas
+str_reg1_denars|{reg1} denari
 str_january_reg1_reg2|{reg1} Gennaio {reg2}
 str_february_reg1_reg2|{reg1} Febbraio {reg2}
 str_march_reg1_reg2|{reg1} Marzo {reg2}
@@ -191,7 +191,7 @@ str_village_prosperity_100|^Il villaggio di {s60}, circondato da vasti e fertili
 str_town_alt_prosperity_0|Le poche mercanzie vendute al mercato sono costose per l'uomo comune malnutrito e il suo bestiame indebolito. Tra le case fatiscenti, bambini in stracci stanno giocando con bastoni e sassi.
 str_town_alt_prosperity_20|Nel mercato si odono molte discussioni sui prezzi alti, dove i commercianti sono a corto di merce. Per le strade, i bambini mendicano ai passanti per un pò di pane o qualcosa di valore.
 str_town_alt_prosperity_40|Al mercato ci sono articoli qualità decente, e a volte i commercianti portano oggetti di lusso per i pochi cittadini ricchi. Alcune case hanno bisogno di essere ristrutturate, mentre altre sono in buona condizione.
-str_town_alt_prosperity_60|Il mercato sta ronzando con attività mentre i commercianti da tutto il mondo vengono a fare affari e ripartono, mentre alcuni migranti rimangono a cercare la loro fortuna.
+str_town_alt_prosperity_60|Il mercato sta ronzando con attività mentre i commercianti da tutto il mondo vengono a fare affari e ripartono, mentre alcuni migranti rimangono a cercar fortuna.
 str_town_alt_prosperity_80|I tetti di paglia e tegole sono ben tenuti in tutta la città, e le persone sono vestite con abbigliamento di qualità. Ogni giorno stormi di persone arrivano per trovare lavoro e ricchezza nel fiorente centro del commercio.
 str_village_alt_prosperity_0|Le persone capaci sono scarse, e i campi sono invasi dalle erbacce. Molti sono fuggiti dall'insediamento, e gli animali da traino sono provati o morenti alla periferia della città, attirando gli animali selvatici.
 str_village_alt_prosperity_20|Alcuni agricoltori e animali lavorano nei campi, ma molti sono migrati in cerca di una vita migliore. Le fattorie sono logorate, e le erbacce hanno preso il sopravvento su alcuni campi.
@@ -374,18 +374,18 @@ str_bar_miserable|  Infelice
 str_here_plus_space|qui
 str_npc1_intro|Salve, signore della guerra. Il mio nome è Caio. Mio padre mi ha mandato.
 str_npc2_intro|Heill! Il mio nome è Egil.
-str_npc3_intro|{reg59?Chi ti ha mandato? Non indietreggerò!: Non avvicinarti. Sono stanco di essere abusato da ogni persona che incrocia il mio cammino!}
+str_npc3_intro|{reg59?Chi ti ha mandato? Non indietreggerò!: Non avvicinarti. Sono stanca di essere abusata da ogni persona che incrocia il mio cammino!}
 str_npc4_intro|Si?
 str_npc5_intro|Salve, viaggiatore. Vorreste unirvi a me per una bevuta?
 str_npc6_intro|Ho qualcosa da dirti. Ascolta bene.
-str_npc7_intro|Si? Mantenete la distanza, per cortesia.
-str_npc8_intro|Che cosa volete?
-str_npc9_intro|Ehi tu, {reg59?brava donna:brav'uomo}, sii così gentile da andare a prendere un'altra bevuta, d'accordo?
+str_npc7_intro|Si? Mantieni le distanze, per favore.
+str_npc8_intro|Cosa volete?
+str_npc9_intro|Ehi tu, {reg59?brava donna:brav'uomo}, saresti così gentile da andarmi a prendere un'altra bicchiere, eh?
 str_npc10_intro|Il Vostro Dio li ha divisi, {reg59?Signora:Signore}! Questo è il castigo e la caduta di tutti i Gallesi!
-str_npc11_intro|Heill, {reg59?mia bella:bello}. Ti ho osservato per un po' di tempo.
+str_npc11_intro|Heill, {reg59?mia bella:bello}. Ti ho osservato per un pò di tempo.
 str_npc12_intro|Heill, {reg59?Signora:Signore}. Piacere di conoscerla.
 str_npc13_intro|Sì? Di cosa cosa avete bisogno?
-str_npc14_intro|Hail,  viaggiatori. Io sono Ailchu, un guerriero di Gael. Sicuramente avrete sentito parlare di me.
+str_npc14_intro|Hail,  viaggiatore. Sono Ailchu, un guerriero di Gaelico. Sicuramente avrete sentito parlare di me.
 str_npc15_intro|Yeia sou! Yeia sou! Alla vostra salute, {reg59?Signora:Signore}. Il mio nome è Agathinos. C'è un modo di uscire da questo posto velocemente?
 str_npc16_intro|Ah... si... Io...
 str_npc1_intro_response_1|Sì lo so. Parlami di te.
@@ -394,8 +394,8 @@ str_npc3_intro_response_1|Calmati. Non voglio farti del male. Perchè hai paura?
 str_npc4_intro_response_1|Non sei molto loquace, vero?
 str_npc5_intro_response_1|Certamente. Con chi ho il piacere di bere?
 str_npc6_intro_response_1|Continua, amico.
-str_npc7_intro_response_1|Le mie scuse. Stavo solo per dire che sembrate un po' giù di morale.
-str_npc8_intro_response_1|Solo per passare un po di tempo, straniero, se non hai altri impegni.
+str_npc7_intro_response_1|Le mie scuse. Stavo solo per dire che sembrate un pò giù di morale.
+str_npc8_intro_response_1|Solo per passare un pò di tempo, straniero, se non hai altri impegni.
 str_npc9_intro_response_1|Deve avermi confuso con un'altra persona, signore.
 str_npc10_intro_response_1|Perché dite questo, signore?
 str_npc11_intro_response_1|Chi sei, e perché mi stai guardando?
@@ -404,7 +404,7 @@ str_npc13_intro_response_1|Vorrei passare la giornata con un viaggiatore come vo
 str_npc14_intro_response_1|Uhm... Non penso.
 str_npc15_intro_response_1|Sono io. Perchè ti interessa, posso chiedere?
 str_npc16_intro_response_1|Sei muto?
-str_npc1_intro_response_2|Sì, lo so che vuole unirsi a me, ma non ho bisogno di voi. Addio.
+str_npc1_intro_response_2|Sì, lo so che vuoi unirti a me, ma non ho bisogno di altri compagni. Addio.
 str_npc2_intro_response_2|Ho cose migliori da fare.
 str_npc3_intro_response_2|Andate via, donna. Ho da fare -- Non farò quello ce temete
 str_npc4_intro_response_2|No.
@@ -420,58 +420,58 @@ str_npc13_intro_response_2|Niente affatto. Le mie scuse.
 str_npc14_intro_response_2|No, e non posso dire ch'io muoia dalla voglia di fare la vostra conoscenza.
 str_npc15_intro_response_2|Vi sarei grato se vi faceste gli affari vostri, signore.
 str_npc16_intro_response_2|Io vado. Quando imparai a parlare, fammelo sapere.
-str_npc1_backstory_a|Signore della guerra, io sono il figlio più giovane dell'uomo conosciuto come il vecchio Romano. Come sapete, la mia famiglia è una leggenda da queste parti. Preserviamo la storia dei nostri antenati, che pattugliavano il Vallo di Hadrian.
-str_npc2_backstory_a|Bramo un po' del vostro tempo, {reg59?Signora:Signore}. Ascoltare la mia storia. Sono importante per voi.
-str_npc3_backstory_a|Io... Mi dispiace, ma vi prego di capire. La mia vita è stata un inferno da quando sono diventata una cameriera nella casa di jarl di Kennemer.
+str_npc1_backstory_a|Comandante, sono il figlio più giovane dell'uomo conosciuto come il vecchio Romano. Come sapete, la mia famiglia è una leggenda da queste parti. Preserviamo la storia dei nostri antenati, che pattugliavano il Vallo di Adriano.
+str_npc2_backstory_a|Bramo un pò del vostro tempo, {reg59?Signora:Signore}. Ascoltare la mia storia. Sono importante per voi.
+str_npc3_backstory_a|Io... Mi dispiace, ma vi prego di capire. La mia vita è stata un inferno da quando sono diventata una cameriera nella casa dello jarl di Kennemer.
 str_npc4_backstory_a|Io sono un uomo d'azione. Se desiderate un uomo di parole, trovate un sacerdote.
 str_npc5_backstory_a|Io sono Morgant da Bosvenegh. Tuttavia, sono esiliato dalla mia patria per ora...
-str_npc6_backstory_a|{reg59?Signora:Signore}, dovrei essere morto, ma sono ancora vivo quando altri che dovrebbero essere vivi sono morti. Sono venuto a prendere in considerazione la nave che mi ha portato al Nord, La Woden Ric, come una casa, con il suo equipaggio come la mia famiglia. Così quando i Vichinghi attaccarono, ho afferrato la mia spada e il mio scudo e mi preparai per difenderla fino alla morte.^^I Cantabri sono cristiani, ma alcuni di noi ricordano ancora gli antichi dei. Uno in particolare, Erudino, ci guida in battaglia, e io grido il suo nome mentre attacco con la mia spada.
+str_npc6_backstory_a|{reg59?Signora:Signore}, dovrei essere morto, ma sono ancora vivo quando altri che dovrebbero essere vivi sono morti. Sono venuto a prendere in considerazione la nave che mi ha portato al Nord, La Woden Ric, come una casa, con il suo equipaggio come la mia famiglia. Così quando i Vichinghi attaccarono, ho afferrato la mia spada e il mio scudo e mi preparai per difenderla fino alla morte.^^I Cantabri sono cristiani, ma alcuni di noi ricordano ancora gli antichi dei. Uno in particolare, Erudino, ci guida in battaglia, grido il suo nome mentre attacco con la mia spada.
 str_npc7_backstory_a|Parlate delle mie sventure? Potete ben dirlo !
-str_npc8_backstory_a|Ah. Beh, se lo vuoi sapere, te lo dirò. Non molte persone qui intorno ascolterebbero il  buon vecchio Reginhard.
+str_npc8_backstory_a|Ah. Beh, se lo vuoi sapere, te lo dirò. Non molte persone qui intorno ascolterebbero il buon vecchio Reginhard.
 str_npc9_backstory_a|Le mie più umili scuse. A volte qui è difficile riconoscere la gente in mezzo al fumo e al buio. Ancora non riesco a credere che debba alloggiare in un luogo come questo.
 str_npc10_backstory_a|È una lunga storia, ma se vi fate una bevuta, sarò lieto di raccontarvela.
 str_npc11_backstory_a|Calmati, {reg59?mia bella:bello}. È più saggio essere grati, ma permettimi di presentarmi. Il mio nome è Solveig Olafsdottir. Io non sono una donna qualsiasi. Io sono un skjaldmo.
 str_npc12_backstory_a|Penso sia un buon momento per presentarmi ufficialmente, poiché probabilmente le nostre strade sono collegate. Io sono Asbjorn da Odinsve, è sono un loeknir, un semplice dottore che sprecato qualche tempo in Francia, fino a quando sono tornato in Danimarca alcuni mesi fa.
 str_npc13_backstory_a|Molto bene. Non mi dispiace. Il mio nome è Helgi, killer dei danesi e degli slavi.
-str_npc14_backstory_a|No? Allora forse avrete sentito parlare del mio destriero, che attraversa le pianure come un raggio di luna...? O della mia spada, conoscitrice del sangue dei più importanti princìpi di Hibernia...?
+str_npc14_backstory_a|No? Allora avrete sentito parlare del mio destriero, che attraversa le pianure come un raggio di luna? O della mia spada, conoscitrice del sangue dei più importanti principi di Hibernia?
 str_npc15_backstory_a|Beh, mi permetta di dirle. Sono un ingegnere specializzato nell'arte della fortificazione. Se vi serve abbattere un muro, sono il vostro uomo. Se avete bisogno di un muro da fortificare, posso fare anche questo -- benché richieda più tempo e vi costerà di più.
 str_npc16_backstory_a|Mi scusi, {reg59?signora:signore}... Io sono un uomo di Dio, un sacerdote di Cristo. Lei è {playername}...
-str_npc1_backstory_b|Personalmente, sono un segugio molto abile. In realtà, sono il miglior  inseguitore inseguitore qui intorno, la mia missione è sempre stata quella di proteggere la mia famiglia da quando abbiamo lasciato le grotte. Affidandomi al vostro servizio, mio padre ha vi ha fatto un grande favore.
+str_npc1_backstory_b|Personalmente, sono un segugio molto abile. In realtà, sono il miglior inseguitore della zona, la mia missione è sempre stata quella di proteggere la mia famiglia da quando abbiamo lasciato le grotte. Affidandomi al tuo servizio, mio padre ha vi ha fatto un grande favore.
 str_npc2_backstory_b|Io sono un figlio di re Horik, ma non legittimo. Al re "Piacciono" le belle donne, e, Beh, ha conosciuto mia madre tra le Ancelle di sua moglie. Ecco come sono arrivato qui, immagino. Ero felice durante la mia infanzia a Ribe, ma ben presto il re mi ha mandato a vivere con uno dei suoi huskarli.^^Eera un uomo duro e violento. Ha insistito per insegnarmi l'uso della lancia, della spada e scudo. Non mi lasciava bere idromele o frequentare ragazze. Credi che qualcuno dovrebbe sopportare tali difficoltà?
-str_npc3_backstory_b|Ho vissuto in un piccolo villaggio, Doccinga. Sono stata felice. Mio padre, Thonkrik, si è preso molta cura di me quando è morta mia madre. Ma, un giorno, il jarl di Kennemer si è fermato nel nostro villaggio, e mi ha vista. Lui, accidenti a lui, ha costretto mio padre a mandarmi a casa sua come cameriera per sua moglie. Aveva promesso che mi avrebbe rispettata, ma ha mentito. Non mi piace parlare di questo... Beh, da allora sono davvero diventata una schiava. Ho dovuto concedermi a lui e ai suoi uomini.
+str_npc3_backstory_b|Ho vissuto in un piccolo villaggio, Doccinga. Sono stata felice. Mio padre, Thonkrik, si è preso molta cura di me quando è morta mia madre. Ma, un giorno, lo jarl di Kennemer si è fermato nel nostro villaggio e mi ha vista. Lui, accidenti a lui, ha costretto mio padre a mandarmi a casa sua come cameriera per sua moglie. Aveva promesso che mi avrebbe rispettata, ma ha mentito. Non mi piace parlare di questo... Beh, da allora sono diventata una schiava. Ho dovuto concedermi a lui e ai suoi uomini.
 str_npc4_backstory_b|Quello che devi sapere è che il mio nome è Donnchadh di Dal Riata e che sono uno scozzese.
-str_npc5_backstory_b|A memoria d'uomo, il nostro clan e stato in lotta contro un clan vicino. Molti uomini sono morti in questa lotta, da entrambe le parti, tra cui due dei miei fratelli. Il re di Cornubia ci ha ordinato di cessare gli scontri, ma conosco i miei diritti, e il sangue dei miei fratelli grida vendetta. Ho teso un agguato e ucciso un nemico sul sentiero di montagna, ho cavalcato via dalla nostra sala la stessa notte, senza nemmeno avere la possibilità di dire addio a mio padre. Poi mi è stato riferito che il Re mi ha esiliato e revocato i miei diritti nobili. Sono ora condannato a vagare per il mondo, per sempre bandito dalla mia terra e dalla mia gente.
+str_npc5_backstory_b|A memoria d'uomo, il nostro clan è sempre stato in guerra contro un clan vicino. Molti uomini sono morti in questa lotta, da entrambe le parti, tra cui due dei miei fratelli. Il re di Cornubia ci ha ordinato di cessare gli scontri, ma conosco i miei diritti, il sangue dei miei fratelli gridava vendetta. Ho teso un agguato e ucciso un nemico su un sentiero di montagna, ho cavalcato via dalla nostra sala la stessa notte, senza nemmeno avere la possibilità di dire addio a mio padre. Poi mi è stato riferito che il Re mi ha esiliato e a revocato i miei diritti di nobile. Ora sono condannato a vagare per il mondo, per sempre bandito dalla mia terra e dalla mia gente.
 str_npc6_backstory_b|Io non sono un idiota. Sapevo che la battaglia era persa. Siamo rimasti in inferiorità numerica ed erano meglio armati di noi, ma ho chiesto a Erudino di farmi uccidere il maggior numero possibile di nemici prima del mio viaggio in paradiso. Speravo che il mio sacrificio avrebbe permesso agli altri di fuggire o che causasse paura tra i Vichinghi, ma questi Vichinghi sono uomini temprati che conoscono bene il loro lavoro. Una mezza dozzina di loro mi hanno circondato e battuto mentre i loro compagni hanno invaso Woden Ric e ucciso chiunque si trovasse sulla loro strada...
-str_npc7_backstory_b|E ' stata mia sfortuna se sono  stato messo di pattuglia nel bosco di notte da uno stupido signore della guerra Pitto. E stata la mia sfortuna se il nemico aveva preparato un agguato attentamente pianificato e numericamente superiore della nostra pattuglia. E stata la mia sfortuna se sono l'unico che è riuscito a sfuggire da quel bagno di sangue. E stata la mia sfortuna se il Consiglio di guerra ha ritenuto che sono un traditore e sono dovuto fuggire dalla mia tribù durante la notte. "È stata la mia sfortuna" è tutto quello che ho da dire per il momento.
+str_npc7_backstory_b|È stata colpa della sfortuna se sono stata messa di pattuglia nel bosco di notte da uno stupido signore della guerra Pitto. È stata la sfortuna se il nemico aveva preparato un agguato, attentamente pianificato e numericamente superiore della nostra pattuglia. È stata la sfortuna se sono l'unica che è riuscita a sfuggire da quel bagno di sangue. È stata la sfortuna se il Consiglio di guerra ha ritenuto che sono una traditrice e sono dovuta fuggire dalla mia tribù durante la notte. "È stata la sfortuna" è tutto quello che ho da dire per il momento.
 str_npc8_backstory_b|Sono nato a Dorestad. La mia vita non è stata molto facile, ma ero felice almeno fino a quando mia moglie e i nostri due bambini sono morti di peste due anni fa. Avevo una fattoria, sai, e l'ho venduta perché tutto lì mi ricordava loro. Ora sono un ubriacone e un idiota e nessuno si avvicina a me... Beh, fino a quando non sei arrivato tu.
-str_npc9_backstory_b|Io sono un Franko, primogenito di mio padre, suo erede e il guerriero più coraggioso della sua sala, ma quando mia madre morì, mio padre si risposò. La sua nuova moglie pensava che suo figlio avrebbe dovuto ereditare tutto. Non poteva contrastarmi apertamente contro di me, ma l'altro giorno ho dato da mangiare un vasetto di strutto che era stato lasciato fuori per me ad uno dei miei cani ed è crollato. Ho accusato la mia matrigna, ma mio padre, confuso dalla sua stregoneria, si è rifiutato di credermi e mi ha ordinato di sparire dalla sua vista.
+str_npc9_backstory_b|Io sono un Franco, il primogenito di mio padre, suo erede e il guerriero più coraggioso della sua sala, ma quando mia madre morì, si risposò. La sua nuova moglie pensava che suo figlio avrebbe dovuto ereditare tutto. Non poteva contrastarmi apertamente, ma l'altro giorno ho dato da mangiare un vasetto di strutto che era stato lasciato fuori per me ad uno dei miei cani ed è crollato. Ho accusato la mia matrigna, ma mio padre, confuso dalla sua stregoneria, si è rifiutato di credermi e mi ha ordinato di sparire dalla sua vista.
 str_npc10_backstory_b|Io sono un guerriero sassone. Ho combattuto tutta la mia vita contro i Gallesi, e Angli. Il destino di West Seaxe è di governare l'Englaland. È l'arroganza e l'odio dei nostri vicini che impedisce di unificarci sotto l'unico re di questa terra. Dal mio punto di vista, solo un sovrano sassone o almeno un uomo che non accetta l'arroganza di questi popoli può veramente portare pace in questa terra.
 str_npc11_backstory_b|Dalla tua faccia, vedo che non sai di cosa sto parlando. Beh, devo ammettere che non ci sono molti come me, e qui anche meno che nella mia terra, Northvegr. Ti spiego, una skjaldmo è una vergine che prende la via delle armi. Oltre che la poesia, perché la poesia e la guerra provengono dallo stesso impulso.
 str_npc12_backstory_b|Al mio ritorno a Odinsve, sono approdato a Ribe e sono rimasto qui per qualche mese, poichè offre l'élite dei locali..-- non sono l'élite. Credo che i miei servizi mi hanno fatto guadagnare abbastanza prestigio da essere convocato come Althing nell'Assemblea tenuta pochi giorni fa.
 str_npc13_backstory_b|Io sono il secondo figlio di un Hersir della terra a est di Northvegr. Sono Svia il Vichingo. Ho viaggiato ad ovest per cercare la mia fortuna ad Englaland, a differenza dei miei connazionali che cercano la loro fortuna a Oriente con il Rus. Io sono bravo a condurre gli assalti e nella formazione degli uomini nell'arte della guerra. Purtroppo, agli jarl di qui non gli piacciono i miei metodi disciplinari necessari per trasformare quella loro marmaglia in soldati. Gli ho detto che era più saggio frustarli ora che seppellirli più tardi, ma loro non hanno voluto ascoltarmi. Invece, mi ha detto di portare i miei servizi altrove.
-str_npc14_backstory_b|Sono sempre stato un guerriero, non un contadino o qualsiasi altra cosa; solo un guerriero. Ammetto un certo affetto per queste terre, e c'ho passato parecchi anni, ho visitato le loro città, fortezze, e villaggi, rendendo la maggior parte dei miei talenti particolari.
+str_npc14_backstory_b|Sono sempre stato un guerriero, non un contadino o qualsiasi altra cosa; solo un guerriero. Ammetto un certo affetto per queste terre, c'ho passato parecchi anni, ho visitato le loro città, fortezze e villaggi, rdove ho sviluppato i miei partivolari talenti.
 str_npc15_backstory_b|Sono un uomo sfortunato. Sono originario di Konstantinoupolis, lontano da qui ... Forse ne avete sentito parlare. I Variaghi la chiamano Mikligard. Alcuni anni fa, un gruppo di loro mi ha rapito e mi ha portato qui, nel lontano nord. Mi hanno fatto schiavo e mi hanno venduto allo Jarl di Hordaland. Ho lavorato per lui fino a pochi giorni fa, quando ho finalmente guadagnato abbastanza soldi per comprare la mia libertà.
 str_npc16_backstory_b|Mi dispiace ... Sono un idiota. Mi presento. Sono Beda. Mi sono unito alla Santa Chiesa quando ero un ragazzo e alla fine sono diventato un sacerdote. Credo che anche il guerriero più duro abbia un posto per Cristo nel suo cuore e che io possa svolgere meglio la missione che Dio mi ha dato: sia essa in mezzo ai soldati che in una sacrestia.
 str_npc1_backstory_c|Dalla mia parte, posso solo dire che desideravo viaggiare e vedere il mondo. Tu mi hai dato questa opportunità. Sono contento che, quando mio padre ha chiesto a me e ai miei fratelli, che avremmo dovuto pagare il suo debito, io mi sono offerto volontario.
 str_npc2_backstory_c|Ora servo nella guardia Reale. Non ne sono particolarmente felice, poiché sono all'ombra di uomini potenti che hanno ottenuto questa posizione con i loro sforzi, mentre a me mi è stata concessa solo in virtù che sono il figlio bastardo del re.
 str_npc3_backstory_c|Ho così disperatamente cercato di fuggire. Se solo potesi ricominciare una nuova vita, libera...^^Lo sò! Potresti portarmi con te! Potrei aiutare a ricucire le ferite dei vostri guerrieri. Potrei anche imparare ad essere un guerriero, se è questo quello che serve per essere di nuovo liberi. Mi porterai con te, {reg59?signora:signore}?
-str_npc4_backstory_c|Un'altra cosa importante è che non mi piacciono i Pitti. Sì, lo so la mia gente sono governati dai re di Alban, ma questo non significa che sono diventati un popolo. Siamo gaelici e non quei ratti.
+str_npc4_backstory_c|Un'altra cosa importante è che non mi piacciono i Pitti. Sì, lo so la mia gente è governata dai re di Alban, ma questo non significa che siamo un popolo. Siamo gaelici e non quei ratti.
 str_npc5_backstory_c|Così, come un uomo derubato della sua eredità, qualsiasi opportunità di guadagnarsi da vivere con la mia spada è benvenuta.
-str_npc6_backstory_c|Ho visto tutti a faccia in giù: il capitano, i marinai, gli arcieri che proteggeva la barca... ho pensato di essere morto fino a quando mi sono svegliato nella nave Vikinga, con mani e piedi legati. Ero un prigioniero, ma grazie a Dio, sono scappato....^^Ora, sono un uomo miserabile prima Erudino. Dovrei essere morto e gli altri vivi. Ora, io vivo solo per redimermi.
+str_npc6_backstory_c|Ho visto tutti a terra: il capitano, i marinai, gli arcieri che proteggevano la barca... ho pensato di essere morto fino a quando non mi sono svegliato sulla nave vikinga, con mani e piedi legati. Ero un prigioniero, ma grazie a Dio, sono scappato....^^Ora, sono un uomo miserabile. Dovrei essere morto e gli altri vivi. Ora, io vivo solo per redimermi.
 str_npc7_backstory_c|Ma io non mi considero sfortunata, straniero, non più di qualsiasi altra donna in questo mondo. Questo stagno fetido è popolato da scimmie e sciacalli che non vedono quanto vale la pena vivere un altro giorno solo per uccidere l'odiato nemico e che la strada dell'inseguitore e del cacciatore è meglio che della strada del guerriero ignorante.
 str_npc8_backstory_c|'Reginhard il Matto', qui qualcuno mi chiama così. Merda, non dovrei nemmeno essere qui.
-str_npc9_backstory_c|Spero di offrire la mia spada a qualche Signore della guerra degno, è l'unica professione onorevole per un uomo del mio lignaggio oltre che a possedere qualche terra, ma nel frattempo, sono condannato a dividere il  letto con ladri, vagabondi, mercanti e l'altra marmaglia di strada.
+str_npc9_backstory_c|Spero di offrire la mia spada a qualche Signore della guerra, è l'unica professione onorevole per un uomo del mio lignaggio oltre che possedere qualche terra, ma nel frattempo, sono condannato a dividere il letto con ladri, vagabondi, mercanti e l'altra marmaglia di strada.
 str_npc10_backstory_c|Ora, se mai troverò un uomo così, sarei felice di servire nel suo esercito.
 str_npc11_backstory_c|La cosa importante è che ho seguito e studiato i giorni passati. Mi unisco a voi ora. Lei ha un grande futuro davanti a sè, se il mio intuito è buono, voglio condividere la vostra fortuna.
 str_npc12_backstory_c|La verità è che non ero interessato a tornare a Odinsve così presto, poiché sono ancora giovane e ho l'opportunità di viaggiare in altri luoghi per imparare di più. Le Norne devono aver notato e legato insieme i nostri destini. Hai bisogno di qualcuno che può curare le ferite dei tuoi guerrieri, e io ho bisogno di qualcuno con la tua fortuna, che brilla di più del resto degli uomini che ho conosciuto.
 str_npc13_backstory_c|Così se conoscete qualche signore della guerra che voglia vincere le battaglie piuttosto che viziare i suoi soldati, me lo potrebbe presentare.
-str_npc14_backstory_c|Il che mi ricorda - da qualche parte là fuori in città, c'è un nemico che si nasconde nelle ombre che tenta di imprigionare il mio destino libero. Ossia un marito arrabbiato, cattivo, infelice. Per non parlare del padre, pure. Penso che ci sia anche una madre, e uno zio. Io penso che potrebbe considerare di aiutami a lasciare la città, vero?
+str_npc14_backstory_c|Il che mi ricorda - che da qualche parte fuori in città, c'è un nemico che si nasconde nelle ombre e tenta di imprigionare il mio libero destino. Un marito arrabbiato, cattivo, infelice. Per non parlare del padre. Penso che ci sia anche una madre e uno zio. Forse tu potresti aiutami a lasciare la città, vorresti?
 str_npc15_backstory_c|Ma dopo tutti gli anni che sono trascorsi da quando sono stato preso a Konstantinoupolis, ho pianificato semplicemente di rimanere nella casa dello Jarl. La verità è che avevo instaurato un rapporto con il figlio. Allo Jarl non è piaciuto e mi ha buttato fuori.^^ Quindi che dici? Vedo che conducete dei guerrieri. Se mi lasci unire a voi, vi posso aiutare quando disponete un'assedio.
-str_npc16_backstory_c|Io sono di origine di Anglo, da Mierce, ma ho vissuto la maggior parte della mia vita a Witan Ceaster, nel centro di West Seaxe. Ho servito per alcuni anni alla Corte di Re Aethelbehrt. Onestamente, non aveva grandi letterati, a differenza di suo fratello, Aelfred. Sono finito a Dommoc nell'East Engle, vicino a dove sono nato, ma poi sono arrivati i danesi e il Regno bon era più un posto sicuro per gli uomini di fede. Io sono un uomo onesto e disponibile che và sempre d'accordo con tutti. Che ne pensi? 
+str_npc16_backstory_c|Io sono originario di Angle, in Mierce, ma ho vissuto la maggior parte della mia vita a Witan Ceaster, nel centro di West Seaxe. Ho servito per alcuni anni alla Corte di Re Aethelbehrt. Onestamente, non aveva grandi letterati, a differenza di suo fratello, Aelfred. Sono finito a Dommoc nell'East Engle, vicino a dove sono nato, ma poi sono arrivati i Danesi e il regno non era più un posto sicuro per gli uomini di fede. Io sono un uomo onesto e disponibile che và sempre d'accordo con tutti. Che ne pensi? 
 str_npc1_backstory_later|Che ne pensi? Un buon esploratore è sempre importante, giusto?
 str_npc2_backstory_later|Vi ho mai detto quanto non sopporto quando agli uomini viene servito latte acido mentre c'è dell'idromele nascosto nelle dispensa?
 str_npc3_backstory_later|La vita a Kennemer e stata terribile per me. È per questo che siete qui, {reg59?signora:signore}? Per abusare di me come ogni altra persona che ho incontrato nella mia vita dopo che sono diventato uno schiavo?
-str_npc4_backstory_later|Le cose sono un po' più chiare. Ora, se sei interessato ad assumermi, io sono interessato a tutto ciò che mi può portare lontano da questo letamaio e permettetemi di guadagnarmi da vivere.
+str_npc4_backstory_later|Le cose sono un pò più chiare. Ora, se sei interessato ad assumermi, io sono interessato a tutto ciò che mi può portare lontano da questo letamaio e permettetemi di guadagnarmi da vivere.
 str_npc5_backstory_later|Sto vagando in queste terre martoriate dalla guerra in cerca di un comandante che sia degno d'essere seguito. Più degno del Re che attualmente mi vergogno di obbedire.
 str_npc6_backstory_later|Ho vagato, ma devo ancora trovare la redenzione. Forse in guerra, che io amo sopra ogni altra cosa, posso dimenticare il mio peccato ...
 str_npc7_backstory_later|Vago alla ricerca di un lavoro come esploratore, ma non è facile. Britanni e Sassoni sono spregevoli pidocchi ignoranti, e non è facile lavorare con loro. Non che noi Pitti siamo migliori... Comunque, Io sono di gran lunga un'eccezione, come avrai del resto capito.
@@ -518,12 +518,12 @@ str_npc15_backstory_response_2|Mi spiace. Ho tutti gli uomini che mi servono per
 str_npc16_backstory_response_2|Siamo spiacenti, prete. Parli come se fossi nei guai. Io rispetto qualsiasi fede.
 str_npc1_signup|Vi servirò con fedeltà e dedizione, diventerò degna della vostra fiducia.
 str_npc2_signup|Sono stato addestrato da Thorgil. Guardami bene, perché a differenza di molti che sono con voi, io sono un guerriero. Potrei battere chiunque qui con lancia o spada. Io forse valgo cinque dei tuoi uomini.
-str_npc3_signup|Io sono? Volete davvero aiutarmi a scappare e mi proteggerà? Beh, io non posso essere pignolo! Sarei lieto di unirmi a voi in cambio della mia libertà.
+str_npc3_signup|Davvero? Volete aiutarmi a scappare e mi proteggerete? Beh, non sono nella posizione di poter rifiutare! Sarei lieta di unirmi a te in cambio della mia libertà.
 str_npc4_signup|Allora io sono il tuo uomo. Non chiedermi di parlare troppo, ma dammi un'ascia e uno scudo e fammi fare il mio lavoro.
 str_npc5_signup|Si?, questa è un'offerta generosa, senza dubbio...
 str_npc6_signup|Il mio destino è scritto con il sangue e l'acciaio e la mia redenzione passa attraverso essi..
-str_npc7_signup|Potrei essere. Non sono davvero felice di essere qui. In un primo momento, ho pensato che questo sarebbe stato un posto sicuro, pieno di persone che cercano di fuggire da tutto e di riavvicinarsi agli antichi dèi, ma quell'uomo, l'alto druido, è un pazzo! Uccide la gente per divertimento, dicendo che invoca gli dei, ma la verità è che lui sa molto poco di loro.
-str_npc8_signup|Grazie amico mio! So di essere scontroso. Grazie a Dio c'è gente come te che mi danno una possibilità.
+str_npc7_signup|Potrei esserlo. Non sono davvero felice di essere qui. In un primo momento, ho pensato che questo sarebbe stato un posto sicuro, pieno di persone che cercano di fuggire da tutto e di riavvicinarsi agli antichi dèi, ma quell'uomo, l'alto druido, è un pazzo! Uccide la gente per divertimento, dicendo che invoca gli dei, ma la verità è che lui sa molto poco di loro.
+str_npc8_signup|Grazie amico mio! So di essere scontroso. Grazie a Dio c'è gente come te che mi da una possibilità.
 str_npc9_signup|Mi piacerebbe moltissimo, {reg59?Signora:Signore}.
 str_npc10_signup|Beh, credo che posso darvi la possibilità di dimostrare la vostra dignità. Io combatterò per voi.
 str_npc11_signup|Oh, la fortuna non può contare troppo. Questo è un mondo duro, duro. I timidi muoiono giovani, {reg59?mia cara:caro}, e gli audaci li seguono rapidamente.
@@ -537,7 +537,7 @@ str_npc2_signup_2|Posso anche essere un gran bevitore, e sono stato elogiato mol
 str_npc3_signup_2|Credo che mi troverete molto utile in aggiunta alle vostre truppe. Sono portata alla letteratura classica e posso declamare molti poemi epici della mia gente. Inoltre mia nonna mi ha insegnato come prendermi cura dei miei compagni.
 str_npc4_signup_2|Se sei saggio, dammi una posizione di comando e tienimi lontano da qualsiasi Pitto.
 str_npc5_signup_2|Io non vi abbandonerò... Fin quando, almeno, mi pagherete, mi darete cibo e non mi trascinerete in battaglie che non possono essere vinte. Portatemi il rispetto che merito ed io sarò il vostro miglior guerriero.
-str_npc6_signup_2|Erudino ha risposto alle mie preghiere, che lo porta a me! Non troverete un compagno più fedele o un amico più vicino.
+str_npc6_signup_2|Erudino ha risposto alle mie preghiere, facendoci incontarre! Non troverete un compagno più fedele o un amico più vicino.
 str_npc7_signup_2|Fate in modo che i vostri uomini sappiano che non sopporto gli zoticoni e le bestie. Chiunque si comporterà male con me, si ritroverà una freccia in gola.
 str_npc8_signup_2|Mi guadagnerò il vostro rispetto. Scoprirete di potervi fidare di me.
 str_npc9_signup_2|Sono un gentiluomo, preferisco combattere con spada e lancia. Vedo che siete più giovane di me. Non è un disonore per me servire un condottiero così giovane -- tuttavia, naturalmente, non legherò molto con i vostri uomini, che saranno gelosi del mio coraggio. Spero che questo non sia un problema per voi.
@@ -550,29 +550,29 @@ str_npc15_signup_2|Sarete felici di avermi con voi. Anche se la mia specialità 
 str_npc16_signup_2|sarò utile in ogni tipo di battaglia, sia essa mondana o spirituale -- sia contro le orde dell'inferno.
 str_npc1_signup_response_1|Bene. Potete tornarmi utile.
 str_npc2_signup_response_1|Non ho bisogno di altre informazioni, Egil. Soltanto non datemi problemi.
-str_npc3_signup_response_1|Hum, è un inizio. Possiamo insegnarti il resto. Presto, ti sto salvando.
+str_npc3_signup_response_1|Hum, è un inizio. Possiamo insegnarti il resto. Presto, andiamocene.
 str_npc4_signup_response_1|Molto bene. Sarà un piacere avervi con noi.
 str_npc5_signup_response_1|Certamente. Quelli sono i miei doveri verso ogni uomo sotto il mio comando.
 str_npc6_signup_response_1|Raccogli le tue cose. Abbiamo molto da fare.
-str_npc7_signup_response_1|Siete il benvenuto.
+str_npc7_signup_response_1|Siete la benvenuta.
 str_npc8_signup_response_1|Ok, prendi le tue cose. La strada ci aspetta.
 str_npc9_signup_response_1|Bene, ma non dovrebbe essere così. Parlerò con loro.
-str_npc10_signup_response_1|Brav'uomo, ma fate attenzione! Non metterete giù qualsiasi britannico nel mio muro di scudi.
+str_npc10_signup_response_1|Brav'uomo, fate attenzione! Non dovete litigate con nessun Britannico nella mia compagnia.
 str_npc11_signup_response_1|Molto bene, siete assunto, ma smettetela di chiamarmi '{reg59?mia bella: mio bello}.'
-str_npc12_signup_response_1|Allora benvenuto nel mio muro di scudi, loeknir.
+str_npc12_signup_response_1|Allora benvenuto nella mia compagnia, loeknir.
 str_npc13_signup_response_1|Bene. Sono felice di avere uno come voi tra le mie fila.
 str_npc14_signup_response_1|Bene. Tenetevi pronto, partiremo presto. 
 str_npc15_signup_response_1|Mi sta bene. Sono lieto di accogliervi nella mia Compagnia.
 str_npc16_signup_response_1|Sembra che possiate fare questo lavoro. Credo che v'ingaggerò.
 str_npc1_signup_response_2|Preferirei non avervi nelle mie fila. Buona giornata, signore.
 str_npc2_signup_response_2|No, preferisco compagni di altra tipologia. Buona giornata..
-str_npc3_signup_response_2|In verità, penso che sei abbastanza inutile. Torna dal tuo padrone, schiavo.
+str_npc3_signup_response_2|In verità, penso che sei abbastanza inutile. Torna dal tuo padrone, schiava.
 str_npc4_signup_response_2|Veramente, non è nostra abitudine assumere uomini come voi. Buona giornata, signore.
 str_npc5_signup_response_2|Ripensandoci, preferisco non assumere un uomo esiliato.
 str_npc6_signup_response_2|Spiacente, ma non ho bisogno di voi. Preferisco non avervi intorno.
-str_npc7_signup_response_2|Veramente, ripensandoci, sembrate qualcuno che potrebbe fare un po' di danni. Buongiorno. 
+str_npc7_signup_response_2|Veramente, ripensandoci, sembrate quna che potrebbe fare un pò di danni. Buongiorno. 
 str_npc8_signup_response_2|Mm, temo dobbiate cercare miglior fortuna altrove.
-str_npc9_signup_response_2|Supponi male, sir. Nel mio muro di scudi, noi rispettiamo il coraggio e l'abilità, piuttosto che la stirpe.
+str_npc9_signup_response_2|Vi sbagliate, signore. Nella mia Compagnia rispettiamo coraggio e abilità, piuttosto che una nascita nobile.
 str_npc10_signup_response_2|Non vedrò uno dei miei uomini ucciso perché loro non sono sassoni. buona giornata a te.
 str_npc11_signup_response_2|perdonatemi, milady. ora ricordo che abbiamo già molti cantanti più di quanti possiamo permetterci.
 str_npc12_signup_response_2|La battaglia non è il luogo adatto per uomini di scienza. Dovreste cercare lavoro altrove.
@@ -580,39 +580,39 @@ str_npc13_signup_response_2|I miei guerrieri sono già disciplinati a sufficienz
 str_npc14_signup_response_2|Ripensandoci, un combattente assetato di gloria e donne è pericoloso da avere in una Compagnia.
 str_npc15_signup_response_2|Sai, ora che ci penso, non ho bisogno delle tue competenze per il prossimo futuro.
 str_npc16_signup_response_2|Per essere onesti, preferirei qualcuno che non sia un fanatico religioso.
-str_npc1_payment|Vi sarò davvero utile, {reg59?signora:signore}, potete scommetterci. Solo una cosa prima di andare, potreste prestarmi {reg3} denari? Mi vergogno a dirlo, ma ho contratto un po' di debiti qui, stando in questa taverna in queste poche settimane, e i proprietari non credono più che abbia l'argento per pagarli. Sapete, le cose potrebbero peggiorare se vedessero che me ne vado con voi prima di aver saldato il debito...
+str_npc1_payment|Vi sarò davvero utile, {reg59?signora:signore}, potete scommetterci. Solo una cosa prima di andare, potreste prestarmi {reg3} denari? Mi vergogno a dirlo, ma ho contratto un pò di debiti qui, stando in questa taverna in queste poche settimane, e i proprietari non credono più che abbia l'argento per pagarli. Sapete, le cose potrebbero peggiorare se vedessero che me ne vado con voi prima di aver saldato il debito...
 str_npc2_payment|Prima di iscrivermi, avrò bisogno di 300 monete.
 str_npc3_payment|Allora combatterò i tuoi nemici per te!
-str_npc4_payment|Prima i partire, saresti cosi gentile da prestarmi {reg3} peningas? ho impegnato un cimelio di famiglia ad un usuraio qui in {s20}, e vorreri ritirarlo prima che ce ne andiamo.
-str_npc5_payment|Grazie. Ora per sigillare il nostro accordo, ti chiedo se puoi darmi {reg3} peningas, in modo che possa equipaggiarmi adeguatamente con armature e armi necessarie per adempiere ai miei  nuovi obblighi verso di te.
+str_npc4_payment|Prima di partire, sareste così gentile da prestarmi {reg3} denari? Devo riavere un cimelio di famiglia da un usuraio qui a {s20}, e vorrei prenderlo prima di andare.
+str_npc5_payment|Grazie. Ora per sigillare il nostro accordo, ti chiedo se puoi darmi {reg3} denari, in modo che possa equipaggiarmi adeguatamente con un'armatura e le armi necessarie per adempiere ai miei nuovi obblighi verso di te.
 str_npc6_payment|Prima di iscrivermi, ho bisogno 300 monete come pagamento.
-str_npc7_payment|Va bene. Verrò con te, ma voglio prima un pagamento di {reg3} peningas. Non ti aspetterai che lavori gratis, vero?
+str_npc7_payment|Va bene. Verrò con te, ma voglio prima un pagamento di {reg3} denari. Non ti aspetterai che lavori gratis, vero?
 str_npc8_payment|Allora combatterò i tuoi nemici per te!
-str_npc9_payment|Questo è davvero gentile da parte tua, ma prima che mi unisca, puoi prestarmi {reg3} peningas, in modo che possa comprarmi dei vestiti degni di un gentiluomo di nobili origini come me? il soprabito che ho si è sciupato per una mia recente disgrazia, e non posso permettere che dei soldati comuni facciano errore di credermi uno di loro.
-str_npc10_payment|è una buona notizia, ma ti chiedo un ultima cosa, signore della guerra. Ho una donna qui in {s20}, una vedova allegra, e dice di essere incinta del mio bambino. Dannazione lei è una fanciulla britannica, ma voglio darle del denaro prima di andarmene... per il bambino, sai. Anche se il bambino sia solo per metà sassone, merita un futuro. Pensi di potermi prestare {reg3} peningas?
+str_npc9_payment|Buon per voi. Ma prima di unirmi alla vostra Compagnia, prestatemi {reg3} denari, cosicché possa comprarmi dei vestiti degni di una persona di nobile nascita come in realtà sono. Il mio mantello viene giù male a causa della sfortuna che ho avuto, e non posso permettere che dei semplici soldati comuni mi scambino per uno di loro.
+str_npc10_payment|è una buona notizia, ma ti chiedo un ultima cosa, signore della guerra. Ho una donna qui in {s20}, una vedova allegra, e dice di essere incinta del mio bambino. Dannazione lei è una fanciulla britannica, ma voglio darle del denaro prima di andarmene... per il bambino, sai. Anche se il bambino sia solo per metà sassone, merita un futuro. Pensi di potermi prestare {reg3} denari?
 str_npc11_payment|Certamente, {reg59?mia bella:mio bello}, ma prima di unirmi a voi, vi chiedo un pagamento di {reg3} denari. Capirete, che voglia un anticipo per guardarvi meglio le spalle.
 str_npc12_payment|Prima di unirmi a voi, ho bisogno di saldare alcuni conti in sospeso per l'alloggio e altre cose. Sareste in grado di coprirli? 300 monete dovrebbe bastare.
 str_npc13_payment|Ah, un'ultima cosa. Volevo chiedervi un pagamento iniziale di {reg3} denari prima di unirmi alla vostra Compagnia. È un mio principio quello di non entrare mai al servizio di qualcuno senza ricevere il pagamento che mi merito.
 str_npc14_payment|Prima di unirmi alla vostra Compagnia, c'è la questione di alcune spese che ho affrontato stando qui...{reg3} denari. Pensate di poterle pagare voi per me, come gesto per cementare questa leggendaria amicizia?
 str_npc15_payment|Bene. Ad ogni modo, come ogni esperto ingegnere chiedo un pagamento per i miei servigi. Un bonus iniziale di {reg3} denari sarebbe equo, penso.
 str_npc16_payment|Prima di iscrivermi, avrò bisogno di 200 monete.
-str_npc1_payment_response|Molto bene, eccoti {reg3} peningas. Ora, vai con gli altri.
+str_npc1_payment_response|Molto bene, eccoti {reg3} denari. Ora, vai con gli altri.
 str_npc2_payment_response|Molto bene. Avete perso.
 str_npc3_payment_response|Molto bene.
-str_npc4_payment_response|Certo, eccoti {reg3} peningas.
-str_npc5_payment_response|Bene... eccoti {reg3} peningas, quindi. il tuo primo pagamento.
+str_npc4_payment_response|Certo, eccoti {reg3} denari.
+str_npc5_payment_response|Bene... eccoti {reg3} denari, quindi. il tuo primo pagamento.
 str_npc6_payment_response|Molto bene.
-str_npc7_payment_response|No, non di certo. Eccoti {reg3} peningas.
-str_npc8_payment_response|Oh, non sono indigente, grande guerriero. Eccoti {reg3} peningas per te.
-str_npc9_payment_response|Molto bene, eccoti {reg3} peningas.
-str_npc10_payment_response|Ha ha, certamente. Ecco, {reg3} peningas.
-str_npc11_payment_response|Molto bene, eccoti {reg3} peningas. Adesso torniamo sulla nostra strada. e basta... ah, bhe, come non detto.
+str_npc7_payment_response|No, non di certo. Eccoti {reg3} denari.
+str_npc8_payment_response|Oh, non sono indigente, grande guerriero. Eccoti {reg3} denari per te.
+str_npc9_payment_response|Molto bene, eccoti {reg3} denari.
+str_npc10_payment_response|Ha ha, certamente. Ecco, {reg3} denari.
+str_npc11_payment_response|Molto bene, eccoti {reg3} denari. Adesso torniamo sulla nostra strada. e basta... ah, bhe, come non detto.
 str_npc12_payment_response|Molto bene.
-str_npc13_payment_response|Va bene, eccoti {reg3} peningas. Sei il benvenuto nel nostro muro di scudi.
-str_npc14_payment_response|Certo, eccoti {reg3} peningas. Preparati ce ne andremo presto.
-str_npc15_payment_response|Va bene, eccoti {reg3} peningas. Lieto di averti con noi.
+str_npc13_payment_response|Va bene, eccoti {reg3} denari. Sei il benvenuto nella mia compagnia.
+str_npc14_payment_response|Certo, eccoti {reg3} denari. Preparati ce ne andremo presto.
+str_npc15_payment_response|Va bene, eccoti {reg3} denari. Lieto di averti con noi.
 str_npc16_payment_response|Molto bene.
-str_npc1_morality_speech|Ehi --  Comandante. Non prendetela nel modo sbagliato ma è una vita dura ed è un po' troppo che noi {s21}. Se volete un consiglio, fate più attenzione in futuro.
+str_npc1_morality_speech|Ehi --  Comandante. Non prendetela nel modo sbagliato ma è una vita dura ed è un pò troppo che noi {s21}. Se volete un consiglio, fate più attenzione in futuro.
 str_npc2_morality_speech|Non mi piace che {s21}. Nessuno che porti addosso il marchio della sfacciata codardia potrà essere rispettato e temuto dai suoi uomini.
 str_npc3_morality_speech|Forse non spetta a me dirlo, {reg59?signora:signore}, ma confesso che sono piuttosto indignato del fatto che noi {s21}. Ovviamente, so che la guerra è dura, ma non è necessario renderla ancora più crudele.
 str_npc4_morality_speech|Gli Scozzesi non si preoccupano di {s21}. Non gradirò affatto che continuiate in questo modo.
@@ -623,10 +623,10 @@ str_npc8_morality_speech|Non mi è piaciuto che abbiate deciso di {s21}. Cadere 
 str_npc9_morality_speech|{reg59?Signora/Signore} avete disprezzato il nostro orgoglio guerriero {s21}. La mia gente accetta la morte ma non il disonore. Vi prego, non fatemi vergognare d'essere al vostro servizio.
 str_npc10_morality_speech|Implorando il vostro perdono, comandante. Non posso dire d'essere felice di vederci {s21}. Queste sono persone semplici, cercano di vivere come meglio possono. Se potessimo non infierire sui poveri disgraziati, comandante, mi sentirei molto meglio.
 str_npc11_morality_speech|Perdonatemi, {reg59?mia bella:mio bello}. Non è una buona cosa che noi {s21}. Il minimo che i soldati si aspettano dal loro comandante è cibo, salario, e che {reg59?lei:lui} faccia del {reg59?suo:suo} meglio per cercare di non farli morire.
-str_npc12_morality_speech|Comandante... Non mi piace vedere che noi {s21}. Sono addestrato ad essere un guerriero, non un bandito. Vi prego, lasciateci mostrare un po' di compassione.
+str_npc12_morality_speech|Comandante... Non mi piace vedere che noi {s21}. Sono addestrato ad essere un guerriero, non un bandito. Vi prego, lasciateci mostrare un pò di compassione.
 str_npc13_morality_speech|Non mi piace che {s21} abbiate mostrato paura. Nessuno che porti addosso il marchio della codardia potrà essere temuto e rispettato dai suoi uomini.
 str_npc14_morality_speech|Comandante, se possiamo evitarlo, preferirei non {s21}. Questo mondo è un piccolo paese e la reputazione di ognuno di noi è preziosa. Se deciderete di ignorarli avrete il mio rispetto.
-str_npc15_morality_speech|{reg59?Signora/Signore}... Giusto per farvi sapere come la penso, ogni comandante con un po' di buon senso, non permetterebbe alla sua Compagnia di {s21}. Spero che comprenderete la mia franchezza.
+str_npc15_morality_speech|{reg59?Signora/Signore}... Giusto per farvi sapere come la penso, ogni comandante con un pò di buon senso, non permetterebbe alla sua Compagnia di {s21}. Spero che comprenderete la mia franchezza.
 str_npc16_morality_speech|Il Signore della guerra, non mi piace per {s21}. Dio non approva questo tipo di comportamento. Sarà sicuramente causa della sua caduta, se ignora i miei santi insegnamenti.
 str_npc1_2ary_morality_speech|Comandante, giusto per dirvelo, non ho problemi se noi {s21}. Vivere per poter lottare un altro giorno mi sta bene.
 str_npc2_2ary_morality_speech|Sapete, {playername}, non è molto rassicurante vedere come {s21}. Se infrangete la promessa fatta a loro, infrangete la promessa fatta a me, è così che la vedo.
@@ -663,12 +663,12 @@ str_npc16_personalityclash_speech|Giusto perché lo sappiate... C'è qualcosa di
 str_npc1_personalityclash_speech_b|Lei non è niente di speciale e non ha il diritto di dirmi di starle lontano come ha appena fatto.
 str_npc2_personalityclash_speech_b|Non mi interessa molto ascoltare {s11} gongolare per la rettitudine della vita casta e pura. Io sono un guerriero che aspira al Walhalla, non uno dei Santi di {s11}.
 str_npc3_personalityclash_speech_b|So che un armata solitamente è un posto per uomini, ma credo di meritare del rispetto anche io. Non sono la sgualdrina di nessuno. spero che non ti dispiaccia che io dica questo.
-str_npc4_personalityclash_speech_b|Questo Sassone, {s11}, sta cercando di morire. E' tutto.
+str_npc4_personalityclash_speech_b|Questo Sassone, {s11}, sta cercando di morire. È tutto.
 str_npc5_personalityclash_speech_b|Gli ho detto che se la strada del guerriero lo annoia così tanto, che diventi un sacerdote o un mercante e così non dovrà preoccuparsi di queste cose. Spero di non avervi annoiato dicendovi questo.
 str_npc6_personalityclash_speech_b|So di non essere il migliore degli uomini, ma sto cercando penitenza, e merito di meglio di essere l'oggetto di alcune superstizioni di streghe. penso lei abbia del sangue del diavolo in suo possesso. pensavo che dovevi saperlo.
-str_npc7_personalityclash_speech_b|Non mi importa di come mi fissa intorno al fuoco dopo un pasto, pulendosi i denti e tracannando sua birra viscida. Quello che non posso accettare è come continua a dire che lui sia molto meglio di me come esploratore, che ovviamente è falso. E' un principiante, ignorante, e un giovane completamente idiota. Non potrebbe mai confrontarsi con me nell'esplorazione, né in qualsiasi altra cosa. Non mi interessa viaggiare con questo genere di persone.
-str_npc8_personalityclash_speech_b|È vero che non so leggere e scrivere, né parlare il latino, ma so molto di più della vita di battaglia di {s11}. Un grande guerriero come me non dovrebbe essere preso in giro da qualche saputello debole di mente. E' stato solo per rispetto a voi che mi sono astenuto dal tagliargli la gola quando ho sentito le sue battute su di me. Ho pensato che fosse giusto avverttirvi.
-str_npc9_personalityclash_speech_b|Così ho chiesto, se lui e i suoi uomini erano tanto più disciplinati rispetto ai franchi, come ha fatto a fallire nel conquistare i suoi nemici danesi e invece ha deciso di nascondersi tra i Sassoni, un popolo che disprezza? Non mi ha non dato nessuna risposta; il suo volto era appena diventata rosso. Quindi ha maledetto me e tutti i miei antenati e quasi mi sfidava a duello. Dice che lui è disciplinato, ma penso che forse si dovrebbe disciplinare un po' di più.
+str_npc7_personalityclash_speech_b|Non mi importa di come mi fissa intorno al fuoco dopo un pasto, pulendosi i denti e tracannando sua birra viscida. Quello che non posso accettare è come continua a dire che lui sia molto meglio di me come esploratore, che ovviamente è falso. È un principiante, ignorante, e un giovane completamente idiota. Non potrebbe mai confrontarsi con me nell'esplorazione, né in qualsiasi altra cosa. Non mi interessa viaggiare con questo genere di persone.
+str_npc8_personalityclash_speech_b|È vero che non so leggere e scrivere, né parlare il latino, ma so molto di più della vita di battaglia di {s11}. Un grande guerriero come me non dovrebbe essere preso in giro da qualche saputello debole di mente. È stato solo per rispetto a voi che mi sono astenuto dal tagliargli la gola quando ho sentito le sue battute su di me. Ho pensato che fosse giusto avverttirvi.
+str_npc9_personalityclash_speech_b|Così ho chiesto, se lui e i suoi uomini erano tanto più disciplinati rispetto ai franchi, come ha fatto a fallire nel conquistare i nemici danesi e invece ha deciso di nascondersi tra i Sassoni, un popolo che disprezza? Non mi ha non dato nessuna risposta; il suo volto era appena diventata rosso. Quindi ha maledetto me e tutti i miei antenati e quasi mi sfida a duello. Dice che lui è disciplinato, ma penso che forse si dovrebbe disciplinare un pò di più.
 ; str_npc10_personalityclash_speech_b|Everyone knows there is no noble blood among the Welsh; the two things are antithetical. Any Welshman who pretends to be of noble blood is simple, foolish, and intolerable. Anyway, I might have said something that was a bit sharp to him a moment ago - something like 'if he is truly a noble, then his father must really be a Saxon.' He seemed to take offense. Anyway, I just thought you should know.
 ; str_npc11_personalityclash_speech_b|He'll bring us nothing but misfortune and sorrow, that's for certain. I don't like being around him, and I don't think he should be with us. I have also instructed him that a skjaldmo must be a virgin, but he stupidly keeps speaking of love. I cannot abide him any longer, that's all. Sorry to have to trouble you with this, {reg59?my pretty:handsome}.
 ; str_npc12_personalityclash_speech_b|It is not my fault that this stupid barbarian is incapable of understanding the beautiful world of medicine, nor that he prefers to die with an infected wound than to be helped by my knowledge of nature and human body. Warlord, I am deeply tired of tolerating such an ungrateful and ignorant lot.
@@ -676,7 +676,7 @@ str_npc9_personalityclash_speech_b|Così ho chiesto, se lui e i suoi uomini eran
 ; str_npc14_personalityclash_speech_b|She is the one that has already tried many times to sneak into my tent during the night! She uses every opportunity to be alone with me, trying to provoke me into something I do not dare to say out loud. Please, explain to that impudent girl that I only care for beautiful women and would have no business with the likes of her.
 ; str_npc15_personalityclash_speech_b|I heard him preaching to the warriors that our preparations before a battle or a siege are completely useless, because victory can only be achieved if it befits God's will. Even though I also believe in Christ, I know for sure that a pure Christian soul alone never guaranteed victory to any army. I think you should tell him to stop this kind of preaching right now.
 ; str_npc16_personalityclash_speech_b|Fearing witchcraft, I asked {s11} about it, and he told me that I should mind my own business. So I had a look in his baggage and found a heretical Odin amulet. I am sure that this amulet is evil, a thing of the Devil, surely. We should definitely get rid of {s11} for the sake of our immortal souls.
-str_npc1_personalityclash2_speech|Signore della guerra, senza offesa, ma sono un po' stanco di {s11}. Continua a dire che sono pazzo, gioventù idiota sicuramente destinata ad andare all'inferno.
+str_npc1_personalityclash2_speech|Signore della guerra, senza offesa, ma sono un pò stanco di {s11}. Continua a dire che sono pazzo, gioventù idiota sicuramente destinata ad andare all'inferno.
 ; str_npc2_personalityclash2_speech|{reg59?Madame:Sir}, if you don't mind, I'd prefer not to be deployed anywhere near {s11}, lest I be tempted to sacrifice him to my gods.
 ; str_npc3_personalityclash2_speech|{reg59?Madame:Sir}, since I joined your shield wall, I have tried hard to learn how to live like a soldier -- which is much better than being a slave -- and how to honor the warrior's code, but some of your men do not respect me as an equal.
 ; str_npc4_personalityclash2_speech|I told you I hate Picts, yet you invited {s11} to join us. Well, inform her that when she speaks to me, she should remember that she is nothing more than a Pictish servant, whereas I am a Scot.
@@ -706,7 +706,7 @@ str_npc9_personalityclash2_speech_b|Apprezzo il fatto che sia disposto a rischia
 str_npc12_personalityclash2_speech_b|Comandante, se quell'uomo conoscesse l'etica nel campo medico, saprebbe che non si deve mai minare la fiducia del paziente nei confronti del proprio dottore, specialmente durante un'operazione complicata. Egli dovrebbe attenersi solo alle questioni militari, se foste così gentile da congedarlo dalla nostra Compagnia, rendereste un gran servigio a tutti.
 ; str_npc13_personalityclash2_speech_b|He keeps saying that I'd better watch my back, for someday he will stick his spear deep into my dark Svia heart. He has sworn to kill me in the next battle. You had better keep a close eye on this fool.
 ; str_npc14_personalityclash2_speech_b|In our last battle, while I was singing about the many battles that your leadership, alongside my courage, allowed us to turn into victories, he spat on the ground and told me to keep my 'arrogant yapper' shut. If this man does not understand the legendary nature of our feats, then he should not be allowed to share our future glory and fortune.
-str_npc15_personalityclash2_speech_b|{s11} ha detto che Galenian era un antiquato ignorante. Comandante, nessun vero dottore puo' mancare di rispetto ai grandi maestri del passato. Io non credo che dobbiate avvalervi di uno che è chiaramente un impostore.
+str_npc15_personalityclash2_speech_b|{s11} ha detto che Galenian era un antiquato ignorante. Comandante, nessun vero dottore può mancare di rispetto ai grandi maestri del passato. Io non credo che dobbiate avvalervi di uno che è chiaramente un impostore.
 ; str_npc16_personalityclash2_speech_b|This awful woman has openly declared that she follows the pagan gods Odin and Thor, and that the teachings of Christ are nothing more than the babblings of weak men. She even made an absurd remark suggesting that I, a holy priest, brought us all bad luck with my 'gibberish preaching.' If you have no intention of leading all of your men to Hell, this Norse woman should be immediately sent to her afterlife by fire.
 str_npc1_personalitymatch_speech|Comandante. {s11} non si è comportato affatto male nell'ultima battaglia. Ha un buon cervello e sa come usarlo.
 str_npc2_personalitymatch_speech|{reg59?Signora:Sgnore}. Sto solo cercando di dirvi che {s11} potrà sembrare rozzo, potrà anche sembrare un completo ubriacone, ma sono fiero di chiamarlo 'compagno'.
@@ -714,7 +714,7 @@ str_npc3_personalitymatch_speech|Salute, {reg59?signora:signore}! Volevo solo di
 str_npc4_personalitymatch_speech|Volevo solo esprimere il mio apprezzamento per {s11}. Si è comportato molto bene nell'ultima battaglia.
 str_npc5_personalitymatch_speech|Questa è stata una bella battaglia, {playername}! {s11} è un ottimo compagno da avere al proprio fianco in combattimento.
 str_npc6_personalitymatch_speech|Certe volte tutto questo spargimento di sangue mi preoccupa, tuttavia so che gli arroganti signori di queste terre devono essere fermati e i banditi eliminati se si vuole riportare la pace.
-str_npc7_personalitymatch_speech|Comandante stavo parlando con {s11}. E' un uomo schietto ma non detiene alcun pregiudizio contro di me sebbene io sia una donna o un Pitta.
+str_npc7_personalitymatch_speech|Comandante stavo parlando con {s11}. È un uomo schietto ma non detiene alcun pregiudizio contro di me sebbene io sia una donna o un Pitta.
 ; str_npc8_personalitymatch_speech|A fine battle that was, warlord. I have to say, I greatly enjoy the company of {s11}, for he is a fine commander of men.
 str_npc9_personalitymatch_speech|Comandante. {s11} se l'è cavata bene nell'ultimo combattimento. È una fanciulla bella e modesta, se posso dire la mia.
 ; str_npc10_personalitymatch_speech|Dryhten! I wish you joy in your victory! Say, I really like the company of that Solveig. I see that she is extremely devoted to the safety of our shield wall.
@@ -740,7 +740,7 @@ str_npc12_personalitymatch_speech_b|Si rattrista molto a prendere la vita dei su
 ; str_npc14_personalitymatch_speech_b|The tales from his homeland that he likes to recite by the campfire also teach a lot about battles and warfare in general. I especially enjoy the heroic deeds that happened during the war with Troy. Soon, our shield wall will be a legend as glorious and famous as the heroes of Agamemnon's time.
 ; str_npc15_personalitymatch_speech_b|Even though he seems to be nothing more than a proud leader of men, he understands that war, like any other affair, requires careful planning and preparation and a firm grasp of strategic principals. A fine proof of that is how interested he got in the military aspects of the siege of Troy, as I was telling him that tale the other day.
 ; str_npc16_personalitymatch_speech_b|{s11} is an intelligent man with great wisdom. I like to listen to him at the camp fire, and he listens to me when I speak of Christ. The truth is that we have very interesting discussions. You should join us someday.
-str_npc1_retirement_speech|Sono stanco di marciare in lungo e in largo per le campagne, usate il mio sangue per la causa di qualcun altro. Il bottino è buono, ma ora ne ho abbastanza. Ho intenzione di tornare ala cava di mio padre,  vicino al muro di Hadrian. Perdonatemi ma questa vita di avventura e pericoli è finita per me.
+str_npc1_retirement_speech|Sono stanco di marciare in lungo e in largo per le campagne, usate il mio sangue per la causa di qualcun altro. Il bottino è buono, ma ora ne ho abbastanza. Ho intenzione di tornare alla cava di mio padre,  vicino al vallo di Adriano. Perdonatemi ma questa vita di avventura e pericoli è finita per me.
 str_npc2_retirement_speech|Sono stanco di questa vita da guerriero. Ho intenzione di investire il mio bottino in idromele e donne. Vi ringrazio di avermi preso con voi, vi auguro buona fortuna.
 ; str_npc3_retirement_speech|I am afraid I have something to tell you. I have decided that the warrior's life, even if better than a slave's one, is not for me. One final time, I thank you for freeing me, but it is time for me to find myself a more peaceful way of life. I think I have enough money to return to my father, Thonkrik, to start a new life as a merchant. I hope you will not be angry, {reg59?madame:sir}.
 str_npc4_retirement_speech|Ho combattuto con voi con onore, ma non sono del tutto soddisfatto del vostro comando. Addio.
@@ -768,8 +768,8 @@ str_npc8_rehire_speech|Salute, {playername}. Mi chiedevo se le parole aspre che 
 str_npc10_rehire_speech|Dryhten! è bello rivedervi. Sapete, ho scoperto di non essere tagliato per il lavoro dell'agricoltore. Troppo tranquillo lavorare sulle spalle dei braccianti. Penso che il combattimento sia la cosa che conosco meglio, anche se sarò affiancato da Bretoni e Merciani. Ditemi, Dryhten, state ancora cercando bravi uomini?
 ; str_npc11_rehire_speech|{reg59?My pretty:Handsome}, I've thought a lot since we parted. Now I know in my heart that, even if sometimes we cannot get what we most desire, it is better to live close by than far away from it. Perhaps there is hope left, after all, that your company will be good for me. So, {reg59?my pretty:handsome}, will you take me back?
 str_npc12_rehire_speech|Comandante! è bello rivedere un viso onesto come il vostro. Questo mondo è pieno di bugiardi e ipocriti. Sono andato a Roma per pubblicare le mie ricerche, ho assoldato qualche scrivano e creato una manciata di ricette, aspettando qualche commissione. Ma ho scoperto che ai filosofi non interessa la vera conoscenza della medicina ma preferiscono discutere di teorie mistiche o magiche. Ci riproverò, ma prima ho bisogno di altri soldi. Avete bisogno di un bravo cerusico?
-str_npc13_rehire_speech|E' bello vedervi. Quando ci siamo separati, ero pronto a giurare che non vi avrei più servito, ma forse ho espresso giudizi troppo duri nei vostri confronti. Ho provato a servire in eserciti di altri jarl. Credetemi; quello che ho visto mi ha aperto gli occhi sulle vostre vere abilità di comando. Se vorrete avermi nella vostra Compagnia, combatterò ancora per voi.
-str_npc14_rehire_speech|Salve, comandante. Speravo di rivedervi ancora. Ovunque vada, sento leggende e canzoni sulle vostre imprese. Ammetto di sentire una fitta di rimpianto da quando le nostre strade si sono divise e, lo confesso, una fitta di gelosia per la vostra notorietà. Ho pensato che potrei combattere ancora al vostro fianco, vivendo di luce riflessa dalla vostra gloria. Potremmo forse cavalcare ancora insieme, almeno per un po'.
+str_npc13_rehire_speech|È bello vedervi. Quando ci siamo separati, ero pronto a giurare che non vi avrei più servito, ma forse ho espresso giudizi troppo duri nei vostri confronti. Ho provato a servire in eserciti di altri jarl. Credetemi; quello che ho visto mi ha aperto gli occhi sulle vostre vere abilità di comando. Se vorrete avermi nella vostra Compagnia, combatterò ancora per voi.
+str_npc14_rehire_speech|Salve, comandante. Speravo di rivedervi ancora. Ovunque vada, sento leggende e canzoni sulle vostre imprese. Ammetto di sentire una fitta di rimpianto da quando le nostre strade si sono divise e, lo confesso, una fitta di gelosia per la vostra notorietà. Ho pensato che potrei combattere ancora al vostro fianco, vivendo di luce riflessa dalla vostra gloria. Potremmo forse cavalcare ancora insieme, almeno per un pò.
 str_npc15_rehire_speech|Salve, comandante! Non posso dire di essere del tutto dispiaciuto di vedervi nuovamente. Vedete, ho sottoscritto un altro contratto prima di lasciarvi, e quando è arrivato il momento di prendere la paga, il lord non ebbe altro da darmi se non parole, scuse e critiche alla mia opera. Non ero sempre felice nella vostra Compagnia, ma almeno dopo ogni battaglia riuscivo a mettere un poco d'oro nella mia bisaccia. Mi offrireste ancora lavoro?
 ; str_npc16_rehire_speech|I am here to offer another chance to you and your men. An angel came to me in a dream, and told me the future of your immortal soul. The angel said that your only chance of eventually going to Heaven lies entirely upon my work as a preacher. You are my responsibility. So, I beg you to accept me again in your shield wall. Maybe this time you will pay heed to the word of God.
 ; str_npc1_home_intro|Warlord, perhaps you didn't know this about Hadrian's Wall. Near here is a cave where I was born eighteen years ago. This is a special place that we should stop and visit, for it has long history. Romans, those legendary warriors, dwelt here.
@@ -782,7 +782,7 @@ str_npc7_home_intro|Prestare attenzione e stare attento. Ora siamo a Alban, nei 
 ; str_npc8_home_intro|We are in the kingdom of Friese, where Dorestad is the main town. Years ago, we Frisians were subjects of the Franks, but later, a Dane became king. Well, really, Frisians do not recognize these kings, but have to accept their power. We prefer to live.
 str_npc9_home_intro|Ecco all'orizzonte, si trova la fortezza di Rendlaesham, sede del potere dei re di East Engle.
 ; str_npc10_home_intro|Look, the trading town of Lundenwic, home to the Saxons of East Seaxna. This beautiful site has a glorious past and, I might bet, a bright future.
-str_npc11_home_intro|Quest'odore di sale e di sudore delle persone che lavorano sul mare. E' il calore di casa... Tunsberg.
+str_npc11_home_intro|Quest'odore di sale e di sudore delle persone che lavorano sul mare. È il calore di casa... Tunsberg.
 str_npc12_home_intro|Forse non conoscete di Heidabyr, potrebbe interessarvi saperne di più.
 str_npc13_home_intro|A est, oltre le terre dei Norvegesi, vive il mio popolo, gli Sviar, un popolo di forti guerrieri. Il nostro destino è quello di governare tutti gli altri.
 ; str_npc14_home_intro|Ah, Caiseal! Such a lovely spot, at the foot of the Eriu. The region of Mhumhain, or Munster, is certainly the most poetic and beautiful part of what Romans called Hibernia.
@@ -912,7 +912,7 @@ str_npc9_kingsupport_2b|Non sono sicuro che realizzare la vostra idea sia così 
 str_npc10_kingsupport_2b|Voi siete fuori di testa. Ci sono uomini e nobili valorosi in ogni nazione.
 str_npc11_kingsupport_2b|Io non voglio essere un Brytenwalda. Scordatevelo.
 str_npc12_kingsupport_2b|Basta signore, non voglio che vengano derise le nostre tradizioni.
-str_npc13_kingsupport_2b|In realtà, speravo in un po' di riposo dopo essere diventato re. Non voglio avere niente a che fare con il resto d'Europa!
+str_npc13_kingsupport_2b|In realtà, speravo in un pò di riposo dopo essere diventato re. Non voglio avere niente a che fare con il resto d'Europa!
 ; str_npc14_kingsupport_2b|Hmm. I'm not sure about that. Cu Chulainn had a tragic and early death. I don't want to be linked to him.
 str_npc15_kingsupport_2b|{reg59?Regina:Re} dei deboli e dei poveri, forse. Basta con questi discorsi!
 ; str_npc16_kingsupport_2b|No disrespect, but I'm not as sure that's what I'd do. Perhaps God would not like that at all.
@@ -955,7 +955,7 @@ str_npc4_intel_mission|Comandante, se poteste darmi licenza per qualche giorno, 
 ; str_npc5_intel_mission|If you like, warlord, I can try to contact some of my family members on the border of the {s18}. My own kin will not betray me and denounce me to the king, so I might be able to gather from them news from all across the {s18}. They may have some gossip about the feuds and rivalries of the great lords, if that is of interest to you.
 ; str_npc6_intel_mission|On the occasion of the preparations for my trip to West Seaxe, letters were sent to important people of {s17}. If you give me a few days, I may be able to collect some interesting information about the {s18} from those people, who are well aware of the political affairs of the realm.
 str_npc7_intel_mission|Comandante. Quando ho lasciato la mia casa a {s17}, promisi a me stessa che non vi sarei mai tornato, ad eccezione di potermi vendicare di coloro che m'ingannarono. Forse sono stata avventata. Ogni tanto la curiosità mi sale in cuore, per sapere come vanno le cose alla mia famiglia. Forse potrei portargli qualche dono, per far loro sapere cosa ho fatto di me stessa! Comunque, sono persone infelici, come cani servili che stanno con le orecchie tese al vento. Sono fatti così loro, sperano sempre nel mio ritorno, come se fossi la loro unica salvezza... Ma non badate a me, Comandante. Potrebbero avere informazioni utili circa {s18}, se voleste darmi qualche giorno andrei a far loro visita.
-str_npc8_intel_mission|Se avete qualche interesse in merito agli avvenimenti presso {s18}, un mio ex compagno d'armi si è ritirato dall'attività e ora possiede una fattoria qui, vicino a {s17}. E' rimasto in contatto con un certo numero di altri vecchi guerrieri. Potrei andare a fargli visita e saperne di più su quello che succede dalle sue parti.
+str_npc8_intel_mission|Se avete qualche interesse in merito agli avvenimenti presso {s18}, un mio ex compagno d'armi si è ritirato dall'attività e ora possiede una fattoria qui, vicino a {s17}. È rimasto in contatto con un certo numero di altri vecchi guerrieri. Potrei andare a fargli visita e saperne di più su quello che succede dalle sue parti.
 str_npc9_intel_mission|{reg59?Mia signora:Sir3}. È trascorso qualche tempo dall'ultima volta che ho assaggiato le delizie di {s17}, dove persone del mio rango sono abituate a condividere l'ospitalità dei più potenti e generosi lord. Se lo desiderate, potrei recarmi in quelle contrade, per poi mettervi a conoscenza circa le preoccupazioni che gravano nei cuori dei dignitari di {s18}.
 ; str_npc10_intel_mission|Dryhten -- I was thinking that some of my old mates in the garrison at {s17} would be glad to see me. They are good lads that would never betray the city, but, like me, they are true Saxon warriors. They may be willing to slip a little political gossip about the incompetence of our lords in finally exterminating the Welsh. The gentry are always falling out over one little thing or the other instead of killing Britons, but the lads might know if there's real dissent brewing.
 ; str_npc11_intel_mission|{reg59?My pretty:Handsome}, I was thinking that it's been a while since I visited my kin in {s17}. They were among the few that supported me over the years, so I'd like to share with them some of my newfound fortune and news of our love. Then they will surely spill a few tidbits about events in the {s18}, if that would interest you.
@@ -1182,7 +1182,7 @@ str_comment_you_let_go_a_lord_allied|Ho saputo che avete catturato {s54}, ma pen
 str_comment_you_let_me_go_spiteful|L'ultima volta che ci siamo incontrati, mi avete mostrato misericordia e mi avete permesso di andarmene libero. Spero che abbiate tratto divertimento a giocare con me, come un gatto col topo, perché presto vi avrò alla mia mercé, per uccidervi o umiliarvi secondo la mia ispirazione del momento.
 str_comment_you_let_me_go_enemy_chivalrous|L'ultima volta che ci siamo incontrati, mi avete mostrato misericordia e mi avete permesso di andare via libero. È stato un gesto molto cavalleresco, ed io non lo dimenticherò. Ma devo anche ricordare il mio giuramento di fedeltà, e i nostri regni sono ancora in guerra.
 str_comment_you_let_me_go_enemy_coldblooded|L'ultima volta che sono stato vostro prigioniero mi graziaste donandomi la libertà, ma siamo ancora nemici e non credo che sarò così clemente nella stessa situazione...
-str_comment_you_let_me_go_enemy|L'ultima volta che sono stato vostro prigioniero mi graziaste donandomi la libertà. E' stato un bel gesto, ma noi siamo ancora in guerra.
+str_comment_you_let_me_go_enemy|L'ultima volta che sono stato vostro prigioniero mi graziaste donandomi la libertà. È stato un bel gesto, ma noi siamo ancora in guerra.
 str_comment_you_let_me_go_default|L'ultima volta che sono stato vostro prigioniero mi graziaste donandomi la libertà, è stato un bel gesto, e sono molto contento che i nostri imperi non siano ancora in guerra.
 str_comment_pledged_allegiance_allied_martial_unfriendly|Ho sentito che avete promesso fedeltà al nostro {s54}. Spero che non insozzerete il nome del nostro impero con atti di codardia.
 str_comment_pledged_allegiance_allied_martial|Ho sentito che avete promesso fedeltà al nostro {s54}. Non vedo l'ora di poter combattere i nostri nemici al vostro fianco.
@@ -1312,7 +1312,7 @@ str_troop_train_request_martial|Hanno bisogno di qualcuno che gli insegni a batt
 str_troop_train_request_quarrelsome|Pazzi grassi bastardi. Mi fanno vomitare.
 str_troop_train_request_pitiless|Hanno più timore del nemico che di me, e questo non va bene.
 str_troop_train_request_cunning|Ma gli uomini, come le spade, sono forgiati e temprati dal fuoco.
-str_troop_train_request_sadistic|Hanno bisogno di qualcuno con la schiena d'acciaio, che gli inietti un po' di coraggio o li uccida tentando di farlo.
+str_troop_train_request_sadistic|Hanno bisogno di qualcuno con la schiena d'acciaio, che gli inietti un pò di coraggio o li uccida tentando di farlo.
 str_troop_train_request_goodnatured|Sono in gran parte dei bravi ragazzi, ma temo che non siano ancora pronti per la battaglia.
 str_troop_train_request_upstanding|Equivarrebbe ad un eccidio per me, se li conducessi alla battaglia in questo stato.
 str_unprovoked_attack_default|Cosa? Perché ci attaccate? Parlate, carogna!
@@ -1396,7 +1396,7 @@ str_rebellion_dilemma_2_upstanding|Ritengo di dover fare qualunque cosa sia megl
 str_political_philosophy_martial|La mia spada è ha disposizione del mio legittimo sovrano, fintanto che lui rispetta il suo dovere verso di me.
 str_political_philosophy_quarrelsome|Bah. Sono tutti un branco di bastardi. Cerco di fare in modo che quelli che sbagliano verso di me, imparino a pentirsene.
 str_political_philosophy_pitiless|Gli uomini cercheranno sempre di truffare gli altri dei loro legittimi privilegi. In questo mondo sleale, ognuno deve vigilare sui propri diritti.
-str_political_philosophy_cunning|Beh, è un mondo duro, ed è il nostro destino trovarci di fronte a scelte difficili. A volte si deve servire un tiranno, per mantenere la pace, ma a volte un po' di ribellione garantisce che il Re si mantenga onesto. Le circostanze sono tutto.
+str_political_philosophy_cunning|Beh, è un mondo duro, ed è il nostro destino trovarci di fronte a scelte difficili. A volte si deve servire un tiranno, per mantenere la pace, ma a volte un pò di ribellione garantisce che il Re si mantenga onesto. Le circostanze sono tutto.
 str_political_philosophy_sadistic|La mia filosofia è semplice: meglio essere il lupo che l'agnello.
 str_political_philosophy_goodnatured|Beh, si dovrebbe mantenere fede alle promesse, non fare ingiustizie a nessuno. Alle volte è difficile bilanciare le une e le altre. Se si mantiene la coesione con persone fidate è arduo sbagliare.
 str_political_philosophy_upstanding|Il potere del Re e dei lords è stato istituito per garantire la pace e prevenire la guerra di tutti contro tutti, ma questo non deve farci dimenticare la possibilità che si verifichino ingiustizie.
@@ -1795,7 +1795,7 @@ str_s49_s12_s11_rel_reg0|{s49} {s12} ({s11}, rel: {reg0}),
 str_s49_s12_s11|{s49} {s12} ({s11}),
 str_lord_info_string|{reg6?:{reg4?{s54} è il Re di {s56}.^:{s54} è un vassallo di {s55} di {s56}.^}}Fama: {reg5}. Controversia: {reg15}.^Religione: {s29}^{reg9?{reg3?Lei:Lui} è {reg3?la signora:il lord} di {s58}.:{reg3?Lei:Lui} non ha feudi.}{s59}^{s49}^Relazioni: {reg0}
 str_foreign_relations__|Relazioni internazionali: ^
-str_s21__the_s5_is_at_war_with_the_s14|{s21}^^* E' in guerra con il {s14}.
+str_s21__the_s5_is_at_war_with_the_s14|{s21}^^* È in guerra con il {s14}.
 str_s21_the_s5_has_had_the_upper_hand_in_the_fighting|{s21} Il {s5} ha avuto la meglio nei combattimenti.
 str_s21_the_s5_has_gotten_the_worst_of_the_fighting|{s21} Il {s5} ha avuto la peggio nei combattimenti.
 str_s21_the_fighting_has_gone_on_for_some_time_and_the_war_may_end_soon_with_a_truce|{s21} I combattimenti sono proseguiti per qualche tempo, e la guerra potrebbe terminare presto con una tregua.
@@ -1814,7 +1814,7 @@ str_reg4_killed_reg5_routed|{reg4} uccisi o gravemente feriti, {reg5} scappati
 str_reg4_killed_reg5_wounded|{reg4} uccisi o gravemente feriti, {reg5} con ferite minori
 str_reg4_wounded_reg5_routed|{reg4} feriti lievi, {reg5} fuggiti
 str_s4_awarded_to_s5|{s4} assegnato a {s5}
-str_calculating_sortie_for_s4_strength_of_reg3_vs_reg4_enemies|Calcolando la possibilta' per {s4}, forza di {reg3} contro {reg4} nemici
+str_calculating_sortie_for_s4_strength_of_reg3_vs_reg4_enemies|Calcolando la possibiltà per {s4}, forza di {reg3} contro {reg4} nemici
 str_current_wealth_reg1_taxes_last_collected_from_s4|Ricchezza attuale: {reg1}. Tasse raccolte ultimamente da {s4}
 str_no_relation|nessun rapporto
 str_wife|moglie
@@ -1985,7 +1985,7 @@ str_you_speak_of_giving_me_land_hah_perhaps_all_those_others_to_whom_you_promise
 str_you_speak_of_unifying_calradia_you_may_indeed_humble_the_other_kings_of_this_land_and_in_that_case_i_would_hope_that_you_would_remember_me_as_your_faithful_servant|Voi dite di voler unificare queste terre. Potete certamente umiliare gli altri Re, e in questo caso mi aspetto che voi vi ricorderete di me, vostro fedele servitore.
 str_you_speak_of_unifying_calradia_but_you_are_weak_and_i_think_that_you_will_remain_weak|Voi dite di voler unificare queste terre, ma siete debole e resterete tale.
 str_you_speak_of_claims_its_good_for_a_king_to_have_a_strong_claim_although_admittedly_im_more_concerned_that_he_rules_just_ly_than_with_legalities_anyway_your_claim_seems_wellfounded_to_me|Voi parlate di diritti. È un bene per un Re tenere conto dei diritti altrui, anche se la legalità non è tutto. Comunque per me la vostra affermazione è fondata.
-str_you_speak_of_claims_but_your_claim_seems_a_bit_weak_to_me|Voi parlate di diritti, ma la vostra affermazione è un po' debole per me.
+str_you_speak_of_claims_but_your_claim_seems_a_bit_weak_to_me|Voi parlate di diritti, ma la vostra affermazione è un pò debole per me.
 str_you_speak_of_protecting_the_commons_i_like_that_my_tenants_are_a_happy_lot_i_think_but_i_hear_of_others_in_other_estates_that_arent_so_fortunate|Voi dite di voler proteggere il popolo. Mi piace. I miei ospiti sono molto felici, ma ho sentito di posti dove la gente non è fortunata come me.
 str_you_speak_of_protecting_the_commons_im_glad_to_hear_you_say_that_but_do_me_a_favor__dont_promise_the_commons_anything_you_cant_deliver_thats_a_sure_way_to_get_them_to_rebel_and_it_breaks_my_heart_to_have_to_put_them_down|Voi dite di voler proteggere il popolo. Sono contento di sentirvelo dire. Ma fatemi un favore... Non promettete ciò che non potete mantenere. Questo è sicuramente il miglior modo per indurre il popolo a ribellarsi, e mi si spezzerebbe il cuore doverli combattere.
 str_you_speak_of_protecting_the_rights_of_lords_well_very_good_i_suppose_but_you_know__we_lords_can_take_of_ourselves_its_the_common_folk_who_need_a_strong_king_to_look_out_for_them_to_my_mind|Voi dite di voler proteggere i diritti dei lords. Bene, molto bene. Ma lo sapete -- noi nobili sappiamo badare a noi stessi. Solitamente è la gente comune che dev'essere guidata.
@@ -2029,7 +2029,7 @@ str_a_most_gallant_gentleman_who_knows_how_to_treat_a_lady|uno dei signori più 
 str_a_base_cad|un vile maleducato
 str_a_man_who_treats_me_as_his_equal_which_is_rare|un uomo che mi tratta come suo pari, il che è raro.
 str_appears_to_value_me_with_his_estate_and_his_horse_as_prizes_worth_having|vale la pena arricchirmi con il suo patrimonio e il suo cavallo.
-str_a_bit_dull_but_what_can_you_expect|un po' noioso, ma che cosa ti puoi aspettare... 
+str_a_bit_dull_but_what_can_you_expect|un pò noioso, ma che cosa ti puoi aspettare... 
 str_the_man_whom_destiny_intends_for_me|l'uomo che il destino ha scelto per me.
 str_is_not_right_for_me__i_cannot_say_why_but_he_makes_my_skin_crawl|non è giusto. Non so dire perché, ma mi fa venire la pelle d'oca.
 str_is_a_man_who_clearly_intends_to_make_his_mark_in_the_world|È un uomo che intende restare nella storia cambiando il mondo.
@@ -2093,7 +2093,7 @@ str_i_am_short_of_money_and_i_hear_that_there_is_much_wealth_there|Sono a corto 
 str_i_need_to_refill_my_purse_preferably_with_the_enemys_money|Ho bisogno di riempire le mie tasche, preferibilmente con i soldi del nemico.
 str_by_striking_at_the_enemys_richest_lands_perhaps_i_can_draw_them_out_to_battle|Colpendo le terre più ricche del nemico, forse riesco a farlo uscire dalla sua tana e indurlo a combattere!
 str_i_am_thinking_of_going_on_the_attack|Sto pensando di andare all'attacco.
-str_perhaps_if_i_strike_one_more_blow_we_may_end_this_war_on_our_terms_|Forse, se faccio scorrere un po' più di sangue, potremo porre fine a questa guerra alle nostre condizioni.
+str_perhaps_if_i_strike_one_more_blow_we_may_end_this_war_on_our_terms_|Forse, se faccio scorrere un pò più di sangue, potremo porre fine a questa guerra alle nostre condizioni.
 str_we_may_be_able_to_bring_this_war_to_a_close_with_a_few_more_blows|Potremmo riuscire a concludere questa guerra sferrando alcuni colpi in più.
 str_i_wish_to_attend_the_feast_there|Desidero partecipare alla festa.
 str_there_is_a_feast_which_i_wish_to_attend|C'è una festa a cui intendo partecipare.
@@ -2101,7 +2101,7 @@ str_there_is_a_fair_lady_there_whom_i_wish_to_court|C'è una bella signora che d
 str_i_have_the_inclination_to_pay_court_to_a_fair_lady|Tendo a fare la corte ad una bella signora.
 str_we_have_heard_reports_that_the_enemy_is_in_the_area|Abbiamo sentito dai dispacci che il nemico si trova in questa zona.
 str_i_have_heard_reports_of_enemy_incursions_into_our_territory|Ho ricevuto rapporti su incursioni nemiche nel nostro territorio.
-str_i_need_to_spend_some_time_with_my_household|Ho bisogno di stare un po' di tempo con la mia famiglia.
+str_i_need_to_spend_some_time_with_my_household|Ho bisogno di stare un pò di tempo con la mia famiglia.
 str_it_has_been_a_long_time_since_i_have_been_able_to_spend_time_with_my_household|È da molto che non passo del tempo con la mia famiglia.
 str_i_am_watching_the_borders|Sto controllando i confini.
 str_i_may_be_needed_to_watch_the_borders| Può servire per controllare il confine.
@@ -2152,8 +2152,8 @@ str_s12s15_considers_s16_to_be_dangerous_and_untrustworthy_and_shehe_wants_to_br
 str_s12s15_is_anxious_to_reclaim_old_lands_such_as_s18_now_held_by_s16|{s12}{s15} è ansioso di reclamare vecchi territori come {s18}, ora detenuti da {s16}.
 str_s12s15_feels_that_reg4shehe_is_winning_the_war_against_s16_and_sees_no_reason_not_to_continue|{s12}{s15} ritiene che {reg4?lei:lui} sta vincendo la guerra contro {s16}, e non vede ragioni per continuare.
 str_s12s15_faces_too_much_internal_discontent_to_feel_comfortable_ignoring_recent_provocations_by_s16s_subjects| {s12}{s15} fronteggia un malcontento interno troppo grande per non avere preoccupazioni e per ingorare le recenti provocazioni da parte dei seguaci di {s16}.
-str_s12even_though_reg4shehe_is_fighting_on_two_fronts_s15_is_inclined_to_continue_the_war_against_s16_for_a_little_while_longer_for_the_sake_of_honor|{s12}Anche se {reg4?lei:lui} sta combattendo su due fronti, {s15} è propenso a continuare la guerra contro {s16} per un altro po' di tempo per una questione d'onore.
-str_s12s15_feels_that_reg4shehe_must_pursue_the_war_against_s16_for_a_little_while_longer_for_the_sake_of_honor|{s12}{s15} ritiene che {reg4?lei:lui} deve continuare la guerra contro {s16} per un altro po' di tempo per una questione d'onore.
+str_s12even_though_reg4shehe_is_fighting_on_two_fronts_s15_is_inclined_to_continue_the_war_against_s16_for_a_little_while_longer_for_the_sake_of_honor|{s12}Anche se {reg4?lei:lui} sta combattendo su due fronti, {s15} è propenso a continuare la guerra contro {s16} per un altro pò di tempo per una questione d'onore.
+str_s12s15_feels_that_reg4shehe_must_pursue_the_war_against_s16_for_a_little_while_longer_for_the_sake_of_honor|{s12}{s15} ritiene che {reg4?lei:lui} deve continuare la guerra contro {s16} per un altro pò di tempo per una questione d'onore.
 str_s12s15_is_currently_on_the_offensive_against_s17_now_held_by_s16_and_reluctant_to_negotiate|{s12}{s15} sta attuando un'offensiva contro {s17}, detenuta da {s16}, ed è restio a negoziare.
 str_s12s15_is_alarmed_by_the_growing_power_of_s16|{s12}{s15} è allarmato dal crescente potere di {s16}.
 str_s12s15_distrusts_s16_and_fears_that_any_deals_struck_between_the_two_realms_will_not_be_kept|{s12}{s15} diffida di {s16}, e teme che gli accordi tra i due regni non verranno rispettati.
@@ -2175,7 +2175,7 @@ str_as_you_are_not_a_vassal_of_the_s4_i_must_decline_your_request_the_twists_of_
 str_as_you_are_not_a_pledged_vassal_of_our_liege_with_the_right_to_hold_land_i_must_refuse_your_request_to_marry_into_our_family|Dato che non siete un vassallo del mio sovrano, con il diritto di possedere una terra, devo rifiutare la vostra offerta di entrare a far parte della nostra famiglia.
 str_look_here_lad__the_young_s14_has_been_paying_court_to_s16_and_youll_have_to_admit__hes_a_finer_catch_for_her_than_you_so_lets_have_no_more_of_this_talk_shall_we| Guardate, ragazzo. Il giovane {s14} ha corteggiato {s16} e, dovete ammetterlo, è un miglior partito di voi. Quindi non prolunghiamo questa discussione, d'accordo?
 str_i_do_not_care_for_you_sir_and_i_consider_it_my_duty_to_protect_the_ladies_of_my_household_from_undesirable_suitors|No, non vi ritengo degno, signore. Considero un mio dovere proteggere le dame della mia famiglia da pretendenti indesiderati...
-str_hmm_young_girls_may_easily_be_led_astray_so_out_of_a_sense_of_duty_to_the_ladies_of_my_household_i_think_i_would_like_to_get_to_know_you_a_bit_better_we_may_speak_of_this_at_a_later_date|Hmm. Le giovani donne possono essere facilmente sviate, così per senso del dovere verso le dame della mia famiglia, penso che sarebbe opportuno che vi conoscessi un po' meglio. Potremo parlare di questo in un altro momento.
+str_hmm_young_girls_may_easily_be_led_astray_so_out_of_a_sense_of_duty_to_the_ladies_of_my_household_i_think_i_would_like_to_get_to_know_you_a_bit_better_we_may_speak_of_this_at_a_later_date|Hmm. Le giovani donne possono essere facilmente sviate, così per senso del dovere verso le dame della mia famiglia, penso che sarebbe opportuno che vi conoscessi un pò meglio. Potremo parlare di questo in un altro momento.
 str_you_may_indeed_make_a_fine_match_for_the_young_mistress|Potreste davvero fare un bel duello per la giovane amante.
 str_madame__given_our_relations_in_the_past_this_proposal_is_most_surprising_i_do_not_think_that_you_are_the_kind_of_woman_who_can_be_bent_to_a_hushands_will_and_i_would_prefer_not_to_have_our_married_life_be_a_source_of_constant_acrimony|Signora -- date le nostre relazioni in passato, questa proposta è molto sorprendente. Non credo che voi siate il tipo di donna che può essere piegata alla volontà di un marito, e io preferirei che la nostra vita coniugale non fosse fonte di astio e costanti rimpianti.
 str_i_would_prefer_to_marry_a_proper_maiden_who_will_obey_her_husband_and_is_not_likely_to_split_his_head_with_a_sword|Preferirei sposare una fanciulla propensa ad obbedire al proprio marito, e non sia destinata a farsi tagliare la testa con una spada.
@@ -2209,7 +2209,7 @@ str_storming_the_fortress_of_love_ah_a_sermon_dressed_up_as_a_love_poem_if_you_a
 str_a_hearts_desire_ah_such_a_beautiful_account_of_the_perfect_perfect_love_to_love_like_that_must_be_to_truly_know_rapture|'Un viaggio con Bran'? Ah, un bell'esempio del perfetto, perfetto amore! Amare in questo modo dev'essere come conoscere la vera estasi!
 str_a_hearts_desire_silly_if_you_ask_me_if_the_poet_desires_a_lady_then_he_should_endeavor_to_win_her__and_not_dress_up_his_desire_with_a_pretense_of_piety|'Un viaggio con Bran'? Una sciocchezza, se volete la mia opinione. Se il poeta desidera una dama, allora dovrebbe sforzarsi di conquistarla -- E non rivestire il suo desiderio con una pretesa di pietà!
 str_a_hearts_desire_hmm__it_is_an_interesting_exploration_of_earthly_and_divine_love_it_does_speak_of_the_spiritual_quest_which_brings_out_the_best_in_man_but_i_wonder_if_the_poet_has_not_confused_his_yearning_for_higher_things_with_his_baser_passions|'Un viaggio con Bran'? Hmm -- Si tratta di una interessante esplorazione sull'amore terreno e divino. Si parla della ricerca spirituale che fa emergere il meglio di un uomo, ma mi chiedo se il poeta non abbia confuso il suo desiderio di cose più alte con le sue passioni più vili.
-str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|'Un viaggio con Bran'? Oh, si. È molto benemerito e filosofico, ma se devo ascoltare un bardo strimpellare un liuto per tre ore, personalmente preferisco ci sia un po' di storia.
+str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|'Un viaggio con Bran'? Oh, si. È molto benemerito e filosofico, ma se devo ascoltare un bardo strimpellare un liuto per tre ore, personalmente preferisco ci sia un pò di storia.
 str_reg3_units_of_s4_for_reg5_guests_and_retinue|{reg3} unità di {s4} per {reg5} ospiti e seguito
 str_reg3_units_of_spice_of_reg5_to_be_consumed|{reg3} unità di spezie di {reg5} da consumare
 str_reg3_units_of_oil_of_reg5_to_be_consumed|{reg3} unità di olio di {reg5} da consumare
@@ -2310,14 +2310,14 @@ str_visit_s3_who_was_last_at_s4s18|Visita {s3}, che l'ultima volta si trovava a 
 str_the_guards_at_the_gate_have_been_ordered_to_allow_you_through_you_might_be_imagining_things_but_you_think_one_of_them_may_have_given_you_a_wink|Le guardie hanno avuto l'ordine di consentirvi l'accesso. Forse era la vostra immaginazione, ma pensate che uno di essi vi abbia fatto l'occhiolino
 str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_don_this_dress_and_throw_the_hood_over_your_face_i_will_smuggle_you_inside_the_castle_to_meet_her_in_the_guise_of_a_skullery_maid__the_guards_will_not_look_too_carefully_but_i_beg_you_for_all_of_our_sakes_be_discrete|Le guardie ti scrutano, e tu sai che è meglio non chiedere il permesso di entrare. Tuttavia, come t'incammini per tornare indietro verso il tuo alloggio, un'anziana signora vestita di nero ti si avvicina. 'Io sono l'ancella di {s11},' sussurra velocemente. 'Indossate questa veste, e calatevi il cappuccio sul volto. Vi farò entrare per incontrarla in incognito travestito da sguattera -- Le guardie non vi osserveranno molto attentamente. Ma vi prego, per il bene di tutti noi, di essere discreto!'.
 str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_wait_for_a_while_by_the_spring_outside_the_walls_i_will_smuggle_her_ladyship_out_to_meet_you_dressed_in_the_guise_of_a_shepherdess_but_i_beg_you_for_all_of_our_sakes_be_discrete|Le guardie ti scrutano, e tu sai che è meglio non chiedere il permesso di entrare. Tuttavia, come ti giri per tornare al tuo alloggio, un'anziana signora vestita di nero ti si avvicina. 'Io sono l'ancella di {s11},' sussurra velocemente. 'Attendete qualche minuto fuori le mura, verra' fatto un segnale. Farò sgattaiolare Sua Signoria per incontrarvi, vestita nei panni di una pastorella. Ma vi prego, per il bene di tutti noi, di essere discreto!'.
-str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_her_ladyship_asks_me_to_say_that_yearns_to_see_you_but_that_you_should_bide_your_time_a_bit_her_ladyship_says_that_to_arrange_a_clandestine_meeting_so_soon_after_your_last_encounter_would_be_too_dangerous|Le guardie ti scrutano, e tu sai che è meglio non chiedere il permesso di entrare. Tuttavia, come ti giri per tornare al tuo alloggio, un'anziana signora vestita di nero ti si avvicina. 'Io sono l'ancella di {s11},' sussurra velocemente. 'Sua Signoria mi chiede di dirvi che anela a rivedervi, ma che dovrete aspettare ancora un po'. La signora dice che organizzare un incontro clandestino così presto dopo l'ultima volta sarebbe stato troppo pericoloso.'.
+str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_her_ladyship_asks_me_to_say_that_yearns_to_see_you_but_that_you_should_bide_your_time_a_bit_her_ladyship_says_that_to_arrange_a_clandestine_meeting_so_soon_after_your_last_encounter_would_be_too_dangerous|Le guardie ti scrutano, e tu sai che è meglio non chiedere il permesso di entrare. Tuttavia, come ti giri per tornare al tuo alloggio, un'anziana signora vestita di nero ti si avvicina. 'Io sono l'ancella di {s11},' sussurra velocemente. 'Sua Signoria mi chiede di dirvi che anela a rivedervi, ma che dovrete aspettare ancora un pò. La signora dice che organizzare un incontro clandestino così presto dopo l'ultima volta sarebbe stato troppo pericoloso.'.
 str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter|Le guardie ti scrutano, e ti rendi conto che è meglio non chiedere il permesso di entrare.
 str_party_with_commander_mismatch__check_log_for_details_|Compagnia con discordanza di comandante - controlla il log per i dettagli.
 str_doing_political_calculations_for_s9|facendo calcoli politici per {s9}
 str_current_wealth_reg1|Ricchezza attuale: {reg1}
 str_strange_that_one_didnt_seem_like_your_ordenary_troublemaker_he_didnt_drink_all_that_much__he_just_stood_there_quietly_and_watched_the_door_you_may_wish_to_consider_whether_you_have_any_enemies_who_know_you_are_in_town_a_pity_that_blood_had_to_be_spilled_in_my_establishment|Strano. Quello non sembra il vostro piantagrane ordinario. Non ha bevuto così tanto... Si è solo appoggiato lì, tranquillamente, e ha guardato la porta. Dovreste voler valutare se avete nemici che sanno che siete in città... È un peccato che debba essere versato sangue nella mia azienda...
 str_you_never_let_him_draw_his_weapon_still_it_looked_like_he_was_going_to_kill_you_take_his_sword_and_purse_i_suppose_he_was_trouble_but_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|Non gli avete neanche fatto sfoderare l'arma... Comunque sembrava che volesse uccidervi. Prendete la sua spada e il suo borsello, immagino. Quello era un casinista, ma non è bene per un'azienda farsi la nomea di posto dove vengono uccise persone.
-str_well_id_say_that_he_started_it_that_entitles_you_to_his_sword_and_purse_i_suppose_have_a_drink_on_the_house_as_i_daresay_youve_saved_a_patron_or_two_a_broken_skull_still_i_hope_he_still_has_a_pulse_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|Beh... Devo dire che ha iniziato lui. Suppongo che ora la sua spada e il suo borsellino vi appartengano. Bevete qualcosa in onore della casa, dato che credo che voi abbiate salvato uno o due clienti dal rompersi la testa. Comunque, spero sia ancora vivo. Non è bene per un'azienda farsi la nomea di posto dove vengono uccise persone.
+str_well_id_say_that_he_started_it_that_entitles_you_to_his_sword_and_purse_i_suppose_have_a_drink_on_the_house_as_i_daresay_youve_saved_a_patron_or_two_a_broken_skull_still_i_hope_he_still_has_a_pulse_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|Beh... Devo dire che ha iniziato lui. Suppongo che ora la sua spada e il suo borsellino vi appartengano. Bevete qualcosa, offro io, visto che avete salvato uno o due clienti dal rompersi la testa. Comunque, spero sia ancora vivo. Non è bene per un'attività come questa farsi la nomea di posto dove vengono uccise persone.
 str_stop_no_shooting_no_shooting|Fermi! Non tirate! Non tirate!
 str_em_ill_stay_out_of_this|Ehm... Me ne terrò fuori.
 str_the_s12_is_a_labyrinth_of_rivalries_and_grudges_lords_ignore_their_lieges_summons_and_many_are_ripe_to_defect|Il {s12} è un labirinto di rivalità e rancori. I lords ignorano la chiamata del loro signore, e molti sono pronti a disertare.
@@ -2354,12 +2354,12 @@ str_you_intend_to_challenge_s13_to_force_him_to_retract_an_insult|Avete intenzio
 str_youll_have_to_speak_to_me_at_some_other_time_then|Parleremo in un altro momento, allora.
 str_this_is_no_time_for_words|Questo non è il tempo delle parole!
 str_of_course_my_wife|Certamente, moglie mia.
-str_perhaps_not_our_marriage_has_become_a_bit_strained_dont_you_think|Forse no. Il nostro matrimonio è diventato un po' teso, non credete?
+str_perhaps_not_our_marriage_has_become_a_bit_strained_dont_you_think|Forse no. Il nostro matrimonio è diventato un pò teso, non credete?
 str_why_is_that_my_wife_actually_our_marriage_has_become_such_that_i_prefer_to_have_a_witness_for_all_of_our_converations|Perché, moglie mia? In realtà, il nostro matrimonio è diventato tale che preferisco avere un testimone per tutte le nostre conversazioni.
 str_all_right_then_what_do_you_have_to_say_out_with_it|D'accordo allora. Cos'avete da dire? Sputate il rospo!
 str_bah__im_in_no_mood_for_whispering_in_the_corner|Bah. Non sono in vena di sussurrare negli angoli.
 str_bah_i_dont_like_you_that_much_im_not_going_to_go_plot_with_you_in_some_corner|Bah. Non mi piacete così tanto. Non andrò a cospirare con voi in un angolo.
-str_well__now_what_do_you_have_to_propose|Beh, allora che cosa'avete da proporre?
+str_well__now_what_do_you_have_to_propose|Beh, allora cosa avete da proporre?
 str_trying_our_hand_at_intrigue_are_we_i_think_not|State tentando di coinvolgerci in un intrigo? In questo caso, state commettendo un errore...
 str_hah_i_trust_you_as_a_i_would_a_serpent_i_think_not|Hah! Mi fido di voi come di un serpente. Credo proprio di no.
 str_i_do_not_like_to_conduct_my_business_in_the_shadows_but_sometimes_it_must_be_done_what_do_you_have_to_say|Non mi piace gestire i miei affari nell'ombra, ma a volte è necessario farlo. Che cos'avete da dire?
@@ -2377,7 +2377,7 @@ str_please_do_not_take_this_amiss_but_i_do_not_trust_you|Non prendetevela a male
 str_certainly_playername_what_is_it|Certamente, {playername}. Che cosa c'è?
 str_forgive_me_but_id_prefer_to_keep_our_conversations_in_the_open|Perdonatemi, ma preferisco tenere le nostre conversazioni all'aperto.
 str_please_do_not_take_this_amiss_but_im_not_sure_you_and_i_are_still_on_those_terms|Non prendetela a male, ma non sono sicuro che voi ed io stiamo ancora in questi termini.
-str_really_well_this_is_the_first_i_have_heard_of_it_unless_you_build_up_support_for_that_claim_you_may_find_it_difficult_to_find_allies_however_whenever_you_see_fit_to_declare_yourself_publically_as_queen_i_should_be_honored_to_be_your_consort|Davvero? È la prima volta che sento qualcosa del genere. A meno che voi non abbiate supporto per quella rivendicazione, potreste incontrare difficolta' nel trovare alleati. Comunque, in qualsiasi momento vi sentiate pronta a dichiararvi pubblicamente Regina, sarei onorato di essere il vostro consorte.
+str_really_well_this_is_the_first_i_have_heard_of_it_unless_you_build_up_support_for_that_claim_you_may_find_it_difficult_to_find_allies_however_whenever_you_see_fit_to_declare_yourself_publically_as_queen_i_should_be_honored_to_be_your_consort|Davvero? È la prima volta che sento qualcosa del genere. A meno che voi non abbiate supporto per quella rivendicazione, potreste incontrare difficoltà nel trovare alleati. Comunque, in qualsiasi momento vi sentiate pronta a dichiararvi pubblicamente Regina, sarei onorato di essere il vostro consorte.
 str_yes_i_have_heard_such_talk_while_it_is_good_that_you_are_building_up_your_support_i_do_not_think_that_you_are_quite_ready_to_proclaim_yourself_yet_however_i_will_let_you_be_the_judge_of_that_and_when_you_decide_i_should_be_honored_to_be_your_consort|Sì... È giunta anche a me questa diceria. Anche se è bene che voi vi stiate procurando supporto, penso che non siate ancora in condizione di proclamarvi, per ora. Comunque, farò scegliere a voi il momento, e quando deciderete, sarei onorato di essere il vostro consorte.
 str_yes_and_many_others_in_calradia_think_so_as_well_perhaps_it_is_time_that_you_declared_yourself_and_we_shall_ride_forth_together_to_claim_your_throne_i_should_be_honored_to_be_your_consort|Sì... E molti altri in queste terre la pensano così. Forse è tempo che voi vi dichiariate feudatario, e da oggi dovremo cavalcare insieme per rivendicare il vostro trono. Io sarei onorato di essere il vostro consorte.
 str_i_am_disturbed_about_my_lord_s15s_choice_of_companions|Mi irrita la scelta dei compagni del mio lord {s15}.
@@ -2413,11 +2413,11 @@ str_a_king_should_prove_his_valor_beyond_any_doubt_before_he_starts_talking_abou
 str_you_must_prove_yourself_a_great_warrior_before_men_will_follow_you_as_king|Dovete dimostrare d'essere una persona esperta nell'arte della guerra, prima di farvi seguire dagli uomini come un Re.
 str_a_claim_to_the_throne_should_be_strong_indeed_before_one_presses_it|Un pretendente al trono dovrebbe essere abbastanza forte prima che qualcuno lo obblighi ad esserlo.
 str_indeed_but_a_man_must_also_prove_himself_a_great_warrior_before_men_will_follow_you_as_king|Davvero. Ma un uomo deve anche dimostrare d'essere un grande guerriero per essere seguito dagli uomini come un Re.
-str_my_pigherd_can_declare_himself_king_if_he_takes_he_fancy_i_think_you_need_to_break_a_few_more_heads_on_tbe_battlefield_before_men_will_follow_you|Il mio porcaro può proclamarsi Re, se a lui piace. Penso che dobbiate rompere ancora un po' di crani perché gli uomini vi seguano.
+str_my_pigherd_can_declare_himself_king_if_he_takes_he_fancy_i_think_you_need_to_break_a_few_more_heads_on_tbe_battlefield_before_men_will_follow_you|Il mio porcaro può proclamarsi Re, se a lui piace. Penso che dobbiate rompere ancora un pò di crani perché gli uomini vi seguano.
 str_if_you_do_not_wish_to_die_on_a_scaffold_like_so_many_failed_pretenders_before_you_i_would_suggest_that_you_to_build_your_claim_on_stronger_foundations_so_that_men_will_follow_you|Se non volete morire su una forca, come tanti pretendenti mancati prima di voi, vi suggerirei di costruire la vostra rivendicazione su fondamenta più forti, cosicché gli uomini vi seguano.
 str_if_you_do_not_wish_to_die_on_a_scaffold_like_so_many_failed_pretenders_before_you_i_would_advise_you_prove_yourself_on_the_field_of_battle_so_that_men_will_follow_you|Se non volete morire su una forca, come tanti pretendenti mancati prima di voi, vi suggerirei di farvi conoscere in battaglia, cosicché gli uomini vi seguano.
 str_talk_is_for_heralds_and_lawyers_real_kings_prove_themselves_with_their_swords|Le parole sono per araldi e avvocati. I veri Re si mettono alla prova con la propria spada.
-str_i_were_you_i_would_try_to_prove_myself_a_bit_more_before_i_went_about_pressing_my_claim|Se fossi in voi, proverei a mettermi alla prova ancora un po' in battaglia prima di svelare la vostra rivendicazione.
+str_i_were_you_i_would_try_to_prove_myself_a_bit_more_before_i_went_about_pressing_my_claim|Se fossi in voi, proverei a mettermi alla prova ancora un pò in battaglia prima di svelare la vostra rivendicazione.
 str_indeed_please_continue|Infatti. Prego, continuate.
 str_me|me
 str_i_worry_about_those_with_whom_you_have_chosen_to_surround_yourself|Sono preoccupato di coloro che avete scelto quali alleati.
@@ -2509,8 +2509,8 @@ str_i_am|Io sono
 str_s12_s11_to_s14|{s12} {s11} di {s14}
 str_s12_i_am_here_for_the_feast|{s12}. Sono qui per la festa.
 str_another_tournament_dedication_oh_i_suppose_it_is_always_flattering|Un'altra vittoria in un torneo che mi viene dedicata? Oh, suppongo sia sempre lusinghiero...
-str_do_you_why_what_a_most_gallant_thing_to_say|E' il gesto più galante che abbia visto fare, ne sono onorata!
-str_hmm_i_cannot_say_that_i_altogether_approve_of_such_frivolity_but_i_must_confess_myself_a_bit_flattered|Hmm.. Non posso dire di approvare totalmente una tale frivolezza, ma devo confessare di esserne un po' lusingata.
+str_do_you_why_what_a_most_gallant_thing_to_say|È il gesto più galante che abbia visto fare, ne sono onorata!
+str_hmm_i_cannot_say_that_i_altogether_approve_of_such_frivolity_but_i_must_confess_myself_a_bit_flattered|Hmm.. Non posso dire di approvare totalmente una tale frivolezza, ma devo confessare di esserne un pò lusingata.
 str_why_thank_you_you_are_most_kind_to_do_so|Grazie! Siete molto gentile a fare questo.
 str_you_are_most_courteous_and_courtesy_is_a_fine_virtue_|Siete molto cortese, e la cortesia è una raffinata virtù. 
 str_hmm_youre_a_bold_one_but_i_like_that_|Hmm. Siete un tipo audace, ma mi piace... 
@@ -2629,7 +2629,7 @@ str_lord_indicted_dialog_rejected|Davvero? Beh, forse la vostra reputazione è s
 str__has_been_worried_about_bandits_establishing_a_hideout_near_his_home| è preoccupato che i banditi stabiliscano una base nascosta nella sua zona.
 str_bandit_lair_quest_description|Trova e distruggi il {s9} e torna a fare rapporto a {s11}.
 str_reveal_ass|Qualcuno ha tentato di ucciderti. Puoi trovare chi ti voleva morto incontrando il contatto degli assassini in {s3}.
-str_reveal_ass2|Il contatto ha dato il lord che ha ordinato l'assassinio - è {s9}. E' tempo di confrontare il lord direttamente.
+str_reveal_ass2|Il contatto ha dato il lord che ha ordinato l'assassinio - è {s9}. È tempo di confrontare il signore direttamente.
 str_bandit_hideout_preattack|Ti avvicini al nascondiglio. Sembra che i {s4} non si siano accorti della tua presenza, e potresti ancora andartene senza disturbo. Il difficile approccio al luogo, {s5}, comporta che solo una manciata di truppe della tua Compagnia possa accompagnarti nell'attacco, e non riuscirebbero nemmeno usare i loro cavalli. Se il tuo attacco iniziale fallisse, i {s4} riuscirebbero facilmente a scappare e a disperdersi. Vuoi attaccare il nascondiglio oppure attendi un'altra occasione?
 str_bandit_hideout_failure|I {s4} respingono il tuo attacco. Ti riorganizzi e avanzi di nuovo per scoprire che i nemici si sono dispersi e sono svaniti nella campagna circostante dove, non c'è dubbio, continueranno a minacciare i viaggiatori.
 str_bandit_hideout_success|Tagliando loro la ritirata, i {s4} cadono ad uno ad uno sotto il tuo determinato attacco. Il loro nascondiglio e i loro guadagni illeciti adesso sono tuoi.
@@ -2729,7 +2729,7 @@ str_center_strength_weakly_defended|Crediamo che sia debolmente difeso.
 str_center_distant_from_concentration|È vicino a noi quanto lo è l'esercito nemico principale, che abbiamo individuato. Potrebbe essere attaccato e distrutto prima che siano in grado di rispondere.
 str_plus|+
 str_minus|-
-str_tutorial_training_ground_warning_no_weapon|Ehi, non pensi di aver bisogno un qualche tipo di arma, prima di provare questo? Dovrebbero esserci alcune armi di scorta laggiù. Basta andare a prendere una.
+str_tutorial_training_ground_warning_no_weapon|Ehi, non pensi di aver bisogno un qualche tipo di arma, prima di provarci? Dovrebbero esserci alcune armi di scorta laggiù. Basta che vai a prenderne una.
 str_tutorial_training_ground_warning_shield|Per prima cosa hai bisogno di impugnare il tuo scudo. Ruota indietro la rotellina del mouse per estrarre il tuo scudo.
 str_tutorial_training_ground_warning_melee_with_parry|Devi brandire un'arma da mischia per questo esercizio.  
 str_tutorial_training_ground_warning_melee|Ruota in avanti la rotellina del mouse per estrarre un'arma. Ruotando di nuovo in avanti ti equipaggerai con l'arma successiva, mentre ruotando indietro estrarrai lo scudo.
@@ -2759,7 +2759,7 @@ str_awaiting_the_capture_of_a_fortress_which_can_serve_as_your_court| in attesa 
 str_but_if_this_goes_badly| Apprezzo il vostro consiglio. Ma se darà risultati negativi, vi riterrò personalmente responsabile.
 str_i_realize_that_you_are_on_good_terms_with_s4_but_we_ask_you_to_do_this_for_the_good_of_the_realm|Comprendo come siate in buoni rapporti con {s4}, ma questo è tutto per il bene del regno.
 str_i_realize_that_you_are_on_good_terms_with_s4_but_the_blow_will_hurt_him_more| Comprendo che siate in buoni rapporti con {s4}... Ma questo significa solo che il vostro colpo giungerà ancora più forte!
-str_killed_bandit_at_alley_fight|Il mercante ti conduce nella sua casa. Una volta dentro, resta alla porta per un po' a controllare la strada, e dopo, finalmente convinto che non siete stati seguiti, si avvicina a te per parlare...
+str_killed_bandit_at_alley_fight|Il mercante ti conduce nella sua casa. Una volta dentro, resta alla porta per un pò a controllare la strada, e dopo, finalmente convinto che non siete stati seguiti, si avvicina a te per parlare...
 str_wounded_by_bandit_at_alley_fight|Vieni colpito e cadi a terra. Comunque, prima di perdere conoscenza, senti delle grida e il rumore di passi in corsa... Ti svegli e ti ritrovi in una casa, debole ma vivo.
 str_cannot_leave_now|Non puoi andartene adesso.
 str_press_tab_to_exit_from_town|Premi Tab per andare via adesso. Puoi usare il tasto Tab per uscire velocemente da ogni location nel gioco.
@@ -2795,7 +2795,7 @@ str_you_fought_well_at_town_fight|Ah! Siete sveglio. Avete preso un bel colpo in
 str_you_wounded_at_town_fight|Ah! Siete vivo. Questo è un sollievo. Avete preso un bel colpo, proprio li. Non sono sicuro che ne abbiate ucciso qualcuno, ma fortunatamente, il resto di noi è stato capace di batterli. Dovremo farvi qualche trattamento curativo...
 str_you_fought_well_at_town_fight_survived_answer|Che ogni canaglia impari a temere il nome di {playername}!
 str_you_fought_normal_at_town_fight_survived_answer|Ah, beh, sono orgoglioso di aver fatto la mia parte insieme agli altri...
-str_you_fought_bad_at_town_fight_survived_answer|Beh, stavo per buttarne uno a terra, ma sono scivolato su un po' di sangue, come vedete...
+str_you_fought_bad_at_town_fight_survived_answer|Beh, stavo per buttarne uno a terra, ma sono scivolato su un pò di sangue, come vedete...
 str_you_fought_well_at_town_fight_answer|Ah, beh. Non mi dispiace prendere un colpo, se è per una buona causa.
 str_you_wounded_at_town_fight_answer|D'accordo. Suppongo che dovrei stare più attento.
 str_unfortunately_reg0_civilians_wounded_during_fight_more| Sfortunatamente, circa {reg0} dei miei ragazzi si sono feriti. Dovrei andare a vegliare su di loro.
@@ -2814,7 +2814,7 @@ str_bodo_animos|Bodo grida, '{playername}! Combattiamo! Sono ancora con te!'
 ; str_journey_to_shariz|You are in Dun Iasgach, a powerful town in the Kingdom of Mumain in the south of Ireland. It is a rich land, with great forests and rivers teeming with fish. It could be a perfect place to live, but Ireland is a land of war, where clans fight for any reason, stealing cattle and women and killing the young warriors in fratricidal struggles.^^Mumain is ruled by Failbhe Flann mac Aedh. He is ambitious and wants more land and a weakened Kingdom of Laigin.
 str_lost_tavern_duel_ordinary|Crolli sul pavimento, con i sensi intorpiditi dall'ultimo colpo dell'ubriaco. La rabbia dell'attaccante sembra immediatamente scemare. Si abbandona su una sedia e resta lì a guardarti, borbottando sottovoce, quasi con rammarico. Alcuni degli altri avventori riescono a convincerlo a rimettersi in piedi e lo accompagnano fuori dalla porta. Un altro, si occupa delle tue ferite, e presto anche tu sei di nuovo in piedi, barcollante ma in vita.
 str_lost_tavern_duel_assassin|Crolli sul pavimento, con i sensi intorpiditi dall'ultimo colpo del tuo attaccante. Lentamente e deliberatamente, si inginocchia al tuo fianco ed estrae un lungo coltello da sotto i vestiti. Ma prima che ti finisca, l'oste, che sembra aver riacquistato il suo coraggio, si avvicina da dietro e dà al tuo avversario uno colpo dietro la testa. Perde l'equilibrio, e poi, vedendo che la sua possibilità di ucciderti è ormai svanita, si precipita verso la porta e si allontana. Nel frattempo, gli altri avventori fasciano le tue ferite e ti trascinano in una stanza sul retro per farti riposare e recuperare le forze.
-str_lost_startup_hideout_attack|Poco dopo recuperi i sensi, e osservi che i rapitori stanno festeggiando la vittoria dopo aver aperto con la forza una botte di idromele Hanno dimenticato di prendere alcune precauzioni elementari -- come legarti mani e piedi. Così riesci a scivolare via. Basandoti sui suoni chiassosi provenienti dal nascondiglio, ritieni che potresti avere ancora un po' di tempo per raccogliere dei seguaci e lanciare un altro attacco.
+str_lost_startup_hideout_attack|Poco dopo recuperi i sensi, e osservi che i rapitori stanno festeggiando la vittoria dopo aver aperto con la forza una botte di idromele Hanno dimenticato di prendere alcune precauzioni elementari -- come legarti mani e piedi. Così riesci a scivolare via. Basandoti sui suoni chiassosi provenienti dal nascondiglio, ritieni che potresti avere ancora un pò di tempo per raccogliere dei seguaci e lanciare un altro attacco.
 str_as_you_no_longer_maintain_an_independent_kingdom_you_no_longer_maintain_a_court|Poiché non governi più un regno indipendente, non puoi più  avere una corte
 str_rents_from_s0|Rendite da {s0}:
 str_tariffs_from_s0|Tariffe da {s0}:
@@ -3296,20 +3296,20 @@ str_set_goal_custom_hint|Avete scelto il proprio percorso.
 ; str_view_goal_hint_reputation|Reputation: be a hero or a villain.^Your actions in the world will influence^how people see you. It will influence your^relation with other factions and even your^chances of marriage.^
 ; str_view_goal_hint_army|Army: you wish to balance your^troops. Better troops are also more^expensive to train and keep. Try to^form a army with 25% heavies (high^level units).^
 ; str_view_goal_hint_marry|Marriage brings the possibility^of feasts, competitions and a^extra helpful hand with kingdom management.^It will also boost your right to rule!^
-; str_view_goal_hint_right_to_rule|Right to rule is very important for^kings. It will influence the way other^factions will see you and your diplomatic^relations.^
-; str_view_goal_hint_wealth|Wealth: war is expensive. Wages, food,^training, new equipment, healers, wine...^be ready for it!^
+str_view_goal_hint_right_to_rule|Il diritto di governare è molto importante per i^re. Influenzerà il modo in cui le altre^fazioni vedranno te e le tue relazioni^diplomatiche.^
+str_view_goal_hint_wealth|Ricchezza: la guerra è costosa. Salari, cibo,^allenamento, nuovo equipaggiamento, curatori, vino...^tieniti pronto!^
 ; str_set_goal_trigger_new_game|A new world full of adventure awaits you!^^If this is your first time playing^Viking Conquest Sandbox^then check out the SET A GOAL presentation^to learn more about the game^and to see what you can do next!^^(Open Character Report,^Statistics, Choose a Goal)
 str_set_goal_already_completed|(Hai già completato questo obiettivo!)
 str_set_goal_you_are_a_noble|(Sei un nobile o un mercenario, e^non puoi abbandonare il tuo giuramento!)
 str_set_goal_open_button_label|Scegli un Obbiettivo
 str_set_goal_open_button_label2|Guarda il tuo obbiettivo
-; str_set_goal_complete_goal|You have achieved your goal!^^No task was too big for you!^^^Rejoice in your accomplishment^and get ready for what comes next!
+str_set_goal_complete_goal|Hai raggiunto il tuo scopo!^^Nessun compito è troppo grande per te!^^^Gioisci del tuo talento^e tieniti pronto per cosa verrà prossimamente!
 str_set_goal_half_way_there|Hai ancora molti compiti da completare per il tuo obiettivo!
 str_set_goal_almost_there|Sei molto vicino al completamento del tuo obbiettivo!
 str_set_goal_custom_reward|Obbiettivo Personalizzato completato: nessuna ricompensa!
 str_set_goal_raider_reward|Obbiettivo Raider completato: truppe mercenarie si sono unite a te!
 str_set_goal_warrior_reward|Obbiettivo Guerriero completato: la tua abilità con la lama è migliorata!
-; str_set_goal_lord_reward|Lord goal completed: friendly lords of your faction are impressed with you, a {reg0?gothi:priest} has joined your warband and you have won a cow that will let our men make some delicious butter!
+str_set_goal_lord_reward|Scopo del Lord Completato: I lord amichevoli della tua fazione sono impressionati con te, un {reg0?gothi:prete} si è unito alla tua banda e hai vinto una mucca che consentirà ai tuoi uomini di ricavarne del delizioso burro!
 str_set_goal_king_reward|Obbiettivo Re completato: truppe mercenarie si ssono unite a voi e hai vinto un libro speciale!
 str_set_goal_expand_reward|Obbiettivo Regno Stabile completato: i regni amici sono rimasti impressionati da te e hai vinto una rara spada!
 str_com_companions|Compagni:
@@ -3324,11 +3324,11 @@ str_com_catholic|{s1}^^Religione: Cristiana
 str_com_pagan|{s1}^^Religione: Pagana
 ; str_tactical_controls|Use the keyboard NUMBERS to select a division. Press 0 to select your entire force.^^Use F1-F4 to order selected divisions. Keep the F1 key down to place selected divisions. One may target an enemy division through this mechanism.^^Pressing the ENTER key often initiates an overhead Strategy Camera.^^Pressing the BACKSPACE key often initiates a Battle Command Display with 'radar.'
 ; str_division_placement|When ONE division is selected, the center of its front rank is placed at the spot indicated.^^When MANY divisions are selected, they are separated and spread out as if the player were standing at the spot indicated.^^One may memorize the placement of selected divisions relative to the player by pressing F2, F7. Default is infantry to the left, cavalry right, and ranged forward.
-; str_formations|The Complex Formations on the Battle Menu are:^^- RANKS with best troops up front^- SHIELD WALL, ranks with shields in front and longer weapons in back^- WEDGE with best troops up front^- SQUARE in no particular order^- NO FORMATION^^Even in the last case, the player can make formations up to four lines by ordering Stand Closer enough times.
+str_formations|Le complesse formazioni nel menu di battaglia sono:^^- Ranghi con le miglior truppe in prima linea^- Muro di scudi, ranghi con scudi in avanti e armi lunghe dietro^- Cuneo con le miglior truppe in prima linea^- Quadrato non è un ordine particolare^- Nessuna formazione^^Anche nell'ultimo caso, il giocatore può fare formazioni su quattro linee ordinando di stare vicini quante volte basta.
 str_log_created|Un log è stato creato. Si prega di verificare la rgl log.txt!
 str_debug_log_print2|{s30}^Fine del LOG.
-; str_print_player_trade|{reg1} goods for {reg2} and {reg3} other items for {reg4}
-; str_multi_game_type_desc_10|^Peasants try to defend their home against raiders!^^Villagers have numerical advantage but raiders are much better equipped.^
+str_print_player_trade|{reg1} beni per {reg2} e {reg3} altri oggetti per {reg4}
+str_multi_game_type_desc_10|^I contadini provano a difendere le loro case contro i razziatori!^^Gli abitanti sono avantaggiati numericamente ma i razziatori sono molto meglio equipaggiati.^
 str_beginner|Principiante
 str_normal|Normale
 str_hardcore|Hardcore
@@ -3336,16 +3336,16 @@ str_recruitment|Reclutamento:
 str_levelling|Passaggio di Livello:
 str_budget|Budget:
 str_stamina|Resistenza:
-; str_gear_affects_skills|Gear affects skills:
+str_gear_affects_skills|Penalità armature pesanti:
 str_resting_morale|Riposare Migliora il Morale:
 str_insane_difficult|Difficoltà Folle:
 str_gore|Violenza:
 str_disable_scenic_menu|Disattiva Panoramica Menù:
 str_shield_bash|Colpo con lo Scudo:
 str_disable_complex_formations|Disabilita formazioni complesse:
-str_have_formations_face_enemy|Auto posiziona le truppe in faccia al nemico:
+str_have_formations_face_enemy|Posiziona le truppe in fronte al nemico:
 str_players_enemies_only_attack|I giocatori nemici attaccano sempre:
-str_music_in_battles|Sostituisci le musche in battaglia:
+str_music_in_battles|Sostituisci le musiche in battaglia:
 str_damage_to_player|Danno al giocatore:
 str_damage_to_friends|Danno ai compagni:
 str_combat_ai|IA Combattimenti:
@@ -3357,9 +3357,9 @@ str_realism_feature|Caratteristica Realismo.
 str_special_setting|Impostazioni Speciali
 str_formation_feature|Imposta Formazioni
 str_performance_feature|Imposta Performance
-; str_battle_size_text|Limits the maximum amount of troops on a battlefield at once. If you experience low performance in big battles, you should try to reduce the battle size. A battle size above the engine maximum of 300 could cause problems.^^For additional settings, you can try the Video Options, available in the game's main menu, or accessible during the game by pressing ESC.
+str_battle_size_text|Limita il massimo numero di truppe sul campo di battaglia per volta. Se si verificano basse prestazioni in grandi battaglie, dovresti provare a ridurre le dimensioni della battaglia. Una dimensione di battaglia sopra il motore massimo di 300 potrebbe causare problemi.^^Per ulteriori impostazioni, puoi provare le opzioni video, disponibili nel menu principale di gioco, o accessibile durante il gioco premendo il tasto Esc.
 str_this_setting_affects_all|Queste impostazioni hanno effetto sul giocatore e su tutti i personaggi del gioco.
-; str_game_concepts_tutorial|^^By now, you have some experience with Viking Conquest. If this is your first game, we recommend making yourself familiar with some of the game concepts. You will be directed to a page that presents them now.^^You can always come back to this page on the campaign map. Simply click the 'Notes' button and from there the 'Game concepts' button.
+str_game_concepts_tutorial|^^Da adesso, hai un pò di esperienza con Viking Conquest. Se questo è la tua prima partita, ti raccomandiamo di familiarizzarti con alcuni dei concetti di gioco. Sarai reindirizzato a una pagina che li presenta.^^Puoi sempre tornare indietro a questa pagina sulla mappa della campagna. Semplicemente cliccando su "Note" e da li "Concetti di Gioco".
 str_wounds|Ferite:
 str_blood_loss|Macchie di sangue:
 str_quantity_bandit_parties|Gruppi di Banditi:
@@ -3367,12 +3367,12 @@ str_game_difficulty_warning|Difficoltà del gioco
 ; str_game_difficulty_warning_desc|At the current Campaign AI level, {s1} of the bandit parties will be stronger than the player's upon spawning. They will have up to {reg1} troops.^^Reset that level from the ESC options menu if desired. Deserters will not be affected, and sea based bandits always start with a minimum of one ship (30 men).
 str_player_division|Selezione Giocatore:
 ; str_poll_cooldown|Delay between polls (seconds)
-; str_polls_disabled_for_reg1|Polls are disabled for {reg1} seconds.
+str_polls_disabled_for_reg1|Le votazioni sono disabilitate per {reg1} secondi.
 ; str_poll_cooldown_is_now_reg1|Delay between polls is now set to {reg1} seconds.
-; str_poll_change_gametype|{s0} started a poll to change game type to {s1}.
-; str_poll_to_change_gametype|Poll to change game type to {s1}: 1 = Accept, 2 = Decline
-; str_make_gametype_voteable|Allow polls to change game type
+str_poll_change_gametype|{s0} ha iniziato una votazione per cambiare modalità di gioco a {s1}.
+str_poll_to_change_gametype|Vota per cambiare modalità di gioco a {s1}: 1 = Accetta, 2 = Declina
+str_make_gametype_voteable|Abilita votazioni per cambiare modalità di gioco
 str_changing_gametype_is_voteable|Cambiare la tipologia di gioco è votabile.
 str_changing_gametype_is_not_voteable|Cambiare la tipologia di gioco non è votabile.
 str_weapon_break|Equipaggiamento Deteriorabile:
-; str_no_suit_religion|You can't possibly think of marrying into my family since you do not even believe in the same gods! Convert first, then we may discuss this topic again.
+str_no_suit_religion|Non puoi pensare di sposarti nella mia famiglia finchè non credi nemmeno negli stessi Dei! Convertiti prima, dopo potremmo parlare di questo argomento.

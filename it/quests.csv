@@ -21,7 +21,7 @@ qst_capture_enemy_hero|Cattura un nobile del {s13}
 qst_lend_companion|Offri temporaneamente il tuo Compagno {s3} a {s9}
 qst_lend_companion_text|{s9} ti ha chiesto di prestargli il tuo compagno {s3} per una settimana.
 qst_collect_debt|Riscuoti il debito {s3} dovuto a {s9}
-qst_collect_debt_text|{s9} ti ha chiesto di riscuotere il debito di {reg4} peningas che {s3} gli deve.
+qst_collect_debt_text|{s9} ti ha chiesto di riscuotere il debito di {reg4} denari che {s3} gli deve.
 qst_incriminate_loyal_commander|Incrimina il fedele comandante di {s13}, {s16}
 qst_meet_spy_in_enemy_town|Incontra la spia a {s13}
 qst_capture_prisoners|Consegna {reg1} {s3} prigionieri
@@ -103,7 +103,7 @@ qst_doccinga_assault|Attacco Vichingo: Salva Doccinga dall'assalto di Sven
 qst_doccinga_interrogation|Attacco Vichingo: Interrogando un vichingo
 qst_getting_ship|Attacco Vichingo: Una barca e una ragazza
 qst_notes_companions|Note sui tuoi compagni
-qst_notes_global|Le tue note dei libri
+qst_notes_global|Appunti sulle missioni
 qst_notes_frisa|Note su Friese
 qst_notes_danmork|Note su Danmark
 qst_notes_englaland|Note su Englaland
@@ -127,7 +127,7 @@ qst_the_thing|La Vendetta: L'assemblea
 qst_douar_an_enez|La Vendetta: Douar-an-Enez
 qst_aescesdun|La Battaglia: Aescesdun
 qst_svenbn_final|La Vendetta: Sven Bull Neck
-qst_old_roman|Il muro di Hadrian: Salvare gli affamati
+qst_old_roman|Il Vallo di Adriano: Salva gli Affamati
 qst_vc_menu|Sistema menù di Viking Conquest.
 qst_vc_wounds|Sistema ferita di Viking Conquest.
 qst_sea_battle_spawn|un sistema di spawning.
@@ -136,9 +136,9 @@ qst_team_1_ships|un sistema di spawning.
 qst_blank_quest_2|Scorta il Vescovo a {s14}.
 qst_blank_quest_2_text|{s11} ti ha chiesto di scortare il Vescovo da {s22} a {s14}.
 qst_blank_quest_3|Razzia il Monastero a {s14}
-qst_blank_quest_3_text|{s11} ti ha chiesto di razziare il Monastero a {s14}, vicino {s34}, e di portargli {reg33} peningas.
-qst_blank_quest_4|Trova e distruggi un gruppo di uomini senza padrone.
-qst_blank_quest_4_text|{s8} ti ha chiesto di dare la caccia ad un gruppo di uomini senza padrone che hanno razziato il suo villaggio, {s9}.
+qst_blank_quest_3_text|{s11} ti ha chiesto di razziare il Monastero a {s14}, vicino {s34}, e di portargli {reg33} denari.
+qst_blank_quest_4|Trova e distruggi un gruppo di disertori.
+qst_blank_quest_4_text|{s8} ti ha chiesto di dare la caccia ad un gruppo di disertori che hanno razziato il suo villaggio, {s9}.
 qst_blank_quest_6|Cattura e porta {reg5} donne a {s3}
 qst_blank_quest_6_text|L'anziano del villaggio di {s3} ti ha chiesto di portargli {reg5} donne al villaggio (come prigioniere).
 qst_blank_quest_7|Riporta lo schiavo fuggitivo a {s3}
@@ -156,7 +156,7 @@ qst_blank_quest_13_text|{s11} ti ha chiesto di occuparti del suo ex-amante 'fant
 qst_blank_quest_14|Rivela il complotto di assassinio
 qst_blank_quest_14_text|Qualcuno ha tentato di ucciderti. Puoi trovare chi ti voleva morto incontrando il contatto degli assassini in {s3}.
 qst_blank_quest_15|Rivela il complotto di assassinio
-qst_blank_quest_15_text|Il contatto ha dato il lord che ha ordinato l'assassinio - è {s9}. E' tempo di confrontare il lord direttamente.
+qst_blank_quest_15_text|Il contatto ha dato il lord che ha ordinato l'assassinio - è {s9}. È tempo di confrontare il lord direttamente.
 qst_blank_quest_16|Porta {reg25} {reg1?Pieces:Piece} di {s17} a {s11}
 qst_blank_quest_16_text|{s11} ti ha chiesto di portarle {reg25} {reg1?pieces:piece} di {s17}
 qst_blank_quest_17|Porta cibo a {s11}
