@@ -92,7 +92,7 @@ dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_1|Err, ti sembra
 dlga_port_chief_build_ship_missing_1:port_chief2|Mi dispiace, ma non riesco a finire la tua nave senza questi materiali. Comprali e ritorna quando hai tutto pronto.
 dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_2|In questo momento non ho abbastanza denari.
 dlga_port_chief_build_ship_missing_2:port_chief2|Mi dispiace, ma ho bisogno di sfamare la mia famiglia e pagare i lavoratori. Quando avrai i soldi, puoi tornare da me.
-dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_3|Accetto quest'ordine e puoi tornare più tardi.
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_3|Prenderò la cosa in considerazione, tornerò più tardi.
 dlga_port_chief_build_ship_missing_3:port_chief2|Prenditi il tuo tempo, ma fidati di me. Le mie navi valgono ogni penigans.
 dlga_port_chief_build_ship_main_6:port_chief2|Molto bene! Torna tra {reg12} giorni.
 dlga_port_chief3:close_window|Nulla, per ora. Addio.
@@ -414,7 +414,7 @@ dlga_start:close_window.19|Sto osservando.
 dlga_start:close_window.20|Sto osservando.
 dlga_start:close_window.21|Io sono solo un servo. Dovete parlare con Ulf, {reg59?mia signora:mio signore}.
 dlga_start:close_window.22|{s44}
-dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Desidero rimandare la nomina di un lord fino a quando non potrò avere il consiglio dei miei vassalli.
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Desidero rimandare la nomina di un signore fino a quando non potrò avere il consiglio dei miei vassalli.
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer.1|Desidero rinviare la nomina di un signore fino a quando non avrò finito... Di determinare il valore.
 dlga_award_fief_to_vassal_defer:close_window|Come volete, {reg59?mia signora:mio signore}. Potrete decidere sulla questione in un secondo momento.
 dlga_award_fief_to_vassal:award_fief_to_vassal_2|La mia idea è solo quella di saccheggiare il luogo e andarmene.
@@ -671,8 +671,8 @@ dlga_member_lady_2b:close_window|Questa è una buona notizia. Non che non mi pia
 dlga_member_chat:supported_pretender_talk|Salve, {playername}, mio primo e migliore vassallo! Attendo il vostro consiglio.
 dlga_supported_pretender_pretalk:supported_pretender_talk|Nient'altro?
 dlga_supported_pretender_talk:pretender_progress|Cosa pensate dei progressi che abbiamo fatto fino ad ora ?
-dlga_pretender_progress:pretender_progress_2|{reg11?Abbiamo {reg11} lords dalla nostra parte:Non abbiamo ancora nessun lord con noi!}, mentre {reg21?{s9} ha ancora {reg21} lords che lo supportano:{s9} non ha più alcun lord con sè }. {reg19?Controlliamo {reg13?{reg13} città:} {reg14?{reg14} castelli:} {reg15?e {reg15} villaggi:}:Non abbiamo alcun insediamento}, mentre {reg29?loro hanno {reg23?{reg23} città:} {reg24?{reg24} castelli:} {reg25?e {reg25} villaggi:}:Non hanno alcun insediamento}. Nonostante tutto, {s30}.
-dlga_pretender_progress_2:supported_pretender_pretalk|Allora, continueremo a combattere e troveremo nuovi lords che ci sostengano !
+dlga_pretender_progress:pretender_progress_2|{reg11?Abbiamo {reg11} signori dalla nostra parte:Non abbiamo ancora nessun signore con noi!}, mentre {reg21?{s9} ha ancora {reg21} lsignori che lo supportano:{s9} non ha più alcun signore con sè }. {reg19?Controlliamo {reg13?{reg13} città:} {reg14?{reg14} castelli:} {reg15?e {reg15} villaggi:}:Non abbiamo alcun insediamento}, mentre {reg29?loro hanno {reg23?{reg23} città:} {reg24?{reg24} castelli:} {reg25?e {reg25} villaggi:}:Non hanno alcun insediamento}. Nonostante tutto, {s30}.
+dlga_pretender_progress_2:supported_pretender_pretalk|Allora, continueremo a combattere e troveremo nuovi signori che ci sostengano!
 dlga_pretender_progress_2:pretender_quit_rebel_confirm|Sembra che questa ribellione non porti da nessuna parte. Dobbiamo arrenderci.
 dlga_pretender_quit_rebel_confirm:pretender_quit_rebel_confirm_2|{playername}, non potete abbandonarmi adesso! Fate sul serio?
 dlga_pretender_quit_rebel_confirm_2:pretender_quit_rebel_confirm_3|Certo! Non posso fornirvi ulteriore sostegno.
@@ -685,7 +685,7 @@ dlga_supported_pretender_talk:supported_pretender_equip|{reg65?Mia signora:Mio s
 dlga_supported_pretender_equip:supported_pretender_pretalk|Ecco, guarda pure...
 dlga_supported_pretender_talk:pretneder_view_char_requested|Se posso chiederlo, mi potete parlare delle vostre abilità?
 dlga_pretneder_view_char_requested:supported_pretender_pretalk|Bene, andiamo.
-dlga_supported_pretender_talk:supported_pretender_grant_fief|Suggerisco che voi decidiate chi debba ottenere un possedimento attualmente privo di un lord protettore.
+dlga_supported_pretender_talk:supported_pretender_grant_fief|Suggerisco che voi decidiate chi debba ottenere un possedimento attualmente privo di un signore protettore.
 dlga_supported_pretender_grant_fief:supported_pretender_grant_fief_select|Che feudo avevate in mente?
 dlga_supported_pretender_grant_fief_select:supported_pretender_grant_fief_choose_recipient|{s4}
 dlga_supported_pretender_grant_fief_choose_recipient:center_captured_rebellion|Chi dovrebbe riceverlo?
@@ -1230,7 +1230,7 @@ dlga_companion_rehire:companion_rehire_refused|Scusami, ma non posso prendere ne
 dlga_companion_rehire_refused:close_window|Va bene... Cercate di me se cambiate idea, eh?
 dlga_start:companion_rehire.3|Quindi... Vuoi ancora che torni con voi?
 dlga_minister_issues:minister_pretalk|C'è una questione che necessita della vostra attenzione. La disputa tra {s11} e {s12} si è spinta fino ad un punto da ritenersi sconveniente. Se intervenite rischiate di offendere uno dei due signori. Tuttavia, se non fate nulla, rischiate di apparire debole. Tali sono gli oneri della regalità, {reg59?mia signora:sire}.
-dlga_minister_issues:minister_talk|{s1} al momento non è assegnato a nessun lord. Potreste conservare questa situazione, per attirare i lords che gravitano attorno ai signori che hanno terre da offrire, ma per il momento, nessuno sta raccogliendo le sue rendite.
+dlga_minister_issues:minister_talk|{s1} al momento non è assegnato a nessun signore. Potreste conservare questa situazione, per attirare i signori che gravitano attorno ai signori che hanno terre da offrire, ma per il momento, nessuno sta raccogliendo le sue rendite.
 dlga_minister_issues:minister_talk.1|A questo punto, non ci sono questioni particolarmente urgenti che richiedano la vostra attenzione. Tuttavia vorrei sottolineare, sire, che non sono molto abile nel campo della politica e che sono ansioso di tornare alla vita privata. Se volete darmi direttive diverse da quelle di base, suggerisco la nomina di un compagno fidato in vece mia. Nel frattempo, c'è qualcosa che vorreste fare?
 dlga_minister_issues:minister_talk.2|Se posso permettermi di offrire un consiglio,  {reg59?signora:signore}, sembra che il vostro diritto a governare come monarca indipendente non sia sufficientemente riconosciuto, e questo ci procura vari problemi lungo il nostro cammino. Può essere opportuno trovare un altro regno che abbia interessi comuni e chiedere il suo riconoscimento, in modo da stabilire un rapporto di uguaglianza con gli altri Re delle terre del nord.
 dlga_minister_issues:minister_talk.3|Al momento, non ci sono questioni particolarmente urgenti che necessitino della vostra attenzione. C'è qualcosa che desiderate fare?
@@ -1468,9 +1468,9 @@ dlga_event_triggered:companion_rejoin_response.3|Vuoi che mi riunisca a voi?
 dlga_event_triggered:close_window.1|Laggiù! Posso vedere le mura di {s3} anche se distanti. Ce l'abbiamo fatta ad arrivare senza incontrare pericoli. Ecco, prendete questa borsa con {reg3} denari, come vi avevo promesso. Spero che potremo di nuovo viaggiare insieme.
 dlga_event_triggered:close_window.2|Scusatemi, sono qui solo per prendermi cura di alcuni affari, provate a cercarmi più tardi... (compagni limitati a dieci nella compagnia)
 dlga_start:lord_start|Mia signora, aspetto con impazienza il nostro matrimonio, non appena ci sarà la possibilità di organizzare una festa appropriata.{s12}
-dlga_start:lord_start.1|Mia signora, se desiderate convolare a nozze, darò ordine di allestire un banchetto a {s4} così che potremo scambiarci i voti di fronte ai lords del regno.
-dlga_start:lord_start.2|Mia signora, sono divenuto stanco e frustrato a causa del ritardo accumulatosi, i lords non giungono. Venite subito con me a {s4} e scambiamoci i voti.
-dlga_start:lord_start.3|Mia signora, l'attesa per l'arrivo dei lords in occasione delle nozze si protrae troppo a lungo. Forse dovremmo cogliere la prima occasione utile per sposarci, in qualsiasi grande sala che si apra per noi.
+dlga_start:lord_start.1|Mia signora, se desiderate convolare a nozze, darò ordine di allestire un banchetto a {s4} così che potremo scambiarci i voti di fronte ai signori del regno.
+dlga_start:lord_start.2|Mia signora, sono divenuto stanco e frustrato a causa del ritardo accumulatosi, i signori non giungono. Venite subito con me a {s4} e scambiamoci i voti.
+dlga_start:lord_start.3|Mia signora, l'attesa per l'arrivo dei signori in occasione delle nozze si protrae troppo a lungo. Forse dovremmo cogliere la prima occasione utile per sposarci, in qualsiasi grande sala che si apra per noi.
 dlga_start:lord_groom_vows|Mia signora, sono stanco di attendere. Procediamo immediatamente allo scambio dei voti matrimoniali!
 dlga_start:lord_groom_vows.1|Mia signora, i miei occhi gioiscono nel vedervi. Possiamo procedere con i voti!
 dlga_lord_groom_vows:female_pc_marriage_vow|Mia signora, davanti a questa assemblea che mi è testimone, io dichiaro di prendere voi come moglie, di onorarvi, amarvi e proteggervi. Che il cielo ci benedica con salute, prosperità e prole.
@@ -1567,7 +1567,7 @@ dlga_pretender_rebellion_cause_3:pretender_start|{s48}
 dlga_pretender_start:pretender_discuss_rebellion_1|Voglio unirmi alla vostra causa ed aiutarvi a reclamare il trono!
 dlga_pretender_start:pretender_end|Qaundo avrete finito con Sven Bull Neck, forse mi unirò alla tua causa e ti aiuterò a reclamare il trono!
 dlga_pretender_start:pretender_end.1|Devo andare.
-dlga_pretender_discuss_rebellion_1:pretender_discuss_rebellion_2a|Avete la certezza di volermi seguire, {playername}? Reclamare il mio trono non è una cosa semplice. I Signori del nostro reame hanno giurato fedeltà a {s11}. Questo giuramento è considerato non valido se fatto ad un usurpatore, ci possiamo aspettare che alcuni lords si uniscano a noi, ma sarà un duro combattimento fino alla fine.
+dlga_pretender_discuss_rebellion_1:pretender_discuss_rebellion_2a|Avete la certezza di volermi seguire, {playername}? Reclamare il mio trono non è una cosa semplice. I Signori del nostro reame hanno giurato fedeltà a {s11}. Questo giuramento è considerato non valido se fatto ad un usurpatore, ci possiamo aspettare che alcuni signori si uniscano a noi, ma sarà un duro combattimento fino alla fine.
 dlga_pretender_discuss_rebellion_2a:pretender_discuss_rebellion_2|{s11}
 dlga_pretender_discuss_rebellion_2:pretender_discuss_rebellion_3|Posso dare battaglia sin da subito.
 dlga_pretender_discuss_rebellion_2:pretender_end|Avete ragione. Forse, ci dovrei riflettere un pò di più.
@@ -1578,7 +1578,7 @@ dlga_pretender_discuss_rebellion_3:close_window.3|Siete monarca nel vostro pieno
 dlga_pretender_discuss_rebellion_3:pretender_rebellion_ready|Siete una persona capace e valida in battaglia, {playername}, sono sicuro che con la vostra fama di comandante e la mia retta causa, i nobili e le buone persone di {s12} si uniranno in nostro supporto. Il tempo è maturo per agire! Verrò con voi, e insieme spodesteremo l'usurpatore {s11} e prenderemo il trono dalle sue mani insanguinate. Ma prima, dovete farmi il vostro giuramento e dovete accettarmi come vostro sovrano, {reg65?signora:signore}.
 dlga_pretender_rebellion_ready:lord_give_oath_2|Sono pronto ad impegnarmi nella la vostra causa, {reg3?mia signora:mio signore}.
 dlga_pretender_rebellion_ready:pretender_end|Attendiamo un altro poco.
-dlga_lord_give_conclude_2:close_window|Avanti, allora! Il nostro primo obiettivo è quello di conquistare una fortezza e persuadere gli altri lords ad unirsi a noi. Guidateci alla vittoria!
+dlga_lord_give_conclude_2:close_window|Avanti, allora! Il nostro primo obiettivo è quello di conquistare una fortezza e persuadere gli altri signori ad unirsi a noi. Guidateci alla vittoria!
 dlga_pretender_end:close_window|Arrivederci per adesso, allora.
 dlga_start:lord_event_choose_friend|Ho sentito che avete aiutato quel {s43} chiamato {s6}. Credetemi, non potete fidarvi di lui. Dovreste interrompere tutte le relazioni con lui.
 dlga_lord_event_choose_friend:lord_event_choose_friend_renounce|Ve lo assicuro {s65} non manterrò l'amicizia {s6}.
@@ -1643,378 +1643,378 @@ dlga_gartnait_historia:lord_pretalk|Come? Non è importante.
 dlga_gartnait_historia:gartnait_talk1|Cosa? -- Spalanca gli occhi.-- Come sapete, sono dipinti rituali, {playername}.
 dlga_gartnait_talk1:gartnait_historia1|Mi piacerebbe sapere perché hanno dipinto i loro corpi e se posso farlo anch'io.
 dlga_gartnait_talk1:lord_pretalk|Grazie.
-dlga_gartnait_historia1:gartnait_historia2|Tra la mia gente ci sono Godeilici e Pitti. Essi conservano pochissime delle loro antiche tradizioni. Siamo cristiani, ma -- sussurra -- esistono ancora molte usanze dei nostri antenati tra la nostra gente. I giovani guerrieri sono tenuti a dipingere i loro corpi e a gettarsi nella mischia della battaglia e della guerra prima di essere accettati nelle loro case come uomini maturi. Le donne hanno il diritto di scegliere le mogli per i fratelli, e i figli ereditano attraverso lignaggio delle loro madri.^^Dipingere i nostri corpi e la creazione delle confraternite di guerrieri è parte di una tradizione in cui i giovani devono superare alcune prove, al fine di raggiungere la maturità. Atri compiti consistono nell'avventurarsi in terre lontane in cerca di bovini e tesori, in modo da tornare a casa con abbastanza ricchezza per crearsi una famiglia.
+dlga_gartnait_historia1:gartnait_historia2|Tra la mia gente ci sono Gaelici e Pitti. Essi conservano pochissime delle loro antiche tradizioni. Siamo cristiani, ma -- sussurra -- esistono ancora molte usanze dei nostri antenati tra la nostra gente. I giovani guerrieri sono tenuti a dipingere i loro corpi e a gettarsi nella mischia della battaglia e della guerra prima di essere accettati nelle loro case come uomini maturi. Le donne hanno il diritto di scegliere le mogli per i fratelli, e i figli ereditano attraverso lignaggio delle loro madri.^^Dipingere i nostri corpi e la creazione delle confraternite di guerrieri è parte di una tradizione in cui i giovani devono superare alcune prove, al fine di raggiungere la maturità. Altri compiti consistono nell'avventurarsi in terre lontane in cerca di bovini e tesori, in modo da tornare a casa con abbastanza ricchezza per crearsi una famiglia.
 dlga_gartnait_historia2:gartnait_historia3|Quando i giovani ritornano, la pittura di guerra viene rimosso dai loro corpi, si sposano e si integrano nella società normale. Ci sono non poche donne Pitte che decidono di dipingere i loro corpi per partecipare a questa prova di iniziazione.^^ -- Sorride -- Sta a voi decidere se dipingere il corpo o no. Se lo fate, vi dedicherete ad una tradizione molto antica e a poteri che vanno oltre la nostra comprensione. Formare o partecipare a un gruppo di giovani. Farsi un nome. Comprendere il cameratismo, l'amicizia e l'orgoglio di essere un Pitto. Imparare a comandare e a obbedire. Ottenere il rispetto dei vostri coetanei. Conoscere {reg59?altri uomini: altre donne}... Quando avrai dimostrato il tuo valore, rimuovi la pittura di guerra e torna nella società.
 dlga_gartnait_historia3:gartnait_historia4|Voglio pitturare il mio corpo.
 dlga_gartnait_historia3:lord_pretalk|Basta. Questa storia è ridicola. Siete solo un branco di idioti.
 dlga_gartnait_historia3:lord_pretalk.1|Grazie per l'informazione.
 dlga_gartnait_historia4:gartnait_historia5|Beh, è così dai tempi più remoti. Non ci sono più regole scritte o rituali. A dire la verità, io mi sento più Gaelico che Pitto. Rimuovi le tue vesti e il mio servitore traccierà delle linee sul tuo corpo. Buona fortuna, giovane {reg59?donna:uomo}, per il rito di passaggio!
-; dlga_gartnait_historia5:lord_pretalk|Thank you, Toiseach.
-; dlga_lord_talk:eormenred_historia|I heard that you know Pictland.
+dlga_gartnait_historia5:lord_pretalk|Grazie, Toiseach.
+dlga_lord_talk:eormenred_historia|Ho sentito che conoscete la terra dei Pitti.
 ; dlga_eormenred_historia:lord_pretalk|I am sorry, but I hardly know you. I do not feel comfortable sharing my knowledge right now. God the mid sie.
-; dlga_eormenred_historia:eormenred_talk1|What? --His eyes widen.-- Yes, but... do you plan to travel north into Alban? You should not go, {playername}. I was there when I was young and had a fine band of warriors by my side, my beadupreat. Would you care to hear my story?
-; dlga_eormenred_talk1:eormenred_historia1|Sure. I am interested.
+dlga_eormenred_historia:eormenred_talk1|Cosa? --Sgrana gli occhi-- Sì, ma... Non avrete intenzione di viaggiare verso nord in Alban? Non dovresti andare, {playername}. Quando ero giovane ci andai con un folto gruppo di guerrieri al mio fianco, la mia beadupreat. Ti andrebbe di ascoltare la mia storia?
+dlga_eormenred_talk1:eormenred_historia1|Certamente. Mi interessa.
 dlga_eormenred_talk1:lord_pretalk|No grazie. Ho altri affari che mi attendono.
 ; dlga_eormenred_historia1:eormenred_historia2|Picts are strange, weird people. --He whispers.-- Some young warriors paint their bodies and become dangerous bandits. Pictish villages are dirty and hidden between the high peaks and dense forests that cover their land. I remember that from several years ago, when I took a war band of young warriors there to plunder and pillage.
 ; dlga_eormenred_historia2:eormenred_historia3|After days of travel, we spotted a village spread about a strange construction. Today, I know it was a Broch, a fortress erected by the ancients. The Picts found the ruins, repaired them, and built their homes under its protection. We felt a sudden surge of happiness. There was booty, cattle and women. -- He smiles. -- The doors and gates were wide open. They were not expecting us, we all thought. We started howling like wolves, excited by the prospect of battle. We prepared our spears and swords, gathered our shields and ran, certain that our victory was going to be as easy as it would be profitable. We were young, passionate, and anxious to show our worth. What would you have done?
-; dlga_eormenred_historia3:eormenred_historia4|Mm... Too easy. You should have suspected a trap, but please continue,
-; dlga_eormenred_historia3:lord_pretalk|What a sorry tale! You behaved like a bunch of untrained recruits.
+dlga_eormenred_historia3:eormenred_historia4|Mm... Troppo semplice. Avreste dovuto sospettare una trappola, ma vi prego di continuate,
+dlga_eormenred_historia3:lord_pretalk|Che storia triste! Vi siete comportati come un gruppo di reclute inesperte.
 ; dlga_eormenred_historia4:eormenred_historia5|Yes, I know you are right, but back then we all were exceedingly impetuous. --He beats his chest.-- As for them, well, they were expecting us long before we even knew their village existed. They had archers, by Woden! ...beg pardon, by God! and an awful lot of arrows. Their Isenscur, or rain of arrows, was death to my men. One for one, arrow by arrow. Only I survived, for in fact they knew who I was... I was captured and forced to do their queen's bidding. When she tired of me, they ransomed me for a treasure worth many gold coins. My father gladly paid it when they sent him my left ear inside a finely wrought leather pouch. Hear me! Forget Pictland!
-; dlga_eormenred_historia5:lord_pretalk|Thank you, my lord. I have learnt much from your story, and I will not meddle in Pictish affairs.
-; dlga_eormenred_historia5:lord_pretalk.1|What a sorry tale! Your men behaved like untrained recruits -- with you as an idiot-in-chief.
-; dlga_start:close_window.52|Now you die!
+dlga_eormenred_historia5:lord_pretalk|Grazie, mio signore. Ho imparato molto dalla tua storia, non intromettersi mai negli affari dei Pitti.
+dlga_eormenred_historia5:lord_pretalk.1|Che storia triste! I tuoi uomini si sono comportati come un gruppo di reclute inesperte -- guidate da un capo idiota.
+dlga_start:close_window.52|Ora morirai!
 dlga_start:mother_prisoner_saco|...
-; dlga_start:close_window.53|Now you die!
-; dlga_mother_prisoner_saco:mother_prisoner_saco2|Mother? Are you fine?
-; dlga_mother_prisoner_saco:mother_prisoner_saco3|(Remove the sack)
+dlga_start:close_window.53|Ora morirai!
+dlga_mother_prisoner_saco:mother_prisoner_saco2|Madre? State bene?
+dlga_mother_prisoner_saco:mother_prisoner_saco3|(Rimuovi il sacco)
 dlga_mother_prisoner_saco2:mother_prisoner_saco3|...
-; dlga_mother_prisoner_saco3:mother_prisoner_saco4|(Carefully, you take the sack off the head of your mother)
+dlga_mother_prisoner_saco3:mother_prisoner_saco4|(Delicatamente, togli il sacco dalla testa di tua madre)
 ; dlga_mother_prisoner_saco4:close_window|{s2}^^Perhaps you thought we were just going to give you your mother? After what you've done -- destroying our plans in Doccinga, insulting my jarl at his own home -- Sigurd Ragnarsson wants you dead.
-; dlga_start:maelbresail_men1|Welcome, {playername}. My lord, Mael Bresail, told me that you would come.
-; dlga_maelbresail_men1:maelbresail_men2|Where is your lord?
-; dlga_maelbresail_men1:maelbresail_men3|I am ready for the symbel. I only await Mael Bresail.
+dlga_start:maelbresail_men1|Benvenuto, {playername}. Il mio signore, Mael Bresail, mi ha detto che saresti venuto.
+dlga_maelbresail_men1:maelbresail_men2|Dov'è il tuo signore?
+dlga_maelbresail_men1:maelbresail_men3|Sono pronto per il symbel. Attendo solo Mael Bresail.
 dlga_maelbresail_men1:close_window|Addio.
-; dlga_maelbresail_men2:maelbresail_men3|He is on his way. Some issues in Aileach detained him, but I think that he will come soon. Meanwhile, we have orders to throw a feast for you and your main men. My lord must esteem you greatly, because he has ordered only the best.
-; dlga_maelbresail_men3:maelbresail_men3_1|Honored guest, I'm sorry, but my lord told me to prepare for five-and-twenty persons. Do you not have more that you would like to participate? Empty places would leave a bad impression...
-; dlga_maelbresail_men3:maelbresail_men3_1.1|Honored guest, I'm sorry, but my lord told me to prepare for only five-and-twenty persons. Please come to the feast when you have chosen the ones you would like to participate.
-; dlga_maelbresail_men3:close_window|Everything is ready. Please bring your companions to the hall, where you will enjoy the best food and drink.
+dlga_maelbresail_men2:maelbresail_men3|Sta arrivando. Ha avuto alcuni problemi ad Aileach, ma penso che arriverà presto. Nel frattempo, abbiamo l'ordine di organizzare una festa per te e i tuoi compagni. Il mio signore deve stimati molto, perché ha ordinato solo il meglio.
+dlga_maelbresail_men3:maelbresail_men3_1|Ospite d'onore, mi scuso, ma il mio signore mi aveva detto di aspettarmi tra le cinque e le venti persone. Non conoscete qualcun'altro a cui farebbe piacere partecipare? I posti vuoti fanno cattiva impressione...
+dlga_maelbresail_men3:maelbresail_men3_1.1|Ospite d'onore, mi scuso, ma il mio signore mi aveva detto aspettarmi tra le cinque e le venti persone. Torna qui quando avrai scelto quali persone vuoi far partecipare.
+dlga_maelbresail_men3:close_window|È tutto pronto. Voi e i vostri compagni potete accedere alla sala, dove vi saranno portati il miglior cibo e le migliori bevande.
 dlga_maelbresail_men3_1:close_window|Molto bene.
-; dlga_start:seneschal_quest_1|Greetings, my {reg59?lady:lord}. What do you need?
-; dlga_seneschal_quest_1:seneschal_quest_norse|I am ready to be konungr over the Norse.
-; dlga_seneschal_quest_1:seneschal_quest_briton|I am ready to be Vrenhin Lloegr, ruler of the Britons.
-; dlga_seneschal_quest_1:seneschal_quest_irish|I am ready to be Ard Ruire, high king of the Goidels.
-; dlga_seneschal_quest_1:seneschal_quest_saxon|I am ready to be Brytenwalda, ruler of all Englaland.
+dlga_start:seneschal_quest_1|Saluti a voi, {reg59?mia signora:mio signore}. Di cosa avete bisogno?
+dlga_seneschal_quest_1:seneschal_quest_norse|Sono pronto a diventare konungr dei Norreni.
+dlga_seneschal_quest_1:seneschal_quest_briton|Sono pronto a diventare Vrenhin Lloegr, sovrano dei britanni.
+dlga_seneschal_quest_1:seneschal_quest_irish|Sono pronto a diventare Ard Ruire, alto Re dei Gaeli.
+dlga_seneschal_quest_1:seneschal_quest_saxon|Sono pronto a diventare un Brytenwalda, Signore di tutti i popoli Inglesi.
 ; dlga_seneschal_quest_norse:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Norse value their freedom of action. Well, I will add your story in my history book and proclaim you Konungr of the Norse. In recognition of your accomplishment, I give you the treasure of the Norse.
 ; dlga_seneschal_quest_briton:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Britons are tough people. Well, I will add your story in my history book and proclaim you Vrenhin Lloegr, ruler of the Britons. In recognition of your accomplishment, I give you the treasure of the Britons.
 ; dlga_seneschal_quest_irish:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Goidels are independent people who accept with difficulty the leadership of others. Well, I will add your story in my history book and proclaim you Ard Ruire of the Goidels. In recognition of your accomplishment, I give you the treasure of the Goidels.
 ; dlga_seneschal_quest_saxon:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Angles and Saxons are distrustful people. Well, I will add your story in my history book and proclaim you Brytenwalda, ruler over all Englaland. In recognition of your accomplishment, I give you the treasure of the Angles and Saxons.
-; dlga_seneschal_quest_2f:close_window|Thank you so much for the award and for helping my fame and prestige grow. Farewell, chronicler!
+dlga_seneschal_quest_2f:close_window|Grazie mille per il premio, per aver aumentato il mio prestigio e la mia fama. Addio, cronista!
 dlga_seneschal_quest_1:seneschal_quest_2|Chi sei tu?
-; dlga_seneschal_quest_1:seneschal_quest_2.1|What about you, Briton?
-; dlga_seneschal_quest_1:seneschal_quest_2.2|Goidelic and chronicler? Is this a joke?
-; dlga_seneschal_quest_1:seneschal_quest_2.3|What do you do?
+dlga_seneschal_quest_1:seneschal_quest_2.1|Dimmi di te, Britanno?
+dlga_seneschal_quest_1:seneschal_quest_2.2|Un cronista Gaelico? È uno scherzo?
+dlga_seneschal_quest_1:seneschal_quest_2.3|Cosa fai?
 dlga_seneschal_quest_1:close_window|Addio.
-; dlga_seneschal_quest_2:seneschal_quest_3|I guess that's not an easy question to answer. My role here is to leave for posterity the history of great men. I write the life of the greatest king in this area. I am his chronicler.
-; dlga_seneschal_quest_3:seneschal_quest_4|I want you to write my story.
-; dlga_seneschal_quest_3:close_window|Very well. Farewell.
-; dlga_seneschal_quest_4:seneschal_quest_5|First, you have to be the most important person in this part of the world. That means displacing the person that currently holds that position and unifying under your rule this territory. Do you want to take on this challenge?
+dlga_seneschal_quest_2:seneschal_quest_3|Non è una domanda facile a cui rispondere. Il mio ruolo è quello di lasciare ai posteri la storia dei grandi uomini. Scrivo la vita del più grande Re di questa parte del mondo. Sono il tuo cronista.
+dlga_seneschal_quest_3:seneschal_quest_4|Desidero che tu scriva la mia storia.
+dlga_seneschal_quest_3:close_window|Molto bene. Addio.
+dlga_seneschal_quest_4:seneschal_quest_5|Per prima cosa, devi essere la persona più importante in questa parte del mondo. Ciò significa spodestare la persona che attualmente detiene tale posizione e unificanre sotto di te tutto questo territorio. Vuoi raccogliere questa sfida?
 dlga_seneschal_quest_5:seneschal_quest_6|Sicuro.
-; dlga_seneschal_quest_5:close_window|No. Farewell.
+dlga_seneschal_quest_5:close_window|No. Addio.
 ; dlga_seneschal_quest_6:seneschal_quest_7|Surely, you are bold to take on the challenge of uniting all the small kingdoms and conflicting jarls of the Norse under your command.^For me to be your chronicler and give you the title of Konungr of the Norse, you must unify the territory of these towns under your kingdom: Ribe, Tunsberg and Dorestad.^^Good luck. Return when you have subjugated these territories, and I will proclaim that you are the most powerful {reg59?queen:king} among the Norse.
 ; dlga_seneschal_quest_6:seneschal_quest_7.1|Surely, you are bold to take on the challenge of uniting all the small kingdoms and conflicting lords of the Britons under your command.^For me to be your chronicler and give you the title of Vrenhin Lloegr, the king of the Britons, you must unify the territory of these towns under your kingdom: Ynys Mon, Bosvenegh and Caer Dyf.^^Good luck. Return when you have subjugated these territories, and I will proclaim that you are the most powerful {reg59?queen:king} among the Britons.
 ; dlga_seneschal_quest_6:seneschal_quest_7.2|Surely, you are bold to take on the challenge of uniting all the small kingdoms and conflicting lords of the Goidels under your command.^For me to be your chronicler and give you the title of Ard Ruire, the high king of Eriu, you must unify the territory of these towns under your kingdom: Aileach, Cruaghan and Temair.^^Good luck. Return when you have subjugated these territories, and I will proclaim that you are the most powerful {reg59?queen:king} of Eriu.
 ; dlga_seneschal_quest_6:seneschal_quest_7.3|Surely, you are bold to take on the challenge of uniting all the small kingdoms and conflicting lords of the Angles and Saxons under your command.^For me to be your chronicler and give you the title of Brytenwalda, ruler over all Englaland, you must unify the territory of these towns under your kingdom: Lundenwic, Witan Ceaster and Jorvik.^^Good luck. Return when you have subjugated these territories, and I will proclaim that you are the most powerful {reg59?queen:king} of Englaland.
-; dlga_seneschal_quest_7:close_window|Very well. I must buy ink and parchment, I will return soon.
-; dlga_start:maelbresail_pactofinal|{playername}, when you escaped my trap, I came to hide here. From the fact that you have managed to find me, I perceive that, contrary to appearances, you are someone with resources.
-; dlga_start:maelbresail_aftermorrigan1|Welcome, {playername}. The abbot of Finian informed me that you eliminated the main enemies of my lord and mine. I expect that you've found our rewards a more than acceptable way to get rich.
+dlga_seneschal_quest_7:close_window|Molto bene. Devo comprare inchiostro e pergamena, tornerò presto.
+dlga_start:maelbresail_pactofinal|{playername}, quando sei scappato dalla mia trappola, sono venuto a nascondermi qui. Adesso mi hai trovato e mi sono accorto che contrariamente alle apparenze, sei un uomo pieno di risorse.
+dlga_start:maelbresail_aftermorrigan1|Benvenuto, {playername}. L'abate di Finian mi ha informato che hai eliminato i principali nemici del mio signore. Suppongo che le nostre ricompense siano state per te un modo accettabile per arricchirti.
 dlga_start:maelbresail_dialog1|Si?
-; dlga_maelbresail_dialog1:maelbresail_dialog2|I am {playername}. I was told you want to meet me.
-; dlga_maelbresail_dialog1:close_window|[Say nothing]
+dlga_maelbresail_dialog1:maelbresail_dialog2|Sono {playername}. Mi è stato detto che si desideravi incontrarmi...
+dlga_maelbresail_dialog1:close_window|[Non sai niente]
 ; dlga_maelbresail_dialog2:maelbresail_dialog3|Ah, {playername}! The abbot spoke wonders about you and your diligence in solving my problems. I wanted to meet you personally in order to put a face to my hero.^^--He smiles widely--^^Also, I look forward to hearing news about the matter we have pending.
-; dlga_maelbresail_dialog3:maelbresail_dialog4_1|It is likewise a pleasure to meet you, my lord. Your enemies are at a farm near Dinas Bran.
-; dlga_maelbresail_dialog3:maelbresail_dialog4|Flaithbertach's grandchildren are at a farm near Dinas Bran, my lord.
-; dlga_maelbresail_dialog3:maelbresail_dialog4.1|Flaithbertach's grandchildren are at a farm near Dinas Bran.
-; dlga_maelbresail_dialog4_1:maelbresail_dialog4|I guess you still do not know me and the abbot gave no warning, but I prefer short and direct answers. My occupations are numerous and my time very limited.
-; dlga_maelbresail_dialog4:maelbresail_dialog5|Your news is excellent. In fact, I want to reward you personally, in addition to what the abbot promised you, with 8,000 peningas. The people who work for me do not have to worry about money or wealth. All that I ask of them is to be faithful and execute my orders promptly.
-; dlga_maelbresail_dialog5:maelbresail_dialog6|Thank you so much, my lord.
+dlga_maelbresail_dialog3:maelbresail_dialog4_1|È un piacere conoscerti, mio signore. I tuoi nemici sono in una fattoria nei pressi di Dinas Bran.
+dlga_maelbresail_dialog3:maelbresail_dialog4|I nipoti di Flaithbertach sono in una fattoria nei pressi di Dinas Bran, mio signore.
+dlga_maelbresail_dialog3:maelbresail_dialog4.1|I nipoti di Flaithbertach sono in una fattoria nei pressi di Dinas Bran.
+dlga_maelbresail_dialog4_1:maelbresail_dialog4|Suppongo che tu non mi conosca e che l'abate non ti ha dato alcun avvertimento, ma io preferisco risposte brevi e dirette. Le mie occupazioni sono numerose e il mio tempo molto limitato.
+dlga_maelbresail_dialog4:maelbresail_dialog5|Le tue notizie sono eccellenti. Per questo, voglio premiarti personalmente, in aggiunta a quello che l'abate ti ha promesso, con altri 8.000 denari. Le persone che lavorano per me non devono preoccuparsi per soldi o ricchezza. Tutto quello che chiedo di loro è di essermi fedeli ed eseguire i miei ordini prontamente.
+dlga_maelbresail_dialog5:maelbresail_dialog6|Grazie mille, mio signore.
 dlga_maelbresail_dialog5:maelbresail_dialog6.1|Grazie.
-; dlga_maelbresail_dialog6:close_window|Well, I'm sorry I don't have more time. Ask the abbot to give you your reward and your next assignment. Your next task is particularly important, so put all effort into it. Now I have to go. I wish you all well.
-; dlga_maelbresail_aftermorrigan1:maelbresail_aftermorrigan2|Honestly? I expected more.
-; dlga_maelbresail_aftermorrigan1:maelbresail_aftermorrigan2_1|I do what I have to do.
-; dlga_maelbresail_aftermorrigan1:maelbresail_aftermorrigan2_2|It has been a pleasure to serve you and kill your enemies.
-; dlga_maelbresail_aftermorrigan1:maelbresail_aftermorrigan2_3|You lied to make me a murderer of your enemies.
-; dlga_maelbresail_aftermorrigan2:maelbresail_aftermorrigan3|You are ambitious, but I think you've been well paid. I will not give you a pening more until you deserve one.
-; dlga_maelbresail_aftermorrigan2_1:maelbresail_aftermorrigan3|That's important to me. In this world, it is not easy to find effective people.
-; dlga_maelbresail_aftermorrigan2_2:maelbresail_aftermorrigan3|I know. Not all patrons reward their servants as well. Although it is sometimes difficult to know if your loyalty is to me or my money.
-; dlga_maelbresail_aftermorrigan2_3:maelbresail_aftermorrigan3|You were commissioned to do something, and you agreed to do it. Nobody forced you to accept. Why now come, whining? I cannot stand the capricious nor the faint-hearted.
-; dlga_maelbresail_aftermorrigan3:maelbresail_aftermorrigan4|--He chuckles.--^^I hear Morrigan tried to save her life with lies. What were her last words?
-; dlga_maelbresail_aftermorrigan4:maelbresail_aftermorrigan5|She told me she was the last of the line of Flaithbertach.
-; dlga_maelbresail_aftermorrigan4:maelbresail_aftermorrigan5_2|She died before I could talk to her.
-; dlga_maelbresail_aftermorrigan5:maelbresail_aftermorrigan6|Working for Aed mac Niall, Ard Ruire of Eriu, you sent me to kill the remnants of the family Flaithbertach in order to remove potential rivals for the throne.
-; dlga_maelbresail_aftermorrigan5_2:maelbresail_aftermorrigan6|Do not lie! I know when you're lying. Liars have a place not at my side but on the gallows!
+dlga_maelbresail_dialog6:close_window|Bene, mi dispiace ma non ho più tempo. Chiedi all'abate di ricompensarti e il tuo prossimo incarico. Il tuo prossimo compito è particolarmente importante, dovrai impegnarti molto per portarlo a termine. Adesso devo andare. Ti auguro ogni bene.
+dlga_maelbresail_aftermorrigan1:maelbresail_aftermorrigan2|Onestamente? Mi aspettavo di più.
+dlga_maelbresail_aftermorrigan1:maelbresail_aftermorrigan2_1|Farò ciò che devo.
+dlga_maelbresail_aftermorrigan1:maelbresail_aftermorrigan2_2|È stato un onore servirvi e uccidere i vostri nemici.
+dlga_maelbresail_aftermorrigan1:maelbresail_aftermorrigan2_3|Hai mentito per farmi un assassino dei tuoi nemici.
+dlga_maelbresail_aftermorrigan2:maelbresail_aftermorrigan3|Siete una persona ambiziosa, ma credo che la ricompensa sia sufficente. Non ti darò un denaro in più di quello patuito.
+dlga_maelbresail_aftermorrigan2_1:maelbresail_aftermorrigan3|Questo è importante. In questo mondo, non è facile trovare persone affidabili.
+dlga_maelbresail_aftermorrigan2_2:maelbresail_aftermorrigan3|Lo so. Non tutti i padroni premiano i loro servi. Anche se a volte è difficile diree se latua fedeltà è verso di me o per il mio denaro.
+dlga_maelbresail_aftermorrigan2_3:maelbresail_aftermorrigan3|Ti è stato commissionato un lavoro, e hai accettato di farlo. Nessuno ti ha costretto ad accettare. Perché adesso vieni qui a piagnucolare? Non sopporto i capricciosi ne i deboli di cuore.
+dlga_maelbresail_aftermorrigan3:maelbresail_aftermorrigan4|--Ridacchia.--^^Ho saputo che Morrigan ha cercato di salvarsi la sua vita con le bugie. Quali sono state le sue ultime parole?
+dlga_maelbresail_aftermorrigan4:maelbresail_aftermorrigan5|Ha detto di essere l'ultima discendente dei Flaithbertach.
+dlga_maelbresail_aftermorrigan4:maelbresail_aftermorrigan5_2|È morta prima che potessi parlarci.
+dlga_maelbresail_aftermorrigan5:maelbresail_aftermorrigan6|Lavoro per Aed mac Niall, Ard Ruire di Eriu, mi ha mandato a uccidere gli ultimi membri dei Flaithbertach al fine di eliminare potenziali rivali per il trono.
+dlga_maelbresail_aftermorrigan5_2:maelbresail_aftermorrigan6|Non mentirmi! So quando stai mentendo. I Liars non hanno un posto al mio fianco, ma sulla forca!
 ; dlga_maelbresail_aftermorrigan6:maelbresail_aftermorrigan7|You've done a huge favor to Eriu, if you're not aware of it. This island is populated by numerous clans, but each feels entitled to rule over others. The social system is a pyramid -- the weaker subject to the stronger, but all led by the high king, the Ard Ruire. However, the elements of this system constantly mutate, and clan alliances break according to changing interests. In sum, it is very difficult to rule this land.
 ; dlga_maelbresail_aftermorrigan7:maelbresail_aftermorrigan8|I believe Aed mac Niall is a good leader, as he favors my interests, and therefore yours. However, Flaithbertach was a man beloved by the Ui-Neill, and his death caused much discomfort. His children could easily have taken up arms with many northern clans. As an internal war within the Kingdom of Aileach would only favor our rivals, the Southern Ui Neill, in their desire to secure once again the throne at Tara. Ard Ruire Aed is strong leader, uniquely able to keep the Vikings at bay. Do you understand?
-; dlga_maelbresail_aftermorrigan8:maelbresail_aftermorrigan9_1|There is no need to justify our actions to me.
-; dlga_maelbresail_aftermorrigan8:maelbresail_aftermorrigan9_2|I hate politics.
+dlga_maelbresail_aftermorrigan8:maelbresail_aftermorrigan9_1|Non dovete giustificare le vostre azioni con me.
+dlga_maelbresail_aftermorrigan8:maelbresail_aftermorrigan9_2|Odio la politica.
 dlga_maelbresail_aftermorrigan8:maelbresail_aftermorrigan10|Sicuro.
-; dlga_maelbresail_aftermorrigan9_1:maelbresail_aftermorrigan10|Justify? No, I am happy to do so.
-; dlga_maelbresail_aftermorrigan9_2:maelbresail_aftermorrigan10|Politics is what moves the world, but it's a game that you win or die.
+dlga_maelbresail_aftermorrigan9_1:maelbresail_aftermorrigan10|Giustificrmi? No, sono felice di farlo.
+dlga_maelbresail_aftermorrigan9_2:maelbresail_aftermorrigan10|La politica è ciò che muove il mondo, ma è un gioco dove si vince o si muore.
 ; dlga_maelbresail_aftermorrigan10:maelbresail_aftermorrigan11|Everything I've done has been for the benefit of Eriu. If I had directly attacked Flaithbertach's children, they would have become martyrs, and certain northern clans could have taken up arms under that pretext. You, however, were not among my people, so nobody can associate me. You and the abbot of Finian just killing with some other malefactors. We have not seen one another many times. Now it is your name that is famous for killing the children of Flaithbertach.
-; dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12|So you refuse me? After all I've done?
-; dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12_2|I want more money, or I will talk to others about your involvement.
-; dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12_3|Traitor! Your hands remain clean while I will be hated by all the lords! (Intelligence)
-; dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12_4|Well, Morrigan is still alive.
+dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12|Quindi tu mi rifiuti? Dopo tutto quello che ho fatto?
+dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12_2|Voglio più soldi, dirò a tutti in cosa siete coinvolto.
+dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12_3|Traditore! Le tue mani resteranno pulite mentre io sarò odiato da tutti i signori! (Intelligenza)
+dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12_4|Beh, Morrigna è ancora viva.
 ; dlga_maelbresail_aftermorrigan12:maelbresail_aftermorrigan13|I never promised you anything I haven't paid. This arrangement was important to Eriu. Now, at least, I help you leave this island. Here many will hate you for killing Flaithbertach's children. I don't abandon any who has served me well, no matter how mercenary. I could reward you with 50,000 peningas. This should help you in your new life far from here.
-; dlga_maelbresail_aftermorrigan12_2:maelbresail_aftermorrigan13|Well, I understand. I guess I can pay you for your silence. How about 100,000 peningas? This should help you in your new life far from here
+dlga_maelbresail_aftermorrigan12_2:maelbresail_aftermorrigan13|Beh, capisco. Credo di poter pagare il tuo silenzio. Che ne dici di 100.000 denari? Questo dovrebbe aiutarti a ricostruirti una vita lontano da qui
 ; dlga_maelbresail_aftermorrigan12_3:maelbresail_aftermorrigan13|You're smarter than you act. I cannot lie. This much is true: many a lord has put you on his list of enemies, but it was for the good of Eriu. However, I desire to give you enough gold for your exile from Eriu. Seventy thousand peningas should be sufficient to start a new life far from here.
 ; dlga_maelbresail_aftermorrigan12_4:maelbresail_aftermorrigan13|Aah... I understand you're worried and will try to use anything to scare me. I know Morrigan is no longer a threat. You must leave Eriu as soon as possible, but this does not mean I not care about your welfare. I'll give you 30.000 peningas. This should be sufficient to start a new life far from here.
-; dlga_maelbresail_aftermorrigan13:maelbresail_aftermorrigan14|I guess I have no choice. I take your money and leave this island.
-; dlga_maelbresail_aftermorrigan13:maelbresail_aftermorrigan14.1|Give me the money; then see what I'll do.
-; dlga_maelbresail_aftermorrigan13:maelbresail_aftermorrigan15|You can keep your money. I want you to clear my name.
+dlga_maelbresail_aftermorrigan13:maelbresail_aftermorrigan14|Immagino di non avere scelta. Prenderò i soldi e lascierò l'isola.
+dlga_maelbresail_aftermorrigan13:maelbresail_aftermorrigan14.1|Dammi i soldi; poi deciderò cosa fare.
+dlga_maelbresail_aftermorrigan13:maelbresail_aftermorrigan15|Tenetevi i vostri soldi. Voglio che tu cancelli il mio nome da questa storia.
 ; dlga_maelbresail_aftermorrigan14:close_window|Alright. I do not have that amount here and now. I have a farm near Temair. I will see you there and pay as agreed. In fact, I will give a banquet in your honor, for we will not meet again after that. Farewell, {playername}.
 ; dlga_maelbresail_aftermorrigan15:close_window|I understand. Your reputation is most important for you. I agree, I will help you to clear your name, I have strong influence in Eriu. I will use it and all money that I was going to give you. I have to think of a plan. Meanwhile, we will do this: I have a farm near Temair. I will see you there. In fact, I will give a banquet in your honor while we talk about the way to clear your name. Farewell, {playername}.
 ; dlga_maelbresail_pactofinal:maelbresail_pactofina2|I guess it is fair to recognize that you've exceeded all my expectations. You're much too dangerous to have as an enemy. I offer here and now peace between us. I'll pay you 50,000 peningas for all the harm I've caused you, and from this moment, our paths never cross again. You will not pursue me, and I won't send men to kill you. It will simply be as if we had never known one another. I promise before my mother, present here. Do you agree?
-; dlga_maelbresail_pactofina2:maelbresail_pactofina3_1|Well, we both are but businessmen. I accept your money. You will never again hear from me.
-; dlga_maelbresail_pactofina2:maelbresail_pactofina3_2|I agree, but exchange the money for favor with Ard Ruire Aed mac Niall of Aileach.
-; dlga_maelbresail_pactofina2:maelbresail_pactofina3_3|I think not. Blood is paid with blood. Today your days over.
-; dlga_maelbresail_pactofina3_1:maelbresail_pactofina5|No! My family demands revenge from their graves. This cannot end without blood!^^Remember me, Mael Bresail? Do you remember me, rat? I've come to kill you!
-; dlga_maelbresail_pactofina3_2:maelbresail_pactofina5|No! My family demands revenge from their graves. This cannot end without blood!^^Remember me, Mael Bresail? Do you remember me, rat? I've come to kill you!
+dlga_maelbresail_pactofina2:maelbresail_pactofina3_1|Beh, siamo entrambi uomini d'affari. Accetto i soldi. Non sentirai mai più parlare di me.
+dlga_maelbresail_pactofina2:maelbresail_pactofina3_2|D'accordo, ma scambierò i soldi per il favore di Ard Ruire Aed mac Niall di Aileach.
+dlga_maelbresail_pactofina2:maelbresail_pactofina3_3|Non credo. Il sangue viene pagato col sangue. Non vivrai un altro giorno.
+dlga_maelbresail_pactofina3_1:maelbresail_pactofina5|No! La mia famiglia esige vendetta dalle loro tombe. Tutto ciò non può terminare senza il sangue!^^Ti ricordi di me, Mael Bresail? Ti ricordi di me, ratto? Sono venuta per ucciderti!
+dlga_maelbresail_pactofina3_2:maelbresail_pactofina5|No! La mia famiglia esige vendetta dalle loro tombe. Tutto ciò non può terminare senza il sangue!^^Ti ricordi di me, Mael Bresail? Ti ricordi di me, ratto? Sono venuta per ucciderti!
 ; dlga_maelbresail_pactofina3_1:maelbresail_pactofina3_6|Here's your money. If ever we meet again, I do not know you. Our business is done. No more fear; no more death. May gold seal our pact, and may God witness our oaths.
 ; dlga_maelbresail_pactofina3_2:maelbresail_pactofina3_6|That seems fair. I shall speak highly of you to my king, and he will love you more than he loves his favorite vassal. If ever we meet again, I do not know you. Our business is done. No more fear; no more death. May God witness our oaths.
 ; dlga_maelbresail_pactofina3_6:maelbresail_pactofina3_7|I swear. Our enmity is buried.
-; dlga_maelbresail_pactofina3_7:close_window|I swear before my mother. Go in peace. You are a rich man now.
+dlga_maelbresail_pactofina3_7:close_window|Lo giuro su mia madre. Vai in pace. Ora sei un uomo ricco.
 ; dlga_maelbresail_pactofina3_3:maelbresail_pactofina4|I see you're a warrior unable to see for the glints from steel, so steel shall you receive. Here. Now. Of the two, only one will leave. Men, to me!
-; dlga_maelbresail_pactofina4:maelbresail_pactofina5|Do you remember me, rat? I have also come to kill you, to avenge my family!
-; dlga_maelbresail_pactofina4:maelbresail_pactofina5_2|It's time to meet with your Maker!
-; dlga_maelbresail_pactofina5:close_window|--His face shows terror--^^You? But... Kill them, kill them all!
-; dlga_maelbresail_pactofina5_2:close_window|Kill them, kill them all!
-; dlga_start:thesnake1_dialog|You look like a warrior. Are you looking for work?
-; dlga_thesnake1_dialog:thesnake2_dialog|I know who you are. They call you 'the Snake.' I was sent to kill you.
-; dlga_thesnake1_dialog:thesnake2_1_dialog|Snake, I'm not here to join your army, I fear.
-; dlga_thesnake1_dialog:thesnake2_2_dialog|Sure, Snake, how much you pay?
-; dlga_thesnake2_dialog:thesnake3_dialog|Why? Ah, I understand. I will not run away. This town has a field for local competitions. I'll wait there with my best men. Come and bring your most loyal companions. We will fight to the death.
+dlga_maelbresail_pactofina4:maelbresail_pactofina5|Ti ricordi di me, ratto? Sono venuta per ucciderti, per vendicare la mia famiglia!
+dlga_maelbresail_pactofina4:maelbresail_pactofina5_2|È ora che tornate dal Creatore!
+dlga_maelbresail_pactofina5:close_window|--Terrorizzato--^^Tu? Ma... Uccideteli, ucciderli tutti!
+dlga_maelbresail_pactofina5_2:close_window|Uccideteli, uccideteli tutti!
+dlga_start:thesnake1_dialog|Somigli a un guerriero. Stai cercando lavoro?
+dlga_thesnake1_dialog:thesnake2_dialog|So chi sei. Ti chiamano 'il Serpente'. Mi hanno mandato ad ucciderti.
+dlga_thesnake1_dialog:thesnake2_1_dialog|Serpente, non sono qui per arruolarmi nel tuo esercito.
+dlga_thesnake1_dialog:thesnake2_2_dialog|Sicuro, Serpente, quanto mi pagherai?
+dlga_thesnake2_dialog:thesnake3_dialog|Perché? Ah, capisco. Non voglio scappare. Questa città ha un campo per le competizioni locali. Ti aspetterò lì con i miei uomini migliori. Vieni e porta i tuoi compagni più fedeli. Combatteremo fino alla morte.
 ; dlga_thesnake2_1_dialog:thesnake3_dialog|Only my enemies call me 'the Snake.' I know I am a loose thread. I represent a danger to the interests of the Rat, your patron. Coward that he is, he does not dare to come himself but sends murderers. I will not run away. This town has a field for local competitions. I'll wait there with my best men. Come and bring your most loyal companions. We will fight to the death.
-; dlga_thesnake2_2_dialog:thesnake3_dialog|Only my enemies call me 'the Snake.' The same that destroyed my family. Do you come to kill me? I will not run away. This town has a field for local competitions. I'll wait there with my best men. Come and bring your most loyal companions. We will fight to the death.
-; dlga_thesnake3_dialog:close_window|Then we have an appointment.
-; dlga_thesnake3_dialog:thesnake4_dialog|Erm, just a moment.
-; dlga_thesnake4_dialog:close_window|No! You want my head, so at least have the courage to battle for it.^^[Your companions will join to you in this duel.]
-; dlga_start:morrigan1_dialog|Do you come to kill me, murderer? Your lord, Mael Bresail, would be happy to end my lineage.
+dlga_thesnake2_2_dialog:thesnake3_dialog|Solo i miei nemici mi chiamano 'il Serpente'. Gli stessi che hanno distrutto la mia famiglia. Vuoi uccidermi? Non voglio scappare. Questa città ha un campo per le competizioni locali. Ti aspetterò lì con i miei uomini migliori. Vieni e porta i tuoi compagni più fedeli. Combatteremo fino alla morte.
+dlga_thesnake3_dialog:close_window|Abbiamo un appuntamento.
+dlga_thesnake3_dialog:thesnake4_dialog|Erm, aspetta un momento.
+dlga_thesnake4_dialog:close_window|No! Se vuoi la mia testa, abbi almeno il coraggio di combattere per essa.^^[I tuoi compagni si uniranno a te in questo duello.]
+dlga_start:morrigan1_dialog|Vieni a uccidermi, assassino? Il tuo signore, Mael Bresail, sarebbe felice di eliminare la mia stirpe.
 ; dlga_start:morriganleave_final1|{playername}, I want to thank you for all your help. Without you, I would never have avenged my family. Although the death of Mael Bresail has not given me any joy, I feel I've done the right thing. My family can now rest in peace. My travels with you are over. I leave you because I need to remove myself from the world I have known and find a place to live in peace, far away from Eriu. I need to leave behind my past to build a future, and that means leaving you.
-; dlga_morrigan1_dialog:morrigan1_dialog1|It is your end, witch. I kill you now.
-; dlga_morrigan1_dialog:morrigan1_dialog2|What are you talking about, witch?
-; dlga_morrigan1_dialog:morrigan1_dialog3|Mael Bresail isn't my lord.
-; dlga_morrigan1_dialog1:close_window|My father, Flaithbertach, could have been king, but he was killed by his own brother, Aed of Aileach, and your master, Mael Bresail. You plan to kill the last member from Flaithbertach's lineage. The gods and men curse your name.^^For some time now, I have owned nothing more than my life. Yet I do not fear death and think maybe it may remedy my torment.^^      (Before you can do anything, Morrigan casts herself on your weapon, inviting death. She utters no sound. You watch her eyes close and peace spread across her face.)
-; dlga_morrigan1_dialog2:morrigan1_dialog4|Then you kill without knowing your victim or why she should be killed, murderer?
-; dlga_morrigan1_dialog3:morrigan1_dialog4|Then why do you work for him and his damned lord, Aed of Aileach, and kill their enemies for them, murderer?
+dlga_morrigan1_dialog:morrigan1_dialog1|È giunta la tua ora, stega. Ti ucciderò.
+dlga_morrigan1_dialog:morrigan1_dialog2|Di cosa vorrsti parlare, strega?
+dlga_morrigan1_dialog:morrigan1_dialog3|Mael Bresail inon è il mio signore.
+dlga_morrigan1_dialog1:close_window|Mio padre, Flaithbertach, avrebbe potuto essere re, ma fu ucciso dal fratello, Aed di Aileach dal tuo padrone, Mael Bresail. Stai per uccidere l'ultimo membro della famiglia Flaithbertach. Gli dei e gli uomini maledicano il tuo nome.^^Da tempo, non posseggo più niente oltre la mia vita. Eppure non temo la morte ma forsetu puoi porre fine ai miei tormenti.^^(Prima che te ne accorgi, Morrigan si getta sulla tua arma, trafiggendosi. Non emette alcun suono. La guardi negli occhi mentre muore serena.)
+dlga_morrigan1_dialog2:morrigan1_dialog4|Vuoi uccidermi senza sapere chi è la tua vittima o perchè devo essere uccisa, assassino?
+dlga_morrigan1_dialog3:morrigan1_dialog4|Allora perchè lavori per lui e per il suo dannatissimo signore, Aed di Aileach, e uccidi i suoi nemici per lui, assassino?
 dlga_morrigan1_dialog4:morrigan1_dialog5|{s10}
 ; dlga_morrigan1_dialog5:morrigan1_dialog6|Bal Luighne? I could have destroyed that village long ago, but never attacked. I just terrorized the locals so that they would leave the place and leave this land to me. I only seek a place to live and feel protected, but the peasants are stubborn and Mael Bresail found out where I am. Then he sent you to kill me and finish off my lineage. You may have no idea, but your patron is implacable. Recently, he sent men to kill to my brother in Pictland and his sons -- just children -- near Caer Meguaidd. Now, I am last of my family. I see it was impossible to hide from Mael Bresail. I found this remote part of the world and forgot my name by taking that of the goddess, Morrigan. Yet here you are to kill me.
-; dlga_morrigan1_dialog6:morrigan1_dialog1|Liar! You are trying to confuse me. It's time to die.
-; dlga_morrigan1_dialog6:morrigan1_dialog7|Then that would make you... Flaithbertach's daughter? No wonder you are a menace!
+dlga_morrigan1_dialog6:morrigan1_dialog1|Bugiardo! Stai tentando di confondermi. È tempo di morire.
+dlga_morrigan1_dialog6:morrigan1_dialog7|Allora tu sei... la figlia di Flaithbertach? Non c'è da stupirsi che sei una minaccia!
 ; dlga_morrigan1_dialog7:morrigan1_dialog8|My father, Flaithbertach, could have been king, but he was killed by his own brother, your master. This is Eriu. If you want the throne, you have to catch and eliminate all potential competitors. Fratricide is practically a way of life. Aed was faster to the deed than my father. Then, with the help of Mael Bresail, he killed my mother and the rest of my family. Just my brother, his sons, and I escaped, but Mael eventually found us. Now only I am alive, but even so, now at the tip of your sword.
-; dlga_morrigan1_dialog8:morrigan1_dialog1|Even so, you did too much damage to the people of Bal Luighne. You pay now with your life.
-; dlga_morrigan1_dialog8:morrigan1_dialog9|Mael Bresail used me? I am NOT his hired murderer!
+dlga_morrigan1_dialog8:morrigan1_dialog1|Comunque sia, avete fatto troppi danni alla gente di Bal Luighne. Pagherete con la vostra vita.
+dlga_morrigan1_dialog8:morrigan1_dialog9|Mael Bresail mi ha usato? io NON sono il suo assassino!
 ; dlga_morrigan1_dialog9:morrigan1_dialog1|Well, that's hardly my problem. I'm tired of fleeing. Everyone I cared for is dead. I just want to see them again and be at peace. Go back to your master and collect your reward, murderer. I do not begrudge you that.
-; dlga_morrigan1_dialog9:morrigan1_dialog10|Mael Bresail uses everybody. What do you want to do now?
-; dlga_morrigan1_dialog10:morrigan1_dialog1|You did too much damage to the people of Bal Luighne. You pay now with your life.
-; dlga_morrigan1_dialog10:morrigan1_dialog11|I will let you live, as I want answers from Mael Bresail. I will be back.
-; dlga_morrigan1_dialog11:close_window|I'd rather go with you. You've killed my last supporter, and in any case, I do not want to try to hide anymore. I will join you, disguised as one of your warriors.
-; dlga_morriganleave_final1:morriganleave_final2|I understand. I hope you find the peace that you wish.
-; dlga_morriganleave_final1:morriganleave_final3|Morrigan, you cannot leave me. I need you.
+dlga_morrigan1_dialog9:morrigan1_dialog10|Mael Bresail usa tutti. Cosa vuoi fare adesso?
+dlga_morrigan1_dialog10:morrigan1_dialog1|Avete fatto troppi danni alla gente di Bal Luighne. Pagherete con la vostra vita.
+dlga_morrigan1_dialog10:morrigan1_dialog11|Ti lascerò vivere, prima voglio delle risposte da Mael Bresail. Tornerò.
+dlga_morrigan1_dialog11:close_window|Preferisco venire con te. Hai ucciso il mio ultimo sostenitore e in ogni caso, sono stanca di nascondermi. Mi unirò a te, travestita da uno dei tuoi guerrieri.
+dlga_morriganleave_final1:morriganleave_final2|Capisco. Spero troverete la pace che si desiderate.
+dlga_morriganleave_final1:morriganleave_final3|Morrigan, non puoi lasciarmi. Ho bisogno di te.
 ; dlga_morriganleave_final2:morriganleave_final2_2|Thank you for understanding me. It has not been an easy decision. In your army, I feel protected, but this life is not for me. I need a place to call home, where I can be happy. Maybe someday we will meet again, but I think not. I just want you to know that you have become a very important person to me. I wish you luck, {playername}. The gods allow you to get everything that you deserve. You are destined for greatness.
 ; dlga_morriganleave_final3:morriganleave_final2_2|Do not make this difficult. My decision is made. This life is not for me. I need a place to call home, where I can be happy. Maybe someday we will meet again, but I think not. I just want you to know that you have become a very important person to me. I wish you luck, {playername}. The gods allow you to get everything that you deserve. You are destined for greatness.
-; dlga_morriganleave_final2_2:morriganleave_final2_3|Farewell, Morrigan. If you ever need me, I will come.
-; dlga_morriganleave_final2_2:morriganleave_final2_3.1|Farewell, Morrigan.
-; dlga_morriganleave_final2_3:close_window|[You watch as Morrigan turns her back and walks away from you. She turns her face for an instant, and you think you see tears in her eyes. Then she leaves.]
-; dlga_start:campeon1_dialog|--A tall man, his face marked by surprise, moves toward you.--^^What were those creatures? What happened here?
+dlga_morriganleave_final2_2:morriganleave_final2_3|Addio, Morrigan. Se avrai bisogno di me, verrò.
+dlga_morriganleave_final2_2:morriganleave_final2_3.1|Addio, Morrigan.
+dlga_morriganleave_final2_3:close_window|[Osservi Morrigan voltarti le spalle e allontanarsi da te. Gira la testa per un attimo, credi di vederle le lacrime agli occhi. Poi se ne va.] Addio, Morrigan. Se avrai bisogno di me, verrò.
+dlga_start:campeon1_dialog|--Una Uomo alto, dalla faccia sorpresa, si avvicina ate.--^^Cosa erano quelle creature? Cos'è successo qui?
 dlga_start:close_window.54|Addio.
-; dlga_campeon1_dialog:campeon1_dialog1|And you are?
-; dlga_campeon1_dialog:campeon1_dialog2|Thanks for your help!
-; dlga_campeon1_dialog:campeon1_dialog3|Those things were Morrigan and his minions.
-; dlga_campeon1_dialog1:campeon1_dialog1_1|Eh? Oh, yes... My name is Aed mac Ainmerech, and the man who accompanies me is Olchobar mac Cinaeda of the Ui Neill.
-; dlga_campeon1_dialog1_1:campeon1_dialog3|That's me. We have been chosen to save Bal Luighne from the evil that has befallen it.
+dlga_campeon1_dialog:campeon1_dialog1|E tu sei?
+dlga_campeon1_dialog:campeon1_dialog2|Grazie per avermi aiutato!
+dlga_campeon1_dialog:campeon1_dialog3|Quelle cose erano Morrigan e i suoi servi.
+dlga_campeon1_dialog1:campeon1_dialog1_1|Eh? Oh, sì... Il mio nome è Aed mac Ainmerech, e l'uomo che mi accompagna è Olchobar mac Cinaeda del Ui Neill.
+dlga_campeon1_dialog1_1:campeon1_dialog3|Sono io. Siamo stati scelti per salvare Bal Luighne dal male che l'ha colpita.
 ; dlga_campeon1_dialog2:campeon1_dialog3|Our help? This is pure coincidence! We were returning to Bal Luighne when we saw something in the fog. We played the horns to signal that we had no hostile intentions.
 ; dlga_campeon1_dialog3:campeon1_dialog3_1|Was that Morrigan? With the fog, I saw demons. I was sure old Caliacas' problem was a Viking war band...
-; dlga_campeon1_dialog3_1:campeon1_dialog3_2|You seem worried now, Aed, but a few hours ago you were telling me how you could defeat any creature!
-; dlga_campeon1_dialog3_2:campeon1_dialog3_3|This is no time for jokes, Olchobar.^^--He turns to you--^^And who are you, and what brings you to this godforsaken place?
+dlga_campeon1_dialog3_1:campeon1_dialog3_2|Sembri preoccupato ora, Aed, ma poche ore fa mi dicevi che potevi sconfiggere qualsiasi creatura!
+dlga_campeon1_dialog3_2:campeon1_dialog3_3|Non è il momento per gli scherzi, Olchobar.^^--Si gira vero di te--^^E tu chi sei, cosa ti portain questo posto dimenticato da Dio?
 dlga_campeon1_dialog3_3:campeon1_dialog4|{s10}
 dlga_campeon1_dialog4:campeon1_dialog4_1|{s4}
-; dlga_campeon1_dialog4_1:campeon1_dialog4_2|Your performances are stellar, but unfortunately we must cut this entertainment short. If that's Morrigan, we have to follow her and find out where her lair is.
-; dlga_campeon1_dialog4_2:campeon1_dialog4_3|But Caliacas sent us a message to return to the village. Something bad must be happening...
-; dlga_campeon1_dialog4_3:campeon1_dialog5|This is more important. We should all follow Morrigan.
-; dlga_campeon1_dialog4_3:campeon1_dialog5_2|The village is more important. We should all return with haste.
-; dlga_campeon1_dialog4_3:campeon1_dialog5.1|We must part ways. You two go to the village, and I will follow Morrigan.
-; dlga_campeon1_dialog4_3:campeon1_dialog5_2.1|We must part ways. You two follow Morrigan, and I will go to Bal Luighne.
+dlga_campeon1_dialog4_1:campeon1_dialog4_2|Le vostre prestazioni sono stellari, ma purtroppo dobbiamo chiudere queta breve conversazione. Se questa è Morrigan, dobbiamo seguirla e scoprire dove si trova il suo covo.
+dlga_campeon1_dialog4_2:campeon1_dialog4_3|Ma Caliacas ci ha inviato un messaggio di tornare al villaggio. Qualcosa di brutto sta per accadere...
+dlga_campeon1_dialog4_3:campeon1_dialog5|Abbiamo cose più importanti da fare. Dobbiamo seguire Morrigan.
+dlga_campeon1_dialog4_3:campeon1_dialog5_2|Il villaggio è più importante. Doobbiamo tornare là.
+dlga_campeon1_dialog4_3:campeon1_dialog5.1|Dobbiamo separarci. Voi due andate al villaggio, io seguirò Morrigan.
+dlga_campeon1_dialog4_3:campeon1_dialog5_2.1|Dobbiamo separarci. Voi due seguite Morrigan, io andrò al villaggio.
 ; dlga_campeon1_dialog5:campeon1_dialog6|Ha! I see you were thinking up orders while dragging your feet!
-; dlga_campeon1_dialog6:campeon1_dialog7|Actually, we do know the area better. We will follow Morrigan. Meanwhile, find out what is happening to Caliacas in Bal Luighne.
-; dlga_campeon1_dialog5_2:campeon1_dialog7|Yes, somebody has to see what is happening to Caliacas in Bal Luighne. You go there while we follow Morrigan.
-; dlga_campeon1_dialog7:campeon1_dialog8|Very well. I will see you soon.
-; dlga_campeon1_dialog7:campeon1_dialog8_2|I do not agree with that plan.
-; dlga_campeon1_dialog8:close_window|Good luck. We will send a messenger as soon as we find Morrigan's lair.
-; dlga_campeon1_dialog8_2:campeon1_dialog8_3|Do I look worried about that? You were the last to arrive, so your mission is to hear and obey.
+dlga_campeon1_dialog6:campeon1_dialog7|No, noi conosciamo meglio la zona. Seguiremo Morrigan. Nel frattempo, scopri cosa sta accadendo a Caliacas a Bal Luighne.
+dlga_campeon1_dialog5_2:campeon1_dialog7|Sì, qualcuno deve vedere cosa sta succedendo a Caliacas a Bal Luighne. Tu vai lì mentre noi seguiamo Morrigan.
+dlga_campeon1_dialog7:campeon1_dialog8|Molto bene. Ci rivedremo presto.
+dlga_campeon1_dialog7:campeon1_dialog8_2|Non sono d'accordo.
+dlga_campeon1_dialog8:close_window|Buona fortuna. Invieremo un messaggero appena troveremo la tana di Morrigan.
+dlga_campeon1_dialog8_2:campeon1_dialog8_3|Ti sembro che mi interessi? Sei stato l'ultimo ad arrivare, così la tua missione è di ascoltare e obbedire.
 ; dlga_campeon1_dialog8_3:close_window|There is no need to be arrogant, Aed. Believe me, {playername}, this makes the most sense. We are from Eriu and won't waste time getting lost. We will send a messenger as soon as we find Morrigan's lair. Farewell.
-; dlga_start:campeon2_dialog|{playername}! My messenger found you. Morrigan's beasts attacked us. They killed our men, and we're stuck here. Morrigan's camp is just ahead. You and your troops are our only hope. You have to get us out of here.
+dlga_start:campeon2_dialog|{nome del giocatore}! Il mio messaggero ti ha trovato. Le bestie di Morrigan ci hanno attaccato. Hanno ucciso i nostri uomini e siamo bloccati qui. Il campo di Morrigan è poco più avanti. Tu e le tue truppe siete la nostra unica speranza. Dovete tirarci fuori di qui.
 dlga_start:close_window.55|Addio.
-; dlga_campeon2_dialog:campeon2_dialog1|Morrigan's beasts attacked me, too.
-; dlga_campeon2_dialog:campeon2_dialog2|We must kill Morrigan together.
+dlga_campeon2_dialog:campeon2_dialog1|Le bestie di Morrigan mi hanno attaccato.
+dlga_campeon2_dialog:campeon2_dialog2|Uccideremo Morrigan insieme.
 ; dlga_campeon2_dialog1:campeon2_dialog3|Then they caught you here, too. We must flee before they decide to return.
-; dlga_campeon2_dialog2:campeon2_dialog3|Are you crazy? Her beasts destroyed my men. Caliacas and his farmers left, looking for other heroes. I will not lose my life in this place.
-; dlga_campeon2_dialog3:campeon2_dialog4|Morrigan's camp is just ahead. We must kill her together. Follow me now!
-; dlga_campeon2_dialog3:campeon2_dialog4_2|I will kill Morrigan with or without you.
-; dlga_campeon2_dialog4_2:close_window|They'll finish you, stupid, Morrigan or her beasts. We will not go with you, but stay here and wait for the best time to escape.
-; dlga_campeon2_dialog4:campeon2_dialog5|No. We will not go with you. We'll stay right here and wait for the best time to escape. If you want so much to die, you will die alone.
-; dlga_campeon2_dialog5:close_window|Rat! Then I shall kill you.
-; dlga_campeon2_dialog5:close_window.1|Cowards! I will kill Morrigan by myself. Farewell.
-; dlga_start:thora_dialog|Heill! Welcome! My name is Thora Ulfsdottir. I am the only daughter of Ulf. You should talk to him.
-; dlga_start:close_window.56|Sorry, I am busy.
-; dlga_thora_dialog:thora_dialog_sigurd|Thora, nice to meet you. I will go and talk to your father. Farewell.
-; dlga_thora_dialog:thora_dialog_romance|Thora, I'd rather talk to you than your father. You're a very pretty girl.
-; dlga_thora_dialog_sigurd:thora_dialog_sigurd2|Thora, your name is pretty, as are you. I am Egil Horiksson. My weapons are sword and spear, but I yield to your beauty.
-; dlga_thora_dialog_sigurd2:thora_dialog_sigurd2|Why, thank you... sir. I blush at your compliments. You're also... very handsome.
-; dlga_thora_dialog_sigurd2:close_window|(Allow them to continue talking and go talk to Ulf)
-; dlga_thora_dialog_sigurd2:thora_dialog_sigurd3|Egil, leave the girl alone, and let's go.
-; dlga_thora_dialog_sigurd3:close_window|Damn, you cannot stand to see people happy, can you? All right, I will, {reg59?madam:sir}.
-; dlga_thora_dialog_romance:thora_dialog_romance2|Why, thank you... sir. I blush at your compliments. You're also... very handsome.
-; dlga_thora_dialog_romance:thora_dialog_sigurd|Thank you, but you should talk to my father, Ulf.
-; dlga_thora_dialog_romance2:thora_dialog_romance4|(Use your powers of persuasion to make Thora interested in you)
-; dlga_thora_dialog_romance2:thora_dialog_romance3|You seem like such a smart girl. Tell me about yourself.
-; dlga_thora_dialog_romance2:thora_dialog_sigurd|Well, then I will go to talk to your father. Farewell.
-; dlga_thora_dialog_romance3:thora_dialog_sigurd|Better not. My father does not like me to talk to strangers. Please go talk to him.
-; dlga_thora_dialog_romance4:thora_dialog_romance5|(You see her eyes brighten as you tell her about your adventures. You approach her and put your hand over hers. It is not rejected. You try to kiss her, but she puts her hand on your mouth.)
-; dlga_thora_dialog_romance5:close_window|Not here. My father will get angry. I will look for you tonight. Now, go see my father, Ulf.
-; dlga_start:close_window.57|I don't have time for you now.
-; dlga_start:ulf_testigo1|{playername}, what are you doing here again?
-; dlga_start:ulf_ormvictory1|{s2}^^{playername}, thank you very much for saving my life, my farm and my daughter, Thora. I want to reward you by giving you these treasures. Besides, these are the weapons of Orm Svarti. I think they should be yours.
-; dlga_start:ulf_dialog|Heill! My name is Ulf Thorirsson. My jarl, Sigurd Ragnarsson, notified me that you were coming. Welcome to my farm. You and your men can eat and sleep here until Sigurd's people arrive. The only thing I ask is that none of them comes close to my daughter, Thora.
-; dlga_start:ulf_dialog.1|Heill! My name is Ulf Thorirsson. My jarl, Sigurd Ragnarsson, sent me a warning that you were coming. Welcome to my farm. You and your men can eat and sleep here until Sigurd's people arrive. The only thing I ask is that none of them comes close to my daughter, Thora.
-; dlga_start:close_window.58|I am very busy now. My thralls are lazy.
-; dlga_ulf_dialog:ulf_dialog2|Thank you, Ulf. I promise that no one will touch your daughter, and I appreciate your hospitality.
-; dlga_ulf_dialog:ulf_dialog2.1|Enough about your daughter. Provide food and drink for my men, as hospitality dictates.
+dlga_campeon2_dialog2:campeon2_dialog3|Siete pazzo? Le sue bestie hanno distrutto i miei uomini. Caliacas e i suoi contadini ci hanno lasciato, cercate altri eroi. Non getterò via la mia vita in questo posto.
+dlga_campeon2_dialog3:campeon2_dialog4|Il campo di Morrigan è poco più avanti. Dobbiamo ucciderla insieme. Seguimi ora!
+dlga_campeon2_dialog3:campeon2_dialog4_2|Ucciderò Morrigan con o senza di voi.
+dlga_campeon2_dialog4_2:close_window|Ti uccideranno, stupido, Morrigan o le sue bestie. Non verremo con te, ma rimarremo qui e aspettaremo il momento migliore per fuggire.
+dlga_campeon2_dialog4:campeon2_dialog5|No. Non verremo con te. Resteremo qui e aspetteremo il momento migliore per fuggire. Se ci tieni cosi tanto a morire, fallo da solo.
+dlga_campeon2_dialog5:close_window|Ratti! Tornerò a uccidervi.
+dlga_campeon2_dialog5:close_window.1|Vigliacchi! Ucciderò Morrigan da solo. Addio.
+dlga_start:thora_dialog|Heill! Benvenuto! Io sono Thora Ulfsdottir. Sono l'unica figlia di Ulf. Dovresti parlare con lui.
+dlga_start:close_window.56|Perdonami, sono occupato.
+dlga_thora_dialog:thora_dialog_sigurd|Thora, felice di conoscerti. Andrò a parlare con tuo padre. Addio.
+dlga_thora_dialog:thora_dialog_romance|Thora, preferirei parlare con te di tuo padre. Sei una ragazza molto carina.
+dlga_thora_dialog_sigurd:thora_dialog_sigurd2|Thora, il tuo nome è molto bello, come te. Sono Egil Horiksson. Le mie armi sono spada e lancia, ma non competono con la vostra bellezza.
+dlga_thora_dialog_sigurd2:thora_dialog_sigurd2|Perché, grazie... Signore. Arrossisco ai vostri complimenti. Siete anche voi... Molto bello.
+dlga_thora_dialog_sigurd2:close_window|(Consenti loro di continuare a parlare vai a parlare con Ulf)
+dlga_thora_dialog_sigurd2:thora_dialog_sigurd3|Egli, lascia in pace quella ragazza, dobbiamo andare.
+dlga_thora_dialog_sigurd3:close_window|Accidenti, non vuoi vedere gente felice, quando puoi? Va bene, arrivo, {reg59?signora:signore}.
+dlga_thora_dialog_romance:thora_dialog_romance2|Perché, grazie... Signore. Arrossisco ai vostri complimenti. Siete anche voi... molto bello.
+dlga_thora_dialog_romance:thora_dialog_sigurd|Grazie, ma dovresti parlare con mio padre, Ulf.
+dlga_thora_dialog_romance2:thora_dialog_romance4|(Usa la tua capacità di persuasione per far si che Thora si interessi a te)
+dlga_thora_dialog_romance2:thora_dialog_romance3|Sembri una ragazza molto intelligente. Parlami di te.
+dlga_thora_dialog_romance2:thora_dialog_sigurd|Bene, alloraandrò a parlare con tuo padre. Addio.
+dlga_thora_dialog_romance3:thora_dialog_sigurd|Meglio di no. A mio padre non piace che parli con degli sconosciuti. Andate a parlare con lui.
+dlga_thora_dialog_romance4:thora_dialog_romance5|(I suoi occhi si illuminano mentre le parli delle tue avventure. Ti avvicini a lei e metti la tua mano su quella di lei. Non ti respinge. Tenti di baciarla, ma lei mette una mano sulla bocca.)
+dlga_thora_dialog_romance5:close_window|Non qui. Mio padre si arrabbierebbe. Ti cercherò io stasera. Ora vai a vedere mio padre, Ulf.
+dlga_start:close_window.57|Non ho tempo per te adesso.
+dlga_start:ulf_testigo1|{playername}, cosa ci fai ancora qui?
+dlga_start:ulf_ormvictory1|{s2}^^{playername}, ti ringrazio molto per aver salvato la vita, la mia fattoria e mia figlia, Thora. Voglio premiarti dandoti questi tesori. Inoltre, queste sono le armi di Orm Svarti. Penso che dovrebbero essere tue.
+dlga_start:ulf_dialog|Heill! Il mio nome è Ulf Thorirsson. Il mio jarl, Sigurd Ragnarsson, mi ha comunicato che saresti venuto. Benvenuti alla mia fattoria. Voi e i vostri uomini potete mangiare e dormire qui fino a quando il popolo di Sigurd non sarà arrivato. L'unica cosa che vi chiedo è che nessuno di loro si avvicini a mia figlia, Thora.
+dlga_start:ulf_dialog.1|Heill! Il mio nome è Ulf Thorirsson. Il mio jarl, Sigurd Ragnarsson, mi ha avvertito che saresti venuto. Benvenuti alla mia fattoria. Voi e i vostri uomini potete mangiare e dormire qui fino a quando il popolo di Sigurd non sarà arrivato. L'unica cosa che vi chiedo è che nessuno di loro si avvicini a mia figlia, Thora.
+dlga_start:close_window.58|Sono molto occupato. I miei schiavi sono pigri.
+dlga_ulf_dialog:ulf_dialog2|Grazie, Ulf. Vi prometto che nessuno toccherà vostra figlia, apprezzo la vostra ospitalità.
+dlga_ulf_dialog:ulf_dialog2.1|Basta parlare di tua figlia. Datemi cibo e bevande per i miei uomini, come segno di ospitalità.
 ; dlga_ulf_dialog2:ulf_dialog3|(Ulf gives some orders, and two servants step out of the main house with viands and drink. They give skvr -sour milk- and buttered bread to you and your men.)
 dlga_ulf_dialog3:ulf_dialog4|{s10}
-; dlga_ulf_dialog4:ulf_dialog5|It is all that I have, and I offered it with good will.
-; dlga_ulf_dialog5:ulf_dialog6|He's lying! I've seen barrels of beer and venison in a nearby warehouse. We are eating and drinking this shit while he is keeping the best for himself.
-; dlga_ulf_dialog6:ulf_dialog7|{s2}^^He is laughing at us. He's a rich man yet gives us the worst dining. He has neglected the laws of hospitality! He dies now! Nobody laughs at Egil, and he will serve as an example to others to respect us.
-; dlga_ulf_dialog7:ulf_dialog81|{s2}^^If you kill this man, you'll have to pay high compensation to his family, or perhaps they decide to seek revenge on yours. Is that what you want?
-; dlga_ulf_dialog81:ulf_dialog8|Do not kill him, then, but let's cut his sword hand. He does not deserve Walhalla!
-; dlga_ulf_dialog8:ulf_dialog91|Good food and drink has been offered. This is the home of Ulf, and we will follow his ways.
-; dlga_ulf_dialog8:ulf_dialog91.1|Nobody's going to die here. Eat and drink what our host offered you and be happy with it.
-; dlga_ulf_dialog8:ulf_dialog92|Egil and Reginhard are right. Ulf has broken the rules of hospitality, so off with his hand.
-; dlga_ulf_dialog92:ulf_dialog93|Bastard! Sigurd Ragnarsson will know about this!
-; dlga_ulf_dialog93:ulf_dialog94|{s2}^^That will be a pleasure!
-; dlga_ulf_dialog94:ulf_dialog95|What about the food and the beer?
-; dlga_ulf_dialog95:ulf_dialog121|Distribute the beer and food. Ulf has broken the standard of hospitality, so we will too.
-; dlga_ulf_dialog95:ulf_dialog91|No one will touch the food and beer. We are not thieves.
-; dlga_ulf_dialog91:ulf_dialog10|Bullshit! I will not drink their piss and eat their garbage. I do not care if Egil kills him or not. I'll go directly to Ulf's warehouse and take what I want.
-; dlga_ulf_dialog10:ulf_dialog11|{s2}^^Yes, good idea, Reginhard. I'll do the same. {playername} may stay with him and drink sour milk, if {reg59?she:he} wants.
-; dlga_ulf_dialog11:ulf_dialog121|(Let them go to the warehouse to drink and eat what they want.)
-; dlga_ulf_dialog11:ulf_dialog122|Reginhard and Egil, stay still where you are, or you will pay dearly.
-; dlga_ulf_dialog11:ulf_dialog123|Egil and Reginhard, when I make decisions, you follow them, got it? (Leadership)
-; dlga_ulf_dialog123:ulf_dialog1231|{s2}^^Yes, {reg59?my lady:my lord}. We are at your service and will do as you command.
-; dlga_ulf_dialog1231:ulf_dialog121|Distribute the beer and food. Ulf has broken the standard of hospitality, so we will too.
-; dlga_ulf_dialog122:ulf_dialog1221|You threaten your friends to protect a rat like Ulf, who has laughed in our face. I will not fight against you, in memory of what we went through together, but I do not like your decision.
+dlga_ulf_dialog4:ulf_dialog5|È tutto quello che ho, ve lo offrò come buona volontà.
+dlga_ulf_dialog5:ulf_dialog6|Sta mentendo! Ho visto barili di birra e carne di cervo in un magazzino qui vicino. Stiamo mangiando e bevendo questa merda, mentre lui tiene il meglio per se.
+dlga_ulf_dialog6:ulf_dialog7|{s2}^^Sta ridendo di noi. È un uomo ricco ma ci dà il peggior pranzo. Ha trascurato le leggi dell'ospitalità! Muoia ora! Nessuno ride di Egil, servirà come esempio e gli latri ci rispetteranno.
+dlga_ulf_dialog7:ulf_dialog81|{s2}2^^Se uccidi quest'uomo, dovrai pagare un alto risarcimento alla sua famiglia, o forse decideranno di vendicarsi sul vostro. È questo quello che vuoi?
+dlga_ulf_dialog81:ulf_dialog8|Non ucciderlo, ma cerchia di mozzare la mano con cui tiene la spada. Non merita il Walhalla!
+dlga_ulf_dialog8:ulf_dialog91|Ci è stato offerto buon cibo e da bere. Questa è la casa di Ulf e seguiremo le sue regole.
+dlga_ulf_dialog8:ulf_dialog91.1|Nessuno è ancora morto. Mangiamo e beviamo quello che ci viene offerto, dovremmo essere felici di ciò.
+dlga_ulf_dialog8:ulf_dialog92|Egil e Reginhard hanno ragione. Ulf ha infranto le regole di ospitalità, gli taglieremo la mano.
+dlga_ulf_dialog92:ulf_dialog93|Bastardo! Sigurd Ragnarsson saprà di questo!
+dlga_ulf_dialog93:ulf_dialog94|{s2}^^ Sarà un vero piacere!
+dlga_ulf_dialog94:ulf_dialog95|Cosa sai dirmi circa il cibo e la birra?
+dlga_ulf_dialog95:ulf_dialog121|Distribuite la birra e il cibo. Ulf ha infranto le regole di ospitalità, quindianche noi faremo lo stesso.
+dlga_ulf_dialog95:ulf_dialog91|Nessuno toccherà il cibo e la birra. Non siamo dei ladri.
+dlga_ulf_dialog91:ulf_dialog10|Stronzate! Non berrò la loro orina e non mangierò spazzatura. Non m'importa se Egil lo uccide o no. Andrò direttamente al magazzino di Ulf e prenderò quello che voglio.
+dlga_ulf_dialog10:ulf_dialog11|{s2}^^Sì, buona idea, Reginhard. Lo farò anch'io. {playername} rimani con lui e bere il latte acido, se {reg59?lei:lui} se vuoi.
+dlga_ulf_dialog11:ulf_dialog121|(Lasciali andare al magazzino per bere e mangiare ciò che vogliono.)
+dlga_ulf_dialog11:ulf_dialog122|Reginhard e Egil, restate dove siete, o la pagherete cara.
+dlga_ulf_dialog11:ulf_dialog123|Egil e Reginhard, quando prendo una decisione, voi mi ubbidite, chiaro? (Comando)
+dlga_ulf_dialog123:ulf_dialog1231|{s2}^^Sì, {reg59?mia signora:mio signore}. Siamo al vostro servizio e faremo come tu comandi.
+dlga_ulf_dialog1231:ulf_dialog121|Distribuite la birra e il cibo. Ulf ha infranto le regole di ospitalità, quindianche noi faremo lo stesso.
+dlga_ulf_dialog122:ulf_dialog1221|Minacci i tuoi amici a proteggi un topo come Ulf, che ci ha riso in faccia. Non combatterò contro di voi, in ricordo di quello che abbiamo passato insieme, ma non mi piace la vostra decisione.
 ; dlga_ulf_dialog1221:ulf_dialog1232|Good words, Reginhard. I also respect your decision, {playername}, but you should think how good you are with the men under your command...
-; dlga_ulf_dialog1231:ulf_dialog1232|Do not touch the stock. That food is not ours.
-; dlga_ulf_dialog121:ulf_dialog122|{s2}^^But that is my food and my drink... You're a thief and a robber.
-; dlga_ulf_dialog122:close_window|It's not yours. This farm belongs to my men while we await the arrival of Sven Bull Neck.
-; dlga_ulf_dialog1232:ulf_dialog1233|Thanks, I'm sure that the gods will reward you. I will tell you one thing. Sven Bull Neck is not a man who easily submits, so keep your weapons close.
-; dlga_ulf_dialog1233:close_window|That's what I'll do. Now I go to station my men to wait until Sven Bull Neck appears.
+dlga_ulf_dialog1231:ulf_dialog1232|Non toccare le scorte. Questo cibo non è nostro.
+dlga_ulf_dialog121:ulf_dialog122|{s2}^^Ma questo cibo è mio e il bere pure... Siete un ladro e un brigante.
+dlga_ulf_dialog122:close_window|Non è vostro. Questa fattoria appartiene ai miei uomini, mentre attendiamo l'arrivo di Sven Bull Neck.
+dlga_ulf_dialog1232:ulf_dialog1233|Grazie, sono sicuro che gli dei vi ricompenseranno. Vi dirò una cosa. Sven Bull Neck non è un uomo che si sottomette facilmente, tenetevi le armi sempre a portata di mano.
+dlga_ulf_dialog1233:close_window|lo farò. Ora vado a sistemare i miei uomini e aspetterò fino a quando arriverà Sven Bull Neck.
 ; dlga_ulf_ormvictory1:ulf_ormvictory21|Ulf, keep these spoils for Thora's future child, and tell him something about his father.
-; dlga_ulf_ormvictory1:ulf_ormvictory2|Ulf, keep this money and these items for Thora's future child. I will be content with this.
-; dlga_ulf_ormvictory1:ulf_ormvictory2.1|Ulf, keep this money for Thora's future child. I will be content to keep Orm's sword and mail.
-; dlga_ulf_ormvictory1:ulf_ormvictory3|Thanks, Ulf, your gifts are welcome.
-; dlga_ulf_ormvictory21:ulf_ormvictory2|Please be assured that your child will know who his father is, and I will always remember.
-; dlga_ulf_ormvictory2:ulf_ormvictory4|You are a generous man. I hope you leave the Assembly in good standing. My house is your house. Farewell.
-; dlga_ulf_ormvictory3:ulf_ormvictory4|May the Spinners of Fate be benevolent to you.
-; dlga_ulf_ormvictory4:close_window|There is no doubt that your luck exceeds that of most other men. You, my friend, are destined either for greatness or to give greatness to whoever kills you. You've beaten a notorious berserker. You have my respect and admiration.
-; dlga_ulf_testigo1:ulf_testigo2|Ulf, I want to convince you not to testify against me in the Assembly.
-; dlga_ulf_testigo1:close_window|I'm just passing through. Just wanted to say hello. Farewell.
-; dlga_ulf_testigo2:ulf_testigo3|I prefer to talk about my daughter. She's pregnant with your child, an illegitimate baby of a man without a future. You have dishonored my house and my daughter. I will present my case to the Assembly.
-; dlga_ulf_testigo2:ulf_testigo3.1|I prefer to talk about my daughter. She's pregnant with the illegitimate child of your companion, Egil, a man without a future. You have dishonored my house and my daughter. I will present my case to the Assembly.
-; dlga_ulf_testigo2:ulf_testigo3.2|I prefer to talk about my daughter. She's pregnant with the illegitimate child of one of your men, who raped her in the night after drinking too much mead. You have dishonored my house and my daughter. I will present my case to the Assembly.
-; dlga_ulf_testigo3:ulf_testigo41|Sorry, I had no idea. I will marry her.
-; dlga_ulf_testigo3:ulf_testigo42|Sorry, I had no idea. Egil will marry her.
-; dlga_ulf_testigo3:ulf_testigo43|This is terrible. The man that you choose from my party will marry her.
-; dlga_ulf_testigo3:ulf_testigo44|I understand. I'll take your daughter with me.
-; dlga_ulf_testigo3:ulf_testigo6|It was an unfortunate incident. Let us agree on wergild in compensation.
-; dlga_ulf_testigo3:ulf_testigo46|Are you sure this child is not simply that of one of your thralls?
-; dlga_ulf_testigo41:ulf_testigo5|Marry you? My daughter? No, you are lower class than she, and besides, you'll soon be dead. Everybody knows that Sigurd Ragnarsson will ask for your head at the Assembly.
-; dlga_ulf_testigo43:ulf_testigo5|With any of your men? Perhaps you think she's a whore. Say something sensible or clear out of here.
-; dlga_ulf_testigo44:ulf_testigo5|This is a joke, no? Thora cannot go with you. She is my only daughter. She is too important to be left in your hands.
+dlga_ulf_ormvictory1:ulf_ormvictory2|Ulf, prendete questi soldi e questi oggetti per il futuro bambino di Thora. Sarei contento se li accettaste.
+dlga_ulf_ormvictory1:ulf_ormvictory2.1|Ulf, prendete questo denaro per il futuro bambino di Thora. Sarà contento di tenere la spada e l'armatura di Orm.
+dlga_ulf_ormvictory1:ulf_ormvictory3|Grazie, Ulf, I tuoi doni sono ben accetti.
+dlga_ulf_ormvictory21:ulf_ormvictory2|Assicurati che il bambino sappia chi è suo padre, io me lo ricorderò sempre.
+dlga_ulf_ormvictory2:ulf_ormvictory4|Sei un uomo generoso. Spero che sarete prosciolto all'Assemblea. La mia casa è la tua casa. Addio.
+dlga_ulf_ormvictory3:ulf_ormvictory4|Spero che gli Spiriti del Fato ti siano benevoli.
+dlga_ulf_ormvictory4:close_window|Non vi è dubbio che la tua fortuna supera quella di molti altri. Tu, amico mio, sei destinato per essere un grande o per dare grandezza a chi ti ucciderà. Hai battuto un famigerato berserker. Hai il mio rispetto e la mia ammirazione.
+dlga_ulf_testigo1:ulf_testigo2|Ulf, voglio convincervi a non testimoniare contro di me all'Assemblea.
+dlga_ulf_testigo1:close_window|Sono solo di passaggio. Volevo solo salutarti. Addio.
+dlga_ulf_testigo2:ulf_testigo3|Preferisco parlare di mia figlia. Lei è incinta di un vostro bambino, un bambino illegittimo, di un uomo senza futuro. Hai disonorato la mia casa e mia figlia. Presenterò il mio caso all'Assemblea.
+dlga_ulf_testigo2:ulf_testigo3.1|Preferisco parlare di mia figlia. Lei è incinta del vostro compagno, Egil, un bambino illegittimo, di un uomo senza futuro. Hai disonorato la mia casa e mia figlia. Presenterò il mio caso all'Assemblea.
+dlga_ulf_testigo2:ulf_testigo3.2|Preferisco parlare di mia figlia. Lei è incinta per colpa di uno dei tuoi uomini, cha l'ha rapita nella notte dopo aver bevuto troppo idromele. Hai disonorato la mia casa e mia figlia. Presenterò il mio caso all'Assemblea.
+dlga_ulf_testigo3:ulf_testigo41|Scusatemi, non ne avevo idea. La sposerò.
+dlga_ulf_testigo3:ulf_testigo42|Scusatemi, non ne avevo idea. Egil la sposerà.
+dlga_ulf_testigo3:ulf_testigo43|Questo è terribile. Scegliete un uomo nella mia compagnia ed egli la sposerà.
+dlga_ulf_testigo3:ulf_testigo44|Capisco. Prenderò tua figlia con me.
+dlga_ulf_testigo3:ulf_testigo6|È stato uno spiacevole incidente. Mettiamoci d'accordo sul guidrigildo a titolo di risarcimento.
+dlga_ulf_testigo3:ulf_testigo46|Sicuro che questo bambino non sia semplicemente figlio di uno dei tuoi schiavi?
+dlga_ulf_testigo41:ulf_testigo5|Sposare? Mia figlia? No, tu sei di una classe inferiore a lei, poi, presto sarete morti. Tutti sanno che Sigurd Ragnarsson chiederà la testa durante l'Assemblea.
+dlga_ulf_testigo43:ulf_testigo5|Con uno dei tuoi uomini? Forse pensi che sia una puttana. Dite qualcosa di sensato o andatevene fuori da qui.
+dlga_ulf_testigo44:ulf_testigo5|È uno scherzo, vero? Thora non può venire con te. Lei è la mia unica figlia. È troppo importante per essere lasciata nelle vostre mani.
 dlga_ulf_testigo46:ulf_testigo46_1|{s2}
-; dlga_ulf_testigo46_1:ulf_testigo46_2|Father, calm down. I'm sure {playername} has spoken without thinking. {reg59?She:He} knows I am a virtuous woman not given to anyone.
-; dlga_ulf_testigo46_2:ulf_testigo46_3|{playername}, you should apologize to this man. Remember that you need him to be happy to avoid his testifying against you at the Assembly.
+dlga_ulf_testigo46_1:ulf_testigo46_2|Padre, calmati. Sono sicuro che {playername} ha parlato senza riflettere. {reg59?Lei:Lui} sa che sono una donna virtuosa che non si concederebbe a nessuno.
+dlga_ulf_testigo46_2:ulf_testigo46_3|{playername}, dovresti chiedere scusa a quest'uomo. Ricordate che è necessario che sia felice al fine di evitare la sua testimonianza contro di voi in occasione dell'Assemblea.
 dlga_ulf_testigo46_3:ulf_testigo46_5|{s10}
 dlga_ulf_testigo46_3:ulf_testigo46_4|{s10}
-; dlga_ulf_testigo46_4:ulf_testigo5|{s2}^^I will act as if I didn't hear this.
-; dlga_ulf_testigo46_5:ulf_testigo46_6|{s2}^^This conversation is over. I will be happy when Sigurd Ragnarsson kills you after the Assembly. Now, get out of my farm.
-; dlga_ulf_testigo46_6:ulf_testigo46_7|Ulf, if you testify against me at the Assembly, I will kill you, Thora, and burn your farm to the ground. Got it? (Sanguine).
-; dlga_ulf_testigo46_7:ulf_testigo8|Calm down man! There is no need to humiliate this man so much.
-; dlga_ulf_testigo42:ulf_testigo42_1|Hey! I am right here. Marry? I will never marry. Thora should be proud to have a child with royal blood in her belly.
-; dlga_ulf_testigo42_1:ulf_testigo42_2|Egil is an inveterate womanizer. He is fickle, usually drunk and futureless. Would you marry your daughter to him?
+dlga_ulf_testigo46_4:ulf_testigo5|{s2}^^Agirò come se non avessi sentito nulla.
+dlga_ulf_testigo46_5:ulf_testigo46_6|{s2}^^Questa conversazione è finita. Sarò felice quando Sigurd Ragnarsson ti ucciderà dopo l'Assemblea. Ora, andatevene dalla mia fattoria.
+dlga_ulf_testigo46_6:ulf_testigo46_7|Ulf, se testimonierete contro di me durante l'Assemblea, io ucciderò voi, Thora, e brucierò la vostra fattoria. Chiaro? (Sanguigno).
+dlga_ulf_testigo46_7:ulf_testigo8|Calmati! Non c'è bisogno di umiliarlo così tanto.
+dlga_ulf_testigo42:ulf_testigo42_1|Ehi! Io sono qua. Sposarmi? Non mi sposerò mai. Thora dovrebbe essere orgogliosa di avere un figlio con sangue reale nel suo ventre.
+dlga_ulf_testigo42_1:ulf_testigo42_2|Egil è un donnaiolo incallito. Volubile, solitamente ubriaco e senza un futuro. Volete far sposare vostra figlia a lui?
 dlga_ulf_testigo42_2:ulf_testigo42_3|Si.
 dlga_ulf_testigo42_2:ulf_testigo42_31|No.
-; dlga_ulf_testigo42_2:ulf_testigo42_31.1|Who? Brunhild here? She is not my daughter.
-; dlga_ulf_testigo42_3:ulf_testigo5|Well, you are quite the dolt. Thora is the daughter of a wealthy man, while Egil is but a bastard. You're insulting me.
-; dlga_ulf_testigo42_31:ulf_testigo42_32|Well, I do not quite know whether to be flattered or offended. I will act as if I have not heard your words.
-; dlga_ulf_testigo42_32:ulf_testigo5|Nobody wants Egil in the family. Moreover, Thora is the daughter of a wealthy man, while Egil is but a bastard.
-; dlga_ulf_testigo5:ulf_testigo44|I understand. I'll take your daughter with me.
-; dlga_ulf_testigo5:ulf_testigo6|It was an unfortunate incident. Let us agree on wergild in compensation.
-; dlga_ulf_testigo5:ulf_testigo46|Are you sure this child is not by one of your thralls?
-; dlga_ulf_testigo6:ulf_testigo7_1|The law in Danmark makes a distinction between if she was raped or voluntarily surrendered. It is also important to note the differences in status. Anyway, if you want to avoid further problems and leave this man satisfied, give him 4000 peningas, and he will deliver all his daughters to sleep with you.^^{s2}
-; dlga_ulf_testigo7_1:ulf_testigo7|Do not listen to silly Egil, {reg59?lady:sir}, but it's true that with 4000 peningas, Ulf will be more than happy and will not testify against you.
-; dlga_ulf_testigo7:ulf_testigo8|Oh, money! My favorite topic. This is where I come in.
-; dlga_ulf_testigo8:ulf_testigo9|{s2}^^Look at this man! He must be more than two meters if he's an inch!
-; dlga_ulf_testigo8:ulf_testigo9.1|And who are you?
-; dlga_ulf_testigo9:ulf_testigo10|He is a...
-; dlga_ulf_testigo10:ulf_testigo11|He is Orm the Black, guest of Ulf Thorinsson and future owner of his farm and daughter. I am not in the habit of eavesdropping, but since everything related to this farmstead is now my business, I've decided to introduce myself and act.
-; dlga_ulf_testigo11:ulf_testigo12|So... Orm. How is it that you are the future owner of this farm?
-; dlga_ulf_testigo11:ulf_testigo13|I do not care who you are. This is a private matter. Go away.
-; dlga_ulf_testigo13:ulf_testigo12|Oh, I don't think so. This farm and the girl pregnant because of you will be my property tomorrow, so you will negotiate with me and not with this old fool.
-; dlga_ulf_testigo12:ulf_testigo14_1|{playername}, my father has his pride, but we need your support. Orm Svarti is a berserk and a duelist. He is an evil person, but no one can stand up to him. He arrived shortly after you left us and asked for my hand, which my father withheld. Then he challenged my father to a duel to the death. Orm will kill my father and then stay with me on the farm. My father is old and cannot deal with this man. Please be our second.
-; dlga_ulf_testigo14_1:ulf_testigo14|{s2}^^This man is scum, {reg59?my lady:my lord}. He challenges old defenseless peasants in order to steal everything they have. Worst of all, he wants to make Ulf's daughter a slave... and who knows what will happen to the child in Thora's belly.
-; dlga_ulf_testigo14:ulf_testigo15|Ignore them. You're lucky I'm here. Ulf will not testify against you in the Assembly on account of his death, and the girl will not be your problem because I will take care of her and the rat within. And since I like you, I'll give you half price. All you have to do is give me 2000 peningas. What do you say?
-; dlga_ulf_testigo15:ulf_testigo16_1|It's a deal, Orm. Take this money, and thanks for taking care of this matter.
-; dlga_ulf_testigo15:ulf_testigo16_2|Ulf will be dead tomorrow, so my problem is solved. Why pay you a single pening?
-; dlga_ulf_testigo15:ulf_testigo16_3|I will pay wergild of 4000 peningas to Ulf now, and the case is closed.
-; dlga_ulf_testigo15:ulf_testigo16_4|No, I'm afraid not. I hate injustice and must settle my debt. I will fight on Ulf's behalf.
-; dlga_ulf_testigo15:ulf_testigo16_4.1|No. The two matters are separate. I will both pay my wergild of 4000 peningas and fight.
-; dlga_ulf_testigo16_1:ulf_testigo16|Well, well. A farm, a pretty girl and 2000 peningas to boot. The gods have always loved me. Good travels and good luck so that, someday, in the unlikely event that you ever make anything of yourself, we may meet again.
-; dlga_ulf_testigo16_2:ulf_testigo16|Oh, well, right you are. Then get off my farm. Good travels and good luck so that, someday, in the unlikely event that you ever make anything of yourself, we may meet again.
-; dlga_ulf_testigo16_3:ulf_testigo16|Well, his money is my money. If you are such an idiot, the better for me. A farm, a pretty girl and 4000 peningas to boot. The gods have always loved me. Good travel and good luck so that, someday, in the unlikely event that you ever make anything of yourself, we may meet again.
-; dlga_ulf_testigo16_4:ulf_testigo20|{reg59?My lady:My lord}, are you sure? Have you considered your relative height and your old wounds? This man is made for murder!
-; dlga_ulf_testigo20:ulf_testigo21|No, worse, he's a berserker. If he enters his trance, {playername}, you won't have a chance.
-; dlga_ulf_testigo21:ulf_testigo22|Ha! No way to back out now! A word spoken is a word that cannot be returned!
-; dlga_ulf_testigo22:ulf_testigo23|The gods bless you, {playername}. We will always be indebted to you.
+dlga_ulf_testigo42_2:ulf_testigo42_31.1|Chi? Brunilde qui? Non è mia figlia.
+dlga_ulf_testigo42_3:ulf_testigo5|Beh, siete abbastanza il stupido. Thora è la figlia di un uomo ricco, mentre Egil è un bastardo. Mi state insultando.
+dlga_ulf_testigo42_31:ulf_testigo42_32|Beh, non so bene se essere lusingato o offeso. Agirò come se non avessi sentito le vostre parole.
+dlga_ulf_testigo42_32:ulf_testigo5|Nessuno vuole Egil in famiglia. Inoltre, Thora è la figlia di un uomo ricco, mentre Egil è solo un bastardo.
+dlga_ulf_testigo5:ulf_testigo44|Capisco. Prenderò tua figlia con me.
+dlga_ulf_testigo5:ulf_testigo6|È stato uno spiacevole incidente. Mettiamoci d'accordo sul guidrigildo a titolo di risarcimento.
+dlga_ulf_testigo5:ulf_testigo46|Sicuro che questo bambino non è figlio di uno dei tuoi schiavi?
+dlga_ulf_testigo6:ulf_testigo7_1|La legge in Danimarca fa una distinzione tra la violenza o il rapporto conseziente. È anche importante notare le differenza di classe sociale. In ogni caso, se si vuole evitare ulteriori problemi e lasciare questo uomo soddisfatto, dategli 4000 denari, ed egli vi libererà da ulteriori pretese verso di voi.^^{s2}
+dlga_ulf_testigo7_1:ulf_testigo7|Non ascoltate Egil, {reg59?signora:signore}, ma è comunque vero che con 4000 denari, Ulf sarà più che soddisfatto e non testimonierà contro di voi.
+dlga_ulf_testigo7:ulf_testigo8|Oh, soldi! Il mio argomento preferito.
+dlga_ulf_testigo8:ulf_testigo9|{s2}^^Guardate quest'uomo! Deve essere alto più di due metri!
+dlga_ulf_testigo8:ulf_testigo9.1|E tu chi sei?
+dlga_ulf_testigo9:ulf_testigo10|Lui è...
+dlga_ulf_testigo10:ulf_testigo11|Lui è Orm il Nero, ospite di Ulf Thorinsson e futuro proprietario della sua fattoria e sposo della figlia. Non ho l'abitudine di intromettermi, ma dal momento che tutto ciò che riguarda questa fattoria diventerà mio, ho deciso di presentarmi e agire.
+dlga_ulf_testigo11:ulf_testigo12|Quindi... Orm. Com'è possibile che siate il futuro proprietario di questa azienda?
+dlga_ulf_testigo11:ulf_testigo13|Non mi interessa chi sei. Si tratta di una questione privata. Vai via.
+dlga_ulf_testigo13:ulf_testigo12|Oh, io non la penso cosi. Questa fattoria e la ragazza saranno di mia propietà un domani, quindi dovete negoziare con me e non con questo vechhio folle.
+dlga_ulf_testigo12:ulf_testigo14_1|{playername}, mio padre è orgoglioso, ma abbiamo bisogno del vostro sostegno. Orm Svarti è un berserk e un duellante. È una persona malvagia, ma nessuno può resistergli. Arrivò poco dopo che ci hai lasciati e ha chiesto la mia mano, mio padre ha rifiutato. Poi ha sfidato mio padre in un duello all'ultimo sangue. Orm ucciderà mio padre e poi vivrà con me nella fattoria. Mio padre è vecchio e non può battere quest'uomo. Per favore prendi il suo posto.
+dlga_ulf_testigo14_1:ulf_testigo14|{s2}^^Quest'uomo è feccia, {reg59?mia signora:mio signore}. Egli sfida vecchi contadini inermi al fine di rubare tutto quello che hanno. Cosa ancor peggiore, vuole rendere la figlia di Ulf una schiava... e chissà cosa succederà al bambino nella pancia di Thora.
+dlga_ulf_testigo14:ulf_testigo15|Ignorali. Sei fortunato che sia qui. Ulf non testimonierà contro di te all'Assemblea, piochè morirà, e la ragazza non sarà un vostro problema perché mi prenderò io cura di lei e del ratto al suo interno. Siccome mi piaci, ti chiederò metà del prezzo. Tutto quello che devi fare è darmi 2000 denari. Che ne dici?
+dlga_ulf_testigo15:ulf_testigo16_1|È un vero affare, Orm. Prendi questo denaro e grazie per esserti preso carico della questione.
+dlga_ulf_testigo15:ulf_testigo16_2|Ulf domani sarà morto, quindi il mio problema è risolto. Perché Dovrei pagarti?
+dlga_ulf_testigo15:ulf_testigo16_3|Pagherò un guidrigildo di 4000 denari a Ulf ora e il caso è chiuso.
+dlga_ulf_testigo15:ulf_testigo16_4|No, temo di no. Odio le ingiustizie e devo saldare il mio debito. Combatterò per conto di Ulf.
+dlga_ulf_testigo15:ulf_testigo16_4.1|No. Le due cose sono separate. Pagherò il guidrigildo di 4000 denari e combatterò.
+dlga_ulf_testigo16_1:ulf_testigo16|Bene bene. Una fattoria, una bella ragazza e 2000 denari per cominciare. Gli dei mi hanno sempre amato. Buon viaggio e buona fortuna magari, un giorno, nel caso improbabile che mai farete qualcosa di voi stesso, potremo incontrarci di nuovo.
+dlga_ulf_testigo16_2:ulf_testigo16|Oh, beh, avete ragione. Andatevene dalla fattoria. Buon viaggio e buona fortuna magari, un giorno, nel caso improbabile che mai farete qualcosa di voi stesso, potremo incontrarci di nuovo.
+dlga_ulf_testigo16_3:ulf_testigo16|Bene, i suoi soldi saranno comunque miei. Siete un completo idiota, tanto meglio per me. Una fattoria, una bella ragazza e 4000 denari per cominciare. Gli dei mi hanno sempre amato. Buon viaggio e buona fortuna magari, un giorno, nel caso improbabile che mai farete qualcosa di voi stesso, potremo incontrarci di nuovo.
+dlga_ulf_testigo16_4:ulf_testigo20|{reg59?Mia signora: Mio signore}, ne siete sicuro? Hai preso in considerazione la tua altezza e le tue vecchie ferite? Quest'uomo è nato per uccidere!
+dlga_ulf_testigo20:ulf_testigo21|No, peggio, è un berserker. Se gli arriva la frenesia del sangue, {playername}, non avrete nessuna chance.
+dlga_ulf_testigo21:ulf_testigo22|Ha! Non potete tirarvie indietro! Avete dato la vostra parola ormai!
+dlga_ulf_testigo22:ulf_testigo23|Dio vi benedica, {signore/signora}. Saremo sempre in debito con voi.
 ; dlga_ulf_testigo23:ulf_testigo24|I did not expect this selfless reaction. I know that I do not stand a chance against Orm Svarti, so I'm very grateful. Whatever happens, know that I will not testify against you at the Assembly. Ragnarsson will not like that much, but it's you that are here for me. What's more, I won't ask wergild for my daughter. What you do makes up for any debt between us. Thank you. We are now at peace.
 ; dlga_ulf_testigo24:close_window|If you are such an idiot, the better for me. Such heroes always end up occupying but six square feet of earth. If you so desire such a plot, your time has come. I am only too happy to add all of your things to the farm and the girl.
-; dlga_ulf_testigo16:ulf_testigo17_1|Gods curse you, {playername}. You've effectively sentenced my father to death and me to slavery.
-; dlga_ulf_testigo17_1:ulf_testigo17|Gentle, Thora, my daughter. This piece of scit is not worth a curse.
-; dlga_ulf_testigo17:ulf_testigo18|This is not right...
-; dlga_ulf_testigo18:close_window|It is, if you do not want to die. {playername} does well. Let's go, we're done here.
-; dlga_start:muletroop_1|Ic grete thee, {playername}. What you need?
-; dlga_muletroop_1:muletroop_2|I want to load some things on the horses.
-; dlga_muletroop_1:close_window|Nothing. Farewell.
-; dlga_muletroop_2:close_window|Always at your service.
+dlga_ulf_testigo16:ulf_testigo17_1|Dei vi maledica, {playername}. Avete condannato mio padre alla morte e me alla schiavitù.
+dlga_ulf_testigo17_1:ulf_testigo17|Calmati, Thora, figlia mia. Questo pezzo di merda non vale una maledizione.
+dlga_ulf_testigo17:ulf_testigo18|Non è giusto...
+dlga_ulf_testigo18:close_window|Cosi sia, se non volete morire. {playername} fate bene. Andiamo, abbiamo finito qui.
+dlga_start:muletroop_1|Ic grete thee, {playername}. Cosa ti serve?
+dlga_muletroop_1:muletroop_2|Voglio caricare alcune cose sui cavalli.
+dlga_muletroop_1:close_window|Nulla. Addio.
+dlga_muletroop_2:close_window|Sempre al vostro servizio.
 dlga_start:sacerdote1_action|Si?
-; dlga_sacerdote1_action:sacerdote2_action|Pater, I will donate 500 peningas to aid the families of my fallen men.
-; dlga_sacerdote1_action:close_window|Nothing. Farewell.
-; dlga_sacerdote2_action:close_window|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. Your men will feel better now.
+dlga_sacerdote1_action:sacerdote2_action|Pater, Voglio donare 500 denari per aiutare le famiglie dei miei uomini caduti.
+dlga_sacerdote1_action:close_window|Nulla. Addio.
+dlga_sacerdote2_action:close_window|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. I tuoi uomini si sentono meglio ora.
 dlga_start:pagano1_action|Si?
-; dlga_pagano1_action:pagano2_action|Priest, my men need Odin. I will donate 500 peningas for your aid in this matter.
-; dlga_pagano1_action:pagano2_recruit|Priest, my men need you. Will you join my shield wall?
+dlga_pagano1_action:pagano2_action|Prete, i miei uomini hanno bisogno di Odino. Vi offro 500 denari per per il vostro aiuto.
+dlga_pagano1_action:pagano2_recruit|Prete, i miei uomini hanno bisogno di voi. Vorreste unirvi alla mia compagnia?
 ; dlga_pagano1_action:pagano_quest|Is there anything I can do to help this hof? 
 ; dlga_pagano_quest:pagano_quest1|Perhaps. We are having a feast soon, to honor goddess Saga, and we are running low on some essential supplies. Would you be able to bring us {reg33} drinking horns of mead?
-; dlga_pagano_quest:close_window|No, my son, we don't need your help at the moment.
-; dlga_pagano_quest1:close_window|You can count on me.
-; dlga_pagano1_action:pagano_thankyou|Priest, I brought you {reg33} drinking horns of mead, as you requested.
-; dlga_pagano_thankyou:close_window|Thank you, {playername}. Saga will be proud of {s3} and your efforts. May she guide you in battles.
-; dlga_pagano_quest1:close_window.1|Priest, I don't believe I have time for this.
-; dlga_pagano1_action:close_window|Nothing. Farewell.
-; dlga_pagano2_recruit:close_window|Well, I'll pack my things and join you.
-; dlga_pagano2_action:close_window|I will talk to your men about Odin, Thor and Freya. It will encourage them to fight proudly by your side, to earn their seats at Walhalla.
-; dlga_start:lair_cook|Greetings. What can I do for you?
+dlga_pagano_quest:close_window|No, figlio mio, non abbiamo bisogno di niente al momento.
+dlga_pagano_quest1:close_window|Potete contare su di me.
+dlga_pagano1_action:pagano_thankyou|Prete, ti ho portato {reg33} corni per bere idromele, come mi avete chiesto.
+dlga_pagano_thankyou:close_window|Grazie, {playername}. Saga sarà orgogliosa di {s3} e dei vostri sforzi. Che vi osservi e vi guidi in battaglia.
+dlga_pagano_quest1:close_window.1|Prete, non ho tempo per questo.
+dlga_pagano1_action:close_window|Nulla. Addio.
+dlga_pagano2_recruit:close_window|Beh, prendo la valigia, le mie cose e vi raggiungo.
+dlga_pagano2_action:close_window|Parlerò ai tuoi uomini di Odino, Thor e Freya. Per incoraggiarli a lottare con onore, per guadagnare il loro posti nel Walhalla.
+dlga_start:lair_cook|Salve. Cosa posso fare per voi?
 dlga_lair_cook_pretalk:lair_cook|Nient'altro?
-; dlga_lair_cook:lair_cook_menu1|Cook, I have a job for you! My men deserve a feast.
-; dlga_lair_cook:close_window|That'll be all.
-; dlga_lair_cook_menu1:lair_cook_menu2|I estimate the cost of the feast to be 1000 peningas.
-; dlga_lair_cook_menu2:lair_cook_menu|Go ahead. Take the money and prepare it all.
-; dlga_lair_cook_menu2:lair_cook_pretalk|Hmm, let me think more about this.
-; dlga_lair_cook_menu:close_window|So shall it be done! I'll get the necessary money from your coffers, buy ingredients for my finest dishes, and hire staff to make it a memorable night!
-; dlga_lair_cook_menu:lair_cook_pretalk|Sorry, sir, but your coffers are empty. We will need more money for the banquet.
-; dlga_start:quastuosa_talk1|{s2}^^Hello, {reg59?my lady:my lord}. How can I serve you?
+dlga_lair_cook:lair_cook_menu1|Cuoco, ho un lavoro per te! I miei uomini meritano una festa.
+dlga_lair_cook:close_window|Questo è tutto.
+dlga_lair_cook_menu1:lair_cook_menu2|Penso che la festa vi costerà 1000 denari.
+dlga_lair_cook_menu2:lair_cook_menu|Procedi. Prendi i soldi e prepara tutto.
+dlga_lair_cook_menu2:lair_cook_pretalk|Fatemici pensare ancora per un pò.
+dlga_lair_cook_menu:close_window|Sarà fatto! Prenderò i soldi necessari dalle vostre casse, comprerò gli ingredienti per i miei migliori piatti e assumerò personale per renderla una notte memorabile!
+dlga_lair_cook_menu:lair_cook_pretalk|Mi dispiace, signore, ma le vostre casse sono vuote. Avremo bisogno di più soldi per il banchetto.
+dlga_start:quastuosa_talk1|{s2}^^Ciao, {reg59?mia signora:mio signore}. Come posso servirti?
 dlga_quastuosa_pretalk1:quastuosa_talk1|Sono al vostro servizio, {playername}.
-; dlga_quastuosa_talk1:quastuosa_serve1|I need to raise the spirits of my men.
-; dlga_quastuosa_talk1:quastuosa_serve2a|I do not want anything for my men. I would like your company.
-; dlga_quastuosa_talk1:close_window|I need nothing. Farewell.
-; dlga_quastuosa_serve1:quastuosa_serve3a|Well, your men will have the mead hall at their disposal. They can eat and drink all they want and I'll get some girls to keep them company. I assure you they will be happy after this party. It will cost you 1500 coins.
-; dlga_quastuosa_serve1:quastuosa_serve3b|Your men will have fun as ever. I'll get the prettiest girls, the best drinks and the best food. I assure you their moral will be sky high after this party. It will cost you 1700 coins.
+dlga_quastuosa_talk1:quastuosa_serve1|Voglio rallegriate i miei uomini.
+dlga_quastuosa_talk1:quastuosa_serve2a|Non voglio che andiate dai miei uomini. Gradirei la vostra compagnia.
+dlga_quastuosa_talk1:close_window|Non mi serve nulla. Addio.
+dlga_quastuosa_serve1:quastuosa_serve3a|Bene, i tuoi uomini avranno a disposizione la sala dell'idromele. Essi potranno mangiare e bere tutto quello che vogliono, inoltre andrò a prendere alcune ragazze per tenere loro compagnia. Vi assicuro che saranno felici dopo questa festa. Vi costerà 1500 monete.
+dlga_quastuosa_serve1:quastuosa_serve3b|I vostri uomini si divertiranno come non mai. Prenderò le ragazze più carine, i migliori drink e il cibo migliore. Vi assicuro che il loro morale sarà alle stelle dopo questa festa. Vi costerà 1700 monete.
 dlga_quastuosa_serve3a:quastuosa_pretalk1|Beh, suppongo che i miei uomini se lo siano meritato. Questa volta.
 dlga_quastuosa_serve3b:quastuosa_pretalk|Beh, suppongo che i miei uomini se lo siano meritato. Questa volta.
 dlga_quastuosa_serve3a:close_window|Ahimè, mia signora, la mia borsa non pesa abbastanza per godere del vostro notevole fascino. Addio!
 dlga_quastuosa_serve2a:quastuosa_serve4a|Sono felice, {reg59?mia signora:mio signore}. Quindi ti piaccio. Bene, per te, c'è un prezzo speciale di sole 100 monete, come segno della nostra 'amicizia'...
 dlga_quastuosa_serve4a:quastuosa_serve5a|Grandioso, ecco prendere queste monete come 'regalo'.
-; dlga_quastuosa_serve4a:close_window|No thanks. Why help you steal from me?
-; dlga_quastuosa_serve5a:quastuosa_pretalk1|(Time passes, and you forget the rigors and fatigue from the journey that lingered upon your body and soul. For a few hours, your armor and sword, the fear of dying in any skirmish, the punishment of the rain and wind, and the dust of the roads are relegated to a small piece of happiness. Finally, it ends swiftly as your friend quietly leaves your room.)
+dlga_quastuosa_serve4a:close_window|No grazie. Perché volete derubarmi?
+dlga_quastuosa_serve5a:quastuosa_pretalk1|(Il tempo passa, dimentichi i rigori e la fatica del viaggio che indugiavano sul tuo corpo e sulla tua anima. Per qualche ora, la tua armatura e la tua spada, la paura di morire in ogni schermaglia, la punizione della pioggia e del vento e la polvere delle strade sono relegate a un piccolo pezzo di felicità. Infine, quando tutto è finito lasci sereno la tua stanza.)
 dlga_start:barber_talk|Ave, {reg59?mia signora:mio signore}. Di cosa avete bisogno?
 dlga_barber_pretalk:barber_talk|Sono al tuo servizio.
 dlga_barber_talk:barber_talk|Vorrei tagliare la barba.
@@ -2045,106 +2045,106 @@ dlga_start:lair_captain|Come posso aiutarvi, Comandante?
 dlga_lair_captain_pretalk:lair_captain|Nient'altro, Comandante?
 dlga_lair_captain:lair_captain_nothing|C'è qualcosa che devo sapere?
 dlga_lair_captain:lair_captain_improve|Capitano, vorrei migliorare questo posto.
-; dlga_lair_captain:lair_captain_improve_x1|Captain, how will the improvement work?
-; dlga_lair_captain:lair_captain_improve_torefuge|Captain, I want to improve this hideout.
-; dlga_lair_captain:lair_captain_add_port_0|I would like to land my ships here next to this refuge.
-; dlga_lair_captain_add_port_0:lair_captain_add_port_1|We will need 1,000 peningas, to pay staff and buy materials in order to build the jetties.
-; dlga_lair_captain_add_port_0:lair_captain_pretalk|The Refuge is too far away from the shore. We can't do this.
-; dlga_lair_captain_add_port_1:lair_captain_add_port_2|Do so. Here is the money.
+dlga_lair_captain:lair_captain_improve_x1|Capitano, come funzionerà il miglioramento?
+dlga_lair_captain:lair_captain_improve_torefuge|Capitano, vorrei migliorare questo mascondiglio.
+dlga_lair_captain:lair_captain_add_port_0|Vorrei attraccare le mie navi qui accanto a questo rifugio.
+dlga_lair_captain_add_port_0:lair_captain_add_port_1|Avremo bisogno di 1.000 denari, per pagare il personale e acquistare i materiali per costruire i moli.
+dlga_lair_captain_add_port_0:lair_captain_pretalk|Il Rifugio è troppo lontano dalla riva. Non possiamo farlo.
+dlga_lair_captain_add_port_1:lair_captain_add_port_2|Facciamolo. Ecco i soldi.
 dlga_lair_captain_add_port_1:lair_captain_pretalk|Ho cambiato idea.
 dlga_lair_captain_add_port_1:lair_captain_pretalk.1|Non ho abbastanza denaro.
-; dlga_lair_captain_add_port_2:lair_captain_pretalk|Very well. It won't take long to build the jetties. You will be able to disembark here soon.
-; dlga_lair_captain:lairparty_action|I will donate 500 peningas to the families of my men.
-; dlga_lair_captain:close_window|That'll be all.
+dlga_lair_captain_add_port_2:lair_captain_pretalk|Molto bene. Non ci vorrà molto per costruire i moli. Sarete in grado di sbarcare qui molto presto.
+dlga_lair_captain:lairparty_action|Voglio donare 500 denari alle famiglie dei miei uomini.
+dlga_lair_captain:close_window|Questo è tutto.
 ; dlga_lair_captain_improve:lair_captain_improve2|Currently, we have a simple and poorly defended permanent camp with few services and capacity for fifty men. I suggest building some houses for the men stationed here, for them to bring their families, a mead hall to help them relax and improve morale, and a training camp for our men to improve their skills. It would be important to improve the defenses further. Finally, you will need more space. I would guess you would like to have a big and comfortable house.^^I estimate that we will need a lot of money, about 5,000 peningas, to pay staff and buy materials. In addition, we need you to buy us five tool kits and five timber pallets.
-; dlga_lair_captain_improve2:lair_captain_improve3|Well, go ahead. This site needs improvement, and I have the needed resources and money.
-; dlga_lair_captain_improve2:lair_captain_pretalk|I will get what you asked for, and I will return with it later.
-; dlga_lair_captain_improve2:lair_captain_pretalk.1|I'll think about it.
-; dlga_lair_captain_improve3:lair_captain_pretalk|I'll put the men to work right now, commander. If all goes well, the work will be finished in a week.
-; dlga_lair_captain_improve3:lair_captain_pretalk.1|Commander, how can I say this? You do not have enough money. We need 5,000 peningas.
-; dlga_lair_captain_improve_x1:lair_captain_pretalk|The workers are working hard, commander.
-; dlga_lair_captain_nothing:lair_captain_pretalk|Nothing right now.
+dlga_lair_captain_improve2:lair_captain_improve3|Beh, andiamo avanti. Questo sito dovrebbe essere migliorato e non ho ne le risorse necessarie, ne il denaro.
+dlga_lair_captain_improve2:lair_captain_pretalk|Recupererò quello che mi avete chiesto, tornerò in un secondo momento.
+dlga_lair_captain_improve2:lair_captain_pretalk.1|Ci Penserò.
+dlga_lair_captain_improve3:lair_captain_pretalk|Metterò gli uomini al lavoro in questo momento, comandante. Se tutto va bene, il lavoro sarà completato in una settimana.
+dlga_lair_captain_improve3:lair_captain_pretalk.1|Comandante, come pensate di farlo? Non hai abbastanza soldi. Abbiamo bisogno di 5.000 denari.
+dlga_lair_captain_improve_x1:lair_captain_pretalk|I lavoratori si danno da fare duramente, comandante.
+dlga_lair_captain_nothing:lair_captain_pretalk|Nulla per ora.
 ; dlga_lair_captain_improve_torefuge:lair_captain_improve_torefuge2|Currently, we have a nice hideout with a mead hall and capacity for 120 men. I suggest building more houses for the men stationed here and for their families. On the other hand, we could use a blacksmith to help to repair our weapons and armor and build a stable for our horses. Moreover, it would be important to improve the defenses further with earthen mounds and ditches. Finally, you will need more space. I would guess you would like to have a mead hall, as befits a warlord.^^I estimate that we will need a lot of money, about 10,000 peningas, to pay staff and buy materials. In addition, we need you to buy us five tool kits and five timber pallets.
-; dlga_lair_captain_improve_torefuge2:lair_captain_improve_torefuge3|Well, go ahead. This site needs improvement, and I have the needed resources and money, too.
-; dlga_lair_captain_improve_torefuge2:lair_captain_pretalk|I will get what you ask, and will return with it later.
-; dlga_lair_captain_improve_torefuge2:lair_captain_pretalk.1|I'll think about it.
-; dlga_lair_captain_improve_torefuge3:lair_captain_pretalk|I'll put the men to work right now, commander. If all goes well, the work will be finished in two weeks.
-; dlga_lair_captain_improve_torefuge3:lair_captain_pretalk.1|Commander, how can I say this? You do not have enough money. We need 10,000 peningas.
-; dlga_lairparty_action:lair_captain_pretalk|Thank you, {reg59?my lady:sir}. This will raise the morale and loyalty of the men.
-; dlga_start:dcprisoner_join1|{reg59?Madame:Sir}, surely you do not remember me. My face looks much different when it's not being tortured. I am the man you questioned in Doccinga after the battle, Olafr the Captain.
-; dlga_dcprisoner_join1:dcprisoner_join2|The truth is that, after my defeat, Sven disowned me, and I've been without a lord ever since. I served as a mercenary but had bad luck -- I spent everything I was paid on mead and women. I was looking for you, because you are the only person who showed compassion for me in the hardest times. I want to serve you, to fight in your army. I will be faithful if you accept me.
-; dlga_dcprisoner_join2:dcprisoner_join3|Veterans like you are always welcome.
-; dlga_dcprisoner_join2:dcprisoner_join4|No, surely you are a spy. Be gone.
-; dlga_dcprisoner_join3:close_window|Thank you. I will be the bravest and the most loyal of your men!
-; dlga_dcprisoner_join4:close_window|I understand and accept your rejection. You will not see me again.
+dlga_lair_captain_improve_torefuge2:lair_captain_improve_torefuge3|Beh, andiamo avanti. Questo sito dovrebbe essere migliorato e non ho ne le risorse necessarie, ne il denaro.
+dlga_lair_captain_improve_torefuge2:lair_captain_pretalk|Recupererò quello che mi avete chiesto, tornerò in un secondo momento.
+dlga_lair_captain_improve_torefuge2:lair_captain_pretalk.1|Ci Penserò.
+dlga_lair_captain_improve_torefuge3:lair_captain_pretalk|Metterò gli uomini al lavoro in questo momento, comandante. Se tutto va bene, il lavoro sarà completato in due settimane.
+dlga_lair_captain_improve_torefuge3:lair_captain_pretalk.1|Comandante, come pensate di farlo? Non hai abbastanza soldi. Abbiamo bisogno di 10.000 denari.
+dlga_lairparty_action:lair_captain_pretalk|Grazie, {reg59?mia signora:signore}. Ciò consentirà di aumentare il morale e la lealtà dei vostri uomini.
+dlga_start:dcprisoner_join1|{reg59?Signora:Sgnore}, sicuramente non vi ricordate di me. Il mio viso è molto diverso quando non sono più stato torturato. Io sono l'uomo che hai interrogato a Doccinga dopo la battaglia, Olafr il Capitano.
+dlga_dcprisoner_join1:dcprisoner_join2|La verità è che, dopo la mia sconfitta, Sven mi ha cacciato, sono stato, senza un signore da allora. Ho servito come mercenario, ma ho avuto sfortuna -- Ho speso tutto quello che mi è stato pagato in idromele e donne. Ero alla tua ricerca, perché sei l'unica persona che ha mostrato compassione per me nei momenti più difficili. Voglio servirti, per combattere nel tuo esercito. Sarò fedele se mi accetterai.
+dlga_dcprisoner_join2:dcprisoner_join3|Veterani come te sono sempre i benvenuti.
+dlga_dcprisoner_join2:dcprisoner_join4|No, sicuramente sei una spia. Vattene.
+dlga_dcprisoner_join3:close_window|Grazie. Sarò il più coraggioso e il più fedele dei tuoi uomini!
+dlga_dcprisoner_join4:close_window|Capisco e accetto il vostro rifiuto. Non mi vedrete di nuovo.
 ; dlga_start:olvir_dialog|{s2}^^Damn, Olvir White Hair, perhaps you thought you could beat us? I had heard that you're a smart man.
 ; dlga_olvir_dialog:olvir_dialog2|{s2}^^My life and my death serve the purposes of my lord. My victory would have been over an enemy that he hates. My death will make you banned before the Assembly, {playername}.
-; dlga_olvir_dialog2:olvir_dialog31|What does he mean about the Assembly, Egil?
-; dlga_olvir_dialog2:olvir_dialog32|I do not care about your lord. Where is your brother, Olvir?
-; dlga_olvir_dialog2:olvir_dialog33|Sigurd is making a lot of trouble for me. It's time he pays for his treachery.
-; dlga_olvir_dialog31:olvir_dialog33|{s2}^^You will be accused of having killed Olvir before the Assembly, the assembly of free men, and they will demand payment or revenge. As Sigurd already wants you dead, it is clear that they will kill you.
-; dlga_olvir_dialog32:olvir_dialog33|{s2}^^Do not worry, he will find you. You will regret having pursued him, and have caused many evils for Sigurd Ragnarsson. You've annoyed the wrong people, {playername}.
-; dlga_olvir_dialog33:olvir_dialog4|{s2}^^You fool! I will laugh at you when Sigurd Ragnarsson kills you as I enjoy feasts at Walhalla. You have no idea who Sigurd 'Snake in the Eye' is and what he is capable of. Everyone fears him, even his own brothers... well, maybe not Ivar the Boneless. Ivar is the most ruthless of the sons of Ragnar.
-; dlga_olvir_dialog4:olvir_dialog411|{s2}^^I'm dying... Give me my sword, so that the Valkyries will see that I am a warrior and take me to the halls of Odin.
-; dlga_olvir_dialog411:olvir_dialog41|{playername}, this man has insulted and threatened you, and tried to kill us. He is not deserving of our compassion. Also, giving the sword is a pagan custom. Let him die and go to hell.
-; dlga_olvir_dialog41:olvir_dialog51|Egil, give him his sword. It allows him to travel to Walhalla.
-; dlga_olvir_dialog41:olvir_dialog52|No, he's right. You do not deserve Walhalla, Olvir. Egil, give me the sword.
+dlga_olvir_dialog2:olvir_dialog31|Cosa puoi dirmi riguardo all'Assemblea, Egil?
+dlga_olvir_dialog2:olvir_dialog32|Non mi importa del tuo signore. Dov'è tuo fratello, Olvir?
+dlga_olvir_dialog2:olvir_dialog33|Sigurd mi sta causando un sacco di guai. È tempo che paghi per il suo tradimento.
+dlga_olvir_dialog31:olvir_dialog33|{s2}^^Sarai accusato di aver ucciso Olvir prima dell'Assemblea, l'assemblea degli uomini liberi e potranno esigere il pagamento o la vendetta. Siccome Sigurd ti vuole morto, è chiaro che ti uccideranno.
+dlga_olvir_dialog32:olvir_dialog33|{s2}^^Non ti preoccupare, ti troverà. Vi pentirete di averlo inseguito, avete causato molti mali a Sigurd Ragnarsson. Avete infastidito le persone sbagliate, {playername}
+dlga_olvir_dialog33:olvir_dialog4|{s2}^^Pazzo! Riderò di te quando Sigurd Ragnarsson ti ucciderà mandandoti nel Walhalla. Non hai idea di chi Sigurd 'Occhi di Serpente' è e ciò che è in grado di fare. Tutti lo temono, anche i suoi stessi fratelli... beh, forse non Ivar il Boneless. Ivar è il più spietato dei figli di Ragnar.
+dlga_olvir_dialog4:olvir_dialog411|{s2}^^Sto morendo... Datemi la mia spada, in modo che le Valchirie vedano che sono un guerriero e mi prortino alle sale di Odino.
+dlga_olvir_dialog411:olvir_dialog41|{playername}, quest'uomo ti ha insultato e minacciato, ha cercato anche di ucciderti. Non è merita la nostra compassione. Inoltre, dare la spada è un'usanza pagana. Lasciatelo morire e mandatelo all'inferno.
+dlga_olvir_dialog41:olvir_dialog51|Egil, dategli la spada. Permettetegli di viaggiare nel Walhalla.
+dlga_olvir_dialog41:olvir_dialog52|No, ha ragione. Non meriti il Walhalla, Olvir. Egil, dammi la spada.
 dlga_olvir_dialog41:olvir_dialog51.1|{s10}
-; dlga_olvir_dialog51:olvir_dialog7|{s2}^^Banquets, women and endless battles await you in the hall of the gods, Olvir. You've been good warrior, although we have been enemies. I will see you someday, and maybe we can fight alongside each other at Ragnarok.
-; dlga_olvir_dialog52:olvir_dialog54|{reg59?Madame:Sir}, this man fought well. Let him go to Walhalla.
-; dlga_olvir_dialog54:olvir_dialog55|Please...
-; dlga_olvir_dialog55:olvir_dialog51|Well, Egil, give him his sword.
-; dlga_olvir_dialog55:olvir_dialog6|No. Egil, give me his sword, for it will be mine. Let him go to hell.
+dlga_olvir_dialog51:olvir_dialog7|{s2}^^Banchetti, donne e battaglie senza fine ti aspettano nella sala degli dei, Olvir. Sei stato un bravo guerriero, anche se siamo stati nemici. Ci rivedremo un giorno e forse potremo lottare fianco a fianco a Ragnarok.
+dlga_olvir_dialog52:olvir_dialog54|{reg59?Signora:Signore}, quest'uomo ha combattuto bene. Lascialo andare nel Walhalla.
+dlga_olvir_dialog54:olvir_dialog55|Perfavore...
+dlga_olvir_dialog55:olvir_dialog51|Bene, Egil, datemi la sua spada.
+dlga_olvir_dialog55:olvir_dialog6|No. Egil, dammi la spada, ora sarà mia. Lascialo andare all'inferno.
 dlga_olvir_dialog6:olvir_dialog7|{s2}
-; dlga_olvir_dialog7:olvir_dialog71|{reg59?Madame:Sir}, it is time to hit the road. We should go talk to my father, King Horik. Being charged with murder before the Assembly is a very serious thing, and Sigurd will seek to exploit this advantage to the fullest.
-; dlga_olvir_dialog71:close_window|Let us not waste more time but go.
-; dlga_start:close_window.59|We're just here to prevent escapes. Good luck.
+dlga_olvir_dialog7:olvir_dialog71|{reg59?Signora:Signore}, è il momento di riprendere il nostro cammino. Dobbiamo andare a parlare con mio padre, Re Horik. Essere accusati di omicidio prima che inizi l'Assemblea è una cosa molto seria, Sigurd cercheranno di sfruttare questo vantaggio al meglio.
+dlga_olvir_dialog71:close_window|Non perdiamo altro tempo, andiamo.
+dlga_start:close_window.59|Siamo qui solo per evitare che fuggiate. Buona fortuna.
 ; dlga_start:close_window.60|All yours! I already hit him pretty hard.
 ; dlga_start:prisionero_interrogation1|Thor, we have a new visitor. Our friend hit me hard. Come and see if you can better him?
-; dlga_start:prisionero_interrogation1.1|This is getting boring. Don't you have better things to do?
-; dlga_pretalkdc:prisionero_interrogation1|Well?
-; dlga_prisionero_interrogation1:prisionero_interrogation2|I'll ask you some questions, and, if you answer right, you won't have to keep suffering.
-; dlga_prisionero_interrogation1:prisionero_agua|--You give drinking water to the prisoner.--
+dlga_start:prisionero_interrogation1.1|Sta diventando noioso. Non hai di meglio da fare?
+dlga_pretalkdc:prisionero_interrogation1|Bene?
+dlga_prisionero_interrogation1:prisionero_interrogation2|Ti farò domande, e, se risponderai correttamente, non dovrai tenere di soffrire.
+dlga_prisionero_interrogation1:prisionero_agua|--Dai dell'acqua al prigioniero.--
 dlga_prisionero_agua:pretalkdc|{s2}
 dlga_prisionero_agua2:pretalkdc|{s4}
-; dlga_prisionero_interrogation1:prisionero_lheridas|--You clean the prisoner's wounds.--
+dlga_prisionero_interrogation1:prisionero_lheridas|--Pulisci le ferite del prigioniero.--
 dlga_prisionero_lheridas:prisionero_agua2|{s2}
-; dlga_prisionero_interrogation1:prisionero_palabrasa|You need not suffer any more. We are not enemies. We can talk like people.
+dlga_prisionero_interrogation1:prisionero_palabrasa|Non c'è bisogno che tu soffra ancora. Non siamo nemici. Siamo in grado di parlare come persone civili.
 dlga_prisionero_palabrasa:prisionero_agua2|{s2}
-; dlga_prisionero_interrogation1:prisionero_buenofinal|Now, let me ask a few questions, and you're going to answer.
+dlga_prisionero_interrogation1:prisionero_buenofinal|Ora, permettimi di farti alcune domande e tu sei pregato di rispondere.
 dlga_prisionero_buenofinal:prisionero_agua2|{s2}
-; dlga_prisionero_interrogation1:prisionero_golpea|--You hit the prisoner's face.--
+dlga_prisionero_interrogation1:prisionero_golpea|--Colpisci il prigioniero in faccia.--
 dlga_prisionero_golpea:pretalkdc|{s2}
-; dlga_prisionero_interrogation1:prisionero_golpea2|--You hit the side of the prisoner, where it hurts.--
+dlga_prisionero_interrogation1:prisionero_golpea2|--Colpito il lato del prigioniero, dove fa più male.--
 dlga_prisionero_golpea2:pretalkdc|{s2}
-; dlga_prisionero_interrogation1:prisionero_golpea3|Now, let's talk! --You hit the side of the prisoner again and then his face.--
+dlga_prisionero_interrogation1:prisionero_golpea3|Ora, parliamo! --Colpisci di lato il prigioniero di nuovo e poi il viso.--
 dlga_prisionero_golpea3:pretalkdc|{s2}
-; dlga_prisionero_interrogation1:prisionero_persuasion1|No one will come back for you. Answer me, and I'll help you get home. (Persuasion)
-; dlga_prisionero_persuasion1:pretalkdc|I am your prisoner, and I'm alone in your hands, but my boss will not forget me. Sven Bull Neck never abandons his men. I'll answer what you ask, but only if it doesn't affect my master or his cause.
-; dlga_prisionero_interrogation1:prisionero_persuasion2|I promise to release you and give you 1000 coins if you answer my questions. (Persuasion)
-; dlga_prisionero_persuasion2:pretalkdc|Your words seem sincere, and I like your offer. I'm not ready yet to visit Walhalla. Ask, and I will answer.
-; dlga_prisionero_interrogation1:prisionero_golpeado1|Maybe this will motivate you --You grab his crotch and squeeze hard-- (Power Strike)
+dlga_prisionero_interrogation1:prisionero_persuasion1|Nessuno tornerà a salvarti. Rispondimi e io ti riporterò a casa. (Persuasione)
+dlga_prisionero_persuasion1:pretalkdc|Sono vostro prigioniero e sono nelle vostre mani, ma il mio capo non mi dimenticherà. Sven Bull Neck non abbandona mai i suoi uomini. Risponderò alle tue doamnde, ma solo se non comprometterà il mio padrone e la sua causa.
+dlga_prisionero_interrogation1:prisionero_persuasion2|Prometto di rilasciarti e darii 1000 monete se risponderai alle mie domande. (Persuasione)
+dlga_prisionero_persuasion2:pretalkdc|Le tue parole sembrano sincere e mi piace la vostra offerta. Non sono ancora pronto per visitare il Walhalla. Chiedi, ti risponderò.
+dlga_prisionero_interrogation1:prisionero_golpeado1|Forse questo ti motiverà --afferrare il suo scroto e lo spremere a fondo-- (Colpo Potente)
 dlga_prisionero_golpeado1:pretalkdc|{s2}
-; dlga_prisionero_interrogation1:prisionero_golpeado2|Do you prefer pain? --You grab his hand and break his fingers one by one-- (Power Strike)
+dlga_prisionero_interrogation1:prisionero_golpeado2|Preferisci il dolore? --Afferrarete la sua mano e gli rompete le dita una ad una-- (Colpo Potente)
 dlga_prisionero_golpeado2:pretalkdc|{s2}
-; dlga_prisionero_interrogation1:prisionero_golpeado3|--You take a bread knife and cut the skin on his arms into strips.-- (Power Strike)
+dlga_prisionero_interrogation1:prisionero_golpeado3|--Prendere un coltello del pane e gli tagliare la pelle delle braccia a listarelle.-- (Colpo Potente)
 dlga_prisionero_golpeado3:prisionero_interrogationth|{s2}
-; dlga_prisionero_interrogation1:prisionero_apoyoth1|Please, Thonkrik, can you help me get some answers?
+dlga_prisionero_interrogation1:prisionero_apoyoth1|Per favore, Thonkrik, puoi aiutarmi ad ottenere qualche risposta?
 ; dlga_prisionero_apoyoth1:prisionero_apoyoth2|{s2}^^Listen, Olafr. You attacked our village and killed our people. There are widows and orphans out there because of you, but we are ready to set you free if you answer {playername}'s questions.^This is the choice we give you: yield a few words or die here without your sword. I am your only friend here, but if you do not say what we want to hear, I will leave you in the hands of these animals.
 dlga_prisionero_apoyoth2:pretalkdc|{s2}
 ; dlga_prisionero_interrogation1:prisionero_interrogation21|Torturer, the prisoner wants to be hit. Please accommodate him.
-; dlga_prisionero_interrogation1:close_window|I don't have any more questions for now.
-; dlga_prisionero_interrogation21:prisionero_interrogation_torturer|{s2}^^...
-; dlga_prisionero_interrogation_torturer:prisionero_interrogationth|{s2}^^Sure, the pleasure is mine. Please, {playername}, get back. I need space, and I do not want you splattered with blood. Come back when you want me to stop hitting him.
-; dlga_prisionero_interrogationth:pretalkdc|{s2}^^Please, please, enough already of abuse. I am sure you will be able to obtain the information by other means.
-; dlga_prisionero_interrogation2:pretalkdc|I told you all I know.
+dlga_prisionero_interrogation1:close_window|Non ho altri richieste da farvi al momento.
+dlga_prisionero_interrogation21:prisionero_interrogation_torturer|{s2}^^...
+dlga_prisionero_interrogation_torturer:prisionero_interrogationth|{s2}^^Certo, il piacere è mio. Per favore, {playername}, state indietro. Ho bisogno di spazio, non voglio che ti sporchi di sangue. Torna quando vorrai che smetta di colpirlo.
+dlga_prisionero_interrogationth:pretalkdc|{s2}^^Perfavore, perfavore, basta. Sono sicuro che sarò in grado di ottenere le informazioni con altri mezzi.
+dlga_prisionero_interrogation2:pretalkdc|Ti ho detto tutto quello che so.
 dlga_prisionero_interrogation2:prisionero_interrogation22|{s4}
-; dlga_prisionero_interrogation22:prisionero_interrogation31|Why did you attack Doccinga?
-; dlga_prisionero_interrogation22:prisionero_interrogation32|Sven Bull Neck was not with you. Where is he?
-; dlga_prisionero_interrogation22:prisionero_interrogation33|Sigurd 'Snake in the Eye' Ragnarsson is a name I have heard recently. Is he your Lord?
-; dlga_prisionero_interrogation22:prisionero_interrogation34|Tell me about Ragnar and his sons.
-; dlga_prisionero_interrogation22:prisionero_interrogation35|Olafr, were you in the attack on a merchant ship called the Woden Ric?
-; dlga_prisionero_interrogation22:pretalkdc|No more questions.
+dlga_prisionero_interrogation22:prisionero_interrogation31|Perchè avete attaccato Doccinga?
+dlga_prisionero_interrogation22:prisionero_interrogation32|Sven Bull Neck  non era con voi. Dov'è?
+dlga_prisionero_interrogation22:prisionero_interrogation33|Sigurd 'Occhi di Serpente' Ragnarsson è un nome che ho sentito di recente. È il tuo Signore?
+dlga_prisionero_interrogation22:prisionero_interrogation34|Parlami di Ragnar e dei suoi figli.
+dlga_prisionero_interrogation22:prisionero_interrogation35|Olafr, dov'eri durante l'attacco della nave mercantile chiamata Woden Ric?
+dlga_prisionero_interrogation22:pretalkdc|Non ho altre domande.
 dlga_prisionero_interrogation31:prisionero_interrogation22|{s5}
 dlga_prisionero_interrogation32:prisionero_interrogation22|{s5}
 dlga_prisionero_interrogation33:prisionero_interrogation22|{s5}
@@ -2153,19 +2153,19 @@ dlga_prisionero_interrogation34:prisionero_interrogation22|Non sò nulla!
 dlga_prisionero_interrogation343:prisionero_interrogation344|{s5}
 dlga_prisionero_interrogation344:prisionero_interrogation22|{s5}
 dlga_prisionero_interrogation35:prisionero_interrogation4|{s5}
-; dlga_prisionero_interrogation35:prisionero_interrogation22|I say nothing!
-; dlga_prisionero_interrogation4:prisionero_interrogation41|Why did you attack the ship? They were only travelers and traders!
-; dlga_prisionero_interrogation4:prisionero_interrogation42|Listen, this is very important. Did anyone survive your attack?
+dlga_prisionero_interrogation35:prisionero_interrogation22|Non ti dirò nulla!
+dlga_prisionero_interrogation4:prisionero_interrogation41|Perché avete attaccato la nave? Erano solo viaggiatori e commercianti!
+dlga_prisionero_interrogation4:prisionero_interrogation42|Ascolta, questo è molto importante. Qualcuno è sopravvissuto al vostro attacco?
 dlga_prisionero_interrogation41:prisionero_interrogation4|{s5}
 dlga_prisionero_interrogation42:prisionero_interrogation43|{s5}
-; dlga_prisionero_interrogation43:prisionero_interrogation44|My mother was on that ship.
-; dlga_prisionero_interrogation43:prisionero_interrogation45|Where did the prisoners go?
-; dlga_prisionero_interrogation44:prisionero_interrogation43|Well, we spared some men, even a madwoman who talked nonsense. Maybe your mother is among them.
-; dlga_prisionero_interrogation45:prisionero_interrogation22th|Sven Bull Neck took them with him. He was going to leave them in his hideout before continuing his journey north. The hideout is in Danmark. It is a good place and well defended, but I will not tell you where it is. I will not betray my masters just so you can kill me.
+dlga_prisionero_interrogation43:prisionero_interrogation44|Mia madre era su quella nave.
+dlga_prisionero_interrogation43:prisionero_interrogation45|Dove sono stati portati i prigionieri?
+dlga_prisionero_interrogation44:prisionero_interrogation43|Beh, abbiamo risparmiato alcuni uomini, anche una pazza che aveva perso il senno. Forse tua madre è tra questi.
+dlga_prisionero_interrogation45:prisionero_interrogation22th|Sven Bull Neck li ha presi con sé. li voleva lasciare nel suo nascondiglio, prima di continuare il viaggio verso nord. Il covo si trova in Danimarca. È un buon posto ed è ben difeso, ma non vi dirò dove si trova. Non tradirò i miei padroni, uccidetemi piuttosto.
 ; dlga_prisionero_interrogation22th:prisionero_interrogation22th2|{s3}^^There is no need to torture him for that information. There is a man in the port of Ribe who deals with the Vikings for their slaves. He is a Frisian from Doccinga who has thrived in Ribe as port master. One often finds him outside, by the docks. He is not a good person, but he will sell whatever information you may require. When you talk to him, please do not mention my name, because it was I who forced him to leave Doccinga some years ago.
-; dlga_prisionero_interrogation22th2:prisionero_interrogation22|I have nothing to add.
-; dlga_start:close_window.61|Awaiting orders.
-; dlga_start:close_window.62|I do not have time for you. Farewell.
+dlga_prisionero_interrogation22th2:prisionero_interrogation22|Non ho altro da aggiungere.
+dlga_start:close_window.61|Aspettate i miei ordini.
+dlga_start:close_window.62|Non ho tempo per te. Addio.
 ; dlga_start:harald_meeting1|Heill, captains! I have sent for you because tomorrow at noon we will reach the coasts of Northhymbre. It is time to release the details of the mission and talk about the problems that plague this fleet.
 ; dlga_start:sven_comprapr|The men are strong, with healthy teeth and hard muscles. The women are healthy, but they are sisters. They are the last slaves I have, so they go together in the package, or nothing. However, I'll give you a discount, and they will cost you only 900 peningas.
 ; dlga_start:svenlair_1|Who are you, and what do you want?
@@ -2186,8 +2186,8 @@ dlga_harald_meeting1:harald_meeting3|(Non sai niente)
 ; dlga_harald_meeting4_2:harald_meeting5_1|I'm sure that he has as many bastards among his servants!
 ; dlga_harald_meeting4_2:harald_meeting5_2|The issue is serious. How many men do Mierce and West Seaxe have?
 ; dlga_harald_meeting4_2:harald_meeting5_3|Sounds like a good plan, Harald. My men will go in the front!
-; dlga_harald_meeting4_2:harald_meeting5|I agree.
-; dlga_harald_meeting5_1:harald_meeting5|{s2}.
+dlga_harald_meeting4_2:harald_meeting5|Accetto.
+dlga_harald_meeting5_1:harald_meeting5|{s2}.
 ; dlga_harald_meeting5_2:harald_meeting5|That is hard to say. The information we have comes from merchants and travelers. They speak of thousands of men. It hardly matters, though. The Angles and the Saxons are weak people, fully domesticated by their kings. It will be like attacking housewives.
 ; dlga_harald_meeting5_3:harald_meeting5_4|{s2}^^Well, well. We have here an authentic toady. It seems there is always someone who is willing to stoop to any depth to gain favor with the boss.
 ; dlga_harald_meeting5_4:harald_meeting5|I cannot stand sycophants, {playername}. Now let's move on to the serious stuff.
@@ -2213,8 +2213,8 @@ dlga_harald_meeting1:harald_meeting3|(Non sai niente)
 ; dlga_svenfinal_ld2:svenfinal_ld11|You mean your mother, the seidr, right? Yes, she is with them. We saw her when she entered Readingum with Sven Bull Neck. I do not know how she was before, but now she is very gaunt and thin. I do not think she has long to live.
 ; dlga_svenfinal_ld3:svenfinal_ld11|I'm afraid not. My duties call me elsewhere. My role here was to make sure Sven Bull Neck would be here when you arrived. Apparently, my lord promised you this. He never breaks his word.
 ; dlga_svenfinal_ld11:close_window|Well, from what I've heard, you also are someone dangerous. I will leave the half a hundred men I promised my lord I would. They are brave warriors who have been promised a lot of gold to help you, so fight well. Farewell, {playername}, and good luck!
-; dlga_start:close_window.64|I do not have time for you. Farewell.
-; dlga_start:close_window.65|I do not have time for you. Farewell.
+dlga_start:close_window.64|Non ho tempo per te. Addio.
+dlga_start:close_window.65|Non ho tempo per te. Addio.
 ; dlga_svenlair_1:svenlair_2|I'm {playername}. I hear you have prisoners for sale.
 ; dlga_svenlair_1:close_window|I'm {playername}, but that's irrelevant, fool, because now we're going to kill you all!
 ; dlga_svenlair_1:svenlair_3|Goodness! I am lost! My apologies, I am leaving now.
@@ -2268,8 +2268,8 @@ dlga_problema_monjes_31:problema_monjes_1|{s2}
 ; dlga_monjesw_2:close_window|Very well, my good man. Farewell.
 ; dlga_regular_member_talk:followers_action|I've decided that you join our followers' party.
 ; dlga_followers_action:close_window|Very well, I will support you from the rear.
-; dlga_regular_member_talk:briton_action|Pater, I will donate 500 peningas to aid the families of my fallen men.
-; dlga_briton_action:regular_member_talk|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. Your men will feel better now.
+dlga_regular_member_talk:briton_action|Pater, Voglio donare 500 denari per aiutare le famiglie dei miei uomini caduti.
+dlga_briton_action:regular_member_talk|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. I tuoi uomini si sentono meglio ora.
 ; dlga_regular_member_talk:anglo1_action|Priest, my men need Odin. I will donate 500 peningas to you for your aid in this matter.
 ; dlga_anglo1_action:regular_member_talk|I will talk to your men about Odin, relentless Thor, and Freyja, the hope of the slain. It will encourage them to fight proudly by your side, to earn their seats at Walhalla or Folkvangr.
 ; dlga_regular_member_talk:porta_presentacion|Heill, what can you do in battle?
@@ -2282,7 +2282,7 @@ dlga_problema_monjes_31:problema_monjes_1|{s2}
 ; dlga_start:sacerdotes_party_talk| My {reg59?lady:lord}, we're only poor clerics trying to bring some light to the people of this land.
 ; dlga_sacerdotes_party_talk:close_window|Christian cleric, eh? It's time to reunite you with your Creator!
 ; dlga_sacerdotes_party_talk:sacerdote_pary_action|Pater, I will donate 500 peningas to the families of my fallen men for your aid.
-; dlga_sacerdote_pary_action:sacerdotes_party_talk|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. Your men will feel better now.
+dlga_sacerdote_pary_action:sacerdotes_party_talk|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. I tuoi uomini si sentono meglio ora.
 ; dlga_sacerdotes_party_talk:sacerdotes_party_talkle|And I'm only a poor hero on an important mission. Farewell.
 dlga_sacerdotes_party_talkle:close_window|Grazie. Addio.
 dlga_start:paganos_party_talk|Odino è il nostro Dio! Egli guida i nostri passi. Guerriero, di cosa hai bisogno?
@@ -3149,7 +3149,7 @@ dlga_lord_recruit_pretender:lord_recruit_3_dilemma_1|Si.
 dlga_lord_recruit_pretender:lord_recruit_1_relation|No, non è questo. C'è un'altra questione che vorrei discutere...
 dlga_lord_recruit_1_relation:lord_pretalk.2|{s12}
 dlga_lord_recruit_1_relation:lord_recruit_2|{s12}
-dlga_lord_recruit_2:lord_recruit_2_philosophy|Cosa pensate, in termini generali, sui Re, i lords e la politica?
+dlga_lord_recruit_2:lord_recruit_2_philosophy|Cosa pensate, in termini generali, sui Re, i signori e la politica?
 ; dlga_lord_recruit_2:lord_spouse_leave_faction|My husband, I believe that you should rethink your allegiance to {s11}
 dlga_lord_spouse_leave_faction:lord_spouse_leave_faction_2|{s9} è sempre stato un sovrano buono con me, ma io vi sento perplessa. Cosa suggerite di fare?
 dlga_lord_spouse_leave_faction:lord_spouse_leave_faction_2.1|Non vedo ragioni particolari per abbandorare {s9}, ma io ascolto il vostro consiglio. Cosa suggerite di fare?
@@ -3317,7 +3317,7 @@ dlga_lord_talk:lord_request_mission_ask|Avete alcuni compiti per me?
 dlga_lord_talk:combined_political_quests|Pensate che potremo lavorare insieme per far crescere la nostra posizione in questo regno?
 dlga_combined_political_quests:lord_pretalk|Dubito che voi ed io abbiamo qualche interesse comune.
 dlga_combined_political_quests:lord_pretalk.1|Hmm.. Forse potremmo discutere di questo argomento in sede privata, in un altro momento.
-dlga_combined_political_quests:lord_pretalk.2|Hmm... Ho un idea, ma dovreste essere al di fuori da ogni controversia. Se voi passaste un pò di tempo senza imbattervi in discussioni con altri lord del nostro regno, allora potremmo procedere oltre.
+dlga_combined_political_quests:lord_pretalk.2|Hmm... Ho un idea, ma dovreste essere al di fuori da ogni controversia. Se voi passaste un pò di tempo senza imbattervi in discussioni con altri signori del nostro regno, allora potremmo procedere oltre.
 ; dlga_lord_talk:lord_ask_resign_marshalship|I wish to resign as marshal.
 dlga_lord_ask_resign_marshalship:lord_pretalk|Così sia. Dovrò trovare qualcun'altro.
 dlga_lord_talk:lord_ask_enter_service|{s66}, sono venuto ad offrire la mia spada al vostro servizio come vassallo!
@@ -3359,12 +3359,12 @@ dlga_lord_give_order_answer:lord_give_order|Questo non sarebbe proprio corretto.
 ; dlga_lord_give_order_answer:lord_pretalk.1|All right, I will do that.
 dlga_lord_give_order_answer:lord_pretalk.2|Spiacente. Ho urgenti questioni personali di cui mi devo occupare.
 dlga_lord_talk:lord_give_order_call_to_arms_verify|Voglio iniziare una nuova campagna. Fate riunire l'esercito qui.
-dlga_lord_give_order_call_to_arms_verify:lord_give_order_call_to_arms_verify_2|Desiderate convocare tutti i lords per una nuova campagna?
+dlga_lord_give_order_call_to_arms_verify:lord_give_order_call_to_arms_verify_2|Desiderate convocare tutti i signori per una nuova campagna?
 dlga_lord_give_order_call_to_arms_verify_2:lord_give_order_call_to_arms|Si. Dobbiamo riunire tutte le nostre forze prima di marciare sul nemico.
 dlga_lord_give_order_call_to_arms_verify_2:lord_pretalk|Ho cambiato idea, non sarà necessario convocare tutti.
 ; dlga_lord_give_order_call_to_arms:lord_pretalk|All right, then I will send messengers and tell everyone to come here.
 dlga_lord_talk:lord_give_order_disband_army_verify|Voglio porre termine alla campagna e lasciare che ognuno torni a casa.
-dlga_lord_give_order_disband_army_verify:lord_give_order_disband_army_2|Volete porre fine alla campagna corrente e liberare i lord dal loro servizio?
+dlga_lord_give_order_disband_army_verify:lord_give_order_disband_army_2|Volete porre fine alla campagna corrente e liberare i signori dal loro servizio?
 dlga_lord_give_order_disband_army_2:lord_give_order_disband_army|Si. Non abbiamo più bisogno di avere tutte le forze concentrate qui.
 dlga_lord_give_order_disband_army_2:lord_pretalk|Ho cambiato idea, sarà meglio restare uniti per ora.
 ; dlga_lord_give_order_disband_army:lord_pretalk|All right, I will let everyone know that they are released from duty.
@@ -3457,7 +3457,7 @@ dlga_lord_marriage_proposal_female_pc_reax:lord_pretalk|{s14}
 dlga_lord_marriage_proposal_female_pc_reax:lord_marriage_proposal_female_pc_next_step|{s14}
 dlga_lord_marriage_proposal_female_pc_next_step:lord_marriage_proposal_female_pc_next_step_4|Suppongo che il prossimo passo per me sarebbe inviare un messaggio alla vostra famiglia, per chiedere loro il permesso di sposarvi, ma ritengo che voi siate in grado di prendere da solo questa decisione.
 dlga_lord_marriage_proposal_female_pc_next_step_4:lord_marriage_proposal_female_pc_next_step_5|Presumete il giusto.
-dlga_lord_marriage_proposal_female_pc_next_step_5:lord_marriage_proposal_female_pc_confirm_engagement|Molto bene, allora. Poichè non vi sono ostacoli al nostro matrimonio, possiamo considerarci vincolati a sposarci? Organizzerò una grande festa e potremo scambiarci i nostri voti davanti a tutti i lords del regno. Se siete disposto chiaramente...
+dlga_lord_marriage_proposal_female_pc_next_step_5:lord_marriage_proposal_female_pc_confirm_engagement|Molto bene, allora. Poichè non vi sono ostacoli al nostro matrimonio, possiamo considerarci vincolati a sposarci? Organizzerò una grande festa e potremo scambiarci i nostri voti davanti a tutti i signori del regno. Se siete disposto, chiaramente...
 dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_female_pc_confirm_engagement_yes|Sono disposto.
 dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_female_pc_confirm_engagement_no|Veramente vorrei riconsiderare la cosa.
 ; dlga_lord_marriage_proposal_female_pc_confirm_engagement_yes:close_window|Very well. I hope that, a little over a month from now, we shall be wed.{s12}
@@ -3536,7 +3536,7 @@ dlga_lord_ask_enter_service:lord_pretalk|Accetto giuramenti solo da persone di c
 ; dlga_lord_ask_enter_service:lord_ask_enter_service_female_2|My lady, you seem to have the makings of a good war leader. For a woman to show such skill is an uncommon thing in the Northlands, but not completely without precedent. Noblewomen have often taken command of armies after their husbands or fathers were slain or captured, for example.
 ; dlga_lord_ask_enter_service_female_2:lord_ask_enter_service_female_response|However, I have never heard of a king who granted a fief to a woman, no matter how valorous, simply because he needed an extra vassal. Were I to do such a thing, I would raise eyebrows across the Northlands. Men would say that I was besotted or bewitched, or that I aimed to overturn the natural order of things. As much as I regret it, I cannot afford to grant you a fief.
 dlga_lord_ask_enter_service_female_response:lord_ask_enter_service_female_solution_capture|E se dovessi prendere uno dei castelli del vostro nemico con la forza?
-dlga_lord_ask_enter_service_female_response:lord_ask_enter_service_female_solution_marriage|E se dovessi sposare uno dei vostri lords?
+dlga_lord_ask_enter_service_female_response:lord_ask_enter_service_female_solution_marriage|E se dovessi sposare uno dei vostri signori?
 dlga_lord_ask_enter_service_female_response:lord_ask_enter_service_female_solution_competitor|Forse uno dei vostri avversari dimostrerà di avere una mentalità più aperta.
 dlga_lord_ask_enter_service_female_response:lord_ask_enter_service|Sarei disposta a combattere per voi, anche senza un feudo.
 dlga_lord_ask_enter_service_female_response:lord_pretalk|Niente.
@@ -3550,7 +3550,7 @@ dlga_lord_give_oath_1:lord_give_oath_2|Ho la necessaria determinazione, {s65}.
 dlga_lord_give_oath_give_up:lord_pretalk|Prendetevi tutto il tempo necessario, mia signora.
 dlga_lord_give_oath_give_up:close_window.1|A che gioco state giocando, {playername}? Decidetevi e finitela di farmi perdere tempo!
 dlga_lord_give_oath_2:lord_give_oath_3|Bene. Ripetete le parole del giuramento con me: Giuro fedeltà a voi come legittimo governatore del {s41}.
-dlga_lord_give_oath_3:lord_give_oath_4|M'impegno ad essere fedele a voi, governatore del {s41}.
+dlga_lord_give_oath_3:lord_give_oath_4|M'impegno ad esservi fedele, governatore del {s41}.
 ; dlga_lord_give_oath_3:lord_give_oath_give_up|Excuse me, my {reg65?Lady:Lord}. I feel I need to think about this.
 ; dlga_lord_give_oath_4:lord_give_oath_5|I will remain as your loyal and devoted {reg59?follower:man} as long as my breath remains...
 ; dlga_lord_give_oath_5:lord_give_oath_6|I will remain as your loyal and devoted {reg59?follower:man} as long as my breath remains...
@@ -3572,7 +3572,7 @@ dlga_lord_enter_service_swear:lord_enter_service_swear_accepted|Giuro in questo 
 dlga_lord_enter_service_swear:lord_enter_service_swear_denied|Ho bisogno di un pò di tempo per pensarci.
 dlga_lord_enter_service_swear_denied:close_window|Avete deciso? A che gioco state giocando, {playername}? Decidetevi, e finitela di farmi perdere tempo.
 dlga_lord_enter_service_swear_accepted:lord_enter_service_swear_accepted_2|È un piacere darvi il benvenuto al servizio della mia casa. Da questo giorno, {playername}, siete combattente del {s5} con tutti i doveri ed i privilegi che ciò comporta.
-dlga_lord_enter_service_swear_accepted_2:close_window|Distruggerete tutti i nostri nemici dovunque li potrete trovare. Inoltre, avrete degli incarichi speciali da compiere entro un tempo determinato, potete svolgere compiti per alcuni miei lords o vassalli. Servite, lottate ed onorate i vostri giuramenti. Queste cose vi porteranno lontano, verso possibili promozioni. Che Dio guidi i vostri passi e vi protegga sempre affinchè voi possiate portare la vittoria al mio regno!
+dlga_lord_enter_service_swear_accepted_2:close_window|Distruggerete tutti i nostri nemici dovunque li potrete trovare. Inoltre, avrete degli incarichi speciali da compiere entro un tempo determinato, potete svolgere compiti per alcuni miei signori o vassalli. Servite, lottate ed onorate i vostri giuramenti. Queste cose vi porteranno lontano, verso possibili promozioni. Che Dio guidi i vostri passi e vi protegga sempre affinchè voi possiate portare la vittoria al mio regno!
 dlga_lord_ask_leave_service:lord_ask_leave_service_verify|Uhm. Il vostro giuramento è divenuto gravoso, {playername}? È insolito chiedere liberazione da un giuramento, ma in rispetto del vostro servizio eccellente, io non vi tratterrò se volete veramente farlo. Sebbene mi rattristi tutto questo.
 dlga_lord_ask_leave_service:lord_ask_leave_service_verify.1|Sciogliervi dal giuramento? Uhm... forse sarebbe la cosa migliore... Comunque, {playername}, dovete avere la certezza che è questo ciò che desiderate. Non è una cosa da prendere alla leggera.
 dlga_lord_ask_leave_service_verify:lord_ask_leave_service_2|È una scelta che non posso evitare, {s65}.
@@ -3685,7 +3685,7 @@ dlga_lord_tell_mission:lord_mission_deliver_message.1|Devo spedire una lettera a
 ; dlga_lord_tell_mission:lord_mission_deal_with_bandits_told|A group of bandits has taken refuge in my village of {s15}. They are plundering nearby farms, and getting rich and fat stealing my taxes and feasting on my cattle. I'd like nothing better than to go out there and teach them a lesson, but I have my hands full at the moment, so I can't do anything about it.
 dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_accepted|Non preoccupatevi, posso recarmi io a {s15} e prendermi cura di questa feccia per conto vostro.
 ; dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_rejected|You shall have to find help elsewhere. I am too busy.
-dlga_lord_mission_deal_with_bandits_accepted:close_window|Lo farete? Sappiate che vi sarò molto grato. Ecco del denaro per le spese della vostra campagna. Fate in modo che la lezione che impartirete serva da esempio, quei {s43}/i.   \t
+dlga_lord_mission_deal_with_bandits_accepted:close_window|Lo farete? Sappiate che vi sarò molto grato. Ecco del denaro per le spese della vostra campagna. Fate in modo che la lezione che impartirete serva da esempio, quei {s43}/s.
 dlga_lord_mission_deal_with_bandits_rejected:lord_pretalk|Ah... Molto bene allora, dimenticate questa conversazione.
 dlga_lord_tell_mission:lord_tell_mission_raise_troops|Nessun nobile dovrebbe ammetterlo, {playername}, ma stavo ispezionando i miei soldati l'altro giorno e ci sono uomini che non sanno da quale lato si tiene la spada! {s43} Siete un combattente con una reputazione notevole, {playername}. Addestrerete alcune truppe per me? Ve ne sarei molto grato.
 dlga_lord_tell_mission_raise_troops:lord_tell_mission_raise_troops_2|Di quanti uomini avete bisogno?
@@ -3934,7 +3934,7 @@ dlga_start:lady_start.3|{playername}... Che bello rivedervi. (Sussurrando:) Rico
 dlga_start:lady_start.4|{s12}
 ; dlga_lady_start:lady_betrothed|I have sad news. I have become betrothed to {s5} -- against my will, I should say! Oh, {playername}, I would so much rather be wed to you!
 dlga_lady_start:lady_betrothed.1|Bene {playername}... Sono stata fidanzata a {s5}. Non è più decoroso per noi continuare a vederci.
-dlga_lady_start:lady_other_suitor|Devo dirvelo... C'è un altro lord che ha rivolto le sue attenzioni su di me, anche se non lo sopporto. Temo che abbia delle mire su di me, e potrebbe riuscire a costringermi a sposarlo contro la mia volontà.
+dlga_lady_start:lady_other_suitor|Devo dirvelo... C'è un altro signore che ha rivolto le sue attenzioni su di me, anche se non lo sopporto. Temo che abbia delle mire su di me, e potrebbe riuscire a costringermi a sposarlo contro la mia volontà.
 dlga_lady_start:lady_talk|{s11}Probabilmente non è decoroso per noi indugiare troppo a lungo qui in conversazione, ma mi auguro di rivedervi presto.
 dlga_lady_start:lady_talk.1|{s11}
 ; dlga_lady_start:lady_talk.2|I was planning to retire for a little while, but perhaps we may have a chance to speak later...
@@ -4067,7 +4067,7 @@ dlga_lady_ask_for_quest_past3:lady_mission_rejected|Spiacente. Non posso aiutart
 dlga_lady_ask_for_quest:lady_pretalk.1|No, {playername}, non ho bisogno di un campione al momento.
 dlga_lady_mission_told:lady_mission_accepted|Come desiderate, {s65}, sarà fatto.
 dlga_lady_mission_told:lady_mission_rejected|{s66}, temo di non potervi aiutare al momento.
-dlga_lady_mission_accepted:close_window|Siete veramente {reg59?una gentildonna/un gentiluomo}, {playername}. Vi ringrazio per il vostro aiuto.
+dlga_lady_mission_accepted:close_window|Siete veramente {reg59?una gentildonna:un gentiluomo}, {playername}. Vi ringrazio per il vostro aiuto.
 dlga_lady_mission_rejected:close_window|Non aiuterete una donna in difficoltà? Dovreste vergognarvi, {playername}... Per favore andatevene, devo tornare ai miei preziosi ricami.
 ; dlga_lady_talk:lady_intrigue_lord|I think some lords have too much influence on our king. Can you help me to change that?
 ; dlga_lady_intrigue_lord:lady_intrigue_lord_2|Hmm, perhaps you're right. Who do you think exerts too much influence on our king?
@@ -4081,7 +4081,7 @@ dlga_lady_intrigue_lord_2:lady_intrigue_lord_3|{s1}
 ; dlga_lady_intrigue_lord_4:lady_restore_relation_cant_afford|I don't think I am really up for this.
 ; dlga_lady_intrigue_lord_5:lady_intrigue_lord_6|Excellent. Then I'll make appropriate arrangements to discredit {s10}.
 ; dlga_lady_intrigue_lord_6:lady_pretalk|Thank you for your help, my love.
-dlga_lady_talk:lady_restore_relation|Chiedo il vostro ausilio per migliorare i miei rapporti con un lord. Potete aiutarmi?
+dlga_lady_talk:lady_restore_relation|Chiedo il vostro ausilio per migliorare i miei rapporti con un signore. Potete aiutarmi?
 dlga_lady_restore_relation:lady_pretalk|{playername}, non vi conosco abbastanza per agire in vostro conto. Mi spiace.
 ; dlga_lady_restore_relation:lady_restore_relation_2|Hmm. I guess you got on the wrong side of somebody. Very well, with whom do you want to restore your relation?
 dlga_lady_restore_relation_2:lady_restore_relation_2b|{s1}
@@ -4128,10 +4128,10 @@ dlga_siege_won_seneschal_1:siege_won_seneschal_2|Siete il siniscalco?
 dlga_siege_won_seneschal_3:siege_won_seneschal_4|Molto bene, potete mantenere il vostro posto per il momento.
 dlga_siege_won_seneschal_3:siege_won_seneschal_4.1|Potete rimanere, ma vi terrò sotto controllo.
 ; dlga_siege_won_seneschal_4:siege_won_seneschal_5|Thank you, my {reg59?lady:lord}. If you do not mind my impudence, may I inquire as to what you wish to do with the castle?
-dlga_siege_won_seneschal_5:siege_won_seneschal_6|Lo venderò ad un altro lord.
+dlga_siege_won_seneschal_5:siege_won_seneschal_6|Lo venderò ad un altro signore.
 dlga_siege_won_seneschal_5:siege_won_seneschal_6.1|Intendo reclamarlo per me.
 dlga_siege_won_seneschal_5:siege_won_seneschal_list_options|Non ci ho ancora pensato. Quali possibilità ci sono?
-dlga_siege_won_seneschal_list_options:siege_won_seneschal_list_options_2|In accordo alle nostre leggi e tradizioni, potete fare svariate cose. Primo, potreste stanziare una guarnigione qui a proteggere il castello da ogni immediato contrattacco, poi richiedere un'udienza a qualche ricco lord e chiedergli di farvi un'offerta. Dovrebbe essere una somma considerevole, credetemi. Se non volete vendere, allora dovrete trovarvi un sovrano e protettore che voglia accettare un atto di vassallaggio da parte vostra. Senza un'investitura reale ed un esercito alle vostre spalle , avreste molte difficoltà a mantenere e difendere il castello. Sia voi che {s1} diverreste dei facili bersagli per qualsiasi persona che abbia dei soldati e qualche ambizione.
+dlga_siege_won_seneschal_list_options:siege_won_seneschal_list_options_2|In accordo alle nostre leggi e tradizioni, potete fare svariate cose. Primo, potreste stanziare una guarnigione qui a proteggere il castello da ogni immediato contrattacco, poi richiedere un'udienza a qualche ricco signore e chiedergli di farvi un'offerta. Dovrebbe essere una somma considerevole, credetemi. Se non volete vendere, allora dovrete trovarvi un sovrano e protettore che voglia accettare un atto di vassallaggio da parte vostra. Senza un'investitura reale ed un esercito alle vostre spalle , avreste molte difficoltà a mantenere e difendere il castello. Sia voi che {s1} diverreste dei facili bersagli per qualsiasi persona che abbia dei soldati e qualche ambizione.
 ; dlga_siege_won_seneschal_list_options_2:siege_won_seneschal_list_options_3|What do you mean, a liege lord and protector? I won this place by my own hand. I don't need anyone else!
 ; dlga_siege_won_seneschal_list_options_3:siege_won_seneschal_list_options_4|Of course you don't, my {reg59?lady:lord}. However, no lord in the land will recognize your claim to the castle unless it is verified by royal decree. They would call {s1} an outlaw stronghold and take it from you at the earliest opportunity. Surely, not even you could stand against a whole army.
 dlga_siege_won_seneschal_list_options_4:siege_won_seneschal_6|Uhm. Dovrò pensarci sopra.
@@ -4220,7 +4220,7 @@ dlga_prison_guard_release1:prison_guard_talk|Non importa
 dlga_prison_guard_release2:prison_guard_talk|Come desiderate.
 dlga_prison_guard_ask_prisoners:prison_guard_talk|Al momento, {s50} {reg1?sono imprigionati:è imprigionato} qui.{s49}
 ; dlga_prison_guard_visit_prison:close_window|Of course, {reg59?madam:sir}. Go in.
-dlga_prison_guard_visit_prison:prison_guard_visit_prison_2|Dovete avere il permesso dal lord per parlare ai prigionieri.
+dlga_prison_guard_visit_prison:prison_guard_visit_prison_2|Dovete avere il permesso dal signore per parlare ai prigionieri.
 ; dlga_prison_guard_visit_prison:prison_guard_visit_prison_nobody|There is nobody inside. Therefore, you can freely go inside and look around.
 ; dlga_prison_guard_visit_prison_nobody:close_window|All right, then I'll take a look at the prison.
 dlga_prison_guard_visit_prison_nobody:close_window.1|Ho molti e importanti compiti che mi attendono.
@@ -4636,7 +4636,7 @@ dlga_armorer_choose:close_window|Niente. Grazie.
 ; dlga_start:quastuosa_talk|Hello, {reg59?my lady:my lord} - she smiles and looks at you provocatively -, How can I serve you?
 dlga_quastuosa_pretalk:quastuosa_talk|Sono al vostro servizio, {playername}.
 ; dlga_quastuosa_talk:quastuosa_serve|I need to raise the morale of my men.
-; dlga_quastuosa_talk:quastuosa_serve2|I do not want anything for my men. I would like your company.
+dlga_quastuosa_talk:quastuosa_serve2|Non voglio che andiate dai miei uomini. Vorrei avere la vostra compagnia.
 dlga_quastuosa_talk:close_window|Non sono interessato. Addio.
 ; dlga_quastuosa_serve:quastuosa_serve3|Your men will have a big feast, with our girls serving the best mead, our finest food, and bards... It will cost you 1500 peningas.
 ; dlga_quastuosa_serve3:quastuosa_pretalk|I suppose my men have earned it. This time.
@@ -4699,7 +4699,7 @@ dlga_minstrel_courtship_questions_2:minstrel_player_advice_woo|Dopo avere incont
 ; dlga_minstrel_nobles:minstrel_nobles_2|Nobles are an odd lot. In the Northlands, a daughter is a political asset, to be given away to a lord with whom her father wishes to make an alliance. Yet the great families of this land idealize pure love between man and woman, and I have seen many a hardened warrior weep copious tears at the doomed ardour of Gwenhwyfar and Llwch Llenlleawg in the bards' songs -- even as he made plans to break his own daughter's heart.
 ; dlga_minstrel_nobles_2:minstrel_nobles_3|Fathers differ, of course. Some nobles will let their daughters choose a husband who pleases them. Others, however, feel that to allow their daughters any choice at all would be to diminish their own authority, and insist on imposing a groom whether she likes it or not.
 ; dlga_minstrel_nobles_3:minstrel_prequestions|But the majority will steer a middle course -- they will want to make the final decision about a groom, but will weigh their daughter's preferences heavily. Among other factors, a happy marriage is more likely to produce heirs, so there is still a place for courtship and for the use of skill and passion to win a lady's heart.
-dlga_minstrel_courtship_questions_2:minstrel_daughter_father|Cosa succede se una lady e suo padre hanno opinioni discordanti su un pretendente?  
+dlga_minstrel_courtship_questions_2:minstrel_daughter_father|Cosa succede se una signora e suo padre hanno opinioni discordanti su un pretendente?  
 ; dlga_minstrel_daughter_father:minstrel_daughter_father_2|It happens sometimes that a bride elopes. This is a major blow to the father's prestige, leading to lasting enmities. Indeed, a war may be fought over a woman. Now, that is a fine topic for a song.
 dlga_minstrel_daughter_father_2:minstrel_prequestions|Alla fin fine, tuttavia, la maggior parte delle spose si sottomette alla scelta dei loro genitori. La famiglia di una nobildonna è tutto per lei, e poche hanno il coraggio di rischiare la disapprovazione dei parenti per il bene di un uomo che a malapena conoscono. La donna può struggersi per il suo amore, ma accetterà ugualmente lo sposo... E senza un amore tragico che cosa potremmo cantare?
 ; dlga_minstrel_player_role:minstrel_player_role_2|Of course! Lords make a great deal of lineage, but in the end, lands and money speak louder than one's ancestors. Even though you are a foreigner, if you are coming up in the world, then many parents will consider you a fine catch.
@@ -4727,7 +4727,7 @@ dlga_minstrel_pretalk:minstrel_1|C'è qualcos'altro che vorreste sapere?
 dlga_farmer_from_bandit_village_1:farmer_from_bandit_village_2|Cosa vi turba? Parlate!
 ; dlga_farmer_from_bandit_village_1:farmer_from_bandit_village_2.1|What are you babbling about, peasant? Speak up.
 ; dlga_farmer_from_bandit_village_2:farmer_from_bandit_village_3|A band of brigands has taken refuge in our village. They take everything we have, force us to serve them, and do us much evil. If one of us so much as breathes a word of protest, they kill the poor soul on the spot right away. Our lives have become unbearable. I risked my skin and ran away to find someone who can help us.
-dlga_farmer_from_bandit_village_3:farmer_from_bandit_village_4|Perché non fate richiesta al lord del vostro villaggio? Lui dovrebbe prendersi cura dei suoi sudditi.
+dlga_farmer_from_bandit_village_3:farmer_from_bandit_village_4|Perché non fate richiesta al signore del vostro villaggio? Lui dovrebbe prendersi cura dei suoi sudditi.
 ; dlga_farmer_from_bandit_village_4:farmer_from_bandit_village_5|I did, {reg59?my lady:my lord}, but our lord's men did not let me see him and said he was occupied with more important matters and that we should deal with our own problem ourselves. Please {reg59?my lady:my lord}, you look like a {reg59?lady:man} of valor and a fearsome warrior, and you have no doubt many friends and soldiers at your service. If there is anyone who can help us, it's you.
 dlga_farmer_from_bandit_village_5:farmer_from_bandit_village_accepted|Essia, vi aiuterò. Dov'è questo villaggio?
 dlga_farmer_from_bandit_village_5:farmer_from_bandit_village_denied|Non posso aiutarvi adesso.
@@ -5234,7 +5234,7 @@ dlga_addonstoryabad10_1:addonstoryabad9_5|Non sono interessato. Perdonami.
 ; dlga_abad_thankyou:abad_pretalk|Thank you, {playername}. The brothers of {s3} will be praying nightly for your soul. Amen.
 ; dlga_abad_quest1:abad_pretalk.1|Pater, I don't believe I have time for this.
 ; dlga_abad_talk:abad_action|Pater, we need God to cleanse us of our sins. Here are 500 peningas for widows and orphans.
-; dlga_abad_action:close_window|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. Your men will feel better now.
+dlga_abad_action:close_window|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. I tuoi uomini si sentono meglio ora.
 ; dlga_abad_talk:abad_talk_conv|Pater, I would like to know more about converting people to the one true faith!
 ; dlga_abad_talk_conv:abad_talk_conv1|Sure, my son. I will be more than happy to talk to you about the matters of Christianity, but I don't have a lot of free time. Would you consider a donation to our monastery? I think 500 peningas will help my brothers make this place even more beautiful.
 ; dlga_abad_talk_conv1:abad_talk_conv2|Of course, here is my donation.
@@ -5649,7 +5649,7 @@ dlga_mayor_politics_give_realm_assessment:mayor_prepolitics|{s14}
 dlga_mayor_political_questions:mayor_internal_politics|Cosa mi potete dire sulla politica interna dei regni?
 ; dlga_mayor_internal_politics:mayor_internal_politics_2|Well, here in the {s4}, we are all united by our love for {s5} and support for {reg59?her:his} legitimate claim to the rulership of all these lands, but I have heard some talk of internal bickering in other realms...
 dlga_mayor_internal_politics_2:mayor_internal_politics_3|I signori di un regno spesso hanno idee molto diverse circa l'onore, la strategia, e il modo in cui un nobile dovrebbe comportarsi... Inoltre, essi sono in concorrenza tra di loro per conquistare il favore del Re, e controllano costantemente la loro posizione gerarchica, quella dei loro amici e della famiglia, nonché la condizione dei loro nemici.
-dlga_mayor_internal_politics_3:mayor_internal_politics_4|Alla base di tutte le tensioni c'è la possibilità che un signore possa abbandonare il proprio sovrano, e rendere omaggio ad un altro. In teoria, ogni lord ha prestato un giuramento di vassallaggio, ma in pratica, un vassallo può sempre trovare una scusa per assolvere se stesso da quest'obbligo. Il vassallo può affermare che il sovrano non è riuscito a tener fede ai suoi obblighi, come proteggere il vassallo e trattarlo con giustizia. In alternativa, il vassallo può affermare che il suo sovrano è in realtà un usurpatore, che un altro ha maggior diritto di regnare in luogo suo.
+dlga_mayor_internal_politics_3:mayor_internal_politics_4|Alla base di tutte le tensioni c'è la possibilità che un signore possa abbandonare il proprio sovrano, e rendere omaggio ad un altro. In teoria, ogni signore ha prestato un giuramento di vassallaggio, ma in pratica, un vassallo può sempre trovare una scusa per assolvere se stesso da quest'obbligo. Il vassallo può affermare che il sovrano non è riuscito a tener fede ai suoi obblighi, come proteggere il vassallo e trattarlo con giustizia. In alternativa, il vassallo può affermare che il suo sovrano è in realtà un usurpatore, che un altro ha maggior diritto di regnare in luogo suo.
 dlga_mayor_internal_politics_4:mayor_internal_politics_5|Sovrani e vassalli si controllano costantemente a vicenda e con grande attenzione. Se un Re ritiene che un suo vassallo stia per cambiare bandiera o stia per ribellarsi, allora può accusare il vassallo di tradimento ed espropriare i suoi possedimenti. Allo stesso modo, se un vassallo teme d'essere incriminato, può ribellarsi. Di solito, chi fa la prima mossa è in grado di controllare la fortezza del vassallo.
 ; dlga_mayor_internal_politics_5:mayor_prepolitics|Now, men do not trust a vassal who turns coat easily, nor do they trust a king who lightly throws around charges of treason. Those two factors can keep a realm together, but if relations between a vassal and a liege deteriorate far enough, things can become very tense indeed... In other lands, of course. These things could never happen here in the {s4}.
 dlga_mayor_political_questions:mayor_pretalk|È tutto. Grazie.
@@ -5679,7 +5679,7 @@ dlga_merchant_quest_looters_choice:merchant_quest_looters_brief|Va bene, lo far�
 dlga_merchant_quest_looters_choice:merchant_quest_stall|Mi spiace, ma al momento non posso accettare quest'incombenza.
 ; dlga_merchant_quest_looters_brief:close_window|Excellent! You'll find the looters roaming around the countryside, probably trying to rob more good people. Kill or capture the bastards, I don't care what you do with them. I'll pay you a bounty of 40 peningas on every band of looters you destroy, until all the looters are dealt with.
 dlga_merchant_quest_requested:merchant_quest_explain_2|Beh, c'è un favore molto grande che potreste farci... Come forse avrete sentito, alcuni {s10} hanno attraversato il confine per attaccare il nostro popolo. {s5} è messo sotto grande pressione da alcuni dei suoi più bellicosi vassalli affinchè risponda con una dichiarazione di guerra. Sfortunatamente, mentre i grandi signori di questa terra si arricchiscono con gli spargimenti di sangue, noi comuni cittadini ne saremmo presi in mezzo con gravi sofferenze.
-dlga_merchant_quest_explain_2:merchant_quest_brief|Non stiamo dicendo che {s5} dovrebbe trascurare quest'aggressione, anzi! Ma se incarica uno dei suoi lord di rispondere, allora il ciclo di provocazioni porterà necessariamente ad un confronto vero e proprio. Ora, se un estraneo dovesse intervenire e sconfiggere un signore di {s10} in battaglia, giustizia sarebbe fatta, e questo disinnescherebbe il clamore per la guerra. Se il lord sconfitto fosse un noto piantagrane, {s7}, allora il {s10} potrebbe anche dimenticarlo.
+dlga_merchant_quest_explain_2:merchant_quest_brief|Non stiamo dicendo che {s5} dovrebbe trascurare quest'aggressione, anzi! Ma se incarica uno dei suoi signore di rispondere, allora il ciclo di provocazioni porterà necessariamente ad un confronto vero e proprio. Ora, se un estraneo dovesse intervenire e sconfiggere un signore di {s10} in battaglia, giustizia sarebbe fatta, e questo disinnescherebbe il clamore per la guerra. Se il signore sconfitto fosse un noto piantagrane, {s7}, allora il {s10} potrebbe anche dimenticarlo.
 ; dlga_merchant_quest_brief:merchant_quest_retaliate_confirm|We need you to attack and defeat {s7}. This will not be an easy task, and that outsider would damage {reg59?her:his} relationship with the {s10}s, but we would be very grateful. We could not acknowledge a connection with that outsider, but we could be sure that {reg59?she:he} would be handsomely rewarded... Could you do this?
 dlga_merchant_quest_retaliate_confirm:merchant_quest_track_bandits_brief|Si, lo farò.
 ; dlga_merchant_quest_retaliate_confirm:merchant_pretalk|I would prefer not to get mixed up in such things.
@@ -5779,7 +5779,7 @@ dlga_merchant_quest_persuade_peace_3:merchant_quest_persuade_peace_4.1|Chi sono 
 ; dlga_merchant_quest_persuade_peace_4:merchant_quest_persuade_peace_5|They are {s12} from the {s15} and {s13} from the {s14}. Until they change their mind or lose their influence, there will be no chance of having peace between the two sides.
 dlga_merchant_quest_persuade_peace_5:merchant_quest_persuade_peace_6|Cosa può esser fatto in proposito?
 dlga_merchant_quest_persuade_peace_5:merchant_quest_persuade_peace_6.1|Ahimè, sembra che nulla possa invertire gli eventi...
-dlga_merchant_quest_persuade_peace_6:merchant_quest_persuade_peace_7|Ci sarebbe un modo per risolvere la questione. Una persona particolarmente determinata potrebbe forse persuadere uno di questi lord o entrambi ad accordarsi per la pace. Ed anche se fallisse, sarebbe possibile fare in modo che questi signori vengano sconfitti con la forza e ridotti in prigionia. Se fossero detenuti, infatti, perderebbero la loro influenza e non potrebbero più opporsi ad un accordo... Cosa ne pensate? Potreste farlo?
+dlga_merchant_quest_persuade_peace_6:merchant_quest_persuade_peace_7|Ci sarebbe un modo per risolvere la questione. Una persona particolarmente determinata potrebbe forse persuadere uno di questi signori o entrambi ad accordarsi per la pace. Ed anche se fallisse, sarebbe possibile fare in modo che questi signori vengano sconfitti con la forza e ridotti in prigionia. Se fossero detenuti, infatti, perderebbero la loro influenza e non potrebbero più opporsi ad un accordo... Cosa ne pensate? Potreste farlo?
 ; dlga_merchant_quest_persuade_peace_7:merchant_quest_persuade_peace_8|It seems difficult, but I will try.
 dlga_merchant_quest_persuade_peace_7:merchant_quest_persuade_peace_8.1|Se il prezzo fosse equo, potrei...
 dlga_merchant_quest_persuade_peace_7:merchant_quest_persuade_peace_8.2|Scordatelo. Questo non è un mio problema.

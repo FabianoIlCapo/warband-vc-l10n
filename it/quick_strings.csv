@@ -76,8 +76,8 @@ qstr_Effect_on_Score|Effetto sul Punteggio
 qstr_Settlements_owned_by|Insediamenti posseduti: {reg0}
 qstr_Friendly_Settlements|Insediamenti Amici: {reg0}
 qstr_Hostile_Settlements:|Insediamenti Ostili: {reg0}
-qstr_Friendly_Lords:_{reg|Lord Amici: {reg0}
-qstr_Enemy_Lords:_{reg0}|Lord Nemici: {reg0}
+qstr_Friendly_Lords:_{reg|Signori Amici: {reg0}
+qstr_Enemy_Lords:_{reg0}|Signori Nemici: {reg0}
 qstr_Victories:_{reg0}|Vittorie: {reg0}
 qstr_Defeats:_{reg0}|Sconfitte: {reg0}
 qstr_Quests_Completed:_{r|Missioni Completate: {reg0}
@@ -654,7 +654,7 @@ qstr_Visit_the_training_g|Visitare i campi di allenamento.
 qstr_Never:_Enter_the_pri|Mai: Entra nella prigione.
 qstr_Tour_the_grounds.|Visitare la piazza del forte.
 qstr_Visit_your_farmstead|Visitare la tua fattoria.
-qstr_Attempt_to_visit_a_l|Tentare di far visita a una lady.
+qstr_Attempt_to_visit_a_l|Tentare di far visita a una signora.
 qstr_Trade_with_locals.|Commercia con i locali.
 qstr_Travel_to_another_Po|Viaggia a un altro Porto.
 qstr_Manage_this_{reg0?to|Amministra questa {reg0?città:fortezza}.
@@ -940,7 +940,7 @@ qstr_{s1}^^{s2}._{s3}|{s1}^^{s2}. {s3}
 qstr_You_are_a_foreigner.|Sei uno straniero.
 qstr_You_come_from_far_aw|Tu vieni da lontano, cercando di conoscere il nord dell'Europa, un mondo costellato da decine di piccoli regni tutti vessati dai Vichinghi.
 qstr_You_are_Scoto_Pict|Sei uno Scoto-Pitto,
-qstr_a_descendant_of_an_a|un discendente di un antico popolo di origine incerta che hanno abitato parti del nord della Gran Bretagna, o di invasori Goidelic ora mescolati con essa.
+qstr_a_descendant_of_an_a|un discendente di un antico popolo di origine incerta che hanno abitato parte del nord della Britagna, o di invasori Gaelici ora mescolati con essi.
 qstr_You_are_Briton|Sei un Britanno,
 qstr_a_member_of_the_Celt|un membro del popolo celtico che abitavano la Gran Bretagna da prima dell'invasione Romana.
 qstr_You_are_Goidel|Sei un Gaelico,
@@ -997,8 +997,8 @@ qstr_>_Viking_Conquest_Ma|> Viking Conquest Campagna Principale
 qstr_A_storyline_campaign|Una campagna di trama con una missione principale e altre funzioni speciali.
 qstr_>_Sandbox_Campaign|> Campagna Sandbox
 qstr_No_main_story_or_spe|Nessuna storia principale o caratteristiche speciali. Sei libero di giocare come desideri.
-qstr_>_Lordly_Sandbox_Cam|> Campagna Lordly Sandbox
-qstr_You_start_as_a_lord_|Inizi come lord o lady di una fazione
+qstr_>_Lordly_Sandbox_Cam|> Campagna Signorile Sandbox
+qstr_You_start_as_a_lord_|Inizi come signore o signora di una fazione.
 qstr_>_Royal_Sandbox_Camp|> Campagna Sandbox Reale
 qstr_You_start_as_leader_|Iniziate come re di una fazione. Lunga vita al re!
 qstr_{s2}^^{s3}|{s2}^^{s3}
@@ -1568,7 +1568,7 @@ qstr_Go_to_Old_Captain.|Vai dal Capitano Anziano.
 ; qstr_The_king_of_Danmark_|The king of Danmark suggested that you talk to Ulf at his farmstead to convince him not to testify against you at the Assembly. In addition, {s10} said it would be a good idea to have good relations (more than 15 relation points) with the jarls of Danmark, so they speak favorably about you at the Assembly.
 ; qstr_You_have_recently_re|You have recently returned to the islands. It seems the world has gone mad. The Danish have advanced on West Seaxe and have fortified a camp at Readingum, where they have managed to defeat an attack by the Saxons. Now, West Seaxe is gathering the fyrd in Aescesdun, calling all possible men to finish off the Danish. West Seaxe is fighting desperately for its survival. The Danish, in turn, are hastening to march against them. It seems a large battle is in the future, and Sven will be in it. You must meet with {s11} as soon as possible in Readingum, near {s3}.
 ; qstr_You_have_recently_ret|You have recently returned to the islands. It seems the world has gone mad. The Danish have advanced on West Seaxe and have fortified a camp at Readingum, where they have managed to defeat an attack by the Saxons. Now, West Seaxe is gathering the fyrd in Aescesdun, calling all possible men to finish off the Danish. West Seaxe is fighting desperately for its survival. The Danish, in turn, are hastening to march against them. It seems a large battle is in the future, and Sven will be in it. You must meet with {s11} as soon as possible in Aescesdun, near {s3}.
-qstr_Go_to_your_lord.|Vai dal tuo lord.
+qstr_Go_to_your_lord.|Vai dal tuo signore.
 qstr_Go_to_talk_to_Aelfre|Vai a parlare con Aelfred (Sassoni dell'ovest) o Halfdan (Danesi).
 qstr_off|Spento
 qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} {reg2?accetta:accettano} l'offerta. Costo: {reg0} denari.
@@ -1619,7 +1619,7 @@ qstr_You_have_{reg22}_hea|Hai {reg22} capi di bestiame che pascolano qui.
 qstr_{s9}_wants_you_to_fo|{s9} ti vuole perché tu segua la sua armata fino a nuovo ordine.
 qstr_{s8}_of_the_{s9}|{s8} del {s9}
 qstr__As_you_reach_the_se|appena raggiungi l'insediamento, sei accolto dai tuoi uomini.
-qstr__As_you_reach_the_set|appena raggiungi l'insediamento, sei accolto dagli uomini di lord {s7}.
+qstr__As_you_reach_the_set|appena raggiungi l'insediamento, sei accolto dagli uomini di signore {s7}.
 qstr__You_are_greeted_by_|Sei accolto da uomini a te fedeli.
 qstr__You_are_greeted_by_m|Sei accolto da uomini a fedeli a {s7}.
 qstr_You_make_sure_they_s|Fate in modo che vedano che il loro signore, {s11}, è tenuto prigioniero dal vostro esercito.
@@ -1677,9 +1677,9 @@ qstr_You_ve_been_driven_a|Le tue forze sono state respinte dalle mura. Ora gli a
 qstr_You_ve_breached_the_|Hai occupato le mura della città, ma gli ostinati difensori continuano a resistere nelle strade! Dovrai vedertela con loro prima di poter attaccare la roccaforte nel cuore della città.
 qstr_The_town_centre_is_y|Il centro città è tuo, ma i rimanenti difensori hanno ripiegato nel castello. Devono cadere prima che tu possa completare la tua vittoria.
 qstr_The_remaining_defend|I rimanenti difensori si sono ritirati nel castello come loro ultima difesa. Devi andare là dentro e schiacciare ogni rimanente resistenza.
-qstr_However_since_you_ar|Comunque, dato che tu non sei {reg59?seguace:seguace} di {s9}, non c'è possibilità che lui voglia renderti {reg59?la lady:il lord} di {reg8?questa città:questo forte}.
+qstr_However_since_you_ar|Comunque, dato che tu non sei {reg59?seguace:seguace} di {s9}, non c'è possibilità che lui voglia renderti {reg59?la signora:il signore} di {reg8?questa città:questo forte}.
 qstr_The_enemy_has_been_f|Il nemico è stato costretto alla ritirata. L'assalto è finito, ma l'assedio continua.
-qstr_As_you_approach_you_|Come ti avvicini, le guardie del forte ti avvistano, ti danno il benvenuto e aprono i cancelli per {reg59?la loro regina:il loro re}.
+qstr_As_you_approach_you_|Come ti avvicini, le guardie del forte ti avvistano, ti danno il benvenuto e aprono i cancelli per {reg59?la loro Regina:il loro Re}.
 qstr_As_you_approach_you_a|Come ti avvicini, le guardie del forte ti avvistano, ti danno il benvenuto e aprono i cancelli per {reg59?la loro signora:il loro signore}.
 qstr_^Christians_aren_t_w|^I cristiani non sono i benvenuti.
 qstr_^Christians_are_acce|^I cristiani sono accettati.
@@ -1719,7 +1719,7 @@ qstr_People_aren_t_very_h|Le persone non sono molto felici della vostra presenza
 qstr_^This_town_is_a_bast|^Questa città è un bastione della vostra fede.
 qstr__As_you_reach_the_sett|appena raggiungi l'insediamento, sei accolto dai tuoi uomini.^{s15}
 qstr_{s11}^{s15}|{s11}^{s15}
-qstr__As_you_reach_the_settl|appena raggiungi l'insediamento, sei accolto dagli uomini di lord {s7}.^{s15}
+qstr__As_you_reach_the_settl|appena raggiungi l'insediamento, sei accolto dagli uomini di signore {s7}.^{s15}
 qstr__This_fort_seems_to_| Questo forte non appartiene a nessuno.^{s15}
 qstr_You_are_greeted_by_m|Sei accolto da uomini a te fedeli.^{s15}
 qstr_You_are_greeted_by_me|Sei accolto da uomini a fedeli a {s7}.^{s15}
@@ -1770,7 +1770,7 @@ qstr_Kingdom_Fails_to_Res|Regno che non reagisce: Il {s1} non ha risposto alle p
 qstr_There_has_been_an_al|C'è stato un presunto incidente di frontiera: {s9}
 qstr_There_has_been_an_all|C'è stato un presunto incidente di frontiera:il popolo di {s4} sta considerando una guerra contro {s3}.
 qstr_Border_incident:_Wor|Incidente di confine: gira voce che {s9}. Anche se non sai se le voci sono vere, sai una cosa - questo episodio apparentemente minore ha suscitato passioni tra le persone del {s4}, rendendo più facile per loro andare in guerra contro il {s3}...
-qstr_The_great_lords_of_y|I maggiori lords del tuo regno intendono riunirsi nel tuo salone {s15} a {s10} per una festa.
+qstr_The_great_lords_of_y|I maggiori signori del tuo regno intendono riunirsi nel tuo salone {s15} a {s10} per una festa.
 qstr_^{s64}^|^{s64}^
 qstr_^^Note_that_as_long_|^^Nota che finchè sarai Comandante in Capo, i signori del regno si aspetteranno che tu li guidi nella campagna militare. Per cui, se sei in attesa di partecipare ad una festa, che sia di matrimonio o di altro tipo, potresti riterenere opportuno rinunciare al ruolo di comandante parlando al tuo sovrano.
 ; qstr_Strange..._You_ve_be|Strange... You've been asleep, but you can't remember any nightmares. What you remember clearly are Viking warriors boarding the Woden Ric, plunging their weapons into the bodies of the captain and sailors, and Bodo, the Cantabrian, defending himself like a lion until cornered. You hear his words in your consciousness, '{playername}! Fight! I am yet with you!'^^You remember the death -- your death -- when your enemies fell upon you. You still feel the wooden floor of the boat smash into your cheek before you could hardly breathe a goodbye to the world. Your eyes met your mother's, just before the end, as a huge Viking, dressed in iron -- could he be Sven? -- cracked her head with his spear and threw her body to the side.^^You crawled, leaving a trail of blood, preferring to give your body to the fish, but you remember no more.^^Are you dead? But if you're dead, why do you feel the sore muscles of your body, or the heat from a nearby fire? How is it that you can clench your hands, open your eyes and distinguish the beams of a roof over you?^^And if you're alive, who has saved you, why and how?
@@ -2444,7 +2444,7 @@ qstr_2000.|2000.
 qstr_1000|1000
 qstr_I_am_{s4}_the_ruler_|Sono {s4}, il governatore di {s6}
 qstr_I_am_{s4}_a_vassal_o|Sono {s4}, vassallo di {s6}
-qstr_{s9}{reg5?_and_the_l|{s9}{reg5? e il lord di {s8}.:.
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? e il signore di {s8}.:.
 qstr_My_name_is_{s4}_and_|Il mio nome è {s4}, e arrivo da {s8}.Sto cercando avventure e gloria sui campi di battaglia.
 qstr___The_ugly_face_of_a|--La Brutta faccia di un uomo sorridente appare prima di te.--
 ; qstr_Fergus_Mael_Bresail_|Fergus, Mael Bresail's man at the farm, told you that the feast was prepared for twenty-five people. You must bring more companions.
@@ -2452,7 +2452,7 @@ qstr___The_ugly_face_of_a|--La Brutta faccia di un uomo sorridente appare prima 
 ; qstr_Around_you_everybody|Around you, everybody becomes busy on the farm as the feast starts.
 ; qstr_The_chronicler_has_p|The chronicler has promised to write about your life and proclaim to the world that you are Konungr of the Norse if you subjugate the Norse towns: {s3}, {s9} and {s11}.
 ; qstr_The_chronicler_has_pr|The chronicler has promised to write about your life and proclaim to the world that you are the Vrenhin Lloegr if you subjugate the Briton towns: {s3}, {s9} and {s11}.
-; qstr_The_chronicler_has_pro|The chronicler has promised to write about your life and proclaim to the world that you are the Ard Ruire of Eriu if you subjugate the Goidelic towns: {s3}, {s9} and {s11}.
+qstr_The_chronicler_has_pro|Il cronista ha promesso di scrivere della tua vita proclamndo al mondo che tu sei il Ard Ruire di Eriu se sottometterai le città Gaeliche: {s3}, {s9} e {s11}.
 ; qstr_The_chronicler_has_prom|The chronicler has promised to write about your life and proclaim to the world that you are the Brytenwalda over all Englaland if you subjugate the Angle and Saxon towns: {s3}, {s9} and {s11}.
 ; qstr_Mael_Bresail_has_use|Mael Bresail has used you to kill Flaithbertach's children. Now, many of the lords of northern Ireland hate you for being a murderer of royalty. Your options are limited, but it seems that all involve meeting with Mael Bresail on his farm near {s3}. He promised to give you a lot of peningas. Whatever you decide at this meeting will determine your destiny.
 ; qstr_Mael_Bresail_has_used|Mael Bresail has used you to kill Flaithbertach's children. Now, many of the lords of northern Ireland hate you for being a murderer of royalty. Your options are limited, but it seems that all involve meeting with Mael Bresail on his farm near {s3}. Whatever you decide at this meeting will determine your destiny.
@@ -2894,7 +2894,7 @@ qstr_{s9}_asked_you_to_hu|{s9} ti ha chiesto di inseguire un fuggitivo chiamato 
 qstr_{s9}_asked_you_to_as|{s9} ti ha chiesto di assassinare un mercante locale a {s3}.
 qstr_{s9}_has_asked_you_t|{s9} ti ha chiesto di parlare con una spia a {s13}.
 qstr_{s11}_asked_you_to_f|{s11} ti ha chiesto di seguire la spia che lascerà {s12}. Fa attenzione a non permettere che la spia ti veda durante il viaggio, o potrebbe insospettirsi e tornare indietro. Una volta che la spia si sarà incontrata con il suo complice, dovrai catturarli e riportarli a {s11}.
-qstr_{s11}_asked_you_to_c|{s11} ti ha chiesto di catturare un lord del {s13}, un lord qualsiasi, e di portare la vittima a {s11} per essere posta sotto custodia.
+qstr_{s11}_asked_you_to_c|{s11} ti ha chiesto di catturare un signore del {s13}, un signore qualsiasi, e di portare la vittima a {s11} per essere posta sotto custodia.
 qstr_{s9}_asked_you_to_le|{s9} ti ha chiesto di prestargli il tuo compagno {s3} per una settimana.
 qstr_{s9}_asked_you_to_col|{s9} ti ha chiesto di riscuotere il debito di {reg4} denari {s3} dovuti a lui. {s3} era a {s4} quando la missione ti è stata affidata.
 qstr_{s11}_gave_you_a_fak|{s11} ti ha dato una lettera falsa per ingannare {s13} bandendo il suo vassallo {s16}. Devi andare vicino {s14}, dare la lettera a uno dei tuoi {s15} e mandarlo nella città come un messaggero, facendo in modo che creda veri i suoi ordini perché sia convincente.
