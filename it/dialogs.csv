@@ -1176,7 +1176,7 @@ dlga_companion_reginhard4x:companion_reginhard43|Sono una persona di fiducia, co
 ; dlga_companion_reginhard42:companion_reginhard4|Thiaderd? Don't you know him? I cannot describe in words what kind of a person he is. The men would die for him, it is true. The Danish are afraid because they know that someday Thiaderd will raise an army of Frisians and throw them out of our land.
 dlga_companion_reginhard43:companion_reginhard5|Perché? Questo è un segreto che non voglio rivelare.
 dlga_companion_reginhard5:companion_reginhard51|Beh, desidero unirmi a loro. Sono un ribelle!
-dlga_companion_reginhard5:companion_reginhard52|Ho una proposta d'affari per Thiaderd. Pagherò 300 deanri per sapere dov'è.
+dlga_companion_reginhard5:companion_reginhard52|Ho una proposta d'affari per Thiaderd. Pagherò 300 denari per sapere dov'è.
 dlga_companion_reginhard5:companion_reginhard54|I tuoi segreti saranno i miei segreti, anche se dovrò farteli sputare. (Colpiscilo con Forza)
 dlga_companion_reginhard5:companion_reginhard53|Se mi parli di Thiaderd, sicuramente capirà e ti perdonerà. (Persuasione)
 dlga_companion_reginhard5:close_window|Beh, ho capito. Tornerò con più soldi -- 300 denari, per esempio.
@@ -2167,123 +2167,123 @@ dlga_prisionero_interrogation22th2:prisionero_interrogation22|Non ho altro da ag
 dlga_start:close_window.61|Aspettate i miei ordini.
 dlga_start:close_window.62|Non ho tempo per te. Addio.
 ; dlga_start:harald_meeting1|Heill, captains! I have sent for you because tomorrow at noon we will reach the coasts of Northhymbre. It is time to release the details of the mission and talk about the problems that plague this fleet.
-; dlga_start:sven_comprapr|The men are strong, with healthy teeth and hard muscles. The women are healthy, but they are sisters. They are the last slaves I have, so they go together in the package, or nothing. However, I'll give you a discount, and they will cost you only 900 peningas.
-; dlga_start:svenlair_1|Who are you, and what do you want?
-; dlga_start:revenge_kingmen|Heill, {playername}! Heill, Egil, vinr! We received your message and we are here. We hope we are in time to come to the party.
-; dlga_start:close_window.63|Gods protect us!
-; dlga_revenge_kingmen:revenge_kingmen2|Sure, Harald! We're still waiting for the men of Sigurd 'Snake in the Eye.' My friend, here, is eager to meet Sven Bull Neck.
-; dlga_revenge_kingmen2:revenge_kingmen3|Welcome, Harald. We appreciate the help of King Horik.
-; dlga_revenge_kingmen3:revenge_kingmen4|I'm sure of it. Until the time comes, I will keep my men hidden, ready to intervene if things get ugly. The king was very clear, {playername}. You must not begin hostilities. In fact, he wants you to avoid confrontation if at all possible.
-; dlga_revenge_kingmen4:revenge_kingmen5|It will not be me who starts this battle. I promise.
-; dlga_revenge_kingmen4:revenge_kingmen5.1|Sven Bull Neck did me much evil. I promise nothing.
-; dlga_revenge_kingmen5:close_window|The king is a man who likes his wishes to be executed. Now we enter the farm. My men are hungry and thirsty.
-; dlga_harald_meeting1:harald_meeting21|I am especially interested in this meeting. I have long been waiting to hear from my mother.
+dlga_start:sven_comprapr|Gli uomini sono forti, con i denti sani e i muscoli duri. Le donne sono in buona salute, ma sono sorelle. Sono gli ultimi schiavi che ho, o li prendete tutti o niente. Tuttavia, ti farò uno sconto, ti costeranno solo 900 denari.
+dlga_start:svenlair_1|Chi sei e cosa vuoi?
+dlga_start:revenge_kingmen|Heill, {playername}! Heill, Egil, vinr! Abbiamo ricevuto il tuo messaggio e siamo accorsi. Speriamo di essere arrivati in tempo per la festa.
+dlga_start:close_window.63|Gli dei vi proteggano!
+dlga_revenge_kingmen:revenge_kingmen2|Certo, Harald! Stiamo ancora aspettando gli uomini di Sigurd 'Occhi di Serpente.' Il mio amico, qui, è impaziente di incontrare Sven Bull Neck.
+dlga_revenge_kingmen2:revenge_kingmen3|Benvenuto, Harald. Apprezziamo l'aiuto di Re Horik.
+dlga_revenge_kingmen3:revenge_kingmen4|Siamo qui per questo. Fino a quando non arriverà il momento, terrò i miei uomini nascosti, pronti ad intervenire se le cose si mettono male. Il Re è stato molto chiaro, {playername}. Non dobbiamo iniziare noi le ostilità. In realtà, egli vorrebbe evitare il confronto, se possibile.
+dlga_revenge_kingmen4:revenge_kingmen5|Non sarò io a iniziare questa battaglia. Lo prometto.
+dlga_revenge_kingmen4:revenge_kingmen5.1|Sven Bull Neck mi ha fatto molto arrabbiare. Non posso assicurarti nulla.
+dlga_revenge_kingmen5:close_window|Il Re è un uomo che apprezza chi ubbidisce ai suoi ordini. Ora andiamo alla fattoria. I miei uomini hanno fame e sete.
+dlga_harald_meeting1:harald_meeting21|Sono particolarmente interessato a questo incontro. Sono stato a lungo in attesa di avere notizie da mia madre.
 dlga_harald_meeting1:harald_meeting3|(Non sai niente)
-; dlga_harald_meeting21:harald_meeting3|I think you may be wondering what our guest may have to say about this, but first we go to the most urgent matter.
+dlga_harald_meeting21:harald_meeting3|Parleremo di ciò col nostro ospite, ma prima abbiamo una questione più urgente.
 ; dlga_harald_meeting3:harald_meeting4|In Northhymbre, our Danish brothers have become strong. They control the kingdom through a puppet king. There are small uprisings of Angles, but these are localized and severely repressed. Nothing serious. The latest news we have is that the sons of Ragnar have moved south and taken a place, known as Snotingaham, in Mierce. The king of Mierce has not taken this well. He has besieged them there with his army, supported by the king of West Seaxe. We fear that the Ragnarssons may be in a hard place, so our mission is to go to Jorvik and join the forces that are gathering under Rathbarth, another of the sons of Ragnar, in support of his brothers. From there we will move south to meet the Angles and Saxons. With a little luck, we will kill their kings and the road south will be opened for plunder. You will come back rich to your wife and kids this year.
-; dlga_harald_meeting4:harald_meeting4_1|I hope so. I have too many mouths to feed!
-; dlga_harald_meeting4_1:harald_meeting4_2|{s2}^^You should have thought of that before having three wives and twenty children!
-; dlga_harald_meeting4_2:harald_meeting5_1|I'm sure that he has as many bastards among his servants!
-; dlga_harald_meeting4_2:harald_meeting5_2|The issue is serious. How many men do Mierce and West Seaxe have?
-; dlga_harald_meeting4_2:harald_meeting5_3|Sounds like a good plan, Harald. My men will go in the front!
+dlga_harald_meeting4:harald_meeting4_1|Lo spero. Ho già troppe bocche da sfamare!
+dlga_harald_meeting4_1:harald_meeting4_2|{s2}^^Avresti dovuto pensarci prima di avere tre mogli e venti bambini!
+dlga_harald_meeting4_2:harald_meeting5_1|Sono sicuro che ha tanti bastardi tra i suoi servi!
+dlga_harald_meeting4_2:harald_meeting5_2|Il problema è serio. Quanti uomini hanno Mierce e West Seaxe?
+dlga_harald_meeting4_2:harald_meeting5_3|Suona bene come piano, Harald. I miei uomini andranno davanti!
 dlga_harald_meeting4_2:harald_meeting5|Accetto.
 dlga_harald_meeting5_1:harald_meeting5|{s2}.
-; dlga_harald_meeting5_2:harald_meeting5|That is hard to say. The information we have comes from merchants and travelers. They speak of thousands of men. It hardly matters, though. The Angles and the Saxons are weak people, fully domesticated by their kings. It will be like attacking housewives.
+dlga_harald_meeting5_2:harald_meeting5|Questo è difficile da dire. Le informazioni che abbiamo provengono da mercanti e viaggiatori. Si parla di migliaia di uomini. Difficilmente importa, però. Gli Angli e i Sassoni sono persone deboli, completamente addomesticati dai loro Re. Sarà come attaccare delle casalinghe.
 ; dlga_harald_meeting5_3:harald_meeting5_4|{s2}^^Well, well. We have here an authentic toady. It seems there is always someone who is willing to stoop to any depth to gain favor with the boss.
-; dlga_harald_meeting5_4:harald_meeting5|I cannot stand sycophants, {playername}. Now let's move on to the serious stuff.
+dlga_harald_meeting5_4:harald_meeting5|Non sopporto i leccapiedi, {playername}. Ora passiamo alle cose serie.
 ; dlga_harald_meeting5:harald_meeting6|{s2}^^Although everything is clear and our goal is near, it seems that problems with Sven Bull Neck don't stop cropping up. This captain, Oleif, is now with us, and he has very serious news. Go ahead, Oleif.
 ; dlga_harald_meeting6:harald_meeting7|{s2}^^I will not beat around the bush. Sven Bull Neck is unwilling to share command with Harald Haraldsson. At first opportunity, he will kill Harald and take the command. It may occur as we land, though I cannot be sure. Maybe my desertion of his party will change his mind.
 ; dlga_harald_meeting7:harald_meeting8|I am making a guard rotation during the trip. When we land, I will challenge Sven to a duel to the death. Sven Bull Neck is a lunatic, but he's a dangerous lunatic.
-; dlga_harald_meeting8:harald_meeting8_1|Sounds good. You have my full support, even if you decide to attack his boat while he is still unprepared.
-; dlga_harald_meeting8_1:harald_meeting9|You have my support too, Harald. That man, Sven, is very dangerous.
-; dlga_harald_meeting9:harald_meeting11|I've been waiting long enough! What about my mother?
-; dlga_harald_meeting9:harald_meeting11.1|You have my support, but I'd like to ask about my mother.
-; dlga_harald_meeting9:harald_meeting10_3|I think Sven Bull Neck would make a better commander of this fleet than you.
-; dlga_harald_meeting10_3:harald_meeting11|I see. May you be a slave to Sven Bull Neck like your mother. I despise you, {playername}, and you give me shame, but the Assembly forced us to work together. I will tell you as you have not heard.
+dlga_harald_meeting8:harald_meeting8_1|Suona bene. Avete il mio pieno sostegno, anche se abbiamo deciso di attaccare la sua barca mentre è ancora impreparato.
+dlga_harald_meeting8_1:harald_meeting9|Avete il mio sostegno, Harald. Quell'uomo, Sven, è molto pericoloso.
+dlga_harald_meeting9:harald_meeting11|Ho aspettato abbastanza a lungo! Cosa puoi dirmi riguardo a mia madre?
+dlga_harald_meeting9:harald_meeting11.1|Hai il mio appoggio, ma prima vorrei sapere di mia madre.
+dlga_harald_meeting9:harald_meeting10_3|Penso che Sven Bull Neck comanderebbe meglio di voi questa flotta.
+dlga_harald_meeting10_3:harald_meeting11|Vedo. Vi augurò che diventiate uno schiavo di Sven Bull Neck come tua madre. Ti disprezzo, {playername}, tu sei una persona vergognosa, ma l'Assemblea ci ha costretto a lavorare insieme. Vi dirò ciò che non avete sentito.
 ; dlga_harald_meeting11:harald_meeting12|A woman travels with Sven Bull Neck. She is his seidr, one who accepts the spirit of the crow and speaks the words of Odin. Everybody reveres her, as she is a woman touched by the gods. Sven Bull Neck has married her in hopes of having a child touched by the gods, but she is old and her belly is dry. If she's your mother, I do not think she remembers you, as she has a curse that does not allow her to keep memories overnight.
-; dlga_harald_meeting12:harald_meeting13|It looks like your mother now serves Sven Bull Neck. I hope you're prepared to deal with this when things get ugly.
-; dlga_harald_meeting13:harald_meeting13_1|I...
-; dlga_harald_meeting13_1:harald_meeting13_2|--All around you, the sudden tumult and shouting of men drowns out your answer. A warrior bursts into the meeting. He is hot, and his eyes show panic.--
-; dlga_harald_meeting13_2:harald_meeting13_3|Hersir Harald, sir! Sven Bull Neck has attacked us! Half the fleet is charging us! Thor help us, Sven has caught us unprepared.
-; dlga_harald_meeting13_3:close_window|{s3}^^Captains, return to your ships and lead your crew. Sven Bull Neck will pay dearly for this attack. If we should lose this battle, remember to inform Rathbarth Ragnarsson about this betrayal by Sven Bull Neck. Good luck. Now, to battle!
-; dlga_start:svenfinal_ld1|{playername}! My lord advised me that you'd come. Sven Bull Neck has taken Readingum and has many men with him, mainly Danish, who have sworn allegiance. They are tough, battle-hardened people, same as Sven, who is a legend. I would not like to be in the shoes of you or your men.
-; dlga_svenfinal_ld1:svenfinal_ld11|I am not afraid. It is the time of reckoning.
-; dlga_svenfinal_ld1:svenfinal_ld2|Do you know if a woman is with him?
-; dlga_svenfinal_ld1:svenfinal_ld3|Will you not stay and fight with us?
-; dlga_svenfinal_ld2:svenfinal_ld11|You mean your mother, the seidr, right? Yes, she is with them. We saw her when she entered Readingum with Sven Bull Neck. I do not know how she was before, but now she is very gaunt and thin. I do not think she has long to live.
+dlga_harald_meeting12:harald_meeting13|Sembra come tua madre ora serva Sven Bull Neck. Spero che tu sia preparato ad affrontare questo quando le cose si metteranno male.
+dlga_harald_meeting13:harald_meeting13_1|Io...
+dlga_harald_meeting13_1:harald_meeting13_2|--Sono tutti intorno a te, all'improvviso senti un rumore le grida di alcuni uomini affogano la tua risposta. Un guerriero irrompe nella riunione. È accaldato e sembra nel panico.--
+dlga_harald_meeting13_2:harald_meeting13_3|Hersir Harald, signore! Sven Bull Neck ci ha attaccato! Metà della flotta è andata perduta! Thor ci aiuti, Sven ci ha colto impreparati.
+dlga_harald_meeting13_3:close_window|{s3}^^Capitani, tornate alle vostre navi e guidate le vostre squadre. Sven Bull Neck pagherà a caro prezzo  questo attacco. Se dovessimo perdere questa battaglia, informerò Rathbarth Ragnarsson per questo tradimento di Sven Bull Neck. Buona fortuna. Ora, combattiamo!
+dlga_start:svenfinal_ld1|{playername}! Il mio signore mi ha avvertito che saresti venuto. Sven Bull Neck ha preso Readingum e ha molti uomini con se, soprattutto Danesi, che gli hanno giurato fedeltà. Sono duri, gente agguerrita, come Sven, che è una leggenda. Non vorrei essere nei vostri panni o in quelli dei vostri uomini.
+dlga_svenfinal_ld1:svenfinal_ld11|Non sono spaventato.È il momento della resa dei conti.
+dlga_svenfinal_ld1:svenfinal_ld2|Sapete se c'è una donna con lui?
+dlga_svenfinal_ld1:svenfinal_ld3|Non rimanete e combattere con noi?
+dlga_svenfinal_ld2:svenfinal_ld11|Volete dire vostra madre, seidr, giusto? Sì, è con loro. L'abbiamo vista quando Readingum arrivò con Sven Bull Neck. Non so come era prima, ma adesso è molto scarna e magra. Non credo che abbia ancora molto da vivere.
 ; dlga_svenfinal_ld3:svenfinal_ld11|I'm afraid not. My duties call me elsewhere. My role here was to make sure Sven Bull Neck would be here when you arrived. Apparently, my lord promised you this. He never breaks his word.
 ; dlga_svenfinal_ld11:close_window|Well, from what I've heard, you also are someone dangerous. I will leave the half a hundred men I promised my lord I would. They are brave warriors who have been promised a lot of gold to help you, so fight well. Farewell, {playername}, and good luck!
 dlga_start:close_window.64|Non ho tempo per te. Addio.
 dlga_start:close_window.65|Non ho tempo per te. Addio.
-; dlga_svenlair_1:svenlair_2|I'm {playername}. I hear you have prisoners for sale.
-; dlga_svenlair_1:close_window|I'm {playername}, but that's irrelevant, fool, because now we're going to kill you all!
-; dlga_svenlair_1:svenlair_3|Goodness! I am lost! My apologies, I am leaving now.
-; dlga_svenlair_3:close_window|Get out of here, trash! Never show your ugly face again, or you will pay dearly!
-; dlga_svenlair_2:svenlair_21|Yet another slave merchant? I see. Well, I have a few slaves left.
-; dlga_svenlair_21:svenlair_42|I would like to see these slaves.
-; dlga_svenlair_21:svenlair_41|{playername}, to pay these men is to encourage them to keep attacking and enslaving people. We should make them pay dearly for the damage they do to people, not reward them for it!
-; dlga_svenlair_41:svenlair_42|Keep your mouth shut! I would like to see these slaves.
-; dlga_svenlair_41:close_window|You are right. We're going to kill you all!
-; dlga_svenlair_42:svenlair_43|Well, I have three slaves. They're inside, down by the river. Go ahead and look at them, then come back to me to talk about buying them.
-; dlga_svenlair_43:close_window|Sounds good! I'll look over the merchandise, and then we will talk money.
-; dlga_sven_comprapr:sven_comprapr_todo|I understand. I'll take the three prisoners. Take your peningas. (900 peningas)
-; dlga_sven_comprapr:sven_comprapr_trade|Look at them! Your men have starved and raped them. I'll pay 300 coin for the lot. (Trade)
-; dlga_sven_comprapr:sven_comprapr_trade.1|They're in bad shape. Give them to me, and you won't have to feed them any more, deal? (Trade)
-; dlga_sven_comprapr:close_window|I don't have that kind of money. Farewell.
-; dlga_sven_comprapr:close_window.1|I've thought about it and I am not buying them. I'm leaving.
-; dlga_sven_comprapr:close_window.2|I need more time. Let me look at them again.
-; dlga_sven_comprapr_todo:close_window|Deal! The merchandise is yours. A good visit!
-; dlga_sven_comprapr_trade:close_window|I see, I see. Well, I suppose you're right. The merchandise is yours. Take the stinkers away. Far thu vel.
-; dlga_start:problema_farmer_1|Greetings, {reg59?madame:sir}. Thank you for your help.
-; dlga_problema_farmer_1:problema_farmer_21|I read the document. It seems too new. I want to know the truth.
-; dlga_problema_farmer_1:problema_farmer_23|I'd like to listen to your story.
-; dlga_problema_farmer_1:problema_farmer_24|I want your version, but remember that I will kill the person who lies here.
-; dlga_problema_farmer_1:close_window|I don't have any more questions.
-; dlga_problema_farmer_21:problema_farmer_3|{s2}^^I know nothing! I inherited the land of my ancestors. I don't have documents to prove it because it has never been necessary to prove that it was mine.
-; dlga_problema_farmer_23:problema_farmer_3|I know nothing! I inherited the land of my ancestors. I don't have documents to prove it because it has never been necessary to prove that it was mine.
+dlga_svenlair_1:svenlair_2|Io sono {playername}. Ho saputo che avete prigionieri da vendere.
+dlga_svenlair_1:close_window|Sono {playername}, ma questo è irrilevante, inbroglione, poichè ora vi uccideremo tutti!
+dlga_svenlair_1:svenlair_3|Pietà! Mi sono perso! Le mie scuse, me ne vado.
+dlga_svenlair_3:close_window|Fuori da qui, spazzatura! Non mostrare mai più la tua brutta faccia di nuovo o si la pagherai a caro prezzo!
+dlga_svenlair_2:svenlair_21|Un altro mercante di schiavi? Vedo. Beh, ho un paio di schiavi con me.
+dlga_svenlair_21:svenlair_42|Mi piacerebbe vedere questi schiavi.
+dlga_svenlair_21:svenlair_41|{playername}, pagando questi uomini li incoraggieremo a continuare ad attaccare e a schiavizzare la povera gente. Dovremmo fargliela pagare a caro prezzo per il danno che fanno alla gente, non pagarli!
+dlga_svenlair_41:svenlair_42|Chiudi la bocca! Mi piacerebbe vedere questi schiavi.
+dlga_svenlair_41:close_window|Hai ragione. Uccidiamoli tutti!
+dlga_svenlair_42:svenlair_43|Beh, ho tre schiavi. Sono dentro, vicino al fiume. Vai avanti e guardali, poi torna da me per parlare di affari.
+dlga_svenlair_43:close_window|Suona bene! Guardo la merce, poi parleremo di soldi.
+dlga_sven_comprapr:sven_comprapr_todo|Capisco. Prenderò i tre prigionieri. Prendete i vostri denari. (900 denari)
+dlga_sven_comprapr:sven_comprapr_trade|Guardali! I tuoi uomini sono morti di fame e la donna è stata violentata. Pagherò 300 monete per loro. (Commercio)
+dlga_sven_comprapr:sven_comprapr_trade.1|Sono in pessime condizioni. Dalli a me e non dovrai più dar loro da mangiare, affare fatto? (Commercio)
+dlga_sven_comprapr:close_window|Non ho tutti questi soldi. Addio.
+dlga_sven_comprapr:close_window.1|Ci ho priensato, non li comprerò. Me ne vado.
+dlga_sven_comprapr:close_window.2|Ho bisogno di più tempo. Fammeli vedere di nuovo.
+dlga_sven_comprapr_todo:close_window|Affare fatto! La merce è tua. Buon viaggio!
+dlga_sven_comprapr_trade:close_window|Vedo, vedo. Beh, credo che tu abbia ragione. La merce è tua. Prendetevi quei puzzolenti e andateve via. Far thu vel.
+dlga_start:problema_farmer_1|Saluti a voi, {reg59?madame:signore}. Grazie per averci aiutato.
+dlga_problema_farmer_1:problema_farmer_21|Ho letto il documento. Sembra troppo nuovo. Voglio sapere la verità.
+dlga_problema_farmer_1:problema_farmer_23|Voglio ascoltare la tua storia.
+dlga_problema_farmer_1:problema_farmer_24|Voglio la tua versione, ma ricorda che non lascio in vita i bugiardi.
+dlga_problema_farmer_1:close_window|Non ho altre domande.
+dlga_problema_farmer_21:problema_farmer_3|{s2}^^Non so nulla! Ho ereditato la terra dai miei antenati. Non ho i documenti per dimostrarlo poiché non è mai stato necessario dimostrare che era mia.
+dlga_problema_farmer_23:problema_farmer_3|Non so nulla! Ho ereditato la terra dai miei antenati. Non ho i documenti per dimostrarlo poiché non è mai stato necessario dimostrare che era mia.
 dlga_problema_farmer_24:problema_farmer_1|{s2}
-; dlga_problema_farmer_3:problema_farmer_32|Are you a liar?
-; dlga_problema_farmer_3:problema_farmer_31|I think you are lying to me.
-; dlga_problema_farmer_3:close_window|I see. I understand.
+dlga_problema_farmer_3:problema_farmer_32|Sei un bugiardo?
+dlga_problema_farmer_3:problema_farmer_31|Penso che stiate mentendo.
+dlga_problema_farmer_3:close_window|Vedo. Capisco.
 dlga_problema_farmer_31:problema_farmer_1|{s2}
 dlga_problema_farmer_32:problema_farmer_1|{s2}
-; dlga_start:problema_monjes_1|God bless you. I am the monk who found the document.
-; dlga_problema_monjes_n1:problema_monjes_1|God bless you.
-; dlga_problema_monjes_1:problema_monjes_21|I read the document. Everything seems to be right, but it is too well preserved.
+dlga_start:problema_monjes_1|Dio ti benedica. Sono il monaco che ha trovato il documento.
+dlga_problema_monjes_n1:problema_monjes_1|Dio ti benedica
+dlga_problema_monjes_1:problema_monjes_21|Ho letto il documento. Sembra tutto giusto, ma è troppo ben conservato.
 dlga_problema_monjes_1:problema_monjes_22|{s10}
-; dlga_problema_monjes_1:problema_monjes_23|I would like to listen to your story.
-; dlga_problema_monjes_1:problema_monjes_24|I want your version, but remember that I will kill the person who lies here.
-; dlga_problema_monjes_1:close_window|I don't have any more questions.
-; dlga_problema_monjes_21:problema_monjes_3|{s2}^^I'm just a scribe in the monastery! I copy the ancient Roman texts. While looking for an old useless parchment to scrape and prepare for another document, I found this.
+dlga_problema_monjes_1:problema_monjes_23|Voglio ascoltare la tua storia.
+dlga_problema_monjes_1:problema_monjes_24|Voglio la tua versione, ma ricorda che non lascio in vita i bugiardi.
+dlga_problema_monjes_1:close_window|Non ho altre domande.
+dlga_problema_monjes_21:problema_monjes_3|{s2}^^Sono solo uno scriba nel monastero! Copio gli antichi testi Romani. Mentre cercavo una vecchia pergamena inutile da raschiare pere preparare un altro documento, ho trovato questo.
 dlga_problema_monjes_22:problema_monjes_3|{s2}
-; dlga_problema_monjes_23:problema_monjes_1|I'm just a scribe in the monastery! I copy the ancient Roman texts. While looking for an old useless parchment to scrape and prepare for another document, I found this.
+dlga_problema_monjes_23:problema_monjes_1|Sono solo uno scriba nel monastero! Copio gli antichi testi Romani. Mentre cercavo una vecchia pergamena inutile da raschiare pere preparare un altro documento, ho trovato questo.
 dlga_problema_monjes_24:problema_monjes_1|{s2}
-; dlga_problema_monjes_3:close_window|You are a liar! This document is false! We don't have to talk more. Farewell, bastard.
-; dlga_problema_monjes_3:problema_monjes_31|I think you are lying to me.
-; dlga_problema_monjes_3:problema_monjes_n1|Ok. I understand.
+dlga_problema_monjes_3:close_window|Sei un bugiardo! Questo documento è falso! Non ho intenzione di parlarne ancora. Addio, bastardo.
+dlga_problema_monjes_3:problema_monjes_31|Penso che stiate mentendo.
+dlga_problema_monjes_3:problema_monjes_n1|Ok. Capisco.
 dlga_problema_monjes_31:problema_monjes_1|{s2}
-; dlga_start:monjes_2|I am busy, talk to the Abbot.
-; dlga_monjes_2:close_window|Very well, my good man. Farewell.
-; dlga_start:monjesw_2|I am busy, talk to the Abbot.
-; dlga_monjesw_2:close_window|Very well, my good man. Farewell.
+dlga_start:monjes_2|Al momento sono occupato, parla con l'Abate.
+dlga_monjes_2:close_window|Molto bene, buon uomo. Addio.
+dlga_start:monjesw_2|Al momento sono occupato, parla con l'Abate.
+dlga_monjesw_2:close_window|Molto bene, buon uomo. Addio.
 ; dlga_regular_member_talk:followers_action|I've decided that you join our followers' party.
-; dlga_followers_action:close_window|Very well, I will support you from the rear.
+dlga_followers_action:close_window|Molto bene, ti sosterrò dalle ultime file.
 dlga_regular_member_talk:briton_action|Pater, Voglio donare 500 denari per aiutare le famiglie dei miei uomini caduti.
 dlga_briton_action:regular_member_talk|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. I tuoi uomini si sentono meglio ora.
-; dlga_regular_member_talk:anglo1_action|Priest, my men need Odin. I will donate 500 peningas to you for your aid in this matter.
-; dlga_anglo1_action:regular_member_talk|I will talk to your men about Odin, relentless Thor, and Freyja, the hope of the slain. It will encourage them to fight proudly by your side, to earn their seats at Walhalla or Folkvangr.
-; dlga_regular_member_talk:porta_presentacion|Heill, what can you do in battle?
-; dlga_porta_presentacion:regular_member_talk|Me? - He approaches and whispers in your ear. - We are very useful. I am important for you. When your men see me in battle, they will gain courage. If things go wrong, they will fight longer before fear seizes them.
-; dlga_porta_presentacion:regular_member_talk.1|Me? - He approaches and whispers in your ear. - I am important for you. When your men see me in battle, they will gain courage. If things go wrong, they will fight longer before fear seizes them.
-; dlga_regular_member_talk:porta1_presentacion|Heill, what can you do for my men?
-; dlga_porta1_presentacion:regular_member_talk|Me?  I am important to you. I am the wife of one of your soldiers. If you have wives (30) in your party, your men will gain morale (every 48 hours).
-; dlga_regular_member_talk:follower_woman_action|I need you help me to raise the morale of my men. I pay 450 peningas for your efforts.
-; dlga_follower_woman_action:regular_member_talk|Men? Oh... well, it is important to help.
-; dlga_start:sacerdotes_party_talk| My {reg59?lady:lord}, we're only poor clerics trying to bring some light to the people of this land.
-; dlga_sacerdotes_party_talk:close_window|Christian cleric, eh? It's time to reunite you with your Creator!
-; dlga_sacerdotes_party_talk:sacerdote_pary_action|Pater, I will donate 500 peningas to the families of my fallen men for your aid.
+dlga_regular_member_talk:anglo1_action|Prete, i miei uomini hanno bisogno di Odino. Vi offro 500 denari per il vostro aiuto.
+dlga_anglo1_action:regular_member_talk|Parlerò ai tuoi uomini di Odino, Thor l'implacabile e Freya, la spezanza dei morti. Per incoraggiarli a lottare con onore, per guadagnare il loro posti nel Walhalla o a Folkvangr.
+dlga_regular_member_talk:porta_presentacion|Heill, cosa puoi fare per me in battaglia?
+dlga_porta_presentacion:regular_member_talk|Io? - Si avvicina e ti sussurra nell'orecchio. - Siamo utili per voi. Quando i vostri uomini ci vedranno in battaglia, guadagneranno coraggio. Se le cose vanno male, combatteranno più a lungo prima che la paura li colga.
+dlga_porta_presentacion:regular_member_talk.1|Io? - Si avvicina e ti sussurra nell'orecchio. - Sono importante per te. Quando i vostri uomini mi vedranno in battaglia, guadagneranno coraggio. Se le cose vanno male, combatteranno più a lungo prima che la paura li colga.
+dlga_regular_member_talk:porta1_presentacion|Heill, cosa puoi fare per i miei uomini?
+dlga_porta1_presentacion:regular_member_talk|Io? Sono molto importante per voi. Sono la moglie di uno dei vostri soldati. Se si dispone di sufficenti mogli (30) nella vostra compagnia, i vostri uomini otterranno morale (ogni 48 ore).
+dlga_regular_member_talk:follower_woman_action|Ho bisogno che mi aiuti a sollevare il morale dei miei uomini. Ti pagherò 450 denari per il tuo aiuto.
+dlga_follower_woman_action:regular_member_talk|Uomini? Oh... beh, è importante aiutarli.
+dlga_start:sacerdotes_party_talk|{Reg59?Mia signora:Mio signore}, siamo solo dei poveri chierici che cercano di portare un pò di luce ai popoli di questa terra.
+dlga_sacerdotes_party_talk:close_window|Clero Cristiano, eh? È  tempo che vi riuniate al creatore!
+dlga_sacerdotes_party_talk:sacerdote_pary_action|Pater, Voglio donare 500 denari per l'aiuto che date alle famiglie dei miei uomini caduti.
 dlga_sacerdote_pary_action:sacerdotes_party_talk|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. I tuoi uomini si sentono meglio ora.
-; dlga_sacerdotes_party_talk:sacerdotes_party_talkle|And I'm only a poor hero on an important mission. Farewell.
+dlga_sacerdotes_party_talk:sacerdotes_party_talkle|Sono solo un povero eroe con un importante missione. Addio.
 dlga_sacerdotes_party_talkle:close_window|Grazie. Addio.
 dlga_start:paganos_party_talk|Odino è il nostro Dio! Egli guida i nostri passi. Guerriero, di cosa hai bisogno?
 dlga_paganos_party_talk:close_window|Sei un sacerdote pagano? I tuoi falsi dei sono solo feccia. Muori!
@@ -2394,128 +2394,128 @@ dlga_lord_start:close_window.4|Ho ricevuto il dono, che mi è stato consegnato d
 dlga_lord_start:close_window.5|Ho ricevuto il dono, portatomi da mio {s11} {s10}. Bah! Credete di poter comprare la mia amicizia?
 dlga_lord_start:close_window.6|Ho ricevuto il dono, portatomi da mio {s11} {s10}. Per quanto {reg4?lei mi sia cara:lui mi sia caro}, non posso dimenticare le nostre divergenze.
 dlga_lord_start:lord_talk.5|Di che si tratta?
-; dlga_lord_pretalk:party_encounter_lord_hostile_attacker_2|But enough talking. Yield or fight!
+dlga_lord_pretalk:party_encounter_lord_hostile_attacker_2|Basta chiacchiere. Arrendetevi o combattete!
 dlga_lord_pretalk:lord_talk|Nient'altro?
 dlga_hero_pretalk:lord_talk|Nient'altro?
-; dlga_lord_talk:frisaking_1|I heard that your feasts are wonderful!
-; dlga_lord_talk:jarldenunciado1|We need to talk about the jarl of Kennemer.
-; dlga_lord_talk:jarldenunciado1extra|I wish to talk about the jarl of Kennemer.
-; dlga_lord_talk:jarldenunciado2extra|I wish to talk about the jarl of Kennemer.
-; dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge51|Thank you, King Horik. I brought with me Brunhild and Bodo. They are trustworthy.
-; dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge52|Let me tell you my story...
-; dlga_kinghorik_quest_revenge51:kinghorik_quest_revenge52|Yes, yes, nice to meet them. Now, to the point. My time is limited.
-; dlga_kinghorik_quest_revenge52:kinghorik_quest_revenge53|Recently, the boat I was traveling on was attacked by Vikings of Sven Bull Neck, a man of Sigurd 'Snake in the Eye.'
-; dlga_kinghorik_quest_revenge53:kinghorik_quest_revenge54|{s2}^^That is nothing special. Many jarls in Danmark have people who make themselves Vikings. Even the jarls and I were Vikings once. I hope you're not wasting my time... Choose your words carefully, or this conversation is over.
-; dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge61|Sven Bull Neck has captured my mother, and he has brought her to Sigurd.
-; dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge62|Sigurd tried to make the jarl of Kennemer king of Friese in exchange for an army.
-; dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge63|My companion Bodo had something important from the king of Asturias that Sigurd wanted.
-; dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge64|Sven Bull Neck has a hideout near Ribe, where he took the Woden Ric prisoners.
-; dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge65|Sven Bull Neck and Sigurd 'Snake in the Eye' are up to something, and I want to stop them.
-; dlga_kinghorik_quest_revenge61:kinghorik_quest_revenge21_2|{s2}^^Your mother? This is because Sigurd took your mother? You have wasted my time. I will not talk more. It's time for you to go.
+dlga_lord_talk:frisaking_1|Ho saputo che la vostra festa è stata meravigliosa!
+dlga_lord_talk:jarldenunciado1|Dobbiamo parlare dello Jarl di Kennemer.
+dlga_lord_talk:jarldenunciado1extra|Vorrei parlare con lo Jarl di Kennemer.
+dlga_lord_talk:jarldenunciado2extra|Vorrei parlare con lo Jarl di Kennemer.
+dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge51|Grazie, Re Horik. Ho portato con me Brunilde e Bodo. Mi fido di loro.
+dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge52|Lasciate che vi racconti la mia storia...
+dlga_kinghorik_quest_revenge51:kinghorik_quest_revenge52|Sì, sì, piacere di incontrarvi. Ora, veniamo al punto. Il mio tempo è limitato.
+dlga_kinghorik_quest_revenge52:kinghorik_quest_revenge53|Recentemente, la barca su cui viaggiamo è stata attaccata dai Vichinghi di Sven Bull Neck, un uomo di Sigurd 'Occhi di Serpente.'
+dlga_kinghorik_quest_revenge53:kinghorik_quest_revenge54|{s2}^^Questo è del tutto normale. Molti Jarl in Danimarca sono ex Vichinghi. Anche gli Jarl e io eravamo Vichinghi una volta. Noni sprecare il mio tempo... Scegli con attenzione le prossime parole, o la conversazione finirà presto.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge61|Sven Bull Collo ha catturato mia madre e l'ha portata da Sigurd.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge62|Sigurd ha cercato di rendere lo Jarl di Kennemer Re del Friese in cambio di un esercito.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge63|Il mio compagno Bodo aveva qualcosa di importante da parte del Re delle Asturie che Sigurd voleva.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge64|Sven Bull Neck ha un nascondiglio nei pressi di Ribe, dove ha portato i prigionieri del Woden Ric.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge65|Sven Bull Neck e Sigurd 'Occhi di Serpente' stanno pianificando qualcosa, voglio fermarli.
+dlga_kinghorik_quest_revenge61:kinghorik_quest_revenge21_2|{s2}^^Tua madre? Tutto questo perché Sigurd ha rapito tua madre? Hai sprecato il mio tempo. Non voglio parlare più. Vattene.
 ; dlga_kinghorik_quest_revenge62:kinghorik_quest_revenge21_2|{s2}^^An army? This is your mystery? He is gathering men for Englaland, in the aid of my brothers. I myself have allowed my jarls and hersirs to join the expedition if they wish. Englaland is a rich land, inhabited by habitually weak people, waiting to be dominated and plundered by their betters. +You have wasted my time. I will not talk more. It's time for you to go.
-; dlga_kinghorik_quest_revenge64:kinghorik_quest_revenge21_2|{s2}^^You tell me things I already know, and you do not interest me. My patience has a limit, and you have quickly reached it. +You have wasted my time. I will not talk more. It's time for you to go.
-; dlga_kinghorik_quest_revenge21_2:close_window|Our meeting is over.
-; dlga_kinghorik_quest_revenge65:kinghorik_quest_revenge55|Sven and Sigurd are hated and feared by many men. The question is if they are up to something that could affect me.
-; dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge61|Sven Bull Neck has my mother, and he has brought her to Sigurd.
-; dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge62|Sigurd tried to make the jarl of Kennemer king of Friese in exchange for an army.
-; dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge63|My companion Bodo had something important from the king of Asturias that Sigurd wanted.
-; dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge64|Sven Bull Neck has a hideout near Ribe, where he took the Woden Ric prisoners.
-; dlga_kinghorik_quest_revenge63:kinghorik_quest_revenge67|I guess I can no longer maintain the secret, but this is not the place, nor are you the person. However, if I do not speak now, the danger is worse and could be terrible.^^The attack on the Woden Ric was no random act of piracy.
-; dlga_kinghorik_quest_revenge67:kinghorik_quest_revenge68_1|My name is Bodo Vimaraniz from Malacoria, in Cantabria. I come from King Aldefonso of Asturias. I was sent north with a present for Aethelred, king of West Seaxe. This present and I are the reason Sven Bull Neck attacked the Woden Ric. Sigurd Ragnarsson wants this present for himself, because he wants to be the king of Danmark while his brothers are kings in Englaland.
-; dlga_kinghorik_quest_revenge68_1:kinghorik_quest_revenge68|I know that Sigurd wants to be king. How could a gift give him my throne?
+dlga_kinghorik_quest_revenge64:kinghorik_quest_revenge21_2|{s2}^^Mi racconti cose che già conosco, non mi interessano. La mia pazienza ha un limite e voi l'avete oltrepassato. +Hai sprecato il mio tempo. Non voglio parlare più. Vattene.
+dlga_kinghorik_quest_revenge21_2:close_window|Il nostro incontro è finito.
+dlga_kinghorik_quest_revenge65:kinghorik_quest_revenge55|Sven e Sigurd sono odiati e temuti da molti uomini. La domanda è: fino a che punto possono impensierire me.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge61|Sven Bull Collo ha catturato mia madre e l'ha portata da Sigurd.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge62|Sigurd ha cercato di rendere lo Jarl di Kennemer Re del Friese in cambio di un esercito.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge63|Il mio compagno Bodo aveva qualcosa di importante da parte del Re delle Asturie che Sigurd voleva.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge64|Sven Bull Neck ha un nascondiglio nei pressi di Ribe, dove ha portato i prigionieri del Woden Ric.
+dlga_kinghorik_quest_revenge63:kinghorik_quest_revenge67|Credo di non poter più mantenere il segreto, ma questo non è il luogo, né voi siete la persona giusta. Tuttavia, se non parlo ora, il pericolo aumenterebbe e sarebbe terribile.^^L'attacco al Woden Ric non era un casuale atto di pirateria.
+dlga_kinghorik_quest_revenge67:kinghorik_quest_revenge68_1|Il mio nome è Bodo Vimaraniz da Malacoria, in Cantabria. Vengo da parte di Re Aldefonso delle Asturie. Sono stato inviato a nord con un regalo per Aethelred, Re del West Seaxe. Questo regalo è il motivo per cui Sven Bull Neck ha attaccato il Woden Ric. Sigurd Ragnarsson vuole questo regalo per se stesso, perché vuole essere il Re di Danimarca, mentre i suoi fratelli sono Re in Inghilterra.
+dlga_kinghorik_quest_revenge68_1:kinghorik_quest_revenge68|So che Sigurd vuole essere Re. Come potrebbe un regalo dargli il mio trono?
 ; dlga_kinghorik_quest_revenge68:kinghorik_quest_revenge69|The Ragnarssons are powerful men, with lands in many places, like Danmark, Sweoland and now Northhymbre. Right now, it seems that their efforts are against Englaland, and they are, but this means ensuring that Danmark provide easy access to resources and warriors. If Sigurd is king here, he will guarantee all that. Moreover, now he can unite the Danish, for the gift I was carrying was the sword of Ragnar Lodbrok. His sons, Bjorn Ironside and Haesten, lost it when a Muslim fleet defeated them south of Al-Andalus.
 ; dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7|How did you get the sword from the Muslims?
-; dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7.1|Bodo, I'm impressed. You know a lot about the Danish. What are you not telling me?
+dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7.1|Bodo, sono impressionato. Sai molto del Danese. Cos'altro mi hai taciuto?
 dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge71|(Non sai niente)
 ; dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71|It was a gift to my king made by the emir of Al-Andalus in exchange for valuable prisoners. Aethelred, king of West Seaxe, was very interested in this sword, and my king Aldefonso got it for him.
-; dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71.1|I have been before in the north, but this is not important now.
+dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71.1|Sono già stato prima d'ora nel nord, ma questo non è importante.
 ; dlga_kinghorik_quest_revenge71:kinghorik_quest_revenge72|Ragnar was more than a man. The skalds revere him as god, and the men feed their souls with his legend. Sigurd could carry the sword to the Assembly and claim the merit of recovering it. He might demand to be king and even kill me, and everyone might just forgive him for having recovered his father's sword. Ragnar's sword must be destroyed before anyone knows it exists.
-; dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge73|Then maybe we can make a deal: sword for support.
-; dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge732|(Brunhild seems to want to say something. Let her.)
-; dlga_kinghorik_quest_revenge73:kinghorik_quest_revenge74|I have business with Sigurd and Sven. I want your protection and support when I need it.
+dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge73|Allora forse possiamo fare un accordo: la spada per il tuo supporto.
+dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge732|(Brunilde sembra voler dire qualcosa. Lasciala fare.)
+dlga_kinghorik_quest_revenge73:kinghorik_quest_revenge74|Ho degli affari in sospeso con Sigurd e Sven. Voglio la tua protezione e il tuo sostegno quando ne avrò bisogno.
 ; dlga_kinghorik_quest_revenge74:kinghorik_quest_revenge8|Yes, this is what we do. That sword cannot come to light, but we need to be cautious. Sigurd Ragnarsson is a shrewd man, and he won't attack openly. Go see him for the issues you mentioned to me and try to get the sword. I do not care if you steal it, buy it, or promise eternal loyalty, so long as he leaves it in your hands. What I want is that you bring me this sword to destroy. In return, when you bring the sword, you'll have my protection while in Danmark, and so I will proclaim, and Sigurd Ragnarsson will not dare to go against you. Now I must go. I've been too long with you, and I have other matters to attend to. Good luck and farewell.
 ; dlga_kinghorik_quest_revenge732:kinghorik_quest_revenge75|My king, it was I who told my companions to come to see you before we talk to Sigurd 'Snake in the Eye.' I know that he is a dangerous man, as I served in the house of the jarl of Kennemer. We ask for your protection and support for our cause, because {playername}'s mother is in the hands of Sigurd 'Snake in the Eye' and Sven Bull Neck.
 ; dlga_kinghorik_quest_revenge75:kinghorik_quest_revenge8|I understand, girl. You have my support, but I want Ragnar's sword. Sigurd will not kill you, so go talk to him. If you need to, tell him that you are under my protection. It is important that you succeed in giving me the sword. I do not care if you have to steal it, but bring it to me. Now I must go. I've been too long with you, and I have other matters to attend to. Good luck and farewell.
 ; dlga_kinghorik_quest_revenge8:kinghorik_quest_revenge81|{s2}^^{playername}, I have lied to the king. Well, it's not totally a lie. Everything is true except the existence of the sword. I know that the Danish give much importance to everything that has to do with Ragnar, and I used that. It was a risk, but we needed the king on our side. I hope you understand.
-; dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge82|The sword was important for getting the king's support. Thank you. Now, tell me the truth.
-; dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84|No, Bodo! I don't know your game, but do not lie in the future. Now tell me the whole truth.
-; dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84.1|Lying isn't tolerable, never lie again, Bodo, or I will take action against you. (Justice)
+dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge82|La spada è stata importante per ottenere il sostegno del Re. Grazie. Ora, dimmi la verità.
+dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84|No, Bodo! Non conosco il tuo gioco, ma non mentirmi più in futuro. Ora dimmi tutta la verità.
+dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84.1|Mentire non è tollerabile, non mentirmi di nuovo, Bodo, o prenderò provvedimenti contro di te. (Giustizia)
 ; dlga_kinghorik_quest_revenge82:kinghorik_quest_revenge84|I disagree. How can we now justify to the king that there is no sword? Lying only brings problems. Everyone knows that. At least, everyone ought to know that.
 ; dlga_kinghorik_quest_revenge84:kinghorik_quest_revenge85|{s2}^^I am an honorable man. Honor is my law, but I owe allegiance to my king and to the mission that he entrusted to me. It took years of visiting this foreign land since the Rex Ordonio, father of current king of Asturias, sent me. This is hard to understand, but Asturias is a small kingdom, where every man must fight as a warrior or die at the hands of our enemies. We fight every year against the power of Al-Andalus. It is a constant front, and we thought our backs were safe until the Vikings arrived. Old King Ordonio, and now his son, King Aldefonso, want an alliance with Frankia and West Seaxe to protect ourselves from the Vikings and make the seas safer.
 ; dlga_kinghorik_quest_revenge85:kinghorik_quest_revenge86|I carried a letter sealed by my king himself for the king of West Seaxe. It is a letter of alliance that had to be sent in secret, lest it be intercepted. And I failed. The letter is now in the hands of Sigurd Ragnarsson, one of the men who tried to protect us. Do you understand the pity of it? Not so long ago his brothers, Bjorn Ironside and Halfdan, attacked Gallaecia, the western part of the Kingdom of Asturias.
-; dlga_kinghorik_quest_revenge86:kinghorik_quest_revenge87|{playername}, Bodo isn't well, and we shouldn't lose more time here. It is time to talk to Sigurd 'Snake in the Eye.'
-; dlga_kinghorik_quest_revenge87:close_window|We're in rush now, but we'll talk about your mission later, Bodo. Now, let's go.
+dlga_kinghorik_quest_revenge86:kinghorik_quest_revenge87|{playername}, Bodo sta male, non dobbiamo perdere tempo qui. È tempo di parlare con Sigurd 'Occhi di Serpente.'
+dlga_kinghorik_quest_revenge87:close_window|Dobbiamo muoverci in fretta, riparleremo più avanti della vostra missione, Bodo. Ora, andiamo.
 ; dlga_kinghorik_quest_revenge87:close_window.1|Well, let's bother Bodo no more. We're looking for Sigurd.
-; dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot1|Sigurd Ragnarsson sent men to kill us at Ulf's farmstead.
-; dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot2|Sigurd promised to give me Sven and my mother at Ulf's farm, but we were attacked instead.
-; dlga_kinghorik_quest_danmarkprot2:kinghorik_quest_danmarkprot1|Sigurd will not deliver up Sven Bull Neck, his best man. If you believed he would do such a thing, then you're dumber than I thought.
+dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot1|Sigurd Ragnarsson ha inviato uomini per ucciderci alla fattoria di Ulf.
+dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot2|Sigurd aveva promesso di consegnarmi Sven e mia madre alla fattoria di Ulf, ma ci ha teso una trappola.
+dlga_kinghorik_quest_danmarkprot2:kinghorik_quest_danmarkprot1|Sigurd non cederebbe mai Sven Bull Neck, il suo uomo migliore. Se avete creduto che avrebbe fatto una cosa del genere, allora siete più stupido di quanto pensassi.
 ; dlga_kinghorik_quest_danmarkprot1:kinghorik_quest_danmarkprot3|My king, as you've asked me, I've been your eyes and ears. I know all the important information, because in {playername}'s camp there are no secrets. As you already know, {playername} is the one who broke Sigurd's plans to put a puppet on the throne of Friese. It was more likely an accident than a deliberate act, as {playername} is looking for Sven Bull Neck, Sigurd's first man, for revenge, because Sven has imprisoned {playername}'s mother. When {playername} talked to Sigurd, they agreed that, in exchange for Bodo the Cantabrian, Sigurd would deliver up Sven and {playername}'s mother at Ulf's farm.
-; dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4|Yes, it is more or less what I expected.
-; dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4.1|{s2}^^Yes, I heard that Sigurd holds Bodo prisoner. Bodo will be tortured, and when they finish, Sigurd will kill him and deliver his body to Njord.
-; dlga_kinghorik_quest_danmarkprot4:kinghorik_quest_danmarkprot41|Egil, traitor, you're nothing but a spy!
-; dlga_kinghorik_quest_danmarkprot4:kinghorik_quest_danmarkprot5|--Do not say anything.--
-; dlga_kinghorik_quest_danmarkprot41:kinghorik_quest_danmarkprot42|{s2}^^I'm no traitor. I'm loyal to my king, and I'm helping you more than you think. King Horik has a network of informants in all locations, and he already knew about you, but especially Bodo, before you arrived.
-; dlga_kinghorik_quest_danmarkprot42:kinghorik_quest_danmarkprot5|Egil, continue. You know that my time and my patience are limited.
+dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4|Sì, è più o meno quello che mi aspettavo.
+dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4.1|{s2}^^Sì, ho saputo che Sigurd detiene Bodo prigioniero. Bodo sarà torturato e quando avranno finito, Sigurd lo ucciderà e consegnerà il suo corpo a Njord.
+dlga_kinghorik_quest_danmarkprot4:kinghorik_quest_danmarkprot41|Egil, traditore, non sei altro che una spia!
+dlga_kinghorik_quest_danmarkprot4:kinghorik_quest_danmarkprot5|--Non dici niente.--
+dlga_kinghorik_quest_danmarkprot41:kinghorik_quest_danmarkprot42|{s2}^^Non sono un traditore. Sono fedele al mio Re e ti sto aiutando più di quanto pensi. Re Horik ha una rete di informatori molto sviluppata, già sapeva di te, ma soprattutto di Bodo, prima che tu arrivassi.
+dlga_kinghorik_quest_danmarkprot42:kinghorik_quest_danmarkprot5|Egil, continua. Voi sapete che il mio tempo e la mia pazienza sono limitate.
 ; dlga_kinghorik_quest_danmarkprot5:kinghorik_quest_danmarkprot6|There is a problem. Sigurd sent Olvir White Hair to kill {playername}. Olvir has died, but not before declaring that Sigurd 'Snake in the Eye' would take his case to the Assembly. I'm sure Ulf will be one witness in his favor. By now, my king, many have seen {playername} talking to you. Sigurd could use this against you.
-; dlga_kinghorik_quest_danmarkprot6:kinghorik_quest_danmarkprot61|{s2}^^You have traveled with {playername}. What do you think of {reg59?her:him}?
+dlga_kinghorik_quest_danmarkprot6:kinghorik_quest_danmarkprot61|{s2}^^Hai viaggiato con {playername}. Cosa ne pensi di {reg59?lei:lui}?
 ; dlga_kinghorik_quest_danmarkprot61:kinghorik_quest_danmarkprot7|I admire {reg59?her:him}. {reg59?She:He} is someone with a very clear mind, tireless goals and favor with the gods. {reg59?Her:His} luck is greater than that of other men and women I have known. You can trust {reg59?her:him} to help us advance our agenda.
 ; dlga_kinghorik_quest_danmarkprot61:kinghorik_quest_danmarkprot7.1|{reg59?She:He} is a bad leader, stupid, stubborn, and unbearable. Many times I had to restrain myself not to spit in {reg59?her:his} face. But {reg59?her:his} luck is greater than I have known. I do not know how, but {reg59?she:he} is always victorious. {reg59?She:He} will help us advance our agenda.
 ; dlga_kinghorik_quest_danmarkprot61:kinghorik_quest_danmarkprot7.2|I have not much to say. {reg59?She:He} is someone pretty normal. I have not seen anything special. Well, except for one thing: {reg59?her:his} luck. {reg59?Her:His} luck is greater than I have known. I do not know how, but {reg59?she:he} is always victorious. {reg59?She:He} will help us advance our agenda.
 ; dlga_kinghorik_quest_danmarkprot7:kinghorik_quest_danmarkprot8|{s2}^^Bodo's mission was not a secret, neither for me nor for Sigurd 'Snake in the Eye,' despite all the means taken to make it so. There's a man in the court of Asturias willing to do anything to finish off their king, Aldefonso. Can you believe it? Although that kingdom is so far away, they have the same problems that we do! I knew all about this long before you came to see me for the first time, although I pretended to know nothing.
-; dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot81|I do not like anybody playing with me, even a king.
-; dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot81.1|You laughed at us when we first spoke.
-; dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9|I see. You and Sigurd play a game of intrigues for the throne, and I'm in the middle.
-; dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9.1|--Say nothing.--
-; dlga_kinghorik_quest_danmarkprot81:kinghorik_quest_danmarkprot9|Do not be so dramatic, though I like your boldness. I needed to see what Sigurd was willing to risk. Clearly, the stakes are high, and Sigurd is very interested in killing you.
+dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot81|Non mi piace quando qualcuno gioca con me, neanche un Re.
+dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot81.1|Ci hai deriso quando abbiamo parlato la prima volta.
+dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9|Vedo. Tu e Sigurd giocate una partita di intrighi per il trono e io sono nel mezzo.
+dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9.1|--Non dici niente.--
+dlga_kinghorik_quest_danmarkprot81:kinghorik_quest_danmarkprot9|Non essere così drammatico, anche se apprezzo la tua audacia. Avevo bisogno di vedere che cosa Sigurd era disposto a rischiare. Chiaramente, la posta in gioco è alta e Sigurd è molto interessato a ucciderti.
 ; dlga_kinghorik_quest_danmarkprot9:kinghorik_quest_danmarkprot10|{s2}^^Sigurd wants my kingdom. He has gathered an army with the excuse of going to help his brothers in Englaland, but I fear he could use these men to take my throne if he gets favor in the Assembly. Now he has two options to play for such favor: first, Bodo's letter from the Kingdom of Asturias and second, Olvir White Hair's death.
 ; dlga_kinghorik_quest_danmarkprot10:kinghorik_quest_danmarkprot11|Our fates are crossed, {playername}. The soothsayers told me about you before you came. They said that a {reg59?woman:man} whose luck is greater than that of Sigurd would come, a {reg59?woman:man} who will save my throne. You want Sven Bull Neck and your mother, and I want to thwart Sigurd's plans. I'll help you and you help me. From now on, you have my official protection in Danmark.
-; dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot111|Can you tell me what your plans are?
-; dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot112|You take for granted too many things. I am not in your service. I do not think I need you.
-; dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot113|We will be allies for now, but when this is over, I want nothing more to do with you two.
-; dlga_kinghorik_quest_danmarkprot111:kinghorik_quest_danmarkprot12|Well, I'm glad to see you're on my side. Listen now.
+dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot111|Potete dirmi quali sono i vostri piani?
+dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot112|Date per scontato troppe cose. Non sono al vostro servizio. Non credo che avrò bisogno di voi.
+dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot113|Saremo alleati per ora, ma quando tutto questo sarà finito, non voglio più avere niente a che fare con voi due.
+dlga_kinghorik_quest_danmarkprot111:kinghorik_quest_danmarkprot12|Beh, sono contento di vedere che sei dalla mia parte. Ascoltami.
 ; dlga_kinghorik_quest_danmarkprot112:kinghorik_quest_danmarkprot12|I see that you are so dense that you need every bit of luck the gods have compensated you with. Now listen closely. You need to go to the Assembly, where you cannot go without my patronage. There will be Sven Bull Neck, the man who wants to accuse you of the death of his brother. If you aren't at the Assembly, you won't be able to defend yourself, so you will lose. Then the Assembly will banish you and put you outside the protection of the law. Any and every Dane is free to kill or otherwise mistreat such an outlaw, so, to the contrary, you very much need me if you wish to get your mother back and kill Sven. Now, listen to me.
-; dlga_kinghorik_quest_danmarkprot113:kinghorik_quest_danmarkprot12|Sounds good, and it's just. While our interests run together, we will be allies. Then, you'll be leaving Danmark.
+dlga_kinghorik_quest_danmarkprot113:kinghorik_quest_danmarkprot12|Suona bene, ed è solo. Mentre i nostri interessi corrono insieme, saremo alleati. Allora, potrai lasciare la Danimarca.
 ; dlga_kinghorik_quest_danmarkprot12:kinghorik_quest_danmarkprot13|{s2}^^There is a man named Guthrum, who is a faithful man respected in Danmark. I will ask him to lead Sigurd's Vikings to provide support for the invasion of Englaland by the sons of Ragnar. However, my proposal will not succeed if Sigurd 'Snake in the Eye' presents Bodo's letter in the Assembly or if he can associate me with the death of Olvir White Hair.
 ; dlga_kinghorik_quest_danmarkprot13:kinghorik_quest_danmarkprot14|Unfortunately, the letter has been hidden. My contacts say that Sigurd gave it to Atli Eiriksson, his second man after Sven Bull Neck. Atli sailed from Ribe some time ago, and no one knows his fate. Perhaps the Ribe port master knows something, but he will not talk to my people. You have to get this letter soon while I buy loyalties for the Assembly.
-; dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151|Getting the information could be expensive. I need more money.
-; dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151.1|I'll take care of this, but need some financial help.
+dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151|Ottenere le informazioni potrebbero essere costoso. Ho bisogno di più soldi.
+dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151.1|Mi prenderò cura della questione, ma bisogno di più soldi.
 ; dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot16|The port master and I will have a few words.
-; dlga_kinghorik_quest_danmarkprot151:kinghorik_quest_danmarkprot153|I know the Ribe port master, and he is an ambitious man. We need enough money to purchase the information.
-; dlga_kinghorik_quest_danmarkprot153:kinghorik_quest_danmarkprot16|Well, I reserve some of my treasure for these contingencies. You may take 15,000 peningas. I hope it's enough to pay the port master and for other possible expenses.
+dlga_kinghorik_quest_danmarkprot151:kinghorik_quest_danmarkprot153|Conosco il mastro portuale di Ribe, è un uomo ambizioso. Abbiamo bisogno di abbastanza soldi per acquistare queste informazioni.
+dlga_kinghorik_quest_danmarkprot153:kinghorik_quest_danmarkprot16|Beh, tengo da parte un pò del mio tesoro per queste questioni. Puoi prendere 15.000 denari. Spero che siano abbastanza per pagare il mastro portuale e per saldare altre spese.
 ; dlga_kinghorik_quest_danmarkprot16:kinghorik_quest_danmarkprot17|Also, if you want to keep your head on your neck, I would suggest you talk to Ulf and convince him not to testify against you at the Assembly. Another thing that might help would be to have good relations with the jarls of Danmark, so that they will speak well of you at the Assembly. I would recommend you meet them and try to get acquainted
 ; dlga_kinghorik_quest_danmarkprot17:kinghorik_quest_danmarkprot181|I surely will. I value my neck.
-; dlga_kinghorik_quest_danmarkprot17:kinghorik_quest_danmarkprot182|I think we have nothing more to talk about. Farewell.
+dlga_kinghorik_quest_danmarkprot17:kinghorik_quest_danmarkprot182|Penso che non abbiamo più nulla di cui parlare. Addio.
 ; dlga_kinghorik_quest_danmarkprot181:kinghorik_quest_danmarkprot19|Your neck is also important to me now, so trust me. Good luck.
-; dlga_kinghorik_quest_danmarkprot182:kinghorik_quest_danmarkprot19|You're right. I've spent much time here. Good luck.
-; dlga_kinghorik_quest_danmarkprot19:kinghorik_quest_danmarkprot20|{s2}^^{playername}, we have a mission to fulfill.
-; dlga_kinghorik_quest_danmarkprot20:kinghorik_quest_danmarkprot21|Very well, but I will not forget you or your betrayal, Egil.
-; dlga_kinghorik_quest_danmarkprot20:close_window|Yes, let us not waste any more time.
-; dlga_kinghorik_quest_danmarkprot21:kinghorik_quest_danmarkprot22|{s2}^^You're a liar, Egil. You tricked me, I trusted you. I thought there might be something between us, and all you wanted was information about {playername}. I... we... I thought...^^{s3}
+dlga_kinghorik_quest_danmarkprot182:kinghorik_quest_danmarkprot19|Hai ragione. Abbiamo trascorso troppo tempo qui. Buona fortuna.
+dlga_kinghorik_quest_danmarkprot19:kinghorik_quest_danmarkprot20| {s2}^^{playername}, abbiamo una missione da compiere.
+dlga_kinghorik_quest_danmarkprot20:kinghorik_quest_danmarkprot21|Molto bene, non dimenticherò voi o il vostro tradimento, Egil.
+dlga_kinghorik_quest_danmarkprot20:close_window|Sì, non perdiamo altro tempo.
+dlga_kinghorik_quest_danmarkprot21:kinghorik_quest_danmarkprot22|{s2}^^Sei un bugiardo, Egil. Mi hai ingannato, mi fidavo. Ho pensato che ci potreva essere qualcosa tra noi, invece tutto quello che volevi erano informazioni su {playername}. Io... noi... Ho pensato...^^{s3}
 ; dlga_kinghorik_quest_danmarkprot22:kinghorik_quest_danmarkprot23|{s2}^^King Horik is my king and my father. My loyalty is to him above any other. I don't have to give anyone an explanation. I didn't use Brunhild. We both had fun. It's her fault if she thought that it was something more. She should've known that someone like me will never marry, and certainly not a Frisian slave. You can think whatever you want, but thanks to me, you have the support of my father.
-; dlga_kinghorik_quest_danmarkprot23:close_window|When this is over, you will walk away. You will go back to your dear father.
-; dlga_kinghorik_quest_danmarkprot23:close_window.1|You'll pay for what you've done to Brunhild. When this is over, I will duel you.
-; dlga_kinghorik_quest_danmarkprot23:close_window.2|I do not want to talk about this. It's time to go.
+dlga_kinghorik_quest_danmarkprot23:close_window|Quando questa storia sarà finita, potrai tornare a casa. Potrai tornare dal tuo caro padre.
+dlga_kinghorik_quest_danmarkprot23:close_window.1|Pagherai per quello che hai fatto a Brunilde. Quando questa storia sarà finita, duellerò contro di voi.
+dlga_kinghorik_quest_danmarkprot23:close_window.2|Non voglio parlarne per ora. Dobbiamo andare.
 ; dlga_kinghorik_quest_thething1:kinghorik_quest_thething2|{s2}^^Why have you been so long in coming? Sigurd Ragnarsson is looking strong.
-; dlga_kinghorik_quest_thething2:kinghorik_quest_thething3|I had to resolve some issues, but still, I arrived on time.
-; dlga_kinghorik_quest_thething2:kinghorik_quest_thething3.1|I came as soon as I got your message. Maybe it was your messenger who was delayed?
+dlga_kinghorik_quest_thething2:kinghorik_quest_thething3|Ho dovuto risolvere alcuni problemi, comunque, sono arrivato in tempo.
+dlga_kinghorik_quest_thething2:kinghorik_quest_thething3.1|Sono venuto appena ho ricevuto il messaggio. Forse era il tuo messaggero a essere in ritardo?
 ; dlga_kinghorik_quest_thething3:kinghorik_quest_thething4|No matter, I think they are also awaiting your arrival, which means that maybe I should not have sent for you. I suspect they have some ploy to launch. Sigurd Ragnarsson has complained of 800 men who cannot board because I will not let him lead them. That much is true, because I proposed that Guthrum lead them. The problem is that Guthrum some days ago suffered the misfortune to have been killed on his farm. They accuse outlaws and criminals of burning down his house whilst he was hosting a feast inside. I think that it was Sven Bull Neck, the prow man of Sigurd's hird, who did it, but I have no evidence or witnesses. Everything and everyone was burned with the house.
-; dlga_kinghorik_quest_thething4:kinghorik_quest_thething5|Everything taken together, the situation is quite serious. Since Guthrum is dead, Sigurd is pushing hard to gain control of those 800 men. I fear he wishes to use them to take my throne.
+dlga_kinghorik_quest_thething4:kinghorik_quest_thething5|Dobbiamo restare uniti, la situazione è molto grave. Poiché Guthrum è morto, Sigurd sta spingendo duramente per ottenere il controllo di quei 800 uomini. Temo che desidera usarli per usurpare il mio trono.
 dlga_kinghorik_quest_thething5:kinghorik_quest_thething61|{s10}
-; dlga_kinghorik_quest_thething5:kinghorik_quest_thething7|Let's see what happens.
-; dlga_kinghorik_quest_thething5:kinghorik_quest_thething63|I do not care about your problems. I'm here for Bull Neck Sven and my mother.
+dlga_kinghorik_quest_thething5:kinghorik_quest_thething7|Vediamo cosa succede.
+dlga_kinghorik_quest_thething5:kinghorik_quest_thething63|Non mi importa dei tuoi problemi. Sono qui per Sven Bull Neck e per mia madre.
 dlga_kinghorik_quest_thething61:kinghorik_quest_thething7|{s4}
-; dlga_kinghorik_quest_thething63:kinghorik_quest_thething7|My problems are your problems. If Sigurd triumphs, your life will be worth nothing without my protection. The Assembly will name you an outlaw. You will lose everything and have to hide in the woods until someone kills you.
-; dlga_kinghorik_quest_thething7:kinghorik_quest_thething8_1|{s2}^^Greetings, {playername}. Sven Bull Neck has permission to speak to the assembly now. Let's see what that rat has to say.
-; dlga_kinghorik_quest_thething8_1:kinghorik_quest_thething8|Silence! Let's see what that snake has to say.
+dlga_kinghorik_quest_thething63:kinghorik_quest_thething7|I miei problemi sono anche i tuoi. Se Sigurd trionfa, la vostra vita non varrà nulla senza la mia protezione. L'Assemblea ti nominerà fuorilegge. Perderai tutto e dovrai nascondersi nella foresta fino a quando qualcuno ti ucciderà.
+dlga_kinghorik_quest_thething7:kinghorik_quest_thething8_1|{s2}^^Saluve, {playername}. Sven Bull Neck ha il permesso di parlare all'assemblea oggi. Vediamo cosa che ha da dire quel ratto.
+dlga_kinghorik_quest_thething8_1:kinghorik_quest_thething8|Silenzio! Vediamo cosa ha da dire quel serpente.
 ; dlga_kinghorik_quest_thething8:kinghorik_quest_thething81|{s2}^^Men of Danmark, you know me. When I was little more than a child, I was with Ragnar when he sacked Frankia with 120 ships and more than 4,000 men, an adventure that the skalds still relate. I am the man who led 400 Vikings in West Seaxe, the strongest kingdom in Englaland, to obtain great fame and wealth. Therefore, men fear me across Friese, Englaland, and Frankia, but here in Danmark, they rightfully respect and love me.
 ; dlga_kinghorik_quest_thething81:kinghorik_quest_thething82|I had a brother, Olvir White Hair, a better man than me. He was a man of honor, loved by the gods, but in the prime of life, he was murdered. Now the king protects his murderer. I have never demanded anything of the Assembly, but now I call for justice. Is it right that his murderer be here, among us, or that a king protect evil? Shall murderers go unpunished in this land?^^{s2}
-; dlga_kinghorik_quest_thething82:kinghorik_quest_thething83|{s2}^^It's what we expected. They use you to attack King Horik and undermine his authority.
+dlga_kinghorik_quest_thething82:kinghorik_quest_thething83|{s2}^^È quello che ci aspettavamo. Ti usano per attaccare Re Horik e minarne la sua autorità.
 ; dlga_kinghorik_quest_thething83:kinghorik_quest_thething85|{s2}^^Everyone knows your worth, Sven Bull Neck, and the feats you've done in your past, but your words seem to indicate that a king could support a murderer. This charge is very grave. The Assembly shall now listen to King Horik's response.
 ; dlga_kinghorik_quest_thething85:kinghorik_quest_thething86|Sven insults me. I have never protected nor will ever protect a murderer. If that were what I was doing, it was in ignorance. {playername} came to me for protection as a free {reg59?lady:man}, and I gave it to {reg59?her:him} after {reg59?she:he} proved {reg59?her:his} worth. The story {reg59?she:he} told me about the death of Olvir White Hair is quite different.
-; dlga_kinghorik_quest_thething86:kinghorik_quest_thething9|Now, it is time for the accused to speak on this matter.
-; dlga_kinghorik_quest_thething9:kinghorik_quest_thething90|You decide to discredit Sven Bull Neck. (Persuasion)
-; dlga_kinghorik_quest_thething9:kinghorik_quest_thething91|You decide to appeal to the crowd's sympathy by mentioning your mother's kidnapping.
-; dlga_kinghorik_quest_thething9:kinghorik_quest_thething92|You think it better to describe events without mentioning your mother's kidnapping.
+dlga_kinghorik_quest_thething86:kinghorik_quest_thething9|Ora, è il momento per l'imputato di parlare su questo tema.
+dlga_kinghorik_quest_thething9:kinghorik_quest_thething90|Decidi di screditare Sven Bull Neck. (Persuasione)
+dlga_kinghorik_quest_thething9:kinghorik_quest_thething91|Si decide di fare appello alla simpatia della folla menzionando il rapimento di tua madre.
+dlga_kinghorik_quest_thething9:kinghorik_quest_thething92|Pensi che sia meglio per descrivere gli eventi senza menzionare il rapimento di tua madre.
 ; dlga_kinghorik_quest_thething90:kinghorik_quest_thething90_1|My name is {playername}. Olvir White Hair tried to kill me at the behest of his brother, Sven Bull Neck. I was at peace on Ulf's farm, where I had gone by agreement with Sigurd Ragnarsson, present here today. Olvir White Hair came there with several men to try to kill me. As I always take strong issue with such a project, it was Olvir who died. I ask you, why did Sven send Olvir if he is the one who wants to get rid of me? I think it's because he fears me. Despite all of his bold words, he is in fact a coward who attacks defenseless ships and hides behind the cloak of his lord.
 ; dlga_kinghorik_quest_thething91:kinghorik_quest_thething94|My name is {playername}, and I'm no murderer. Olvir's death was self-defense. Sven Bull Neck had kidnapped my mother, but Sigurd Ragnarsson promised to give her back to me at Ulf's farm. Instead, he sent Olvir White Hair to kill me. Although Olvir White Hair fought hard during the battle, he was wounded and died.
 ; dlga_kinghorik_quest_thething92:kinghorik_quest_thething95|My name is {playername}, and I'm no murderer. Olvir's death was self-defense. I was at Ulf's farm, waiting for Sigurd Ragnarsson's messenger. Instead, Olvir White Hair came and attacked me, but he was mortally wounded during the battle.
@@ -5388,7 +5388,7 @@ dlga_druid_refugee:close_window|Grazie. Addio.
 ; dlga_old_ayuda_3:close_window|I haven't got time for this.
 ; dlga_old_ayuda_4:close_window|Thank you. Take this money and return as soon as possible. We have hungry children crying.
 ; dlga_start:quarry_refugee2|I am busy. Talk to the foreman.
-; dlga_quarry_refugee2:close_window|Very well, my good man. Farewell.
+dlga_quarry_refugee2:close_window|Molto bene, buon uomo. Addio.
 ; dlga_start:capataz_talk|What do you want? Can't you see that I am busy?
 dlga_capataz_pretalk:capataz_talk|Si?
 ; dlga_capataz_talk:capataz_angry|Watch how you speak to me, man, or I shall give you a painful reply.

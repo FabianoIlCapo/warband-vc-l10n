@@ -630,7 +630,7 @@ menu_notification_feast_quest_expired|{s10}
 ; mno_appoint_npc16|Appoint {s10}
 ; mno_appoint_default|Appoint a prominent citizen from the area...
 ; menu_minister_confirm|{s9}can be found at your court in {s12}. You should consult your minister periodically to avoid the accumulation of unresolved issues that may sap your authority...
-; menu_notification_court_lost|{s12}
+menu_notification_court_lost|{s12}
 ; menu_notification_player_faction_deactive|Your kingdom no longer holds any land.
 ; menu_notification_player_wedding_day|{s8} wishes to inform you that preparations for your wedding at {s10} have been completed and that your presence is expected imminently.
 menu_notification_player_kingdom_holds_feast|{s11}
@@ -664,7 +664,7 @@ mno_cattle_ok3c|Esqueça.
 ; menu_notification_lady_requests_visit|An elderly woman approaches your party and passes one of your men a letter, sealed in plain wax. It is addressed to you. When you break the seal, you see it is from {s15}. It reads, 'I so enjoyed your last visit. {s14} I am currently in {s10}.{s12}'
 ; mno_continuewo|Tell the woman to inform her mistress that you will come shortly.
 ; mno_continuewo2|Tell the woman to inform her mistress that you are indisposed.
-; menu_garden|{s12}
+menu_garden|{s12}
 ; mno_nurse|Go with the nurse
 ; mno_nurse2|Wait by the spring
 ; menu_kill_local_merchant_begin|You spot your victim and follow him, observing as he turns a corner into a dark alley.  This will surely be your best opportunity to attack him.
