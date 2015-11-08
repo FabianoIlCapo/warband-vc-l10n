@@ -290,7 +290,7 @@ qstr_Send_Foragers:|Invia uomini alla ricerca di cibo:
 qstr_^Send_men_to_forage_|^Invia gli uomini alla ricerca di cibo quando il vostro esercito viaggia. Torneranno con cibo extra ogni mezza giornata.
 qstr_Forty_men_are_needed|Sono necessari quaranta uomini.
 qstr_Fortify_Camp:|Accampamento Fortificato:
-qstr_^Fortify_your_camp_w|^Fortificare il vostro accampamento con le difese di base. Gli uomini impegnati in questo difficile lavoro avranno bisogno di una ricompensa di 200 denari, oppure potresti andare in contro a dei problemi.
+qstr_^Fortify_your_camp_w|^Fortificare il vostro accampamento con le difese di base. Gli uomini impegnati in questo difficile lavoro avranno bisogno di una ricompensa di 200 denari, oppure potresti andare incontro a dei problemi.
 qstr_Sixty_men_are_needed|Sono necessari sessanta uomini.
 qstr_Your_Refuge|Il tuo Rifugio
 qstr_Wait_Here|Aspetta Qui
@@ -300,7 +300,7 @@ qstr_Read_Book|Leggi Libro
 qstr_Retire|Ritiro dalle Armi
 qstr_Recruit_Prisoners|Recluta Prigionieri
 qstr_Followers__Camp|Seguaci dell' Accampamento
-qstr_Visit_Camp|Visita l' Accampamento
+qstr_Visit_Camp|Visita l'Accampamento
 qstr_Check_Location|Controlla Posizione
 qstr_You_cannot_build_you|Non puoi costruire il tuo rifugio cosi vicino a un insediamento.
 qstr_These_too_close_to_a|Sei troppo vicino ad un insediamento per accamparti.
@@ -668,7 +668,7 @@ qstr_Symbel_for_your_men.|Offri da bere ai tuoi uomini.
 qstr_Sail_from_port.|Salpare dal porto.
 qstr_You_have_lost_the_tr|Hai perso i commercianti perchè sei sbarcato senza di loro.
 qstr_You_have_lost_the_tra|Hai perso i commercianti perchè ti sei imbarcato senza di loro.
-qstr_vWaveInfo|vInformazioneOnda
+qstr_vWaveInfo|vWaveInfo
 qstr_vWaveOrigin|vWaveOrigin
 qstr_vTimer|vTimer
 qstr_Wank_ERROR!|Grave ERRORE!
@@ -904,9 +904,9 @@ qstr_Ragnar_s_sons_are_th|I figli di Ragnar sono gli uomini più pericolosi al m
 qstr_I_think_the_wife_of_|Penso che la moglie di un mio amico lo stia tradendo con un bardo.
 qstr_I_hate_bandits!_Some|Odio i banditi! Qualcuno dovrebbe ucciderli tutti.
 qstr_I_would_like_to_know|Mi piacerebbe sapere qualcosa riguardo all'epoca Romana.
-qstr_Many_of_the_nobles_o|Molti nobili d' Englaland sono impressionati dalla giovane principessa Hild. Lei è così bella. Peccato per le sue tendenze religiose!
+qstr_Many_of_the_nobles_o|Molti nobili d'Inghilterra sono impressionati dalla giovane principessa Hild. Lei è così bella. Peccato per le sue tendenze religiose!
 qstr_A_traveller_told_me_|Un viaggiatore mi ha detto che i Franchi stanno reclutando uomini per attaccare i Frisiani.
-qstr_The_Danish_have_brou|I danesi hanno portato tutti gli stranieri con loro. È come se tutto il mondo fosse venuto nella vecchia Englaland.
+qstr_The_Danish_have_brou|I Danesi hanno portato tutti gli stranieri con loro. È come se tutto il mondo fosse venuto nella vecchia Inghilterra.
 qstr_West_Seaxe_was_never|Il West Seaxe non è mai stato così potente come ora. È logico che il loro re sia considerato un Brytenwalda.
 qstr_I_wish_the_world_wer|Vorrei che il mondo fosse meno pericoloso. Pochi uomini riescono ad invecchiare.
 qstr_I_ve_been_told_the_a|Mi è stato detto che l'esercito degli Ui Neill mantiene un rigoroso addestramento ed una ferrea disciplina. Per questo motivo, sono loro i più potenti in Hibernia!
@@ -1034,7 +1034,7 @@ qstr_{s1}On_limbs.___{reg1|{s1}Sugli arti. (-{reg1} agilità)^^
 qstr_Scars:^^none|Cicatrici^^nessuna
 qstr_Scars:^^{s1}These_in|Cicatrici:^^{S1} Queste lesioni sono diventate permanenti. Ora non possono più essere curate.
 qstr_Lifetime_wounds:_{re|Ferite permanenti: {reg1} finora.
-; qstr_Current_party_size_l|Current party size limit: {reg0}.^^Renown: {reg34}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Fiefs: {s6}{reg35}^Ships (only in sea): {s7}{reg2}^^{playername} can completely manage {reg36} troops.^{reg59?She:He} currently has {reg37}.
+qstr_Current_party_size_l|L'attuale limite di dimensione della Compagnia è: {reg0}.^^Fama: {reg34}^Leadership Combinata:  {s2}{reg32}^Carisma: {s3}{reg33}^Feudi: {s6}{reg35}^Navi (solo quelle in mare): {s7}{reg2}^^{playername} può gestire al massimo {reg36} truppe.^{reg59?Attualmente:Attualmente} ne hai {reg37}.
 qstr_^No_food:___{reg7}|^Niente cibo:  -{reg7}
 qstr_^Wage_debt:___{reg7}|^Debito dai salari:  -{reg7}
 qstr_Currently_falling_fr|Attualmente classificato come: +
@@ -1621,7 +1621,7 @@ qstr_{s8}_of_the_{s9}|{s8} del {s9}
 qstr__As_you_reach_the_se|appena raggiungi l'insediamento, sei accolto dai tuoi uomini.
 qstr__As_you_reach_the_set|appena raggiungi l'insediamento, sei accolto dagli uomini di signore {s7}.
 qstr__You_are_greeted_by_|Sei accolto da uomini a te fedeli.
-qstr__You_are_greeted_by_m|Sei accolto da uomini a fedeli a {s7}.
+qstr__You_are_greeted_by_m|Sei accolto da uomini fedeli a {s7}.
 qstr_You_make_sure_they_s|Fate in modo che vedano che il loro signore, {s11}, è tenuto prigioniero dal vostro esercito.
 qstr_The_{reg6?town_s:for|Le scorte {reg6?della città:del forte} dovrebbero bastare per altri {reg3} giorni.
 qstr_The_{reg6?town_s:fort|Le scorte {reg6?della città:del forte} sono finite e i difensori stanno morendo di fame.
@@ -1722,7 +1722,7 @@ qstr_{s11}^{s15}|{s11}^{s15}
 qstr__As_you_reach_the_settl|appena raggiungi l'insediamento, sei accolto dagli uomini di signore {s7}.^{s15}
 qstr__This_fort_seems_to_| Questo forte non appartiene a nessuno.^{s15}
 qstr_You_are_greeted_by_m|Sei accolto da uomini a te fedeli.^{s15}
-qstr_You_are_greeted_by_me|Sei accolto da uomini a fedeli a {s7}.^{s15}
+qstr_You_are_greeted_by_me|Sei accolto da uomini fedeli a {s7}.^{s15}
 qstr__This_town_seems_to_| Questo città non appartiene a nessuno.^{s15}
 qstr__You_have_successful| Hai avuto successo nell'infiltrarti.
 qstr_{s13}_A_tournament_w|{s13} Un torneo si svolgerà qui a breve.
@@ -3167,7 +3167,7 @@ qstr_{s16}_{s15}|{s16}, {s15}
 qstr_I_can_smell_a_fat_pu|Posso sentire l'odore di una borsa piena a miglia di distanza. Mi sembra che la vostra potrebbe sgonfiarsi un pò, eh?
 qstr_Why_it_be_another_tr|Salve, vorrei mettervi in guardia... Sapete, questo è un paese pericoloso per {reg59?una brava ragazza:un bravo ragazzo} come voi, ed essendo in viaggio, potreste fare dei cattivi incontri per strada! Con una piccola donazione i miei uomini si assicureranno che voi possiate arrivare senza pericolo dove volete, che ne dite? È una proposta ragionevole, non trovate?
 qstr_Well_well._Look_at_t|Bene bene, guardate qui! Fareste meglio a sputare un pò d'argento, o io e i miei amici dovremo farvi del male.
-qstr_There_s_a_toll_for_p|C'è un pedaggio per passare liberamente attraverso queste terre, da pagare a noi, così... Se non volete pagare, possiamo prendere il pedaggio direttamente dalla vostra borsa...
+qstr_There_s_a_toll_for_p|C'è un pedaggio per passare liberamente attraverso queste terre, da pagare a noi... Se non volete pagare, possiamo prendere il pedaggio direttamente dal tuo cadavere...
 qstr_Another_fool_come_to|Ecco {reg59?qualcuna venuta:qualcuno venuto} a buttarsi direttamente sulla mia lama... Bene, combattiamo!
 qstr_We_re_not_afraid_of_|Non ci dispiace per voi, {reg59?fanciulla:messere}. È tempo di spaccare un pò di teste!
 qstr_That_was_a_mistake._|È stato un errore. Ora renderò la vostra morte lunga e dolorosa.

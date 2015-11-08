@@ -618,134 +618,134 @@ ui_group_9|Sem nome 3
 ui_group_rename|Renomear Grupo
 ui_group_close|Fechar
 ui_party_b_group_information|%s pertence ao grupo de %s
-; ui_thrown_or_s|Thrown/%s
-; ui_ranged_damage|Ranged: %d%s
-; ui_overall_quality|Overall Quality
-; ui_shader_quality|Shader Quality:
-; ui_flora_lod_detail|Tree Detail:
-; ui_flora_degrade_distance|Tree Degrade Distance:
-; ui_antialiasing|AntiAliasing:
-; ui_use_depth_effects|Use Depth Effects
-; ui_hdr_mode|HDR Mode:
-; ui_autoexpore|Auto-exposure
-; ui_choose_profile|Choose Profile
-; ui_create|Create
-; ui_edit|Edit
-; ui_join_game|Join a Game
-; ui_host_game|Host a Game
-; ui_custom|Custom
-; ui_medium|Medium
-; ui_male|Male
-; ui_female|Female
-; ui_gender|Choose Gender:
-; ui_edit_profile|Edit Profile
-; ui_new_profile|New Profile
-; ui_enter_username|Enter Username:
+ui_thrown_or_s|Arremesso/%s
+ui_ranged_damage|Longo: %d%s
+ui_overall_quality|Qualidade Geral
+ui_shader_quality|Qualidade de Sombra:
+ui_flora_lod_detail|Detalhe das Árvores:
+ui_flora_degrade_distance|Distância Redutora das Árvores:
+ui_antialiasing|AntiAliasing:
+ui_use_depth_effects|Usar Efeitos de Profundidade
+ui_hdr_mode|Modo HDR:
+ui_autoexpore|Auto-exposição
+ui_choose_profile|Escolher Perfil
+ui_create|Criar:
+ui_edit|Editar
+ui_join_game|Entrar em um Jogo
+ui_host_game|Hospedar um Jogo
+ui_custom|Customizado
+ui_medium|Médio
+ui_male|Masculino
+ui_female|Feminino
+ui_gender|Escolha o Gênero:
+ui_edit_profile|Editar Perfil
+ui_new_profile|Novo Perfil
+ui_enter_username|Entre Nome de Usuário:
 ; ui_invalid_username|Usernames may only contain letters, numbers or '_' character.
-; ui_confirmation|Are you sure?
-; ui_multiplayer|Multiplayer
-; ui_server_name|Server
-; ui_module_name|Module
-; ui_game_type|Game Type
-; ui_map_name|Map
-; ui_ping|Ping
-; ui_dedicated|Dedicated
-; ui_number_of_players|Players
+ui_confirmation|Tem certeza?
+ui_multiplayer|Multijogador
+ui_server_name|Servidor
+ui_module_name|Módulo
+ui_game_type|Tipo de Jogo
+ui_map_name|Mapa
+ui_ping|Ping
+ui_dedicated|Dedicado
+ui_number_of_players|Jogadores
 ui_password_protected|Senha
-; ui_connect|Connect
-; ui_local_area_network|Local Area Network
-; ui_internet|Internet
-; ui_favorites|Favorites
-; ui_source|Source:
-; ui_server_password|Server Password:
-; ui_refresh|Refresh
-; ui_start_search|Start Search
-; ui_add_to_favorites|Add to Favorites
-; ui_remove_from_favorites|Remove from Favorites
-; ui_use_speedtree|Use Speedtree
-; ui_use_instancing|Use Instancing
-; ui_error|Error
-; ui_error_server_full|Server is full.
-; ui_error_server_full_for_non_private|Server is full for players without a private member password.
-; ui_error_server_password_incorrect|Incorrect password.
-; ui_error_incorrect_serial|Incorrect serial number.
-; ui_error_incorrect_authorization_key|Incorrect authorization key.
-; ui_error_banned_from_server|You are banned from this server.
-; ui_error_username_taken|Your profile name is used by another player.
-; ui_error_authentication_failed|Authentication failed.
-; ui_unable_to_connect_to_server|Unable to connect to server.
-; ui_connection_to_server_is_lost|Connection to server is lost.
-; ui_kicked_from_server|Kicked from server.
-; ui_switch_to_module_question|This server is running another module than the one you are currently running. Do you want Mount&Blade to switch to this module?
-; ui_download_module_question|This server is running a module that is not installed on your computer. Would you like to visit the download site for this module now?
-; ui_download_mb_new_version_question|This server is running a newer version (%d.%d%d%d) of Mount&Blade than the one you are currently running (%d.%d%d%d). Would you like to visit TaleWorlds download site now?
-; ui_download_mb_old_version_question|This server is running an older version (%d.%d%d%d) of Mount&Blade and than the one you are currently running (%d.%d%d%d).
-; ui_download_module_new_version_question|This server is running a newer version (%d.%d%d%d) of the current module than the one you are running (%d.%d%d%d). Would you like to visit the download site for this module now?
-; ui_download_module_old_version_question|This server is running an older version (%d.%d%d%d) of the current module than the one you are running (%d.%d%d%d).
-; ui_authenticating_with_steam|Authenticating with Steam...
-; ui_validating_serial_number|Validating serial number...
-; ui_scanning_lan|Scanning local area network...
-; ui_retrieving_servers|Retrieving server list...
-; ui_shield_size2|Size: %dx%d
-; ui_click_to_view_notes|Click to view notes
-; ui_retrieving_server_infos|Retrieving information from servers (%d)...
-; ui_connecting_to_server|Connecting to server...
-; ui_requesting_to_join_the_game|Requesting to join the game...
-; ui_loading|Loading...
-; ui_group_value_control|Group %d!
-; ui_drop_weapon|Drop Weapon
-; ui_multiplayer_message_all|Send Message to Everyone
-; ui_multiplayer_message_team|Send Message to Team
-; ui_command_line|Command Line
-; ui_use_ranged_weapon_as_melee|Toggle Weapon Mode
-; ui_send_message_all|Send Message to Everyone
-; ui_send_message_team|Send Message to Team
-; ui_select|Select
-; ui_context_menu|Context Menu
-; ui_round_starts_in_value_seconds|Round starts in %d seconds...
-; ui_watching_value|Following %s
-; ui_capital_spec|SPEC
-; ui_capital_dead|DEAD
-; ui_instancing_error1|Could not lock Instance Buffer (size: %d), Disabled mesh-instancing (Error Code: %d)
-; ui_instancing_error2|Could not fit instanced objects, Disabled mesh-instancing
-; ui_by_keyboard|By movement keys
+ui_connect|Conectar
+ui_local_area_network|Área de Rede Local
+ui_internet|Internet
+ui_favorites|Favoritos
+ui_source|Fonte:
+ui_server_password|Senha do Servidor:
+ui_refresh|Atualizar
+ui_start_search|Começar Busca
+ui_add_to_favorites|Adicionar a Favoritos
+ui_remove_from_favorites|Remover dos Favoritos
+ui_use_speedtree|Usar Speedtree
+ui_use_instancing|Usar Instancing
+ui_error|Erro
+ui_error_server_full|Servidor cheio.
+ui_error_server_full_for_non_private|Servidor está cheio de jogadores sem uma senha de membro privado.
+ui_error_server_password_incorrect|Senha incorreta.
+ui_error_incorrect_serial|Número de serial incorreto.
+ui_error_incorrect_authorization_key|Chave de autorização incorreta.
+ui_error_banned_from_server|Você foi banido desse servidor.
+ui_error_username_taken|Seu nome de perfil está sendo usado por outro jogador.
+ui_error_authentication_failed|Falha de autenticação.
+ui_unable_to_connect_to_server|Incapaz de conectar ao servidor.
+ui_connection_to_server_is_lost|Conexão com o servidor perdida.
+ui_kicked_from_server|Chutado do servidor.
+ui_switch_to_module_question|Este servidor está usando outra modificação que você não está usando no momento. Você quer que Mount&Blade mude para essa modificação?
+ui_download_module_question|Este servidor está usando outra modificação que você não está usando no momento. Você gostaria de visitar o site de download dessa modificação agora?
+ui_download_mb_new_version_question|Este servidor está usando uma versão mais recente (%d.%d%d%d) do Mount&Blade se comparado a versão que você usa (%d.%d%d%d). Gostaria de visitar o site de dowload da TalesWorlds agora?
+ui_download_mb_old_version_question|Este servidor está usando uma versão mais velha (%d.%d%d%d) do Mount&Blade se comparado a versão que você usa (%d.%d%d%d). 
+ui_download_module_new_version_question|Este servidor está usando uma versão mais recente (%d.%d%d%d) da modificação se comparado a versão que você usa (%d.%d%d%d). Gostaria de visitar o site de download dessa modificação agora?
+ui_download_module_old_version_question|Este servidor está usando uma versão mais velha (%d.%d%d%d) da modificação se comparado a versão que você está usando (%d.%d%d%d). 
+ui_authenticating_with_steam|Autenticando com o Steam...
+ui_validating_serial_number|Validando número de serial...
+ui_scanning_lan|Escaneando área de rede local
+ui_retrieving_servers|Pegando lista de servidores...
+ui_shield_size2|Tamanho: %dx%d
+ui_click_to_view_notes|Clique para ver as notas
+ui_retrieving_server_infos|Pegando informação dos servidores {%d}...
+ui_connecting_to_server|Conectando-se ao servidor...
+ui_requesting_to_join_the_game|Solicitando entrada no jogo...
+ui_loading|Carregando...
+ui_group_value_control|Grupo %d!
+ui_drop_weapon|Largar Arma
+ui_multiplayer_message_all|Mandar Mensagem a Todos
+ui_multiplayer_message_team|Mandar Mensagem para o Time
+ui_command_line|Linha de Comando
+ui_use_ranged_weapon_as_melee|Mudar Modo da Arma
+ui_send_message_all|Mandar Mensagem a Todos
+ui_send_message_team|Mandar Mensagem para o Time
+ui_select|Selecionar
+ui_context_menu|Menu de Contexto
+ui_round_starts_in_value_seconds|Rodada começa em %d segundos...
+ui_watching_value|Seguindo %s
+ui_capital_spec|OBSE
+ui_capital_dead|MORTO
+ui_instancing_error1|Não foi possível travar Instance Buffer (tamanho: %d), Mesh-instancing desativado (Código do Erro: %d)
+ui_instancing_error2|Não foi possível colocar os objetos instanciados, mesh-instancing desativado
+ui_by_keyboard|Pelo movimento das teclas
 ui_combat_speed_slowest|Muito mais lenta
 ui_combat_speed_slower|Mais lenta
 ui_combat_speed_normal|Normal
 ui_combat_speed_faster|Mais rápida
 ui_combat_speed_fastest|Muito mais rápida
-; ui_module_newer_than_application|The module you have selected requires a newer version of the game.
-; ui_module_older_than_application|The module you have selected requires an older version of the game.
+ui_module_newer_than_application|O módulo que você selecionou precisa de uma versão mais atual do jogo.
+ui_module_older_than_application|O módulo que você selecionou precisa de uma versão mais antiga do jogo.
 ui_unbalanced|Não balanceado
-; ui_can_crush_through_blocks|Can crush through blocks
-; ui_turn_camera_with_horse|Turn Camera with Horse in First Person:
-; ui_widescreen_mode_on|Multiple Screen Mode Enabled
-; ui_widescreen_mode_off|Multiple Screen Mode Disabled
-; ui_notification_cant_upgrade|(Can't upgrade: not enough money)
+ui_can_crush_through_blocks|Pode furar bloqueios
+ui_turn_camera_with_horse|Mudar Câmera com Cavalo em Primeira Pessoa:
+ui_widescreen_mode_on|Modo Tela Múltipla Ativado
+ui_widescreen_mode_off|Modo Tela Múltipla Desativado
+ui_notification_cant_upgrade|(Não pode promover: dinheiro insuficiente)
 ui_turn_never|Nunca
-; ui_turn_ranged_only|Ranged only
-; ui_turn_melee_only|Melee only
-; ui_turn_always|Always
-; ui_general_options|General Options
-; ui_vac_enabled|Valve Anti Cheat Enabled
-; ui_campaign_ai|Campaign AI:
-; ui_downloading_map|Downloading map (%d KB)
+ui_turn_ranged_only|Somente Ataque de Longe
+ui_turn_melee_only|Somente Ataque de Perto
+ui_turn_always|Sempre
+ui_general_options|Opções Gerais
+ui_vac_enabled|Anti Trapaça da Valve Ativado
+ui_campaign_ai|IA da Campanha:
+ui_downloading_map|Baixando mapa (%d KB)
 ui_download_completed|Download concluído.
 ui_server_filter|Filtro de servidores
-; ui_has_players|Has players
-; ui_is_not_full|Not full
+ui_has_players|Tem jogadores
+ui_is_not_full|Não está cheio
 ui_is_password_free|Sem senha
 ui_native_only|Somente Nativo
 ui_ping_limit|Limite de ping
-; ui_filter_info|%d games and %d players filtered
+ui_filter_info|%d jogos e % jogadores filtrados
 ui_is_version_compatible|Compatível com a versão
-; ui_ttnet_account|TTNET Oyun account
+ui_ttnet_account|Conta TTNET Oyun
 ui_username|Nome de usuário
 ui_password|Senha
 ui_error_incorrect_username_or_password|Nome de usuário incorreto ou senha
 ui_validating_account|Validando a conta...
 ui_plase_enter_your_serial_key|Por favor insira sua chave de série
 ui_texture_detail2|Detalhe da textura:
-; ui_antialiasing2|Antialiasing:
+ui_antialiasing2|Antialiasing:
 ; ui_troop_upgrades|Troop Tree
 ; ui_crouch|Crouch

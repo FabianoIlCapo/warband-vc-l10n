@@ -49,7 +49,7 @@ qstr_Orders|Ordens
 qstr_Mount|Montar
 qstr_Attack_Order|Ordem de ataque
 qstr_Retreat|Recuar
-; qstr_Stand_Ground|Stand Ground
+qstr_Stand_Ground|Manter a posição
 qstr_Charge|Atacar
 qstr_Follow_Me|Siga-me
 qstr_Hold_This_Position|Mantenha esta posição
@@ -67,29 +67,29 @@ qstr_Wounded|Feridos
 qstr_Dead|Mortos
 qstr_Number_of_men_knocke|Número de homens derrubados: {reg1}
 qstr_Number_of_men_left:_|Número de homens que restam: {reg1}
-; qstr_Opponents_Beaten:_{r|Opponents Beaten: {reg1}
+qstr_Opponents_Beaten:_{r|Inimigos Derrotados: {reg1}
 qstr_Opponents_Remaining:|Os adversários restantes: {reg1}
-; qstr_Remain_in_retirement|Remain in retirement.
+qstr_Remain_in_retirement|Continuar aposentad{o/a}.
 ; qstr_Go_back_to_adventuri|Go back to adventuring.
-; qstr_You_have_retired_at_|You have retired at level {reg4} after {reg5} days of adventuring.
-; qstr_Effect_on_Score|Effect on Score
-; qstr_Settlements_owned_by|Settlements owned by you: {reg0}
-; qstr_Friendly_Settlements|Friendly Settlements: {reg0}
-; qstr_Hostile_Settlements:|Hostile Settlements: {reg0}
-; qstr_Friendly_Lords:_{reg|Friendly Lords: {reg0}
-; qstr_Enemy_Lords:_{reg0}|Enemy Lords: {reg0}
-; qstr_Victories:_{reg0}|Victories: {reg0}
-; qstr_Defeats:_{reg0}|Defeats: {reg0}
-; qstr_Quests_Completed:_{r|Quests Completed: {reg0}
-; qstr_Companions_Found:_{r|Companions Found: {reg0}
-; qstr_Companions_Lost/Depa|Companions Lost/Departed: {reg0}
+qstr_You_have_retired_at_|Você se aposentou no nível {reg4} aos seus {reg5} dias de aventura.
+qstr_Effect_on_Score|Efeito no Escore
+qstr_Settlements_owned_by|Assentamentos possuídos por você: {reg0}
+qstr_Friendly_Settlements|Assentamentos Aliados: {reg0}
+qstr_Hostile_Settlements:|Assentamentos inimigos: {reg0}
+qstr_Friendly_Lords:_{reg|Lordes Aliados: {reg0}
+qstr_Enemy_Lords:_{reg0}|Lordes Inimigos: {reg0}
+qstr_Victories:_{reg0}|Vitórias: {reg0}
+qstr_Defeats:_{reg0}|Derrotas: {reg0}
+qstr_Quests_Completed:_{r|Missões Concluídas: {reg0}
+qstr_Companions_Found:_{r|Companheiros Encontrados: {reg0}
+qstr_Companions_Lost/Depa|Companheiros Perdidos: {reg0}
 ; qstr_Wealth:_{reg0}_penin|Wealth: {reg0} peningas
 ; qstr_Inventory:_{reg0}_pe|Inventory: {reg0} peningas
-; qstr_Renown:_{reg0}|Renown: {reg0}
-; qstr_Experience:_{reg0}|Experience: {reg0}
-; qstr_Days_Passed:_{reg0}|Days Passed: {reg0}
-; qstr_Difficulty:_{reg0}%|Difficulty: {reg0}%
-; qstr_TOTAL_SCORE:_{reg0}|TOTAL SCORE: {reg0}
+qstr_Renown:_{reg0}|Renome: {reg0}
+qstr_Experience:_{reg0}|Experiência: {reg0}
+qstr_Days_Passed:_{reg0}|Dias Passados: {reg0}
+qstr_Difficulty:_{reg0}%|Dificuldade: {reg0}%
+qstr_TOTAL_SCORE:_{reg0}|ESCORE TOTAL: {reg0}
 ; qstr_Unpaid|Unpaid
 ; qstr_Kingdom_Advisor:|Kingdom Advisor:
 ; qstr_Kingdom_Tributes:|Kingdom Tributes:
@@ -121,7 +121,7 @@ qstr_{s1}|{s1}
 ; qstr_STORYLINE_CAMPAIGN|STORYLINE CAMPAIGN
 ; qstr_Impossible|Impossible
 ; qstr_Full_Realism|Full Realism
-; qstr_Custom|Custom
+qstr_Custom|Customizado
 ; qstr_Easy_Recruitment:|Easy Recruitment:
 ; qstr_Easy_Levelling:|Easy Levelling:
 ; qstr_Easy_Upkeep:|Easy Upkeep:
@@ -195,8 +195,8 @@ qstr_Who_are_you?|Quem é você?
 ; qstr_Learnt_While_a_Child|Learnt While a Child:
 ; qstr_Vocation:|Vocation:
 ; qstr_Religion:|Religion:
-; qstr_Female|Female
-; qstr_Male|Male
+qstr_Female|Feminino
+qstr_Male|Masculino
 qstr_Normal|Normal
 ; qstr_Tall|Tall
 ; qstr_Short|Short
@@ -232,7 +232,7 @@ qstr_Merchant|Mercador
 ; qstr_Martial_Arts|Martial Arts
 ; qstr_Slave|Slave
 ; qstr_Traveler|Traveler
-; qstr_Hunter|Hunter
+qstr_Hunter|Cavalo de Caça
 ; qstr_Landowner|Landowner
 ; qstr_Christian|Christian
 ; qstr_Pagan|Pagan
@@ -266,7 +266,7 @@ qstr_Merchant|Mercador
 ; qstr_Attributes/Skills|Attributes/Skills
 ; qstr_Wounds|Wounds
 ; qstr_Quest|Quest
-; qstr_Party|Party
+qstr_Party|Companhia
 ; qstr_Relations|Relations
 ; qstr_Budget|Budget
 qstr_Statistics|Estatísticas
@@ -457,7 +457,7 @@ qstr_Good|Bom
 ; qstr_Apply|Apply
 ; qstr_Only_ships_made_of_o|Only ships made of oak are considered to deserve a special finish.
 ; qstr_You_don_t_have_enoug|You don't have enough money.
-; qstr_Accept|Accept
+qstr_Accept|Aceitar
 ; qstr_Dismiss_Staff|Dismiss Staff
 ; qstr_Recruit_staff_for_yo|Recruit staff for your refuge:
 ; qstr_^Hiring_staff_has_bo|^Hiring staff has both initial and continuing costs. A good reputation and an impressive refuge will attract a greater variety of candidates.
@@ -631,17 +631,17 @@ qstr_Troops:|Tropas:
 ; qstr_{s1}_has_become_unco|{s1} has become uncontrollable!
 ; qstr_{s1}_is_getting_exha|{s1} is getting exhausted after the rage.
 ; qstr_{s1}_back_to_normal!|{s1} back to normal!
-; qstr_Manage_this_village.|Manage this village.
+qstr_Manage_this_village.|Gerenciar esse vilarejo.
 ; qstr_Recruit_volunteers.|Recruit volunteers.
-; qstr_Go_to_the_village_ce|Go to the village center.
+qstr_Go_to_the_village_ce|Ir ao centro do vilarejo.
 ; qstr_Meet_the_leader.|Meet the leader.
 ; qstr_Buy_supplies.|Buy supplies.
-; qstr_Attack_the_bandits.|Attack the bandits.
+qstr_Attack_the_bandits.|Atacar os bandidos.
 qstr_Wait_here_for_some_t|Esperar aqui por algum tempo.
 ; qstr_{reg5?Continue_colle|{reg5?Continue collecting taxes:Collect taxes}.
-; qstr_Train_the_peasants.|Train the peasants.
+qstr_Train_the_peasants.|Treinar os aldeões.
 qstr_Take_an_action.|Tome uma ação.
-; qstr_Leave...|Leave...
+qstr_Leave...|Sair...
 ; qstr_You_need_to_obtain_p|You need to obtain permission from the leader in this village to recruit here.
 ; qstr___Symbel_| (Symbel)
 ; qstr_Join_the_competition|Join the competitions.
@@ -649,16 +649,16 @@ qstr_Take_an_action.|Tome uma ação.
 ; qstr_Meet_the_mayor.|Meet the mayor.
 ; qstr_Mead_hall__hire_men_|Mead hall (hire men).
 ; qstr_Visit_the_mead_hall.|Visit the mead hall.
-; qstr_Speak_with_the_merch|Speak with the merchant.
+qstr_Speak_with_the_merch|Falar com o comerciante.
 ; qstr_Visit_the_training_g|Visit the training grounds.
-; qstr_Never:_Enter_the_pri|Never: Enter the prison.
+qstr_Never:_Enter_the_pri|Nunca: Entre na prisão
 ; qstr_Tour_the_grounds.|Tour the grounds.
 ; qstr_Visit_your_farmstead|Visit your farmstead.
 ; qstr_Attempt_to_visit_a_l|Attempt to visit a lady.
 ; qstr_Trade_with_locals.|Trade with locals.
 ; qstr_Travel_to_another_Po|Travel to another Port.
 ; qstr_Manage_this_{reg0?to|Manage this {reg0?town:fort}.
-; qstr_Move_your_court_here|Move your court here.
+qstr_Move_your_court_here|Mudar sua corte para cá.
 ; qstr_Manage_the_garrison.|Manage the garrison.
 ; qstr___{reg1}_peningas_pe| ({reg1} peningas per night)
 ; qstr___1_pening_per_night| (1 pening per night)
@@ -684,9 +684,9 @@ qstr_Take_an_action.|Tome uma ação.
 ; qstr_Trying_to_improve_yo|Trying to improve your relations with {s44}
 ; qstr_Is_imprisoned_in_the|Is imprisoned in the dungeon of {s44}
 ; qstr_{s54}_is_a_claimant_|{s54} is a claimant to the throne of the {s56}.
-; qstr_nowhere|nowhere
-; qstr_{s57}_and_{s58}|{s57} and {s58}
-; qstr_{reg3?She:He}|{reg3?She:He}
+qstr_nowhere|lugar algum
+qstr_{s57}_and_{s58}|{s57} e {s58}
+qstr_{reg3?She:He}|{reg3?Ela:Ele}
 ; qstr_The_town_of_{s50}|The town of {s50}
 ; qstr_The_village_of_{s50}|The village of {s50} near {s52}
 ; qstr_{s51}_belongs_to_{s1|{s51} belongs to {s1} of the {s2}.^
@@ -1726,7 +1726,7 @@ qstr_Villagers|Habitantes
 ; qstr__This_town_seems_to_| This town seems to belong to no one.^{s15}
 ; qstr__You_have_successful| You have successfully sneaked in.
 ; qstr_{s13}_A_tournament_w|{s13} A tournament will be held here soon.
-; qstr_{s10}_{s14}^{s11}{s1|{s10} {s14}^{s11}{s12}{s13}
+qstr_{s10}_{s14}^{s11}{s1|{s10} {s14}^{s11}{s12}{s13}
 ; qstr_An_expensive_horse_i|An expensive horse is awarded to you for your victory.
 ; qstr_A_fat_cow_is_awarded|A fat cow is awarded to you for your victory.
 ; qstr_You_are_given_a_beau|You are given a beautiful shirt of mail adorned with a pelt, as befits a mighty warlord.
@@ -1762,7 +1762,7 @@ qstr_Villagers|Habitantes
 ; qstr_The_training_went_pe|The training went perfectly.
 ; qstr_You_fall_on_the_grou|You fall on the ground with multiple injuries. Each time your heart beats more slowly and your vision fades away... This battle was too much for you, and death rides to meet you.^^While life escapes, you hope that someone will just remember that there was once someone special called {playername}.
 ; qstr_After_losing_the_sea|After losing the sea battle, you manage to escape with one of your ships.
-; qstr_Your_enemies_take_yo|Your enemies take you prisoner.
+qstr_Your_enemies_take_yo|Seus inimigos levam você como um prisioneiro.
 ; qstr_{s13}_asked_you_to_r|{s13} asked you to report to him with at least {reg13} troops.
 ; qstr_{s13}_ordered_you_to|{s13} ordered you to join the assault against {s14}.
 ; qstr_Find_and_speak_with_|Find and speak with {s3} of the {s4} to give him your oath of homage.
@@ -2100,7 +2100,7 @@ qstr_Villagers|Habitantes
 ; qstr_People_say_that_{s31}_|People say that {s31} served one of {s32}'s bodyguards a horn of poisoned mead. {s32} is infuriated.
 ; qstr_People_say_that_{s31}_t|People say that {s31} tried to bribe some of {s32}'s bodyguards to get access to the household, but {s32} found out.
 ; qstr_People_say_that_a_ru|People say that a rumor spread by an unknown traveller failed to incite enmity between {s31} and {s32}.
-; qstr_{s33}|{s33}
+qstr_{s33}|{s33}
 ; qstr_Rumors|Rumors
 ; qstr_{playername}_is_beli|{playername} is believed to be behind the recent derogatory rumors involving {s32} and {s31}.
 ; qstr_A_recent_rumor_alleg|A recent rumor alleges that {s32} hides behind his bodyguards in battles.
@@ -2492,7 +2492,7 @@ qstr_Perhaps..._Do_you_gi|Talvez... Você nos dá sua palavra de honra que serem
 ; qstr___He_applauds.__|--He applauds.--
 ; qstr_Your_men_think_that_you_are|Your men think that you are a great leader.
 ; qstr_{s11}_thinks_that_yo|{s11} thinks that you are a weak leader.
-; qstr_{s14}|{s14}
+qstr_{s14}|{s14}
 ; qstr___Both_stop_surprise|--Both stop, surprised by your authoritative tone. Egil turns to you, nervous.--
 ; qstr_{s11}_thinks_that_you|{s11} thinks that you are a great leader.
 ; qstr___Ulf_watches_mouth_|--Ulf watches, mouth agape, as Egil and Reginhard, followed by many of your men, assail his warehouse.--
@@ -2872,7 +2872,7 @@ qstr_Perhaps..._Do_you_gi|Talvez... Você nos dá sua palavra de honra que serem
 ; qstr_{playername}_we_all_|{playername}, we all make mistakes in our lives, and while your treatment of my subjects was bad, I don't hold grudges. I will help you to restore people's believe in you as a just ruler. Allow me to take that purse with {reg7} peningas, and I'll take care of the business.
 ; qstr_Rumor_has_it_that_{s|Rumor has it that {s35} just took the money and didn't even bother talking to people.
 ; qstr_Rumor_has_it_that_{s3|Rumor has it that {s35} kept the money for himself.
-; qstr_{s34}|{s34}
+qstr_{s34}|{s34}
 ; qstr_Your_efforts_to_brib|Your efforts to bribe local population were unsuccessful.
 ; qstr_Our_marshal_{s1}|Our marshal, {s1}
 ; qstr_We_are_not_at_war_wi|We are not at war with anyone.
@@ -3189,7 +3189,7 @@ qstr_Perhaps..._Do_you_gi|Talvez... Você nos dá sua palavra de honra que serem
 ; qstr_{s6}_Our_{reg4?town:v|{s6} Our {reg4?town:village} and the surrounding lands belong to {s7} of the {s8}.
 ; qstr_{s3}_and_{s5}|{s3} and {s5}
 ; qstr_{reg20?We_mostly_pro|{reg20?We mostly produce {s5} here:We don't produce much here these days}. If you would like to learn more, you can speak with our {reg4?mayor:village elder}. He is nearby, right over there.
-; qstr_Mind_your_manners_wi|Mind your manners within the walls and we'll have no trouble.
+qstr_Mind_your_manners_wi|Comporte-se dentro desses muros e não teremos problemas.
 ; qstr_Bugger_off_stranger.|Bugger off, stranger. Can't you see I am busy watching that plump wench over there?
 ; qstr_Make_sure_to_keep_yo|Make sure to keep your hands in the open, and no funny business around merchants' booths.
 ; qstr_I_m_very_happy._You_|I'm very happy. You're a good leader who knows how to keep his men happy!

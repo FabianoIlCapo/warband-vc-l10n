@@ -843,7 +843,7 @@ str_npc16_payment_response|Muito bem.
 ; str_npc5_honorific|{reg59?Madame:Sir}
 ; str_npc6_honorific|Dux
 ; str_npc7_honorific|Leader
-; str_npc8_honorific|{playername}
+str_npc8_honorific|{playername}
 ; str_npc9_honorific|My good {reg59?lady:sir}
 ; str_npc10_honorific|Dryhten
 ; str_npc11_honorific|{reg59?My pretty:Handsome} -- I mean warlord
@@ -900,7 +900,7 @@ str_npc11_kingsupport_2a|Conte-me mais.
 ; str_npc14_kingsupport_2a|Very good, captain.
 ; str_npc15_kingsupport_2a|Well spoken, Strategos!
 ; str_npc16_kingsupport_2a|Of course I am. We are nothing but instruments of God.
-; str_npc1_kingsupport_2b|Forget it.
+str_npc1_kingsupport_2b|Esqueça.
 ; str_npc2_kingsupport_2b|I do not ask for their support, as they would no doubt wish to make a profit on the transaction.
 ; str_npc3_kingsupport_2b|I have no intention of helping any more slaves, sorry.
 ; str_npc4_kingsupport_2b|I don't have any, unfortunately.
@@ -908,7 +908,7 @@ str_npc11_kingsupport_2a|Conte-me mais.
 ; str_npc6_kingsupport_2b|I am sorry, but my future kingdom will not meddle with continental affairs.
 ; str_npc7_kingsupport_2b|Sorry. I respect you for your abilities, but warriors, men, and Britons are much more deserving than others.
 ; str_npc8_kingsupport_2b|That's a pretty tall condition. By the time I am {reg59?queen:king}, Friese will probably have freed itself from the Danish.
-; str_npc9_kingsupport_2b|I'm not sure that implementing your idea would be as 'simple' as you think
+str_npc9_kingsupport_2b|Não tenho certeza que implementar sua ideia seria tão fácil quanto pensa
 ; str_npc10_kingsupport_2b|You are out of your mind. There are valorous and noble men from every nation.
 ; str_npc11_kingsupport_2b|I do not want to be a Brytenwalda. Forget it.
 ; str_npc12_kingsupport_2b|Enough, sir. I will not have you mock our traditions.
@@ -1313,65 +1313,65 @@ str_npc11_kingsupport_2a|Conte-me mais.
 ; str_troop_train_request_pitiless|They are more afraid of the enemy than they are of me, and this will not do.
 ; str_troop_train_request_cunning|But men, like swords, are tempered and hardened by fire.
 ; str_troop_train_request_sadistic|They need someone with steel in his back to flog some courage into them, or kill them trying.
-; str_troop_train_request_goodnatured|They're good enough lads, but I am afraid that they are not quite ready for a battle just yet.
-; str_troop_train_request_upstanding|It would be tantamount to murder for me to lead them into combat in their current state.
-; str_unprovoked_attack_default|What? Why do you attack us? Speak, you rascal!
-; str_unprovoked_attack_martial|I have no objection to a trial of arms, but I would ask you for what reason you attack us?
+str_troop_train_request_goodnatured|Eles são bons rapazes, mas temo que eles não estejam prontos para batalha ainda.
+str_troop_train_request_upstanding|Seria o equivalente a ser um assassino liderar eles em batalha no seu estado atual.
+str_unprovoked_attack_default|O que? Por que nos ataca? Fale, seu patife!
+str_unprovoked_attack_martial|Não tenho objeção contra um desafio com armas, mas pergunto por qual motivo nos ataca?
 ; str_unprovoked_attack_quarrelsome|You're making a big mistake, {reg59?girl:boy}. What do you think you're doing?
-; str_unprovoked_attack_pitiless|Indeed? If you really want to die today, I'd be more than happy to oblige you, but I am curious as to what you hope to accomplish.
-; str_unprovoked_attack_cunning|Really? I think that you are acting most unwisely. What do you hope to gain by this?
-; str_unprovoked_attack_sadistic|What's this? Do you enjoy having your eyes put out?
+str_unprovoked_attack_pitiless|É sério? Se realmente quer morrer hoje, ficarei muito feliz em obliterá-l[o/a}, mas estou curioso para ver o que você deseja com isso.
+str_unprovoked_attack_cunning|É sério? Eu acho que esta agindo sem pensar. O que pensa em ganhar com isto?
+str_unprovoked_attack_sadistic|O que é isso? Você gosta de ficar com olho roxo?
 ; str_unprovoked_attack_goodnatured|Why do you do this? We've got no quarrel, {reg59?madame:sir}.
 ; str_unprovoked_attack_upstanding|I consider this an unprovoked assault and will protest to your king. Why do you do this?
-; str_unnecessary_attack_default|I will not hesitate to cut you down if pressed, but I will offer you the chance to ride away from this.
+str_unnecessary_attack_default|Não hesitarei em lhe cortar, mas oferecerei a chance de se retirar.
 ; str_unnecessary_attack_martial|I am eager to take you up on your challenge, {reg59?madame:sir}, although I will give you a moment to reconsider.
-; str_unnecessary_attack_quarrelsome|Bah! I'm in no mood for this nonsense today. Get out of my way.
-; str_unnecessary_attack_pitiless|I am in a merciful mood today. I will pretend that I did not hear you.
-; str_unnecessary_attack_cunning|I don't see what you have to gain by making an enemy of me. Maybe you should just ride away.
-; str_unnecessary_attack_sadistic|I have no time to waste on a worm like you. Get out of my way.
+str_unnecessary_attack_quarrelsome|Bah! Não estou com vontade para essa baboseira hoje. Saia do meu caminho.
+str_unnecessary_attack_pitiless|Estou misericordioso hoje, vou fingir que não ouvi você.
+str_unnecessary_attack_cunning|Não vejo o que você ganha por me fazer um inimigo. Talvez seja melhor que você saia daqui agora.
+str_unnecessary_attack_sadistic|Não tenho tempo para gastar com um verme com você. Saia do meu caminho.
 ; str_unnecessary_attack_goodnatured|I don't see what you have to gain by picking a fight, {reg59?madame:sir}. You can still ride away.
 ; str_unnecessary_attack_upstanding|If a fight is what you wish, {reg59?madame:sir}, then you will have one, but I will yet offer you the chance to back down.
-; str_lord_challenged_default|As you wish. Prepare to die!
-; str_lord_challenged_martial|So be it. Defend yourself!
-; str_lord_challenged_quarrelsome|You impudent whelp! I'll crush you!
-; str_lord_challenged_pitiless|If you so badly wish to die, then I have no choice but to oblige you.
-; str_lord_challenged_cunning|Well, if you leave me no choice...
-; str_lord_challenged_sadistic|You heap of filth! I'll make you wish you'd never been born.
+str_lord_challenged_default|Como quiser. Prepare-se para morrer!
+str_lord_challenged_martial|Que seja. Defenda-se!
+str_lord_challenged_quarrelsome|Seu cão sem vergonha! Vou esmagá-lo
+str_lord_challenged_pitiless|Se deseja muito morrer, então não tenho escolha se não obliterá-l{o/a}.
+str_lord_challenged_cunning|Bem, se não me deixa escolha...
+str_lord_challenged_sadistic|Seu monte de estrume! Vou fazer você desejar nunca ter nascido.
 ; str_lord_challenged_goodnatured|Very well. I had hoped that we might avoid coming to blows, but I see that I have no choice.
-; str_lord_challenged_upstanding|So be it. It saddens me that you cannot be made to see reason.
-; str_lord_mission_failed_default|Well, I am disappointed, but I am sure that you will have many chances to redeem yourself.
+str_lord_challenged_upstanding|Que seja. Fico triste que não haja com razão.
+str_lord_mission_failed_default|Bem, eu estou desapontado, mas tenho certeza que terá muitas chances para se redimir.
 ; str_lord_mission_failed_martial|There is no honour in failing a quest that you endeavoured to take, but I will accept your word on it.
-; str_lord_mission_failed_quarrelsome|You failed? Bah. I should have expected as much from the likes of you.
-; str_lord_mission_failed_pitiless|You failed? Well. You disappoint me. That is a most unwise thing to do.
-; str_lord_mission_failed_cunning|Well, I am disappointed, but no one can guarantee that the winds of fortune will always blow their way.
-; str_lord_mission_failed_sadistic|Indeed? Those who fail me do not always live to regret it.
-; str_lord_mission_failed_goodnatured|Oh well. It was a long shot, anyway. Thank you for making an effort.
-; str_lord_mission_failed_upstanding|Very well. I am sure that you gave it your best effort.
+str_lord_mission_failed_quarrelsome|Você falhou? Bah. Eu deveria esperar algo assim de você.
+str_lord_mission_failed_pitiless|Você falhou? Bem. Você me desaponta. Isso não foi esperto.
+str_lord_mission_failed_cunning|Bem, estou desapontado, mas a sorte nem sempre sorri para os mesmos.
+str_lord_mission_failed_sadistic|É mesmo? Aqueles que falham comigo nem sempre vivem para se arrepender.
+str_lord_mission_failed_goodnatured|Oh bem. Foi uma boa tentativa mesmo assim. Obrigado por seus esforços.
+str_lord_mission_failed_upstanding|Certo. Tenho certeza que tentou seu melhor.
 ; str_lord_follow_refusal_default|Follow you? You forget your station, {reg59?madame:sir}.
-; str_lord_follow_refusal_martial|Perhaps if you one day prove yourself a valorous and honourable warrior, then I would follow you. But not today.
-; str_lord_follow_refusal_quarrelsome|Follow someone like you? I don't think so.
+str_lord_follow_refusal_martial|Talvez um dia que tenha provado ser {um honroso e valoroso guerreiro/uma honrosa e valorosa guerreira}, então talvez eu {o/a} siga. Mas não hoje.
+str_lord_follow_refusal_quarrelsome|Seguir alguém como você? Acho que não.
 ; str_lord_follow_refusal_pitiless|Lords like me do not follow people like you, {reg59?madame:sir}.
 ; str_lord_follow_refusal_cunning|First show me that you are the type of {reg59?woman:man} who will not lead me into disaster, and then perhaps I will follow you.
 ; str_lord_follow_refusal_sadistic|I think not! Rather, you should follow me, as a whipped cur follows {reg59?her:his} master.
-; str_lord_follow_refusal_goodnatured|Um, I am a bit pressed with errands right now. Perhaps at a later date.
-; str_lord_follow_refusal_upstanding|First show me that you are worthy to lead, and then perhaps I will follow.
+str_lord_follow_refusal_goodnatured|Hm, estou um pouco atarefado com alguns problemas no momento. Talvez mais tarde.
+str_lord_follow_refusal_upstanding|Primeiro mostre-me que é capaz de liderar, e talvez então eu siga você.
 ; str_lord_insult_default|base varlet
-; str_lord_insult_martial|dishonourable knave
-; str_lord_insult_quarrelsome|filth-swilling bastard
-; str_lord_insult_pitiless|low-born worm
-; str_lord_insult_cunning|careless oaf
-; str_lord_insult_sadistic|sniveling cur
-; str_lord_insult_goodnatured|unpleasant fellow
-; str_lord_insult_upstanding|disgraceful scoundrel
-; str_lord_derogatory_default|base and vile
-; str_lord_derogatory_martial|bullheaded
-; str_lord_derogatory_quarrelsome|quarrelsome and divisive
-; str_lord_derogatory_pitiless|cruel, tyrannical
-; str_lord_derogatory_cunning|unscrupulous and manipulative
-; str_lord_derogatory_sadistic|vile and dishonorable
-; str_lord_derogatory_goodnatured|hopelessly naive
+str_lord_insult_martial|tratante desonroso
+str_lord_insult_quarrelsome|porco imundo
+str_lord_insult_pitiless|verme inferior
+str_lord_insult_cunning|pateta descuidado
+str_lord_insult_sadistic|cão choramingante 
+str_lord_insult_goodnatured|desprezível
+str_lord_insult_upstanding|canalha infame
+str_lord_derogatory_default|vil egoísta
+str_lord_derogatory_martial|chifrudo
+str_lord_derogatory_quarrelsome|briguento e chorão
+str_lord_derogatory_pitiless|cruel, tirânico
+str_lord_derogatory_cunning|inescrupuloso e manipulativo
+str_lord_derogatory_sadistic|vil e indigno
+str_lord_derogatory_goodnatured|ingênuo incorrigível
 ; str_lord_derogatory_upstanding|stiff-necked and sanctimonious
-; str_lord_derogatory_result|bring us to ruin
+str_lord_derogatory_result|levar-nos-á a ruína
 ; str_lord_derogatory_martial_action|attack the enemy without thought or plan, and throw away the lives of your men
 ; str_lord_derogatory_quarrelsome_action|pick fights with other lords, leaving us divided and weak
 ; str_lord_derogatory_pitiles_action|alienate the commons, provoking revolt and mutiny
@@ -1624,7 +1624,7 @@ str_multi_game_type_6|Batalha naval
 ; str_combat_speed|Combat speed:
 str_combat_speed_0|Muito mais lenta
 str_combat_speed_1|Mais lenta
-; str_combat_speed_2|Medium
+str_combat_speed_2|Médio
 str_combat_speed_3|Mais rápida
 str_combat_speed_4|Muito mais rápida
 str_off|Desligado
@@ -1686,7 +1686,7 @@ str_no_wo_dot|Não
 ; str_player_name|Player Name
 ; str_kills|Kills
 ; str_deaths|Deaths
-; str_ping|Ping
+str_ping|Ping
 str_dead|Mortos
 ; str_reg0_dead|{reg0} Dead
 ; str_bots_reg0_agents|Bots ({reg0} agents)
@@ -1966,47 +1966,47 @@ str_space..=."."
 ; str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if_my_rights_as_lord_would_be_respected|You speak of protecting the rights of lords. That would make a fine change, if my rights as lord would be respected.
 ; str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if_my_rights_as_lord_would_be_respected_however_it_is_easy_for_you_to_make_promises_while_you_are_weak_that_you_have_no_intention_of_keeping_when_you_are_strong|You speak of protecting the rights of lords. That would make a fine change, if my rights as lord would be respected. However, it is easy for you to make promises while you are weak, that you have no intention of keeping when you are strong.
 ; str_you_speak_of_giving_me_land_well_my_family_is_of_ancient_and_noble_lineage_so_you_promise_me_no_more_than_my_due_still_your_gesture_is_appreciated|You speak of giving me land. Well, my family is of ancient and noble lineage, so you promise me no more than my due. Still, your gesture is appreciated.
-; str_you_speak_of_giving_me_land_well_you_make_that_pledge_but_i_am_not_impressed|You speak of giving me land. Well, you make that pledge, but I am not impressed.
+str_you_speak_of_giving_me_land_well_you_make_that_pledge_but_i_am_not_impressed|Você fala em me conceder terras. Bem, faça essa promessa, mas não estou impressionado.
 ; str_you_speak_of_unifying_calradia_well_much_of_this_land_now_bends_its_knee_to_you_so_perhaps_that_is_not_just_talk|You speak of unifying these lands. Well, much of this land now bends its knee to you, so perhaps that is not just talk.
 ; str_you_speak_of_unifying_calradia_but_right_now_yours_is_just_one_squabbling_faction_among_many|You speak of unifying these lands, but right now, yours is but one squabbling faction among many.
-; str_you_speak_of_claims_well_no_offense_but_a_claim_unsupported_by_might_rarely_prospers|You speak of claims. Well, no offense, but a claim unsupported by might rarely prospers.
-; str_you_speak_of_protecting_the_commons_well_i_suppose_that_will_make_for_a_more_prosperous_realm_ive_always_tried_to_treat_my_peasants_decently_saves_going_to_bed_worrying_about_whether_youll_wake_up_with_the_roof_on_fire|You speak of protecting the commons. Well, I suppose that will make for a more prosperous realm. I've always tried to treat my peasants decently. Saves going to bed worrying about whether you'll wake up with the roof on fire.
-; str_you_speak_of_protecting_the_commons_very_well_but_remember_that_peasants_are_more_likely_to_cause_trouble_if_you_make_promises_then_dont_deliver_than_if_you_never_made_the_promise_in_the_first_place|You speak of protecting the commons. Very well. But remember that peasants are more likely to cause trouble if you make promises then don't deliver, than if you never made the promise in the first place.
-; str_you_speak_of_protecting_the_rights_of_lords_good_youd_be_well_advised_to_do_that__men_fight_better_for_a_king_wholl_respect_their_rights|You speak of protecting the rights of lords. Good. You'd be well advised to do that -- men fight better for a king who'll respect their rights.
+str_you_speak_of_claims_well_no_offense_but_a_claim_unsupported_by_might_rarely_prospers|Você fala de reivindicações. Bem, sem ofensa, mas uma reinvindicação não apoiada por poder raramente prospera.
+str_you_speak_of_protecting_the_commons_well_i_suppose_that_will_make_for_a_more_prosperous_realm_ive_always_tried_to_treat_my_peasants_decently_saves_going_to_bed_worrying_about_whether_youll_wake_up_with_the_roof_on_fire|Você fala em proteger o povo. Bem, eu suponho que isso fará do reino mais próspero. Eu sempre tentei tratar meus aldeões decentemente. Ajuda se você for dormir sem se preocupar se vai acordar com o teto em chamas.
+str_you_speak_of_protecting_the_commons_very_well_but_remember_that_peasants_are_more_likely_to_cause_trouble_if_you_make_promises_then_dont_deliver_than_if_you_never_made_the_promise_in_the_first_place|Você fala em proteger o povo. Muito bem. Mas lembre-se que aldeões são mais propensos a causar problemas se fizer promessas e não as cumprir. Seria melhor nem fazer tal promessa em primeiro lugar.
+str_you_speak_of_protecting_the_rights_of_lords_good_youd_be_well_advised_to_do_that__men_fight_better_for_a_king_wholl_respect_their_rights|Você fala em proteger os direitos dos lordes. Bom. Você faz bem em pensar isso -- homens lutam melhor para um rei que respeita seus direitos.
 ; str_you_speak_of_protecting_the_rights_of_lords_very_well_but_remember__failing_to_keep_promises_which_you_made_while_scrambling_up_the_throne_is_the_quickest_way_to_topple_off_of_it_once_you_get_there|You speak of protecting the rights of lords. Very well, but remember -- failing to keep promises that you made while scrambling up the throne is the quickest way to topple off of it once you get there.
-; str_you_speak_of_giving_me_land_very_good_but_often_i_find_that_when_a_man_makes_too_many_promises_trying_to_get_to_the_top_he_has_trouble_keeping_them_once_he_reaches_it|You speak of giving me land. Very good, but often I find that when a man makes too many promises trying to get to the top, he has trouble keeping them once he reaches it.
+str_you_speak_of_giving_me_land_very_good_but_often_i_find_that_when_a_man_makes_too_many_promises_trying_to_get_to_the_top_he_has_trouble_keeping_them_once_he_reaches_it|Você fala em me dar terras. Muito bom, mas eu acho que um homem que faz muitas promessas tentando chegar ao topo acaba tendo muitos problemas tentando manter tais promessas ao chegar lá.
 ; str_you_speak_of_unifying_calradia_well_many_have_said_that_you_might_very_well_be_the_one_to_do_it|You speak of unifying these lands. Well, many have said that, you might very well be the one to do it.
 ; str_you_speak_of_unifying_calradia_well_all_the_kings_say_that_im_not_sure_that_you_will_succeed_while_they_fail|You speak of unifying these lands. Well, all the kings say that. I'm not sure that you will succeed while they fail.
-; str_you_speak_of_claims_do_you_think_i_care_for_the_nattering_of_lawyers|You speak of claims. Do you think I care for the nattering of lawyers?
-; str_you_speak_of_protecting_the_commons_how_kind_of_you_i_shall_tell_my_swineherd_all_about_your_sweet_promises_no_doubt_he_will_become_your_most_faithful_vassal|You speak of protecting the commons. How kind of you! I shall tell my swineherd all about your sweet promises. No doubt he will become your most faithful vassal.
+str_you_speak_of_claims_do_you_think_i_care_for_the_nattering_of_lawyers|Você fala em reivindicações. Você acha que eu me importo com lamentos de advogados?
+str_you_speak_of_protecting_the_commons_how_kind_of_you_i_shall_tell_my_swineherd_all_about_your_sweet_promises_no_doubt_he_will_become_your_most_faithful_vassal|Você fala em proteger o povo. Que gentil de sua parte! Eu devo contar a minha vara de porcos sobre suas doces promessas. Sem dúvida eles se tornarão seus vassalos mais leais.
 ; str_you_speak_of_protecing_the_rights_of_lords_such_sweet_words_but_ill_tell_you_this__the_only_rights_that_are_respected_in_this_world_are_the_rights_to_dominate_whoever_is_weaker_and_to_submit_to_whoever_is_stronger|You speak of protecting the rights of lords. Such sweet words! But I'll tell you this -- the only rights that are respected in this world are the rights to dominate whoever is weaker, and to submit to whoever is stronger.
-; str_you_speak_of_giving_me_land_yes_very_good__but_you_had_best_deliver|You speak of giving me land. Yes, very good -- but you had best deliver.
-; str_you_speak_of_giving_me_land_hah_perhaps_all_those_others_to_whom_you_promised_lands_will_simply_step_aside|You speak of giving me land. Hah! Perhaps all those others to whom you promised lands will simply step aside?
+str_you_speak_of_giving_me_land_yes_very_good__but_you_had_best_deliver|Você fala em me conceder terras. Sim, muito bom -- mas é bom que as entregue.
+str_you_speak_of_giving_me_land_hah_perhaps_all_those_others_to_whom_you_promised_lands_will_simply_step_aside|Você fala em me conceder terras. Hah! Será que todos os outros que você fez essa promessa irão simplesmente aceitar isso?
 ; str_you_speak_of_unifying_calradia_you_may_indeed_humble_the_other_kings_of_this_land_and_in_that_case_i_would_hope_that_you_would_remember_me_as_your_faithful_servant|You speak of unifying these lands. You may indeed humble the other kings of this land, and in that case, I would hope that you would remember me as your faithful servant.
 ; str_you_speak_of_unifying_calradia_but_you_are_weak_and_i_think_that_you_will_remain_weak|You speak of unifying these lands. But you are weak, and I think that you will remain weak.
 ; str_you_speak_of_claims_its_good_for_a_king_to_have_a_strong_claim_although_admittedly_im_more_concerned_that_he_rules_just_ly_than_with_legalities_anyway_your_claim_seems_wellfounded_to_me|You speak of claims. It's good for a king to have a strong claim, although admittedly I'm more concerned that he rules justly than with legalities. Anyway, your claim seems well founded to me.
-; str_you_speak_of_claims_but_your_claim_seems_a_bit_weak_to_me|You speak of claims, but your claim seems a bit weak to me.
-; str_you_speak_of_protecting_the_commons_i_like_that_my_tenants_are_a_happy_lot_i_think_but_i_hear_of_others_in_other_estates_that_arent_so_fortunate|You speak of protecting the commons. I like that. My tenants are a happy lot, I think, but I hear of others in other estates that aren't so fortunate.
-; str_you_speak_of_protecting_the_commons_im_glad_to_hear_you_say_that_but_do_me_a_favor__dont_promise_the_commons_anything_you_cant_deliver_thats_a_sure_way_to_get_them_to_rebel_and_it_breaks_my_heart_to_have_to_put_them_down|You speak of protecting the commons. I'm glad to hear you say that. But do me a favor -- don't promise the commons anything you can't deliver. That's a sure way to get them to rebel, and it breaks my heart to have to put them down.
+str_you_speak_of_claims_but_your_claim_seems_a_bit_weak_to_me|Você fala de reivindicações, mas sua reivindicação parece um pouco fraca para mim.
+str_you_speak_of_protecting_the_commons_i_like_that_my_tenants_are_a_happy_lot_i_think_but_i_hear_of_others_in_other_estates_that_arent_so_fortunate|Você fala em proteger o povo. Eu gosto disso. Meus inquilinos são felizes, eu acho, mas eu ouvi que outros de outros feudos não têm a mesma sorte.
+str_you_speak_of_protecting_the_commons_im_glad_to_hear_you_say_that_but_do_me_a_favor__dont_promise_the_commons_anything_you_cant_deliver_thats_a_sure_way_to_get_them_to_rebel_and_it_breaks_my_heart_to_have_to_put_them_down|Você fala em proteger o povo. Fico feliz em ouvir isso. Mas faça-me o favor -- não prometa nada ao povo que não possa cumprir. Isso é uma garantia de fazê-los rebelarem, e me dói o coração ter que aplacar a fúria deles.
 ; str_you_speak_of_protecting_the_rights_of_lords_well_very_good_i_suppose_but_you_know__we_lords_can_take_of_ourselves_its_the_common_folk_who_need_a_strong_king_to_look_out_for_them_to_my_mind|You speak of protecting the rights of lords. Well, very good, I suppose. But you know -- we lords can take care of ourselves. It's the common folk who need a strong king to look out for them, to my mind.
-; str_you_speak_of_giving_me_land_its_kind_of_you_really_though_that_is_not_necessary|You speak of giving me land. It's kind of you. Really, though, that is not necessary.
+str_you_speak_of_giving_me_land_its_kind_of_you_really_though_that_is_not_necessary|Você fala em me conceder terras. É muito gentil da sua parte, mas não é necessário.
 ; str_you_speak_of_unifying_calradia_well_maybe_you_can_unite_this_land_by_the_sword_but_im_not_sure_that_this_will_make_you_a_good_ruler|You speak of unifying these lands. Well, maybe you can unite this land by the sword. But I'm not sure that this will make you a good ruler.
 ; str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_and_yours_is_wellestablished|You speak of claims. A king must have a strong legal claim for there not to be chaos in the realm, and yours is well established.
-; str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_but_your_claim_is_not_so_strong|You speak of claims. A king must have a strong legal claim for there not to be chaos in the realm, but your claim is not so strong.
-; str_you_speak_of_protecting_the_rights_of_lords_it_is_of_course_important_that_a_king_respect_the_rights_of_his_vassals_although_i_worry_that_a_king_who_took_a_throne_without_proper_cause_would_not_rule_with_justice|You speak of protecting the rights of lords. It is of course important that a king respect the rights of his vassals, although I worry that a king who took a throne without proper cause would not rule with justice.
-; str_you_speak_of_protecting_the_rights_of_lords_it_is_of_course_important_that_a_king_respect_the_rights_of_his_vassals_however_i_would_like_to_know_that_you_would_indeed_deliver_on_your_promises|You speak of protecting the rights of lords. It is of course important that a king respect the rights of his vassals. However, I would like to know that you would indeed deliver on your promises.
-; str_you_speak_of_protecting_the_commons_i_would_be_pleased_to_serve_a_king_who_respected_the_rights_of_his_subjects_although_i_worry_that_a_king_who_took_a_throne_without_proper_cause_would_not_rule_with_justice|You speak of protecting the commons. I would be pleased to serve a king who respected the rights of his subjects, although I worry that a king who took a throne without proper cause would not rule with justice.
-; str_you_speak_of_protecting_the_commons_i_would_be_pleased_to_serve_a_king_who_respected_the_rights_of_his_subjects_however_i_would_like_to_know_that_you_would_indeed_deliver_on_your_promises|You speak of protecting the commons. I would be pleased to serve a king who respected the rights of his subjects. However, I would like to know that you would indeed deliver on your promises.
-; str_i_am_not_swayed_by_promises_of_reward|I am not swayed by promises of reward
+str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_but_your_claim_is_not_so_strong|Você fala de reivindicações. Um rei deve ter uma forte reivindicação legal para que não haja caos no reino, mas a sua não é tão forte
+str_you_speak_of_protecting_the_rights_of_lords_it_is_of_course_important_that_a_king_respect_the_rights_of_his_vassals_although_i_worry_that_a_king_who_took_a_throne_without_proper_cause_would_not_rule_with_justice|Você fala de proteger os direitos dos lordes. É óbvio a importância do rei respeitar os direitos de seus vassalos, embora eu me preocupe que um rei que tomou o trono sem uma reivindicação legítima possa não governar com justiça.
+str_you_speak_of_protecting_the_rights_of_lords_it_is_of_course_important_that_a_king_respect_the_rights_of_his_vassals_however_i_would_like_to_know_that_you_would_indeed_deliver_on_your_promises|Você fala em proteger os direitos dos lordes. É óbvio a importância do rei respeitar os direitos de seus vassalos. Contudo, eu gostaria de saber o que de fato pretende cumprir de suas promessas.
+str_you_speak_of_protecting_the_commons_i_would_be_pleased_to_serve_a_king_who_respected_the_rights_of_his_subjects_although_i_worry_that_a_king_who_took_a_throne_without_proper_cause_would_not_rule_with_justice|Você fala de proteger os direitos dos lordes. Eu ficaria satisfeito em servir um rei que respeita os direitos de seus súditos, embora eu me preocupe que um rei que tomou o trono sem uma reivindicação legítima possa não governar com justiça.
+str_you_speak_of_protecting_the_commons_i_would_be_pleased_to_serve_a_king_who_respected_the_rights_of_his_subjects_however_i_would_like_to_know_that_you_would_indeed_deliver_on_your_promises|Você fala em proteger o povo. Eu ficaria satisfeito em servir um rei que respeita os direitos de seus súditos. Contudo, eu gostaria de saber o que de fato pretende cumprir de suas promessas.
+str_i_am_not_swayed_by_promises_of_reward|Não estou impressionado com promessas de recompensas
 ; str_you_speak_of_unifying_calradia_it_would_be_good_to_bring_peace_to_the_realm_and_i_believe_that_you_are_strong_enough_to_do_so|You speak of unifying these lands. It would be good to bring peace to the realm, and I believe that you are strong enough to do so.
 ; str_you_speak_of_unifying_calradia_it_would_be_good_to_bring_peace_the_realm_but_with_your_kingdom_in_its_current_state_i_worry_that_you_are_just_bringing_more_discord|You speak of unifying these lands. It would be good to bring peace the realm, but with your kingdom in its current state, I worry that you are just bringing more discord.
-; str_my_s11_s15|my {s11} {s15}
-; str_my_s11_s18|My {s11} {s18}
-; str_the_socalled_s11_s18|The so-called {s11} {s18}
-; str_s18_would_cheat_me_of_my_inheritance_by_heaven_i_know_my_rights_and_im_not_going_to_back_down|{s18} would cheat me of my inheritance. By heaven, I know my rights, and I'm not going to back down.
+str_my_s11_s15|my {s11} {s15}
+str_my_s11_s18|Meu {s11} {s18}
+str_the_socalled_s11_s18|O assim chamado {s11} {s18}
+str_s18_would_cheat_me_of_my_inheritance_by_heaven_i_know_my_rights_and_im_not_going_to_back_down|{s18} irá trapacear com minha herança. Pelos céus, eu conheço meus direitos, e não vou desistir.
 ; str_s18_once_questioned_my_honour_and_my_bravery_i_long_for_the_day_when_i_can_meet_him_in_battle_and_make_him_retract_his_statement|{s18} once questioned my honour and my bravery. I long for the day when I can meet him in battle and make him retract his statement.
-; str_s18_once_questioned_my_judgment_in_battle_by_heaven_would_he_have_us_shirk_our_duty_to_smite_our_sovereigns_foes|{s18} once questioned my judgment in battle. By heaven, would he have us shirk our duty to smite our sovereign's foes?
-; str_s18_seems_to_think_he_has_the_right_to_some_of_my_property_well_he_does_not|{s18} seems to think he has the right to some of my property. Well, he does not.
+str_s18_once_questioned_my_judgment_in_battle_by_heaven_would_he_have_us_shirk_our_duty_to_smite_our_sovereigns_foes|{s18} uma vez questionou meu julgamento em batalha. Pelos céus, ele quer que evitemos nosso dever para afetar nossos inimigos?
+str_s18_seems_to_think_he_has_the_right_to_some_of_my_property_well_he_does_not|{s18} parece pensar que tem algum direito sobre minha propriedade. Bem, ele não tem.
 ; str_s18_once_took_something_i_said_amiss_stubborn_bastard_wont_give_it_up_and_keeps_trying_to_get_me_to_recant_my_words|{s18} once took something I said amiss. Stubborn bastard won't give it up and keeps trying to get me to recant my words.
 ; str_s18_is_a_crafty_weasel_and_i_dont_trust_him_one_bit|{s18} is a crafty weasel. I don't trust him one bit.
 ; str_s18_i_despite_him_he_puts_on_such_a_nauseating_display_of_virtue_and_thinks_nothing_of_insulting_his_betters|{s18}? I despise him. He puts on such a nauseating display of virtue and thinks nothing of insulting his betters.
@@ -2068,34 +2068,34 @@ str_space..=."."
 ; str_i_am_hosting_a_feast_there|I am hosting a feast there.
 ; str_i_have_a_feast_to_host|I have a feast to host.
 ; str_i_am_to_be_the_bridegroom_there|I am to be the bridegroom there.
-; str_my_wedding_day_draws_near|My wedding day draws near.
-; str_i_have_too_much_loot_and_too_many_prisoners_and_need_to_secure_them|I have too much loot and too many prisoners, and need to secure them.
-; str_i_should_think_of_dropping_off_some_of_my_prisoners|I should think of dropping off some of my prisoners.
-; str_i_need_to_reinforce_it_as_it_is_poorly_garrisoned|I need to reinforce it, as it is poorly garrisoned.
-; str_there_is_a_hole_in_our_defenses|There is a hole in our defenses.
-; str_i_am_following_the_marshals_orders|I am following the marshal's orders.
-; str_the_marshal_has_given_me_this_command|The marshal has given me this command.
-; str_i_am_answering_the_marshals_summons|I am answering the marshal's summons.
+str_my_wedding_day_draws_near|O dia de meu casamento se aproxima.
+str_i_have_too_much_loot_and_too_many_prisoners_and_need_to_secure_them|Eu tenho muita pilhagem e muitos prisioneiros, e preciso mantê-los em segurança.
+str_i_should_think_of_dropping_off_some_of_my_prisoners|Eu devo pensar em libertar alguns de meus prisioneiros.
+str_i_need_to_reinforce_it_as_it_is_poorly_garrisoned|Eu preciso reforça-la, pois está mal guarnecida.
+str_there_is_a_hole_in_our_defenses|Há um buraco em nossas defesas.
+str_i_am_following_the_marshals_orders|Estou seguindo as ordens do General.
+str_the_marshal_has_given_me_this_command|O General me deu esse comando.
+str_i_am_answering_the_marshals_summons|Estou respondendo ao chamamento do General.
 ; str_our_realm_needs_my_support_there_is_enemy_raiding_one_of_our_villages_which_is_not_to_far_from_here_i_am_going_there|Our realm needs my support. There enemy is raiding one of our villages which is not too far from here. I am going there.
-; str_the_marshal_has_issued_a_summons|The marshal has issued a summons.
-; str_comradeinarms|comrade-in-arms.
-; str_i_am_supporting_my_s11_s10|I am supporting my {s11} {s10}.
-; str_i_believe_that_one_of_my_comrades_is_in_need|I believe that one of my comrades is in need.
-; str_a_fortress_is_vulnerable|A fortress is vulnerable.
-; str_i_believe_that_the_enemy_may_be_vulnerable|I believe that the enemy may be vulnerable.
-; str_i_need_to_inspect_my_properties_and_collect_my_dues|I need to inspect my properties and collect my dues.
-; str_it_has_been_too_long_since_i_have_inspected_my_estates|It has been too long since I have inspected my estates.
-; str_my_men_are_weary_so_we_are_returning_home|My men are weary, so we are returning home.
-; str_my_men_are_becoming_weary|My men are becoming weary.
-; str_i_have_a_score_to_settle_with_the_lord_there|I have a score to settle with the lord there.
-; str_i_am_thinking_of_settling_an_old_score|I am thinking of settling an old score.
-; str_i_am_short_of_money_and_i_hear_that_there_is_much_wealth_there|I am short of money, and I hear that there is much wealth there.
-; str_i_need_to_refill_my_purse_preferably_with_the_enemys_money|I need to refill my purse, preferably with the enemy's money.
-; str_by_striking_at_the_enemys_richest_lands_perhaps_i_can_draw_them_out_to_battle|By striking at the enemy's richest lands, perhaps I can draw them out to battle!
-; str_i_am_thinking_of_going_on_the_attack|I am thinking of going on the attack.
-; str_perhaps_if_i_strike_one_more_blow_we_may_end_this_war_on_our_terms_|Perhaps, if I strike one more blow, we may end this war on our terms. 
-; str_we_may_be_able_to_bring_this_war_to_a_close_with_a_few_more_blows|We may be able to bring this war to a close with a few more blows.
-; str_i_wish_to_attend_the_feast_there|I wish to attend the feast there.
+str_the_marshal_has_issued_a_summons|O General mandou chamar a todos.
+str_comradeinarms|companheiro de armas.
+str_i_am_supporting_my_s11_s10|Estou apoiando meu {s11} {s10}.
+str_i_believe_that_one_of_my_comrades_is_in_need|Eu acredito que um de meus companheiros está em necessidades.
+str_a_fortress_is_vulnerable|Uma fortaleza está vulnerável.
+str_i_believe_that_the_enemy_may_be_vulnerable|Eu acredito que o inimigo possa estar vulnerável.
+str_i_need_to_inspect_my_properties_and_collect_my_dues|Eu preciso inspecionar minhas propriedades e coletar o que me é devido.
+str_it_has_been_too_long_since_i_have_inspected_my_estates|Faz muito tempo que não inspeciono minhas propriedades.
+str_my_men_are_weary_so_we_are_returning_home|Meus homens estão cansados, então estamos voltando para casa.
+str_my_men_are_becoming_weary|Meus homens estão ficando cansados.
+str_i_have_a_score_to_settle_with_the_lord_there|Eu tenho que acertar as contas com o lorde de lá.
+str_i_am_thinking_of_settling_an_old_score|Estou pensando em acertar antigas contas.
+str_i_am_short_of_money_and_i_hear_that_there_is_much_wealth_there|Estou com pouco dinheiro, e ouvi falar que há muita riqueza lá.
+str_i_need_to_refill_my_purse_preferably_with_the_enemys_money|Preciso encher minha algibeira, preverivelmente com o dinheiro do inimigo.
+str_by_striking_at_the_enemys_richest_lands_perhaps_i_can_draw_them_out_to_battle|Ao atacar as terras mais ricas do inimigo, talvez os façamos saírem de suas tocas para lutar!
+str_i_am_thinking_of_going_on_the_attack|Eu acho que estou indo atacar.
+str_perhaps_if_i_strike_one_more_blow_we_may_end_this_war_on_our_terms_|Talvez, se acertarmos mais um golpe, poderemos acabar com essa guerra de vez.
+str_we_may_be_able_to_bring_this_war_to_a_close_with_a_few_more_blows|Podemos acabar com essa guerra com mais alguns golpes.
+str_i_wish_to_attend_the_feast_there|Eu desejo participar da festa lá.
 ; str_there_is_a_feast_which_i_wish_to_attend|There is a feast that I wish to attend.
 ; str_there_is_a_fair_lady_there_whom_i_wish_to_court|There is a fair lady there, whom I wish to court.
 ; str_i_have_the_inclination_to_pay_court_to_a_fair_lady|I have the inclination to pay court to a fair lady.
@@ -2287,21 +2287,21 @@ str_space..=."."
 ; str_you_have_been_indicted_for_treason_to_s7_your_properties_have_been_confiscated_and_you_would_be_well_advised_to_flee_for_your_life|You have been indicted for treason to {s7}. Your properties have been confiscated, and you would be well advised to flee for your life.
 ; str_by_order_of_s6_s4_of_the_s5_has_been_indicted_for_treason_the_lord_has_been_stripped_of_all_reg4herhis_properties_and_has_fled_for_reg4herhis_life_he_is_rumored_to_have_gone_into_exile_s11|By order of {s6}, {s4} of the {s5} has been indicted for treason. The lord has been stripped of all {reg4?her:his} properties, and has fled for {reg4?her:his} life. He is rumored to have gone into exile {s11}.
 ; str_local_notables_from_s1_a_village_claimed_by_the_s4_have_been_mistreated_by_their_overlords_from_the_s3_and_petition_s5_for_protection|local notables from {s1}, a village claimed by the {s4}, have been mistreated by their overlords from the {s3} and petition {s5} for protection
-; str_villagers_from_s1_stole_some_cattle_from_s2|villagers from {s1} stole some cattle from {s2}
-; str_villagers_from_s1_abducted_a_woman_from_a_prominent_family_in_s2_to_marry_one_of_their_boys|villagers from {s1} abducted a woman from a prominent family in {s2} to marry one of their boys
-; str_villagers_from_s1_killed_some_farmers_from_s2_in_a_fight_over_the_diversion_of_a_stream|villagers from {s1} killed some farmers from {s2} in a fight over the diversion of a stream
-; str_your_new_minister_|Your new minister 
-; str_s10_is_your_new_minister_and_|{s10} is your new minister, and 
-; str_due_to_the_loss_of_s10_your_court_has_been_relocated_to_s11|Due to the loss of {s10}, your court has been relocated to {s11}
-; str_after_to_the_fall_of_s10_your_faithful_vassal_s9_has_invited_your_court_to_s11_|After to the loss of {s10}, your faithful vassal {s9} has invited your court to {s11} 
-; str_after_to_the_fall_of_s11_your_court_has_nowhere_to_go|After the loss of {s11}, your court has nowhere to go
+str_villagers_from_s1_stole_some_cattle_from_s2|aldeões de {s1} roubaram gado de {s2}
+str_villagers_from_s1_abducted_a_woman_from_a_prominent_family_in_s2_to_marry_one_of_their_boys|aldeões de {s1} sequestraram uma mulher de uma família importante em {s2} para casá-la com um de seus garotos
+str_villagers_from_s1_killed_some_farmers_from_s2_in_a_fight_over_the_diversion_of_a_stream|aldeões de {s1} mataram alguns fazendeiros de {s2} em uma discussão por causa do uso de uma fonte de água
+str_your_new_minister_|Seu novo ministro
+str_s10_is_your_new_minister_and_|{s10} é seu novo ministro, e
+str_due_to_the_loss_of_s10_your_court_has_been_relocated_to_s11|Devido a perda de {s10}, sua corte foi transferida para {s11}
+str_after_to_the_fall_of_s10_your_faithful_vassal_s9_has_invited_your_court_to_s11_|Depois da perda de {s10}, seu leal vassalo {s9} convidou sua corte para ficar em {s11}
+str_after_to_the_fall_of_s11_your_court_has_nowhere_to_go|Devido a perda de {s11}, sua corte não tem mais nenhum lugar aonde ir.
 ; str_s8_wishes_to_inform_you_that_the_lords_of_s9_will_be_gathering_for_a_feast_at_his_great_hall_in_s10_and_invites_you_to_be_part_of_this_august_assembly|{s8} wishes to inform you that the lords of the {s9} will be gathering for a feast at his great hall in {s10}, and invites you to be part of this august assembly.
-; str_consult_with_s11_at_your_court_in_s12|Consult with {s11} at your court in {s12}
-; str_as_brief_as_our_separation_has_been_the_longing_in_my_heart_to_see_you_has_made_it_seem_as_many_years|As brief as our separation has been, the longing in my heart to see you has made it seem as many years.
-; str_although_it_has_only_been_a_short_time_since_your_departure_but_i_would_be_most_pleased_to_see_you_again|Although it has only been a short time since your departure, I would be most pleased to see you again.
-; str_although_i_have_received_no_word_from_you_for_quite_some_time_i_am_sure_that_you_must_have_been_very_busy_and_that_your_failure_to_come_see_me_in_no_way_indicates_that_your_attentions_to_me_were_insincere_|Although I have received no word from you for quite some time, I am sure that you must have been very busy, and that your failure to come see me in no way indicates that your attentions to me were insincere.
-; str_i_trust_that_you_have_comported_yourself_in_a_manner_becoming_a_gentleman_during_our_long_separation_|I trust that you have comported yourself in a manner becoming a gentleman during our long separation.
-; str_it_has_been_many_days_since_you_came_and_i_would_very_much_like_to_see_you_again|It has been many days since you came, and I would very much like to see you again.
+str_consult_with_s11_at_your_court_in_s12|Consulte com {s11} em sua corte em {s12}
+str_as_brief_as_our_separation_has_been_the_longing_in_my_heart_to_see_you_has_made_it_seem_as_many_years|Embora tenha sido breve nossa separação, desde o nosso último encontro, meu coração faz a espera por ver você novamente parecer que já se passou muitos anos.
+str_although_it_has_only_been_a_short_time_since_your_departure_but_i_would_be_most_pleased_to_see_you_again|Embora se passou pouco tempo desde sua saída, eu ficaria muito agradecida por ver você novamente.
+str_although_i_have_received_no_word_from_you_for_quite_some_time_i_am_sure_that_you_must_have_been_very_busy_and_that_your_failure_to_come_see_me_in_no_way_indicates_that_your_attentions_to_me_were_insincere_|Embora não tenha recebido notícias suas já faz um tempo, tenho certeza de que está muito ocupado, e que sua falha em não me ver não é porque sua atenção comigo foi insincera.
+str_i_trust_that_you_have_comported_yourself_in_a_manner_becoming_a_gentleman_during_our_long_separation_|Eu acredito que você tenha se comportado dignamente e se tornado um cavalheiro durante nossa longa separação.
+str_it_has_been_many_days_since_you_came_and_i_would_very_much_like_to_see_you_again|Já faz muitos dias desde que você veio, e gostaria muito de ver você novamente.
 ; str__you_should_ask_my_s11_s16s_permission_but_i_have_no_reason_to_believe_that_he_will_prevent_you_from_coming_to_see_me| You should ask my {s11} {s16}'s permission, but I have no reason to believe that he will prevent you from coming to see me.
 ; str__you_should_first_ask_her_s11_s16s_permission|. You should first ask her {s11} {s16}'s permission
 ; str__alas_as_we_know_my_s11_s16_will_not_permit_me_to_see_you_however_i_believe_that_i_can_arrange_away_for_you_to_enter_undetected| Alas, as we know, my {s11} {s16} will not permit me to see you. However, I believe that I can arrange a way for you to enter undetected.
@@ -2667,8 +2667,8 @@ str_farewell|Adeus.
 ; str_strategy_cam|This camera follows the player. One may increase distance with the F key and reduce it with the V key. +/- for zoom, numpad for game speed (when cheats are enabled), and mouse wheel for camera speed.
 ; str_tutorial_training_ground_intro_message|Walk around the training field and speak with the fighters to practice various aspects of combat. You can use ASDW keys to move around. To talk to a character, approach him until his name appears on your screen and then press the F key. You can also use the F key to pick up items, open doors and interact with objects. Press the Tab key to exit the tutorial any time you like.
 ; str_tutorial_doccinga_ground_intro_message|Doccinga is a small fishing village on the coast of Friese. People here are hard working and still very prosperous, although foreigners no longer come as they did before the death of the old sorcerer. When you go into the village, you see a lot of activity around you. Apart from the busy villagers, some warriors swarm among the people, exercising the arts of war, perhaps preparing for an adventure beyond the sea. Maybe you can ask the warriors for practice in the various aspects of combat... (Remember: ASDW keys to move around. To talk to a character, approach him until his name appears on your screen and then press the F key. You can also use the F key to pick up items, open doors and interact with objects. Press the Tab key to exit Doccinga.)
-; str_map_basic|Map
-; str_game_type_basic|Game Type
+str_map_basic|Mapa
+str_game_type_basic|Tipo de Jogo
 str_battle|Batalha
 ; str_siege_offense|Siege (Offense)
 ; str_siege_defense|Siege (Defense)
@@ -2822,8 +2822,8 @@ str_custom_battle|Batalha Customizada
 ; str_the_steppes|the plain
 str_the_deserts|As montanhas
 ; str_the_tundra|the deep forest
-; str_the_forests|the forests
-; str_the_highlands|the highlands
+str_the_forests|as florestas
+str_the_highlands|as terras altas
 str_the_coast|A costa
 ; str_my_lady_not_sufficient_chemistry|My lady, there are other maidens who have captured my heart.
 ; str_my_lady_engaged_to_another|My lady, as I understand it, you are engaged to another.
@@ -2901,7 +2901,7 @@ str_the_coast|A costa
 ; str_retreat_from_fortress|You order your troops to disengage.^Everyone moves out of bow shot of the fortress walls, and the enemy destroys the siege ladders.^Your troops are upset by this; after all the effort it took to get into position and prepare the attack, they are unhappy about leaving the fortress in the enemy's hands.
 ; str_retreat_not_dead|You order your forces to disengage, judging the tactical situation to be hopeless.^Your force has lost this battle; your troops grumble loudly about your lack of nerve, and some openly question your leadership, which requires you to take action to restore discipline in your ranks.
 ; str_s7_scouts|Pictish Scouts
-; str_s7_foragers|Foraging Party
+str_s7_foragers|Companhia de Suprimentos
 ; str_s7_northern_picts|Northern Pictish Raiding Party
 ; str_raise_relation_with_village_tavern_built|Villagers of {s1} are happy! The building of the mead hall increased their loyalty.
 ; str_the_sun_rises|The sun rises.
@@ -2988,7 +2988,7 @@ str_none|Nenhum
 ; str_very_bad_news_our_scouts_were_attacked|Very bad news! Our scouts were attacked, and we lost two to four men.
 ; str_you_hear_rumors_of_discontent_among_your_men|You hear rumors of discontent among your men. You should do something to raise their flagging spirits.
 ; str_i_dont_have_enough_money|I don't have enough money.
-; str_forget_it|Forget it.
+str_forget_it|Esqueça.
 ; str_you_need_to_improve_your_refuge_first|Improve your refuge first.
 ; str_you_have_suffered_a_serious_injury_to_your|You have suffered a serious injury to your
 ; str_it_will_be_permanent_in_reg1_days|It will become permanent in {reg1} days.
@@ -3349,7 +3349,7 @@ str_normal|Normal
 ; str_damage_to_player|Player damage:
 ; str_damage_to_friends|Friends damage:
 str_combat_ai|Combate IA:
-; str_campaign_ai|Campaign AI:
+str_campaign_ai|IA da Campanha:
 ; str_movement_and_combat_speed|Tactical Speed:
 ; str_battle_size|Battle size:
 ; str_difficulty_setting|Difficulty Setting
