@@ -46,7 +46,7 @@ p_castle_15|Castelo de Gegnesburh
 p_castle_16|Castelo de Stanford
 p_castle_17|Castelo de Norwic
 p_castle_18|Castelo de Haegelisdun
-p_castle_19|Vila de Rendlaesham
+p_castle_19|Castelo de Rendlaesburh
 p_castle_20|Castelo de Grantebrycge
 p_castle_21|Castelo de Hrofae Ceaster
 p_castle_22|Castelo de Dornwara Ceaster
@@ -185,12 +185,12 @@ p_village_64|Vila de Vles Inge Terp
 p_village_65|Vila de Bal Sebuirge
 p_village_66|Vila de Bal Magh
 p_village_67|Vila de Bal Magh Cobha
-p_village_68|Vila de Bal Mor
+p_village_68|Vila de  Bal Mor Norte
 p_village_69|Vila de Bal Clochair
 p_village_70|Vila de Bal Fearnmhaigh
 p_village_71|Vila de Bal Macha
 p_village_72|Vila de Bal Dumai
-p_village_73|Vila de Bal Mor
+p_village_73|Vila de Bal Mor South
 p_village_74|Vila de Bal Eachadha
 p_village_75|Vila de Bal Breacain
 p_village_76|Vila de Bal Crannoc
@@ -250,8 +250,9 @@ p_village_129|Vila de Bal Celtair Oeste
 p_village_130|Vila de Bal Maistiu Leste
 p_village_131|Vila de Bal Maistiu Oeste
 p_village_132|Vila de Tref Meguaidd Leste
-p_village_135|Vila de Tref Meguaidd Oeste
-; p_village_134|Tom Ham North
+p_village_133|Vila de Tref Meguaidd Oeste
+p_village_134|Vila de Tom Ham Leste
+p_village_135|Vila de Tom Ham Sul
 p_village_136|Vila de Bal Caiseal Leste
 p_village_137|Vila de Bal Caiseal Oeste
 p_village_138|Vila de Bal Aileach Leste
@@ -348,7 +349,7 @@ p_monasterio26|Mosteiro Raithean
 p_monasterio27|Mosteiro Carthach
 p_monasterio28|Mosteiro Scelic Mhichi
 p_monasterio29|Mosteiro Gleann Da Loch
-p_yourlair|Refúgio de Jab
+p_yourlair|Meu Refúgio
 p_thiaderd_lair|Esconderijo de Thiaderd
 p_destroy1|Esconderijo de Thiaderd, Destruído
 p_destroy2|Covil de Sven, Destruído
@@ -362,41 +363,33 @@ p_ferry_1b|Estação de balsa
 p_ferry_2b|Estação de balsa
 p_ferry_3b|Estação de balsa
 p_ferry_4b|Estação de balsa
-; p_jetty_1|jetty 1
-; p_jetty_2|jetty 2
-; p_jetty_3|jetty 3
-; p_jetty_4|jetty 4
-; p_jetty_5|jetty 5
-; p_jetty_6|jetty 6
 ; p_looter_spawn_point|their hideout
 ; p_looter_spawn_point2|their hideout
 ; p_looter_spawn_point3|their hideout
-; p_steppe_bandit_spawn_point|their camp
+; p_steppe_bandit_spawn_point|their longphort
 ; p_taiga_bandit_spawn_point|their longphort
 ; p_forest_bandit_spawn_point|their den
 ; p_forest_bandit_spawn_point2|their den
 ; p_forest_bandit_spawn_point4|their den
 ; p_mountain_bandit_spawn_point|their camp
 ; p_mountain_bandit_spawn_point3|their camp
-; p_new_sp|their parish
-; p_new_sp2|their parish
-p_new_sp3|A zona rural
-p_new_sp4|A zona rural
-; p_sea_raider_spawn_point_1|their longphort
+; p_sea_raider_spawn_point_1|their camp
 ; p_sea_raider_spawn_point_2|their longphort
 ; p_sea_raider_spawn_point_3|their longphort
 ; p_desert_bandit_spawn_point|their camp
-; p_frank_looters_sp_1|their den
-; p_frank_looters_sp_2|their den
-; p_ship_raider_spawn_point_1|their landing
-; p_ship_raider_spawn_point_2|their longphort
-; p_ship_raider_spawn_point_3|their landing
-; p_ship_raider_spawn_point_4|their longphort
-; p_ship_raider_spawn_point_5|their longphort
-; p_ship_raider_spawn_point_6|their landing
-; p_testing_spawn_point|the sea
+; p_frank_looters_sp_1|their camp
+; p_frank_looters_sp_2|their camp
+p_pagan_spawn_1|A zona rural
+p_pagan_spawn_2|A zona rural
+p_pagan_spawn_3|A zona rural
+p_pagan_spawn_4|A zona rural
+p_ship_raider_spawn_point_1|O canal
+; p_ship_raider_spawn_point_2|the area
+; p_ship_raider_spawn_point_3|the area
+; p_ship_raider_spawn_point_4|the area
+; p_ship_raider_spawn_point_5|the area
+; p_ship_raider_spawn_point_6|the area
 p_landing_point|Ponto de Desembarque
-; p_landing_point2|landing point2
 p_the_fleet|A Frota
 p_transporter|Transportador
 ; p_troop_camp_1|Troop camp

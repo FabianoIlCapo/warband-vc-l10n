@@ -59,8 +59,8 @@ str_give_up_fight|Abandonner la bataille ?
 str_do_you_wish_to_leave_tutorial|Souhaitez-vous quitter le didacticiel ?
 str_do_you_wish_to_surrender|Souhaitez-vous vous rendre ?
 str_can_not_retreat|Impossible de se replier, il y a des ennemis à proximité !
-str_s1_joined_battle_enemy|{s1} a rejoint l'ennemi dans la bataille.
-str_s1_joined_battle_friend|{s1} vous a rejoint dans la bataille.
+; str_s1_joined_battle_enemy|{s1} would join your enemy in a battle.
+; str_s1_joined_battle_friend|{s1} would join you in a battle.
 str_entrance_to_town_forbidden|Les gardes de la ville sont à l'affût des intrus et il semble que vous ne pourrez pas franchir les portes sans encombre.
 str_sneaking_to_town_impossible|Les gardes de la ville sont alertés. Vous ne pourrez pas franchir cette porte sans vous faire repérer, peu importe le type de déguisement que vous utilisez.
 str_battle_won|Vous avez gagné la bataille !
@@ -82,8 +82,8 @@ str_siege_defender_order_attack_continue|L'assaut a été contré, mais il sembl
 ; str_center_captured|The {s2} has taken {s1} from the {s3}.
 str_troop_relation_increased|Vos relations avec le {s1} se sont améliorées de {reg1} à {reg2}.
 str_troop_relation_detoriated|Vos relations avec le {s1} se sont détériorées de {reg1} à {reg2}.
-; str_faction_relation_increased|Your relation with the {s1} has increased from {reg1} to {reg2}.
-; str_faction_relation_detoriated|Your relation with the {s1} has deteriorated from {reg1} to {reg2}.
+; str_faction_relation_increased|Your relation with the {s1} has increased from {reg1} to {reg2}. {s2}
+; str_faction_relation_detoriated|Your relation with the {s1} has deteriorated from {reg1} to {reg2}. {s2}
 str_party_gained_morale|Votre groupe gagne {reg1} en moral.
 str_party_lost_morale|Votre groupe perd {reg1} en moral.
 str_other_party_gained_morale|{s1} gagne {reg1} en moral.
@@ -360,10 +360,10 @@ str_battle_fate_3|J'ai été assommé par l'ennemi
 str_battle_fate_4|J'ai été capturé et rançonné
 str_battle_fate_5|J'ai été capturé mais j'ai finalement réussi à m'enfuir
 ; str_npc_morale_report|I'm {s6} your choice of companions, {s7} your style of leadership, and {s8} the general state of affairs.
-str_happy|satisfait de
+; str_happy|happy with
 str_content|content de
 str_concerned|concerné par
-str_not_happy|loin d'être satisfait de
+; str_not_happy|not at all happy with
 str_miserable|franchement consterné par
 str_morale_reg1| Moral : {reg1}
 str_bar_enthusiastic|                   Enthousiaste
@@ -487,7 +487,7 @@ str_npc13_backstory_later|J'ai voyagé de cour en cour, mais je n'ai pas encore 
 ; str_npc1_backstory_response_1|I appreciate him giving me a skilled tracker.
 str_npc2_backstory_response_1|Bien, peut-être pourrais-je vous proposer un travail. Vous savez vous battre ?
 ; str_npc3_backstory_response_1|Well, I take pity on you, and your healing abilities could be useful.
-; str_npc4_backstory_response_1|I run such a shield wall, and might be able to hire an extra hand.
+; str_npc4_backstory_response_1|No Picts in my shield wall, and I might be able to hire an extra hand.
 str_npc5_backstory_response_1|Bien dit ! Je pense être en mesure de vous aider.
 ; str_npc6_backstory_response_1|You must join us. Our way should remain united.
 str_npc7_backstory_response_1|Hum... Vous ne chercheriez pas du travail, par hasard ?

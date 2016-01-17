@@ -160,7 +160,7 @@ dlga_port_recruits2:port_crew_talk.1|Nie, nie teraz.
 ; dlga_the_fleetcrew1:close_window|I was told it would be weeks, even months out, so good luck. Your fleet is waiting for you at the exit of the port. Take your boat and go with them.
 ; dlga_port_crew_fleet2:close_window|No, I need to finish some things. I will be back.
 ; dlga_port_r_2:close_window|I want to go. Farewell.
-; dlga_start:close_window.5|Why are you bothering me? I'm busy! I have no time for people like you. Come back another day. Or better yet, don't.^^       --It seems that Sigurd is not willing to receive you now. You'll need to look for another way to find out information about Sven.--
+; dlga_start:close_window.5|Why are you bothering me? I'm busy! I have no time for people like you. Come back another day. Or better yet, don't.^^--It seems that Sigurd is not willing to receive you now. You'll need to look for another way to find out information about Sven.--
 ; dlga_start:kinghorik_quest_danmarkprot|This is a good place away from prying ears. Now, talk.
 ; dlga_start:kinghorik_quest_revenge4|This is a good place away from prying ears. Now, talk.
 ; dlga_start:kinghorik_quest_thething1|Heill, {playername}.
@@ -435,11 +435,11 @@ dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {s1}
 ; dlga_fighter_talk:fighter_talk_train_parry|I want to practice blocking with my weapon.
 ; dlga_fighter_talk:fighter_talk_train_combat|Let's do some sparring practice.
 dlga_fighter_talk:close_window|[Odejdź]
-; dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|All right. There are four principle directions for attacking. These are overhead swing, right swing, left swing and thrust. Now, I will tell you which direction to attack from and you must try to do the correct attack.^^(Move your mouse while you press the left mouse button to specify attack direction. For example, to execute an overhead attack, move the mouse up at the instant you press the left mouse button. The icons on your screen will help you do the correct action.)
+; dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|All right. There are four principle directions for attacking. These are overhead swing, right swing, left swing and thrust. Now, I will tell you which direction to attack from and you must try to do the correct attack. ^^(Move your mouse while you press the left mouse button to specify attack direction. For example, to execute an overhead attack, move the mouse up at the instant you press the left mouse button. The icons on your screen will help you do the correct action.)
 ; dlga_fighter_talk_train_attack_2:close_window|Let's begin then. I am ready.
 ; dlga_fighter_talk_train_attack_2:fighter_pretalk|Actually, I want to do something else.
-; dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|Unlike a shield, blocking with a weapon can only stop attacks coming from one direction. For example if you block up, you'll deflect overhead attacks, but you can still be hit by side swings or thrust attacks.^^(You must press and hold down the right mouse button to block.)
-; dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|I'll now attack you with different types of strokes, and I will wait until you do the correct block before attacking. Try to do the correct block as soon as you can.^^(This practice is easy to do with the 'automatic block direction' setting, which is the default. If you go to the Options menu and change the defend direction control to 'mouse movement' or 'keyboard,' you'll need to manually choose block direction. This is much more challenging, but makes the game much more interesting. This practice can be very useful if you use manual blocking.)
+; dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|Unlike a shield, blocking with a weapon can only stop attacks coming from one direction. For example if you block up, you'll deflect overhead attacks, but you can still be hit by side swings or thrust attacks. ^^(You must press and hold down the right mouse button to block.)
+; dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|I'll now attack you with different types of strokes, and I will wait until you do the correct block before attacking. Try to do the correct block as soon as you can. ^^(This practice is easy to do with the 'automatic block direction' setting, which is the default. If you go to the Options menu and change the defend direction control to 'mouse movement' or 'keyboard,' you'll need to manually choose block direction. This is much more challenging, but makes the game much more interesting. This practice can be very useful if you use manual blocking.)
 ; dlga_fighter_talk_train_parry_3:close_window|Let's begin then. I am ready.
 ; dlga_fighter_talk_train_parry_3:fighter_pretalk|Actually, I want to do something else.
 ; dlga_fighter_talk_train_combat:fighter_talk_train_combat_2a|Sparring is an excellent way to prepare for actual combat. We'll fight each other with non-lethal weapons now, until one of us falls to the ground. You can get some bruises of course, but better that than being cut down in the real thing.
@@ -1087,7 +1087,7 @@ dlga_companion_reginhard2:companion_reginhard21|{s10}
 ; dlga_bodo_choiceside4_s:bodo_choiceside4|I have nothing to say. I will listen to the others.
 ; dlga_bodo_choiceside4_s:bodo_choiceside4.1|I submit to whatever {playername} chooses.
 ; dlga_bodo_choiceside4_s:bodo_choiceside4.2|--He clears his throat to get the attention of all.--
-; dlga_bodo_choiceside4:bodo_choiceside41|Sorry, but I can't be impartial in this matter. My ancestors, my family, are Vikings. The gods have granted us victory upon victory, so that we may acquire fame and wealth.  This invasion we have embarked upon is in the footsteps of the sons of Ragnar in Englaland. It is a rich, fertile land worth fighting for. The Danish understand that if you can seize something, it's yours. It is for the inhabitants of the land to defend it and be worthy adversaries.
+; dlga_bodo_choiceside4:bodo_choiceside41|Sorry, but I can't be impartial in this matter. My ancestors, my family, are Vikings. The gods have granted us victory upon victory, so that we may acquire fame and wealth. This invasion we have embarked upon is in the footsteps of the sons of Ragnar in Englaland. It is a rich, fertile land worth fighting for. The Danish understand that if you can seize something, it's yours. It is for the inhabitants of the land to defend it and be worthy adversaries.
 ; dlga_bodo_choiceside41:bodo_choiceside42|The Danish are not beggars, and do not come asking for a piece of land. Danes do not ask for charity from the Saxons. We come with weapons in hand, ready to fight. If the Angles or Saxons defeat us, we will respect their victory, but if we prevail, the gods are with us and the fertile soil belongs to us. That is what I believe. If the Saxons and Franks come northward to fight and defeat the Danish, they are true warriors and the land is theirs.
 ; dlga_bodo_choiceside42:bodo_choiceside43|Your opinion will weigh heavily in my decision, Asbjorn. Thank you.
 ; dlga_bodo_choiceside42:bodo_choiceside43.1|This does not clarify anything.
@@ -1280,7 +1280,7 @@ dlga_minister_messenger_system2:minister_messenger_system3|{s1}.
 ; dlga_minister_nocontroltax2:minister_pretalk|Ah, no. Let me think more about it.
 ; dlga_minister_nocontroltax3:minister_pretalk|Well, {reg59?my lady:sire}. They shall be dismissed.
 ; dlga_minister_talk:minister_prisionero1|Send a messenger to pay for the release of a prisoner.
-; dlga_minister_prisionero1:minister_prisionero2|Who should we pay the ransom for?
+; dlga_minister_prisionero1:minister_prisionero2|Who should we pay the ransom for?^^Remember the prisoner should be in a prison so our messenger can find him.
 ; dlga_minister_prisionero2:minister_prisionero3|{s10}.
 ; dlga_minister_prisionero2:minister_pretalk|Forget this.
 ; dlga_minister_prisionero3:minister_prisionero4|How much ransom shall we offer? We must also add a messenger's salary of 400 peningas for the mission.
@@ -1311,7 +1311,10 @@ dlga_minister_ask_about_war_details:minister_ask_about_war2|{s9}.
 ; dlga_minister_training_lair0:minister_training_lair3|I need some men in the garrison to be trained.
 ; dlga_minister_training_lair0:minister_training_lair4_stop|Stop training men here.
 dlga_minister_training_lair0:minister_pretalk|Nie ważne.
-; dlga_minister_training_lair3:minister_pretalk|Alright, I will train the recruits in {s11}. Please place the troops you prefer to be trained at the bottom of the garrison list.
+; dlga_minister_training_lair3:minister_training_lair3_a|Do you want me to use an alternative promotion when available?
+dlga_minister_training_lair3_a:minister_training_lair3_b|Tak.
+dlga_trainer_training_lair3a:minister_training_lair3_b|Nie.
+; dlga_minister_training_lair3_b:minister_pretalk|Alright, I will train the recruits in {s11}. Place the troops you want me to train at the bottom of the garrison list.
 ; dlga_minister_training_lair4_stop:minister_pretalk|Yes, my {reg59?lady:lord}?
 ; dlga_minister_talk:minister_replace|I wish for you to retire as minister.
 ; dlga_minister_talk:minister_replace.1|I wish you to rejoin my party.
@@ -1783,7 +1786,7 @@ dlga_start:maelbresail_dialog1|Tak?
 ; dlga_morrigan1_dialog:morrigan1_dialog1|It is your end, witch. I kill you now.
 ; dlga_morrigan1_dialog:morrigan1_dialog2|What are you talking about, witch?
 ; dlga_morrigan1_dialog:morrigan1_dialog3|Mael Bresail isn't my lord.
-; dlga_morrigan1_dialog1:close_window|My father, Flaithbertach, could have been king, but he was killed by his own brother, Aed of Aileach, and your master, Mael Bresail. You plan to kill the last member from Flaithbertach's lineage. The gods and men curse your name.^^For some time now, I have owned nothing more than my life. Yet I do not fear death and think maybe it may remedy my torment.^^      (Before you can do anything, Morrigan casts herself on your weapon, inviting death. She utters no sound. You watch her eyes close and peace spread across her face.)
+; dlga_morrigan1_dialog1:close_window|My father, Flaithbertach, could have been king, but he was killed by his own brother, Aed of Aileach, and your master, Mael Bresail. You plan to kill the last member from Flaithbertach's lineage. The gods and men curse your name.^^For some time now, I have owned nothing more than my life. Yet I do not fear death and think maybe it may remedy my torment.^^(Before you can do anything, Morrigan casts herself on your weapon, inviting death. She utters no sound. You watch her eyes close and peace spread across her face.)
 ; dlga_morrigan1_dialog2:morrigan1_dialog4|Then you kill without knowing your victim or why she should be killed, murderer?
 ; dlga_morrigan1_dialog3:morrigan1_dialog4|Then why do you work for him and his damned lord, Aed of Aileach, and kill their enemies for them, murderer?
 dlga_morrigan1_dialog4:morrigan1_dialog5|{s10}
@@ -2006,8 +2009,8 @@ dlga_lair_cook_pretalk:lair_cook|Coś jeszcze?
 ; dlga_quastuosa_talk1:quastuosa_serve1|I need to raise the spirits of my men.
 ; dlga_quastuosa_talk1:quastuosa_serve2a|I do not want anything for my men. I would like your company.
 ; dlga_quastuosa_talk1:close_window|I need nothing. Farewell.
-; dlga_quastuosa_serve1:quastuosa_serve3a|Well, your men will have the mead hall at their disposal. They can eat and drink all they want and I'll get some girls to keep them company. I assure you they will be happy after this party. It will cost you 1500 coins.
 ; dlga_quastuosa_serve1:quastuosa_serve3b|Your men will have fun as ever. I'll get the prettiest girls, the best drinks and the best food. I assure you their moral will be sky high after this party. It will cost you 1700 coins.
+; dlga_quastuosa_serve1:quastuosa_serve3a|Well, your men will have the mead hall at their disposal. They can eat and drink all they want and I'll get some girls to keep them company. I assure you they will be happy after this party. It will cost you 1500 coins.
 ; dlga_quastuosa_serve3a:quastuosa_pretalk1|Well, I suppose my men have earned it. This time.
 ; dlga_quastuosa_serve3b:quastuosa_pretalk|Well, I suppose my men have earned it. This time.
 ; dlga_quastuosa_serve3a:close_window|Alas, my lady, my purse weighs not enough for all your considerable charm. Farewell!
@@ -2045,7 +2048,7 @@ dlga_lair_cook_pretalk:lair_cook|Coś jeszcze?
 ; dlga_lair_captain_pretalk:lair_captain|Anything else, Commander?
 ; dlga_lair_captain:lair_captain_nothing|Is there anything I should know?
 ; dlga_lair_captain:lair_captain_improve|Captain, I want to improve this place.
-; dlga_lair_captain:lair_captain_improve_x1|Captain, how will the improvement work?
+; dlga_lair_captain:lair_captain_improve_x1|Captain, how goes the construction?
 ; dlga_lair_captain:lair_captain_improve_torefuge|Captain, I want to improve this hideout.
 ; dlga_lair_captain:lair_captain_add_port_0|I would like to land my ships here next to this refuge.
 ; dlga_lair_captain_add_port_0:lair_captain_add_port_1|We will need 1,000 peningas, to pay staff and buy materials in order to build the jetties.
@@ -2276,7 +2279,7 @@ dlga_problema_monjes_1:problema_monjes_22|{s10}
 ; dlga_porta_presentacion:regular_member_talk|Me? - He approaches and whispers in your ear. - We are very useful. I am important for you. When your men see me in battle, they will gain courage. If things go wrong, they will fight longer before fear seizes them.
 ; dlga_porta_presentacion:regular_member_talk.1|Me? - He approaches and whispers in your ear. - I am important for you. When your men see me in battle, they will gain courage. If things go wrong, they will fight longer before fear seizes them.
 ; dlga_regular_member_talk:porta1_presentacion|Heill, what can you do for my men?
-; dlga_porta1_presentacion:regular_member_talk|Me?  I am important to you. I am the wife of one of your soldiers. If you have wives (30) in your party, your men will gain morale (every 48 hours).
+; dlga_porta1_presentacion:regular_member_talk|Me? I am important to you. I am the wife of one of your soldiers. If you have wives (30) in your party, your men will gain morale (every 48 hours).
 ; dlga_regular_member_talk:follower_woman_action|I need you help me to raise the morale of my men. I pay 450 peningas for your efforts.
 ; dlga_follower_woman_action:regular_member_talk|Men? Oh... well, it is important to help.
 ; dlga_start:sacerdotes_party_talk| My {reg59?lady:lord}, we're only poor clerics trying to bring some light to the people of this land.
@@ -2379,7 +2382,7 @@ dlga_pagano1_start:pagano1_action|{s4}
 ; dlga_lord_pay_debt_3_2:lord_pretalk|Well, don't keep me waiting much longer.
 ; dlga_lord_start:lord_start.1|By the way, I hope you get a chance to meet my {s11}, {s14}.
 ; dlga_lord_start:lord_start.2|By the way, I am sure that my {s11}, {s14}, would be delighted were you to pay her a visit. She awaits you in her chambers.
-; dlga_lord_start:lord_buy_prisoner|I heard that you have captured our enemy {s3} and he is with you at the moment. I can pay you {reg6} peningas if you want to get rid of him. You can wait for his family to pay his ransom of course, but there is no telling how long that will take, eh?
+; dlga_lord_start:lord_buy_prisoner|I heard that you have captured our enemy {s3} and he is with you at the moment. I can pay you {reg6} peningas if you want to get rid of him. You can wait for his family to pay his ransom of course, but there is no telling how long that will take, eh? 
 ; dlga_lord_buy_prisoner:lord_buy_prisoner_accept|I accept your offer. I'll leave {s3} to you for {reg6} peningas.
 ; dlga_lord_buy_prisoner:lord_buy_prisoner_deny|I fear I can't accept your offer.
 ; dlga_lord_buy_prisoner_accept:lord_pretalk|Excellent! Here's your {reg6} peningas. I'll send some men to take him to our prison with due haste.
@@ -2759,7 +2762,7 @@ dlga_kennemerjarl_8:kennemerjarl_91|{s10}
 ; dlga_kennemerjarl_91:kennemerjarl_92|{s2}
 ; dlga_kennemerjarl_92:kennemerjarl_93|Are you indeed so motivated by honor? Alright, I can do this: I'll give you a place among the men who will face Sven if you prove your worth.
 ; dlga_kennemerjarl_93:kennemerjarl_94|{s1}^^There is a problem I need to solve. Not far from here is a monastery of Christians, Odin damn them, who have sent a request to intercede in a land property dispute.^Honestly, I care very little about their problems, but the king wants Christian priests happy, to avoid Frisian rebellions.
-; dlga_kennemerjarl_94:kennemerjarl_95|Anyway, my men are busy, protecting important things like the people on the coast, so you go in my name and make the arrangement that best suits my interests.^   The most important thing is to keep the monks quiet. I do not want them stirring up the people versus rightful Danish dominion.
+; dlga_kennemerjarl_94:kennemerjarl_95|Anyway, my men are busy, protecting important things like the people on the coast, so you go in my name and make the arrangement that best suits my interests.^The most important thing is to keep the monks quiet. I do not want them stirring up the people versus rightful Danish dominion.
 ; dlga_kennemerjarl_95:kennemerjarl_10|Thank you, my lord. I will not disappoint you.
 ; dlga_kennemerjarl_95:kennemerjarl_10.1|Is there a reward?
 ; dlga_kennemerjarl_95:kennemerjarl_10.2|It will be done quickly. Farewell.
@@ -2860,7 +2863,7 @@ dlga_kinghorik_quest_atlieiriksson51:kinghorik_quest_atlieiriksson6|{s4}
 ; dlga_kinghorik_quest_atlieiriksson52:kinghorik_quest_atlieiriksson6|I see. Well, it is your neck.
 ; dlga_kinghorik_quest_atlieiriksson53:kinghorik_quest_atlieiriksson6|It is not advisable to push away the hand that protects you. I am the only person preventing you from getting killed. If you ever threaten me, I'll be the one killing you, with my bare hands.
 ; dlga_kinghorik_quest_atlieiriksson6:lord_pretalk|Well, the important thing is that the letter has been destroyed. Finish what you have to do before the Assembly.
-; dlga_kinghorik_ulf_testigo1:kinghorik_ulf_testigo2|Glad to hear that. Did you improve your relations with the jarls of my kingdom?^^     --Current good relations:^{s2}--
+; dlga_kinghorik_ulf_testigo1:kinghorik_ulf_testigo2|Glad to hear that. Did you improve your relations with the jarls of my kingdom?^^--Current good relations:^{s2}--
 ; dlga_kinghorik_ulf_testigo2:kinghorik_ulf_testigo31|I did what I could.
 ; dlga_kinghorik_ulf_testigo2:kinghorik_ulf_testigo32|No. I need more time. I want to go and improve my relations with the jarls.
 ; dlga_kinghorik_ulf_testigo32:lord_pretalk|Well, do what you must and return when ready. But do not take too long, as the Assembly will start shortly.
@@ -2869,7 +2872,7 @@ dlga_kinghorik_quest_atlieiriksson51:kinghorik_quest_atlieiriksson6|{s4}
 ; dlga_kinghorik_thething2:lord_pretalk|I'll send a messenger as soon as your presence is required. Be ready.
 ; dlga_jarlbjornnegtruce_1:jarlbjornnegtruce_2|That is good news! We will negotiate a withdrawal with them now, but in the future, we will return and make West Seaxe pay dearly for their weakness. You've done a great service to me and my brothers. Allow me to reward you with friendship and silver.
 ; dlga_jarlbjornnegtruce_2:jarlbjornnegtruce_3|For my part, I do not need anything else. You should return to Rathbarth.
-; dlga_jarlbjornnegtruce_3:lord_pretalk|Well.
+dlga_jarlbjornnegtruce_3:lord_pretalk|Bardzo dobrze.
 ; dlga_jarlbjornneg_1:jarlbjornneg_2|I can imagine that Halfdan imposed his opinion. I had hoped to be mindful of his reasons and I'm glad I did so.^^Now it is necessary to contact the Saxons. I have prepared a letter for them where we offer a truce to cover our retreat to Northhymbre and to summon them to a meeting outside Snotingaham's gate to discuss the details.^^My informants tell me that one of the Saxon chieftains, Aelfred, patrols around Snotingaham every day. Meet with him and give him my letter.
 ; dlga_jarlbjornneg_2:jarlbjornneg_31|Who is Aelfred?
 ; dlga_jarlbjornneg_2:jarlbjornneg_32|Why not take the letter to the Mercians? We are in their kingdom.
@@ -2895,7 +2898,7 @@ dlga_jarlbjorn_5_2:jarlbjorn_6|{s4}
 ; dlga_jarlbjorn_8:jarlbjorn_9|Because you have come to reinforce this army. I am the chief here, and I give you an order.
 ; dlga_jarlbjorn_9:jarlbjorn_9_pre|When you're done with these men, come back here.
 ; dlga_jarlbjorn_9_pre:lord_pretalk|I always reward warriors who do their job well.
-; dlga_jarlbjornwf_1:jarlbjornwf_2|I have heard about your deeds. You have given those foragers the punishment they deserved.  You are really as good as I had guessed.  Here is your reward: 900 peningas.
+; dlga_jarlbjornwf_1:jarlbjornwf_2|I have heard about your deeds. You have given those foragers the punishment they deserved. You are really as good as I had guessed. Here is your reward: 900 peningas.
 ; dlga_jarlbjornwf_2:jarlbjornwf_3|I think you're someone who knows how to do things. It's time to take another step. I want you to pass through the enemy lines and take a message to my brothers. Tell them about the betrayal of Sven and that we will not have reinforcements from Danmark. Tell them I'm going to arrange a meeting with the Saxons to negotiate our retreat from Snotingaham.
 ; dlga_jarlbjornwf_3:jarlbjornwf_4|I go now.
 ; dlga_jarlbjornwf_3:jarlbjornwf_4_1|Why would your brothers believe me and accept surrender?
@@ -2927,7 +2930,7 @@ dlga_jarlbjorn_5_2:jarlbjorn_6|{s4}
 ; dlga_raethbarthbodoletter_1_1:raethbarthbodoletter_7|Ah, {playername}. I am honored that you have joined us. Now, as I mentioned, I already have something to ask of you.^^ I need you go north, to the territory of the Kingdom of Alban. The Picts never cease to cause us problems, and we need someone to punish them.
 ; dlga_raethbarthbodoletter_7:raethbarthbodoletter_81|What is it you need done?
 ; dlga_raethbarthbodoletter_7:raethbarthbodoletter_82|I'm sorry. My priority is Sven Bull Neck.
-; dlga_raethbarthbodoletter_81:raethbarthbodoletter_9|I want to secure our rear. We cannot take any action against the south, Asturians or Franks if the Picts can raise an army and attack Jorvik.^Recruit an army and conquer Dun Taruo. Keep it in your power for at least twenty days, so that Alban will think that we plan to attack the heart of their kingdom. If you want to keep it, it's yours, but we need thirty days to secure a deal with Alban.
+; dlga_raethbarthbodoletter_81:raethbarthbodoletter_9|I want to secure our rear. We cannot take any action against the south, Asturians or Franks if the Picts can raise an army and attack Jorvik.^Recruit an army and conquer Dun Taruo. Keep it in your power for at least twenty days, so that Alban will think that we plan to attack the heart of their kingdom. If you want to keep it, it's yours, but we need twenty days to secure a deal with Alban.
 ; dlga_raethbarthbodoletter_82:raethbarthbodoletter_81|I promised you Sven Bull Neck, so he will be yours, but I need time to find him. I will have more resources and time if you can help me in this matter.
 ; dlga_raethbarthbodoletter_9:close_window|Good luck. When you've accomplished your mission, I'm sure I can give you an answer on Sven Bull Neck and about what I decide with my brothers.
 ; dlga_raethbarthbjorn_1:close_window|Glad to hear that everything went well. Come back in a few days and talk.
@@ -3544,7 +3547,7 @@ dlga_lord_ask_enter_service_female_response:lord_pretalk|Nie ważne.
 ; dlga_lord_ask_enter_service_female_solution_competitor:lord_ask_enter_service_female_response|Oh, perhaps you might find someone who was truly desperate -- but then, I would think, they would not have many fiefs to bestow. Did you have other questions?
 ; dlga_lord_ask_enter_service_female_solution_capture:lord_ask_enter_service_female_response|Well, in that case, depending on the circumstances, I might be inclined to let you keep it. Did you have other questions?
 ; dlga_lord_ask_enter_service:lord_give_oath_1|You are known as a brave {reg59?warrior:man-at-arms} and a fine leader of men, {playername}. I shall be pleased to accept your sword into my service and bestow vassalage upon you, if you are ready to swear homage to me.
-; dlga_lord_ask_enter_service:lord_pretalk.1|You've yet to show yourself as a competent commander, {playername}. Take your sword to my enemies and prove to me that you are worthy of becoming my vassal.  Then we may speak more of this.
+; dlga_lord_ask_enter_service:lord_pretalk.1|You've yet to show yourself as a competent commander, {playername}. Take your sword to my enemies and prove to me that you are worthy of becoming my vassal. Then we may speak more of this.
 ; dlga_lord_give_oath_1:lord_give_oath_2|I am ready, {s65}.
 ; dlga_lord_give_oath_1:lord_give_oath_give_up|Forgive me, {s65}. I must give the matter more thought first...
 ; dlga_lord_give_oath_give_up:lord_pretalk|Take whatever time you need, my lady.
@@ -3616,7 +3619,7 @@ dlga_lord_give_conclude:lord_give_conclude_2|{s41}
 ; dlga_lord_active_mission_3:lord_pretalk|Good. Remember, I am counting on you.
 dlga_lord_mission_failed:lord_pretalk|{s43}
 ; dlga_lord_suggets_attack_enemy_castle3:lord_pretalk|That should be possible. Very well, we'll attack {s1}.
-; dlga_lord_propose_mercenary:lord_mercenary_service|As it happens, {playername}, I promised {s10} that I would hire a company of mercenaries for an upcoming campaign.
+; dlga_lord_propose_mercenary:lord_mercenary_service|As it happens, {playername}, I promised {s10} that I would hire a company of mercenaries for an upcoming campaign. 
 ; dlga_lord_mercenary_service:lord_mercenary_service_reject|I'm not interested, thank you.
 ; dlga_lord_mercenary_service:lord_mercenary_service_accept|Aye, I'll join the {s9}.
 ; dlga_lord_mercenary_service:lord_mercenary_elaborate_pay|I'm interested. Please tell me more.
@@ -3699,7 +3702,7 @@ dlga_lord_mission_failed:lord_pretalk|{s43}
 ; dlga_lord_mission_collect_taxes_told:lord_mission_collect_taxes_rejected|Forgive me. I don't have the time.
 ; dlga_lord_mission_collect_taxes_accepted:close_window|Welcome news, {playername}. I will entrust this matter to you. Remember, those {reg9?townsmen:peasants} are foxy beasts, they will make every excuse not to pay me my rightful incomes. Do not let them fool you.
 ; dlga_lord_mission_collect_taxes_rejected:lord_pretalk|Oh, yes. Well, good luck to you then.
-; dlga_lord_tell_mission:lord_mission_hunt_down_fugitive_told|I have something you could help with, an issue with the lawless villain known as {s4}.  He murdered one of my men and has been on the run from his judgment ever since. I can't let him get away with avoiding justice, so I've put a bounty of {reg25} peningas on his head. Friends of the murdered man reckon that this assassin may have taken refuge with his kinsmen in {s3}. You might be able to hunt him down and give him what he deserves, and claim the bounty for yourself.
+; dlga_lord_tell_mission:lord_mission_hunt_down_fugitive_told|I have something you could help with, an issue with the lawless villain known as {s4}. He murdered one of my men and has been on the run from his judgment ever since. I can't let him get away with avoiding justice, so I've put a bounty of {reg25} peningas on his head. Friends of the murdered man reckon that this assassin may have taken refuge with his kinsmen in {s3}. You might be able to hunt him down and give him what he deserves, and claim the bounty for yourself.
 ; dlga_lord_mission_hunt_down_fugitive_told:lord_mission_hunt_down_fugitive_accepted|Then I will hunt him down and execute the law.
 ; dlga_lord_mission_hunt_down_fugitive_told:lord_mission_hunt_down_fugitive_rejected|I am too busy to go after him at the moment.
 ; dlga_lord_mission_hunt_down_fugitive_accepted:close_window|That's excellent, {playername}. I will be grateful to you, and so will the family of the man he murdered. And of course, the bounty on his head will be yours if you can get him. Well, good hunting to you.
@@ -4561,9 +4564,9 @@ dlga_tavern_traveler_pretalk:tavern_traveler_talk|Tak?
 ; dlga_tavern_traveler_tell_kingdoms_2:tavern_traveler_tell_kingdoms_3|Tell me more about these opportunities.
 ; dlga_tavern_traveler_tell_kingdoms_2:close_window|Thank you. That was all I needed to know
 ; dlga_tavern_traveler_tell_kingdoms_3:tavern_traveler_tell_kingdoms_4|Well, you probably know everything I could tell you already. You seem to be doing pretty well.
-; dlga_tavern_traveler_tell_kingdoms_3:tavern_traveler_tell_kingdoms_4a|The kingdoms will pay good money for mercenaries if they are engaged in a war. If you have done a bit of fighting, speaking with one of their lords will probably result in being offered a mercenary contract.^^ Better rewards come if you can manage to become a vassal to a king. A vassal can own villages, castles and towns and get rich with the taxes and revenues of these estates. Normally, only nobles of the realm own land in this way, but in time of war, a king will not hesitate to accept someone who distinguishes {reg59?herself:himself} on the battlefield as a vassal, and grant {reg59?her:him} the right to own land.
+; dlga_tavern_traveler_tell_kingdoms_3:tavern_traveler_tell_kingdoms_4a|The kingdoms will pay good money for mercenaries if they are engaged in a war. If you have done a bit of fighting, speaking with one of their lords will probably result in being offered a mercenary contract.^^Better rewards come if you can manage to become a vassal to a king. A vassal can own villages, castles and towns and get rich with the taxes and revenues of these estates. Normally, only nobles of the realm own land in this way, but in time of war, a king will not hesitate to accept someone who distinguishes {reg59?herself:himself} on the battlefield as a vassal, and grant {reg59?her:him} the right to own land.
 ; dlga_tavern_traveler_tell_kingdoms_4a:tavern_traveler_tell_kingdoms_4|It is not unheard-of for adventurers to renounce allegiance to a king altogether, declare themselves kings, and claim land in their own name. This is a difficult path, however, as the great nobles of the land, with their long ancestries, are not likely to accept such upstarts as their monarch. Such rulers would need to be very careful in establishing their right to rule, or they would be set upon from all sides.
-; dlga_tavern_traveler_tell_kingdoms_4:tavern_traveler_tell_kingdoms_5|It might be easier for an adventurer like you to pledge support to an existing king's rival.  There are many such pretenders in the Northlands -- those who are born to the right family, who go around and stir up trouble saying they have a better claim to the throne than the current king does. If those claim holders could find supporters, they could easily start civil wars and perhaps even replace the king one day.
+; dlga_tavern_traveler_tell_kingdoms_4:tavern_traveler_tell_kingdoms_5|It might be easier for an adventurer like you to pledge support to an existing king's rival. There are many such pretenders in the Northlands -- those who are born to the right family, who go around and stir up trouble saying they have a better claim to the throne than the current king does. If those claim holders could find supporters, they could easily start civil wars and perhaps even replace the king one day.
 ; dlga_tavern_traveler_tell_kingdoms_5:tavern_traveler_tell_kingdoms_6|Interesting. Where can I find these claim holders?
 ; dlga_tavern_traveler_tell_kingdoms_5:close_window|I guess I heard enough already. Thank you.
 ; dlga_tavern_traveler_tell_kingdoms_6:tavern_traveler_pretalk|A claim holder's life would be in danger in his own country of course. Therefore, they usually stay at rival courts, raising support and hoping to find someone willing to champion their cause. I usually hear news about some of them, and may be able to tell you their location with some precision. But of course, I would ask for a little something for such a service.
@@ -4658,11 +4661,11 @@ dlga_book_trade_completed:bookseller_talk|Coś jeszcze?
 ; dlga_minstrel_courtship_poem:minstrel_pretalk|I believe you already know the poems I am best equipped to teach.
 ; dlga_minstrel_courtship_poem_teach_2:minstrel_courtship_poem_teach_3|Yes -- teach me that one
 dlga_minstrel_courtship_poem_teach_2:minstrel_pretalk|Nie ważne
-; dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4|Very well -- repeat after me:^   But anxious cares already seized the queen^   She fed within her veins a flame unseen^   The hero's valor, acts, and birth inspire^   Her soul with love, and fan the secret fire...
-; dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.1|Very well -- repeat after me:^   There is a distant isle,^   Around which sea-horses glisten^   A fair course against the white-swelling surge,^   Four feet uphold it.^   A delight of the eyes, a glorious range,^   Is the plain on which the hosts hold games^   Coracle contends against chariot^   In southern Mag Findargat...
-; dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.2|Very well -- repeat after me:^  The muse Calliope bore to Morpheus a son named Orpheus^  Who practised minstrelsy and by his songs moved stones and trees^  When his wife Eurydice died, bitten by a snake, he went down to Hades, being fain to bring her up,^  He persuaded Hades to send her up with him, back to life^  The god promised to do so, if on the way Orpheus would not turn round until he should be come to his own house.^  But he disobeyed and turning round beheld his wife; and she turned back to the Underworld, forever lost...
-; dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.3|Very well -- repeat after me:^   Lo, praise of the prowess of people-kings^   Of spear-armed Danes, in days long sped,^   We have heard, and what honor the aethelings won!^   Oft Scyld the Scefing from squadroned foes,^   From many a tribe, the mead-bench tore, awing the earls...
-; dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.4|Very well -- repeat after me:^   A Lion was awakened from sleep by a Mouse running over his face^   Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:^   If you would only spare my life, I would be sure to repay your kindness.^   The Lion laughed and let him go... 
+; dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4|Very well -- repeat after me:^But anxious cares already seized the queen^She fed within her veins a flame unseen^The hero's valor, acts, and birth inspire^Her soul with love, and fan the secret fire...
+; dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.1|Very well -- repeat after me:^There is a distant isle,^Around which sea-horses glisten^A fair course against the white-swelling surge,^Four feet uphold it.^A delight of the eyes, a glorious range,^Is the plain on which the hosts hold games^Coracle contends against chariot^In southern Mag Findargat...
+; dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.2|Very well -- repeat after me:^The muse Calliope bore to Morpheus a son named Orpheus^Who practised minstrelsy and by his songs moved stones and trees^When his wife Eurydice died, bitten by a snake, he went down to Hades, being fain to bring her up,^He persuaded Hades to send her up with him, back to life^The god promised to do so, if on the way Orpheus would not turn round until he should be come to his own house.^But he disobeyed and turning round beheld his wife; and she turned back to the Underworld, forever lost...
+; dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.3|Very well -- repeat after me:^Lo, praise of the prowess of people-kings^Of spear-armed Danes, in days long sped,^We have heard, and what honor the aethelings won!^Oft Scyld the Scefing from squadroned foes,^From many a tribe, the mead-bench tore, awing the earls...
+; dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.4|Very well -- repeat after me:^A Lion was awakened from sleep by a Mouse running over his face^Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:^If you would only spare my life, I would be sure to repay your kindness.^The Lion laughed and let him go... 
 ; dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue|'But anxious cares already seized the queen...'
 ; dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.1|'There is a distant isle...'
 ; dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.2|'The muse Calliope bore to Morpheus a son named Orpheus...'
@@ -4783,7 +4786,7 @@ dlga_trainer_combat_begin1:trainer_talk_combat1|Co chciałbyś wiedzieć?
 ; dlga_trainer_explain_combat_7:trainer_explain_combat_8|It is a good tactic, but remember that, your opponent may see that and take a defensive stance against the direction you are swinging your weapon. If that happens, you must break your attack and quickly attack from another direction [You may cancel your current attack by quickly tapping the right mouse button].
 ; dlga_trainer_explain_combat_8:trainer_explain_combat_9|If my opponent is defending against the direction I am attacking from, I will break and use another direction.
 ; dlga_trainer_explain_combat_9:trainer_pretalk2|Yes, selecting the direction you swing your weapon is a crucial skill. There are four main directions you may use: right swing, left swing, overhead swing and thrust. You must use each one wisely. [To control your swing direction with default controls, move your mouse in the direction you want to swing from as you press the left mouse button].
-; dlga_trainer_practice_11:trainer_practice_11|If I may say so, I see great warrior in you.^^Some sailors have been idle since we stopped. Let's see if one of them could help us.
+; dlga_trainer_practice_11:trainer_practice_11|If I may say so, I see great warrior in you. ^^Some sailors have been idle since we stopped. Let's see if one of them could help us.
 ; dlga_trainer_practice_11:novicemaster_are_you_ready1|A sailor will fight you. Are you ready?
 ; dlga_novicemaster_are_you_ready1:novicemaster_ready_to_fight1|Yes I am.
 ; dlga_novicemaster_ready_to_fight1:close_window|Here you go then. Good luck.
@@ -4936,7 +4939,7 @@ dlga_bodo_merchant_1:bodo_merchant_22|{s10}
 ; dlga_petro_leaderwessex_43:petro_leaderwessex_44|By the gods! Sorry, I mean my God! Both fleets are maneuvering for battle. The smoke comes from fire arrows.
 ; dlga_petro_leaderwessex_44:petro_leaderwessex_45|You must have the eyes of an eagle, Cantabro. We must help our allies before the Danes destroy them. Silo, we need your men on our side, they are the best sailors in our fleet.
 ; dlga_petro_leaderwessex_45:petro_leaderwessex_46|You should've thought of that before making grave accusations. My men will fight with me... Well, the Danish brought more boats, and I always ally with the winner.
-; dlga_petro_leaderwessex_46:petro_leaderwessex_48|You traitorous scum! I am taking the overall command. {playername}, return to your ships and try to contain the Danish. Gundinsalvo will be in charge of our fleet and will join you. I'll stay here in a safe place to coordinate a defense on the ground, so that you have a place to withdraw to if things go bad.^^ Go!
+; dlga_petro_leaderwessex_46:petro_leaderwessex_48|You traitorous scum! I am taking the overall command. {playername}, return to your ships and try to contain the Danish. Gundinsalvo will be in charge of our fleet and will join you. I'll stay here in a safe place to coordinate a defense on the ground, so that you have a place to withdraw to if things go bad.^^Go!
 ; dlga_petro_leaderwessex_48:close_window|You're insane! You should surrender. To me, my men! For Gallaecia!
 ; dlga_start:trainer_intro_1|Good day to you {reg59?lass:lad}. You look like another adventurer who has come to try {reg59?her:his} chance in these lands. Well, trust my word. You won't be able to survive long here unless you know how to fight yourself out of a tight spot.
 ; dlga_trainer_intro_1:trainer_intro_2|Thank you for your advice. This place looks like a training field. Can I learn about fighting here?
@@ -5050,7 +5053,7 @@ dlga_bardo_sing_lady2:bardo_pretalk|Nie ważne.
 ; dlga_sacerdote_ayuda2:sacerdote_sins|Praise God, that he may cleanse us of our sins. I will donate 300 coins.
 ; dlga_sacerdote_sins:sacerdote_pretalk|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen.
 ; dlga_sacerdote_ayuda2:sacerdote_pretalk|Thank you father, I want this land to love me. I will give you 1000 coins.
-; dlga_sacerdote_ayuda2:sacerdote_angry|Are you selling your Faith? You are a pig! May Thor feast upon your guts!
+; dlga_sacerdote_ayuda2:sacerdote_angry|Are you selling your Faith? You are a pig! May my god feast upon your guts!
 ; dlga_sacerdote_ayuda2:sacerdote_pretalk.1|Actually, cancel that order.
 ; dlga_start:pagano_talk|West thu hal, {reg59?my lady:my lord}. I am a priest of Odin, the almighty carrier-off the dead, which, if brave enough, forever rest by his side at the great halls of Walhalla. He is also the trickster god, the one-eyed one, and the leader of the Wild Hunt.
 ; dlga_pagano_pretalk:pagano_talk|West thu hal, {playername}. What do you need?
@@ -5482,7 +5485,7 @@ dlga_farmstead_boss_sins:farmstead_boss_sins2|{s4}
 ; dlga_start:reeve_talk|Hello, stranger. You seem to be new to {s9}. I am the reeve of this fort.
 ; dlga_start:reeve_begin.1|Good day, {playername}.
 ; dlga_reeve_begin:reeve_friendly_pretalk|I have heard that you found the perpetrator and recovered my valuable {s13}. You are really as good as they say. Here is your reward: {reg5} peningas.
-; dlga_reeve_begin:close_window|I heard that you lost a fight against the runaway guard and my valuable {s9} is gone forever.  I am very disappointed, {playername}, as I've heard so many good things about your reliability. 
+; dlga_reeve_begin:close_window|I heard that you lost a fight against the runaway guard and my valuable {s9} is gone forever. I am very disappointed, {playername}, as I've heard so many good things about your reliability. 
 ; dlga_reeve_begin:reeve_friendly_pretalk.1|I have heard about your deeds. You have given those bandits the punishment they deserved. You are really as good as they say. Here is your reward: {reg5} peningas. I would like to give more but those bandits almost brought me to bankruptcy.
 ; dlga_reeve_begin:reeve_talk|What can I do for you?
 ; dlga_reeve_friendly_pretalk:reeve_talk|Now... What else may I do for you?
@@ -5531,7 +5534,7 @@ dlga_reeve_sendmessage3bb:reeve_sendmessage3bbb|{s1}.
 ; dlga_mayor_looters_quest_response:mayor_looters_quest_goods|I've brought you some goods.
 ; dlga_mayor_looters_quest_response:close_window|Not yet, sir. Farewell.
 ; dlga_mayor_looters_quest_destroyed:mayor_looters_quest_destroyed_2|Aye, my scouts saw the whole thing. That should make anyone else think twice before turning outlaw! The bounty is 40 peningas for every band, so that makes {reg1} in total. Here is your money, as promised.
-; dlga_mayor_looters_quest_destroyed_2:close_window|And that's not the only good news! Thanks to you, the looters have ceased to be a threat. We've not had a single attack reported for some time now.   If there are any of them left, they've either run off or gone deep into hiding. That's good for business,   and what's good for business is good for the town!   I think that concludes our arrangement, {playername}. Please accept this silver as a token of my gratitude. Thank you, and farewell.
+; dlga_mayor_looters_quest_destroyed_2:close_window|And that's not the only good news! Thanks to you, the looters have ceased to be a threat. We've not had a single attack reported for some time now. If there are any of them left, they've either run off or gone deep into hiding. That's good for business, and what's good for business is good for the town! I think that concludes our arrangement, {playername}. Please accept this silver as a token of my gratitude. Thank you, and farewell.
 ; dlga_mayor_looters_quest_destroyed_2:mayor_looters_quest_response|Anything else you need?
 ; dlga_mayor_looters_quest_goods:mayor_looters_quest_goods_response|Hah, I knew I could count on you! Just tell me which item to take from your baggage, and I'll send some men to collect it. I still need {reg1} peningas' worth of goods.
 dlga_mayor_looters_quest_goods_response:mayor_looters_quest_goods_2|{s5}.
@@ -5541,11 +5544,11 @@ dlga_mayor_looters_quest_goods_response:mayor_looters_quest_goods_2|{s5}.
 ; dlga_mayor_looters_quest_goods_2:close_window|Well done, {playername}! That's the last of the goods I need. Here is the money for your {s6} and a small bonus for helping me out. I'm afraid I won't be paying for any more goods or offering bounties on looters, but you're welcome to keep hunting the bastards if any remain. Thank you for your help. I won't forget it.
 ; dlga_mayor_begin:close_window|Good to see you again, {playername}. I have heard that you have delivered the cattle successfully. I will tell the merchants how reliable you are. And here is your pay, {reg8} peningas.
 ; dlga_mayor_begin:move_cattle_herd_failed|I heard that you have lost the cattle herd on your way to {s9}. I had a very difficult time explaining your failure to the owner of that herd, {reg59?madam:sir}. Do you have anything to say?
-; dlga_mayor_begin:close_window.1|I heard that you lost a fight against the runaway guard and my valuable {s9} is gone forever.  I am very disappointed, {playername}, as I heard so many good things about your reliability. 
+; dlga_mayor_begin:close_window.1|I heard that you lost a fight against the runaway guard and my valuable {s9} is gone forever. I am very disappointed, {playername}, as I heard so many good things about your reliability. 
 ; dlga_move_cattle_herd_failed:move_cattle_herd_failed_2|I am sorry, but I was attacked on the way.
 ; dlga_move_cattle_herd_failed:move_cattle_herd_failed_2.1|I am sorry. The stupid animals wandered off during the night.
 ; dlga_move_cattle_herd_failed_2:merchant_ask_for_debts|Well, it was your responsibility to deliver that herd safely, no matter what. You should know that the owner of the herd demanded to be compensated for his loss. I had to pay him 1000 peningas, so you now owe me that money.
-; dlga_mayor_begin:close_window.2|{playername} -- I am in your debt for bringing back my friend's daughter.  Please take the {reg8} peningas that I promised you.  My friend wished he could give more but paying that ransom brought him to his knees.
+; dlga_mayor_begin:close_window.2|{playername} -- I am in your debt for bringing back my friend's daughter. Please take the {reg8} peningas that I promised you. My friend wished he could give more but paying that ransom brought him to his knees.
 ; dlga_mayor_begin:mayor_friendly_pretalk|Well -- it sounds like you were able to track down the bandits, and show them what happens to those who would disrupt the flow of commerce. Here is your reward: {reg5} peningas. It is well earned, and we are most grateful.
 ; dlga_mayor_begin:mayor_friendly_pretalk.1|I have heard about your deeds. You have given those bandits the punishment they deserved. You are really as good as they say. Here is your reward: {reg5} peningas. I would like to give more but those bandits almost brought me to bankruptcy.
 ; dlga_mayor_begin:mayor_friendly_pretalk.2|I have heard that you found the perpetrator and recovered my valuable {s13}. You are really as good as they say. Here is your reward: {reg5} peningas.
@@ -5727,7 +5730,7 @@ dlga_mayor_economy_report_2:mayor_economy_report_3|{s42}
 ; dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|All right, I will take the ransom money to the bandits and bring back the girl.
 ; dlga_kidnapped_girl_quest_taken:close_window|Good. I knew we could trust you at this. Here is the ransom money, {reg12} peningas. Count it before taking it. And please, don't attempt to do anything rash. Keep in mind that the girl's well being is more important than anything else...
 ; dlga_kidnapped_girl_quest_brief:merchant_quest_stall|Sorry. I don't have time for this right now.
-; dlga_start:close_window.112|Thank you so much for bringing me back!  I can't wait to see my family. Farewell.
+; dlga_start:close_window.112|Thank you so much for bringing me back! I can't wait to see my family. Farewell.
 ; dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|Yes. Come with me. We are going home.
 ; dlga_kidnapped_girl_liberated_map_2a:close_window|Unfortunately, you do not have room in your party for me.
 ; dlga_kidnapped_girl_liberated_map_2a:close_window.1|Oh really? Thank you so much!
@@ -5822,19 +5825,19 @@ dlga_merchant_quest_requested:merchant_quest11_brief|{s33}
 ; dlga_start:village_elder_thonkrik1|Welcome to {s9}... Oh, wait! You are the {reg59?lady:man} we found in the sea! Nice to see you, most assuredly! I didn't dare hope to see you alive again. That healer may yet prove worthy of the legacy of his father, God rest his soul!
 ; dlga_village_elder_thonkrik1:village_elder_thonkrik2a|Are you Thonkrik? My name is {playername}, and I am in debt to Doccinga.
 ; dlga_village_elder_thonkrik1:village_elder_thonkrik2b|Thonkrik from Doccinga? I am {playername}. I have some questions.
-; dlga_village_elder_thonkrik2a:village_elder_thonkrik3|That isn't necessary. No debt, my friend! Rescuing others from distress at sea is the duty of every fisherman!^We found you unconscious, clinging to a plank and led by the tide. Fortunately, you were not far from the coast.
+; dlga_village_elder_thonkrik2a:village_elder_thonkrik3|That isn't necessary. No debt, my friend! Rescuing others from distress at sea is the duty of every fisherman! ^We found you unconscious, clinging to a plank and led by the tide. Fortunately, you were not far from the coast.
 ; dlga_village_elder_thonkrik2b:village_elder_thonkrik3|Well, {playername}, go ahead.
 ; dlga_village_elder_thonkrik3:village_elder_thonkrik4|We were traveling on a ship, the Woden Ric, and were attacked by Vikings! That's the reason you found me in the sea.
-; dlga_village_elder_thonkrik4:village_elder_thonkrik5|I know the Woden Ric! It made landfall at Doccinga many times, because it had passengers seeking cures for the most terrible ills.^The father of the healer who has healed you was a man well known for his skills in many parts, and thousands of people left everything to come here. Now that man has died, and unfortunately his son does not have his father's magic.^I am sorry to hear that the Woden Ric was attacked by Vikings...
+; dlga_village_elder_thonkrik4:village_elder_thonkrik5|I know the Woden Ric! It made landfall at Doccinga many times, because it had passengers seeking cures for the most terrible ills. ^The father of the healer who has healed you was a man well known for his skills in many parts, and thousands of people left everything to come here. Now that man has died, and unfortunately his son does not have his father's magic. ^I am sorry to hear that the Woden Ric was attacked by Vikings...
 ; dlga_village_elder_thonkrik5:village_elder_thonkrik7|I was one of those people. My mother was sick, and now, maybe she... is dead.
 ; dlga_village_elder_thonkrik5:village_elder_thonkrik7.1|My mother traveled with me. Did you find other people or... corpses where you found me?
 ; dlga_village_elder_thonkrik7:village_elder_thonkrik8|The sea brings swollen corpses and wrecks to our shores sometimes, but nobody lately. Usually, Vikings take prisoners to sell as slaves...
 ; dlga_village_elder_thonkrik8:village_elder_thonkrik9|Thonkrik, our ship was attacked by Sven Bull Neck. Have you heard of this name before?
-; dlga_village_elder_thonkrik9:village_elder_thonkrik10|{s1}^^Sven Bull Neck? Oh, my good God! It is a miracle then that you are alive. Sven is a murderer, and his men are demons. He takes no prisoners, kills the whole crew, and burns the ship with the corpses inside.^He does not look for riches. Sven is more ambitious. Each year we pay a lot of money to him to leave us in peace.
+; dlga_village_elder_thonkrik9:village_elder_thonkrik10|{s1}^^Sven Bull Neck? Oh, my good God! It is a miracle then that you are alive. Sven is a murderer, and his men are demons. He takes no prisoners, kills the whole crew, and burns the ship with the corpses inside. ^He does not look for riches. Sven is more ambitious. Each year we pay a lot of money to him to leave us in peace.
 dlga_village_elder_thonkrik10:village_elder_thonkrik11|{s1}
 ; dlga_village_elder_thonkrik10:village_elder_thonkrik11.1|He killed my mother, so now I'll kill him! Tell me, where I can find Sven?
 ; dlga_village_elder_thonkrik10:village_elder_thonkrik11.2|My mother may have been doomed regardless, but he'll pay for attacking ME! Where is Sven?
-; dlga_village_elder_thonkrik11:village_elder_thonkrik12|{s3}^^To seek Sven? Are you crazy? You are not listening to me! Look around? See those men training here? They are hardened warriors, sent by our jarl! They are here to defend us from Sven's attacks. And we are lucky! Other villages don't enjoy as much importance to the jarl.^No, no, I know nothing about Sven!
+; dlga_village_elder_thonkrik11:village_elder_thonkrik12|{s3}^^To seek Sven? Are you crazy? You are not listening to me! Look around? See those men training here? They are hardened warriors, sent by our jarl! They are here to defend us from Sven's attacks. And we are lucky! Other villages don't enjoy as much importance to the jarl. ^No, no, I know nothing about Sven!
 ; dlga_village_elder_thonkrik12:village_elder_thonkrik13|And so what? They are not looking for Sven. Where is Sven? I want an answer now!
 ; dlga_village_elder_thonkrik12:village_elder_thonkrik15|Thonkrik, I need your help. Don't you know I can help you kill Sven?
 ; dlga_village_elder_thonkrik13:village_elder_thonkrik14|I don't have an answer for you. I am but a simple villager who yet, I may point out, retains his head. If you are so intent on your own destruction, you should ask the jarl of Kennemer. God has given you a second chance, saving your life, but now you intend to waste it. Good luck, but I cannot help more.
@@ -6424,7 +6427,7 @@ dlga_town_dweller_quest_meet_spy_in_enemy_town_chat_2:close_window|Żegnaj.
 ; dlga_town_dweller_poor:town_dweller_poor_paid|Then take these 300 peningas. I hope this will help you and your family.
 ; dlga_town_dweller_poor:town_dweller_poor_not_paid|Then clearly, you must travel somewhere else or learn another trade.
 ; dlga_town_dweller_poor_not_paid:close_window|Yes, {reg59?madam:sir}. I will do as you say.
-; dlga_town_dweller_poor_paid:close_window|{reg59?My good lady:My lord},  you are so good and generous. I will tell everyone how you helped us.
+; dlga_town_dweller_poor_paid:close_window|{reg59?My good lady:My lord}, you are so good and generous. I will tell everyone how you helped us.
 ; dlga_town_dweller_ask_situation:close_window|Thank you for your kindness, {reg59?madam:sir}. With your help, our lives will be better. I will pray for you every day.
 ; dlga_town_dweller_ask_situation:town_dweller_talk|Times are hard, {reg59?madam:sir}. We work hard all day, yet we go to sleep hungry most nights.
 ; dlga_town_dweller_ask_situation:town_dweller_talk.1|Times are hard, {reg59?madam:sir}, but we must count our blessings.

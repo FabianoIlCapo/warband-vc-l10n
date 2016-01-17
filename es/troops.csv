@@ -116,10 +116,10 @@ trp_mercenaries_end_pl|Aldeanas
 ; trp_briton_level1_companion_pl|Briton Champions (Campgwr)
 ; trp_briton_level2_companion|Briton Bodyguard (Teulu)
 ; trp_briton_level2_companion_pl|Briton Bodyguard (Teulus)
-; trp_briton_bowman|Briton Skirmisher (Bweydd)
-; trp_briton_bowman_pl|Briton Skirmishers (Bweydds)
-; trp_briton_marksman|Briton Elite Skirmisher (Saethydd)
-; trp_briton_marksman_pl|Briton Elite Skirmishers (Saethydds)
+; trp_briton_bowman|Briton Skirmisher (Cipryswr)
+; trp_briton_bowman_pl|Briton Skirmishers (Cipryswyr)
+; trp_briton_marksman|Briton Archer (Saethydd)
+; trp_briton_marksman_pl|Briton Archers (Saethydds)
 ; trp_briton_horseman|Briton Horseman (Marchoc)
 ; trp_briton_horseman_pl|Briton Horsemen (Marcach)
 ; trp_briton_standard_bearer|Standard Bearer (Gwas Ys Tafell)
@@ -160,8 +160,8 @@ trp_mercenaries_end_pl|Aldeanas
 ; trp_scotch_level1_skirmisher_pl|Elite Skirmishers (Cruithnen)
 ; trp_scotch_horseman|Pictish Horseman (Marcach)
 ; trp_scotch_horseman_pl|Light Horsemen (Marcach)
-; trp_scotch_level0_landed|Pictish Peasant (Bothach)
-; trp_scotch_level0_landed_pl|Pictish Peasants (Bothach)
+; trp_scotch_level0_landed|Pictish Landowner (Bothach)
+; trp_scotch_level0_landed_pl|Pictish Landowners (Bothach)
 ; trp_scotch_level1_landed|Pictish Spearman (Octhigern)
 ; trp_scotch_level1_landed_pl|Pictish Spearmen (Octhigern)
 ; trp_scotch_level2_landed|Pictish Warrior (Gaithlennach)
@@ -178,8 +178,8 @@ trp_mercenaries_end_pl|Aldeanas
 ; trp_scotch_standard_bearer_pl|Standard Bearer (Samhladh)
 ; trp_scotch_musician|Pictish Hornman
 ; trp_scotch_musician_pl|Pictish Hornmen
-; trp_scotch_priest|Pictish Priest
-; trp_scotch_priest_pl|Pictish Priests
+; trp_scotch_priest|Priest
+; trp_scotch_priest_pl|Priests
 ; trp_angle_slave|Angle Peasant (Gebur)
 ; trp_angle_slave_pl|Peasants (Geburas)
 ; trp_angle_bowman|Angle Bowman (Scytta)
@@ -222,10 +222,10 @@ trp_mercenaries_end_pl|Aldeanas
 ; trp_irish_level2_landed_pl|Irish Veterans (Boaires)
 ; trp_irish_level3_landed|Irish Noble (Aire)
 ; trp_irish_level3_landed_pl|Irish Nobles (Airig)
-; trp_irish_level0_companion|Irish Warrior (Coisige)
+; trp_irish_level0_companion|Irish Warrior (Cliarnach)
 ; trp_irish_level0_companion_pl|Irish Warriors (Cliathaire)
 ; trp_irish_level1_companion|Irish Champion (Caur)
-; trp_irish_level1_companion_pl|Irish Champions (Curraidh)
+; trp_irish_level1_companion_pl|Irish Champions (Curadmir)
 ; trp_irish_knight|Irish Bodyguard (Riglach)
 ; trp_irish_knight_pl|Irish Bodyguards (Riglach)
 ; trp_irish_standard_bearer|Standard Bearer (Meirgeach)
@@ -426,8 +426,8 @@ trp_trainer|Instructor
 trp_trainer_pl|Instructor
 trp_constable_hareck|Alguacil Hareck
 trp_constable_hareck_pl|Alguacil Hareck
-; trp_ramun_the_slave_trader|Aethelmaer, the Slave Trader
-; trp_ramun_the_slave_trader_pl|Aethelmaer, the Slave Trader
+; trp_ramun_the_slave_trader|Aethelmaer, the Slaver
+; trp_ramun_the_slave_trader_pl|Aethelmaer, the Slaver
 ; trp_guide|Ulric
 ; trp_guide_pl|Ulric
 ; trp_xerina|Anchoret the Pict
@@ -452,27 +452,27 @@ trp_trainer_4|Instructor
 trp_trainer_4_pl|Instructor
 trp_trainer_5|Instructor
 trp_trainer_5_pl|Instructor
-; trp_ransom_broker_1|Slave Trader
+trp_ransom_broker_1|Comisionista de rescates
 ; trp_ransom_broker_1_pl|Slave Trader
-; trp_ransom_broker_2|Slave Trader
+trp_ransom_broker_2|Comisionista de rescates
 ; trp_ransom_broker_2_pl|Slave Trader
-; trp_ransom_broker_3|Slave Trader
+trp_ransom_broker_3|Comisionista de rescates
 ; trp_ransom_broker_3_pl|Slave Trader
-; trp_ransom_broker_4|Slave Trader
+trp_ransom_broker_4|Comisionista de rescates
 ; trp_ransom_broker_4_pl|Slave Trader
-; trp_ransom_broker_5|Slave Trader
+trp_ransom_broker_5|Comisionista de rescates
 ; trp_ransom_broker_5_pl|Slave Trader
-; trp_ransom_broker_6|Slave Trader
+trp_ransom_broker_6|Comisionista de rescates
 ; trp_ransom_broker_6_pl|Slave Trader
-; trp_ransom_broker_7|Slave Trader
+trp_ransom_broker_7|Comisionista de rescates
 ; trp_ransom_broker_7_pl|Slave Trader
-; trp_ransom_broker_8|Slave Trader
+trp_ransom_broker_8|Comisionista de rescates
 ; trp_ransom_broker_8_pl|Slave Trader
-; trp_ransom_broker_9|Slave Trader
+trp_ransom_broker_9|Comisionista de rescates
 ; trp_ransom_broker_9_pl|Slave Trader
-; trp_ransom_broker_10|Slave Trader
+trp_ransom_broker_10|Comisionista de rescates
 ; trp_ransom_broker_10_pl|Slave Trader
-; trp_ransom_broker_20|Slave Trader
+trp_ransom_broker_20|Comisionista de rescates
 ; trp_ransom_broker_20_pl|Slave Trader
 trp_tavern_traveler_1|Viajero
 trp_tavern_traveler_1_pl|Viajero

@@ -20,7 +20,7 @@ menu_custom_battle_scene|(NO TRANS)
 ; menu_start_game_4|You have made some choices. You will not be able to change them later after the game starts. Would you like to keep them and continue?
 menu_past_life_explanation|{s3}
 mno_view_next|{s5}
-menu_morale_report|{s1}
+menu_morale_report_obsolete|{s1}
 mno_continue_rep|Kontynuuj...
 menu_courtship_relations|{s1}
 menu_lord_relations|{s1}
@@ -108,7 +108,7 @@ mno_pre_join_help_defenders|Rusz na pomoc {s1}.
 mno_pre_join_leave|Nie mieszaj się.
 menu_join_battle|Pomagasz {s2} przeciwko {s1}. Masz {reg10} żołnierzy gotowych do walki przeciwko {reg11} przeciwnikom.
 ; mno_join_attack|{s7} the enemy.
-mno_join_order_attack|Rozkaż swoim żołnierzom zaatakować z sojusznikami bez Ciebie.
+; mno_join_order_attack|Order your troops to join your allies while you stay back.
 mno_join_leave|Odejdź.
 menu_join_order_attack|{s4}^^Twoje straty: {s8}^^Straty sojusznika: {s9}^^Straty przeciwnika: {s10}
 menu_zendar|Wkraczasz do miasta Zendar.
@@ -175,7 +175,7 @@ menu_castle_meeting_selected|Twoje żądanie spotkania jest przekazane dalej i w
 ; mno_lead_attack|Lead your soldiers in a coastal assault.
 mno_attack_stay_back|Rozkaż swoim żołnierzom atak kiedy Ty pozostajesz w tyle...
 ; mno_lift_siege|Abandon the attack.
-; menu_castle_besiege|You are laying siege to {s1}. {s2}^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}
+; menu_castle_besiege|You are laying siege to {s4}. {s2} ^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}
 mno_siege_request_meeting|Zwołaj spotkanie z dowódcą zamku.
 ; mno_siege_warfare_p|Siege Warfare (Planning Siege).
 ; mno_siege_assault_p|Siege Warfare (Preparing Assault).
@@ -184,18 +184,18 @@ mno_wait_24_hours|Poczekaj do jutra.
 ; menu_siege_plan|You meet with your advisers to plan the siege and try to conquer {s4} with the least possible casualties. Your strategy could be to reduce the place by famine and demoralization.^^{s15} {s17} {s18} {s19} {s20}
 ; mno_build_circunvalation|Blockade: build checkpoints around {s4}.
 ; mno_close_circunvalation|Checkpoints are finished. Now order active watching.
-; mno_town_investigar|Investigate the defenses: try to sneak inside. Tracking skill helps.
+; mno_town_investigar|Investigate the defenses: try to sneak inside. (Tracking)
 ; mno_traicion_interna|Find a traitor within the defenses of {s4}.
 ; mno_traicion_interna3|Any news from the men sent in search of a traitor?
-; mno_infiltracion_interna|Send some men to infiltrate the defences to cause damage.
+; mno_infiltracion_interna|Send some men to infiltrate the place.
 ; mno_infiltracion_interna3|Any news from the men sent to infiltrate?
 ; mno_build_varios|Order the construction of sanitation to prevent disease.
-; mno_destruir_campos_a|Pillage farms nearby to replenish your stocks and harm the enemy.
-; mno_destruir_campos_b|Any news from the men I sent to pillage crops and farms nearby?
+; mno_destruir_campos_a|Pillage farms to replenish your stocks and harm the enemy.
+; mno_destruir_campos_b|Any news from the men I sent to pillage farms?
 ; menu_siege_assault|Time is of essence, and you fear the arrival of support force for the place. Assaulting will mean heavy casualties, but you have made up your mind.^^{s17} {s18} {s19}
 ; mno_scout_investigar|Call the scouts for a report on {s4}.
-; mno_poniendo_elementos_mantles|Place mantles and assault material for the charge of the main army.
-; mno_poniendo_elementos|Place assault material for the charge of the main army.
+; mno_poniendo_elementos_mantles|Order the vanguard to place the mantlets.
+; mno_poniendo_elementos|Order the vanguard to prepare the assault.
 ; mno_castle_lead_attack|The hour has arrived. Lead your soldiers in assault!
 ; mno_build_mantlet|Build mantlets.
 ; mno_build_ladders|Build equipment and clear the ground for assault.
@@ -203,7 +203,7 @@ mno_wait_24_hours|Poczekaj do jutra.
 menu_siege_attack_meets_sally|Obrońcy ruszają na spotkanie Twojego ataku.
 ; menu_nofood_siege_defenders_sally|The lack of food forces the desperate defenders of {s4} to sally out in an attempt to break the siege.
 ; menu_surrender_siege_defenders_starved|The defenders of {s4} can hold out no longer. Lack of food has debilitated them. Already the weakest have died of starvation, and in some cases, the need has led to cannibalism.^{s4} is ready to surrender...
-menu_castle_attack_walls_simulate2|{s4}^^ Twoje straty: {s8}^^Straty przeciwnika: {s9}
+; menu_castle_attack_walls_simulate2|{s4}^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; menu_sneak_into_town_suceeded2|Disguised and under the cover of darkness, you infiltrate {s4}. It's time to scout out their defenses.
 ; menu_construct_saneamiento|Sanitation is important for preventing rats and disease. It is possible to construct latrines and pipelines to prevent the accumulation of mud and filth from the rain, and dig a reservoir to have an available water supply. Do you want to do it?^It will take 4 hours.
 mno_build_saneamiento|Zrób to.
@@ -230,7 +230,7 @@ mno_build_circun_cont|Zrób to.
 ; menu_emboscada_victory|The traitor leads your men through the night to a hill that controls the path to a well. Your men take up positions in the vegetation, in silence, their faces stained black. At daybreak, your men spot a large group of enemies by the water.^^A battle cry fills the valley as your soldiers fall like a tide of death on the enemy... killing many.
 ; menu_traicion_resultado5|When your men come back, they tell you they have contacted a man who is in control of rations, and he has promised to raise the price of food to his fellow citizens to sow discontent, making them more likely to abandon the fortress.
 ; mno_traicion_moral|Perfect!
-; menu_traicion_lucha|Your men and the enemy fight to the death at the foot of the wall, where everything is unfavorable to your troops. You watch them fighting and retreating towards you. Many bodies are left behind.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_traicion_lucha|Your men and the enemy fight to the death at the foot of the wall, where everything is unfavorable to your troops. You watch them fighting and retreating towards you. Many bodies are left behind. ^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_regreso_luchar|Well, no one gets left behind.
 ; menu_infiltracion_resultado1|They returned without news. They were unable to enter the settlement.
 ; mno_back_behindi|Just bad luck, I guess.
@@ -247,19 +247,19 @@ mno_build_circun_cont|Zrób to.
 ; mno_aceptar_oki|That's good news. It will leave fewer men to defend the wall.
 ; menu_infiltracion_resultado5|Oh, sir. The enemy has sent a bag with the heads of your men. Some of our soldiers have seen it, and fear runs through the camp.
 ; mno_infiltracion_morali|Cowards! How can a couple of heads sink the morale of an army? Are they cattle or men?
-; menu_campos_cercanos1|Sir, crops and farms were burned, but since this is not the harvest season, it wasn't possible to get food.
+; menu_campos_cercanos1|{reg59?Lady:Sir}, crops and farms were burned, but since this is not the harvest season, it wasn't possible to get food.
 ; mno_back_behind_d|Well done, do not worry.
-; menu_campos_cercanos2|Sir, crops and farms were burned, and as it is the harvest season, we found an abundance of food.
+; menu_campos_cercanos2|{reg59?Lady:Sir}, crops and farms were burned, and as it is the harvest season, we found an abundance of food.
 ; mno_back_behind_c|Well done, food is always welcome.
-; menu_campos_cercanos2_c|Sir, crops and farms were burned. The grain is still green, but edible. We found an abundance of food.
+; menu_campos_cercanos2_c|{reg59?Lady:Sir}, crops and farms were burned. The grain is still green, but edible. We found an abundance of food.
 ; mno_back_behind_cc|Well done, food always is welcome.
-; menu_campos_cercanos3|Sir, we burned the fields, but as it is after the harvest time, there was no grain left. However, the farmers have left some of their cattle behind.
+; menu_campos_cercanos3|{reg59?Lady:Sir}, we burned the fields, but as it is after the harvest time, there was no grain left. However, the farmers have left some of their cattle behind.
 ; mno_back_behind_bc|Food is always welcome.
-; menu_campos_cercanos4|We have encountered problems. The fields were burned, but the farmers struck back with support from some members of the garrison.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_campos_cercanos4|We have encountered problems. The fields were burned, but the farmers struck back with support from some members of the garrison.^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_back_behind_ac|Terrible news!
-; menu_poner_escaleras|Your vanguard advances, bringing ladders, shovels and other useful siege equipment... A display of men armed with ranged weapons goes forth, attracting the enemy's missiles. Your heart races in its bony cage. Somehow, all battles seem to be the first.^The thrill, terror and sweat are there, always. You noticed how your men made a shield formation and advanced over the walls...^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_back_behind_esc1|Your men have met the enemy. It is your time...
-; menu_poner_escaleras_mantlets|Your vanguard advances, bringing ladders, mantlets, shovels and other useful siege equipment... A display of men armed with ranged weapons goes forth, guarded by mantlets, attracting the enemy's missiles. Your heart races in its bony cage. Somehow, all battles seem to be the first.^The thrill, terror and sweat are there, always. You noticed how your men made a shield formation and advanced over the walls. Using the mantles saved many lives.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_poner_escaleras|Your vanguard advances, bringing ladders, shovels and other useful siege equipment... A display of men armed with ranged weapons goes forth, attracting the enemy's missiles. Your heart races in its bony cage. Somehow, all battles seem to be the first.^The thrill, terror and sweat are there, always. Your men make a shield formation to protect themselves...^^Your casualties: {s8}^^Enemy casualties: {s10}
+; mno_back_behind_esc1|Your men have met the enemy. It is your turn...
+; menu_poner_escaleras_mantlets|Your vanguard advances, bringing ladders, mantlets, shovels and other useful siege equipment... A display of men armed with ranged weapons goes forth, guarded by mantlets, attracting the enemy's missiles. Your heart races in its bony cage. Somehow, all battles seem to be the first.^The thrill, terror and sweat are there, always. Your men make a shield formation to protect themselves, and using the mantlets saves still more lives. ^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_back_behind_esc2|Your men have met the enemy. It is your time...
 ; menu_informacion_ciudad|A scout appears before you: '{s11}^{s12}{s1}{s5}{s17}'
 ; mno_regreso_luchain|Thank you. Your information is important!
@@ -270,7 +270,7 @@ mno_build_mantles|Zrób to.
 mno_build_ladders_cont|Zrób to.
 ; menu_construct_siege_tower|As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower and other equipment for assault will take {reg4} hours.
 mno_build_siege_tower_cont|Zacznij budowę.
-menu_castle_attack_walls_simulate|{s4}^^ Twoje straty: {s8}^^Straty przeciwnika: {s9}
+; menu_castle_attack_walls_simulate|{s4}^^Your casualties: {s8}^^Enemy casualties: {s10}
 menu_castle_attack_walls_with_allies_simulate|{s4}^^Twoje straty: {s8}^^Straty sojusznika: {s9}^^Straty przeciwnika: {s10}
 menu_castle_taken_by_friends|Nic tutaj nie ma.
 ; menu_castle_taken|The battle for {s60} is almost over. Your troops are eager to start plundering the {reg2?town:fort}. {s10}^You may decide to forbid your troops to harm the {reg2?town:fort} if you want to conquer it for your faction, but your troops may lose morale. You can allow some plundering and keep the {reg2?town:fort}, or you may want to just fill your purse a bit and leave the plundered place for the enemy. Finally, you could also decide to devastate the place completely in order to gain as much loot as possible, enslave the inhabitants, and make it worthless for its owner.
@@ -281,18 +281,18 @@ menu_castle_taken_by_friends|Nic tutaj nie ma.
 ; mno_saqueo_total|Devastate the place and leave.
 ; menu_castle_taken_plunder|The {reg2?town:fort} is plundered. You have collected {reg7} peningas.
 ; menu_castle_taken_native|{s3} has fallen to your troops, and you now have full control of the {reg2?town:fort}. {reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
-; menu_castle_taken_keepplunder|{s3} has fallen to your troops, and you now have full control of the {reg2?town:fort}. Your troops run through the streets getting as much stuff as they can carry. The {reg2?town:fort} is plundered. You have collected {reg7} peningas.{reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
+; menu_castle_taken_keepplunder|{s3} has fallen to your troops, and you now have full control of the {reg2?town:fort}. Your troops run through the streets getting as much stuff as they can carry. The {reg2?town:fort} is plundered. You have collected {reg7} peningas. {reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
 ; menu_castle_taken_2|{s3} has fallen to your troops, and you now have full control of the fort. It is time to send word to {s9} about your victory. {s5}
 mno_castle_taken_claim|Zażądaj, aby {s3} przyznano Tobie.
 ; mno_castle_taken_claim_2|Request that {s3} be awarded to your {reg59?husband:wife}.
 ; mno_castle_taken_no_claim|Ask for no rewards.
 ; menu_saqueo_loot_continue|This settlement has been looted.
-; menu_requested_castle_granted_to_player|You receive a message from your liege, {s3}.^^ {reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to you, with all due incomes and titles, to hold in {reg4?her:his} name for as long as you maintain your oath of homage.
-menu_requested_castle_granted_to_player_husband|Otrzymujesz wiadomość od swojego wasala, {s3}.^^ {reg4?Ona:On} zadecydował/a, aby przyznać {s2}{reg3? i pobliską wioskę {s4}:} Twojemu mężowi, {s7}.
-; menu_requested_castle_granted_to_another|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour that I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {reg6} peningas to cover the expenses of your campaign, but {s2} I give to {s5}.' 
+; menu_requested_castle_granted_to_player|You receive a message from your liege, {s3}.^^{reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to you, with all due incomes and titles, to hold in {reg4?her:his} name for as long as you maintain your oath of homage.
+; menu_requested_castle_granted_to_player_husband|You receive a message from your liege, {s3}.^^{reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to your husband, {s7}.
+; menu_requested_castle_granted_to_another|You receive a message from your monarch, {s3}.^^'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour that I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {reg6} peningas to cover the expenses of your campaign, but {s2} I give to {s5}.' 
 mno_accept_decision|Zaakceptuj decyzję.
 mno_leave_faction|Zostałeś pokrzywdzony! Zrzec się przysięgi do suzerena!
-; menu_requested_castle_granted_to_another_female|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give ownership of the castle to your husband, but that is a favour that I fear I cannot grant, as he already holds significant estates in my realm. Instead I have sent you {reg6} peningas to cover the expenses of your campaign, but {s2} I give to {s5}.' 
+; menu_requested_castle_granted_to_another_female|You receive a message from your monarch, {s3}.^^'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give ownership of the castle to your husband, but that is a favour that I fear I cannot grant, as he already holds significant estates in my realm. Instead I have sent you {reg6} peningas to cover the expenses of your campaign, but {s2} I give to {s5}.' 
 mno_accept_decision2|Zaakceptuj decyzję.
 ; menu_leave_faction|Renouncing your oath is a grave act. Your lord may condemn you and confiscate your lands and holdings. However, if you return them on your own free will, he may let the betrayal go unpunished.
 mno_leave_faction_give_back|Zrzeknij się przysięgi i oddaj włości.
@@ -343,7 +343,7 @@ menu_village_infestation_removed|W walce wartej pieśni, Ty i Twoi ludzi wypędz
 mno_village_bandits_defeated_accept|Przyjmij jako rozsądną nagrodę.
 mno_village_bandits_defeated_cont|Odmów, twierdząc że oni potrzebują tego bardziej niż Ty.
 ; menu_center_manage|{s19}^{reg6?^^You are currently building {s7}. The building will be completed after {reg8} day{reg9?s:}.:}
-mno_center_build_manor|Zbuduj willę.
+; mno_center_build_manor|Build a mead hall.
 mno_center_build_fish_pond|Zbuduj młyn.
 ; mno_center_build_watch_tower|Build a watchtower.
 mno_center_build_school|Zbuduj szkołę.
@@ -359,7 +359,7 @@ mno_center_build_prisoner_tower|Zbuduj więzienie.
 ; mno_center_build_slavemarket|Build a slave market.
 ; mno_center_kill_slavemarket|Remove a slave market.
 ; mno_center_build_brewery|Build a brewery.
-; menu_remove_slaves|Do you wish to remove the slave traders and forbid them from conducting their ungodly business within the boundaries of your town?  Keep in mind this will reduce the tariffs of the town and its prosperity temporarily.
+; menu_remove_slaves|Do you wish to remove the slave traders and forbid them from conducting their ungodly business within the boundaries of your town? Keep in mind this will reduce the tariffs of the town and its prosperity temporarily.
 mno_remove_slaves|Dalej.
 ; menu_center_improve|{s19} As the party member with the highest engineer skill ({reg2}), {reg3?you reckon:{s3} reckons} that building the {s4} will cost you {reg5} peningas and will take {reg6} days.
 ; mno_improve_cont|Go on{s15}.
@@ -423,12 +423,12 @@ mno_castle_inspect_door|Odejdź.
 ; mno_travel_door|Outfit your party.
 mno_walled_center_manage|Zarządzaj tym {reg0?town:castle}.
 mno_walled_center_move_court|Rusz się tu.
-mno_castle_station_troops|Zarządzaj garnizonem {s10}
-; mno_castle_wait|Wait here for some time {s5}.
+; mno_castle_station_troops|Manage the garrison {s10}.
+mno_castle_wait|Poczekaj trochę czasu.
 ; mno_castle_wait_door|Bed.
 ; mno_town_alley|Ask for potential recruits.
 ; mno_town_visit_port|See the ships.
-; mno_banquete_mead|My men deserve a symbel in {reg0?town:castle}. Buy mead and food.
+; mno_banquete_mead|My men deserve a symbel. Buy mead and food.
 ; mno_banquete_mead_door|Set sail.
 ; mno_set_sail|Sail from port.
 ; mno_set_sail_door|Set sail.
@@ -595,10 +595,10 @@ mno_captivity_end_ransom_accept|Zaakceptuj ofertę.
 ; menu_kingdom_army_quest_messenger|{s8} sends word that he wishes to speak with you about a task he needs performed. He requests you to come and see him as soon as possible.
 ; menu_kingdom_army_quest_join_siege_order|{s8} sends word that you are to join the siege of {s9} in preparation for a full assault. Your troops are to take {s9} at all costs.
 ; menu_kingdom_army_follow_failed|You have failed to follow {s8}. The marshal assumes that you were otherwise engaged, but would have appreciated your support.
-; menu_invite_player_to_faction_without_center|You receive an offer of vassalage!^^ {s8} of the {s9} has sent a royal herald to bring you an invitation in his own hand. You would be granted the honour of becoming a vassal {reg59?lady:lord} of the {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, although he offers you no lands or titles. He will surely be offended if you do not take the offer...
+; menu_invite_player_to_faction_without_center|You receive an offer of vassalage!^^{s8} of the {s9} has sent a royal herald to bring you an invitation in his own hand. You would be granted the honour of becoming a vassal {reg59?lady:lord} of the {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, although he offers you no lands or titles. He will surely be offended if you do not take the offer...
 mno_faction_accept|Zaakceptowano!
 ; mno_faction_reject|Decline the invitation.
-; menu_invite_player_to_faction|You receive an offer of vassalage!^^ {s8} of the {s9} has sent a royal herald to bring you an invitation in his own hand. You would be granted the honour of becoming a vassal {reg59?lady:lord} of the {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, offering you the fief of {s2} for your loyal service. He will surely be offended if you do not take the offer...
+; menu_invite_player_to_faction|You receive an offer of vassalage!^^{s8} of the {s9} has sent a royal herald to bring you an invitation in his own hand. You would be granted the honour of becoming a vassal {reg59?lady:lord} of the {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, offering you the fief of {s2} for your loyal service. He will surely be offended if you do not take the offer...
 ; menu_invite_player_to_faction_accepted|In order to become a vassal, you must swear an oath of homage to {s3}. You shall have to find him and give him your oath in person. {s5}
 ; menu_question_peace_offer|Truce^^The {s1} offers you a peace agreement. What is your answer?
 mno_peace_offer_accept|Akceptowano
@@ -634,7 +634,7 @@ menu_notification_court_lost|{s12}
 ; menu_notification_player_faction_deactive|Your kingdom no longer holds any land.
 ; menu_notification_player_wedding_day|{s8} wishes to inform you that preparations for your wedding at {s10} have been completed and that your presence is expected imminently.
 menu_notification_player_kingdom_holds_feast|{s11}
-; menu_notification_center_under_siege|{s1} has been besieged by {s2} of the {s3}!^^The settlement is surrounded and besieged, its warriors have stocked weapons and stones, and they hope to resist the enemy.
+; menu_notification_center_under_siege|{s1} has been besieged by {s2} of the {s3}! ^^The settlement is surrounded and besieged, its warriors have stocked weapons and stones, and they hope to resist the enemy.
 ; menu_notification_village_raided|Enemies have Laid Waste to a Fief^^{s1} has been raided by {s2} of the {s3}!
 ; menu_notification_village_raid_started|Your Village is under Attack!^^{s2} of the {s3} is laying waste to {s1}.
 ; menu_notification_one_faction_left|The Northlands Conquered by One Kingdom^^The {s1} has defeated all rivals and stands as the sole kingdom.^^You are BRYTENWALDA!
@@ -653,7 +653,7 @@ mno_offer_reject|Odrzucono
 ; menu_notification_faction_defeated|Faction Eliminated^^The {s1} is no more!
 ; menu_notification_rebels_switched_to_faction|Rebellion Success^^Your rebellion is victorious! Your faction now has the sole claim to the title of the {s11}, with {s12} as the single ruler.
 ; menu_notification_player_should_consult|Your minister sends word that there are problems brewing in the realm that, if left untreated, could sap your authority. You should consult with him at your earliest convenience.
-; menu_banquete_moral|Order your men to leave their weapons outside and invite them to your Great Hall, to sit at your table by rank. The nearest and dearest sit close to you.^ Some girls serve meat and mead in large quantities. You've spent a lot of money on this feast because your men deserve it.^ They are the ones who bleed with you, who have helped you conquer your domains. They are your faithful followers.^ The evening progresses. Many men, drunk as vats, shout and sing. Some run off to vomit and others fight like gamecocks to attract the attention of a girl.^ Behind you, a bard sings of your power and deeds. You act like a lord. You are a lord, a 'shepherd of men.'
+; menu_banquete_moral|Order your men to leave their weapons outside and invite them to your Great Hall, to sit at your table by rank. The nearest and dearest sit close to you.^Some girls serve meat and mead in large quantities. You've spent a lot of money on this feast because your men deserve it.^They are the ones who bleed with you, who have helped you conquer your domains. They are your faithful followers.^The evening progresses. Many men, drunk as vats, shout and sing. Some run off to vomit and others fight like gamecocks to attract the attention of a girl.^Behind you, a bard sings of your power and deeds. You act like a lord. You are a lord, a 'shepherd of men.'
 ; mno_banquete_ok|You drink, laugh and shout as they come.
 ; mno_banquete_ok2|You stay sober, taste the drink, but no more than necessary.
 ; menu_comprar_cattle2|There are {reg5} head of cattle, each for {reg6} peningas. How many do you want to buy?
@@ -667,7 +667,7 @@ mno_cattle_ok3c|Zapomnij.
 menu_garden|{s12}
 mno_nurse|Idź z pielęgniarką
 ; mno_nurse2|Wait by the spring
-; menu_kill_local_merchant_begin|You spot your victim and follow him, observing as he turns a corner into a dark alley.  This will surely be your best opportunity to attack him.
+; menu_kill_local_merchant_begin|You spot your victim and follow him, observing as he turns a corner into a dark alley. This will surely be your best opportunity to attack him.
 menu_debug_alert_from_s65|DEBUG ALERT: {s65}
 ; menu_auto_return_to_map|stub
 menu_bandit_lair|{s3}
@@ -733,9 +733,9 @@ mno_back_to_town_menupa2|Zawróć.
 ; mno_choice_3comm|Skirmishers: Send your men to hinder the enemy's advance.
 ; mno_choice_4comm|Make a sacrifice to the gods.
 ; mno_choice_5comm|Do nothing.
-; menu_escaramuza_1|Sir, the enemy commander overcame your tactical skills. Before we were prepared, we were surprised by enemy missile troops. They caused numerous casualties.^^Your casualties: {s8}
+; menu_escaramuza_1|{reg59?Lady:Sir}, the enemy commander overcame your tactical skills. Before we were prepared, we were surprised by enemy missile troops. They caused numerous casualties.^^Your casualties: {s8}
 ; mno_defendiendo_1e|Damn!
-; menu_escaramuza_2|Our men were deployed in time and closed with the enemy, causing them heavy casualties, before returning.^^Enemy casualties: {s9}
+; menu_escaramuza_2|Our men were deployed in time and closed with the enemy, causing them heavy casualties, before returning.^^Enemy casualties: {s8}
 ; mno_defendiendo_2e|Well done.
 ; menu_escaramuza_3|Upon approaching the enemy, our men found the enemy commander had deployed missile troops to protect his army's advance. To avoid losing men, your soldiers did not attack and returned.
 ; mno_defendiendo_3e|Right.
@@ -864,7 +864,7 @@ mno_choice_01_sigur|Wejdź.
 ; mno_banquete_okr|You drink, laugh and shout as they come.
 ; mno_banquete_ok2r|You stay sober, taste the drink, but no more than necessary.
 ; mno_banquete_ok3r|You call your men and give them rings and bracelets (2000 peningas).
-; menu_player_lair_menus|{s10} Your very own refuge, a hidden retreat free from enemies, where you can hide when things go badly, rest from your travels, or save your most personal of treasures.^^{s11}^^{s13}
+; menu_player_lair_menus|{s10} Your very own refuge, a hidden retreat free from enemies, where you can hide when things go badly, rest from your travels, or save your most personal of treasures. ^^{s11}^^{s13}
 ; mno_banquete_refugemead|My men deserve a banquet in my refuge.
 ; mno_guarida_rename|Rename your refuge.
 ; mno_lair_interior|Go to the refuge's hall.
@@ -961,7 +961,7 @@ mno_encounter_leavethething|Odejdź.
 ; mno_talk_to_alfred|Continue.
 ; menu_ambush_kennemer|While your party rests to recover from the fatigue of the road, you take advantage to get away a bit from the camp and to have some privacy, as you have an upset stomach.^^But your relaxation, hidden among some rocks, is disturbed by a noise to your right...
 ; mno_relax_broken|Quickly dress and take up your weapon.
-; menu_welsh_and_pictish_complete|It has been thirty days, and you've managed to keep {s3}. It is time to return for news of Sven Bull Neck and the decision regarding the letter of Bodo.
+; menu_welsh_and_pictish_complete|It has been twenty days, and you've managed to keep {s3}. It is time to return for news of Sven Bull Neck and the decision regarding the letter of Bodo.
 ; menu_messeger_mothernews|A messenger approaches, beating a squalid horse. He stops in front of you, takes a breath and shouts,^^'This message is for somebody called {playername}. If you want news of your mother, go to Boar Grove near Dommoc and look for the lumberjack's house.'^^The messenger kicks his mount until it starts moving again and rides off.
 ; mno_choice_01_newsm|Continue
 ; menu_circle_mystic|Your eyes distinguish a special place, which looks like it was raised by the ancients. Perhaps it is a good time to visit and enjoy the art of another time.
@@ -985,7 +985,7 @@ mno_enter_stones|Wejdź.
 ; mno_enter_readingum|Enter the camp.
 menu_the_speech_l|{s4}
 ; mno_the_speech|Join them.
-; menu_thetravel_danisharmy_l|The Danish army, the Great Summer Army, has reached Aescendun.^^ King Aethelred has divided his army in two: one led by himself and the other in the hands of his brother, young Aelfred. Each division takes one side of the ancient road, the Ridgeway.^^ While the Vikings deploy, Aethelred decides that he must pray before the battle and refuses to budge until the service is complete. But the Danish approach quickly, their army also split in two...
+; menu_thetravel_danisharmy_l|The Danish army, the Great Summer Army, has reached Aescendun.^^King Aethelred has divided his army in two: one led by himself and the other in the hands of his brother, young Aelfred. Each division takes one side of the ancient road, the Ridgeway.^^While the Vikings deploy, Aethelred decides that he must pray before the battle and refuses to budge until the service is complete. But the Danish approach quickly, their army also split in two...
 ; mno_choice_01_3ddarm|The Battle of Aescesdun.
 ; menu_mega_battle_ashdown|The Saxon army has taken a vantage point on two hills, split in two. One of the hills is dominated by the troops of King Aethelred and the other by those of Aelfred. The Danish move quickly, more than expected, not stopping to rest or form up. This is something that Aethelred did not anticipate. He is still immersed in his prayers and has ordered not to be disturbed until finished. The Danish don't wait. They divide their own army into two in their advance. One division under the army leaders, Jarl Halfdan and King Bagsecg, heads straight for the hosts of Aethelred. The other, under five other jarls, moves in the direction of Aelfred. They start to seize the high ground on a hill above the Saxon positions. If they finish deploying, they will have the height advantage over their enemies...^^{s2} You have {reg10} troops fit for battle against their {reg11}.
 ; mno_encounter_attackasc|Battle of Aescesdun.
@@ -1036,7 +1036,7 @@ mno_leave_finalmbfort|Odejdź.
 ; mno_talk_to_morrigan|Talk to Morrigan.
 ; menu_event_siege_01|One of your advisers tells you that he has found rats in the provisions that your men are eating. This could have been prevented with sanitation!
 ; mno_choice_01_1a|That is terrible! Destroy the contaminated supplies.
-; mno_choice_01_2a|I cannot leave my men without food. Kill as many rats as you can.
+; mno_choice_01_2a|My men must eat. Kill as many rats as you can.
 ; menu_ratas_siege|Before all the rats are exterminated, many of your men fall sick and die.^^Your casualties: {s8}
 ; mno_back_to_siegea|Done.
 ; menu_event_siege_02|Poor hygiene in your camp has led to dysentery. The men start dying all around you. This could have been prevented with sanitation!
@@ -1052,33 +1052,33 @@ mno_leave_finalmbfort|Odejdź.
 ; menu_enfermedad4_siege|Thanks to your healing abilities, you manage to save many men, but some still die.^^Your casualties: {s8}
 ; mno_back_to_siegees|Back to siege.
 ; menu_event_siege_03|There is so much garbage, vermin and other nasty things that your camp seems to be more of a pigsty. Your men are unhappy. This could have been prevented with sanitation!
-; mno_choice_03_4c|I will give an inspiring speech to gain time while I take measures.
+; mno_choice_03_4c|I will give an inspiring speech to gain time.
 ; mno_choice_03_2c|I will see what I can do.
 ; menu_event_siege_04|Some enemies have managed to infiltrate at night and burn some of your supplies. Part of your food was destroyed.
-; mno_choice_04_1d|To set an example, punish the men who were on duty that night.
+; mno_choice_04_1d|Punish the men who were on duty that night.
 ; mno_choice_04_2d|No, do nothing!
-; menu_event_siege_05|During the night, your men captured and executed a group of enemies who tried to infiltrate and burn supplies.
+; menu_event_siege_05|During the night, your men captured and executed a group of enemies who tried to infiltrate and burn supplies.^^Enemy casualties: {s8}
 ; mno_choice_05_1e|Congratulate them for doing their job well.
-; mno_choice_05_2e|Reward each one of them with a warrior bracelet (300 peningas).
-; mno_choice_05_3e|Reward them with a night off and money to spend (200 peningas).
-; mno_choice_05_4e|Do nothing. You are a firm leader who will not show weakness.
-; menu_event_siege_06|Sir, our food supply routes may be in danger. Our scouts have discovered enemy raiders behind our lines.^We could avoid such problems by blockading the place.^^Do you want to send men to protect the routes and pursue the enemy?
-; mno_choice_06_1f|Send men (troops will be taken from your main army).
-; mno_choice_06_2f|Send messengers to pay them not to attack your supply routes (500 peningas but no guarantees).
-; mno_choice_06_3f|Do nothing (lose part of your food but save your men's lives).
-; menu_encuentro_avituallamiento|Dispatch a group of men to protect and pursue the enemies that plague your supply routes. Your men attempt to corner the enemy to force him to fight until death. There are some losses, but your men manage to win the battle and secure the supply routes.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; mno_choice_05_2e|Reward each with a warrior bracelet (300 peningas).
+; mno_choice_05_3e|Reward them with a night off with pay (200 peningas).
+; mno_choice_05_4e|Do nothing. You are a stern leader.
+; menu_event_siege_06|{reg59?Lady:Sir}, our food supply routes may be in danger. Our scouts have discovered enemy raiders behind our lines.^^We could avoid such problems by blockading the place.^^Do you want to send men to protect the routes and pursue the enemy?
+; mno_choice_06_1f|Send men.
+; mno_choice_06_2f|Send messengers to pay them off (500 peningas).
+; mno_choice_06_3f|Do nothing.
+; menu_encuentro_avituallamiento|You dispatch a group of men to protect and pursue the enemies that plague your supply routes. Your men attempt to corner the enemy to force him to fight until death. There are some losses, but your men manage to win the battle and secure the supply routes.^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_back_to_siegeg2|Well done.
 menu_encuentro_avituallamiento2|{s4}
-; mno_back_to_siegeg3|Well.
+mno_back_to_siegeg3|Bardzo dobrze.
 ; menu_event_siege_07|Our scouts have found that the defenders have poisoned the water with dead animals. Do you want to buy water and ask the merchants to bring it via our supply route?
 ; mno_choice_07_1g|Yes (600 peningas).
 ; mno_choice_07_2g|No. Ration water and dig wells.
-; mno_choice_07_3g|Without water the siege cannot continue. Abandon the siege.
+; mno_choice_07_3g|Without water, we cannot continue. Abandon the siege.
 ; menu_sed_siege|Water is running out, and your men weaken. Driven by the madness of thirst, some of them drink poisoned water and die. Finally, a well is completed and you get water for the time being. You can continue the siege.^^Your casualties from poisoned water:{s8}
 ; mno_back_to_siegeh|Fate is inexorable.
 ; menu_event_siege_08|Bad news: one of our men has deserted to the enemy. It may be because of his low morale or because they have offered him money. Whatever it is, the enemy may know our plans.
 ; mno_choice_08_1h|Offer 400 peningas. I don't want more desertions.
-; mno_choice_08_2h|Offer 800 peningas. We don't want them tempted by enemy silver.
+; mno_choice_08_2h|Offer 800 peningas to minimize temptation.
 ; mno_choice_08_3h|Do not worry. I can always change plans.
 ; menu_event_siege_09|A deserter from the enemy has joined our ranks. He has informed us that {s2}.
 ; mno_choice_09_1i|He is welcome to our ranks.
@@ -1096,49 +1096,49 @@ menu_encuentro_avituallamiento2|{s4}
 ; mno_choice_12_4j|Kill the farmer and his daughter.
 ; menu_no_paymentandkill|In revenge, the men of the nearby villages joined together and attacked your foraging parties.^^Your casualties: {s8}
 ; mno_choice_nppayment_2j|Damn!
-; menu_event_siege_13|A group of enemies attacked our men by surprise and then quickly withdrew.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_13_1b|This is common. Be cautious (Solution: blockade the place).
-; menu_event_siege_14|While foraging, a group of enemy riders encountered a group of our men.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_14_1b|This is common. Be cautious (Solution: blockade the place).
-; menu_event_siege_15|We were attacked by an enemy force while raiding neighboring villages. The villagers joined the enemy, causing us many casualties.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_15_1b|This is common. Be cautious (Solution: blockade the place).
-; menu_event_siege_16|The enemy and our men came upon each other near a river, and the fight for water caused numerous casualties on both sides.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_16_1b|This is common. Be cautious (Solution: blockade the place).
-; menu_event_siege_17|The enemy sallied out through a secret passage, attacking us before swiftly retreating back to the protection of their walls.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_17_1b|This is common. Be cautious (Solution: blockade the place).
+; menu_event_siege_13|A group of enemies attacked our men by surprise and then quickly withdrew.^^Your casualties: {s8}^^Enemy casualties: {s10}
+; mno_choice_13_1b|Be more cautious (Solution: blockade the place).
+; menu_event_siege_14|While foraging, a group of enemies encountered a group of our men.^^Your casualties: {s8}^^Enemy casualties: {s10}
+; mno_choice_14_1b|Be more cautious (Solution: blockade the place).
+; menu_event_siege_15|We were attacked by an enemy force while raiding neighboring villages. The villagers joined the enemy, causing us many casualties.^^Your casualties: {s8}^^Enemy casualties: {s10}
+; mno_choice_15_1b|Be more cautious (Solution: blockade the place).
+; menu_event_siege_16|The enemy and our men came upon each other near a river, and the fight for water caused numerous casualties on both sides.^^Your casualties: {s8}^^Enemy casualties: {s10}
+; mno_choice_16_1b|Be more cautious (Solution: blockade the place).
+; menu_event_siege_17|The enemy sallied out through a secret passage, attacking us before swiftly retreating back to the protection of their walls.^^Your casualties: {s8}^^Enemy casualties: {s10}
+; mno_choice_17_1b|Be more cautious (Solution: blockade the place).
 ; menu_event_siege_18|Some of your men have abducted women from the surrounding villages and brought them to the siege camp for fun.
 ; mno_choice_18_1b|You allow it and ask for the most beautiful woman.
-; mno_choice_18_2b|Order your men to release the women and punish the kidnappers.
-; menu_event_siege_19|The enemy is trying to break our blockade, and our men are trying to contain them.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_19_1b|Send some men while I make a threat of assault to force them to withdraw.
+; mno_choice_18_2b|Order the release of the women and punish the kidnappers.
+; menu_event_siege_19|The enemy is trying to break our blockade, and our men are trying to contain them.^^Your casualties: {s8}^^Enemy casualties: {s10}
+; mno_choice_19_1b|Send some men while I take others to force them to withdraw.
 ; mno_choice_19_2b|Send all the men to protect that part of the circumvallation.
 ; mno_choice_19_3b|Do not worry. Our wall is strong.
-; menu_no_defendiendo|The enemy has overcome our defenses and burned our small camps and checkpoints, breaking our blockade.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_no_defendiendo|The enemy has overcome our defenses and burned our small camps and checkpoints, breaking our blockade.^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_defendiendo_1bnd|We must build the blockade again.
-; menu_defendiendo_circunvallation|We have managed to repel the enemy, who returned to the protection of his walls...^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_defendiendo_circunvallation|We have managed to repel the enemy, who returned to the protection of his walls...^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_defendiendo_1dcir|Well done.
-; menu_defendiendo_mal|Another group of enemies took advantage of our troops being here and set fire to another part of our blockade.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_defendiendo_mal|Another group of enemies took advantage of our troops being here and set fire to another part of our blockade.^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_defendiendo_1mal|Damn!
-; menu_event_siege_20|The enemy is trying to burn our assault equipment.^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_choice_20_1b|Send some men while I make a threat of assault to force them to withdraw.
+; menu_event_siege_20|The enemy is trying to burn our assault equipment.^^Your casualties: {s8}^^Enemy casualties: {s10}
+; mno_choice_20_1b|Send some men while I take others to force them to withdraw.
 ; mno_choice_20_2b|Quickly. Send all men to protect the equipment.
 ; mno_choice_20_3b|Do not worry. Our men will guard it.
-; menu_no_defendiendo_equip|The enemy has overcome our defenses and burned down our equipment.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_no_defendiendo_equip|The enemy has overcome our defenses and burned down our equipment.^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_defendiendo_1bnde|We must begin construction again.
-; menu_defendiendo_equip|We have managed to repel the enemy, who returned to the protection of his walls.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_defendiendo_equip|We have managed to repel the enemy, who returned to the protection of his walls.^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_defendiendo_1heq|Well done.
-; menu_defendiendo_mal_equip|Another group of enemies has surrounded our positions and burned down our siege equipment on the other side.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_defendiendo_mal_equip|Another group of enemies has surrounded our positions and burned down our siege equipment on the other side.^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_defendiendo_1vmal|Damn!
 ; menu_event_siege_21|Your guards discovered several men trying to sneak out at night to escape your blockade.
 ; mno_choice_21_1b|Allow them to escape.
 ; mno_choice_21_2b|Kill them.
 ; menu_event_siege_22|At night, your guards report that they observed a group of enemies dressed in sheepskins heading to a nearby stream. Right now, they are filling leather sacks with water to bring back to the settlement.
 ; mno_atacar_emboscada_player2|Go there with any companions who want to join.
-; mno_choice_22_1b|Ambush the enemy in sheepskins.
+; mno_choice_22_1b|Send men to ambush the enemy in sheepskins.
 ; mno_choice_22_2b|Do nothing.
-; menu_victoria_ovejas|Your soldiers surrounded the enemy in sheepskins and fell upon them by surprise, spreading death.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_victoria_ovejas|Your soldiers surrounded the enemy in sheepskins and fell upon them by surprise, spreading death.^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_defendiendo_1lovej|Perfect!
-; menu_derrota_ovejas|It's a trap! Sir, the men dressed in sheepskins were a decoy to bring out our men and ambush them. Many were killed before returning to the protection of our circumvallation.^^Your casualties: {s8}^^Enemy casualties: {s9}
+; menu_derrota_ovejas|It's a trap! {reg59?Lady:Sir}, the men dressed in sheepskins were a decoy to bring out our men and ambush them. Many were killed before returning to the protection of our circumvallation.^^Your casualties: {s8}^^Enemy casualties: {s10}
 ; mno_defendiendo_1poveja|That is terrible.
 ; menu_tablas_ovejas|Your soldiers were deployed to surround the enemy, but they were too slow and noisy. The men in sheepskins sensed the threat and returned to the settlement quickly.
 ; mno_defendiendo_1oveja2|Well, next time.
@@ -1151,13 +1151,13 @@ menu_encuentro_avituallamiento2|{s4}
 ; menu_cabezas_moral|The heads are launched into the settlement. From the outside, you hear the cries and tears of the citizens when they recognize a loved one. War is merciless, and you've proven you're the most terrible of foes.
 ; mno_defendiendo_1q|This will help them give up... or die...
 ; menu_event_siege_25|A merchant offers a group of dancers to entertain your men during the night.
-; mno_choice_25_1b|I need my men ready for action, not distracted or tired.
+; mno_choice_25_1b|This will just distract and tire my men.
 ; mno_choice_25_2b|Hire dancers just for yourself (100 peningas).
-; mno_choice_25_3b|Your men deserve it. Hire dancers for them (500 peningas).
+; mno_choice_25_3b|Hire dancers for your men (500 peningas).
 ; menu_event_siege_26|A group of bandits approaches your camp. As your men reach for their arms, the bandits put down their weapons and say they come in peace. The leader of the bandits steps forward and asks if they may join you.
-; mno_choice_26_1b|Of course! My war band always welcomes men of such talent and promise!
+; mno_choice_26_1b|Of course! Such promising men are always welcome!
 ; mno_choice_26_2b|I'm sorry. We have no room for your kind!
-; mno_choice_26_3b|Prove yourselves worthy of my attention by raiding a village.
+; mno_choice_26_3b|Prove yourselves worthy by raiding a village.
 ; mno_choice_26_4b|Kill them all!
 ; menu_sanguinario_p|After two hours, the bandits return with some loot and someone's head...
 ; menu_event_siege_27|Several merchants approach you wanting to sell goods in the camp that has formed close to yours with the wives of the soldiers, prostitutes, refugees, children and other followers of the army.
@@ -1179,7 +1179,7 @@ menu_encuentro_avituallamiento2|{s4}
 ; mno_error_1|Continue.
 ; menu_messenger_system2|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'My masters sent me to tell you that the messenger you sent to {s9} was found dead on the side of the road. We're sorry to inform you that your message never reached its destination. We will be at your disposal for any other message that you need to send. You know where to find us.'
 ; mno_finish_m|Bad luck.
-; menu_messenger_system_res_failure|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'My masters sent me to tell you that the messenger you sent to {s9} was found dead on the side of the road. We're sorry to inform you that your message never reached its destination. We will be at your disposal for any other message that you need to send. You know where to find us.'
+; menu_messenger_system_res_failure|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'My masters sent me to tell you that the messenger you sent was found dead on the side of the road. We're sorry to inform you that your message never reached its destination. We will be at your disposal for any other message that you need to send. You know where to find us.'
 ; mno_finish_m2|Bad luck.
 menu_messenger_system_res|{s4}
 ; mno_Continue_msse|Thank for your service.

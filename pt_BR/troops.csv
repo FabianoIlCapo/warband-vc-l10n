@@ -116,10 +116,10 @@ trp_briton_level1_companion|Campeão Bretão (Campiwr)
 trp_briton_level1_companion_pl|Campeões Bretóes (Campgwr)
 trp_briton_level2_companion|Guardião Bretão (Teulu)
 trp_briton_level2_companion_pl|Guardiões Bretões (Teulus)
-trp_briton_bowman|Escaramuçador Bretão (Bweydd)
-trp_briton_bowman_pl|Escaramuçadores Bretões (Bweydds)
-trp_briton_marksman|Escaramuçador de Elite Bretão (Saethydd)
-trp_briton_marksman_pl|Escaramuçadores de Elite Bretões (Saethydds)
+; trp_briton_bowman|Briton Skirmisher (Cipryswr)
+; trp_briton_bowman_pl|Briton Skirmishers (Cipryswyr)
+; trp_briton_marksman|Briton Archer (Saethydd)
+; trp_briton_marksman_pl|Briton Archers (Saethydds)
 trp_briton_horseman|Cavaleiro Bretão (Marchoc)
 trp_briton_horseman_pl|Cavaleiros Bretões (Marcach)
 trp_briton_standard_bearer|Porta-Estandarte (Gwas Ys Tafell)
@@ -160,8 +160,8 @@ trp_scotch_level1_skirmisher|Escaramuçador de Elite Picto (Cruithnen)
 trp_scotch_level1_skirmisher_pl|Escaramuçadores de Elite (Cruithnen)
 trp_scotch_horseman|Cavaleiro Picto (Marcach)
 trp_scotch_horseman_pl|Cavaleiros Leves (Marcach)
-trp_scotch_level0_landed|Camponês Picto (Bothach)
-trp_scotch_level0_landed_pl|Camponeses Pictos (Bothach)
+; trp_scotch_level0_landed|Pictish Landowner (Bothach)
+; trp_scotch_level0_landed_pl|Pictish Landowners (Bothach)
 trp_scotch_level1_landed|Lanceiro Picto (Octhigern)
 trp_scotch_level1_landed_pl|Lanceiros Pictos (Octhigern)
 trp_scotch_level2_landed|Guerreiro Picto (Gaithlennach)
@@ -178,8 +178,8 @@ trp_scotch_standard_bearer|Porta-Estandarte (Samhladh)
 trp_scotch_standard_bearer_pl|Portas-estandarte (Samhladh)
 trp_scotch_musician|Corneteiro Picto
 trp_scotch_musician_pl|Corneteiros Pictos
-trp_scotch_priest|Padre Picto
-trp_scotch_priest_pl|Padres Pictos
+trp_scotch_priest|Sacerdote
+; trp_scotch_priest_pl|Priests
 trp_angle_slave|Camponês Anglo (Gebur)
 trp_angle_slave_pl|Camponeses Anglos (Geburas)
 trp_angle_bowman|Arqueiro Anglo (Scytta)
@@ -222,10 +222,10 @@ trp_irish_level2_landed|Veterano Irlandês (Boaire)
 trp_irish_level2_landed_pl|Veteranos Irlandeses (Boaires)
 trp_irish_level3_landed|Nobre Irlandês (Aire)
 trp_irish_level3_landed_pl|Nobres Irlandeses (Airig)
-trp_irish_level0_companion|Guerreiro Irlandês (Coisige)
+; trp_irish_level0_companion|Irish Warrior (Cliarnach)
 trp_irish_level0_companion_pl|Guerreiros Irlandeses (Cliathaire)
 trp_irish_level1_companion|Campeão Irlandês (Caur)
-trp_irish_level1_companion_pl|Campeões Irlandeses (Curraidh)
+; trp_irish_level1_companion_pl|Irish Champions (Curadmir)
 trp_irish_knight|Guardião Irlandês (Riglach)
 trp_irish_knight_pl|Guardiões Irlandeses (Riglach)
 trp_irish_standard_bearer|Porta-Estandarte (Meirgeach)
@@ -426,8 +426,8 @@ trp_trainer|Treinador
 trp_trainer_pl|Treinador
 trp_constable_hareck|Guarda Hareck
 trp_constable_hareck_pl|Guardas Hareck
-trp_ramun_the_slave_trader|Aethelmaer, O Mercador de Escravos
-trp_ramun_the_slave_trader_pl|Aethelmaer, O Mercador de Escravos
+; trp_ramun_the_slave_trader|Aethelmaer, the Slaver
+; trp_ramun_the_slave_trader_pl|Aethelmaer, the Slaver
 trp_guide|Ulric
 trp_guide_pl|Ulric
 trp_xerina|Anchoret a Pict
@@ -452,27 +452,27 @@ trp_trainer_4|Treinador
 trp_trainer_4_pl|Treinadores
 trp_trainer_5|Treinador
 trp_trainer_5_pl|Treinadores
-trp_ransom_broker_1|Comerciante de Escravos
+; trp_ransom_broker_1|Ransom Broker
 trp_ransom_broker_1_pl|Comerciantes de Escravos
-trp_ransom_broker_2|Comerciante de Escravos
+; trp_ransom_broker_2|Ransom Broker
 trp_ransom_broker_2_pl|Comerciantes de Escravos
-trp_ransom_broker_3|Comerciante de Escravos
+; trp_ransom_broker_3|Ransom Broker
 trp_ransom_broker_3_pl|Comerciantes de Escravos
-trp_ransom_broker_4|Comerciante de Escravos
+; trp_ransom_broker_4|Ransom Broker
 trp_ransom_broker_4_pl|Comerciantes de Escravos
-trp_ransom_broker_5|Comerciante de Escravos
+; trp_ransom_broker_5|Ransom Broker
 trp_ransom_broker_5_pl|Comerciantes de Escravos
-trp_ransom_broker_6|Comerciante de Escravos
+; trp_ransom_broker_6|Ransom Broker
 trp_ransom_broker_6_pl|Comerciantes de Escravos
-trp_ransom_broker_7|Comerciante de Escravos
+; trp_ransom_broker_7|Ransom Broker
 trp_ransom_broker_7_pl|Comerciantes de Escravos
-trp_ransom_broker_8|Comerciantes de Escravos
+; trp_ransom_broker_8|Ransom Broker
 trp_ransom_broker_8_pl|Comerciantes de Escravos
-trp_ransom_broker_9|Comerciantes de Escravos
+; trp_ransom_broker_9|Ransom Broker
 trp_ransom_broker_9_pl|Comerciantes de Escravos
-trp_ransom_broker_10|Comerciante de Escravos
+; trp_ransom_broker_10|Ransom Broker
 trp_ransom_broker_10_pl|Comerciantes de Escravos
-trp_ransom_broker_20|Comerciante de Escravos
+; trp_ransom_broker_20|Ransom Broker
 trp_ransom_broker_20_pl|Comerciantes de Escravos
 trp_tavern_traveler_1|Viajante
 trp_tavern_traveler_1_pl|Viajantes

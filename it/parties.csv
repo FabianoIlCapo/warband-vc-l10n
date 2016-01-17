@@ -46,7 +46,7 @@ p_castle_15|Gegnesburh
 p_castle_16|Stanford
 p_castle_17|Norwic
 p_castle_18|Haegelisdun
-p_castle_19|Rendlaesham
+; p_castle_19|Rendlaesburh
 p_castle_20|Grantebrycge
 p_castle_21|Hrofae Ceaster
 p_castle_22|Dornwara Ceaster
@@ -185,12 +185,12 @@ p_village_64|Vles Inge Terp
 p_village_65|Bal Sebuirge
 p_village_66|Bal Magh
 p_village_67|Bal Magh Cobha
-p_village_68|Bal Mor
+; p_village_68|Bal Mor North
 p_village_69|Bal Clochair
 p_village_70|Bal Fearnmhaigh
 p_village_71|Bal Macha
 p_village_72|Bal Dumai
-p_village_73|Bal Mor
+; p_village_73|Bal Mor South
 p_village_74|Bal Eachadha
 p_village_75|Bal Breacain
 p_village_76|Bal Crannoc
@@ -250,8 +250,9 @@ p_village_129|Bal Celtair Ovest
 p_village_130|Bal Maistiu Est
 p_village_131|Bal Maistiu Ovest
 p_village_132|Tref Meguaidd Est
-p_village_135|Tref Meguaidd Ovest
-p_village_134|Tom Ham Nord
+p_village_133|Tref Meguaidd Ovest
+; p_village_134|Tom Ham East
+; p_village_135|Tom Ham South
 p_village_136|Bal Caiseal Est
 p_village_137|Bal Caiseal Ovest
 p_village_138|Bal Aileach Est
@@ -348,7 +349,7 @@ p_monasterio26|Raithean
 p_monasterio27|Carthach
 p_monasterio28|Scelic Mhichi
 p_monasterio29|Gleann Da Loch
-p_yourlair|Rifugio di Jab
+p_yourlair|Il mio Rifugio
 p_thiaderd_lair|Nascondiglio di Thiaderd
 p_destroy1|Nascondiglio di Thiaderd, Distrutto
 p_destroy2|Covo di Sven, Distrutto
@@ -362,41 +363,33 @@ p_ferry_1b|stazione traghetti
 p_ferry_2b|stazione traghetti
 p_ferry_3b|stazione traghetti
 p_ferry_4b|stazione traghetti
-p_jetty_1|Molo 1
-p_jetty_2|Molo 2
-p_jetty_3|Molo 3
-p_jetty_4|Molo 4
-p_jetty_5|Molo 5
-p_jetty_6|Molo 6
 p_looter_spawn_point|loro nascondiglio
 p_looter_spawn_point2|loro nascondiglio
 p_looter_spawn_point3|loro nascondiglio
-p_steppe_bandit_spawn_point|loro campo
+p_steppe_bandit_spawn_point|Loro Approdo
 p_taiga_bandit_spawn_point|Loro Approdo
 p_forest_bandit_spawn_point|loro covo
 p_forest_bandit_spawn_point2|loro covo
 p_forest_bandit_spawn_point4|loro covo
 p_mountain_bandit_spawn_point|loro campo
 p_mountain_bandit_spawn_point3|loro campo
-p_new_sp|loro parrochhia
-p_new_sp2|loro parrochhia
-p_new_sp3|La campagna
-p_new_sp4|La campagna
-p_sea_raider_spawn_point_1|Loro Approdo
+p_sea_raider_spawn_point_1|loro campo
 p_sea_raider_spawn_point_2|Loro Approdo
 p_sea_raider_spawn_point_3|Loro Approdo
 p_desert_bandit_spawn_point|loro campo
-p_frank_looters_sp_1|loro covo
-p_frank_looters_sp_2|loro covo
-p_ship_raider_spawn_point_1|loro sbarco
-p_ship_raider_spawn_point_2|Loro Approdo
-p_ship_raider_spawn_point_3|loro sbarco
-p_ship_raider_spawn_point_4|Loro Approdo
-p_ship_raider_spawn_point_5|Loro Approdo
-p_ship_raider_spawn_point_6|loro sbarco
-p_testing_spawn_point|il mare
+p_frank_looters_sp_1|loro campo
+p_frank_looters_sp_2|loro campo
+p_pagan_spawn_1|La campagna
+p_pagan_spawn_2|La campagna
+p_pagan_spawn_3|La campagna
+p_pagan_spawn_4|La campagna
+p_ship_raider_spawn_point_1|Il canale
+; p_ship_raider_spawn_point_2|the area
+; p_ship_raider_spawn_point_3|the area
+; p_ship_raider_spawn_point_4|the area
+; p_ship_raider_spawn_point_5|the area
+; p_ship_raider_spawn_point_6|the area
 p_landing_point|Punto di approdo
-p_landing_point2|punto di sbarco 2
 p_the_fleet|La Flotta
 p_transporter|Trasportatore
 p_troop_camp_1|Alloggi delle truppe

@@ -116,10 +116,10 @@ trp_briton_level1_companion|Campione Britanno (Campiwr)
 trp_briton_level1_companion_pl|Campioni Britanni (Campgwr)
 trp_briton_level2_companion|Guardia del Corpo Britanno (Teulu)
 trp_briton_level2_companion_pl|Guardie del Corpo Britanne (Teulus)
-trp_briton_bowman|Schermagliatore Britanno (Bweydd)
-trp_briton_bowman_pl|Schermagliatori Britanni (Bweydds)
-trp_briton_marksman|Schermagliatore Britanno Elite (Saethydd)
-trp_briton_marksman_pl|Schermagliatori Britanni Elite (Saethydds)
+; trp_briton_bowman|Briton Skirmisher (Cipryswr)
+; trp_briton_bowman_pl|Briton Skirmishers (Cipryswyr)
+; trp_briton_marksman|Briton Archer (Saethydd)
+; trp_briton_marksman_pl|Briton Archers (Saethydds)
 trp_briton_horseman|Cavaliere Britanno (Marchoc)
 trp_briton_horseman_pl|Cavalieri Britanni (Marcach)
 trp_briton_standard_bearer|Portabandiera (Gwas Ys Tafell)
@@ -160,8 +160,8 @@ trp_scotch_level1_skirmisher|Schermagliatore Elite Pitto (Cruithnen)
 trp_scotch_level1_skirmisher_pl|Schermagliatori Elite (Cruithnen)
 trp_scotch_horseman|Cavaliere Pitto (Marcach)
 trp_scotch_horseman_pl|Cavalieri leggeri (Marcach)
-trp_scotch_level0_landed|Contadino Pitto (Bothach)
-trp_scotch_level0_landed_pl|Contadini Pitti (Bothach)
+; trp_scotch_level0_landed|Pictish Landowner (Bothach)
+; trp_scotch_level0_landed_pl|Pictish Landowners (Bothach)
 trp_scotch_level1_landed|Lanciere Pitto (Octhigern)
 trp_scotch_level1_landed_pl|Lancieri Pitti (Octhigern)
 trp_scotch_level2_landed|Guerriero Pitto (Gaithlennach)
@@ -178,8 +178,8 @@ trp_scotch_standard_bearer|Portabandiera (Samhladh)
 trp_scotch_standard_bearer_pl|Portabandiera (Samhladh)
 trp_scotch_musician|Cornista Pitto
 trp_scotch_musician_pl|Cornisti Pitti
-trp_scotch_priest|Sacerdote Pitto
-trp_scotch_priest_pl|Sacerdoti Pitti
+trp_scotch_priest|Sacerdote
+; trp_scotch_priest_pl|Priests
 trp_angle_slave|Contadino Anglo (Gebur)
 trp_angle_slave_pl|Contadini (Geburas)
 trp_angle_bowman|Arciere Anglo (Scytta)
@@ -222,10 +222,10 @@ trp_irish_level2_landed|Veterano Irlandese (Boaire)
 trp_irish_level2_landed_pl|Veterani Irlandesi (Boaires)
 trp_irish_level3_landed|Nobile Irlandese (Aire)
 trp_irish_level3_landed_pl|Nobili Irlandesi (Airig)
-trp_irish_level0_companion|Guerriero Irlandese (Coisige)
+; trp_irish_level0_companion|Irish Warrior (Cliarnach)
 trp_irish_level0_companion_pl|Guerrieri Irlandesi (Cliathaire)
 trp_irish_level1_companion|Campione Irlandese (Caur)
-trp_irish_level1_companion_pl|Campioni Irlandesi (Curraidh)
+; trp_irish_level1_companion_pl|Irish Champions (Curadmir)
 trp_irish_knight|Guardia del Corpo Irlandese (Riglach)
 trp_irish_knight_pl|Guardie del Corpo Irlandesi (Riglach)
 trp_irish_standard_bearer|Portabandiera (Meirgeach)
@@ -426,8 +426,8 @@ trp_trainer|Addestratori
 trp_trainer_pl|Addestratori
 trp_constable_hareck|Hareck il conestabile
 trp_constable_hareck_pl|Hareck il conestabile
-trp_ramun_the_slave_trader|Aethelmaer, il Mercante di Schiavi
-trp_ramun_the_slave_trader_pl|Aethelmaer, il Mercante di Schiavi
+; trp_ramun_the_slave_trader|Aethelmaer, the Slaver
+; trp_ramun_the_slave_trader_pl|Aethelmaer, the Slaver
 trp_guide|Ulric
 trp_guide_pl|Ulric
 trp_xerina|Anchoret il Pitto
@@ -452,27 +452,27 @@ trp_trainer_4|Addestratori
 trp_trainer_4_pl|Addestratori
 trp_trainer_5|Addestratori
 trp_trainer_5_pl|Addestratori
-trp_ransom_broker_1|Mercante di Schiavi
+trp_ransom_broker_1|Riscattatori
 trp_ransom_broker_1_pl|Mercante di Schiavi
-trp_ransom_broker_2|Mercante di Schiavi
+trp_ransom_broker_2|Riscattatori
 trp_ransom_broker_2_pl|Mercante di Schiavi
-trp_ransom_broker_3|Mercante di Schiavi
+trp_ransom_broker_3|Riscattatori
 trp_ransom_broker_3_pl|Mercante di Schiavi
-trp_ransom_broker_4|Mercante di Schiavi
+trp_ransom_broker_4|Riscattatori
 trp_ransom_broker_4_pl|Mercante di Schiavi
-trp_ransom_broker_5|Mercante di Schiavi
+trp_ransom_broker_5|Riscattatori
 trp_ransom_broker_5_pl|Mercante di Schiavi
-trp_ransom_broker_6|Mercante di Schiavi
+trp_ransom_broker_6|Riscattatori
 trp_ransom_broker_6_pl|Mercante di Schiavi
-trp_ransom_broker_7|Mercante di Schiavi
+trp_ransom_broker_7|Riscattatori
 trp_ransom_broker_7_pl|Mercante di Schiavi
-trp_ransom_broker_8|Mercante di Schiavi
+trp_ransom_broker_8|Riscattatori
 trp_ransom_broker_8_pl|Mercante di Schiavi
-trp_ransom_broker_9|Mercante di Schiavi
+trp_ransom_broker_9|Riscattatori
 trp_ransom_broker_9_pl|Mercante di Schiavi
-trp_ransom_broker_10|Mercante di Schiavi
+trp_ransom_broker_10|Riscattatori
 trp_ransom_broker_10_pl|Mercante di Schiavi
-trp_ransom_broker_20|Mercante di Schiavi
+trp_ransom_broker_20|Riscattatori
 trp_ransom_broker_20_pl|Mercante di Schiavi
 trp_tavern_traveler_1|Viaggiatori
 trp_tavern_traveler_1_pl|Viaggiatori

@@ -59,8 +59,8 @@ str_give_up_fight|Ritirarsi dalla battaglia?
 str_do_you_wish_to_leave_tutorial|Vuoi terminare il tutorial?
 str_do_you_wish_to_surrender|Vuoi arrenderti?
 str_can_not_retreat|Non puoi ritirarti, ci sono dei nemici nelle vicinanze!
-str_s1_joined_battle_enemy|{s1} si è unito alla battaglia dalla parte del nemico.
-str_s1_joined_battle_friend|{s1} si è unito alla battaglia in tuo supporto.
+; str_s1_joined_battle_enemy|{s1} would join your enemy in a battle.
+; str_s1_joined_battle_friend|{s1} would join you in a battle.
 str_entrance_to_town_forbidden|Le guardie cittadine vigilano attentamente, sembra che tu non sia in grado di passare il cancello senza essere notato.
 str_sneaking_to_town_impossible|Le guardie cittadine sono allertate. Non sarai in grado di intrufolarti in città nemmeno con un ottimo travestimento.
 str_battle_won|Hai vinto la battaglia!
@@ -82,8 +82,8 @@ str_hero_freed|{s1} di {s3} è stato liberato dalla prigionia da {s2}.
 str_center_captured|{s2} ha preso {s1} da {s3}.
 str_troop_relation_increased|Le tue relazioni con {s1} sono migliorate da {reg1} a {reg2}.
 str_troop_relation_detoriated|Le tue relazioni con {s1} sono peggiorate da {reg1} a {reg2}.
-str_faction_relation_increased|Il tuo rapporto con {s1} è aumentato da {reg1} a {reg2}.
-str_faction_relation_detoriated|Il tuo rapporto con {s1} è peggiorata da {reg1} a {reg2}.
+; str_faction_relation_increased|Your relation with the {s1} has increased from {reg1} to {reg2}. {s2}
+; str_faction_relation_detoriated|Your relation with the {s1} has deteriorated from {reg1} to {reg2}. {s2}
 str_party_gained_morale|La tua Compagnia guadagna {reg1} punti morale.
 str_party_lost_morale|La tua Compagnia perde {reg1} punti morale.
 str_other_party_gained_morale|{s1} guadagna {reg1} punti morale.
@@ -360,10 +360,10 @@ str_battle_fate_3|Un colpo nemico mi ha fatto perdere i sensi
 str_battle_fate_4|Ero in ostaggio, per un riscatto
 str_battle_fate_5|Ero in prigionia, ma ho guadagnato la fuga
 str_npc_morale_report|Sono {s6} la vostra scelta degli accompagnatori, {s7} il vostro stile di comando, e {s8} lo stato generale degli affari
-str_happy|felice riguardo
+; str_happy|happy with
 str_content|d'accordo riguardo
 str_concerned|in ansia riguardo
-str_not_happy|non del tutto felice riguardo
+; str_not_happy|not at all happy with
 str_miserable|infelice riguardo
 str_morale_reg1| Morale: {reg1}
 str_bar_enthusiastic|                   Entusiasta
@@ -487,7 +487,7 @@ str_npc16_backstory_later|La mia missione và avanti. Ogni giorno, portare sempr
 str_npc1_backstory_response_1|Apprezzo che lui mi dia un'esploratore qualificato.
 str_npc2_backstory_response_1|Bene, potrei offrirvi del lavoro. Sapete combattere?
 str_npc3_backstory_response_1|Beh, ho avuto pietà di te, e la vostra capacità di guarigione potrebbe essermi utile.
-str_npc4_backstory_response_1|Io dirigo un'esercito, e ho giusto bisogno di una mano in più.
+; str_npc4_backstory_response_1|No Picts in my shield wall, and I might be able to hire an extra hand.
 str_npc5_backstory_response_1|Questo è lo spirito giusto! Potrei offrirvi qualcosa.
 str_npc6_backstory_response_1|Dovreste unirvi a noi. La nostra stada è rimanere insieme.
 str_npc7_backstory_response_1|Hmm... Cercate una possibilità di lavoro?
