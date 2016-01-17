@@ -59,8 +59,8 @@ str_give_up_fight|Give up the fight?
 str_do_you_wish_to_leave_tutorial|Do you wish to leave the tutorial?
 str_do_you_wish_to_surrender|Do you wish to surrender?
 str_can_not_retreat|Can't retreat, there are enemies nearby!
-str_s1_joined_battle_enemy|{s1} has joined the battle on the enemy side.
-str_s1_joined_battle_friend|{s1} has joined the battle on your side.
+str_s1_joined_battle_enemy|{s1} would join your enemy in a battle.
+str_s1_joined_battle_friend|{s1} would join you in a battle.
 str_entrance_to_town_forbidden|The town guards are on the lookout for intruders and it seems that you won't be able to pass through the gates unchallenged.
 str_sneaking_to_town_impossible|The town guards are alarmed. You wouldn't be able to sneak through that gate no matter how well you disguised yourself.
 str_battle_won|You have won the battle!
@@ -82,8 +82,8 @@ str_hero_freed|{s1} of the {s3} has been freed from captivity by the {s2}.
 str_center_captured|The {s2} has taken {s1} from the {s3}.
 str_troop_relation_increased|Your relation with {s1} has increased from {reg1} to {reg2}.
 str_troop_relation_detoriated|Your relation with {s1} has deteriorated from {reg1} to {reg2}.
-str_faction_relation_increased|Your relation with the {s1} has increased from {reg1} to {reg2}.
-str_faction_relation_detoriated|Your relation with the {s1} has deteriorated from {reg1} to {reg2}.
+str_faction_relation_increased|Your relation with the {s1} has increased from {reg1} to {reg2}. {s2}
+str_faction_relation_detoriated|Your relation with the {s1} has deteriorated from {reg1} to {reg2}. {s2}
 str_party_gained_morale|Your party gains {reg1} morale.
 str_party_lost_morale|Your party loses {reg1} morale.
 str_other_party_gained_morale|{s1} gains {reg1} morale.
@@ -360,10 +360,10 @@ str_battle_fate_3|I was knocked senseless by the enemy
 str_battle_fate_4|I was taken and held for ransom
 str_battle_fate_5|I got captured, but later managed to escape
 str_npc_morale_report|I'm {s6} your choice of companions, {s7} your style of leadership, and {s8} the general state of affairs.
-str_happy|happy about
+str_happy|happy with
 str_content|content with
 str_concerned|concerned about
-str_not_happy|not at all happy about
+str_not_happy|not at all happy with
 str_miserable|downright appalled at
 str_morale_reg1| Morale: {reg1}
 str_bar_enthusiastic|                   Enthusiastic
@@ -487,7 +487,7 @@ str_npc16_backstory_later|My mission still goes on. Every day, I bring more shee
 str_npc1_backstory_response_1|I appreciate him giving me a skilled tracker.
 str_npc2_backstory_response_1|Well, perhaps I could offer you work. Can you fight?
 str_npc3_backstory_response_1|Well, I take pity on you, and your healing abilities could be useful.
-str_npc4_backstory_response_1|I run such a shield wall, and might be able to hire an extra hand.
+str_npc4_backstory_response_1|No Picts in my shield wall, and I might be able to hire an extra hand.
 str_npc5_backstory_response_1|That's the spirit! I might be able to offer you something.
 str_npc6_backstory_response_1|You must join us. Our way should remain united.
 str_npc7_backstory_response_1|Hmm... Are you by any chance looking for work?
