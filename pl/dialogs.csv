@@ -12,7 +12,7 @@
 ; dlga_dog_talk_2:close_window.5|Drop it!
 ; dlga_start:dog_talk_recruit|   
 ; dlga_dog_talk_recruit:dog_talk_1|Here, have a sausage!
-; dlga_dog_talk_recruit:close_window|Good dog!
+dlga_dog_talk_recruit:close_window|Dobry pies!
 ; dlga_dog_talk_recruit:close_window.1|Away!
 ; dlga_dog_talk_pretrain:dog_talk_train|Here, I have something for you ...
 ; dlga_dog_talk_train:dog_talk_pretrain|You don't look healthy. Here, have a {s7}!
@@ -39,7 +39,7 @@ dlga_start:port_chief2|{s1}
 ; dlga_port_chief3:port_chief_buy_ship|I want to buy a ship.
 ; dlga_port_chief_buy_ship:close_window|Follow me!
 ; dlga_port_chief3:port_chief_info_main|I have some questions about ships and sea travel.
-; dlga_port_chief_info_main:port_chief_info_main_1|What do you want to know?
+dlga_port_chief_info_main:port_chief_info_main_1|Co chciałbyś wiedzieć?
 ; dlga_port_chief_info_main_1:port_chief_info_a_1|Why do people go to sea?
 ; dlga_port_chief_info_main_1:port_chief_info_b_1|How do I find my way at sea?
 ; dlga_port_chief_info_main_1:port_chief_info_c_1|What do I need to know if I want to buy a ship?
@@ -4770,7 +4770,7 @@ dlga_mercenary_tavern_talk_hire:close_window|{s17}
 ; dlga_trainer_talk2:trainer_practice_11|I am ready for some practice.
 ; dlga_trainer_talk2:trainer_combat_begin1|First, tell me something about combat...
 ; dlga_trainer_talk2:close_window|I need to leave now. Farewell.
-; dlga_trainer_combat_begin1:trainer_talk_combat1|What do you want to know?
+dlga_trainer_combat_begin1:trainer_talk_combat1|Co chciałbyś wiedzieć?
 ; dlga_trainer_combat_pretalk:trainer_talk_combat1|What else do you want to know?
 ; dlga_trainer_talk_combat1:trainer_explain_combat|Tell me about combat.
 ; dlga_trainer_talk_combat1:trainer_pretalk2|I guess I know all theory I need. Let's talk about something else.
@@ -4964,7 +4964,7 @@ dlga_trainer_training_lair3a:trainer_training_lair3.1|Nie.
 ; dlga_trainer_training_lair3:trainer_talk|Alright, I will train the recruits in {s11}. Place the troops you want me to train at the bottom of the garrison list.
 ; dlga_trainer_training_lair4_stop:trainer_pretalk|As you wish, my {reg59?lady:lord}.
 ; dlga_trainer_talk:close_window|I need to leave now. Farewell.
-; dlga_trainer_combat_begin:trainer_talk_combat|What do you want to know?
+dlga_trainer_combat_begin:trainer_talk_combat|Co chciałbyś wiedzieć?
 ; dlga_trainer_combat_pretalk:trainer_talk_combat|What else do you want to know?
 ; dlga_trainer_talk_combat:trainer_explain_defense|Tell me about defending myself.
 ; dlga_trainer_talk_combat:trainer_explain_attack|Tell me about attacking with weapons.

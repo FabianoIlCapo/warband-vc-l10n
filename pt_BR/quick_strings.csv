@@ -3,18 +3,18 @@ qstr_{reg1}.00{reg2}|{reg1}.00{reg2}
 qstr_{reg1}.0{reg2}|{reg1}.0{reg2}
 qstr_{reg1}.{reg2}|{reg1}.{reg2}
 qstr_{s1}_|{s1} 
-qstr_Next_Page|Próxima página
-qstr_Naval_Battle|Batalha naval
-qstr_Coastal_Assault__Off|Ataque à costa (ofensiva)
-qstr_Coastal_Assault__Def|Ataque à costa (defesa)
+qstr_Next_Page|Próxima Página
+qstr_Naval_Battle|Batalha Naval
+qstr_Coastal_Assault__Off|Ataque Costeiro (Ofensivo)
+qstr_Coastal_Assault__Def|Ataque Costeiro (Defensivo)
 qstr_Players:|Jogadores:
 qstr_Invaders:|Invasores:
-qstr_Invasion_difficulty_|Dificuldade de invasão (%):
-qstr_Allow_Shield_Bash|Permitir Shield Bash
-qstr_Allow_Falling_from_H|Permitir a queda de cavalos
-qstr_Allow_Shield_Wall_Bo|Permitir que o bônus de parede escudo
-qstr_Remove_Stray_Horses_|Remova cavalos perdidos após xxx segundos (0 = off)
-; qstr_Replace_All_Weapons_|Replace All Weapons with Deadly Bow
+qstr_Invasion_difficulty_|Dificuldade de Invasão (%):
+qstr_Allow_Shield_Bash|Permitir Golpe de Escudo
+qstr_Allow_Falling_from_H|Permitir Cair de Cavalos
+qstr_Allow_Shield_Wall_Bo|Permitir Bônus de Parede de Escudos
+qstr_Remove_Stray_Horses_|Remover Cavalos Dispersos após xxx segundos (0=off)
+qstr_Replace_All_Weapons_|Substituir todas as armas com Arco Mortal
 qstr_God_Mode|Modo Deus
 qstr________Game_Descript|---Descrição do Jogo--^
 qstr_Game_Rules:^|Regras do jogo: ^
@@ -28,54 +28,54 @@ qstr_Thor_s_champion_has_|Campeão do Thor foi morto!
 qstr_You_have_killed_the_|Você matou o campeão e ganhou o favor de Thor!
 qstr_{s1}_has_killed_the_|{s1} matou o campeão e ganhou o favor de Thor!
 qstr_Thor_has_chosen_{s1}|Thor escolheu {s1} como seu novo campeão!
-qstr_^^Congratulations!^^|^ ^ Parabéns! ^ ^ você sobreviver a invasão!
+qstr_^^Congratulations!^^|^ ^ Parabéns! ^ ^ Você sobreviveu à invasão!
 qstr_New_enemies_are_comi|Novos inimigos estão vindo! ^ Prepare-se!
 qstr_{reg0}:{reg1}{reg2}_|{reg0}:{reg1}{reg2} até a próxima onda de inimigos.
-qstr_Enemies_left:_{reg1}|Inimigos que restam: {reg1}
+qstr_Enemies_left:_{reg1}|Inimigos restantes: {reg1}
 qstr_Show_game_rules|Mostrar as regras do jogo
 qstr_Admin_tools_panel|Painel de ferramentas de administração
 qstr_Change_game_type|Alterar o tipo de jogo
-qstr_All_Players|Todos os jogadores
+qstr_All_Players|Todos os Jogadores
 qstr_The|O
 qstr_Candidate_#1:_{s1}|Candidato #1: {s1}
 qstr_Candidate_#2:_{s1}|Candidato #2: {s1}
-qstr_{s3}_of_the_{s4}_wis|{s3} do {s4} deseja selecionar um novo delegado e convida seus vassalos para um conselho. {s1} e {s2} são os prováveis candidatos.
+qstr_{s3}_of_the_{s4}_wis|{s3} do {s4} deseja selecionar um novo Marechal e convida seus vassalos para um conselho. {s1} e {s2} são os prováveis candidatos.
 qstr_Whom_do_you_wish_to_|Quem você gostaria de apoiar?
 qstr_{s1}_gives_his_suppo|{s1} dá seu apoio para {s2}.
 qstr_Number_of_Supporters|Número de apoiadores: {reg0}
-qstr_{s2}_has_heard_his_v|{s2} ouviu o Conselho dos seus vassalos. Ele seleciona {s1} como o xerife do {s3}.
-qstr_Strategy_Camera:_pre|Estratégia da câmera: Pressione a tecla Enter.'
+qstr_{s2}_has_heard_his_v|{s2} ouviu o Conselho dos seus vassalos. Ele seleciona {s1} como o Marechal dos {s3}.
+qstr_Strategy_Camera:_pre|Estratégia da Câmera: Pressione a tecla Enter.'
 qstr_Orders|Ordens
 qstr_Mount|Montar
-qstr_Attack_Order|Ordem de ataque
+qstr_Attack_Order|Ordens de ataque
 qstr_Retreat|Recuar
-qstr_Stand_Ground|Manter a posição
+qstr_Stand_Ground|Manter a Posição
 qstr_Charge|Atacar
 qstr_Follow_Me|Siga-me
 qstr_Hold_This_Position|Mantenha esta posição
 qstr_Spread_Out|Espalhem-se
-qstr_Stand_Closer|Ficar mais próximos
-qstr_Fall_Back|Ir para trás
+qstr_Stand_Closer|Ficar mais Próximos
+qstr_Fall_Back|Ir para Trás
 qstr_Advance|Avançar
 qstr_Dismount|Desmontar
-qstr_Fire_At_Will|Ataque à vontade
-qstr_Hold_Your_Fire|Cessar fogo
-qstr_Use_Blunt_Weapons|Usar armas sem corte
-qstr_Use_Any_Weapon|Use qualquer arma
+qstr_Fire_At_Will|Ataque à Vontade
+qstr_Hold_Your_Fire|Cessar Ataque
+qstr_Use_Blunt_Weapons|Usar Armas de Contusão
+qstr_Use_Any_Weapon|Usar Qualquer Arma
 qstr_Ready|Pronto
 qstr_Wounded|Feridos
 qstr_Dead|Mortos
-qstr_Number_of_men_knocke|Número de homens derrubados: {reg1}
-qstr_Number_of_men_left:_|Número de homens que restam: {reg1}
-qstr_Opponents_Beaten:_{r|Inimigos Derrotados: {reg1}
-qstr_Opponents_Remaining:|Os adversários restantes: {reg1}
-qstr_Remain_in_retirement|Continuar aposentad{o/a}.
-; qstr_Go_back_to_adventuri|Go back to adventuring.
-qstr_You_have_retired_at_|Você se aposentou no nível {reg4} aos seus {reg5} dias de aventura.
-qstr_Effect_on_Score|Efeito no Escore
-qstr_Settlements_owned_by|Assentamentos possuídos por você: {reg0}
+qstr_Number_of_men_knocke|Número de homens Derrubados: {reg1}
+qstr_Number_of_men_left:_|Número de homens restantes: {reg1}
+qstr_Opponents_Beaten:_{r|Oponentes Derrotados: {reg1}
+qstr_Opponents_Remaining:|Oponentes Restantes: {reg1}
+qstr_Remain_in_retirement|Continuar em Retiro.
+qstr_Go_back_to_adventuri|Voltar a se Aventurar.
+qstr_You_have_retired_at_|Você se retirou no nível {reg4} depois de {reg5} dias de aventura.
+qstr_Effect_on_Score|Efeito na Pontuação
+qstr_Settlements_owned_by|Assentamentos Possuídos por Você: {reg0}
 qstr_Friendly_Settlements|Assentamentos Aliados: {reg0}
-qstr_Hostile_Settlements:|Assentamentos inimigos: {reg0}
+qstr_Hostile_Settlements:|Assentamentos Inimigos: {reg0}
 qstr_Friendly_Lords:_{reg|Lordes Aliados: {reg0}
 qstr_Enemy_Lords:_{reg0}|Lordes Inimigos: {reg0}
 qstr_Victories:_{reg0}|Vitórias: {reg0}
@@ -83,63 +83,63 @@ qstr_Defeats:_{reg0}|Derrotas: {reg0}
 qstr_Quests_Completed:_{r|Missões Concluídas: {reg0}
 qstr_Companions_Found:_{r|Companheiros Encontrados: {reg0}
 qstr_Companions_Lost/Depa|Companheiros Perdidos: {reg0}
-; qstr_Wealth:_{reg0}_penin|Wealth: {reg0} peningas
-; qstr_Inventory:_{reg0}_pe|Inventory: {reg0} peningas
+qstr_Wealth:_{reg0}_penin|Riqueza: {reg0} peningas
+qstr_Inventory:_{reg0}_pe|Inventário: {reg0} peningas
 qstr_Renown:_{reg0}|Renome: {reg0}
 qstr_Experience:_{reg0}|Experiência: {reg0}
 qstr_Days_Passed:_{reg0}|Dias Passados: {reg0}
 qstr_Difficulty:_{reg0}%|Dificuldade: {reg0}%
-qstr_TOTAL_SCORE:_{reg0}|ESCORE TOTAL: {reg0}
-; qstr_Unpaid|Unpaid
-; qstr_Kingdom_Advisor:|Kingdom Advisor:
-; qstr_Kingdom_Tributes:|Kingdom Tributes:
-; qstr_Your_troops_are_unpa|Your troops are unpaid! Morale has dropped.
-; qstr_{s30}{reg1}{reg2}{re|{s30}{reg1},{reg2},{reg3},{reg4},{reg5},{reg6},{reg7},{reg8},{reg9},{reg10},{reg11},{reg12},{reg13},{reg14},{reg15},{reg16},{reg17},{reg18},{reg19},{reg20},{reg21},{reg22},{reg23},{reg24}/
-; qstr_F4___Complex_formati|F4 - Complex formations
-; qstr_F7___Memorize_div._p|F7 - Memorize div. placement
-; qstr_F8___Default_divisio|F8 - Default division placement
-; qstr_F4___Ranks|F4 - Ranks
-; qstr_F5___Shield_Wall|F5 - Shield Wall
-; qstr_F6___Wedge|F6 - Wedge
-; qstr_F7___Square|F7 - Square
-; qstr_F8___No_Formation|F8 - No Formation
-; qstr_Extended_Formations_|Extended Formations and AI Options
-; qstr_Disable_mod_formatio|Disable mod formations: 
-; qstr_Put_player_in_divisi|Put player in division: 
+qstr_TOTAL_SCORE:_{reg0}|PONTUAÇÃO TOTAL: {reg0}
+qstr_Unpaid|Não Pago
+qstr_Kingdom_Advisor:|Assessor do Reino:
+qstr_Kingdom_Tributes:|Tributos do Reino:
+qstr_Your_troops_are_unpa|Suas tropas estão sem pagamento! A moral delas caiu.
+qstr_{s30}{reg1}{reg2}{re|{s30} {reg1}, {reg2}, {reg3}, {reg4}, {reg5}, {reg6}, {reg7}, {reg8}, {reg9}, {reg10}, {reg11}, {reg12}, {reg13}, {reg14}, {reg15}, {reg16}, {reg17}, {reg18}, {reg19}, {reg20}, {reg21}, {reg22}, {reg23}, {reg24} /
+qstr_F4___Complex_formati|F4 - Formações Complexas
+qstr_F7___Memorize_div._p|F7 - Memorizar colocação da divisão.
+qstr_F8___Default_divisio|F8 - Colocação de divisão padrão
+qstr_F4___Ranks|F4 - Fileiras
+qstr_F5___Shield_Wall|F5 - Parede de Escudos
+qstr_F6___Wedge|F6 - Fatia
+qstr_F7___Square|F7 - Quadrado
+qstr_F8___No_Formation|F8 - Sem Formação
+qstr_Extended_Formations_|Formações Estendidas e Opções IA
+qstr_Disable_mod_formatio|Desabilitar o mod de Formações: 
+qstr_Put_player_in_divisi|Colocar o Jogador na Divisão: 
 qstr_{s1}|{s1}
 ; qstr_Army_rotates_to_face|Army rotates to face enemy center: 
-; qstr_Prevent_AI_from_taki|Prevent AI from taking defensive: 
-; qstr_Anno_Domini_867|Anno Domini 867
-; qstr_We_are_in_the_ninth_|We are in the ninth century.^Long gone are the lights of Rome,^absorbed by the tide of time,^yet several centuries remain until the^golden age of knights and princesses^to come.^^It is a brutal, dark and ruthless^era of raw strength and survival,^where men go to bed every night^praying to see a new day.
-; qstr_It_is_the_age_of_the|It is the age of the Viking,^the clans of Ireland, the ascension^of Wessex and the emergence of the^Kingdom of Alba.^^                 It awaits you...
-; qstr_Choose_Campaign_Type|Choose Campaign Type.
-; qstr_Choose_Options.|Choose Options.
-; qstr_You_can_change_these|You can change these options during the game at your camp.
-; qstr_ROYAL_SANDBOX_CAMPAI|ROYAL SANDBOX CAMPAIGN
-; qstr_LORDLY_SANDBOX_CAMPA|LORDLY SANDBOX CAMPAIGN
-; qstr_SANDBOX_CAMPAIGN|SANDBOX CAMPAIGN
-; qstr_STORYLINE_CAMPAIGN|STORYLINE CAMPAIGN
-; qstr_Impossible|Impossible
-; qstr_Full_Realism|Full Realism
+qstr_Prevent_AI_from_taki|Impedir que IA fique na defensiva: 
+qstr_Anno_Domini_867|Anno Domini 867
+qstr_We_are_in_the_ninth_|Estamos no nono século. ^ Há muito se foram as luzes de Roma, ^ absorvidas pela maré do tempo, ^ ainda, vários séculos permanecem até que a ^ era dourada dos cavaleiros e princesas ^ chegue... ^ ^ Esta é uma brutal, escura e cruel ^ era de força bruta e sobrevivência, ^ onde homens vão para a cama todas as noites ^ orando para ver um novo dia.
+qstr_It_is_the_age_of_the|]Esta é a era dos Vikings, ^ dos clãs da Irlanda, da ascensão ^ de Wessex e do surgimento do ^ Reino de Alba. ^ ^ Ela espera por você...
+qstr_Choose_Campaign_Type|Escolher o Tipo de Campanha.
+qstr_Choose_Options.|Escolher Opções.
+qstr_You_can_change_these|Você pode alterar essas opções durante o jogo no seu Acampamento.
+qstr_ROYAL_SANDBOX_CAMPAI|CAMPANHA REALEZA DE MUNDO ABERTO
+qstr_LORDLY_SANDBOX_CAMPA|CAMPANHA NOBREZA DE MUNDO ABERTO
+qstr_SANDBOX_CAMPAIGN|CAMPANHA DE MUNDO ABERTO
+qstr_STORYLINE_CAMPAIGN|CAMPANHA DE ENREDO
+qstr_Impossible|Impossível
+qstr_Full_Realism|Realismo Total
 qstr_Custom|Customizado
-; qstr_Easy_Recruitment:|Easy Recruitment:
-; qstr_Easy_Levelling:|Easy Levelling:
-; qstr_Easy_Upkeep:|Easy Upkeep:
-; qstr_Shield_Bash:|Shield Bash:
-; qstr_Stamina:|Stamina:
-; qstr_Armor_Penalty:|Armor Penalty:
-; qstr_Rest_Improves_Morale|Rest Improves Morale:
-; qstr_Insane_Difficulty:|Insane Difficulty:
+qstr_Easy_Recruitment:|Recrutamento Fácil:
+qstr_Easy_Levelling:|Nivelamento Fácil:
+qstr_Easy_Upkeep:|Manutenção Fácil:
+qstr_Shield_Bash:|Golpe de Escudo:
+qstr_Stamina:|Resistência:
+qstr_Armor_Penalty:|Penalidade de Armadura:
+qstr_Rest_Improves_Morale|Descanso Melhora Moral:
+qstr_Insane_Difficulty:|Dificuldade Insana:
 qstr_{s4}|{s4}
-; qstr_You_can_change_diffi|You can change difficult settings.
-; qstr_Gore:|Gore:
-; qstr_Disable_Scenic_Menu:|Disable Scenic Menu:
-; qstr_Campaign_type_cannot|Campaign type cannot be changed after start of game.
-; qstr_More|More
-; qstr_Campaign_Type|Campaign Type
-; qstr_Difficulty_Type|Difficulty Type
+qstr_You_can_change_diffi|Você pode alterar configurações difíceis.
+qstr_Gore:|Sanguinolência:
+qstr_Disable_Scenic_Menu:|Desabilitar Menu Cênico:
+qstr_Campaign_type_cannot|Tipo de Campanha não pode ser alterado após o início do jogo.
+qstr_More|Mais
+qstr_Campaign_Type|Tipo de Campanha
+qstr_Difficulty_Type|Tipo de Dificuldade
 qstr_Options|Opções
-; qstr_These_options_can_be|These options can be changed later in the camp menu.
+qstr_These_options_can_be|Essas opções podem ser alteradas posteriormente no menu do acampamento.
 qstr_Reduced_to_1/4__Easi|Reduzido para 1/4 (Muito Fácil)
 qstr_Reduced_to_1/2__Easy|Reduzido para 1/2 (Fácil)
 qstr_Reduced_to_1/2__Easi|Reduzido para 1/2 (Muito Fácil)
@@ -148,942 +148,942 @@ qstr_Slowest|Muito mais lenta
 qstr_Slower|Mais lenta
 qstr_Faster|Mais rápida
 qstr_Fastest|Muito mais rápida
-; qstr_Less|Less
-; qstr_Warning:_The__{s1}__|Warning: The '{s1}' and '{s2}' options for this setting can't be disabled any more after you click '{s3}.'
-; qstr_Choose_a_campaign_ty|Choose a campaign type!
-; qstr_Storyline_Campaign:_|Storyline Campaign: Start as a protagonist in a story. Due to certain perma-death results, ironman save mode is not available.^^Sandbox Campaign: Start a long, totally free play game.^^Lordly Sandbox Campaign: Start as a lord.^^Royal Sandbox Campaign: Start as a king.
-; qstr_Choose_a_difficulty_|Choose a difficulty type!
-; qstr_At_Beginner_level_wh|At Beginner level, when you ask permission to recruit in villages, the answer is always positive and without cost.
-; qstr_At_Beginner_level_im|At Beginner level, improving troops is easier.
-; qstr_At_Beginner_level_th|At Beginner level, the wages of the player's troops are reduced 40%. Additionally the loot amount in monasteries and the chance to capture a ship are increased.
-; qstr_Stamina_is_calculate|Stamina is calculated from Health and Athletic skills and affects physical endurance during battle. When a character's stamina is exhausted, he or she won't be able to run and his or her weapons' damage will be halved.^^{s8}
-; qstr_Your_skill_points_wi|Your skill points will deteriorate when you equip heavy armor. This skill brings better balance to the game, as light troops become more important. Other equipment may have positive effect on skills.^^{s8}
-; qstr_Your_army_needs_regu|Your army needs regular rest in a settlement, your camp site or your refuge from time to time. Lack of rest will lower your troop morale, while resting will improve it.
-; qstr_Your_enemies_will_ca|Your enemies will cause double damage while you cause only half.
-; qstr_Add_decapitation_to_|Add decapitation to battles.
-; qstr_Disable_the_3D_view_|Disable the 3D view in settlement/village menus to improve the loading time for slower machines.
-; qstr_Attack_while_holding|Attack while holding your shield (default: hold Right Mouse Button + Left Mouse Button). The short delay is meant to keep the player from mistakenly executing a shield bash during normal fighting.^^The AI will also be able to use this ability.
-; qstr_The_divisions_of_the|The divisions of the player's army will not adopt the formations of shield wall, wedge, or square. Moreover, the F4 menu that contains these selections will no longer appear.^^The default ranks formations will always be adopted when the player closes ranks beyond the point needed to make a shoulder-to-shoulder line.
+qstr_Less|Menos
+qstr_Warning:_The__{s1}__|Aviso: As opções '{s1}' e '{s2}'  para esta configuração não podem ser mais desativadas depois que você clicar em '{s3}.'
+qstr_Choose_a_campaign_ty|Escolha um Tipo de Campanha!
+qstr_Storyline_Campaign:_|Campanha de Enredo: Começar como protagonista de uma história. Devido a certos resultados perma-morte, modo de salvamento homem-de-ferro não está disponível. ^ ^ Campanha de Mundo Aberto: começar um jogo longo, totalmente livre. ^ ^ Campanha Nobreza de Mundo Livre: iniciar como um Lorde... ^ ^  Campanha Realeza de Mundo Livre: começar como um rei.
+qstr_Choose_a_difficulty_|Escolha um tipo de dificuldade!
+qstr_At_Beginner_level_wh|No nível iniciante, quando pedir permissão para recrutar nas vilas, a resposta é sempre positiva e sem custo.
+qstr_At_Beginner_level_im|No nível iniciante, melhorar as tropas é mais fácil.
+qstr_At_Beginner_level_th|No nível iniciante, os salários das tropas do jogador são reduzidos em 40%. Além disso, a quantidade de saque em mosteiros e a chance de capturar um navio são aumentadas.
+qstr_Stamina_is_calculate|Resistência é calculada a partir das Habilidades saúde e Atlético e afeta a resistência física durante a batalha. Quando a resistência do personagem está esgotada, ele ou ela não será capaz de executar e danos de armas dele ou dela vão ser reduzida para metade. ^^ {s8}
+qstr_Your_skill_points_wi|Seus pontos de Habilidade irão deteriorar-se quando você equipar armaduras pesadas. Esta Habilidade traz melhor equilíbrio ao jogo, pois tropas leves tornam-se mais importantes. Outros equipamentos podem ter efeito positivo sobre Habilidades. ^^ {s8}
+qstr_Your_army_needs_regu|Seu exército precisa de descansos regulares em um assentamento, seu acampamento ou o seu refúgio de vez em quando. Falta de descanso abaixará a moral da tropa, enquanto descansando irá melhorá-la.
+qstr_Your_enemies_will_ca|Seus inimigos causarão o dobro de dano enquanto você causará apenas metade.
+qstr_Add_decapitation_to_|Adicionar decapitação às batalhas.
+qstr_Disable_the_3D_view_|Desativar a visão 3D nos menus de assentamento/vila para melhorar o tempo de carregamento em máquinas mais lentas.
+qstr_Attack_while_holding|Atacar enquanto empunha seu escudo (padrão: Segure o Botão Direito do Mouse + Botão Esquerdo do Mouse). O pequeno atraso tem intenção de evitar que o jogador execute por engano um golpe de escudo durante lutas normais. ^ ^ A IA também será capaz de usar essa habilidade.
+qstr_The_divisions_of_the|As divisões do exército do jogador não adotarão as formações de Parede de Escudos, Fatia ou Quadrado. Além disso, o menu F4 que contém estas seleções não aparecerá mais. ^ ^ As formações de fileiras padrão sempre serão adotadas quando o jogador aproximar fileiras além do ponto que precisava para fazer uma linha de ombro a ombro.
 ; qstr_When_multiple_divisi|When multiple divisions are placed, they will set up to face the center of the enemy forces. Without this option, they will set up along the facing that the player has when he/she places them, although individual divisions will still turn to face the enemy.^^For example, with the option OFF and the player facing AWAY from the attacker, infantry will set up on the RIGHT flank rather than the LEFT.
-; qstr_The_army_opposing_th|The army opposing the player never takes a defensive position at the back of the map, but will always charge the armies of the player and his/her allies.
-; qstr_Disable_music_in_bat|Disable music in battles and add more ambient sounds.
-; qstr_Set_how_much_damage_|Set how much damage is done to your character.
-; qstr_Set_how_much_damage_i|Set how much damage is done to your army.
-; qstr_Set_how_well_troops_|Set how well troops fight. They fight worst at Beginner level.
-; qstr_Campaign_AI_affects_|Campaign AI affects many aspects of the game, like:^- size of bandit parties^- renown loss in battles^- chance of recruiting lords^- taxes^- how lords get reinforcements^- how lords respond to the player's requests
-; qstr_Set_the_running_spee|Set the running speed of troops in battle.^^{s8}
-; qstr_{s2}_{reg0}|{s2} {reg0}
-; qstr_The_player_may_recei|The player may receive specific, debilitating wounds in battle. Physicians in larger towns will treat these wounds for a price, after which they will heal within a few days. Any negative effects will then be removed. If wound is not treated after some time, it will change to a scar, and the negative effects will then be permanent.
-; qstr_Wounded_troops_take_|Wounded troops take damage from blood loss.^^{s8}
-; qstr_From_now_on_spawn_33|From now on, spawn 33% less or 50% more bandits, raiders, etc.
-; qstr_Sets_the_player_as_c|Sets the player as commander of the chosen division. This division will set up immediately left and behind the player on Hold and Follow commands (Wedge will put player on the point). Consider it for bodyguard divisions.
+qstr_The_army_opposing_th|O exército opositor ao jogador nunca assume uma posição defensiva na parte de trás do mapa, mas sempre irá atacar os exércitos do jogador e seu aliados.
+qstr_Disable_music_in_bat|Desabilitar música em batalhas e adicionar mais sons ambientes.
+qstr_Set_how_much_damage_|Definir quanto dano é causado a seu personagem.
+qstr_Set_how_much_damage_i|Definir quanto dano é causado ao seu exército.
+qstr_Set_how_well_troops_|Definir quão bem lutam as tropas. Eles lutam pior em nível iniciante.
+qstr_Campaign_AI_affects_|IA da Campanha afeta muitos aspectos do jogo, como: ^ - tamanho das tropas de bandidos ^-perda de renome em batalhas ^ - chance de recrutar senhores ^-impostos ^ - como Lordes recebem reforços ^ - como Lordes respondem às solicitações do jogador
+qstr_Set_the_running_spee|Definir a velocidade de deslocamento das tropas em batalha. ^^ {s8}
+qstr_{s2}_{reg0}|{s2} {reg0}
+qstr_The_player_may_recei|O jogador pode receber específicas, debilitantes feridas na batalha. Médicos em cidades maiores vão tratar essas feridas por um preço, após o qual elas irão curar dentro de poucos dias. Quaisquer efeitos negativos, serão então removidos. Se a ferida não for tratada depois de algum tempo, irá virar uma cicatriz, e os efeitos negativos, serão então permanentes.
+qstr_Wounded_troops_take_|Soldados feridos tomam dano por perda de sangue. ^^ {s8}
+qstr_From_now_on_spawn_33|De agora em diante, gerar 33% menos ou 50% mais bandidos, saqueadores, etc.
+qstr_Sets_the_player_as_c|Definir o jogador como comandante da divisão escolhida. Esta divisão irá se posicionar imediatamente à esquerda e atrás do jogador, em comandos Esperem e Sigam (Fatia posicionará jogador na ponta). Considere para as divisões de guarda-costas.
 ; qstr_Equipment_may_get_da|Equipment may get damaged in battles, depending on its stats and the weapon maintenance skill of the party. Moreover, weaponsmiths and armorers offer to repair your equipment.^^{s8}
-; qstr_{s3}^^{s4}|{s3}^^{s4}
+qstr_{s3}^^{s4}|{s3} ^^ {s4}
 qstr_Default|Padrão
 qstr_Randomize|Aleatorizar
 qstr_Who_are_you?|Quem é você?
-; qstr_Be_careful_with_your|Be careful with your choices.^They will affect your attributes, skills and dialogs, among other things.
-; qstr_Bio:|Bio:
-; qstr_Gender:|Gender:
-; qstr_Height:|Height:
-; qstr_Age:|Age:
-; qstr_Personality:|Personality:
-; qstr_Greatest_Virtue:|Greatest Virtue:
-; qstr_Ethnicity:|Ethnicity:
-; qstr_Kingdom:|Kingdom:
-; qstr_Father_s_Occupation:|Father's Occupation:
-; qstr_Learnt_While_a_Child|Learnt While a Child:
-; qstr_Vocation:|Vocation:
-; qstr_Religion:|Religion:
+qstr_Be_careful_with_your|Seja cuidadoso com suas escolhas... ^ Elas afetarão seus Atributos, Habilidades e caixas de diálogo, entre outras coisas.
+qstr_Bio:|Bio:
+qstr_Gender:|Gênero:
+qstr_Height:|Altura:
+qstr_Age:|Idade:
+qstr_Personality:|Personalidade:
+qstr_Greatest_Virtue:|Maior Virtude:
+qstr_Ethnicity:|Etnia:
+qstr_Kingdom:|Reino:
+qstr_Father_s_Occupation:|Profissão do Pai:
+qstr_Learnt_While_a_Child|Aprendido Quando Criança:
+qstr_Vocation:|Vocação:
+qstr_Religion:|Religião:
 qstr_Female|Feminino
 qstr_Male|Masculino
 qstr_Normal|Normal
-; qstr_Tall|Tall
-; qstr_Short|Short
-; qstr_Young__16_22_years_o|Young (16-22 years old)
-; qstr_Adult__23_40_years_o|Adult (23-40 years old)
-; qstr_Elder__40_or_more_ye|Elder (40 or more years old)
-; qstr_Sanguine|Sanguine
-; qstr_Choleric|Choleric
-; qstr_Melancholic|Melancholic
-; qstr_Phlegmatic|Phlegmatic
-; qstr_Justice|Justice
-; qstr_Temperance|Temperance
-; qstr_Fortitude|Fortitude
-; qstr_Wisdom|Wisdom
-; qstr_Anglo_Saxon|Anglo-Saxon
+qstr_Tall|Alto
+qstr_Short|Baixo
+qstr_Young__16_22_years_o|Jovem (16-22 anos de idade)
+qstr_Adult__23_40_years_o|Adulto (23-40 anos de idade)
+qstr_Elder__40_or_more_ye|Ancião (40 ou mais anos de idade)
+qstr_Sanguine|Sanguinário
+qstr_Choleric|Colérico
+qstr_Melancholic|Melancólico
+qstr_Phlegmatic|Fleumático
+qstr_Justice|Justiça
+qstr_Temperance|Temperança
+qstr_Fortitude|Fortitude
+qstr_Wisdom|Sabedoria
+qstr_Anglo_Saxon|Anglo-Saxão
 qstr_Norse|Nórdico
-; qstr_Frisian|Frisian
-; qstr_Irish|Irish
-; qstr_Briton|Briton
-; qstr_Scoto_Pict|Scoto-Pict
-; qstr_Foreigner|Foreigner
+qstr_Frisian|Frísio
+qstr_Irish|Irlandês
+qstr_Briton|Bretão
+qstr_Scoto_Pict|Scoto-Picto
+qstr_Foreigner|Estrangeiro
 qstr_{s0}|{s0}
-; qstr_Outlaw|Outlaw
-; qstr_Peasant|Peasant
-; qstr_Priest|Priest
-; qstr_Craftsman|Craftsman
+qstr_Outlaw|Fora-da-Lei
+qstr_Peasant|Camponês
+qstr_Priest|Sacerdote
+qstr_Craftsman|Artesão
 qstr_Merchant|Mercador
-; qstr_Noble|Noble
-; qstr_Farming|Farming
-; qstr_Stealing|Stealing
-; qstr_Oratory|Oratory
-; qstr_Crafts|Crafts
-; qstr_Martial_Arts|Martial Arts
-; qstr_Slave|Slave
-; qstr_Traveler|Traveler
-qstr_Hunter|Cavalo de Caça
-; qstr_Landowner|Landowner
-; qstr_Christian|Christian
-; qstr_Pagan|Pagan
-; qstr_This_option_is_not_a|This option is not available in Lordly or Royal Sandbox modes.
-; qstr_Your_Kingdom|Your Kingdom
-; qstr_Name_^{playername}|Name ^{playername}
-; qstr_Level:|Level:
-; qstr_Health:|Health:
-; qstr_Renown:|Renown:
-; qstr_Reputation:|Reputation:
-; qstr_Right_to_Rule:|Right to Rule:
-; qstr_Money:|Money:
-; qstr_Scandinavian_Gods|Scandinavian Gods
-; qstr_Christianity|Christianity
-; qstr_Can_read:|Can read:
-; qstr_Reading:|Reading:
-; qstr_No_books.|No books.
+qstr_Noble|Nobre
+qstr_Farming|Agricultura
+qstr_Stealing|Roubo
+qstr_Oratory|Oratória
+qstr_Crafts|Artesanato
+qstr_Martial_Arts|Artes Marciais
+qstr_Slave|Escravo
+qstr_Traveler|Viajante
+qstr_Hunter|Caçador
+qstr_Landowner|Proprietário de Terras
+qstr_Christian|Cristão
+qstr_Pagan|Pagão
+qstr_This_option_is_not_a|Esta opção não está disponível nos modos Nobreza ou Realeza de Mundo Livre.
+qstr_Your_Kingdom|Seu Reino
+qstr_Name_^{playername}|Nome ^ {nome do jogador}
+qstr_Level:|Nível:
+qstr_Health:|Vitalidade:
+qstr_Renown:|Renome:
+qstr_Reputation:|Reputação:
+qstr_Right_to_Rule:|Direito de Governar:
+qstr_Money:|Dinheiro:
+qstr_Scandinavian_Gods|Deuses Escandinavos
+qstr_Christianity|Cristianismo
+qstr_Can_read:|Pode ler:
+qstr_Reading:|Leitura:
+qstr_No_books.|Sem livros.
 ; qstr_Trait:|Trait:
 ; qstr_Special_Trait:|Special Trait:
-; qstr_Dungeon_Master|Dungeon Master
-; qstr_Ladies__Man|Ladies' Man
-; qstr_Wine_Connoisseur|Wine Connoisseur
-; qstr_Scars:|Scars:
-; qstr_{reg1}|{reg1}
-; qstr_Wounds:|Wounds:
-; qstr_Enemies_Killed:|Enemies Killed:
-; qstr_Enemies_Wounded:|Enemies Wounded:
-; qstr_Allies_Killed:|Allies Killed:
-; qstr_Allies_Wounded:|Allies Wounded:
-; qstr_Story|Story
-; qstr_Attributes/Skills|Attributes/Skills
-; qstr_Wounds|Wounds
-; qstr_Quest|Quest
-qstr_Party|Companhia
-; qstr_Relations|Relations
-; qstr_Budget|Budget
+qstr_Dungeon_Master|Mestre da Masmorra
+qstr_Ladies__Man|Homem das Donzelas
+qstr_Wine_Connoisseur|Conhecedor de Vinhos
+qstr_Scars:|Cicatrizes:
+qstr_{reg1}|{reg1}
+qstr_Wounds:|Feridas:
+qstr_Enemies_Killed:|Inimigos Mortos:
+qstr_Enemies_Wounded:|Inimigos Feridos:
+qstr_Allies_Killed:|Aliados Mortos:
+qstr_Allies_Wounded:|Aliados Feridos:
+qstr_Story|História
+qstr_Attributes/Skills|Atributos/Habilidades
+qstr_Wounds|Feridas
+qstr_Quest|Missão
+qstr_Party|Tropa
+qstr_Relations|Relações
+qstr_Budget|Orçamento
 qstr_Statistics|Estatísticas
 qstr_Companions|Companheiros
 qstr_Factions|Facções
-; qstr_Known_Lords|Known Lords
+qstr_Known_Lords|Lordes Conhecidos
 qstr_Courtship|Cortejo
-; qstr_Ships|Ships
-; qstr_Level:_{reg4}_^Days_|Level: {reg4} ^Days of Adventuring: {reg5}.
-; qstr_Settlements_Owned_by|Settlements Owned by You: {reg0}
-; qstr_Hostile_Lords:_{reg0|Hostile Lords: {reg0}
-; qstr_You_need_to_be_the_r|You need to be the ruler of your faction in order to access your kingdom control panel.
-; qstr_^^^^Wounds_Informati|^^^^Wounds Information:^^{s3}^^----------^^{s4}^^----------^^{s5}^^----------^^{s6}
-; qstr_Resume_Traveling|Resume Traveling
-; qstr_Your_Camp|Your Camp
-; qstr_You_stop_to_rest.^He|You stop to rest.^Here you can manage your camp's resources.
-; qstr_Send_Scouts:|Send Scouts:
-; qstr_^Sending_scouts_ahea|^Sending scouts ahead of the army will increase your chances of spotting enemies. However, these men always move very exposed, so their life expectancy is low.
-; qstr_Thirty_men_are_neede|Thirty men are needed.
-; qstr_Send_Foragers:|Send Foragers:
-; qstr_^Send_men_to_forage_|^Send men to forage as your army travels. They return with extra food every half day.
-; qstr_Forty_men_are_needed|Forty men are needed.
-; qstr_Fortify_Camp:|Fortify Camp:
-; qstr_^Fortify_your_camp_w|^Fortify your camp with basic defences. The men engaged in this difficult work will need a reward of 200 peningas, or you could face troubles.
-; qstr_Sixty_men_are_needed|Sixty men are needed.
-; qstr_Your_Refuge|Your Refuge
-; qstr_Wait_Here|Wait Here
-; qstr_Troop_Tree|Troop Tree
-; qstr_Second_Outfit|Second Outfit
-; qstr_Read_Book|Read Book
-; qstr_Retire|Retire
-; qstr_Recruit_Prisoners|Recruit Prisoners
-; qstr_Followers__Camp|Followers' Camp
-; qstr_Visit_Camp|Visit Camp
-; qstr_Check_Location|Check Location
-; qstr_You_cannot_build_you|You cannot build your Refuge so close to a settlement.
-; qstr_These_too_close_to_a|These too close to a settlement for camping.
-; qstr_You_cannot_read._You|You cannot read. You can learn to do so at a monastery.
-; qstr_Your_army_morale_is_|Your army morale is low!
-; qstr_No_one_is_interested|No one is interested this time.
-; qstr_Back_to_Siege|Back to Siege
-; qstr_Your_Siege_Camp|Your Siege Camp
-; qstr_You_are_besieging_th|You are besieging the enemy.^Here you can manage your camp's resources.
-; qstr_^Send_men_to_forage_n|^Send men to forage nearby. They return with extra food every half day.
-; qstr_Your_Sea_Camp|Your Sea Camp
-; qstr_The_ship_is_at_the_m|The ship is at the mercy of the wind when you stop to rest.^Here you can manage your camp's resources.
-; qstr_Calm^^The_sails_like|Calm^^The sails, like the sea, are flat.
-; qstr_Light_breeze^^On_the|Light breeze^^On the sea, you notice some small wavelets.^The sails swell a little.
-; qstr_Moderate_breeze^^Sma|Moderate breeze^^Small waves with breaking crests are rolling on the sea.^The sails fill with wind.
-; qstr_Strong_breeze^^Moder|Strong breeze^^Moderate waves begin to form larger ones.^The sails are swollen tight and will need to be reefed soon.
-; qstr_High_wind^^There_are|High wind^^There are many breaking waves visible. The sails are reefed.^There is some chance now that ships will be damaged.
-; qstr_Gale^^The_sea_is_vio|Gale^^The sea is violent. The sails are almost completely reefed.^There is a high risk of a damaged hull.
-; qstr_Storm^^The_waves_tos|Storm^^The waves toss about the ships, which threaten to capsize.
-; qstr_Number_of_sailors:|Number of sailors:
-; qstr_{reg5}|{reg5}
-; qstr_Speed_from_sailors:|Speed from sailors:
-; qstr_{reg6}%|{reg6}%
-; qstr_Fleet|Fleet
+qstr_Ships|Navios
+qstr_Level:_{reg4}_^Days_|Nível: {reg4} ^ Dias de Aventuras: {reg5}.
+qstr_Settlements_Owned_by|Assentamentos Possuído por Você: {reg0}
+qstr_Hostile_Lords:_{reg0|Lordes Hostis: {reg0}
+qstr_You_need_to_be_the_r|Você precisa ser o governante de sua facção para acessar seu painel de controle do Reino.
+qstr_^^^^Wounds_Informati|^ ^ ^ informações de Feridas: ^^ {s3} ^^---^^ {s4} ^^---^^ {s5} ^^---^^ {s6}
+qstr_Resume_Traveling|Retomar Viajens
+qstr_Your_Camp|Seu Acampamento
+qstr_You_stop_to_rest.^He|Vocês param pra descansar. ^ Aqui você pode gerenciar os recursos do seu acampamento.
+qstr_Send_Scouts:|Enviar Batedores:
+qstr_^Sending_scouts_ahea|^ Enviar batedores à frente do exército vai aumentar suas chances de detectar inimigos. Entretanto, estes homens sempre se movem muito expostos, por isso, sua expectativa de vida é baixa.
+qstr_Thirty_men_are_neede|Trinta homens são necessários.
+qstr_Send_Foragers:|Enviar Forrageiros:
+qstr_^Send_men_to_forage_|^ Enviar homens para forragear enquanto seu exército viaja. Eles retornam com comida extra a cada meio dia.
+qstr_Forty_men_are_needed|Quarenta homens são necessários.
+qstr_Fortify_Camp:|Fortificar o Acampamento:
+qstr_^Fortify_your_camp_w|↑ Fortificar seu Acampamento com defesas básicas. Os homens envolvidos neste trabalho difícil terão uma recompensa de 200 peningas, ou você pode enfrentar problemas.
+qstr_Sixty_men_are_needed|Sessenta homens são necessários.
+qstr_Your_Refuge|Seu Refúgio
+qstr_Wait_Here|Esperar Aqui
+qstr_Troop_Tree|Árvore de Tropa
+qstr_Second_Outfit|Segunda Vestimenta
+qstr_Read_Book|Ler Livro
+qstr_Retire|Aposentar
+qstr_Recruit_Prisoners|Recrutar Prisioneiros
+qstr_Followers__Camp|Acampamento dos Seguidores
+qstr_Visit_Camp|Visitar o Acampamento
+qstr_Check_Location|Verificar a Localização
+qstr_You_cannot_build_you|Você não pode construir seu Refúgio tão perto de um assentamento.
+qstr_These_too_close_to_a|Muito perto de um assentamento para acampar.
+qstr_You_cannot_read._You|Você não pode ler. Você pode aprender a fazê-lo em um mosteiro.
+qstr_Your_army_morale_is_|A moral de seu exército está baixa!
+qstr_No_one_is_interested|Ninguém está interessado neste momento.
+qstr_Back_to_Siege|Voltar para o Cerco
+qstr_Your_Siege_Camp|Seu Acampamento de Cerco
+qstr_You_are_besieging_th|Você está Sitiando o inimigo... ^ Aqui você pode gerenciar os recursos do seu Acampamento.
+qstr_^Send_men_to_forage_n|^ Enviar homens para forragear nas proximidades. Eles retornam com comida extra a cada meio dia.
+qstr_Your_Sea_Camp|Seu Acampamento Marítimo
+qstr_The_ship_is_at_the_m|O navio fica à mercê do vento quando vocês param pra descansar. ^ Aqui você pode gerenciar os recursos do seu Acampamento.
+qstr_Calm^^The_sails_like|Calma ^ ^ as velas, como o mar, são planas.
+qstr_Light_breeze^^On_the|Brisa leve ^ ^ no mar, você nota algumas pequenas ondulações. ^ As velas incham um pouco.
+qstr_Moderate_breeze^^Sma|Brisa moderada. ^ ^ Pequenas ondas de cristas quebrantes estão rolando sobre o mar... ^ As velas enchem com vento.
+qstr_Strong_breeze^^Moder|Brisa forte. ^ ^ Ondas moderadas começam a formar as maiores... ^ As velas estão inchadas e apertadas e precisarão ser rizadas em breve.
+qstr_High_wind^^There_are|Vento forte ^ ^ há muitas ondas visíveis quebrando. As velas estão rizadas. ^ Há alguma chance agora de que navios sejam danificados.
+qstr_Gale^^The_sea_is_vio|Gale ^ ^ o mar é violento. As velas são quase completamente rizadas. ^ Há um alto risco de um casco danificado.
+qstr_Storm^^The_waves_tos|Tempestade. ^ ^ As ondas se lançam sobre os navios, que ameaçam virar.
+qstr_Number_of_sailors:|Número de marinheiros:
+qstr_{reg5}|{reg5}
+qstr_Speed_from_sailors:|Velocidade advinda de marinheiros:
+qstr_{reg6}%|{reg6} %
+qstr_Fleet|Frota
 qstr_Followers_Camp|Acampamento de Seguidores
-; qstr_Your_army_is_accompa|Your army is accompanied by followers from diverse backgrounds.^^Followers allow you to access important services quickly and provide moral support, but have the disadvantage of making your army advance more slowly.^^You can drive away followers any time, but doing so will have an impact on the morale of your army.^^You can increase the number of your followers with people you meet in your travels, assigning them to groups such as priests, women and others. You may assign troops from your army to the group of followers by talking with them from your army menu.^^If you decide to reduce the size of your army below 300 men or if your army suffers high losses or a serious defeat, followers may abandon you.
-; qstr_Smith|Smith
-; qstr_Healer|Healer
-; qstr_Mules|Mules
+qstr_Your_army_is_accompa|Seu exército é acompanhado por seguidores de diversas origens... ^ ^ Seguidores permitem que você acesse os serviços importantes rapidamente e fornecem apoio moral, mas têm a desvantagem de fazer seu exército avançar mais lentamente. ^ ^ Você pode mandar seguidores embora a qualquer tempo, mas fazendo isso terá impacto sobre a moral de seu exército... ^ ^ Você pode aumentar o número de seus seguidores com pessoas que você encontra em suas viagens , atribuindo-as a grupos como sacerdotes, mulheres e outros. Você pode atribuir tropas de seu exército ao grupo de seguidores ao falar com eles no seu menu de exército... ^ ^ Se você decidir reduzir o tamanho de seu exército abaixo de 300 homens, ou se seu exército sofrer perdas elevadas ou uma séria derrota, seguidores podem abandoná-lo.
+qstr_Smith|Ferreiro
+qstr_Healer|Curandeiro
+qstr_Mules|Mulas
 qstr_Slave_Trader|Comerciante de Escravos
-; qstr_Dismiss|Dismiss
-; qstr_Kingdom_Report|Kingdom Report
-; qstr_{reg59?Queen:King}:|{reg59?Queen:King}:
-; qstr_{reg59?Queen:King}_s|{reg59?Queen:King}'s Towns:
-; qstr_{reg59?Queen:King}_s_|{reg59?Queen:King}'s Forts:
-; qstr_{reg59?Queen:King}_s_V|{reg59?Queen:King}'s Villages:
-; qstr_Lords:|Lords:
-; qstr_Caravans:|Caravans:
-; qstr_Kingdom_Towns:|Kingdom Towns:
-; qstr_Kingdom_Forts:|Kingdom Forts:
-; qstr_Kingdom_Villages:|Kingdom Villages:
-; qstr_Places_without_Lord:|Places without Lord:
-; qstr_Prisoner_Lords:|Prisoner Lords:
-; qstr_Minister:|Minister:
-; qstr_Tax_Enforcement:|Tax Enforcement:
-; qstr_Yes__costs_3000_peni|Yes (costs 3000 peningas/week)
-; qstr_No__tax_revenue_lowe|No (tax revenue lower)
-; qstr_{reg59?Queen:King}_s_A|{reg59?Queen:King}'s Army Size:
-; qstr_Royal_Decree|Royal Decree
-; qstr_Summary|Summary
-; qstr_Lords|Lords
+qstr_Dismiss|Demitir
+qstr_Kingdom_Report|Relatório do Reino
+qstr_{reg59?Queen:King}:|{reg59?Rei: Rainha}:
+qstr_{reg59?Queen:King}_s|Cidades de {reg59?Rei:Rainha}:
+qstr_{reg59?Queen:King}_s_|Fortalezas de {reg59?Rei:Rainha}:
+qstr_{reg59?Queen:King}_s_V|Vilas de {reg59?Rei:Rainha}:
+qstr_Lords:|Lordes:
+qstr_Caravans:|Caravanas:
+qstr_Kingdom_Towns:|Cidades do Reino:
+qstr_Kingdom_Forts:|Fortalezas do Reino:
+qstr_Kingdom_Villages:|Vilas do Reino:
+qstr_Places_without_Lord:|Lugares sem Lorde:
+qstr_Prisoner_Lords:|Lordes Prisioneiros:
+qstr_Minister:|Ministro:
+qstr_Tax_Enforcement:|Execução Fiscal:
+qstr_Yes__costs_3000_peni|Sim (custos 3000 peningas/semana)
+qstr_No__tax_revenue_lowe|Não (impostos mais baixos)
+qstr_{reg59?Queen:King}_s_A|Tamanho do exército de {reg59?Rei:Rainha}:
+qstr_Royal_Decree|Decreto Real
+qstr_Summary|Resumo
+qstr_Lords|Lordes
 qstr_Economy|Economia
-; qstr_Diplomacy|Diplomacy
-; qstr_Armies|Armies
-; qstr_Centers|Centers
+qstr_Diplomacy|Diplomacia
+qstr_Armies|Exércitos
+qstr_Centers|Centros
 qstr_Rename|Renomear
-; qstr_Map_Colour|Map Colour
-; qstr_Make_a_Royal_Decree:|Make a Royal Decree:^^Changing orders will take a few hours,^as messengers need time to reach your vassals.^Once you select your order click DONE for confirmation.
-; qstr_Gather_Our_Forces|Gather Our Forces
-; qstr_Defend_the_Kingdom|Defend the Kingdom
-; qstr_Current_decree:_{s4}|Current decree: {s4}
-; qstr_You_order_the_lords_|You order the lords to present themselves with their household armies.
-; qstr_You_order_the_kingdo|You order the kingdom to be defended.
-; qstr_You_cannot_do_this_n|You cannot do this now.
-; qstr_Exhausted|Exhausted
-; qstr_Very_Tired|Very Tired
-; qstr_Tired|Tired
+qstr_Map_Colour|Cor do Mapa
+qstr_Make_a_Royal_Decree:|Fazer um Decreto Real: ^ ^ Mudança de ordens vai levar algumas horas, ^ pois mensageiros precisam de tempo para alcançar seus vassalos. ^ Uma vez que você selecione a ordem, clique em PRONTO para confirmação.
+qstr_Gather_Our_Forces|Reunir Nossas Forças
+qstr_Defend_the_Kingdom|Defender o Reino
+qstr_Current_decree:_{s4}|Decreto Atual: {s4}
+qstr_You_order_the_lords_|Você ordena os Lordes a se apresentarem com seus exércitos agregados.
+qstr_You_order_the_kingdo|Você ordena que o Reino seja defendido.
+qstr_You_cannot_do_this_n|Não pode fazer isso agora.
+qstr_Exhausted|Exausto
+qstr_Very_Tired|Muito Cansado
+qstr_Tired|Cansado
 qstr_High|Alta
-; qstr_What_name_would_you_|What name would you like to give to your refuge?
-; qstr_Save_it_as:_{s5}.|Save it as: {s5}.
-; qstr_You_head_into_town_t|You head into town to select items for your party...
-; qstr_Peningas:_{reg0}|Peningas: {reg0}
-; qstr_Save_for_Wages:_|Save for Wages: 
+qstr_What_name_would_you_|Que nome você gostaria de dar para o seu Refúgio?
+qstr_Save_it_as:_{s5}.|Salve-o como: {s5}.
+qstr_You_head_into_town_t|Você se dirige até a cidade para selecionar itens para suas tropas...
+qstr_Peningas:_{reg0}|Peningas: {reg0}
+qstr_Save_for_Wages:_|Economizar para Salários: 
 qstr_Reset|Redefinir
-; qstr_Commit|Commit
+qstr_Commit|Cometer
 ; qstr_Melee_Weapons:|Melee Weapons:
 ; qstr_Ranged_Weapons:|Ranged Weapons:
-; qstr_Armor:|Armor:
-; qstr_Horses:|Horses:
-; qstr_You_toss_the_offendi|You toss the offending item back!
-; qstr_You_make_your_big_pu|You make your big purchase!
-; qstr_From_Troop:_|From Troop: 
-; qstr_{s1}_or_{s2}|{s1} or {s2}
-; qstr__Click_on_a_unit_for|(Click on a unit for details)
-; qstr_{reg2}|{reg2}
-; qstr_Do_you_want_to_save_|Do you want to save your progress in Viking Conquest Campaign?
+qstr_Armor:|Armadura:
+qstr_Horses:|Cavalos:
+qstr_You_toss_the_offendi|Você joga o item ofensor de volta!
+qstr_You_make_your_big_pu|Você faz sua grande aquisição!
+qstr_From_Troop:_|Da tropa: 
+qstr_{s1}_or_{s2}|{s1} ou {s2}
+qstr__Click_on_a_unit_for|(Clique em uma unidade para detalhes)
+qstr_{reg2}|{reg2}
+qstr_Do_you_want_to_save_|Você quer SALVAR seu progresso na Campanha de Viking Conquest?
 qstr_Yes.|Sim.
 qstr_No.|Não.
-; qstr_On_several_occasions|On several occasions throughout your life, you have seen the strange Latin letters. You quickly learn to read. Perhaps, in time, you will also learn to write!^^This will require you to stay a week at the monastery. Do you still want to learn to read?
-; qstr_No_one_here_wants_to|No one here wants to join your party.
-; qstr_One_{s3}_is_willing_|One {s3} is willing to follow you.
-; qstr_{reg5}_{s3}_are_will|{reg5} {s3} are willing to follow you.
-; qstr_You_need_to_get_the_|You need to get the permission of the lord of this place to recruit here.
-; qstr_Recruit_them__{reg6}|Recruit them ({reg6} peningas).
-; qstr_One_{s3}_volunteers_|One {s3} volunteers to follow you.
-; qstr_{reg5}_{s3}_voluntee|{reg5} {s3} volunteer to follow you.
-; qstr_You_need_to_get_the_p|You need to get the permission of the village leader to recruit here.
-; qstr_My_Boats|My Boats
-; qstr_Boats_for_Sale|Boats for Sale
-; qstr_No_ships_for_sale^in|No ships for sale^in this town.
-; qstr_No_Name|No Name
-; qstr_{reg7}._Ship|{reg7}. Ship
-; qstr_Flagship|Flagship
-; qstr_Very_Good|Very Good
+qstr_On_several_occasions|Em várias ocasiões ao longo de sua vida, você tem visto as estranhas letras Latinas. Você rapidamente aprende a ler. Talvez, com o tempo, você também aprenda a escrever! ^ ^ isso exigirá que você permaneça uma semana no mosteiro. Você ainda quer aprender a ler?
+qstr_No_one_here_wants_to|Ninguém aqui quer se juntar às suas tropas.
+qstr_One_{s3}_is_willing_|Um {s3} está disposto a segui-lo.
+qstr_{reg5}_{s3}_are_will|{reg5} {s3} estão dispostos a segui-lo.
+qstr_You_need_to_get_the_|Você precisa obter a permissão do Lorde deste lugar para recrutar aqui.
+qstr_Recruit_them__{reg6}|Recrutá-los ({reg6} peningas).
+qstr_One_{s3}_volunteers_|Um {s3} voluntário irá segui-lo.
+qstr_{reg5}_{s3}_voluntee|{reg5} {s3} voluntários irão segui-lo.
+qstr_You_need_to_get_the_p|Você precisa obter permissão do Líder da Vila para recrutar aqui.
+qstr_My_Boats|Meus Barcos
+qstr_Boats_for_Sale|Barcos à Venda
+qstr_No_ships_for_sale^in|Nenhum navio à venda ^ nesta cidade.
+qstr_No_Name|Sem Nome
+qstr_{reg7}._Ship|{reg7}. Navio
+qstr_Flagship|Navio-Almirante
+qstr_Very_Good|Muito Bom
 qstr_Good|Bom
-; qstr_Acceptable|Acceptable
-; qstr_Bad|Bad
-; qstr_Very_Bad|Very Bad
-; qstr_Dangerous|Dangerous
-; qstr_Repair:_{reg8}_penin|Repair: {reg8} peningas
-; qstr_Type:_{s7}^Wood:_{s6|Type: {s7}^Wood: {s6}^Condition: {s1}^Speed: {reg1} knots^Crew: {reg6} men^Price: {reg7} peningas^{s2}
-; qstr_Repair_Ship|Repair Ship
-; qstr_Customize_Ship|Customize Ship
-; qstr_Sell_Ship|Sell Ship
-; qstr_Buy_Ship|Buy Ship
+qstr_Acceptable|Aceitável
+qstr_Bad|Ruim
+qstr_Very_Bad|Muito Ruim
+qstr_Dangerous|Perigoso
+qstr_Repair:_{reg8}_penin|Reparos: {reg8} peningas
+qstr_Type:_{s7}^Wood:_{s6|Tipo: {s7} ^ Madeira: {s6} ^ Condição: {s1} ^ Velocidade: {reg1} Nós ^ Tripulação: {reg6} Homens ^ Preço: {reg7} peningas ^ {s2}
+qstr_Repair_Ship|Reparar Navio
+qstr_Customize_Ship|Personalizar Navio
+qstr_Sell_Ship|Vender Navio
+qstr_Buy_Ship|Comprar Navio
 ; qstr_Are_you_sure_you_wan|Are you sure you want to do this transaction?
-; qstr_Leave_ship_at_the_sh|Leave ship at the shore
-; qstr_Next_ship|Next ship
-; qstr_Fleet_Capacity:|Fleet Capacity:
-; qstr_{reg1}/{reg2}|{reg1}/{reg2}
-; qstr_You_cannot_buy_this_|You cannot buy this boat, as it requires a Sea-King skill to manage boats.
-; qstr_You_cannot_buy_this_b|You cannot buy this boat, because you don't have the Sea-King skill.
-; qstr_You_cannot_buy_this_bo|You cannot buy this boat, as it requires a higher Sea-King skill to manage more boats.
-; qstr_You_cannot_buy_this_boa|You cannot buy this boat, because you don't have enough money.
-; qstr_You_can_t_leave_your|You can't leave your last ship at the shore.
-; qstr_You_can_t_leave_this|You can't leave this ship at the shore, because otherwise your crew wouldn't fit any more in the rest of the ships.
-; qstr_{s1}_s_Ships|{s1}'s Ships
-; qstr_You_need_to_get_clos|You need to get closer to the shore if you want to leave ships there.
-; qstr_You_cannot_repair_th|You cannot repair this boat, because you don't have enough money.
-; qstr_No_ships_for_sell^in|No ships for sell^in this Town.
-; qstr_Wood:_{s0}^|Wood: {s0}^
-; qstr_custom|custom
-; qstr_blue_and_white|blue and white
-; qstr_red_and_white|red and white
-; qstr_rich_striped|rich striped
-; qstr_green_and_yellow|green and yellow
-; qstr_red|red
-; qstr_blue_and_red|blue and red
-; qstr_green|green
-; qstr_blue_and_yellow|blue and yellow
-; qstr_Sail:_{s0}^|Sail: {s0}^
-; qstr_tarred|tarred
-; qstr_tarred_and_red|tarred and red
-; qstr_varnished|varnished
-; qstr_varnished_and_purple|varnished and purple
-; qstr_blue|blue
-; qstr_blue_red_and_green|blue, red and green
-; qstr_plain|plain
-; qstr_Finish:_{s0}^|Finish: {s0}^
-; qstr_Price:_{reg7}_pening|Price: {reg7} peningas
-; qstr_{s1}{s2}{s3}{s4}|{s1}{s2}{s3}{s4}
-; qstr_Change_Finish|Change Finish
-; qstr_Change_Sail|Change Sail
-; qstr_Apply|Apply
-; qstr_Only_ships_made_of_o|Only ships made of oak are considered to deserve a special finish.
-; qstr_You_don_t_have_enoug|You don't have enough money.
+qstr_Leave_ship_at_the_sh|Deixar Navio na Costa
+qstr_Next_ship|Próximo Navio
+qstr_Fleet_Capacity:|Capacidade da Frota:
+qstr_{reg1}/{reg2}|{reg1} / {reg2}
+qstr_You_cannot_buy_this_|Você não pode comprar este barco, pois requer uma Habilidade de Rei-Marítimo para gerenciar os barcos.
+qstr_You_cannot_buy_this_b|Você não pode comprar este barco, porque você não tem a Habilidade de Rei-Marítimo.
+qstr_You_cannot_buy_this_bo|Você não pode comprar este barco, pois requer uma maior Habilidade de Rei-Marítimo para gerenciar mais barcos.
+qstr_You_cannot_buy_this_boa|Você não pode comprar este barco, porque você não tem dinheiro suficiente.
+qstr_You_can_t_leave_your|Você não pode deixar seu último navio na costa.
+qstr_You_can_t_leave_this|Você não pode sair deste navio no litoral, pois caso contrário sua tripulação não caberá mais no resto dos navios.
+qstr_{s1}_s_Ships|Navios de {a} s1
+qstr_You_need_to_get_clos|Você precisa se aproximar da costa se quiser deixar os navios lá.
+qstr_You_cannot_repair_th|Você não pode reparar este barco, porque você não tem dinheiro suficiente.
+qstr_No_ships_for_sell^in|Nenhum navio à venda ^ nesta cidade.
+qstr_Wood:_{s0}^|Madeira: {s0} ^
+qstr_custom|personalizada
+qstr_blue_and_white|azul e branca
+qstr_red_and_white|vermelho e branca
+qstr_rich_striped|listradas ricas
+qstr_green_and_yellow|verde e amarela
+qstr_red|vermelha
+qstr_blue_and_red|azul e vermelha
+qstr_green|verde
+qstr_blue_and_yellow|azul e amarela
+qstr_Sail:_{s0}^|Vela: {s0} ^
+qstr_tarred|alcatroado
+qstr_tarred_and_red|alcatroado e vermelho
+qstr_varnished|envernizado
+qstr_varnished_and_purple|envernizado e roxo
+qstr_blue|azul
+qstr_blue_red_and_green|azul, vermelho e verde
+qstr_plain|liso
+qstr_Finish:_{s0}^|Revestimento: {s0} ^
+qstr_Price:_{reg7}_pening|Preço: {reg7} peningas
+qstr_{s1}{s2}{s3}{s4}|{s1} {s2} {s3} {s4}
+qstr_Change_Finish|Mudar Revestimento
+qstr_Change_Sail|Mudar Vela
+qstr_Apply|Aplicar
+qstr_Only_ships_made_of_o|Somente navios feitos de Carvalho são considerados merecedores de um acabamento especial.
+qstr_You_don_t_have_enoug|Você não tem dinheiro suficiente.
 qstr_Accept|Aceitar
-; qstr_Dismiss_Staff|Dismiss Staff
-; qstr_Recruit_staff_for_yo|Recruit staff for your refuge:
-; qstr_^Hiring_staff_has_bo|^Hiring staff has both initial and continuing costs. A good reputation and an impressive refuge will attract a greater variety of candidates.
-; qstr_Description:|Description:
-; qstr_Captain:|Captain:
-; qstr_Priest:|Priest:
-; qstr_Bard:|Bard:
-; qstr_Bottler:|Bottler:
-; qstr_Happy_Widow:|Happy Widow:
-; qstr_Trainer:|Trainer:
-; qstr_Smith:|Smith:
-; qstr_Armorer:|Armorer:
-; qstr_Physician:|Physician:
-; qstr_Cook:|Cook:
-; qstr_Captain_Marcus|Captain Marcus
-; qstr_Dismiss/No_Captain|Dismiss/No Captain
-; qstr_Priest_Beda|Priest Beda
-; qstr_Godi_Olafr|Godi Olafr
-; qstr_Dismiss/No_Priest|Dismiss/No Priest
-; qstr_No_bard_wants_to_ser|No bard wants to serve you.
-; qstr_Skald_Bragi|Skald Bragi
-; qstr_Bard_Siwi|Bard Siwi
-; qstr_Dismiss/No_Bard|Dismiss/No Bard
+qstr_Dismiss_Staff|Demitir Funcionários
+qstr_Recruit_staff_for_yo|Recrutar Funcionários para seu Refúgio:
+qstr_^Hiring_staff_has_bo|^ Contratar Funcionários tem custos iniciais e contínuos. Uma boa reputação e um refúgio impressionante atrairá uma variedade maior de candidatos.
+qstr_Description:|Descrição:
+qstr_Captain:|Capitão:
+qstr_Priest:|Sacerdote:
+qstr_Bard:|Bardo:
+qstr_Bottler:|Engarrafador:
+qstr_Happy_Widow:|Viúva Feliz:
+qstr_Trainer:|Treinador:
+qstr_Smith:|Ferreiro:
+qstr_Armorer:|Armeiro:
+qstr_Physician:|Médico:
+qstr_Cook:|Cozinheiro:
+qstr_Captain_Marcus|Capitão Marcus
+qstr_Dismiss/No_Captain|Demitir/Sem Capitão
+qstr_Priest_Beda|Padre Beda
+qstr_Godi_Olafr|Godi Olafr
+qstr_Dismiss/No_Priest|Demitir/Sem Sacerdote
+qstr_No_bard_wants_to_ser|Nenhum bardo quer atendê-lo.
+qstr_Skald_Bragi|Skald Bragi
+qstr_Bard_Siwi|Bardo Siwi
+qstr_Dismiss/No_Bard|Demitir/Sem Bardo
 qstr_Casius|Casius
-; qstr_Dismiss/No_Bottler|Dismiss/No Bottler
-; qstr_No_happy_widow_is_av|No happy widow is available.
-; qstr_Suaibsech|Suaibsech
-; qstr_Tancoystl|Tancoystl
-; qstr_Gulla|Gulla
-; qstr_Eadgyd|Eadgyd
-; qstr_Dismiss/No_Whore|Dismiss/No Whore
-; qstr_Trainer_Harald|Trainer Harald
-; qstr_Dismiss/No_Trainer|Dismiss/No Trainer
+qstr_Dismiss/No_Bottler|Demitir/Sem Engarrafador
+qstr_No_happy_widow_is_av|Nenhuma Viúva Feliz está disponível.
+qstr_Suaibsech|Suaibsech
+qstr_Tancoystl|Tancoystl
+qstr_Gulla|Gulla
+qstr_Eadgyd|Eadgyd
+qstr_Dismiss/No_Whore|Demitir/Sem Meretriz
+qstr_Trainer_Harald|Treinador Harald
+qstr_Dismiss/No_Trainer|Demitir/Sem Treinador
 qstr_Ulfberht|Ulfberht
-; qstr_Dismiss/No_Smith|Dismiss/No Smith
-; qstr_Armorer__The_Hungry_|Armorer 'The Hungry Hammer'
-; qstr_Dismiss/No_Armorer|Dismiss/No Armorer
-; qstr_No_physicians_are_av|No physicians are available.
-; qstr_Aurelius|Aurelius
-; qstr_Morgan|Morgan
-; qstr_Alexander|Alexander
-; qstr_Ailill|Ailill
-; qstr_Dismiss/No_Physician|Dismiss/No Physician
-; qstr_Wamba|Wamba
-; qstr_Dismiss/No_Cook|Dismiss/No Cook
+qstr_Dismiss/No_Smith|Demitir/Sem Ferreiro
+qstr_Armorer__The_Hungry_|Armeiro 'O Martelo Faminto'
+qstr_Dismiss/No_Armorer|Demitir/Sem Armeiro
+qstr_No_physicians_are_av|Nenhum Médico está disponívei.
+qstr_Aurelius|Aurelius
+qstr_Morgan|Morgan
+qstr_Alexander|Alexander
+qstr_Ailill|Ailill
+qstr_Dismiss/No_Physician|Demitir/Sem Médico
+qstr_Wamba|Wamba
+qstr_Dismiss/No_Cook|Demitir/Sem Cozinheiro
 qstr_{s10}|{s10}
-; qstr_You_do_not_have_enou|You do not have enough money to increase your staff this much. Please reduce the number of people to hire!
-; qstr_The_abbot_sends_for_|The abbot sends for all parties to come to the chapel, so that you can hear all sides of the story.^^ For your part, you take advantage of the waiting time to observe the work of the scribes, texts ornate with gold.
-; qstr_fort|fort
-; qstr_town|town
-; qstr_village|village
-; qstr_Infiltration|Infiltration
-; qstr_A_good_way_to_hasten|A good way to hasten the fall of the {s2} is to infiltrate it with a group of men to damage the defences, food stores, water supplies or loyalty of the defenders. It is a difficult and risky maneuver, almost suicidal. Those you send in have low chances of returning, but if successful, they could cause great damage to the enemy. They need 600 peningas for their troubles. What type of sabotage would you like them to cause?
-; qstr_Poison_the_{s2}_s_wa|Poison the {s2}'s water supplies.
-; qstr___Kill_the_{s2}_s_ca|  Kill the {s2}'s cattle  
-; qstr_Burn_the_{s2}_s_food|Burn the {s2}'s food stores.
-; qstr_Subvert_the_{s2}_s_d|Subvert the {s2}'s defenders.
-; qstr_____|    
-; qstr_A_group_of_chosen_me|A group of chosen men will be sent to poison the water supplies.
-; qstr_A_group_of_chosen_men|A group of chosen men will be sent to kill the cattle.
-; qstr_A_group_of_chosen_men_|A group of chosen men will be sent to burn the granaries.
-; qstr_A_group_of_chosen_men_w|A group of chosen men will be sent to subvert the defenders.
-; qstr_You_do_not_have_the_|You do not have the 600 peningas to pay for this mission.
-; qstr_{s1}_of_the_{s2}|{s1} of the {s2}
-; qstr_Send|Send
-; qstr_You_are_hiring_a_mes|You are hiring a messenger.^You can do three kinds of things with a message: give Orders, change Relations and make Diplomacy.
-; qstr_Message_Type:|Message Type:
-; qstr_Select_a_Place_for_y|Select a Place for your orders:
-; qstr_>>_Orders:^_You_cann|>> Orders:^ You cannot give orders to a lord who doesn't belong to your kingdom.
-; qstr_Orders:_None.|Orders: None.
-; qstr_Orders:_Meet_and_Fol|Orders: Meet and Follow You.
-; qstr_Orders:_Go_to_a_Plac|Orders: Go to a Place.
-; qstr_Orders:_Patrol_an_Ar|Orders: Patrol an Area.
-; qstr_Orders:_Besiege_a_Pl|Orders: Besiege a Place.
-; qstr_>>_Relations:^This_l|>> Relations:^This lord belongs to your kingdom.
-; qstr_Relations:_None.|Relations: None.
-; qstr_Relations:_Insult_an|Relations: Insult and Provoke.
-; qstr_Relations:_Send_a_Gi|Relations: Send a Gift.
-; qstr_>>Diplomacy:^It_is_o|>>Diplomacy:^It is only possible to negotiate between faction leaders.^You aren't a king.
-; qstr_>>Diplomacy:^It_is_on|>>Diplomacy:^It is only possible to negotiate between faction leaders.^{s1} isn't a king.
-; qstr_Diplomacy:_None.|Diplomacy: None.
-; qstr_Diplomacy:_Suggest_a|Diplomacy: Suggest an Alliance.
-; qstr_Diplomacy:_Suggest_P|Diplomacy: Suggest Peace.
-; qstr_Diplomacy:_Declare_W|Diplomacy: Declare War.
-; qstr_You_want_to_order_{s|You want to order {s9} to meet and follow you.
-; qstr_You_want_to_order_{s9|You want to order {s9} to go to...
-; qstr_You_want_to_order_{s9}|You want to order {s9} to patrol around....
-; qstr_You_want_to_order_{s9}_|You want to order {s9} to besiege...
-; qstr_You_want_to_send_a_m|You want to send a message to insult and provoke {s9}. Perhaps this will make him attack you.
-; qstr_You_want_to_send_a_g|You want to send a gift of rings, bracelets and other jewelry valued at 2000 peningas to {s9}, with the intention of improving your relationship.
-; qstr_You_want_to_invite_{|You want to invite {s9} to make an alliance with you.
-; qstr_You_want_to_make_pea|You want to make peace with {s9}.
-; qstr_You_want_to_declare_|You want to declare war on {s9}. Remember that declaring a war without bad relations can cause other realms discomfort with and mistrust of you, especially if your kingdom has a truce or alliance with the other kingdom.
-; qstr_No_message_chosen.|No message chosen.
-; qstr_>_You_are_sending_a_|> You are sending a message to {s9}^^> Distance: {reg2} km.^^> Messenger services will cost {reg3} peningas.^^^> {s10}
-; qstr_You_have_not_chosen_|You have not chosen a message to send.
-; qstr_This_place_is_alread|This place is already besieged by another realm.
-; qstr_You_have_good_relati|You have good relations with this kingdom. Your lord won't attack it.
-; qstr_You_re_already_at_pe|You're already at peace with this kingdom. It isn't necessary to send a messenger.
-; qstr_You_need_to_improve_|You need to improve your relationship with this kingdom before proposing an alliance.
-; qstr_You_already_have_an_|You already have an alliance with this kingdom. Wait until the current alliance finishes before you send your petition.
-; qstr_You_are_already_at_w|You are already at war with this kingdom.
-; qstr_You_do_not_have_the_n|You do not have the needed peningas to pay to messenger.
-; qstr_This_is_a_hardcore_m|This is a hardcore mode of Invasion.^^Respawn is possible only at the start of the round.
-; qstr_Please_wait.^Player_|Please wait.^Player respawn will be possible {reg11?after {reg10} rounds:next round}.
-; qstr_Send_message_to_othe|Send message to other ADMINS:
-; qstr_Broadcast_message_to|Broadcast message to all players:
-; qstr_*ADMIN*:_{s0}|*ADMIN*: {s0}
-; qstr_*ADMIN*:|*ADMIN*:
-; qstr_Reset_map|Reset map
-; qstr_Slay_all_horses|Slay all horses
-; qstr_Slay_all_bots|Slay all bots
-; qstr_Slay_player|Slay player
-; qstr_Heal_player|Heal player
-; qstr_Refill_player_s_ammo|Refill player's ammo
-; qstr_Fix_player_s_shield|Fix player's shield
-; qstr_Change_player_s_team|Change player's team
-; qstr_Make_player_a_specta|Make player a spectator
-; qstr_Give_player_Thor_s_H|Give player Thor's Hammer
-; qstr_Beacon_a_player|Beacon a player
-; qstr_Teleport_to_player|Teleport to player
-; qstr_Teleport_a_player_to|Teleport a player to me
-; qstr_Make_player_immortal|Make player immortal
-; qstr_Make_player_mortal_a|Make player mortal again
-; qstr_Force_Master_of_the_|Force Master of the Field
-; qstr_Only_available_in_Ba|Only available in Battle game mode!
-; qstr_You_are_the_Thor_s_C|You are the Thor's Champion
-; qstr_Kill_as_many_opponen|Kill as many opponents as you can
-; qstr_Kill|Kill
-; qstr_You_are_Thor_s_champ|You are Thor's champion
-; qstr_You_are_the_captain_|You are the captain of this ship
-; qstr_Controls:_arrow_keys|Controls: arrow keys, Enter
+qstr_You_do_not_have_enou|Você não tem dinheiro suficiente para aumentar tanto sua equipe. Por favor, reduza o número de pessoas para contratar!
+qstr_The_abbot_sends_for_|O abade envia para todas as partes vir à capela, para que você possa ouvir todos os lados da história. ^ ^ De sua parte, você aproveita o tempo de espera para observar o trabalho dos escribas, textos ornamentados com ouro.
+qstr_fort|Fort
+qstr_town|Cidade
+qstr_village|Vila
+qstr_Infiltration|Infiltração
+qstr_A_good_way_to_hasten|Uma boa maneira de acelerar a queda do s2 {} é infiltrar-se com um grupo de homens para danificar as defesas, estoques de alimentos, abastecimento de água ou lealdade dos defensores. É uma manobra difícil e arriscada, quase suicida. Os que você mandar terão baixas chances de retorno, mas se forem bem-sucedidos, eles podem causar grandes danos ao inimigo. Eles precisam de 600 peningas para seus problemas. Que tipo de sabotagem você gostaria para causar?
+qstr_Poison_the_{s2}_s_wa|Envenenar o abastecimento de água de {s2}.
+qstr___Kill_the_{s2}_s_ca|  Matar o gado de {s2}  
+qstr_Burn_the_{s2}_s_food|Queimar os estoques de alimentos de {s2}.
+qstr_Subvert_the_{s2}_s_d|Subverter os defensores de {s2}.
+qstr_____|    .
+qstr_A_group_of_chosen_me|Será enviado um grupo de homens escolhidos para envenenar o abastecimento de água.
+qstr_A_group_of_chosen_men|Um grupo de homens escolhidos será enviado para matar o gado.
+qstr_A_group_of_chosen_men_|Será enviado um grupo de homens escolhidos para queimar os celeiros.
+qstr_A_group_of_chosen_men_w|Será enviado um grupo de homens escolhidos para subverter os defensores.
+qstr_You_do_not_have_the_|Você não tem os 600 peningas pra pagar por esta missão.
+qstr_{s1}_of_the_{s2}|{s1} de {s2}
+qstr_Send|Enviar
+qstr_You_are_hiring_a_mes|Você está contratando um mensageiro... ^ Você pode fazer três tipos de coisas com uma mensagem: dar Ordens, alterar as Relações e fazer Diplomacia.
+qstr_Message_Type:|Tipo de Mensagem:
+qstr_Select_a_Place_for_y|Selecione um Local para as suas ordens:
+qstr_>>_Orders:^_You_cann|>> Ordens: ^ Você não pode dar ordens a um Lorde que não pertença a seu Reino.
+qstr_Orders:_None.|Ordens: Nenhuma.
+qstr_Orders:_Meet_and_Fol|Ordens: Encontrar e Seguir Você.
+qstr_Orders:_Go_to_a_Plac|Ordens: Ir a um Lugar.
+qstr_Orders:_Patrol_an_Ar|Ordens: Patrulhar uma Área.
+qstr_Orders:_Besiege_a_Pl|Ordens: Sitiar um Lugar.
+qstr_>>_Relations:^This_l|>> Relações: ^ Este Lorde pertence ao seu Reino.
+qstr_Relations:_None.|Relações: Nenhuma.
+qstr_Relations:_Insult_an|Relações: Insultar e Provocar.
+qstr_Relations:_Send_a_Gi|Relações: Enviar um Presente.
+qstr_>>Diplomacy:^It_is_o|>> Diplomacia: ^ Só é possível negociar entre os líderes de facções. ^ Você não é um Rei.
+qstr_>>Diplomacy:^It_is_on|>> Diplomacia: ^ Só é possível negociar entre os líderes de facções. ^ {s1} não é um Rei.
+qstr_Diplomacy:_None.|Diplomacia: Nenhuma.
+qstr_Diplomacy:_Suggest_a|Diplomacia: Sugerir uma Aliança.
+qstr_Diplomacy:_Suggest_P|Diplomacia: Sugerir Paz.
+qstr_Diplomacy:_Declare_W|Diplomacia: Declarar Guerra.
+qstr_You_want_to_order_{s|Você quer ordenar {s9} a encontrar e seguir você.
+qstr_You_want_to_order_{s9|Você quer ordenar {s9} a ir para...
+qstr_You_want_to_order_{s9}|Você quer ordenar {s9} a patrulhar em torno de...
+qstr_You_want_to_order_{s9}_|Você quer ordenar {s9} a sitiar...
+qstr_You_want_to_send_a_m|Você quer enviar uma mensagem para insultar e provocar {s9}. Talvez isto o fará atacá-lo.
+qstr_You_want_to_send_a_g|Você quer enviar um presente de anéis, braceletes e outras jóias avaliado em 2000 peningas para {s9}, com a intenção de melhorar seu relacionamento.
+qstr_You_want_to_invite_{|Você quer convidar {s9} a fazer uma aliança com você.
+qstr_You_want_to_make_pea|Você quer fazer paz com {s9}.
+qstr_You_want_to_declare_|Você quer declarar guerra a {s9}. Lembre-se que declarar uma guerra sem relações ruins pode causar desconforto e desconfiança de outros Reinos em relação a você, especialmente se seu Reino tem uma trégua ou aliança com o outro Reino.
+qstr_No_message_chosen.|Nenhuma mensagem escolhida.
+qstr_>_You_are_sending_a_|&gt; Você está enviando uma mensagem para {s9} ^^ > Distância: {reg2} km ^ ^ > Serviços de mensageiro custarão {reg3} peningas... ^ ^ ^ > {s10}
+qstr_You_have_not_chosen_|Você não escolheu uma mensagem para enviar.
+qstr_This_place_is_alread|Este lugar já está sitiado por outro Reino.
+qstr_You_have_good_relati|Você tem boas relações com esse Reino. Seu Lorde não irá atacá-lo.
+qstr_You_re_already_at_pe|Você já está em paz com este Reino. Não é necessário enviar um mensageiro.
+qstr_You_need_to_improve_|Você precisa melhorar seu relacionamento com este Reino antes de propôr uma aliança.
+qstr_You_already_have_an_|Você já tem uma aliança com este Reino. Espere até que a aliança atual termine antes de enviar sua petição.
+qstr_You_are_already_at_w|Você já está em guerra com este Reino.
+qstr_You_do_not_have_the_n|Você não tem peningas necessárias para pagar ao mensageiro.
+qstr_This_is_a_hardcore_m|Este é um modo hardcore de Invasão... ^ ^ Reaparecimento é possível apenas no início da rodada.
+qstr_Please_wait.^Player_|Por favor espere. ^ Reaparecimento de jogador será possível {reg11? após {reg10} rodadas: próxima rodada}.
+qstr_Send_message_to_othe|Enviar mensagem para outros ADMINS:
+qstr_Broadcast_message_to|Transmitir mensagem a todos os jogadores:
+qstr_*ADMIN*:_{s0}|* ADMIN *: {s0}
+qstr_*ADMIN*:|* ADMIN *:
+qstr_Reset_map|Redefinir Mapa
+qstr_Slay_all_horses|Matar todos os cavalos
+qstr_Slay_all_bots|Matar todos os bots
+qstr_Slay_player|Matar jogador
+qstr_Heal_player|Curar jogador
+qstr_Refill_player_s_ammo|Recarregar munição do jogador
+qstr_Fix_player_s_shield|Consertar escudo do jogador
+qstr_Change_player_s_team|Mudar equipe do jogador
+qstr_Make_player_a_specta|Tornar jogador um espectador
+qstr_Give_player_Thor_s_H|Dar o Martelo de Thor ao jogador
+qstr_Beacon_a_player|Sinalizar um jogador
+qstr_Teleport_to_player|Teleportar para jogador
+qstr_Teleport_a_player_to|Teleportar um jogador a mim
+qstr_Make_player_immortal|Tornar jogador imortal
+qstr_Make_player_mortal_a|Tornar jogador mortal novamente
+qstr_Force_Master_of_the_|Forçar Mestre do Campo
+qstr_Only_available_in_Ba|Disponível apenas no modo de jogo de Batalha!
+qstr_You_are_the_Thor_s_C|Você é O Campeão de Thor
+qstr_Kill_as_many_opponen|Mate quantos adversários você poder
+qstr_Kill|Mate
+qstr_You_are_Thor_s_champ|Você é campeão de Thor
+qstr_You_are_the_captain_|Você é o capitão deste navio
+qstr_Controls:_arrow_keys|Controles: teclas de seta, Enter
 qstr_Ship_Captain|Capitão de Navio
-; qstr_Change_game_type_to:|Change game type to:
-; qstr_Send_Poll|Send Poll
-; qstr_Choose_a_colour_for_|Choose a colour for your kingdom!
-; qstr_Red|Red
-; qstr_Green|Green
-; qstr_Blue|Blue
+qstr_Change_game_type_to:|Alterar tipo de jogo para:
+qstr_Send_Poll|Enviar votação
+qstr_Choose_a_colour_for_|Escolha uma cor para o seu Reino!
+qstr_Red|Vermelho
+qstr_Green|Verde
+qstr_Blue|Azul
 qstr__..=."."
-; qstr_{reg11}_{reg12}_{reg|{reg11}, {reg12}, {reg13}
-; qstr_Head_of_cattle_to_ta|Head of cattle to take (max {reg22}):
-; qstr_Cattle_is_{reg33}_va|Cattle is {reg33}, value is {reg34}
-; qstr_Create_a_new_goal:|Create a new goal:
-; qstr__You_can_select_a_cu|(You can select a custom goal or one of^the templates below for a reward!)
-; qstr_Let_me_choose!|Let me choose!
-; qstr_{s0}:|{s0}:
-; qstr_Army_size:|Army size:
-; qstr_Marry_a_{reg59?lord:|Marry a {reg59?lord:lady}:
-; qstr_Right_to_rule:|Right to rule:
-; qstr_Wealth:|Wealth:
-; qstr__You_need_to_choose^|(You need to choose^a goal first!)
+qstr_{reg11}_{reg12}_{reg|{reg11}, {reg12}, {reg13}
+qstr_Head_of_cattle_to_ta|Cabeças de gado a levar (max {reg22}):
+qstr_Cattle_is_{reg33}_va|Gado é {reg33}, o valor é {reg34}
+qstr_Create_a_new_goal:|Criar uma nova meta:
+qstr__You_can_select_a_cu|(Você pode selecionar uma meta personalizada ou um ^ dos modelos abaixo para uma recompensa!)
+qstr_Let_me_choose!|Deixe-me escolher!
+qstr_{s0}:|{s0}:
+qstr_Army_size:|Tamanho do Exército:
+qstr_Marry_a_{reg59?lord:|Casar com {reg59?Lorde:Lady}:
+qstr_Right_to_rule:|Direito de Governar:
+qstr_Wealth:|Riqueza:
+qstr__You_need_to_choose^|(Você precisa escolher ^ um objetivo primeiro!)
 qstr_Yes|Sim
 qstr_No|Não
-; qstr_Custom_Goal__no_rewa|Custom Goal (no reward)
-; qstr__You_are_a_king_alre|(You are a king already!)
-; qstr__You_need_to_be_the_|(You need to be the ruler^of your faction first!)
-; qstr_{reg1}_{reg2}|{reg1}, {reg2}
-; qstr_New_Goal|New Goal
-; qstr_Current_Goal:_{s1}|Current Goal: {s1}
+qstr_Custom_Goal__no_rewa|Objetivo Personalizado (sem recompensa)
+qstr__You_are_a_king_alre|(Você já é um Rei!)
+qstr__You_need_to_be_the_|(Você precisa ser o governante ^ de sua facção primeiro!)
+qstr_{reg1}_{reg2}|{reg1}, {reg2}
+qstr_New_Goal|Novo Objetivo
+qstr_Current_Goal:_{s1}|Objetivo Atual: {s1}
 qstr_Troops:|Tropas:
-; qstr_Marry:|Marry:
-; qstr_Wealth|Wealth
-; qstr_{s3}^_______________|{s3}^-------------------------------^
-; qstr_{s1}^{s2}^|{s1}^{s2}^
-; qstr_^{s1}|^{s1}
-; qstr_{s30}XXXXXXXXXX^|{s30}XXXXXXXXXX^
-; qstr_Content_update_appli|Content update applied to the save game.
-; qstr_{s0}^>_{s1}__{s2}__{|{s0}^> {s1}, '{s2}', {s3}, {s4}
-; qstr_{s1}_has_entered_tra|{s1} has entered trance!
-; qstr_{s1}_has_become_unco|{s1} has become uncontrollable!
-; qstr_{s1}_is_getting_exha|{s1} is getting exhausted after the rage.
-; qstr_{s1}_back_to_normal!|{s1} back to normal!
+qstr_Marry:|Casar:
+qstr_Wealth|Riqueza
+qstr_{s3}^_______________|{s3}^-------------------------------^
+qstr_{s1}^{s2}^|{s1} ^ {s2} ^
+qstr_^{s1}|^{s1}
+qstr_{s30}XXXXXXXXXX^|{s30} XXXXXXXXXX ^
+qstr_Content_update_appli|Atualização de conteúdo aplicada ao Jogo Salvo. 
+qstr_{s0}^>_{s1}__{s2}__{|{s0} ^ > {s1}, '{s2}', {s3}, {s4}
+qstr_{s1}_has_entered_tra|{s1} entrou em transe!
+qstr_{s1}_has_become_unco|{s1} tornou-se incontrolável!
+qstr_{s1}_is_getting_exha|{s1} está ficando exausto após a fúria.
+qstr_{s1}_back_to_normal!|{s1} voltou ao normal!
 qstr_Manage_this_village.|Gerenciar esse vilarejo.
-; qstr_Recruit_volunteers.|Recruit volunteers.
+qstr_Recruit_volunteers.|Recrutar voluntários.
 qstr_Go_to_the_village_ce|Ir ao centro do vilarejo.
-; qstr_Meet_the_leader.|Meet the leader.
-; qstr_Buy_supplies.|Buy supplies.
+qstr_Meet_the_leader.|Encontrar o líder.
+qstr_Buy_supplies.|Compre mantimentos.
 qstr_Attack_the_bandits.|Atacar os bandidos.
 qstr_Wait_here_for_some_t|Esperar aqui por algum tempo.
-; qstr_{reg5?Continue_colle|{reg5?Continue collecting taxes:Collect taxes}.
+qstr_{reg5?Continue_colle|{reg5? Continuar coletando impostos: coletar impostos}.
 qstr_Train_the_peasants.|Treinar os aldeões.
 qstr_Take_an_action.|Tome uma ação.
 qstr_Leave...|Sair...
-; qstr_You_need_to_obtain_p|You need to obtain permission from the leader in this village to recruit here.
-; qstr___Symbel_| (Symbel)
-; qstr_Join_the_competition|Join the competitions.
-; qstr_Stroll_through_town.|Stroll through town.
-; qstr_Meet_the_mayor.|Meet the mayor.
-; qstr_Mead_hall__hire_men_|Mead hall (hire men).
-; qstr_Visit_the_mead_hall.|Visit the mead hall.
+qstr_You_need_to_obtain_p|Você precisa obter permissão do líder nesta vila para recrutar aqui.
+qstr___Symbel_| (Symbel)
+qstr_Join_the_competition|Juntar-se às competições.
+qstr_Stroll_through_town.|Passear pela cidade.
+qstr_Meet_the_mayor.|Encontrar o prefeito.
+qstr_Mead_hall__hire_men_|Salão de Hidromel (contratar homens).
+qstr_Visit_the_mead_hall.|Visitar o Salão de Hidromel.
 qstr_Speak_with_the_merch|Falar com o comerciante.
-; qstr_Visit_the_training_g|Visit the training grounds.
+qstr_Visit_the_training_g|Visitar os campos de treinamento.
 qstr_Never:_Enter_the_pri|Nunca: Entre na prisão
-; qstr_Tour_the_grounds.|Tour the grounds.
-; qstr_Visit_your_farmstead|Visit your farmstead.
-; qstr_Attempt_to_visit_a_l|Attempt to visit a lady.
-; qstr_Trade_with_locals.|Trade with locals.
-; qstr_Travel_to_another_Po|Travel to another Port.
-; qstr_Manage_this_{reg0?to|Manage this {reg0?town:fort}.
+qstr_Tour_the_grounds.|Visitar o terreno.
+qstr_Visit_your_farmstead|Visitar sua chácara.
+qstr_Attempt_to_visit_a_l|Tentar visitar uma Lady.
+qstr_Trade_with_locals.|Fazer comércio com habitantes locais.
+qstr_Travel_to_another_Po|Viajar para outro Porto.
+qstr_Manage_this_{reg0?to|Gerenciar esta {reg0?Cidade:Fortaleza}.
 qstr_Move_your_court_here|Mudar sua corte para cá.
-; qstr_Manage_the_garrison.|Manage the garrison.
-; qstr___{reg1}_peningas_pe| ({reg1} peningas per night)
-; qstr___1_pening_per_night| (1 pening per night)
-; qstr_Ask_for_potential_re|Ask for potential recruits.
-; qstr_See_the_ships.|See the ships.
-; qstr_Symbel_for_your_men.|Symbel for your men.
-; qstr_Sail_from_port.|Sail from port.
-; qstr_You_have_lost_the_tr|You have lost the traders because you landed without them.
-; qstr_You_have_lost_the_tra|You have lost the traders because you embarked without them.
-; qstr_vWaveInfo|vWaveInfo
-; qstr_vWaveOrigin|vWaveOrigin
-; qstr_vTimer|vTimer
-; qstr_Wank_ERROR!|Wank ERROR!
-; qstr_SHIP_{reg8}_ERROR:_g|SHIP {reg8} ERROR: gtbws not the same!
-; qstr_Port_of_{s1}|Port of {s1}
-; qstr_vSeason|vSeason
-; qstr_vWindStrength|vWindStrength
-; qstr_vWindDirection|vWindDirection
-; qstr_Refill_Supplies|Refill Supplies
-; qstr_Refill_Stones|Refill Stones
-; qstr_{s1}_of_the_{s3}_was|{s1} of the {s3} was defeated in battle but managed to escape.
-; qstr_{s49}{s12}|{s49}{s12}
-; qstr_Trying_to_improve_yo|Trying to improve your relations with {s44}
-; qstr_Is_imprisoned_in_the|Is imprisoned in the dungeon of {s44}
-; qstr_{s54}_is_a_claimant_|{s54} is a claimant to the throne of the {s56}.
+qstr_Manage_the_garrison.|Gerenciar a guarnição.
+qstr___{reg1}_peningas_pe| ({reg1} peningas por noite)
+qstr___1_pening_per_night| (1 pening por noite)
+qstr_Ask_for_potential_re|Perguntar por potenciais recrutas.
+qstr_See_the_ships.|Ver os navios.
+qstr_Symbel_for_your_men.|Symbel para seus homens.
+qstr_Sail_from_port.|Velejar a partir do Porto.
+qstr_You_have_lost_the_tr|Você perdeu os comerciantes porque você atracou sem eles.
+qstr_You_have_lost_the_tra|Você perdeu os comerciantes porque você embarcou sem eles.
+qstr_vWaveInfo|v Info de Onda
+qstr_vWaveOrigin|vOrigem de Onda
+qstr_vTimer|vTemporizador
+qstr_Wank_ERROR!|ERRO de wank!
+qstr_SHIP_{reg8}_ERROR:_g|ERRO de NAVIO {reg8}: gtbws não é o mesmo!
+qstr_Port_of_{s1}|Porto de {s1}
+qstr_vSeason|vEstação
+qstr_vWindStrength|vForça do Vento
+qstr_vWindDirection|vDireção do Vento
+qstr_Refill_Supplies|Reabastecer Suprimentos
+qstr_Refill_Stones|Reabastecer Pedras
+qstr_{s1}_of_the_{s3}_was|{s1} de {s3} foi derrotado em batalha, mas conseguiu escapar.
+qstr_{s49}{s12}|{s49} {s12}
+qstr_Trying_to_improve_yo|Tentando melhorar suas relações com {s44}
+qstr_Is_imprisoned_in_the|Está preso no calabouço de {s44}
+qstr_{s54}_is_a_claimant_|{s54} é pretendente ao trono de {s56}.
 qstr_nowhere|lugar algum
 qstr_{s57}_and_{s58}|{s57} e {s58}
 qstr_{reg3?She:He}|{reg3?Ela:Ele}
-; qstr_The_town_of_{s50}|The town of {s50}
-; qstr_The_village_of_{s50}|The village of {s50} near {s52}
-; qstr_{s51}_belongs_to_{s1|{s51} belongs to {s1} of the {s2}.^
-; qstr_{s7}_and_{s8}|{s7} and {s8}
-; qstr_{s2}It_has_no_villag|{s2}It has no villages.^
-; qstr_{s2}{reg0?Its_villag|{s2}{reg0?Its villages are:Its village is} {s8}.^
-; qstr_{s2}Its_prosperity_i|{s2}Its prosperity is: {s50}.
-; qstr_{s9}_and_{s10}|{s9} and {s10}
-; qstr_{s12}{s14}|{s12}{s14}
-; qstr_{s12}_{s14}|{s12}, {s14}
-; qstr_{s11}{s14}|{s11}{s14}
-; qstr_{s11}_{s14}|{s11}, {s14}
-; qstr_{s13}{s14}|{s13}{s14}
-; qstr_{s13}_{s14}|{s13}, {s14}
-; qstr_{s21}._The_{s8}_decl|{s21}. The {s8} declared war to fulfil an alliance.
-; qstr_No_wars!|No wars!
-; qstr_At_war_with__{reg1}_|At war with ({reg1}): {s12}
-; qstr_No_allies!|No allies!
-; qstr_Alliances__{reg2}___|Alliances ({reg2})  : {s11}
-; qstr_No_casus_belli!|No casus belli!
-; qstr_Casus_belli____{reg3|Casus belli   ({reg3}): {s13}
-; qstr_{s12}^{s11}^{s13}^^{|{s12}^{s11}^{s13}^^{s21}
-; qstr_^___________________|^-------------------------------------------------------------------------------^{s1}^{s21}
-; qstr_The_{s5}_has_been_de|The {s5} has been defeated!
-; qstr_{s7}_opened_the_gate|{s7} opened the gate.
-; qstr_{s7}_closed_the_gate|{s7} closed the gate.
-; qstr_You_have_received_{r|You have received {reg5} critical damage!
-; qstr_You_have_dealt_{reg5|You have dealt {reg5} critical damage!
-; qstr_You_have_received_{re|You have received {reg5} critical damage to your head and lose vision for a second!
-; qstr_You_unleash_your_bat|You unleash your battle rage!
-; qstr_You_feel_exhausted_a|You feel exhausted after the rage.
-; qstr_Your_strength_is_bac|Your strength is back.
-; qstr_You_are_too_exhauste|You are too exhausted to go into a battle rage.
-; qstr_The_sound_of_your_si|The sound of your side's horn makes you feel stronger!
-; qstr_The_sound_of_the_ene|The sound of the enemy's horn makes you feel doubtful.
-; qstr_You_are_no_longer_af|You are no longer affected by having heard the horn.
-; qstr_{reg1}_ally_troops_w|{reg1} ally troops were affected by your horn!
-; qstr_No_ally_troops_were_|No ally troops were affected by your horn.
-; qstr_You_need_to_catch_yo|You need to catch your breath before blowing the horn again.
-; qstr_Your_supplies_are_re|Your supplies are replenished.
-; qstr_All_stray_horses_wer|All stray horses were slain by an admin
-; qstr_AI_warriors_were_sla|AI warriors were slain by an admin
-; qstr_All_players_were_sla|All players were slain by an admin
-; qstr_Player__{s1}__was_sl|Player '{s1}' was slain by an admin
-; qstr_Admin_made_all_playe|Admin made all players immortal
-; qstr_Admin_made_all_player|Admin made all players mortal
-; qstr_All_players_were_hea|All players were healed by an admin
-; qstr_Admin_refilled_ammo_|Admin refilled ammo of all players
-; qstr_Admin_fixed_shields_|Admin fixed shields of all players
-; qstr_Player__{s1}__was_he|Player '{s1}' was healed by an admin
-; qstr_Admin_refilled_ammo_o|Admin refilled ammo of player '{s1}'
-; qstr_Admin_fixed_shield_o|Admin fixed shield of player '{s1}'
-; qstr_Admin_made_player__{|Admin made player '{s1}' {reg1?im:}mortal
-; qstr_Teams_have_been_swit|Teams have been switched by an admin
-; qstr_Player__{s1}__was_sw|Player '{s1}' was switched to the other team by an admin
-; qstr_All_players_were_tur|All players were turned into spectators by an admin
-; qstr_Player__{s1}__was_tu|Player '{s1}' was turned into spectator by an admin
-; qstr_{s1}_received_a_Thor|{s1} received a Thor's Hammer from an admin
-; qstr_*ADMIN_CHAT*_[{s1}]:|*ADMIN CHAT* [{s1}]: {s0}
-; qstr_Grants_+{reg1}_to_pa|Grants +{reg1} to party morale
-; qstr_Increases_morale_dur|Increases morale during battle
-; qstr_Heavy_Armour:_you_su|Heavy Armour: you suffer high penalties for certain skills.
-; qstr_Medium_Armour:_you_s|Medium Armour: you suffer penalties for certain skills.
-; qstr_Heavy_Equipment:_you|Heavy Equipment: you suffer penalties for certain skills.
-; qstr_Ritual_Equipment:_Ad|Ritual Equipment: Advantages in certain skills
-; qstr_Improves_leadership_|Improves leadership and persuasion.
-; qstr_Requires_{reg1}_inte|Requires {reg1} intelligence to read
-; qstr_Reading_Progress:_{r|Reading Progress: {reg1}%
-; qstr_wound_treatment|wound treatment
-; qstr_trainer|trainer
-; qstr_surgery|surgery
-; qstr_persuasion|persuasion
-; qstr_Gives_+1_to_{s1}_whi|Gives +1 to {s1} while in inventory
-; qstr_Special_Attire:_Bonu|Special Attire: Bonus in certain skills
-; qstr_Bonus_to_movement_sp|Bonus to movement speed
-; qstr_Move_here|Move here
-; qstr_View_notes|View notes
-; qstr_Accompany|Accompany
-; qstr_Find_landing_point|Find landing point
-; qstr_killed|killed
-; qstr_wounded|wounded
-; qstr_{s0}^TOTAL:_{reg3}__|{s0}^TOTAL: {reg3} ({s2})
-; qstr_^{s0}|^{s0}
-; qstr_nothing|nothing
-; qstr_{reg0}_village{reg1?|{reg0} village{reg1?s:}
-; qstr_{reg0}_fort{reg1?s:}|{reg0} fort{reg1?s:}
-; qstr_{reg0}_fort{reg1?s:}_|{reg0} fort{reg1?s:} and {s0}
-; qstr_{reg0}_town{reg1?s:}|{reg0} town{reg1?s:}
-; qstr_{reg0}_town{reg1?s:}_|{reg0} town{reg1?s:} and {s0}
-; qstr_{reg0}_town{reg1?s:}_{|{reg0} town{reg1?s:}, {s0}
-; qstr_Your_opponents_are_r|Your opponents are ready for the fight.
-; qstr_Try_to_destroy_as_ma|Try to destroy as many targets as you can. You have two and a half minutes to clear the track.
-; qstr_Stay_behind_the_line|Stay behind the line on the ground and shoot the targets. Try not to waste any shots.
+qstr_The_town_of_{s50}|A cidade de {50}
+qstr_The_village_of_{s50}|A vila de {s50} perto de {s52}
+qstr_{s51}_belongs_to_{s1|{s51} pertence a {s1} de {s2}. ^
+qstr_{s7}_and_{s8}|{s7} e {s8}
+qstr_{s2}It_has_no_villag|{s2}Ela não possui vilas.^
+qstr_{s2}{reg0?Its_villag|{s2}{reg0?Suas vilas são:Sua vila é} {s8}.^
+qstr_{s2}Its_prosperity_i|{s2} Sua prosperidade é: {s50}.
+qstr_{s9}_and_{s10}|{s9} e {s10}
+qstr_{s12}{s14}|{s12} {s14}
+qstr_{s12}_{s14}|{s12}, {s14}
+qstr_{s11}{s14}|{s11} {s14}
+qstr_{s11}_{s14}|{s11}, {s14}
+qstr_{s13}{s14}|{s13} {s14}
+qstr_{s13}_{s14}|{s13}, {s14}
+qstr_{s21}._The_{s8}_decl|{s21}.  {s8} declarou guerra para cumprir uma aliança.
+qstr_No_wars!|Sem guerras!
+qstr_At_war_with__{reg1}_|Em guerra com ({reg1}): {s12}
+qstr_No_allies!|Sem aliados!
+qstr_Alliances__{reg2}___|Alianças ({reg2}): {s11}
+qstr_No_casus_belli!|Nenhum casus belli!
+qstr_Casus_belli____{reg3|Casus belli ({reg3}): {s13}
+qstr_{s12}^{s11}^{s13}^^{|{s12} ^ {s11} ^ {s13} ^^ {s21}
+qstr_^___________________|^-------------------------------------------------------------------------------^{s1}^{s21}
+qstr_The_{s5}_has_been_de| {s5} foi derrotado!
+qstr_{s7}_opened_the_gate|{s7} abriu o portão.
+qstr_{s7}_closed_the_gate|{s7} fechou o portão.
+qstr_You_have_received_{r|Você recebeu {reg5} de dano crítico!
+qstr_You_have_dealt_{reg5|Você causou {reg5} de dano crítico!
+qstr_You_have_received_{re|Você recebeu {reg5} de dano crítico na cabeça e perdeu sua visão por um segundo!
+qstr_You_unleash_your_bat|Você libera sua fúria de batalha!
+qstr_You_feel_exhausted_a|Você sente-se exausto após a fúria.
+qstr_Your_strength_is_bac|Sua força está de volta.
+qstr_You_are_too_exhauste|Você está exausto demais para entrar em fúria de batalha.
+qstr_The_sound_of_your_si|O som da corneta do seu lado te faz se sentir mais forte!
+qstr_The_sound_of_the_ene|O som da corneta inimiga te faz se sentir duvidoso.
+qstr_You_are_no_longer_af|Você já não é afetado por ter ouvido a corneta.
+qstr_{reg1}_ally_troops_w|{reg1} tropas aliadas foram afetadas pela sua corneta!
+qstr_No_ally_troops_were_|Nenhuma tropa aliado foi afetada pela sua corneta.
+qstr_You_need_to_catch_yo|Você precisa recuperar o fôlego antes de soprar a corneta novamente.
+qstr_Your_supplies_are_re|Seus suprimentos são reabastecidos.
+qstr_All_stray_horses_wer|Todos os cavalos dispersos foram mortos por um admin
+qstr_AI_warriors_were_sla|Guerreiros de IA foram mortos por um admin
+qstr_All_players_were_sla|Todos os jogadores foram mortos por um admin
+qstr_Player__{s1}__was_sl|Jogador '{s1}' foi morto por um administrador
+qstr_Admin_made_all_playe|Admin tornou todos os jogadores imortais
+qstr_Admin_made_all_player|Admin tornou todos os jogadores mortais
+qstr_All_players_were_hea|Todos os jogadores foram curados por um admin
+qstr_Admin_refilled_ammo_|Admin recarregou munição de todos os jogadores
+qstr_Admin_fixed_shields_|Admin reparou escudos de todos os jogadores
+qstr_Player__{s1}__was_he|Jogador '{s1}' foi curado por um administrador
+qstr_Admin_refilled_ammo_o|Admin recarregou munição do jogador '{s1}'
+qstr_Admin_fixed_shield_o|Admin reparou escudo do jogador '{s1}'
+qstr_Admin_made_player__{|Admin tornou jogador '{s1}' {reg1? im:} mortal
+qstr_Teams_have_been_swit|Equipes foram trocadas por um admin
+qstr_Player__{s1}__was_sw|Jogador '{s1}' foi mudado para outra equipe por um admin
+qstr_All_players_were_tur|Todos os jogadores foram transformados em espectadores por um admin
+qstr_Player__{s1}__was_tu|Jogador '{s1}' foi transformado em espectador por um administrador
+qstr_{s1}_received_a_Thor|{s1} recebeu um Martelo de Thor de um administrador
+qstr_*ADMIN_CHAT*_[{s1}]:|* ADMIN * CHAT [{s1}]: {s0}
+qstr_Grants_+{reg1}_to_pa|Concede + {reg1} para a moral da tropa
+qstr_Increases_morale_dur|Aumenta a moral durante a batalha
+qstr_Heavy_Armour:_you_su|Armadura Pesada: você sofre penalidades altas para certas Habilidades.
+qstr_Medium_Armour:_you_s|Armadura Média: você sofre penalidades para certas Habilidades.
+qstr_Heavy_Equipment:_you|Equipamento Pesado: você sofre penalidades para certas Habilidades.
+qstr_Ritual_Equipment:_Ad|Equipamentos de Ritual: Vantagens em certas Habilidades
+qstr_Improves_leadership_|Melhora  Liderança e Persuasão.
+qstr_Requires_{reg1}_inte|Precisa de {reg1} pontos de Inteligência para ler
+qstr_Reading_Progress:_{r|Progresso da Leitura: {reg1}%
+qstr_wound_treatment|Tratamento de Feridas
+qstr_trainer|treinador
+qstr_surgery|cirurgia
+qstr_persuasion|Persuasão
+qstr_Gives_+1_to_{s1}_whi|Dá +1 de {s1} enquanto no inventário
+qstr_Special_Attire:_Bonu|Trajes Especiais: Bônus em certas Habilidades
+qstr_Bonus_to_movement_sp|Bônus em Velocidade de Movimento
+qstr_Move_here|Mover aqui
+qstr_View_notes|Ver notas
+qstr_Accompany|Acompanhar
+qstr_Find_landing_point|Encontrar ponto de desembarque
+qstr_killed|mortos
+qstr_wounded|feridos
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^TOTAL: {reg3} ({s2})
+qstr_^{s0}|^ {s0}
+qstr_nothing|nada
+qstr_{reg0}_village{reg1?|{reg0} vlia{reg1?s:}
+qstr_{reg0}_fort{reg1?s:}|{reg0} Fortaleza {reg1? s:}
+qstr_{reg0}_fort{reg1?s:}_| {reg0} fortaleza {reg1? s:} e {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0} cidade{reg1?s:}
+qstr_{reg0}_town{reg1?s:}_|{reg0} cidade{reg1?s:} e {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0} cidade{reg1?s:}, {s0}
+qstr_Your_opponents_are_r|Seus oponentes estão prontos para a luta.
+qstr_Try_to_destroy_as_ma|Tente destruir o máximo de alvos que puder. Você tem 2 minutos e meio para limpar a pista
+qstr_Stay_behind_the_line|Fique atrás da linha no chão e atire nos alvos. Tente não errar.
 ; qstr_Garrison_Troops|Garrison Troops
 ; qstr_Camp_Troops|Camp Troops
 ; qstr_Refuge_Troops|Refuge Troops
-; qstr_Battle_Advantage_=_{|Battle Advantage = {reg0}.
-; qstr_{s9}_wants_you_to_re|{s9} wants you to resume following his army until further notice.
-; qstr__Being_Raided_|(Being Raided)
-; qstr__Looted_|(Looted)
-; qstr__Under_Siege_|(Under Siege)
-; qstr_The_village_of_{s1}_|The village of {s1} has been looted by {s2}.
-; qstr_{s3}_is_no_longer_un|{s3} is no longer under siege.
-; qstr_Small_bands_of_enemi|Small bands of enemies have been spotted near {s1}.
-; qstr_Enemy_patrols_have_b|Enemy patrols have been spotted near {s1}.
-; qstr_A_medium_sized_group|A medium-sized group of enemies has been spotted near {s1}.
-; qstr_A_significant_group_|A significant group of enemies has been spotted near {s1}.
-; qstr_An_army_of_enemies_h|An army of enemies has been spotted near {s1}.
-; qstr_A_large_army_of_enem|A large army of enemies has been spotted near {s1}.
-; qstr_A_great_host_of_enem|A great host of enemies has been spotted near {s1}.
-; qstr_{s1}_has_been_besieg|{s1} has been besieged by {s2} of the {s3}.
-; qstr__{s1}__{s11}:_{s14}|({s1}) {s11}: {s14}
-; qstr_{s14}__{s21}_|{s14} ({s21})
+qstr_Battle_Advantage_=_{|Vantagem de Batalha = {reg0}.
+qstr_{s9}_wants_you_to_re|{s9} quer que você continue seguindo o exército dele até segunda ordem.
+qstr__Being_Raided_|(Sendo Devastada)
+qstr__Looted_|(Pilhada)
+qstr__Under_Siege_|(Sob Cerco)
+qstr_The_village_of_{s1}_|A vila de {s1} foi pilhada por {s2}.
+qstr_{s3}_is_no_longer_un|{s3} não está mais sob cerco.
+qstr_Small_bands_of_enemi|Pequenos grupos de inimigos foram vistos perto de {s1}.
+qstr_Enemy_patrols_have_b|Patrulhas inimigas foram vistas perto de {s1}.
+qstr_A_medium_sized_group|Um grupo médio de inimigos foi visto perto de {s1}.
+qstr_A_significant_group_|Um grupo significativo de inimigos foi visto perto de {s1}.
+qstr_An_army_of_enemies_h|Um exército de inimigos foi visto perto de {s1}.
+qstr_A_large_army_of_enem|Um grande exército de inimigos foi visto perto de {s1}.
+qstr_A_great_host_of_enem|Uma grande tropa de inimigos foi vista perto de {s1}.
+qstr_{s1}_has_been_besieg|{s1} foi sitiada por {s2} de {s3}.
+qstr__{s1}__{s11}:_{s14}|({s1}) {s11}: {s14}
+qstr_{s14}__{s21}_|{s14} ({s21})
 ; qstr_Feast_concludes|Feast concludes
-; qstr_{s1}_is_the_new_mars|{s1} is the new marshal of the {s2}.
-; qstr_You_gain_{reg12}_ren|You gain {reg12} renown.
-; qstr_You_lose_{reg12}_ren|You lose {reg12} renown.
-; qstr_Your_relation_with_{|Your relation with {s1} has improved.
-; qstr_Your_relation_with_{s|Your relation with {s1} has deteriorated.
-; qstr_You_gain_reputation.|You gain reputation.
-; qstr_You_lose_reputation.|You lose reputation.
-; qstr_Now_your_reputation_|Now your reputation is {reg1}
-; qstr_The_{s1}_has_declare|The {s1} has declared war against the {s2}.
-; qstr_The_{s15}_complies_w|The {s15} complies with its alliance with the {s17} by attacking the {s16}.
-; qstr_The_{s1}_and_the_{s2|The {s1} and the {s2} have made peace with each other.
-; qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?was:is currently} at {s3}.
-; qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?was:is} travelling to {s3}, and {reg4?she:he} {reg3?was:should be} close to {s4}{reg3?: at the moment}.
-; qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?was:is} in the field, and {reg4?she:he} {reg3?was:should be} close to {s3}{reg3?: at the moment}.
-; qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?was:is} being held captive at {s3}.
-; qstr_{s2}_{reg3?was:has_b|{s2} {reg3?was:has been} taken captive by {reg4?her:his} enemies.
-; qstr_I_don_t_know_where_{|I don't know where {s2} {reg3?was:is}.
-; qstr_{s2}_is_attacking_th|{s2} is attacking the Saxons.
-; qstr_{s2}_is_defending_th|{s2} is defending the kingdom of Ragnar's sons.
-; qstr_{s6}_has_joined_your|{s6} has joined your party.
-; qstr_You_now_owe_{reg2}_p|You now owe {reg2} peningas to {s1}.
-; qstr_Royal_guardian|Royal guardian
-; qstr_You_stand_to_gain_{r|You stand to gain {reg8} renown if you win this battle.
-; qstr_You_have_run_into_a_|You have run into a trap!
-; qstr_You_are_attacked_by_|You are attacked by a group of bandits!
-; qstr_Following|Following
+qstr_{s1}_is_the_new_mars|{s1} é o novo Marechal de {s2}.
+qstr_You_gain_{reg12}_ren|Você ganha {reg12} de Renome.
+qstr_You_lose_{reg12}_ren|Você perdeu {reg12} pontos de renome.
+qstr_Your_relation_with_{|Sua relação com {s1} melhorou.
+qstr_Your_relation_with_{s|Sua relação com {s1} deteriorou-se.
+qstr_You_gain_reputation.|Você ganha Reputação.
+qstr_You_lose_reputation.|Você perde Reputação.
+qstr_Now_your_reputation_|Agora sua Reputação é {reg1}
+qstr_The_{s1}_has_declare|{s1 } declarou guerra contra {s2}.
+qstr_The_{s15}_complies_w|{s15} cumpre com sua aliança com {s17 } atacando {s16}.
+qstr_The_{s1}_and_the_{s2|{s1} e {s2} fizeram paz entre si.
+qstr_{s2}_{reg3?was:is_cu|{s2} {reg3? esteve: está atualmente} em {s3}.
+qstr_{s2}_{reg3?was:is}_t|{s2} {reg3? esteve: está} viajando para {s3,} e {reg4?ela:ele} {reg3?esteve:deve estar} perto de {s4} {reg3?: no momento}.
+qstr_{s2}_{reg3?was:is}_i|{s2} {reg3? esteve:está} no campo, e {reg4?ele:ela} {reg3? esteve: deve estar} perto de {s3} {reg3?: no momento}.
+qstr_{s2}_{reg3?was:is}_b|{s2} {reg3? esteve:está} mantido em cativeiro em {s3}.
+qstr_{s2}_{reg3?was:has_b|{s2} {reg3?estava:foi} levado em cativeiro por {reg4? seus:seus} inimigos.
+qstr_I_don_t_know_where_{|Eu não sei onde {s2} {reg3? esteve: está}.
+qstr_{s2}_is_attacking_th|{s2} está atacando os Saxões.
+qstr_{s2}_is_defending_th|{s2} está defendendo o Reino dos filhos de Ragnar.
+qstr_{s6}_has_joined_your|{s6} juntou-se às suas tropas.
+qstr_You_now_owe_{reg2}_p|Você agora deve {reg2} peningas a {S1}.
+qstr_Royal_guardian|Guardião Real
+qstr_You_stand_to_gain_{r|Você ganhará {reg8} de Renome se vencer esta batalha.
+qstr_You_have_run_into_a_|Você caiu em uma armadilha!
+qstr_You_are_attacked_by_|Você é atacado por um grupo de bandidos!
+qstr_Following|Seguindo
 qstr_Holding|Segurando-se
-; qstr_Charging|Charging
-; qstr_Advancing|Advancing
-; qstr_Falling_Back|Falling Back
-; qstr_Standing_Closer|Standing Closer
-; qstr_Spreading_Out|Spreading Out
-; qstr_Standing|Standing
-; qstr_Retreating|Retreating
-; qstr_N/A|N/A
-; qstr_Free|Free
-; qstr_Any_Weapon|Any Weapon
-; qstr_Blunt_Weapons|Blunt Weapons
-; qstr_{s1}_Rebels|{s1} Rebels
-; qstr_Given_by:_{s62}|Given by: {s62}
-; qstr_Given_on:_{s60}|Given on: {s60}
-; qstr_You_have_{reg0}_days|You have {reg0} days to finish this quest.
-; qstr_This_quest_has_been_|This quest has been concluded. Give {s59} the news.
-; qstr_This_quest_has_been_c|This quest has been concluded.
-; qstr_This_quest_has_been_s|This quest has been successfully completed. Talk to {s59}.
-; qstr_This_quest_has_been_su|This quest has been successfully completed.
-; qstr_This_quest_has_faile|This quest has failed. Talk to {s59} to explain the situation.
-; qstr_This_quest_has_failed|This quest has failed.
-; qstr_At_the_time_quest_wa|At the time quest was given:^{s1}
-; qstr_The_{s5}_has_a_stren|The {s5} has a strength of {reg1} men in total.
-; qstr_According_to_the_las|According to the last time you saw {reg1?her:him}, {s1}
-; qstr_According_to_the_last|According to the last time you heard about {reg1?her:him}, {s1}
-; qstr_The_current_garrison|The current garrison consists of {reg5} men.^It should have food stocks for {reg6} days.
-; qstr_Very_Poor|Very Poor
+qstr_Charging|Atacando
+qstr_Advancing|Avançando
+qstr_Falling_Back|Recuando
+qstr_Standing_Closer|Aproximando-se
+qstr_Spreading_Out|Espalhando-se
+qstr_Standing|Permanecendo
+qstr_Retreating|Retirando-se
+qstr_N/A|N/A
+qstr_Free|Livre
+qstr_Any_Weapon|Qualquer Arma
+qstr_Blunt_Weapons|Armas Sem Corte
+qstr_{s1}_Rebels|{s1} Rebeldes
+qstr_Given_by:_{s62}|Dada por: {s62}
+qstr_Given_on:_{s60}|Dada em: {s60}
+qstr_You_have_{reg0}_days|Você tem {reg0} dias para terminar esta missão.
+qstr_This_quest_has_been_|Esta missão foi concluída. Dê a {s59} a notícia.
+qstr_This_quest_has_been_c|Esta missão foi concluída.
+qstr_This_quest_has_been_s|Esta missão foi concluída com êxito. Fale com {s59}.
+qstr_This_quest_has_been_su|Esta missão foi concluída com êxito.
+qstr_This_quest_has_faile|Esta missão falhou. Fale com {s59} para explicar a situação.
+qstr_This_quest_has_failed|Esta missão falhou.
+qstr_At_the_time_quest_wa|Na época a busca foi dada: ^ {s1}
+qstr_The_{s5}_has_a_stren|{s5} tem uma força de {reg1} homens no total.
+qstr_According_to_the_las|De acordo com a última vez que {reg1?a:o} viu , {s1}
+qstr_According_to_the_last|De acordo com a última vez que você ouviu falar sobre {reg1? ela: ele}, {s1}
+qstr_The_current_garrison|A guarnição atual consiste de {reg5} homens. ^ Deve ter estoques de comida para {reg6} dias.
+qstr_Very_Poor|Muito Pobre
 qstr_Poor|Pobre
 qstr_Average|Média
-; qstr_Rich|Rich
-; qstr_Very_Rich|Very Rich
-; qstr_Manor|Manor
-; qstr_A_manor_lets_you_res|A manor lets you rest at the village and pay your troops half wages while you rest.
-; qstr_Mill|Mill
-; qstr_A_mill_increases_vil|A mill increases village prosperity by 5%.
-; qstr_Watchtower|Watchtower
-; qstr_A_watchtower_lets_th|A watchtower lets the villagers raise the alarm earlier. The time it takes for enemies to loot the village increases by 50%.
-; qstr_School|School
-; qstr_A_school_increases_t|A school increases the loyalty of the villagers by +1 every month.
-; qstr_Messenger_Post|Messenger Post
-; qstr_A_messenger_post_let|A messenger post lets the inhabitants send you a message whenever enemies are nearby, even if you are far away.
-; qstr_Prison_Tower|Prison Tower
-; qstr_A_prison_tower_reduc|A prison tower reduces the chance that captives here will run away. It includes a torturer.
-; qstr_Christian_Monastery|Christian Monastery
-; qstr_A_monastery_promotes|A monastery promotes Christianity.
-; qstr_Temple_to_god_Odin|Temple to god Odin
-; qstr_A_temple_promotes_pa|A temple promotes pagan practices.
-; qstr_Christian_Church|Christian Church
-; qstr_A_church_promotes_Ch|A church promotes Christianity.
-; qstr_Shrine_to_Norse_Gods|Shrine to Norse Gods
-; qstr_A_shrine_promotes_pa|A shrine promotes pagan practices.
-; qstr_Blacksmith|Blacksmith
-; qstr_A_blacksmith_manufac|A blacksmith manufactures and sells tools and weapons.
-; qstr_Merchants__Rest_Hall|Merchants' Rest Hall
-; qstr_A_rest_hall_supports|A rest hall supports the merchant community, adding prosperity.
-; qstr_Scriptorium|Scriptorium
-; qstr_A_scriptorium_increa|A scriptorium increases your renown as a patron of knowledge.
-; qstr_Slave_Market|Slave Market
-; qstr_A_slave_market_incre|A slave market increases the prosperity and tariffs of the port town, but reduces your reputation.
-; qstr_Brewery|Brewery
-; qstr_A_brewery_increases_|A brewery increases the prosperity and loyalty of the fort.
-; qstr_The_prosperity_of_{s|The prosperity of {s2} has changed from {s3} to {s4}.
-; qstr_{s4}_looks_upset.|{s4} looks upset.
-; qstr_your_party|your party
-; qstr_{reg0?One_of_your_pr|{reg0?One of your prisoners, :}{s1} of the {s3} has escaped from captivity!
-; qstr_You_have_delivered_{|You have delivered {reg3} head of cattle to {s1}.
-; qstr_I_hear_that_there_wi|I hear that there will be a tournament in {s62} soon.
-; qstr_I_heard_that_one_can|I heard that one can buy {s62} very cheap at {s63}.
-; qstr_I_heard_that_they_pa|I heard that they pay a very high price for {s62} at {s63}.
-; qstr_I_heard_that_the_Dan|I heard that the Danish promise to conquer West Seaxe before next spring.
-; qstr_Currently_the_most_r|Currently, the most requested song the bards perform is the one of King Cadwallon of Gwynedd and King Penda of Mierce invading Northhymbre and penetrating deep into the heart of the old Kingdom of Deira. There King Eadwine amassed his warriors and rode south to meet them in battle. The two armies met at Haedfeldland and engaged in the bloodiest and most brutal battle of the time. Perhaps it is popular because of the recent invasion.
-; qstr_I_heard_the_Pope_in_|I heard the Pope in Rome sent missionaries to convert the Danish!
-; qstr_Ragnar_s_sons_are_th|Ragnar's sons are the most dangerous men in the world. I hear they are relentless, and nobody dares to face up to them.
-; qstr_I_think_the_wife_of_|I think the wife of my friend is cheating on him with a bard.
-; qstr_I_hate_bandits!_Some|I hate bandits! Somebody should kill them all.
-; qstr_I_would_like_to_know|I would like to know about the Roman times.
-; qstr_Many_of_the_nobles_o|Many of the nobles of Englaland are very impressed by young princess Hild. She is so beautiful. Too bad she has religious leanings!
-; qstr_A_traveller_told_me_|A traveller told me the Franks are recruiting men for attacking the Frisians.
-; qstr_The_Danish_have_brou|The Danish have brought all kinds of foreigners with them. It's like the whole world has come to old Englaland.
-; qstr_West_Seaxe_was_never|West Seaxe was never as powerful as now. It is logical that their king is considered to be a Brytenwalda.
-; qstr_I_wish_the_world_wer|I wish the world were less dangerous. Few men grow old.
-; qstr_I_ve_been_told_the_a|I've been told the army of the Ui Neill maintains strict discipline and training. For that reason, they are the most powerful in Hibernia!
-; qstr_two_days_ago|two days ago
-; qstr_{s24}_increased_reno|{s24} increased renown by attending a feast at {s25}
-; qstr_You_asked_me_to_come|You asked me to come and meet you here at {s33}. So, here I am, waiting for you to show up.
-; qstr_You_asked_me_to_come_|You asked me to come and patrol around {s33}. So, here I am, looking for enemies.
-; qstr_Marshal_has_chosen_{|Marshal has chosen {s13} to levy troops.
-; qstr_Marshal_Levying_Troo|Marshal Levying Troops
-; qstr_The_marshal_is_levyi|The marshal is levying {reg0} troops from your center {s10}.
-; qstr_{s35}_of_the_{s34}|{s35} of the {s34}
-; qstr_{s37}_of_the_{s36}|{s37} of the {s36}
-; qstr_The_brewery_in_{s1}_|The brewery in {s1} adds to its prosperity.
-; qstr_You_gain_right_to_ru|You gain right to rule.
-; qstr_You_lose_right_to_ru|You lose right to rule.
-; qstr_You_are_an_elder._Yo|You are an elder. You can count many years toward your life experiences. You may not be as strong and agile as before, but certainly you are wiser.
-; qstr_You_are_an_adult._Yo|You are an adult. You are at an age where a reasonable amount of experience and health meet.
-; qstr_You_are_a_youth._You|You are a youth. You are full of energy and eager to change the world around you.
-; qstr_According_to_Galen_s|According to Galen's ancient temperaments, your personality is:
-; qstr_Phlegmatic._Its_elem|Phlegmatic. Its element is water and its Hippocrates humor is phlegm. It is associated with people who are calm, compassionate, self-content, reliable, shy, observant and consistent. These people are also resistant to change, distant, relaxed and reserved.
-; qstr_Melancholic._Its_ele|Melancholic. Its element is earth and its Hippocrates humor is black bile. It is associated with people who are introverted, sensitive, intuitive, creative, perfectionistic, patient, caring and tolerant. These people are also clumsy, obsessed, depressed and dissatisfied.
-; qstr_Choleric._Its_elemen|Choleric. Its element is fire and its Hippocrates humor is yellow bile. It is associated with people who are persuasive, egocentric, extroverted, independent, charismatic and ambitious. These people are also insistent, impetuous, bad-tempered, restless and touchy.
-; qstr_Sanguine._Its_elemen|Sanguine. Its element is air and its Hippocrates humor is blood. It is associated with people who are optimistic, imaginative, artistic, cheerful, sociable, rational and pleasure-seeking. These people are also forgetful, impulsive and unpredictable.
-; qstr_{s1}^^{s2}_{s3}|{s1}^^{s2} {s3}
-; qstr_According_the_four_c|According the four cardinal virtues recognized in the writings of classical antiquity, you most often exhibit:
-; qstr_Wisdom._Also_called_|Wisdom. Also called Prudence, it governs actions according to the dictate of reason in order to choose the right response to any situation. Wisdom implies the ability to judge in advance the probable consequences of one's actions.
-; qstr_Fortitude._Also_call|Fortitude. Also called Courage, it ensures firmness during difficulties and constancy in the pursuit of goals. It is the strength to make a decision based on moral convictions, whatever the consequences.
-; qstr_Temperance._Also_cal|Temperance. Also called Self-Control, it resists the attraction of pleasures in order to render the body governable. Temperance represents restraint and control over passions and desires.
-; qstr_Justice._It_symboliz|Justice. It symbolizes respect for law and promotes rewarding good and punishing evil.
-; qstr_{s1}^^{s2}._{s3}|{s1}^^{s2}. {s3}
-; qstr_You_are_a_foreigner.|You are a foreigner.
-; qstr_You_come_from_far_aw|You come from far away, seeking to get to know the north of Europe, a world dotted with dozens of small kingdoms all harassed by the Vikings.
-; qstr_You_are_Scoto_Pict|You are Scoto-Pict,
-; qstr_a_descendant_of_an_a|a descendant of an ancient people of uncertain origin who inhabited parts of northern Britain, or of Goidelic invaders now mixed in.
-; qstr_You_are_Briton|You are Briton,
-; qstr_a_member_of_the_Celt|a member of the Celtic people who inhabited Britain since before the Roman invasion.
-; qstr_You_are_Goidel|You are Goidel,
-; qstr_a_member_of_Celtic_p|a member of Celtic people inhabiting the island of Eriu, which the Romans called Hibernia.
-; qstr_You_are_Frisian.|You are Frisian.
-; qstr_You_come_from_the_di|You come from the dike country of Friese on the north edge of continental Europe.
-; qstr_You_are_a_Norseman|You are a Norseman,
-; qstr_a_member_of_the_paga|a member of the pagan peoples native to Scandia who raid the coast of Europe.
-; qstr_You_are_Anglo_Saxon|You are Anglo-Saxon,
-; qstr_a_descendant_of_a_Ge|a descendant of a Germanic people who, in ancient times, dwelt in Sleswick, near the mouth of the Elbe. Your people have been taking over Britain for four hundred years.
-; qstr_an_impoverished_nobl|an impoverished nobleman
-; qstr_You_came_into_this_w|You came into this world as {reg59?daughter:son} of a declining family of influence. By then, the estates were gone and only the house in which you lived remained as a possession. However, despite your hardships, your parents gave you a good education, preparing you from childhood for the chance to become a companion to royalty.
-; qstr_a_travelling_merchan|a travelling merchant
-; qstr_You_were_always_movi|You were always moving from one place to another seeking to make a profit. Although your parents were wealthier than most and gave you the best education they could, you found few chances to make friends on the road. When you did succeed to make a friend, you were always glad for the chance to sell them something.
-; qstr_a_craftsman|a craftsman
-; qstr_Your_father_s_abilit|Your father's ability to make beautiful and useful things were always highly valued by the community. You grew accustomed to live with some comfort and luxuries -- and you can tell a hammer from a mallet.
-; qstr_a_priest|a priest
-; qstr_You_were_placed_in_t|You were placed in the care of a monastery when but an infant. The brothers were not true parents, but provided care and camaraderie. Your mother visited you sometimes, but you have never heard from your father.Your life has been easier than most, as you always enjoyed a full dish at table after a long day of hard work.
-; qstr_a_peasant|a peasant
-; qstr_You_were_born_into_a|You were born into a small community directed by a nearby lord. Your childhood was happy enough, but there was little time to play. Practically from the time you could walk, you were put to work harvesting cabbages with your frozen fingers.
-; qstr_an_outlaw|an outlaw
-; qstr_Your_education_was_r|Your education was rather informal. Living in abandoned huts or even along the road, you were put to work begging until you became more useful for cutting purses. Some may say your childhood was a waste, but nobody knows the shadowy back streets and secrets of the towns like you do.
-; qstr_{s1}^^You_were_born_|{s1}^^You were born years ago to {s2}. {s3}
-; qstr_Your_family_baptised|Your family baptised you into Roman Christianity,
-; qstr_and_you_were_fascina|and you were fascinated by the stories that the priest told when he visited your village. Since those days, you remain devoted to that religion. Christianity is based on the Scriptures, the testimony of the Jesus' life and the teachings of His Apostles.
-; qstr_Your_family_believed|Your family believed in the Scandinavian gods.
-; qstr_You_soaked_up_all_of|You soaked up all of the stories, told far into the night with everyone gathered around the fireplace. You are a staunch believer of the old ways. Your worship gives all the deities their due: Odin, the chief god; Thor, the god of the sky and thunder; Freya, the goddess of love, and all the rest required to oversee all the disparate processes of the world.
-; qstr_a_page_at_a_nobleman|a page at a nobleman's hall
-; qstr_You_were_chosen_to_b|You were chosen to be a companion to one of the wealthiest nobleman of the kingdom, so were given a place at the hall. Serving the more senior members of the household, your first lessons were in humility. In compensation, there were all sorts of entertainments: chess games, gossip, bards visiting to recite the poems of great deeds and loves. You were drawn most by the world of conflict and competition. You played rough games with other children, batting each other with sticks as swords. Such games provided you invaluable lessons for your current life.
-; qstr_a_craftsman_s_appren|a craftsman's apprentice
-; qstr_Your_parents_sent_yo|Your parents sent you to learn a trade. After years of hard work and study under your new master, he promoted you first to journeyman and finally to fully paid craftsman for as long as you wished to stay. You became adept with tools and crafting.
-; qstr_a_shop_assistant|a shop assistant
-; qstr_In_the_employ_of_a_s|In the employ of a shopkeeper, you learned to attract people's interest and convince them with words. Traveling from one place to another in caravans to trade, you learned the customs of very different peoples and proper behavior in each culture.
-; qstr_a_street_urchin|a street urchin
-; qstr_You_ended_up_in_the_|You ended up in the streets, doing whatever you must to survive. Begging and thieving to earn your bread, daily involved in this violent world, always one step ahead of the law and others who wished to catch you.
-; qstr_a_farmer_child|a farmer child
-; qstr_You_put_your_strong_|You put your strong back to help with farm work. You learned the land and the livestock that grazed on it. Some years you enjoyed good harvests but others you survived on an empty stomach. You became unflappable and adept at adapting to every circumstance.
-; qstr_{s1}^^You_spent_your|{s1}^^You spent your youth as {s2}. {s3}
-; qstr_Formerly_being_a_sla|Formerly, being a slave,
-; qstr_your_adult_life_was_|your adult life was full of misery. Forced to do all the hard menial tasks for your owners, you grew to be thick-skinned, fast, and strong. Sometimes your masters gave you no food, and so you had to learn to forage in the wild in order to satisfy your hunger. Your world was small and monotonous. The days seemed to be always the same. Rain and sun punished your body during these endless working days. From sunrise to sunset, with your back aching all the time, your only reward was to see another day, although some of your fellow sufferers were not so lucky. When you got some free time -- something that rarely happened -- you practiced hurling stones with a simple sling. You can hit a dried gourd some paces distant and cause it to explode with a satisfying CRACK.
-; qstr_Formerly_you_were_a_|Formerly, you were a priest.
-; qstr_When_you_were_not_wo|When you were not working or studying at the monastery, you traveled around spreading the word of God. Anyone who listened to you was greatly impressed with the passion of your sermons. Though you had kept the vow of poverty through all those itinerant years, you never lacked for food, drink or shelter, as the hospitality of the peasants was particularly generous toward a rising {reg59?woman:man} of God. Now and then, the villagers came to the monastery to purchase the unique products that you made.^^Healing is another of your abilities. Your skill mended many a broken bone and kept many a soul in its body instead of venturing into God's hands. Full of faith, you feel safe outside the thick monastery walls. You are armed with nothing more than a rod or a staff, symbols of the divine ones that comfort you.
-; qstr_Formerly_you_were_a_t|Formerly, you were a traveler.
-; qstr_Responding_to_the_ca|Responding to the call of the road, you traveled from one village to another, trading whatever you could find. This is not a wealthy life, but you have become a master at getting a good price from even the most miserly of spinsters. Soon, you will be able to create your own trading empire.
-; qstr_Formerly_you_were_a_p|Formerly, you were a poacher.
-; qstr_Unsatisfied_with_com|Unsatisfied with common men's desperate desire of wealth, you took to your local lord's own forests and helped yourself to their bounty, laws be damned. You hunted stags, boars and geese and sold their meat under the table. You cut down trees right under the watchmen's noses and turned them into firewood to warm many a freezing home during harsh winters. You found that honor is easy enough to barter away for a few hard-to-find silvers. When the hard times came, you foraged for food and became an expert at finding edible plants in the wild.
-; qstr_Formerly_you_were_a_f|Formerly, you were a free {reg59?woman:man}, and moreover {reg59?mistress:master} over a bit of land.
-; qstr_{reg59?Being_wife_to|{reg59?Being wife to a free man meant that you at least had it easier than did the wives of the servants. You owned some servants who helped you with the hard work, but since your husband didn't own a lot of land, you still had to do a variety of tasks that peasant wives have to do. Your husband had to pay rent to his overlord and owed him labour services for the land. When the lord was involved in a war, your husband had to answer his call for foot soldiers. In those times, he had to rely on his shield and spear in the thick of battle. He often taught you how to fight properly with those arms in case he wouldn't be available to defend your home.  :This meant that you at least had it easier than the servants. You owned some servants who helped you with the hard work, but since you didn't own a lot of land, you still had to do a variety of tasks that peasants have to do. You had to pay rent to your overlord and owed him labour services for the land. When the lord was involved in a war, you had to answer his call for foot soldiers. In those times, you had to rely on your shield and spear in the thick of battle.}
-; qstr_{s1}^^Through_persis|{s1}^^Through persistence and a little luck, you learned how to curry favor with one of the local lords. Eventually, he recommended you to the king, who awarded you with a small fief from his own holdings. Now you must prove yourself worthy of the trust you have been given.
-; qstr_{s1}^^Then_you_happe|{s1}^^Then you happened to catch the interest of a young lord. Ignoring tradition and the strident pleas of his advisors, he married you, but shortly thereafter suffered an accidental fatal wound during a tournament. The lord lacked a living uncle, brother, or son. You therefore take over his small, neglected estate, even as the other lords of the kingdom consider it as having become available. Now you must establish yourself on your lands.
-; qstr_{s1}^^Through_persist|{s1}^^Through persistence and a little luck, you learned how to curry favor with one of the local lords. A series of events having left the kingdom without a ruler, he proposed you to share the kingship as a compromise between contending factions. You were deliberately chosen to be the minor partner, but a sudden fatal illness of the other share-king has left you sole ruler. Not everyone is happy about this turn of events, and neighboring kingdoms have taken note of the apparent weakness of your realm. Now you must establish your dominion.
-; qstr_{s1}^^Then_you_happen|{s1}^^Then you happened to catch the interest of the young king. Ignoring tradition and the strident pleas of his advisors, he married you, but shortly thereafter suffered an accidental fatal wound during a tournament. The king lacked a living uncle, brother, or son. As the lords debate succession, the neighboring kingdoms have taken note of the apparent weakness of your realm. Now you must establish your dominion.
-; qstr_>_Viking_Conquest_Ma|> Viking Conquest Main Campaign
-; qstr_A_storyline_campaign|A storyline campaign with a main quest and other special features.
-; qstr_>_Sandbox_Campaign|> Sandbox Campaign
-; qstr_No_main_story_or_spe|No main story or special features. You are free to play as you wish.
-; qstr_>_Lordly_Sandbox_Cam|> Lordly Sandbox Campaign
-; qstr_You_start_as_a_lord_|You start as a lord or lady of a faction.
-; qstr_>_Royal_Sandbox_Camp|> Royal Sandbox Campaign
-; qstr_You_start_as_leader_|You start as leader of a faction. Long live the king!
-; qstr_{s2}^^{s3}|{s2}^^{s3}
-; qstr_STAMINA_>_Realism_Fe|STAMINA > Realism Feature.
-; qstr_This_feature_affects|This feature affects the player and all game characters.^Stamina is calculated from Health and Athletic skills and affects physical endurance during battle. When a character's stamina is exhausted, he or she won't be able to run and his or her weapons' damage will be halved.
-; qstr_ARMOR_PENALTY_>_Real|ARMOR PENALTY > Realism Feature.
-; qstr_This_feature_affects_|This feature affects the player and all game characters.^Your skill points will deteriorate when you equip heavy armor. This skill brings better balance to the game, as light troops become more important.
-; qstr_EASY_RECRUITMENT_>_B|EASY RECRUITMENT > Beginner's Feature.
-; qstr_When_you_ask_permiss|When you ask permission in the villages to recruit, the answer is always positive and without cost. Not recommended for players who like role-play and immersion.
-; qstr_RESTING_MORALE_>_Rea|RESTING MORALE > Realism Feature.
-; qstr_INSANE_DIFFICULTY_>_|INSANE DIFFICULTY > Advanced Player's Feature.
-; qstr_Your_troops_need_thr|Your troops need three times the normal experience to upgrade. Your enemies will cause double damage while you cause only half. Only recommended for hardcore players.
-; qstr_GORE_>_+18_Feature.|GORE > +18 Feature.
-; qstr_DISABLE_SCENIC_MENU_|DISABLE SCENIC MENU > Performance Feature.
-; qstr_Disable_the_3D_view_i|Disable the 3D view in menus to improve the loading time for slower machines.
-; qstr_SHIELD_BASH_>_Realis|SHIELD BASH > Realism Feature.
-; qstr_Player_and_AI_troops|Player and AI troops will be able to bash enemies with their shields.
-; qstr_...Anno_Domini_868..|...Anno Domini 868...
-; qstr_My_name_is_Beda_the_|My name is Beda the Old, and if you delve into this world, I recommend you listen carefully...^^Britain. The Britons call her Ynys Prydein, the Goidels call her Alba while the Angles and Saxons gave the name of Englaland to the lands they conquered. These islands are large, rich and beautiful... and are coveted. So the land is currently at war and respects only the law of the sword and spear. Realms are born and killed off, and kings die on the battlefield. Women are widowed, and horses carry arms instead of hay. The shouts of warriors fill the air, and the earth lies barren from the trampling of armies. As in past eras of strife, mortal enemies rise, equipped in armour. Ravens are calling, wolves are howling, spears clash and shields answer.^^In the north, the kingdoms of the Angles crumble before the advance of the Danes. The sons of the notorious Viking lord Ragnar, the new lords of these lands, now rule Bernaccia, Deira and Elmet, the land known as Northhymbre.^^In the south, the Saxons of West Seaxe, led by the Brytenwalda Aethelred and his brother Aelfred, prepare for war. They know that on the other side of the sea, more Danes prepare to cross the ocean in search of fame and wealth.^^Pushed into the remote fringes of their native land by centuries of landward invasion, the native Britons now are threatened by Vikings on their coasts. They fight desperately not to lose what little they have left, dreaming of a king to unify them all and lead them to final victory -- a new King Arthur. The reality is that their equitable inheritance laws keep the holdings of each lord small and unity harder to achieve. Nevertheless, one strongman, Rhodri the Great of Gwynedd, has begun to impose his will over the rest of Wales.^^In the lands of the far north, Norwegian invaders thirty years ago wiped out the old competing Gaelic and Pict aristocracies in one fatal blow at a chance three-way battle. After this disaster, Gaelic strongman Cinead McAlpin started to forge a new kingdom out of the two peoples, but they have been driven to the highland center of their former territories.^^Across the sea, in Ireland, Aed 'Fair Warrior' mac Niall of Aileach has emerged as high king in Temair after overcoming his enemies, but it is nothing more than a prestigious title. His claim is never accepted by the other half of the Ui Neill, and the fighting for land, women and cattle, in the sort of fratricidal wars endemic to that land, continues unabated. Meanwhile, both Danish and Norwegian Vikings have established dozens of coastal strongholds. They use the rivers to plunder the Goidelic hinterland, but they are all too prone to join the native conflict -- on all sides.^^^The world is chaos, and chaos is war.
-; qstr_BEDA_CHRONICLE^^{s2}|BEDA CHRONICLE^^{s2}^^ {s3}
-; qstr_{s1}On_head.___{reg2|{s1}On head. (-{reg2} intelligence)^{s2}^^
-; qstr_{s1}On_face.___{reg2|{s1}On face. (-{reg2} charisma)^{s2}^^
-; qstr_{s1}On_body.___{reg2|{s1}On body. (-{reg2} strength)^{s2}^^
-; qstr_{s1}On_limbs.___{reg|{s1}On limbs. (-{reg2} agility)^{s2}^^
-; qstr_Accumulated_Injuries|Accumulated Injuries:^^none
-; qstr_Accumulated_Injuries:|Accumulated Injuries:^^{s1}A physician in a larger town can treat these injuries.
-; qstr_Healing_wounds:^^non|Healing wounds:^^none
-; qstr_Healing_wounds:^^{s1|Healing wounds:^^{s1}These wounds have been treated. They will heal on their own.
-; qstr_{s1}On_head.___{reg1|{s1}On head. (-{reg1} intelligence)^^
-; qstr_{s1}On_face.___{reg1|{s1}On face. (-{reg1} charisma)^^
-; qstr_{s1}On_body.___{reg1|{s1}On body. (-{reg1} strength)^^
-; qstr_{s1}On_limbs.___{reg1|{s1}On limbs. (-{reg1} agility)^^
-; qstr_Scars:^^none|Scars:^^none
-; qstr_Scars:^^{s1}These_in|Scars:^^{s1}These injuries have become permanent. They now can't be cured.
-; qstr_Lifetime_wounds:_{re|Lifetime wounds: {reg1} so far.
+qstr_Rich|Rica
+qstr_Very_Rich|Muito Rica
+qstr_Manor|Solar
+qstr_A_manor_lets_you_res|Um solar permite que você descanse na Vila e pague metade do salário a suas tropas enquanto você descansa.
+qstr_Mill|Moinho
+qstr_A_mill_increases_vil|Um moinho aumenta a prosperidade da Vila em 5%.
+qstr_Watchtower|Torre de Vigia
+qstr_A_watchtower_lets_th|Uma torre de vigia permite que os camponeses soem o alarme mais cedo. O tempo que leva para os inimigos pilharem a Vila aumenta em 50%.
+qstr_School|Escola
+qstr_A_school_increases_t|Uma escola aumenta a lealdade dos camponeses em +1 a cada mês.
+qstr_Messenger_Post|Posto de Mensageiro
+qstr_A_messenger_post_let|Um posto de mensageiro permite que os habitantes lhe enviem uma mensagem sempre que os inimigos estiverem por perto, mesmo se você estiver longe.
+qstr_Prison_Tower|Torre de Prisão
+qstr_A_prison_tower_reduc|Uma torre de prisão reduz a chance de cativos aqui fugirem. Ela inclui um torturador.
+qstr_Christian_Monastery|Mosteiro Cristão
+qstr_A_monastery_promotes|Um mosteiro promove o Cristianismo.
+qstr_Temple_to_god_Odin|Templo ao Deus Odin
+qstr_A_temple_promotes_pa|Um templo promove práticas pagãs.
+qstr_Christian_Church|Igreja Cristã
+qstr_A_church_promotes_Ch|Uma igreja promove o Cristianismo.
+qstr_Shrine_to_Norse_Gods|Santuário de Divindades Nórdicas
+qstr_A_shrine_promotes_pa|Um santuário promove práticas pagãs.
+qstr_Blacksmith|Ferreiro
+qstr_A_blacksmith_manufac|Um ferreiro fabrica e vende ferramentas e armas.
+qstr_Merchants__Rest_Hall|Salão de Descanso dos Mercadores
+qstr_A_rest_hall_supports|Um salão de descanso apoia a comunidade mercante, adicionando prosperidade.
+qstr_Scriptorium|Scriptorium
+qstr_A_scriptorium_increa|Um scriptorium aumenta seu Renome como patrono do conhecimento.
+qstr_Slave_Market|Mercado de Escravos
+qstr_A_slave_market_incre|Um mercado de escravos aumenta a prosperidade e as tarifas portuárias da cidade, mas reduz a sua reputação.
+qstr_Brewery|Cervejaria
+qstr_A_brewery_increases_|Uma cervejaria aumenta a prosperidade e lealdade da Fortaleza.
+qstr_The_prosperity_of_{s|A prosperidade de {s2} foi alterada de {s3} para {s4}.
+qstr_{s4}_looks_upset.|{s4} parece chateado.
+qstr_your_party|suas tropas
+qstr_{reg0?One_of_your_pr|{reg0? Um de seus prisioneiros, :} {s1} de {s3} escapou do cativeiro!
+qstr_You_have_delivered_{|Você entregou {reg3} cabeças de gado a {s1}.
+qstr_I_hear_that_there_wi|Ouvi dizer que haverá um torneio em {s62} em breve.
+qstr_I_heard_that_one_can|Ouvi dizer que se pode comprar {s62} muito barato, em {s63}.
+qstr_I_heard_that_they_pa|Ouvi dizer que pagam um preço muito alto por {s62} em {s63}.
+qstr_I_heard_that_the_Dan|Ouvi dizer que os Danish prometem conquistar Seaxe Ocidental antes da próxima primavera.
+qstr_Currently_the_most_r|Atualmente, a mais solicitada canção que os bardos performam é aquela do Rei Cadwallon de Gwynedd e Rei Penda de Mierce invadindo Northhymbre e penetrando profundamente no coração do antigo Reino de Deira. Lá, Rei Eadwine reuniu seus guerreiros e se dirigiu ao sul para encontrá-los em batalha. Os dois exércitos se encontraram em Haedfeldland e travaram a mais sangrenta e mais brutal batalha daquele tempo. Talvez ela seja popular por causa da recente invasão.
+qstr_I_heard_the_Pope_in_|Ouvi dizer que o Papa em Roma enviou missionários para converter os Danish!
+qstr_Ragnar_s_sons_are_th|Filhos de Ragnar são os homens mais perigosos do mundo. Ouvi dizer que eles são implacáveis, e ninguém se atreve a enfrentá-los.
+qstr_I_think_the_wife_of_|Acho que a mulher de meu amigo está o traindo com um bardo.
+qstr_I_hate_bandits!_Some|Eu odeio bandidos! Alguém deveria matar todos eles.
+qstr_I_would_like_to_know|Eu gostaria de saber sobre os tempos Romanos.
+qstr_Many_of_the_nobles_o|Muitos dos nobres de Englaland estão muito impressionados com a jovem princesa Hild. Ela é tão linda. Uma pena ela ter inclinações religiosas!
+qstr_A_traveller_told_me_|Um viajante me contou que os Franks estão recrutando homens para atacar os Frisians.
+qstr_The_Danish_have_brou|Os Danish têm trazido todos os tipos de estrangeiros com eles. É como se o mundo inteiro viesse à velha Englaland.
+qstr_West_Seaxe_was_never|Seaxe Ocidental nunca foi tão poderosa como agora. É lógico que seu Rei seja considerado Brytenwalda.
+qstr_I_wish_the_world_wer|Queria que o mundo fosse menos perigoso. Poucos homens envelhecem.
+qstr_I_ve_been_told_the_a|Me contaram que o exército de Ui Neill mantém rigoroso treinamento e disciplina. Por essa razão, eles são os mais poderosos em Hibernia!
+qstr_two_days_ago|dois dias atrás
+qstr_{s24}_increased_reno|{s24} Renome aumentado por participar do banquete em {s25}
+qstr_You_asked_me_to_come|Você me pediu para vir e encontrá-lo aqui em {s33}. Então, aqui estou eu, esperando você aparecer.
+qstr_You_asked_me_to_come_|Você me pediu para vir e patrulhar próximo a {s33}. Então, aqui estou eu, à procura de inimigos.
+qstr_Marshal_has_chosen_{|Marechal foi escolhido {s13} para coletar tropas.
+qstr_Marshal_Levying_Troo|Marechal coletando Tropas
+qstr_The_marshal_is_levyi|O Marechal está coletando {reg0} tropas de seu centro {s10}.
+qstr_{s35}_of_the_{s34}|{s35} de {s34}
+qstr_{s37}_of_the_{s36}|{s37} de {s36}
+qstr_The_brewery_in_{s1}_|A cervejaria em {s1} adiciona à sua prosperidade.
+qstr_You_gain_right_to_ru|Você ganha Direito de Governar.
+qstr_You_lose_right_to_ru|Você perde o Direito de Governar.
+qstr_You_are_an_elder._Yo|Você é um ancião. Você pode contar muitos anos a respeito de suas experiências de vida. Você pode não ser tão forte e ágil como antes, mas certamente é mais sábio.
+qstr_You_are_an_adult._Yo|Você é um adulto. Você está em uma idade onde uma razoável quantidade de experiência e saúde se encontram.
+qstr_You_are_a_youth._You|Você é um jovem. Você está cheio de energia e ansioso para mudar o mundo ao seu redor.
+qstr_According_to_Galen_s|De acordo com temperamentos antigos de Galeno, sua personalidade é:
+qstr_Phlegmatic._Its_elem|Fleumática. Seu elemento é água e o humor de Hipócrates dela é fleuma. Está associada com pessoas que são calmas, compassivas, de auto-conteúdo, confiáveis, tímidas, observadoras e consistentes. Estas pessoas são também resistentes a mudanças, distantes, relaxadas e reservadas.
+qstr_Melancholic._Its_ele|Melancólica. Seu elemento é terra e o humor de Hipócrates dela é a bílis negra. Está associada com pessoas que são introvertidas, sensíveis, intuitivas, criativas, perfeccionistas, pacientes, carinhosas e tolerantes. Estas pessoas são também desajeitadas, obcecadas, deprimidas e insatisfeitas.
+qstr_Choleric._Its_elemen|Colérica. Seu elemento é fogo, e o humor de Hipócrates dele é a bílis amarela. Está associada com pessoas que são persuasivas, egocêntricas, extrovertidas, independentes, carismáticas e ambiciosas. Essas pessoas também são insistentes, impetuosas, mal-humoradas, inquietas e irritáveis.
+qstr_Sanguine._Its_elemen|Sanguínea. Seu elemento é ar e o humor de Hipócrates dele é sangue. Está associada com pessoas que são otimistas, imaginativas, artísticas, alegres, sociáveis, racionais e buscadoras de prazer. Estas pessoas são também esquecidas, impulsivas e imprevisíveis.
+qstr_{s1}^^{s2}_{s3}|{s1} ^^ {s2} {s3}
+qstr_According_the_four_c|De acordo com as quatro virtudes cardinais reconhecidas nos escritos da antiguidade clássica, você expõe mais frequentemente:
+qstr_Wisdom._Also_called_|Sabedoria. Também chamada de Prudência, ela rege ações de acordo com o ditar da razão para escolher a resposta certa para qualquer situação. Sabedoria implica a habilidade de julgar antecipadamente as prováveis consequências de ações.
+qstr_Fortitude._Also_call|Fortitude. Também chamada de Coragem, ela garante firmeza durante as dificuldades e constância na perseguição de objetivos. É a força para tomar uma decisão baseada em convicções morais, independente das consequências.
+qstr_Temperance._Also_cal|Temperança. Também chamada de Autocontrole, resiste à atração dos prazeres a fim de tornar o corpo governável. Temperança representa a contenção e controle sobre paixões e desejos.
+qstr_Justice._It_symboliz|Justiça. Ela simboliza respeito pela lei e promove recompensa ao bom e punimento ao mal.
+qstr_{s1}^^{s2}._{s3}|{s1} ^^ {s2}. {s3}
+qstr_You_are_a_foreigner.|Você é um estrangeiro.
+qstr_You_come_from_far_aw|Você veio de longe, buscando conhecer o norte da Europa, um mundo com dezenas de pequenos Reinos, todos molestados pelos Vikings.
+qstr_You_are_Scoto_Pict|Você é Scoto-Picto,
+qstr_a_descendant_of_an_a|um descendente de um antigo povo de origem incerta que habitava partes do norte da Bretanha, ou de invasores Goidelic agora misturados.
+qstr_You_are_Briton|Você é Bretão,
+qstr_a_member_of_the_Celt|um membro do povo Celta que habitava a Bretanha desde antes da invasão romana.
+qstr_You_are_Goidel|Você é Goidel,
+qstr_a_member_of_Celtic_p|um membro do povo Celta que habita a ilha de Eriu, a qual os romanos chamavam Hibernia.
+qstr_You_are_Frisian.|Você é o Frísian.
+qstr_You_come_from_the_di|Você veio do país de dique da Friese, na borda norte da Europa continental.
+qstr_You_are_a_Norseman|Você é um Nórdico,
+qstr_a_member_of_the_paga|um membro dos povos pagãos nativos da Scandia que atacam a costa da Europa.
+qstr_You_are_Anglo_Saxon|Você é Anglo-Saxão,
+qstr_a_descendant_of_a_Ge|um descendente de um povo Germânico que, em tempos antigos, habitou em Sleswick, próximo à foz do Elba. Seu povo tem tomado a Bretanha por quatrocentos anos.
+qstr_an_impoverished_nobl|um nobre empobrecido
+qstr_You_came_into_this_w|Você veio a este mundo como {reg59?filha:filho} de uma família em declínio de influência. Até então, as propriedades se foram e somente a casa em que você vivia permaneceu como posse. No entanto, apesar de suas dificuldades, seus pais te deram uma boa educação, preparando você desde a infância para a chance de se tornar um companheiro da realeza.
+qstr_a_travelling_merchan|um mercador viajante
+qstr_You_were_always_movi|Vocês sempre estiveram se mudando de um lugar para outro procurando fazer lucro. Embora seus pais fossem mais ricos do que a maioria e te dessem a melhor educação que puderam, você encontrou poucas chances de fazer amigos na estrada. Quando você conseguia fazer um amigo, você sempre ficava feliz pela chance de vender-lhes algo.
+qstr_a_craftsman|um artesão
+qstr_Your_father_s_abilit|A habilidade de seu pai em fazer coisas bonitas e úteis sempre foi altamente valorizada pela comunidade. Você cresceu acostumado a viver com algum conforto e luxos..-- e você pode diferenciar um martelo, de um malho.
+qstr_a_priest|um padre
+qstr_You_were_placed_in_t|Você foi colocado colocado sob os cuidados de um mosteiro quando criança. Os irmãos não eram pais verdadeiros, mas proveram cuidados e camaradagem. Sua mãe o visitou algumas vezes, mas nunca ouviu falar de seu pai. Sua vida tem sido mais fácil do que a maioria, já que sempre gostou de um prato cheio na mesa após um longo dia de trabalho duro.
+qstr_a_peasant|um camponês
+qstr_You_were_born_into_a|Você nasceu em uma pequena comunidade, dirigida por um Lorde nas proximidades. Sua infância feliz o bastante, mas havia pouco tempo para brincar. Praticamente desde o momento em que você pode andar, você foi posto a trabalhar colhendo repolhos com seus dedos congelados.
+qstr_an_outlaw|uma fora da lei
+qstr_Your_education_was_r|Sua educação foi bastante informal. Vivendo em cabanas abandonadas ou mesmo ao longo da estrada, você foi colocado pra trabalhar mendigando até que você se tornou mais útil em cortar bolsas. Alguns podem dizer que sua infância foi um desperdício, mas ninguém conhece as sombrias ruelas e segredos das cidades como você conhece.
+qstr_{s1}^^You_were_born_|{s1} ^ ^ você nasceu anos atrás para {s2}. {s3}
+qstr_Your_family_baptised|Sua família o batizaou na cristandade romana,
+qstr_and_you_were_fascina|e você ficou fascinado pelas histórias que o padre contava quando visitava sua vila. Desde aqueles dias, você permaneceu dedicado àquela religião. O cristianismo é baseado nas Escrituras, o testemunho de vida de Jesus e os ensinamentos de seus Apóstolos.
+qstr_Your_family_believed|Sua família acredita nos Deuses Escandinavos.
+qstr_You_soaked_up_all_of|Você absorveu todas as histórias, contadas noite adentro com todos reunidos ao redor da lareira. Você é um crente firme nos antigos caminhos. Seu culto dá a todas divindades o seu tributo: Odin, o Deus chefe; Thor, o Deus do céu e trovão; Freya, a Deusa do amor, e todo o resto necessário para orientar todos os diferentes processos do mundo.
+qstr_a_page_at_a_nobleman|uma pajem no salão de um nobre
+qstr_You_were_chosen_to_b|Você foi escolhido para ser um companheiro de um dos mais ricos nobres do Reino, então lhe foi dado um lugar no salão. Servindo os mais altos membros do agregado familiar, suas primeiras lições foram em humildade. Em compensação, havia todos os tipos de entretenimento: jogos de xadrez, fofocas, bardos visitando para recitar poemas de grandes feitos e amores. Você foi puxado mais pelo mundo de conflito e competição. Você jogou jogos violentos com outras crianças, golpeando uns aos outros com varas como espadas. Tais jogos proporcionaram valiosas lições para sua vida atual.
+qstr_a_craftsman_s_appren|um aprendiz de artesão
+qstr_Your_parents_sent_yo|Seus pais lhe enviaram para aprender uma profissão. Depois de anos de trabalho duro e estudo sob seu novo mestre, ele o promoveu primeiro a artesão por comissão e finalmente, artesão totalmente pago enquanto você desejasse ficar. Você se tornou adepto a ferramentas e artesanatos.
+qstr_a_shop_assistant|um assistente de loja
+qstr_In_the_employ_of_a_s|A serviço de um lojista, você aprendeu a atrair o interesse das pessoas e convencê-las com palavras. Viajando de um lugar para outro em caravanas de comércio, você aprendeu os costumes de muitos povos diferentes e o comportamento adequado em cada cultura.
+qstr_a_street_urchin|um menino de rua
+qstr_You_ended_up_in_the_|Você acabou nas ruas, fazendo tudo o que devia para sobreviver. Implorar e roubar para ganhar seu pão, diariamente envolvido neste mundo violento, sempre um passo à frente da lei e outros que queriam pegar você.
+qstr_a_farmer_child|um criança de fazenda
+qstr_You_put_your_strong_|Você colocou suas costas fortes pra ajudar com o trabalho agrícola. Você aprendeu sobre a terra e o gado que pastou nele. Alguns anos desfrutou de boas colheitas, mas em outros você sobreviveu em um estômago vazio. Você se tornou imperturbável e adepto em adaptar-se a cada circunstância.
+qstr_{s1}^^You_spent_your|{s1} ^ ^ você passou sua juventude como {s2}. {s3}
+qstr_Formerly_being_a_sla|Primeiramente, sendo um escravo,
+qstr_your_adult_life_was_|sua vida adulta foi cheia de miséria. Forçado a fazer todas as tarefas braçais difíceis por seus donos, você cresceu pra ser de pele grossa, rápido e forte. Às vezes seus mestres lhe davam nenhuma comida, então você teve que aprender a forragear na natureza, a fim de satisfazer a sua fome. Seu mundo era pequeno e monótono. Os dias pareciam serem sempre os mesmos. Chuva e sol puniram seu corpo durante estes dias de trabalho sem fim. Do nascer ao pôr do sol, com as costas doendo todo o tempo, sua única recompensa era ver mais um dia, apesar de alguns de seus colegas sofredores não terem tido tanta sorte. Quando você tinha algum tempo livre..--algo que raramente acontecia..--você praticou arremesso de pedras com um estilingue simples. Você pode acertar uma cabaça seca a alguns passos distantes e fazê-la explodir com uma rachadura satisfatória.
+qstr_Formerly_you_were_a_|Primeiramente, você foi um padre.
+qstr_When_you_were_not_wo|Quando você não estava trabalhando ou estudando no mosteiro, você viajou por aí espalhando a palavra de Deus. Quem quer que te ouvisse ficava muito impressionado com a paixão dos seus sermões. Embora você tivesse mantido o voto de pobreza ao longo daqueles anos itinerantes, nunca lhe faltou alimentos, bebidas ou abrigo, já que a hospitalidade dos camponeses foi particularmente generosa diante uma pessoa elevada, {reg59? mulher: homem} de Deus. De vez em quando, os aldeões iam ao mosteiro para comprar os produtos exclusivos que você fazia. ^ ^ Cura é outra das suas habilidades. Sua habilidade consertou bastante um osso quebrado e manteve muito uma alma em seu corpo em vez dela se aventurar na mãos de Deus. Cheio de fé, você se sente seguro fora dos espessos muros do mosteiro. Você está armado com nada mais do que uma vara ou um bastão, símbolos dos divinos que te confortam.
+qstr_Formerly_you_were_a_t|Primeiramente, você foi um viajante.
+qstr_Responding_to_the_ca|Respondendo ao chamado da estrada, você viajou de uma vila para outra, comercializando tudo o que você poderia encontrar. Isso não é uma vida próspera, mas você se tornou um mestre em conseguir um bom preço até mesmo da mais avarenta das solteironas. Em breve, você será capaz de criar seu próprio império mercante.
+qstr_Formerly_you_were_a_p|Primeiramente, você foi um caçador.
+qstr_Unsatisfied_with_com|Insatisfeito com o desejo desesperado de riqueza dos homens comuns, você pegou a generosidade das florestas pessoais de seu Lorde local e ajudou a si mesmo, leis que se danem. Você caçou veados, javalis e gansos e vendeu sua carne debaixo da mesa. Você cortou árvores bem debaixo do nariz dos vigilantes e as transformou em lenha para aquecer muitas casas congelando durante invernos severos. Você percebeu que honra é bem fácil trocar por alguma prata de difícil de encontrar. Quando os tempos difíceis vieram, você forrageava por comida e tornou-se um especialista em achar plantas comestíveis na natureza.
+qstr_Formerly_you_were_a_f|Primeiramente, você foi {reg59?mulher:homem} livre e além disso, {reg59? dona: dono} de um pouco de terra.
+qstr_{reg59?Being_wife_to|{reg59? Ser esposa de um homem livre significava que você ao menos tinha isso mais fácil do que as esposas dos servos. Você possuiu alguns servos que a ajudaram com o trabalho duro, mas como seu marido não tinha muita terra, você ainda tinha que fazer uma variedade de tarefas que esposas de camponeses tinham que fazer. Seu marido tinha que pagar aluguel para seu suserano e lhe devia serviços laborais para a terra. Quando o senhor estava envolvido em uma guerra, seu marido tinha que atender a seu chamado para a servir na infantaria. Naqueles tempos, ele teve que contar com seu escudo e lança no grosso da batalha. Muitas vezes ensinou você a lutar corretamente com os braços, no caso de ele não estar disponível para defender sua casa.  :Isso significa que você ao menos teve isso mais fácil do que os servos. Você tinha alguns servos que o ajudaram com o trabalho duro, mas como você não possuía muita terra, ainda tinha que fazer uma variedade de tarefas que os camponeses tinham que fazer. Você teve que pagar aluguel a seu suserano e lhe devia serviços laborais para a terra. Quando o senhor estava envolvido em uma guerra, você tinha que atender a sua chamada para servir na infantaria. Naqueles tempos, você tinha que confiar no seu escudo e lança no grosso da batalha.
+qstr_{s1}^^Through_persis|{s1} ^ ^ Através de persistência e um pouco de sorte, você aprendeu como obter favores com um dos Lordes locais. Eventualmente, ele o recomendou ao Rei, que concedeu a você um pequeno feudo de suas próprias posses. Agora você deve provar-se digno da confiança que lhe foi dada.
+qstr_{s1}^^Then_you_happe|{s1} ^ ^ Então você passou a capturar o interesse de um jovem Lorde. Ignorando tradição e os estridentes apelos de seus conselheiros, ele casou com você, mas logo depois sofreu acidentalmente um ferimento fatal durante um torneio. O Lorde não tinha uma tio vivo, irmão ou filho. Você, portanto, assumiu sua pequena, negligenciada propriedade, assim como os outros Lordes do Reino a consideraram como tendo se tornado disponível. Agora você deve estabelecer-se em suas terras.
+qstr_{s1}^^Through_persist|{s1} ^ ^ Através de persistência e um pouco de sorte, você aprendeu a obter favores com um dos Lordes locais. Uma série de eventos, tendo deixado o Reino sem um regente, ele propôs a você a partilha do reinado como um compromisso entre facções rivais. Você foi deliberadamente escolhido para ser o parceiro menor, mas uma doença súbita e fatal do Rei-Sócio, lhe deixou como único regente. Nem todo mundo está feliz com essa sucessão de eventos, e Reinos vizinhos tomaram nota da aparente fraqueza de seu reino. Agora você deve estabelecer o seu domínio.
+qstr_{s1}^^Then_you_happen|{s1} ^ ^ Então você passou a capturar o interesse do jovem Rei. Ignorando tradição e os estridentes apelos de seus conselheiros, ele casou com você, mas logo depois sofreu acidentalmente um ferimento fatal durante um torneio. O rei não tinha um tio vivo, irmão ou filho. Enquanto os senhores debatem sucessão, os Reinos vizinhos tomaram nota da aparente fraqueza de seu reino. Agora você deve estabelecer o seu domínio.
+qstr_>_Viking_Conquest_Ma|> Viking Conquest Campanha Principal
+qstr_A_storyline_campaign|Uma campanha de enredo com uma missão principal e outras características especiais.
+qstr_>_Sandbox_Campaign|> Campanha de Mundo Aberto
+qstr_No_main_story_or_spe|Nenhuma história principal ou características especiais. Você está livre para jogar como quiser.
+qstr_>_Lordly_Sandbox_Cam|> Campanha de Mundo Aberto Nobreza
+qstr_You_start_as_a_lord_|Você começa como um Lorde ou Lady de uma facção.
+qstr_>_Royal_Sandbox_Camp|> Campanha de Mundo Aberto Realeza
+qstr_You_start_as_leader_|Você começa como líder de uma facção. Vida longa ao Rei!
+qstr_{s2}^^{s3}|{s2} ^^ {s3}
+qstr_STAMINA_>_Realism_Fe|RESISTÊNCIA > característica de realismo.
+qstr_This_feature_affects|Esta característica afeta o jogador e todos os personagens do jogo. ^ Resistência é calculada a partir da Habilidade de Atletismo e de Vitalidade e afeta a resistência física durante a batalha. Quando a resistência do personagem estiver esgotada, ele ou ela não será capaz de correr e seu dano de armas serão reduzidos pela metade.
+qstr_ARMOR_PENALTY_>_Real|PENALIDADE DE ARMADURA > característica de realismo.
+qstr_This_feature_affects_|Esta característica afeta o jogador e todos os personagens do jogo. ^ Seus pontos de habilidade irão deteriorar-se quando você equipar armaduras pesadas. Esta habilidade traz melhor equilíbrio ao jogo, já que tropas leves tornam-se mais importantes.
+qstr_EASY_RECRUITMENT_>_B|RECRUTAMENTO FÁCIL> característica de Iniciante.
+qstr_When_you_ask_permiss|Quando você pedir permissão nas Vilas para recrutar, a resposta será sempre positiva e sem custo. Não recomendado para jogadores que gostam de encenação e imersão.
+qstr_RESTING_MORALE_>_Rea|DESCANSO MORAL > característica de realismo.
+qstr_INSANE_DIFFICULTY_>_|DIFICULDADE INSANA > característica de Jogador Avançado.
+qstr_Your_troops_need_thr|Suas tropas precisam de três vezes a experiência normal para serem promovidos. Seus inimigos causarão o dobro de dano enquanto você causará apenas metade. Recomendado apenas para jogadores hardcore.
+qstr_GORE_>_+18_Feature.|SANGUINOLÊNCIA > característica +18.
+qstr_DISABLE_SCENIC_MENU_|DESATIVAR MENU CÊNICO> característica de desempenho.
+qstr_Disable_the_3D_view_i|Desativar a visão 3D nos menus para melhorar o tempo de carregamento em máquinas mais lentas.
+qstr_SHIELD_BASH_>_Realis|GOLPE DE ESCUDO > característica de realismo.
+qstr_Player_and_AI_troops|Jogador e tropas de IA serão capazes de golpear os inimigos com seus escudos.
+qstr_...Anno_Domini_868..|... Anno Domini 868...
+qstr_My_name_is_Beda_the_|Meu nome é Beda o Velho, e se você mergulhar neste mundo, eu recomendo que ouça com atenção... ^ ^ Bretanha. Os Bretões a chamam Ynys Prydein, os Goidels a chamam Alba enquanto os Anglos e Saxões deram o nome de Englaland para as terras que conquistaram. Estas ilhas são grandes, ricas e bonitas... e são cobiçadas. Então a terra está atualmente em guerra e respeita apenas a lei da espada e lança. Reinos são nascidos e mortos, e Reis morrem no campo de batalha. Mulheres são viúvas e cavalos carregam armas em vez de feno. Os gritos dos guerreiros enchem o ar, e a terra fica estéril com o pisoteio dos exércitos. Como em eras passadas de lutas, inimigos mortais surgem, equipados com armadura. Corvos estão clamando, lobos estão uivando, lanças batem e escudos respondem. ^ ^ No norte, os reinos dos Anglos esmigalham diante do avanço dos Daneses. Os filhos do notório Lorde Viking Ragnar, os novos senhores destas terras, agora governam Bernaccia, Deira e Elmet, a terra conhecida como Northhymbre. ^ ^ No Sul, os Saxões de Seaxe Ocidental, liderados pelo Brytenwalda Aethelred e seu irmão Aelfred, preparam-se para a guerra. Eles sabem que do outro lado do mar, mais Daneses se preparam para cruzar o oceano em busca de fama e riqueza... ^ ^ Empurrados para as remotas margens de sua terra natal por séculos de invasão terrestre, os Bretões nativos agora são ameaçados por Vikings em sua costa. Eles lutam desesperadamente para não perder o pouco que os resta, sonhando com um rei para unificar todos eles e levá-los até a vitória final..--um novo Rei Arthur. A realidade é que suas leis de herança equitativa mantém as posses de cada Lorde pequena e unidade mais difícil de alcançar. Porém, um homem forte, Rhodri de Gwynedd, começou a impôr sua vontade sobre o resto de Gales... ^ ^ Nas terras do longínquo Norte, invasores Noruegueses há trinta anos varreram as antigas aristocracias concorrentes Gaélica e Picta com um único golpe fatal numa oportunidade de batalha de três-vias. Após este desastre, forte homem gaélico Cinead McAlpin, começou a forjar um novo reino fora dos dois povos, mas eles foram levados para o centro das terras altas de seus antigos territórios... ^ ^ Através do mar, na Irlanda, Aed mac 'Guerreiro justo' mac Niall de Aileach emergiu como Alto-Rei em Temair após superar seus inimigos, mas isso não é nada mais do que um título de prestígio. Sua reivindicação nunca é aceita pela outra metade do Ui Neill, e a luta por terra, mulheres e gado, no tipo de guerras fratricidas endêmica para essa terra, continua inabalável. Enquanto isso, ambos Vikings Daneses e Norueguês estabeleceram dezenas de fortificações costeiras. Eles usam os rios para saquear o interior Goidelic, mas eles são todos muito propensos a juntar-se ao conflito nativo..--em todos os lados... ^ ^ ^ O mundo é caos, e o caos é guerra.
+qstr_BEDA_CHRONICLE^^{s2}|CRÔNICA DE BEDA ^ ^ {s2} ^^ {s3}
+qstr_{s1}On_head.___{reg2|{s1} Na cabeça. (-{reg2} de inteligência) ^ {s2} ^^
+qstr_{s1}On_face.___{reg2|{s1} No rosto. (-{reg2} de carisma) ^ {s2} ^^
+qstr_{s1}On_body.___{reg2|{s1} No corpo. (-{reg2} de força) ^ {s2} ^^
+qstr_{s1}On_limbs.___{reg|{s1} Nos membros. (-{reg2} de agilidade) ^ {s2} ^^
+qstr_Accumulated_Injuries|Lesões Acumuladas: ^ ^ nenhuma
+qstr_Accumulated_Injuries:|Lesões Acumuladas: ^^ {s1} Um médico em uma cidade maior pode tratar essas lesões.
+qstr_Healing_wounds:^^non|Cicatrização de Feridas: ^ ^ nenhuma
+qstr_Healing_wounds:^^{s1|Cicatrização de Feridas: ^^ {s1} Estas feridas foram tratadas. Eles vão curar por conta própria.
+qstr_{s1}On_head.___{reg1|{s1} Na cabeça. (-{reg1} de inteligência) ^ ^
+qstr_{s1}On_face.___{reg1|{s1} No rosto. (-{reg1} de carisma) ^ ^
+qstr_{s1}On_body.___{reg1|{s1} No corpo. (-{reg1} de força) ^ ^
+qstr_{s1}On_limbs.___{reg1|{s1} Nos membros. (-{reg1} agilidade) ^ ^
+qstr_Scars:^^none|Cicatrizes: ^ ^ nenhuma
+qstr_Scars:^^{s1}These_in|Cicatrizes: ^^ {s1} Estas lesões tornaram-se permanentes. Eles agora não podem ser curadas.
+qstr_Lifetime_wounds:_{re|Feridas ao longo da vida: {reg1} até agora.
 ; qstr_Current_party_size_l|Current party size limit: {reg0}.^^Renown: {reg34}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Fiefs: {s6}{reg35}^Ships (only in sea): {s7}{reg2}^^{playername} can completely manage {reg36} troops.^{reg59?She:He} currently has {reg37}.
-; qstr_^No_food:___{reg7}|^No food:  -{reg7}
-; qstr_^Wage_debt:___{reg7}|^Wage debt:  -{reg7}
+qstr_^No_food:___{reg7}|^  Sem comida: -{reg7}
+qstr_^Wage_debt:___{reg7}|^ Dívida salarial:-{reg7}
 ; qstr_Currently_falling_fr|Currently falling from: +
 ; qstr_Currently_rising_fro|Currently rising from: 
 ; qstr_{s11}{s10}{s12}|{s11}{s10}{s12}
 ; qstr_^^These_Christian_tr|^^These Christian troops could cause some morale troubles: {s11}
 ; qstr_^^These_pagan_troops|^^These pagan troops could cause some morale troubles: {s11}
 ; qstr_^^Player_currently_h|^^Player currently has more troops than can be completely managed.
-; qstr_Current_party_morale|Current party morale: {reg5}.^^Base morale:  +{reg8}^Party size penalty: {s2}{reg1}^Lack of rest: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^{s7}{reg4}{s8}{s13}^^{s19}
-; qstr_{s18}^^_____________|{s18}^^----------------^^{s20}
-; qstr_{s17}_^_{s18}|{s17} ^ {s18}
-; qstr_{s15}_^_{s16}|{s15} ^ {s16}
-; qstr_{s22}^^Friends:_^{s8|{s22}^^Friends: ^{s8} ^^Enemies: ^{s6}^{s19}
-; qstr_^^Your_estates_are:_|^^Your estates are: ^{s18}^{s19}
-; qstr_Report:_^^_{s19}|Report: ^^ {s19}
-; qstr_On_loan|On loan,
-; qstr_is_{s16}_for_your_ch|is {s16} for your choice of companions, {s17} for your style of leadership, and {s18} the general state of affairs. Morale is {reg0}
-; qstr_Companions_Info:^^_{|Companions Info:^^ {s19} ^^-----------^^ Currently:^^ {s7}{s1}
-; qstr_Loyal|Loyal
-; qstr_Devoted|Devoted
-; qstr_Fond|Fond
-; qstr_Gracious|Gracious
-; qstr_Friendly|Friendly
-; qstr_Supportive|Supportive
-; qstr_Favorable|Favorable
-; qstr_Cooperative|Cooperative
-; qstr_Accepting|Accepting
-; qstr_Indifferent|Indifferent
-; qstr_Suspicious|Suspicious
-; qstr_Unhappy|Unhappy
-; qstr_Resentful|Resentful
-; qstr_Angry|Angry
-; qstr_Hostile|Hostile
-; qstr_Hateful|Hateful
-; qstr_Vengeful|Vengeful
-; qstr_Sworn_Enmity|Sworn Enmity
-; qstr_Your_relation_with_t|Your relation with the kingdoms are:^^{s2}
-; qstr_Build_your_personal_|Build your personal refuge.
-; qstr_You_already_have_a_r|You already have a refuge built. Destroy your current refuge if you want to move it here.
-; qstr_You_don_t_have_enough|You don't have enough money! The workers who would build a refuge for you demand 1000 peningas.
-; qstr_You_need_to_have_mor|You need to have more than thirty men to start this job.
+qstr_Current_party_morale|Moral atual da Tropa: {reg5}. ^ ^ Moral base: + {reg8} ^ Penalidade de tamanho da Tropa: {s2} {reg1} ^ Falta de descanso: {s3} {reg2} ^ Variedade de comida: {s4} {reg3} {s5} {s6} ^ {s7} {reg4} {s8} {s13} ^^ {s19}
+qstr_{s18}^^_____________|{s18}^^----------------^^{s20}
+qstr_{s17}_^_{s18}|{s17} ^ {s18}
+qstr_{s15}_^_{s16}|{s15} ^ {s16}
+qstr_{s22}^^Friends:_^{s8|{s22} ^ ^ Amigos: ^ {s8} ^ ^ Inimigos: ^ {s6} ^ {s19}
+qstr_^^Your_estates_are:_|^ ^ Suas propriedades são: ^ {s18} ^ {s19}
+qstr_Report:_^^_{s19}|Relatório: ^^ {s19}
+qstr_On_loan|Em empréstimo,
+qstr_is_{s16}_for_your_ch|é {s16} pela sua escolha de companheiros, {s17} pelo seu estilo de liderança e {s18} pelo estado geral das coisas. A moral é {reg0}
+qstr_Companions_Info:^^_{|Info de Companheiros: ^ ^ {s19} ^^---^^ Atualmente: ^ ^ {s7} {s1}
+qstr_Loyal|Leal
+qstr_Devoted|Dedicado
+qstr_Fond|Afeiçoado
+qstr_Gracious|Gracioso
+qstr_Friendly|Amigável
+qstr_Supportive|Apoiante
+qstr_Favorable|Favorável
+qstr_Cooperative|Cooperativo
+qstr_Accepting|Aceitando
+qstr_Indifferent|Indiferente
+qstr_Suspicious|Suspeito
+qstr_Unhappy|Infeliz
+qstr_Resentful|Ressentido
+qstr_Angry|Irritado
+qstr_Hostile|Hostil
+qstr_Hateful|Odioso
+qstr_Vengeful|Vingativo
+qstr_Sworn_Enmity|Inimizade Juramentada
+qstr_Your_relation_with_t|Sua relação com os Reinos são: ^^ {s2}
+qstr_Build_your_personal_|Construir seu Refúgio pessoal.
+qstr_You_already_have_a_r|Você já tem um Refúgio construído. Destrua seu Refúgio atual se você deseja movê-lo pra cá.
+qstr_You_don_t_have_enough|Você não tem dinheiro suficiente! Os trabalhadores que iriam construir um Refúgio pra você exigem 1000 peningas.
+qstr_You_need_to_have_mor|Você precisa ter mais de trinta homens para iniciar este trabalho.
 qstr_Your_men_await_your_|Seus homens aguardam suas ordens pra começarem a construir o refúgio. Há material coletado o suficiente até agora, e o que possa estar faltando pode ser comprado em Vilas próximas.^^Custo Total: 1000 Peningas.^Tempo necessário: 6 horas.
-; qstr_{s2}^^_{s3}|{s2}^^ {s3}
+qstr_{s2}^^_{s3}|{s2} ^^ {s3}
 qstr_Camping_allows_your_|Acampar permite que seus homens descansem por um tempo e se recuperem da dura vida das viagens. Também permite que você forrageie, aumentando seus suprimentos de comida. Isto é particularmente útil quando se está em campanha em território inimigo, onde é difícil comprar suprimentos.
-; qstr_Traveling_by_sea_exh|Traveling by sea exhausts men completely. Allowing your warriors some rest time will help make the trip more bearable.
-; qstr_You_are_in_the_kingd|You are in the kingdom of DANMARK.^^Danmark is an important Norse state in the Viking Age. The Danes not only maintain their independence against the powerful Frankish empire but also attack and plunder towns, churches and monasteries throughout Western Europe. Danish Vikings are excellent merchants who trade with most of their known world. A strong central authority has been established in Jutland, and the Danes now look beyond their own territory for land, trade and plunder. While the men are out at sea, the women manage the farms.
-; qstr_You_are_in_the_kingdo|You are in the kingdom of NORTHVEGR.^^In Northvegr, mountainous terrain and fjords form strong natural boundaries. Communities remain independent of each other, and thirty small kingdoms exist in this land. The most powerful leaders of the petty kingdoms have entered a major power struggle. The sea is the easiest way to communicate between the Norwegian kingdoms and the outside world, and the people have become traders and explorers as well as plunderers. The lack of suitable farming land forces Norwegians to colonize the sparsely populated islands to the west. Norwegians carried out the early Viking raids on Britain and Ireland, but later the Danes joined in.
-; qstr_You_are_in_the_kingdom|You are in the kingdom of LAITHLIND.^^Laithlind is the Norse-dominated part of Scotland and the Northern Islands, conquered by the Vikings three decades ago. This kingdom has become an operating base for Norwegian expansion in the British Isles. On the other hand, internal strife between the various strongmen is common.
-; qstr_You_are_in_the_kingdom_|You are in the kingdom of FRIESE.^^Friese is region along the southeastern coast of the North Sea, the homeland of the Frisians, a people closely related to the Anglo-Saxons by language. The Frisian realm is an important trading region that extends from the north of Frankia to the border of Denmark. The Frisians lost their independence first to the Franks, but now their country is under the rule of the Danish.
+qstr_Traveling_by_sea_exh|Viagem por mar exausta os homens completamente. Permitir a seus guerreiros algum tempo de descanso ajudará a tornar a viagem mais suportável.
+qstr_You_are_in_the_kingd|Você está no Reino de DANMARK. ^ ^ Danmark é um importante estado Nórdico na era Viking. Os Daneses não só mantém sua independência contra o poderoso Império Franco como também atacam e saqueiam cidades, igrejas e mosteiros em toda a Europa Ocidental. Vikings Daneses são excelentes comerciantes que negociam com a maior parte de seu mundo conhecido. Uma forte autoridade central foi estabelecida na Jutlândia, e os daneses agora olham para além de seu próprio território, por terra, comércio e saques. Enquanto os homens estão no mar, as mulheres gerenciam as fazendas.
+qstr_You_are_in_the_kingdo|Você está no Reino de NORTHVEGR. ^ ^ em Northvegr, terreno montanhoso e fiordes formam fortes fronteiras naturais. Comunidades permanecem independentes umas das outras, e trinta pequenos Reinos existem nesta terra. Os mais poderosos líderes dos pequenos Reinos entraram numa luta de grande esforço. O mar é a maneira mais fácil de comunicação entre os os reinos noruegueses e o mundo além-mar, e as pessoas se tornaram comerciantes e exploradores, bem como saqueadores. A falta de terras para cultivo adequado, força noruegueses a colonizar as ilhas pouco povoadas, a oeste. Noruegueses realizados os primeiros ataques de Viking na Bretanha e Irlanda, mas mais tarde os daneses se juntaram.
+qstr_You_are_in_the_kingdom|Você está no Reino de LAITHLIND. ^ ^ Laithlind é a parte nórdico-dominada da Escócia e as ilhas do Norte, conquistada pelos Vikings há três décadas. Este Reino tornou-se uma base operacional para a expansão norueguesa nas Ilhas Britânicas. Por outro lado, conflitos internos entre os vários homens fortes é comum.
+qstr_You_are_in_the_kingdom_|Você está no Reino de FRIESE. ^ ^ Friese é a região ao longo da costa sudeste do Mar do Norte, a pátria dos frísios, um povo intimamente relacionado aos anglo-saxões pela linguagem. O Reino de Frísia é uma importante região comercial que se estende do norte da Frankia até a fronteira de Denmark. Os frísios perderam sua independência primeiro para os Francos, mas agora seu país está sob o domínio dos Daneses.
 ; qstr_You_are_in_the_kingdom_o|You are in the kingdom of WEST SEAXE.^^West Seaxe is the westernmost kingdom of Saxons in Britain. Some decades ago, King Egbert conquered Mierce and secured his overlordship over the king of Northhymbre. He thereby became the Brytenwalda, or high king of Britain. This position of dominance was short-lived, but the expansion of West Seaxe across south England proved permanent. Egbert's later years saw the beginning of the Viking raids on West Seaxe. The Danes were decisively crushed by Egbert's son and successor, King Aethelwulf, in the Battle of Aclea. This victory postponed Danish conquests in England for fifteen years, but raids on West Seaxe continued. Aethelwulf was succeeded by each of his four surviving sons, ruling one after another: Aethelbald, Aethelbert, Aethelred, the current king, and Aelfred, currently sub-king.
 ; qstr_You_are_in_the_kingdom_of|You are in the kingdom of EAST ENGLE.^^The Kingdom of East Engle is a small independent kingdom in the eastern extremity of Britain, settled by the Angles earlier than many other British regions. It was ruled by the Wuffingas dynasty but was conquered by Mierce. The Vikings ravaged East Engle, but in later years, the Saxons defeated them in two great battles. There then followed a relatively peaceful period in which the Vikings attacked only once. However, the Danes eventually stopped raiding and showed up in force.
 ; qstr_You_are_in_the_kingdom_of_|You are in the kingdom of MIERCE.^^Mierce is one of the most powerful kingdoms of the Anglo-Saxons, centered on the river Trent and its tributaries. It was originally composed the border areas, called Midlands, that lay between the districts of Anglo-Saxon settlement and the Celtic tribes they had driven to the west. From the kingdom's capital of Tomtun, the Mercians dominated the Anglo-Saxon realms for three centuries, having annexed or gained submissions from five of the other six Anglo-Saxon kingdoms. That period is known as the Mercian Supremacy. However, the conquest of Northhymbre by the Great Heathen Army has put Mercian dominance into question.
@@ -1116,7 +1116,7 @@ qstr_Camping_allows_your_|Acampar permite que seus homens descansem por um tempo
 ; qstr_Priests_in_followers|Priests in followers' party: {reg1}^Surgery Bonus: {reg2} (max 3)
 ; qstr_Women_in_followers__|Women in followers' party: {reg1}^Wound Treatment Bonus: {reg2} (max 3)^^Note: Every 10 women (as refugees, camp women, soldiers' wives and peasants) will give +1 morale each 72 hours. Maximum +10 morale points.
 ; qstr_^^^^Followers:^^{s2}|^^^^Followers:^^{s2}^^--------------^^{s3}
-; qstr_{s5}_has_been_defeat|{s5} has been defeated!
+qstr_{s5}_has_been_defeat|{s5} foi derrotado!
 ; qstr_This_lord_is_a_priso|This lord is a prisoner of {s10}
 ; qstr_Christian_Lord|Christian Lord
 ; qstr_Pagan_Lord|Pagan Lord
@@ -1546,9 +1546,9 @@ qstr_Tutorial|Tutorial
 ; qstr_The_night_falls_whil|The night falls while the ship, the Woden Ric, crosses the ocean. There is a good wind and the Woden Ric enjoys good sailing away from the site of the battle where it stopped in the morning. The Frisian coast is near by the time you fall asleep.^The ship sails during the night while the shift rotates at the rudder. If all goes well, landfall will occur the next day, and you'll be a little closer to your destination.^If all goes well... if only your nights were not filled with nightmares of ships consumed by fire and drowned men floating on bloody water. You are trapped in this way, costing you escape even to the world of dreams, when a hand shakes you, and a voice calls loudly near your ear.^You open your eyes and see the taciturn face of the captain illuminated by the light of dawn.  You see his lips moving frantically and gradually begin to understand his words...^^
 ; qstr_Back_to_the_beginnin|Back to the beginning...
 ; qstr_View_next_segment...|View next segment...
-; qstr_{s11}_{s12}|{s11} {s12},
-; qstr_These_Christian_troo|These Christian troops could cause some problems with party morale: {s11}
-; qstr_These_pagan_troops_c|These pagan troops could cause some problems with party morale: {s11}
+qstr_{s11}_{s12}|{s11} {s12},
+qstr_These_Christian_troo|Estas tropas cristãs podem causar alguns problemas com a moral de sua Tropa: {s11}
+qstr_These_pagan_troops_c|Estas tropas pagãs podem causar alguns problemas com a moral de sua Tropa: {s11}
 ; qstr_Current_party_morale_|Current party morale is {reg5}.^Current party morale modifiers are:^^Base morale:  +{reg6}^Party size penalty: {s2}{reg1}^Lack of rest: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^Recent events: {s7}{reg4}^{s13}^^TOTAL:  {reg5}^^^
 ; qstr_Selected_faction_is:|Selected faction is: {s10}^^{s9}
 ; qstr_You_are_currently_re|You are currently reading {s8}.

@@ -173,7 +173,7 @@ qstr_Faster|Szybciej
 ; qstr_Campaign_AI_affects_|Campaign AI affects many aspects of the game, like:^- size of bandit parties^- renown loss in battles^- chance of recruiting lords^- taxes^- how lords get reinforcements^- how lords respond to the player's requests
 ; qstr_Set_the_running_spee|Set the running speed of troops in battle.^^{s8}
 ; qstr_{s2}_{reg0}|{s2} {reg0}
-; qstr_The_player_may_recei|The player may receive specific, debilitating wounds in battle. Physicians in larger towns will treat these wounds for a price, after which they will heal within a few days. Any negative effects will then be removed. If wound is not treated after some time, it will change to a scar, and the negative effects will then be permanent.
+qstr_The_player_may_recei|Lekarze w większych miastach mogę leczyć za opłatą, po której będą leczyć parę dni. Jakiekolwiek negatywne efekty będą usunięte. Jeśli rana jest leczona po jakimś czasie zmieni się w bliznę i jakiekolwiek negatywne efekty związane z tą blizną zostaną na stałe.
 ; qstr_Wounded_troops_take_|Wounded troops take damage from blood loss.^^{s8}
 ; qstr_From_now_on_spawn_33|From now on, spawn 33% less or 50% more bandits, raiders, etc.
 ; qstr_Sets_the_player_as_c|Sets the player as commander of the chosen division. This division will set up immediately left and behind the player on Hold and Follow commands (Wedge will put player on the point). Consider it for bodyguard divisions.
@@ -264,7 +264,7 @@ qstr_Hunter|Łowca
 ; qstr_Allies_Wounded:|Allies Wounded:
 ; qstr_Story|Story
 ; qstr_Attributes/Skills|Attributes/Skills
-; qstr_Wounds|Wounds
+qstr_Wounds|Rany
 ; qstr_Quest|Quest
 ; qstr_Party|Party
 ; qstr_Relations|Relations
@@ -274,7 +274,7 @@ qstr_Companions|Kompani
 qstr_Factions|Fakcje
 ; qstr_Known_Lords|Known Lords
 qstr_Courtship|Dworskość
-; qstr_Ships|Ships
+qstr_Ships|Statki
 ; qstr_Level:_{reg4}_^Days_|Level: {reg4} ^Days of Adventuring: {reg5}.
 ; qstr_Settlements_Owned_by|Settlements Owned by You: {reg0}
 ; qstr_Hostile_Lords:_{reg0|Hostile Lords: {reg0}

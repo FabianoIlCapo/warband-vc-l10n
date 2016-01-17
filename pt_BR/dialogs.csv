@@ -23,7 +23,7 @@ dlga_dog_talk_train:dog_talk_pretrain.4|Você pode ser mais rápido, meu amigo. 
 dlga_dog_talk_train:dog_talk_pretrain.5|Eis alguns {s7} para seus dentes!
 dlga_dog_talk_train:dog_talk_1|Eu não tenho mais comida para você.
 dlga_dog_talk_train:dog_talk_1.1|Isso é tudo por hoje.
-; dlga_start:close_window.1|You should go down to your mother and drop off something she can use on her way to Walhalla.
+dlga_start:close_window.1|Você deve ir até sua mãe e deixar algo que ela possa usar em seu caminho a Walhalla.
 dlga_start:close_window.2|Eu estou esperando por alguém que está vindo com uma garota. Os viu ?
 dlga_start:close_window.3|Ah, você é {playername}. Thonkrik me disse que você viria aqui. Entre no navio. Meus homens e eu mostraremos como ela veleja tranquila.
 dlga_start:port_chief_travel|Heill! Você está procurando viajar para outra cidade?
@@ -106,7 +106,7 @@ dlga_port_chief_catach2:port_chief_catach32|Infelizmente, eu perdi o livro. Voc�
 dlga_port_chief_catach32:port_chief_catach4|Meu cliente não vai ficar feliz, e as pessoas saberão que você não é confiável. Meu cliente teria me pagado 10.000 peningas pelo livro. Você tem esse tipo de dinheiro?
 dlga_port_chief_catach4:port_chief_catach5|Eu tenho o dinheiro. Aqui, pegue e me diga onde Sven está!
 dlga_port_chief_catach4:port_chief2|Infelizmente, não. Eu voltarei assim que eu tiver..
-; dlga_port_chief_catach5:port_chief_catach5_1|Oh my, you're a rich {reg59?woman:man}! The hideout is here, in Danmark, southeast of Ribe, up the river. Far thu vel.
+dlga_port_chief_catach5:port_chief_catach5_1|Oh meu Deus, você é um rico {reg59?mulher:homem}! O esconderijo é aqui, na Dinamarca, sudeste de Ribe, rio acima. Far thu vel.
 dlga_port_chief_catach5_1:port_chief2|Obrigado.
 dlga_port_chief_catach31:port_chief_catach31_1|Bem, obrigado. O esconderijo é aqui, na Dinamarca, sudeste de Ribe, rio acima. Far thu vel.
 dlga_port_chief_catach31_1:port_chief2|Obrigado.
@@ -155,7 +155,7 @@ dlga_port_r_2:port_crew_fleetpr|Meu nome é {playername}...
 dlga_port_crew_fleetpr:close_window|Desculpe, estou ocupado a preparar os barcos e suprimentos para uma frota. Se você não precisa de marinheiros, por favor, me deixe em paz e voltar mais tarde.
 dlga_port_r_2:port_crew_fleet1|Meu nome é {playername}. Aetheling Aelfred me enviou.
 dlga_port_r_2:port_crew_fleet1.1|Meu nome é {playername}. Jarl Rathbarth enviar-me.
-; dlga_port_crew_fleet1:port_crew_fleet2|^^Greetings, {playername}. I was notified about your arrival. You are in charge of a fleet bound for Frankia. There are men, guides and boats waiting for you to join them out of port.
+dlga_port_crew_fleet1:port_crew_fleet2|^ ^ Saudações, {playername}. Fui notificado sobre sua chegada. Você está no comando de uma frota com destino a Frankia. Existem homens, guias e barcos esperando por você para se juntar a eles fora do porto.
 dlga_port_crew_fleet2:the_fleetcrew1|Sim, chegou a hora. Douar-um-Enez me aguarda.
 dlga_the_fleetcrew1:close_window|Disseram-me que seria a semanas, meses fora, então boa sorte. Sua frota está esperando por você na saída do porto. Pegue seu barco e vá com eles.
 dlga_port_crew_fleet2:close_window|Não, eu preciso terminar umas coisas. Eu vou voltar.
@@ -975,7 +975,7 @@ dlga_bodo_carta2:bodo_carta34|-Você não sabe ler, então não consegue entende
 dlga_bodo_carta2:bodo_carta35|Me conte sobre esta carta, Bodo. Por que ela é tão importante?
 dlga_bodo_carta31:bodo_carta4|{s2} ^ ^ Não se preocupe. Estou ciente da pressão que você sente em seus ombros e da preocupação que tens pela vida de sua mãe. O que importa agora é que estamos juntos e nós temos a carta.
 dlga_bodo_carta32:bodo_carta4|Felizmente, eles precisavam de mim para descriptografar o documento. Se eu tivesse dado a eles o que queriam, eu estaria morto há muito tempo. Bem, eu não quero pensar sobre isso. Agora estamos juntos de novo e temos a carta.
-; dlga_bodo_carta4:bodo_carta33|--You open the parchment carefully, avoiding touching Atli's bloodstains with your fingers. You try reading the letter.--
+dlga_bodo_carta4:bodo_carta33|-Você abre o pergaminho cuidadosamente, evitando tocar as manchas de sangue do Atli com os dedos. Você tenta ler a carta....
 dlga_bodo_carta4:bodo_carta34|-Não sabe como ler, então você não pode entender isso. Dê a carta para Bodo....
 dlga_bodo_carta4:bodo_carta35|Me conte sobre esta carta, Bodo. Por que ela é tão importante?
 ; dlga_bodo_carta33:bodo_carta34|--The text is Latin, and it talks about Noah and his ark, with many comments by a monk, but nothing that would appear relevant.--

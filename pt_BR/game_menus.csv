@@ -315,13 +315,13 @@ mno_village_manage|Gerenciar esse vilarejo.
 mno_recruit_volunteers|Recrutar Voluntários.
 mno_village_center|Ir ao centro do vilarejo.
 mno_village_center_door|Porta para o centro do vilarejo.
-; mno_meet_leader|Meet the leader.
+mno_meet_leader|Encontrar o líder.
 mno_meet_leader_door|Porta para o centro do vilarejo.
 mno_village_buy_food|Comprar suprimentos dos aldeões.
 mno_comprar_cattle|Quero comprar gado.
 mno_village_attack_bandits|Atacar os bandidos.
 mno_village_wait|Esperar aqui por algum tempo.
-; mno_collect_taxes_qst|{reg5?Continue collecting taxes:Collect taxes}.
+mno_collect_taxes_qst|{reg5? Continuar coletando impostos: coletar impostos}.
 mno_train_peasants_against_bandits_qst|Treinar os aldeões.
 mno_village_hostile_action|Tomar uma ação hostil.
 mno_village_leave|Sair...
@@ -333,7 +333,7 @@ mno_village_steal_cattle|Roubar gado.
 mno_village_loot|Pilhar e queimar essa vila.
 menu_recruit_volunteers|{s18}
 ; mno_continue_not_enough_gold|I don't have enough money.
-; mno_recruit_them|Recruit them ({reg6} peningas).
+mno_recruit_them|Recrutá-los ({reg6} peningas).
 ; menu_village_hunt_down_fugitive_defeated|A heavy blow from the fugitive sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again, you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
 ; menu_village_confront_contact_defeated|A heavy blow from the villager sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again, you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
 ; menu_village_hunt_lover_defeated|A heavy blow from the ghost sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again, you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
@@ -402,23 +402,23 @@ menu_close|Nada.
 ; mno_join_tournament|Join the Competition.
 ; mno_town_castle|Visit the lord's hall.
 ; mno_town_castle_door|To the Meduseld.
-; mno_town_center|Stroll through town.
+mno_town_center|Passear pela cidade.
 ; mno_town_center_door|To the center of town.
-; mno_town_tavern|Visit the mead hall.
+mno_town_tavern|Visitar o Salão de Hidromel.
 ; mno_town_tavern_door|To the mead hall.
 mno_town_merchant|Falar com o comerciante.
 ; mno_town_merchant_door|To the merchant.
-; mno_town_arena|Visit the training grounds.
+mno_town_arena|Visitar os campos de treinamento.
 ; mno_town_arena_door|To the training grounds.
 mno_town_dungeon|Nunca: Entre na prisão
 ; mno_town_dungeon_door|To the prison.
-; mno_castle_inspect|Tour the grounds.
+mno_castle_inspect|Visitar o terreno.
 mno_castle_inspect_door|Partir.
-; mno_town_enterprise|Visit your farmstead.
+mno_town_enterprise|Visitar sua chácara.
 ; mno_town_enterprise_door|To your enterprise.
-; mno_visit_lady|Attempt to visit a lady.
+mno_visit_lady|Tentar visitar uma Lady.
 ; mno_visit_lady_door|To the garden.
-; mno_trade_with_merchants|Trade with locals.
+mno_trade_with_merchants|Fazer comércio com habitantes locais.
 ; mno_travel|Travel to another port.
 ; mno_travel_door|Outfit your party.
 mno_walled_center_manage|Gerenciar {reg0?essa cidade:esse castelo}.
@@ -426,11 +426,11 @@ mno_walled_center_move_court|Mudar sua corte para cá.
 mno_castle_station_troops|Gerenciar a guarnição {s10}
 ; mno_castle_wait|Wait here for some time {s5}.
 ; mno_castle_wait_door|Bed.
-; mno_town_alley|Ask for potential recruits.
-; mno_town_visit_port|See the ships.
+mno_town_alley|Perguntar por potenciais recrutas.
+mno_town_visit_port|Ver os navios.
 ; mno_banquete_mead|My men deserve a symbel in {reg0?town:castle}. Buy mead and food.
 ; mno_banquete_mead_door|Set sail.
-; mno_set_sail|Sail from port.
+mno_set_sail|Velejar a partir do Porto.
 ; mno_set_sail_door|Set sail.
 mno_town_leave|Sair...
 mno_town_leave_door|Deixar a área.
@@ -876,7 +876,7 @@ mno_choice_01_1bar|Continue.
 ; mno_hirelair_staff|Hire staff.
 ; mno_lair_inspect|Take a walk around your refuge.
 ; mno_lair_inspect_door|Go to the square.
-; mno_mylair_station_troops|Manage the garrison.
+mno_mylair_station_troops|Gerenciar a guarnição.
 ; mno_demoler_lair|Demolish your personal refuge.
 mno_lair_wait|Esperar aqui por algum tempo.
 ; mno_embarkre|Embark.
