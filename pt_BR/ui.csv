@@ -641,7 +641,7 @@ ui_gender|Escolha o Gênero:
 ui_edit_profile|Editar Perfil
 ui_new_profile|Novo Perfil
 ui_enter_username|Entre Nome de Usuário:
-; ui_invalid_username|Usernames may only contain letters, numbers or '_' character.
+ui_invalid_username|Nomes de usuário devem conter apenas letras, números ou caracteres '_'.
 ui_confirmation|Tem certeza?
 ui_multiplayer|Multijogador
 ui_server_name|Servidor
@@ -748,4 +748,4 @@ ui_plase_enter_your_serial_key|Por favor insira sua chave de série
 ui_texture_detail2|Detalhe da textura:
 ui_antialiasing2|Antialiasing:
 ui_troop_upgrades|Árvore de Tropa
-; ui_crouch|Crouch
+ui_crouch|Agachar
