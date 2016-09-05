@@ -76,7 +76,7 @@ mno_cattle_kill_3|Tre.
 mno_cattle_kill_4|Quattro.
 mno_cattle_kill_5|Cinque.
 mno_cattle_kill_20|Venti.
-menu_arena_duel_fight|Un duello è una cosa molto seria, soprattutto se è la morte. In due entrare nel cerchio, ma solo uno viene fuori ... ^^ il corpo e la mente reagiscono allo stress e al pericolo. Si sente il sudore freddo sotto le ascelle, il tipo che viene a prescindere dal fatto che sia o non caldo. È il sudore della lotta, e la sua presenza indica che si ... sei pronto.
+menu_arena_duel_fight|Un duello è una cosa molto seria, soprattutto se è all'ultimo sangue. In due entrate nel cerchio, ma solo uno viene fuori ... ^^ Il corpo e la mente reagiscono allo stress e al pericolo. Si sente il sudore freddo sotto le ascelle, il tipo che viene a prescindere dal fatto che sia o no caldo. È il sudore della lotta, e la sua presenza indica che si ... sei pronto.
 menu_simple_encounter|{s2} Tu hai {reg10} truppe pronte per la battaglia contro le sue {reg11}.^^{s7}
 mno_playerambush_attack|Attacco in un'Imboscata.
 mno_ambush_attack|Difesa da un'Imboscata.
@@ -108,7 +108,7 @@ mno_pre_join_help_defenders|Fornire sostegno a {s1}.
 mno_pre_join_leave|Non farti coinvolgere.
 menu_join_battle|Stai aiutando {s2} contro {s1}. Avete {reg10} truppe pronte per la battaglia contro le {reg11} del nemico.
 mno_join_attack|{s7} il nemico.
-; mno_join_order_attack|Order your troops to join your allies while you stay back.
+mno_join_order_attack|Ordina alle tue truppe di unirsi ai tuoi alleati mentre rimani nella retroguardia.
 mno_join_leave|Lascia.
 menu_join_order_attack|{s4}^^Le tue perdite: {s8}^^Le perdite alleate: {s9}^^Le perdite del nemico: {s10}
 menu_zendar|Entri nella città di Zendar.
@@ -171,11 +171,11 @@ menu_castle_meeting|Chi vuoi incontrare?
 mno_guard_meet_s5|{s5}.
 mno_forget_it|Lascia stare.
 menu_castle_meeting_selected|La tua richiesta per un incontro viene trasmessa e finalmente {s6} appare nel cortile per parlare con te.
-menu_port_attack|Stai attaccando il porto di {s1}. Hai {reg10} truppe in forma per la battaglia contro il nemico {reg11}.
+menu_port_attack|Stai attaccando il porto di {s1}. Hai {reg10} truppe pronte per la battaglia contro il nemico {reg11}.
 mno_lead_attack|Porta i tuoi soldati in un assalto costiero.
 mno_attack_stay_back|Ordina ai tuoi uomini di attaccare mentre tu rimani nelle retrovie...
 mno_lift_siege|Abbandona l'attacco.
-; menu_castle_besiege|You are laying siege to {s4}. {s2} ^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}
+menu_castle_besiege|Stai assediando {s4}. {s2} ^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}
 mno_siege_request_meeting|Chiedi un incontro con il comandante del castello.
 mno_siege_warfare_p|Guerra d'assedio (Pianifica Assedio).
 mno_siege_assault_p|Guerra d'assedio (Prepara l'assalto).
@@ -184,18 +184,18 @@ mno_wait_24_hours|Aspetta fino a domani.
 menu_siege_plan|Ti incontri con i tuoi consulenti per pianificare l'assedio e cercare di conquistare {s4} con le minor perdite possibili. La tua strategia potrebbe essere quello di portare il posto alla carestie e alla demoralizzazione.^^{s15} {s17} {s18} {s19} {s20}
 mno_build_circunvalation|Bloccare: costruisce posti di blocco intorno {s4}
 mno_close_circunvalation|I posti di blocco sono Completati. Ora Ordina di attivare l'Osservazione.
-; mno_town_investigar|Investigate the defenses: try to sneak inside. (Tracking)
+mno_town_investigar|Investiga sulle difese: prova ad infiltrarti. (Tracking)
 mno_traicion_interna|Trova un traditore all'interno delle difese di {s4}.
 mno_traicion_interna3|Novità dagli uomini inviati in cerca di un traditore?
-; mno_infiltracion_interna|Send some men to infiltrate the place.
+mno_infiltracion_interna|Manda alcuni uomini ad infiltrarsi.
 mno_infiltracion_interna3|Novità dagli uomini inviati a infiltrarsi?
 mno_build_varios|Ordina la costruzione di servizi igienico-sanitari per prevenire le malattie.
-; mno_destruir_campos_a|Pillage farms to replenish your stocks and harm the enemy.
-; mno_destruir_campos_b|Any news from the men I sent to pillage farms?
+mno_destruir_campos_a|Saccheggia le fattorie per riempiere i tuoi rifornimenti e provocare danni al nemico.
+mno_destruir_campos_b|Novità dall'uomo che ho inviato a saccheggiare le fattorie?
 menu_siege_assault|Il tempo è essenziale, e si teme l'arrivo dei rinforzi per il posto. Assaltare significherà pesanti perdite, ma avete fatto la vostra parte. ^^ {s17} {s18} {s19}
 mno_scout_investigar|Chiama gli esploratori per fare rapporto su  {s4}.
-; mno_poniendo_elementos_mantles|Order the vanguard to place the mantlets.
-; mno_poniendo_elementos|Order the vanguard to prepare the assault.
+mno_poniendo_elementos_mantles|Ordina all'avanguardia di piazzare i mantelletti.
+mno_poniendo_elementos|Ordina all'avanguardia di preparare l'assalto.
 mno_castle_lead_attack|È arrivata l'ora. Guida i tuoi soldati all'assalto!
 mno_build_mantlet|Costruisci Mantelletti.
 mno_build_ladders|Costruisci l'attrezzatura e libera il terreno per l'assalto.
@@ -203,7 +203,7 @@ mno_build_siege_tower|Costruisci una torre d'assedio e altre attrezzature per as
 menu_siege_attack_meets_sally|I difensori si apprestano a respingere l'assalto.
 menu_nofood_siege_defenders_sally|La mancanza di cibo costringe i difensori disperati di {s4} ad un'incursione all'esterno nel tentativo di rompere l'assedio.
 menu_surrender_siege_defenders_starved|I difensori di {s4} non possono più resistere. L mancanza di cibo li ha debilitati. Già i più deboli sono morti di fame, e in alcuni casi, la necessità ha portato a cannibalismo. ^ {s4} è pronto ad arrendersi...
-; menu_castle_attack_walls_simulate2|{s4}^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_castle_attack_walls_simulate2|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico: {s10}
 menu_sneak_into_town_suceeded2|Travestito e sotto la copertura delle tenebre, ti sei infiltrato {s4}. È il momento di scoprire le loro difese.
 menu_construct_saneamiento|I servizi igienico-sanitari sono importanti per impedire le malattie e ratti. È possibile costruire latrine e condutture per prevenire l'accumulo di fango e sporcizia dalla pioggia, e scavare un serbatoio per avere una fornitura d'acqua disponibile. Vuoi farlo? ^ ci vorranno 4 ore.
 mno_build_saneamiento|Fallo.
@@ -230,7 +230,7 @@ mno_regreso_lucha|Le tue peggiori paure si sono avverate.
 menu_emboscada_victory|Il traditore conduce i tuoi uomini attraverso la notte ad una collina che controlla il percorso di un pozzo. I tuoi uomini assumono posizioni nella vegetazione, in silenzio, le loro facce tinte di nero. Allo spuntar del giorno, i tuoi uomini individuano un folto gruppo di nemici con l'acqua. ^ ^ un grido di battaglia riempie la valle e i tuoi soldati cadono sul nemico come una marea di morte... uccidendone molti.
 menu_traicion_resultado5|Quando i tuoi uomini ritornano, ti dicono che hanno contattato un uomo che ha il controllo delle razioni, e ha promesso di aumentare il prezzo del cibo ai suoi concittadini per seminare il malcontento, che li rende più propensi abbandonare la fortezza.
 mno_traicion_moral|Perfetto!
-; menu_traicion_lucha|Your men and the enemy fight to the death at the foot of the wall, where everything is unfavorable to your troops. You watch them fighting and retreating towards you. Many bodies are left behind. ^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_traicion_lucha|I tuoi uomini e il nemico combattono fino alla morte ai piedi delle mura, dove qualunque cosa sfavorisce le tue truppe. Li guardi combattere e ritirarsi di fronte a te. Molti corpi sono lasciati indietro. ^^Le tue perdite: {s8}^^Le perdite del nemico: {s10}
 mno_regreso_luchar|Bene, non lasciamo indietro nessuno.
 menu_infiltracion_resultado1|Sono tornati senza notizie. Non sono riusciti ad entrare nell'insediamento.
 mno_back_behindi|Solo sfortuna, immagino.
@@ -247,19 +247,19 @@ menu_infiltracion_resultado4_c|I tuoi uomini sono tornati. Mi hanno detto che ha
 mno_aceptar_oki|Questa è una buona notizia. Lascerà meno uomini per difendere le mura.
 menu_infiltracion_resultado5|Oh, signore. Il nemico ha inviato un sacco con le teste dei tuoi uomini. Alcuni dei nostri soldati hanno visto, e la paura dilaga nel campo.
 mno_infiltracion_morali|Vigliacchi! Come possono un paio di teste affondare il morale dell'esercito? Sono Uomini o bestiame?
-; menu_campos_cercanos1|{reg59?Lady:Sir}, crops and farms were burned, but since this is not the harvest season, it wasn't possible to get food.
+menu_campos_cercanos1|{reg59?Lady:Sir}, coltivazioni e fattorie sono state bruciate, ma dal momento che questa non è la stagione del raccolto, non è stato possibile per ottenere il cibo.
 mno_back_behind_d|Ben fatto, non ti preoccupare.
-; menu_campos_cercanos2|{reg59?Lady:Sir}, crops and farms were burned, and as it is the harvest season, we found an abundance of food.
+menu_campos_cercanos2|{reg59?Lady:Sir}, coltivazioni e fattorie sono state bruciate, e siccome è la stagione del raccolto, abbiamo trovato cibo in abbondanza.
 mno_back_behind_c|Ben fatto, il cibo è sempre benvenuto.
-; menu_campos_cercanos2_c|{reg59?Lady:Sir}, crops and farms were burned. The grain is still green, but edible. We found an abundance of food.
+menu_campos_cercanos2_c|{reg59?Lady:Sir}, coltivazioni e fattorie sono stati bruciate. Il grano è ancora verde, ma commestibile. Abbiamo trovatto cibo in abbondanza.
 mno_back_behind_cc|Ben fatto, il cibo è sempre benvenuto.
-; menu_campos_cercanos3|{reg59?Lady:Sir}, we burned the fields, but as it is after the harvest time, there was no grain left. However, the farmers have left some of their cattle behind.
+menu_campos_cercanos3|{reg59?Lady:Sir}, abbiamo bruciato i campi, ma visto che la stagione del raccolto è già passata, non c'era grano rimasto. Comunque, i fattori hanno lasciato alcuni dei loro bestiami indietro.
 mno_back_behind_bc|Il cibo è sempre benvenuto.
-; menu_campos_cercanos4|We have encountered problems. The fields were burned, but the farmers struck back with support from some members of the garrison.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_campos_cercanos4|Abbiamo avuto dei problemi. I campi sono stati bruciati, ma i fattori ci hanno respinti con il supporto di alcuni membri della guarnigione.^^Your casualties: {s8}^^Enemy casualties: {s10}
 mno_back_behind_ac|Notizie terribili!
-; menu_poner_escaleras|Your vanguard advances, bringing ladders, shovels and other useful siege equipment... A display of men armed with ranged weapons goes forth, attracting the enemy's missiles. Your heart races in its bony cage. Somehow, all battles seem to be the first.^The thrill, terror and sweat are there, always. Your men make a shield formation to protect themselves...^^Your casualties: {s8}^^Enemy casualties: {s10}
-; mno_back_behind_esc1|Your men have met the enemy. It is your turn...
-; menu_poner_escaleras_mantlets|Your vanguard advances, bringing ladders, mantlets, shovels and other useful siege equipment... A display of men armed with ranged weapons goes forth, guarded by mantlets, attracting the enemy's missiles. Your heart races in its bony cage. Somehow, all battles seem to be the first.^The thrill, terror and sweat are there, always. Your men make a shield formation to protect themselves, and using the mantlets saves still more lives. ^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_poner_escaleras|La tua avanguardia avanza, portando scale, pale e altre attrezzature d'assedio utili... Un gruppo di uomini armati con armi a distanza va avanti, attirando i proiettili del nemico. Il tuo cuore batte nella sua gabbia ossea. In qualche modo, tutte le battaglie sembrano essere la prima.^Il brivido, terrore e sudore ci sono, sempre. I tuoi uomini formano un muro di scudi per proteggere se stessi...^^Le tue vittime: {s8}^^Le vittime nemiche: {s10}
+mno_back_behind_esc1|I tuoi uomini hanno incontrato il nemico. E' il tuo turno...
+menu_poner_escaleras_mantlets|La tua avanguardia avanza, portando scale, pale e altre attrezzature d'assedio utili... Un gruppo di uomini armati con armi a distanza va avanti, protetto dai plutei di legno, attirando i proiettili del nemico. Il tuo cuore batte nella sua gabbia ossea. In qualche modo, tutte le battaglie sembrano essere la prima.^Il brivido, terrore e sudore ci sono, sempre. I tuoi uomini formano un muro di scudi per proteggere se stessi e l'uso dei plutei permette di salvare ancora più vite...^^Le tue vittime: {s8}^^Le vittime nemiche: {s10}
 mno_back_behind_esc2|I tuoi uomini hanno incontrato il nemico. È il tuo momento...
 menu_informacion_ciudad|Un esploratore appare davanti a voi: '{s11}^{s12}{s1}{s5}{s17}'
 mno_regreso_luchain|Grazie. Le tue informazioni sono importanti!
@@ -270,7 +270,7 @@ menu_construct_ladders|Come membro della compagnia con la più alta abilità in 
 mno_build_ladders_cont|Fallo.
 menu_construct_siege_tower|Come membro della compagnia con la più alta abilità in Ingegneria, ({reg2)}, {reg3?prevedi:{s3} prevede} che costruire una torre d'assedio e altro equipaggiamento per l'assalto ci vorranno {reg4} ore.
 mno_build_siege_tower_cont|Comincia a costruire.
-; menu_castle_attack_walls_simulate|{s4}^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_castle_attack_walls_simulate|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico: {s10}
 menu_castle_attack_walls_with_allies_simulate|{s4}^^Le tue perdite: {s8}^^Le perdite alleate: {s9}^^Le perdite del nemico: {s10}
 menu_castle_taken_by_friends|Niente da vedere qui.
 menu_castle_taken|La battaglia per {s60} è quasi finita. Le tue truppe sono impazienti di iniziare a saccheggiare {reg2?la città:il forte}. {s10}^Puoi decidere di vietare alle tue truppe di far danno {reg2?alla città:al forte}. se vuoi conquistarlo per la tua fazione, ma le tue truppe potrebbero perdere morale. Puoi consentire di saccheggiare un pò e tenere {reg2?la città:il forte}, oppure per riempirti un pò le tasche e lasciare il posto saccheggiato al nemico. Infine, puoi anche decidere di devastare completamente il posto in modo da fare più bottino possibile, schiavizzare gli abitanti, e renderlo di nessun valore per il suo possessore.
@@ -281,7 +281,7 @@ mno_saqueo_normal|Saccheggia {reg2?la città:il forte} e vattene.
 mno_saqueo_total|Devasta il posto e vattene.
 menu_castle_taken_plunder|{reg2?La città è stata saccheggiata:Il forte è stato saccheggiato}. Hai raccolto {reg7} denari.
 menu_castle_taken_native|{s3} è caduto per mano delle tue truppe, e adesso hai il completo controllo {reg2?della città:del forte}. {reg1? puoi stanzionare truppe qui per difenderla da nemici che possono cercare di ricatturarla. Inoltre, adesso dovresti scegliere se terrai {reg2?la città:il castello} per te stesso oppure darlo a un fedele vassallo...:}
-; menu_castle_taken_keepplunder|{s3} has fallen to your troops, and you now have full control of the {reg2?town:fort}. Your troops run through the streets getting as much stuff as they can carry. The {reg2?town:fort} is plundered. You have collected {reg7} peningas. {reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
+menu_castle_taken_keepplunder|{s3} ha ceduto alle tue truppe, e ora avete il pieno controllo di {reg2?town:fort}. Le tue truppe corrono per le strade prendendo tutto ciò che possono trasportare. {reg2?town:fort} viene saccheggiata. Hai raccolto {reg7} peningas. {reg1? Puoi stazionare truppe qui per difenderti contro i nemici che potrebbero tentare di riconquistare il luogo. Inoltre, è necessario selezionare ora se deciderai di tenere {reg2?town:castle} per te o darla ad un vassallo fedele ...:}
 menu_castle_taken_2|{s3} è caduto per mano delle tue truppe, e adesso hai il completo controllo del forte. è giunto il momento di mandare parola a {s9} della tua vittoria. {s5}
 mno_castle_taken_claim|Chiedi che {s3} ti venga assegnato.
 mno_castle_taken_claim_2|Richiedi che {s3} sia assegnato {reg59?tuo marito:tua moglie}.
@@ -343,7 +343,7 @@ menu_village_infestation_removed|In una battaglia degna di essere ricordata nell
 mno_village_bandits_defeated_accept|Prendi quanto ti è dovuto.
 mno_village_bandits_defeated_cont|Rifiuta, affermando che loro ne hanno molto più bisogno di te.
 menu_center_manage|{s19}^{reg6?^^Attualmente stai costruendo {s7}. L'edificio sarà completato tra {reg8} giorno{reg9?/i:}.:}
-; mno_center_build_manor|Build a mead hall.
+mno_center_build_manor|Costruisci una sala dell'idromele.
 mno_center_build_fish_pond|Costruisci un mulino.
 mno_center_build_watch_tower|Costruisci una torre d'osservazione
 mno_center_build_school|Costruisci una scuola.
@@ -423,12 +423,12 @@ mno_travel|Viaggia a un altro Porto.
 mno_travel_door|Equipaggia i tuoi uomini.
 mno_walled_center_manage|Amministra {reg0?questa città:questo castello}.
 mno_walled_center_move_court|Sposta qui la tua corte.
-; mno_castle_station_troops|Manage the garrison {s10}.
+mno_castle_station_troops|Gestisci la guarnigione {s10}.
 mno_castle_wait|Aspetta qui per un pò di tempo.
 mno_castle_wait_door|Letto.
 mno_town_alley|Chiedi di potenziali reclute.
 mno_town_visit_port|Vedi le navi.
-; mno_banquete_mead|My men deserve a symbel. Buy mead and food.
+mno_banquete_mead|I miei uomini meritano un symbel. Compra idromele e cibo.
 mno_banquete_mead_door|Salpa.
 mno_set_sail|Salpare dal porto.
 mno_set_sail_door|Salpa.
@@ -1036,7 +1036,7 @@ menu_morrigan_dialog_final|Appena ti allontani dal forte di Mael Bresail, Morrig
 mno_talk_to_morrigan|Parla con Morrigan.
 menu_event_siege_01|Uno dei tuoi consiglieri ti dice che ha trovato dei ratti nelle razioni che i tuoi uomini stanno mangiando. Questo poteva essere evitato con dei servizi igienici adeguati!
 mno_choice_01_1a|Questo è terribile! Distruggi le forniture contaminate.
-; mno_choice_01_2a|My men must eat. Kill as many rats as you can.
+mno_choice_01_2a|I miei uomini devono mangiare. Uccidi tutti i ratti che puoi.
 menu_ratas_siege|Prima che tutti i topi siano sterminati, molti dei tuoi uomini si ammalano e muoiono^^ le tue vittime: {s8}
 mno_back_to_siegea|Fatto
 menu_event_siege_02|La scarsa igiene nel vostro campo ha causato la dissenteria. Gli uomini cominciano a morire intorno a voi. Questo poteva essere evitato con dei servizi igienici adeguati!
@@ -1052,19 +1052,19 @@ mno_back_to_sieged|Fatto
 menu_enfermedad4_siege|Grazie alle tue abilità di guarigione riesci a salvare molte vite, ma alcuni muoiono comunque^^le tue vittime: {s8}
 mno_back_to_siegees|Torna all'assedio,
 menu_event_siege_03|C'è così tanta spazzatura, parassiti e altre cose disgustose che il tuo campo sembra più un porcile. I tuoi uomini sono infelici. Questo avrebbe potuto essere evitato con dei servizi igienici adeguati!
-; mno_choice_03_4c|I will give an inspiring speech to gain time.
+mno_choice_03_4c|Terrò un discorso motivante per guadagnare tempo.
 mno_choice_03_2c|Vedrò cosa posso fare.
 menu_event_siege_04|Alcuni nemici sono riusciti a infiltrarsi durante la notte e hanno bruciato  alcune delle nostre scorte. Parte del nostro cibo è andata distrutta.
-; mno_choice_04_1d|Punish the men who were on duty that night.
+mno_choice_04_1d|Punisci l'uomo che si trovava di turno quella notte.
 mno_choice_04_2d|Non fare nulla!
 ; menu_event_siege_05|During the night, your men captured and executed a group of enemies who tried to infiltrate and burn supplies.^^Enemy casualties: {s8}
 mno_choice_05_1e|Congratulati con loro per aver svolto bene il loro compito.
-; mno_choice_05_2e|Reward each with a warrior bracelet (300 peningas).
-; mno_choice_05_3e|Reward them with a night off with pay (200 peningas).
-; mno_choice_05_4e|Do nothing. You are a stern leader.
+mno_choice_05_2e|Premia ogni guerriero con un bracciale (300 peningas).
+mno_choice_05_3e|Premia ogni guerriero con un bracciale (200 peningas).
+mno_choice_05_4e|Non fare niente. Sei un leader austero.
 ; menu_event_siege_06|{reg59?Lady:Sir}, our food supply routes may be in danger. Our scouts have discovered enemy raiders behind our lines.^^We could avoid such problems by blockading the place.^^Do you want to send men to protect the routes and pursue the enemy?
-; mno_choice_06_1f|Send men.
-; mno_choice_06_2f|Send messengers to pay them off (500 peningas).
+mno_choice_06_1f|Invia degli uomini.
+mno_choice_06_2f|Manda dei messaggeri per pagarli (500 peningas).
 mno_choice_06_3f|Non fare nulla.
 ; menu_encuentro_avituallamiento|You dispatch a group of men to protect and pursue the enemies that plague your supply routes. Your men attempt to corner the enemy to force him to fight until death. There are some losses, but your men manage to win the battle and secure the supply routes.^^Your casualties: {s8}^^Enemy casualties: {s10}
 mno_back_to_siegeg2|Ben fatto.
@@ -1073,12 +1073,12 @@ mno_back_to_siegeg3|Molto bene.
 menu_event_siege_07|I nostri esploratori hanno scoperto che i difensori hanno avvelenato l'acqua con animali morti. Vuoi comprare acqua e chiedere ai mercanti di portarla attraverso la nostra rotta di rifornimento?
 mno_choice_07_1g|Sì (600 denari).
 mno_choice_07_2g|No. Raziona l'acqua e scava nuovi pozzi.
-; mno_choice_07_3g|Without water, we cannot continue. Abandon the siege.
+mno_choice_07_3g|Senza acqua, non possiamo continuare. Abbandona l'assedio.
 menu_sed_siege|L'acqua si sta esaurendo e tuoi uomini si indeboliscono. Spinti dalla follia della sete alcuni di loro bevono l,acqua avvelenata e muoiono. Infine, un pozzo è completato e ottieni l'acqua. Per il momento, è possibile continuare l'assedio^^le tue vittime da acqua avvelenata sono:{s8}
 mno_back_to_siegeh|Il destino è inesorabile.
 menu_event_siege_08|Cattive notizie: uno dei nostri uomini ha disertato per il nemico. Può essere a causa del suo basso morale o perché gli hanno offerto del denaro. Qualunque cosa sia successa, il nemico può sapere i nostri piani.
 mno_choice_08_1h|Offri 400 denari. Non vuoi altre diserzioni.
-; mno_choice_08_2h|Offer 800 peningas to minimize temptation.
+mno_choice_08_2h|Offri 800 peningas per minimazzare la tentazione di disertare.
 mno_choice_08_3h|Non preoccuparti. Posso sempre cambiare i miei piani.
 menu_event_siege_09|Un disertore il nemico si è unito alle nostre fila. Egli ci ha informato che {s2}.
 mno_choice_09_1i|È il benvenuto nelle nostre fila.
@@ -1097,35 +1097,35 @@ mno_choice_12_4j|Uccidili il contadino e sua moglie.
 menu_no_paymentandkill|Per vendetta, gli uomini dei villaggi vicini si sono riuniti e hanno attaccato le vostre truppe di approvvigionamento^^le tue perdite: {s8}
 mno_choice_nppayment_2j|Dannazione!
 ; menu_event_siege_13|A group of enemies attacked our men by surprise and then quickly withdrew.^^Your casualties: {s8}^^Enemy casualties: {s10}
-; mno_choice_13_1b|Be more cautious (Solution: blockade the place).
+mno_choice_13_1b|Sii più prudente (Soluzione: Blocca il luogo).
 ; menu_event_siege_14|While foraging, a group of enemies encountered a group of our men.^^Your casualties: {s8}^^Enemy casualties: {s10}
-; mno_choice_14_1b|Be more cautious (Solution: blockade the place).
+mno_choice_14_1b|Sii più prudente (Soluzione: Blocca il luogo).
 ; menu_event_siege_15|We were attacked by an enemy force while raiding neighboring villages. The villagers joined the enemy, causing us many casualties.^^Your casualties: {s8}^^Enemy casualties: {s10}
-; mno_choice_15_1b|Be more cautious (Solution: blockade the place).
+mno_choice_15_1b|Sii più prudente (Soluzione: Blocca il luogo).
 ; menu_event_siege_16|The enemy and our men came upon each other near a river, and the fight for water caused numerous casualties on both sides.^^Your casualties: {s8}^^Enemy casualties: {s10}
-; mno_choice_16_1b|Be more cautious (Solution: blockade the place).
+mno_choice_16_1b|Sii più prudente (Soluzione: Blocca il luogo).
 ; menu_event_siege_17|The enemy sallied out through a secret passage, attacking us before swiftly retreating back to the protection of their walls.^^Your casualties: {s8}^^Enemy casualties: {s10}
-; mno_choice_17_1b|Be more cautious (Solution: blockade the place).
+mno_choice_17_1b|Sii più prudente (Soluzione: Blocca il luogo).
 menu_event_siege_18|Alcuni dei vostri uomini hanno rapito delle donne dai villaggi circostanti e le hanno portate al campo d'assedio per divertirsi.
 mno_choice_18_1b|Loro acconsentono a lasciarti la donna più bella.
 ; mno_choice_18_2b|Order the release of the women and punish the kidnappers.
 ; menu_event_siege_19|The enemy is trying to break our blockade, and our men are trying to contain them.^^Your casualties: {s8}^^Enemy casualties: {s10}
-; mno_choice_19_1b|Send some men while I take others to force them to withdraw.
+mno_choice_19_1b|Invia alcuni uomini mentre io ne prendo altri per costringerli a ritirarsi.
 mno_choice_19_2b|Invia tutti gli uomini per proteggere il perimetro.
 mno_choice_19_3b|Non preoccuparti. Le nostre mura sono resistenti.
-; menu_no_defendiendo|The enemy has overcome our defenses and burned our small camps and checkpoints, breaking our blockade.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_no_defendiendo|Il nemico ha superato le nostre difese e bruciato i nostri piccoli campi e posti di blocco, rompendo la nostra barricata.^^Le vostre vittime: {s8}^^Le vittime nemiche: {s10}
 mno_defendiendo_1bnd|Dobbiamo organizzare un nuovo blocco.
-; menu_defendiendo_circunvallation|We have managed to repel the enemy, who returned to the protection of his walls...^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_defendiendo_circunvallation|Siamo riusciti a respingere il nemico, che è tornato alla difesa delle sue mura...^^Le tue vittime: {s8}^^Le vittime nemiche: {s10}
 mno_defendiendo_1dcir|Ben fatto.
-; menu_defendiendo_mal|Another group of enemies took advantage of our troops being here and set fire to another part of our blockade.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_defendiendo_mal|Un altro gruppo di nemico ha preso vantaggio della presenza delle nostre truppe qui presenti per dare fuoco ad un'altra sezione della nostra barricata.^^Your casualties: {s8}^^Enemy casualties: {s10}
 mno_defendiendo_1mal|Dannazione!
-; menu_event_siege_20|The enemy is trying to burn our assault equipment.^^Your casualties: {s8}^^Enemy casualties: {s10}
-; mno_choice_20_1b|Send some men while I take others to force them to withdraw.
+menu_event_siege_20|Il nemico sta tentando di bruciare il nostro equipaggiamento d'assalto.^^Le tue vittime: {s8}^^Le vittime nemiche: {s10}
+mno_choice_20_1b|Invia alcuni uomini mentre io ne prendo altri per costringerli a ritirarsi.
 mno_choice_20_2b|Veloce. Invia tutti gli uomini a proteggere l'equipaggiamento
 mno_choice_20_3b|Non te ne preoccupi. I tuoi uomini faranno buona guardia.
-; menu_no_defendiendo_equip|The enemy has overcome our defenses and burned down our equipment.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_no_defendiendo_equip|Il nemico ha superato le nostre difese e bruciato le nostre attrezzature.^^vostre vittime: {s8}^^ vittime nemiche: {s10}
 mno_defendiendo_1bnde|Dobbiamo ricominciare la costruzione di nuovo.
-; menu_defendiendo_equip|We have managed to repel the enemy, who returned to the protection of his walls.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_defendiendo_equip|Siamo riusciti a respingere il nemico, che è tornato alla difesa delle sue mura^^Le tue vittime: {s8}^^Le vittime nemiche: {s10}
 mno_defendiendo_1heq|Ben fatto.
 ; menu_defendiendo_mal_equip|Another group of enemies has surrounded our positions and burned down our siege equipment on the other side.^^Your casualties: {s8}^^Enemy casualties: {s10}
 mno_defendiendo_1vmal|Dannazione!
@@ -1134,7 +1134,7 @@ mno_choice_21_1b|Lasciali fuggire.
 mno_choice_21_2b|Uccidili.
 menu_event_siege_22|Durante la notte, le vostre guardie riferiscono di aver avvistato un gruppo di nemici vestito con pelli di pecora diretto ad un vicino torrente. In questo momento, stanno riempiendo i sacchi di pelle con dell'acqua da riportare all'insediamento.
 mno_atacar_emboscada_player2|Raggiungili con tutti i compagni che vogliono seguirti.
-; mno_choice_22_1b|Send men to ambush the enemy in sheepskins.
+mno_choice_22_1b|Invia uomini per tendere un'imboscata al nemico, indossando pelli di pecora.
 mno_choice_22_2b|Non fare nulla.
 ; menu_victoria_ovejas|Your soldiers surrounded the enemy in sheepskins and fell upon them by surprise, spreading death.^^Your casualties: {s8}^^Enemy casualties: {s10}
 mno_defendiendo_1lovej|Perfetto!
@@ -1151,13 +1151,13 @@ mno_choice_24_2b|Certo, sarà utile al momento di negoziare la resa.
 menu_cabezas_moral|Le teste sono lanciate all'interno delle mura. Dall'esterno, si sentono le grida e le lacrime dei cittadini quando riconoscono una persona cara. La guerra è spietata e hai dimostrato di essere il più terribile dei nemici.
 mno_defendiendo_1q|Questo li aiuterà ad arrendersi.. o a morire...
 menu_event_siege_25|Un commerciante vi offre un gruppo di ballerini per intrattenere i vostri uomini durante la notte.
-; mno_choice_25_1b|This will just distract and tire my men.
+mno_choice_25_1b|Questo non farà altro che distrarre e stancare i miei uomini.
 mno_choice_25_2b|Assumi i ballerini solo per te stesso (100 denari).
-; mno_choice_25_3b|Hire dancers for your men (500 peningas).
+mno_choice_25_3b|Assolda delle danzatrici per i tuoi uomini (500 peningas).
 menu_event_siege_26|Un gruppo di banditi si avvicina al campo. Mentre i tuoi uomini raggiungono le loro armi i banditi gettano le loro e dicono di venire in pace. Il capo dei banditi si fa avanti e chiede se possono unirsi a te.
-; mno_choice_26_1b|Of course! Such promising men are always welcome!
+mno_choice_26_1b|Ma certo! Simili uomini promettenti sono sempre i benvenuti!
 mno_choice_26_2b|Spiacente. Non c'è posto per voi qui!
-; mno_choice_26_3b|Prove yourselves worthy by raiding a village.
+mno_choice_26_3b|Dimostra il tuo valore razziando un villaggio.
 mno_choice_26_4b|Uccideteli tutti!
 menu_sanguinario_p|Dopo due ore, i banditi tornano con il bottino e la testa di qualcuno...
 menu_event_siege_27|Diversi commercianti chiedono di avvicinarsi per vendere le merci nel campo che si è formato vicino al tuo, con le mogli dei soldati, prostitute, rifugiati, bambini e gli altri seguaci dell'esercito.

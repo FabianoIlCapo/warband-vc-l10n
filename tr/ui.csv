@@ -1,6 +1,6 @@
 ﻿
 ui_music_volume|Müzik Sesi:
-; ui_sound_volume|Sound Volume:
+ui_sound_volume|Müzik Sesi:
 ui_mouse_sensitivity|Fare Hassasiyeti
 ui_invert_mouse_y_axis|Fare Y Eksenini Ters Çevir:
 ui_enabled|Aktif
@@ -8,7 +8,7 @@ ui_disabled|Devre Dışı
 ui_damage_to_player|Oyuncuya Verilen Zarar
 ui_reduced_to_1_over_4_easiest|1/4 Oranında (En Kolay)
 ui_reduced_to_1_over_2_easy|1/2 Oranında (Kolay)
-; ui_damage_to_friends|Damage to Friends:
+ui_damage_to_friends|Dostlara Hasar:
 ui_reduced_to_1_over_2_easiest|1/2 Oranında (En Kolay)
 ui_reduced_to_3_over_4_easy|3/4 Oranında (Kolay)
 ui_normal|Normal
@@ -38,13 +38,13 @@ ui_difficulty_rating_percentage|Zorluk Oranı = %d%%
 ui_controls|Kontroller
 ui_video_options|Grafik Ayarları
 ui_done|Tamam
-; ui_factions|Factions
-; ui_item_itemname|Item - %s
+ui_factions|Gruplar
+ui_item_itemname|Eşya - %s
 ; ui_prop_propname|Prop - %s
-; ui_unknown_unknownname|Unknown - %s
-; ui_entry_point_entrypointname|Entry Point %d
-; ui_passage_menu_item_passagename|Passage (menu item %d)
-; ui_plant_plantname|Plant - %s
+ui_unknown_unknownname|Bilinmeyen - %s
+ui_entry_point_entrypointname|Giriş Puanı %d
+ui_passage_menu_item_passagename|Pasaj (menu item %d)
+ui_plant_plantname|Bitki - %s
 ui_export_file_for_character_playername_already_exists_overwrite_it|%s karakterinin dışa aktarılan dosyası zaten var. Üzerine yazılsın mı?
 ui_yes|Evet
 ui_no|Hayır
@@ -114,23 +114,23 @@ ui_health|Sağlık: %d
 ui_attribute_points|Özellik Puanları: %d
 ui_skill_points|Yetenek Puanları: %d
 ui_weapon_points|Silah Ustalığı Puanları: %d
-; ui_mission_losses_none| none.
+ui_mission_losses_none|hiçbiri.
 ui_mission_losses_wounded|Yaralı:
 ui_mission_losses_killed|Ölü:
 ui_party_losses|%s : %d yaralandı --- %d %d öldürdü
-; ui_casualties_sustained|Casualties sustained:
-; ui_advantage_change|Advantage change = %c%d 
+ui_casualties_sustained|Yaralılar:
+ui_advantage_change|Avantaj değişimi = %c%d
 ui_overall_battle_casualties|Toplam savaş kayıpları:
-; ui_advantage_outnumbered| You are hopelessly outnumbered.
+ui_advantage_outnumbered|Sayıca üstünsün.
 ui_advantage_major_disadvantage|Büyük dezavantajlı durumdasın.
 ui_advantage_slight_disadvantage|Kısmen dezavantajlı durumdasın.
-; ui_advantage_balanced| The situation is balanced.
-; ui_advantage_fair_advantage| You have a fair advantage for winning.
+ui_advantage_balanced|Durum dengelendi.
+ui_advantage_fair_advantage|Kazanmak için iyi bir avantajın var.
 ; ui_advantage_greatly_favored| The odds of battle favor you greatly.
 ; ui_tactical_advantage|Tactical advantage: %d (%s)
-; ui_order_group|Order group:
+ui_order_group|Emir grubu:
 ; ui_question_save_changes|You have made changes to the objects. Do you want to save changes?
-; ui_yes_save|Yes, save
+ui_yes_save|Evet,kayıt.
 ; ui_no_discard_changes|No, discard changes
 ; ui_everyone_control|Everyone!
 ; ui_everyone_around_control|Nearby Soldiers!
@@ -568,7 +568,7 @@ ui_average|Ortalama
 ; ui_custom_battle|Custom Battle
 ; ui_player|Player
 ; ui_value_denars|%d peningas
-; ui_back|Back
+ui_back|Geri
 ; ui_forward|Forward
 ; ui_display_on_map|Show On Map
 ; ui_info_pages|Game Concepts

@@ -28,7 +28,7 @@ ui_control_attack_direction|Kierunek ataku:
 ui_lance_control|Kontrola lancy:
 ui_by_relative_enemy_position|Odpowiednio do pozycji przeciwnika
 ui_by_inverse_mouse_movement|Odwróć ruchy myszki
-; ui_battle_size|Battle Size (impact on performance):
+ui_battle_size|Wielkość bitwy (Zmniejsza wydajność)
 ui_show_attack_direction|Pokaż kierunek ataku
 ui_show_targeting_reticule|Pokaż celownik
 ui_show_names_of_friendly_troops|Pokazuj chorągwie na zaprzyjaźnionych jednostkach
@@ -115,8 +115,8 @@ ui_health|Zdrowie: %d
 ; ui_skill_points|Skill points: %d
 ; ui_weapon_points|Weapon points: %d
 ; ui_mission_losses_none| none.
-; ui_mission_losses_wounded|wounded :
-; ui_mission_losses_killed|killed :
+ui_mission_losses_wounded|Raniono:
+ui_mission_losses_killed|Zabito:
 ; ui_party_losses|%s  : %d wounded --- %d killed of %d.
 ; ui_casualties_sustained|Casualties sustained:
 ; ui_advantage_change|Advantage change = %c%d 
@@ -124,67 +124,67 @@ ui_health|Zdrowie: %d
 ; ui_advantage_outnumbered| You are hopelessly outnumbered.
 ; ui_advantage_major_disadvantage| You have a major disadvantage.
 ; ui_advantage_slight_disadvantage| You are slightly disadvantaged.
-; ui_advantage_balanced| The situation is balanced.
+ui_advantage_balanced|Sytuacja jest zbalansowana.
 ; ui_advantage_fair_advantage| You have a fair advantage for winning.
 ; ui_advantage_greatly_favored| The odds of battle favor you greatly.
 ; ui_tactical_advantage|Tactical advantage: %d (%s)
 ; ui_order_group|Order group:
 ; ui_question_save_changes|You have made changes to the objects. Do you want to save changes?
-; ui_yes_save|Yes, save
-; ui_no_discard_changes|No, discard changes
-; ui_everyone_control|Everyone!
-; ui_everyone_around_control|Nearby Soldiers!
-; ui_others_control|Others!
+ui_yes_save|Tak, zapisz
+ui_no_discard_changes|Nie, odrzuć zmiany
+ui_everyone_control|Wszyscy!
+ui_everyone_around_control|Pobliscy żołnierze!
+ui_others_control|Reszta!
 ui_question_give_up_fight|Poddać walkę?
-; ui_give_up|Give up
-; ui_keep_fighting|Keep fighting
-; ui_question_leave_area|Leave Area
-; ui_cant_retreat_there_are_enemies_nearby|Can't retreat. There are enemies nearby!
+ui_give_up|Poddaj się
+ui_keep_fighting|Walcz dalej
+ui_question_leave_area|Opuść obszar
+ui_cant_retreat_there_are_enemies_nearby|Nie możesz się wycofać. W pobliżu są przeciwnicy!
 ; ui_question_retreat_battle|Retreat battle?
 ; ui_retreated_battle|%s has been routed.
 ; ui_retreated_battle|%s has been routed.
 ; ui_retreat|Retreat
-; ui_talk|Talk
-; ui_duel|Duel
+ui_talk|Rozmawiaj
+ui_duel|Pojedynek
 ui_mount|Wsiądź
 ; ui_riding_skill_not_adequate_to_mount|(Riding skill not adequate to mount)
 ui_dismount|Zsiąść
-; ui_exit|Exit
+ui_exit|Wyjście
 ; ui_door_to|Door to 
-; ui_open|Open
-; ui_equip|Equip
+ui_open|Otwórz
+ui_equip|Wyposaż
 ; ui_baggage|Baggage
 ; ui_access_inventory|Access inventory
-; ui_chest|Chest
+ui_chest|Skrzynia
 ; ui_passage|Passage
 ; ui_go|Go
 ; ui_retreat_battle|Retreat Battle
-; ui_leave_area|Leave Area
+ui_leave_area|Opuść obszar
 ; ui_reports|Quarters
 ; ui_camp|Camp
 ; ui_terrain|Terrain
 ; ui_quests|Notes
-; ui_inventory|Inventory
-; ui_character|Character
-; ui_party|Army
+ui_inventory|Ekwipunek
+ui_character|Postać
+ui_party|Oddział
 ; ui_paused|Paused
 ; ui_click_left_button_to_cancel_wait|Waiting... (Left click to return)
-; ui_midnight|Midnight
-; ui_late_night|Late night
-; ui_dawn|Dawn
-; ui_early_morning|Early morning
-; ui_morning|Morning
-; ui_noon|Noon
-; ui_afternoon|Afternoon
-; ui_late_afternoon|Late afternoon
-; ui_dusk|Dusk
-; ui_evening|Evening
-; ui_midnight|Midnight
+ui_midnight|Północ
+ui_late_night|Późna noc
+ui_dawn|Świt
+ui_early_morning|Wczesny poranek
+ui_morning|Poranek
+ui_noon|Południe
+ui_afternoon|Popołudnie
+ui_late_afternoon|Późne popołudnie
+ui_dusk|Zmierzch
+ui_evening|Wieczór
+ui_midnight|Północ
 ; ui_level_limit_reached|Level Limit Reached!
 ; ui_explanation_level_limit|Hail Adventurer, Mount&Blade has not been activated yet and is running in trial mode. In this mode, the game is limited to Level 8. In order to continue playing, please restart the game and activate it with your 16-digit serial key which is included in your boxed copy. After activating, you can continue playing right from here. Now, Mount&Blade will save your game and exit.
 ; ui_time_limit_reached|Time Limit Reached!
 ; ui_explanation_time_limit|Hail Adventurer, Mount&Blade has not been activated yet and is running in trial mode. In this mode, the game is limited to 30 game days. In oder to continue playing, please restart the game and activate it with your 16-digit serial key which is included in your boxed copy. After activating, you can continue playing right from here. Now, Mount&Blade will save your game and exit.
-; ui_target_lost|Target lost
+ui_target_lost|Cel utracony
 ; ui_waiting|Waiting.
 ; ui_travelling_to|Travelling to 
 ; ui_following|Following 
@@ -196,39 +196,39 @@ ui_dismount|Zsiąść
 ; ui_travelling|Travelling
 ; ui_fighting_against|Fighting against 
 ; ui_speed_equals|Speed = %2.1f
-; ui_defenders|Garrison:
-; ui_prisoners|Prisoners:
+ui_defenders|Garnizon:
+ui_prisoners|Więźniowie:
 ; ui_1_hour|1 hour
 ; ui_n_hours|%d hours
 ; ui_between_hours|%d - %d hours
 ; ui_combatants|Combatants: %d
 ; ui_party_size|Party size: %d
 ; ui_party_size_between|Party size: %d - %d
-; ui_merchant|Merchant
+ui_merchant|Kupiec
 ; ui_return|Return
 ; ui_no_cost|No cost
 ; ui_rename|Rename
-; ui_use|Use
-; ui_destroy|Destroy
-; ui_destructible_target|Destructible target
-; ui_tutorial_inventory|This is the trade screen. Hold down control key while clicking on an item to quickly purchase or sell it.
-; ui_head_armor|Head Armor: %d
-; ui_body_armor|Body Armor: %d
-; ui_leg_armor|Leg Armor: %d
-; ui_encumbrance|Encumbrance: %2.1f
-; ui_you_dont_have_value|You don't have %s.
+ui_use|Użyj
+ui_destroy|Zniszcz
+ui_destructible_target|Cel do zniszczenia
+ui_tutorial_inventory|To jest okno handlu. Przytrzymaj lewy ctrl podczas klikania w przedmiot, aby szybko go nabyć lub sprzedać.
+ui_head_armor|Opancerzenie głowy: %d
+ui_body_armor|Opancerzenie ciała: %d
+ui_leg_armor|Opancerzenie nóg: %d
+ui_encumbrance|Obciążenie: %2.1f
+ui_you_dont_have_value|Nie masz %s.
 ; ui_merchant_cant_afford_value|%s: I can't afford %s. I have only %s.
-; ui_merchant_pay_whatever|Allright, just pay whatever you can.
-; ui_merchant_think_of_something_else|Hmm. Let us think of something else.
+ui_merchant_pay_whatever|Dobra, zapłać tyle, ile możesz.
+ui_merchant_think_of_something_else|Hmm, pomyślmy o czymś innym.
 ; ui_dumping_value_items|%d items will be permanently lost, are you sure?
 ; ui_dumping_value_item|One item will be permanently lost, are you sure?
 ; ui_question_slaughter_food_and_eat|Slaughter this %s and eat it?
-; ui_money_value|Money: %s
-; ui_dump|Discard
+ui_money_value|Pieniądze: %s
+ui_dump|Odrzuć
 ; ui_outfit|Outfit
 ; ui_arms|Arms
-; ui_horse|Horse
-; ui_food|Food
+ui_horse|Koń
+ui_food|Jedzenie
 ; ui_reclaim_your_sold_goods|Reclaim your sold goods before buying that!
 ; ui_return_your_bought_goods|Return your bought goods before selling that!
 ; ui_polearm_no_shield|Polearm (No shield)
@@ -246,19 +246,19 @@ ui_dismount|Zsiąść
 ; ui_plus_value_to_head_armor|+%d to head armor
 ; ui_plus_value_to_body_armor|+%d to body armor
 ; ui_plus_value_to_leg_armor|+%d to leg armor
-; ui_swing|Swing: %d%s
-; ui_damage|Damage: %d%s
-; ui_thrust|Thrust: %d%s
-; ui_accuracy|Accuracy: %d
+ui_swing|Cięcie: %d%s
+ui_damage|Obrażenia: %d%s
+ui_thrust|Pchnięcie: %d%s
+ui_accuracy|Celność: %d
 ; ui_speed_rating|Speed rating: %d
 ; ui_value_to_damage|%c%d to damage
 ; ui_value_to_morale|+%1.1f to party morale
-; ui_resistance|Resistance: %d
-; ui_size|Size: %d
-; ui_weapon_reach|Weapon reach: %d
-; ui_armor|Armor: %d
-; ui_speed|Speed: %d
-; ui_maneuver|Maneuver: %d
+ui_resistance|Opór: %d
+ui_size|Rozmiar: %d
+ui_weapon_reach|Zasięg broni: %d
+ui_armor|Opancerzenie: %d
+ui_speed|Prędkość: %d
+ui_maneuver|Manewrowanie: %d
 ; ui_charge|Charge: %d
 ; ui_hit_points|Hit Points: %d/%d
 ; ui_requires_value_difficulty|Requires %s: %d
@@ -267,11 +267,11 @@ ui_dismount|Zsiąść
 ; ui_troop_cant_use_item|%s: I can't use that item!
 ; ui_notification_riding_skill_not_enough|Your riding skill is not high enough to mount this horse.
 ; ui_notification_requirements_not_met|You don't have the required skills or attributes for this weapon.
-; ui_notification_payment_value|You must pay %s.
-; ui_notification_payment_receive_value|You will receive %s.
-; ui_one_handed_weapons|One Handed Weapons
-; ui_two_handed_weapons|Two Handed Weapons
-; ui_polearms|Polearms
+ui_notification_payment_value|Musisz zapłacić %s.
+ui_notification_payment_receive_value|Otrzymasz %s.
+ui_one_handed_weapons|Broń jednoręczna
+ui_two_handed_weapons|Broń dwuręczna
+ui_polearms|Broń drzewcowa
 ; ui_archery|Archery
 ; ui_crossbows|Crossbows
 ; ui_throwing|Throwing
@@ -282,16 +282,16 @@ ui_dismount|Zsiąść
 ; ui_move_down| Move Down 
 ; ui_upgrade_one|Upgrade one
 ; ui_party_skills|Party Skills
-; ui_morale|Morale: %s
-; ui_terrible|Terrible
-; ui_very_low|Very low
+ui_morale|Morale: %s
+ui_terrible|Straszne
+ui_very_low|Bardzi niskie
 ui_low|Niskie
-; ui_below_average|Below average
+ui_below_average|Poniżej średniej
 ui_average|Średnia
-; ui_above_average|Above average
+ui_above_average|Powyżej średniej
 ui_high|Wysokie
-; ui_very_high|Very high
-; ui_excellent|Excellent
+ui_very_high|Bardzi wysokie
+ui_excellent|Wyśmienite
 ; ui_starving|Starving! %d%%
 ; ui_weekly_cost_value|Weekly cost: %s
 ; ui_company|Company: %d / %d
@@ -299,15 +299,15 @@ ui_high|Wysokie
 ; ui_choose_prisoners|Choose Prisoners
 ; ui_choose_companions|Choose Companions
 ui_rescued_prisoners|Uratowanie więźniowie
-; ui_captured_enemies|Captured Enemies
+ui_captured_enemies|Pojmani wrogowie
 ; ui_disband|Disband
 ; ui_take_prisoner|Take prisoner
 ; ui_take_back|Take back
-; ui_give|Give
-; ui_take|Take
-; ui_sell|Sell
-; ui_hire|Hire
-; ui_notification_cant_hire|(Can't hire: not enough money)
+ui_give|Daj
+ui_take|Weź
+ui_sell|Sprzedaj
+ui_hire|Wynajmij
+ui_notification_cant_hire|(Nie można wynająć: brak wystarczającej ilości pieniędzy)
 ; ui_uncapture|Release
 ; ui_capture|Capture
 ; ui_party_capcity_reached|(Party capacity reached)
@@ -434,7 +434,7 @@ ui_off|Wyłącz
 ; ui_start_tutorial|Play Tutorial
 ; ui_start_a_new_game|Start a New Game
 ; ui_restore_a_saved_game|Load Game
-; ui_exit_to_windows|Exit
+ui_exit_to_windows|Wyjście
 ; ui_credits|Credits
 ; ui_version_value|v%s
 ; ui_active_quests|Active Quests
@@ -486,11 +486,11 @@ ui_zoom_in|Przybliż
 ui_zoom_out|Oddal
 ui_wait|Czekaj
 ui_take_screenshot|Zrób zrzut ekranu
-; ui_randomize|Randomize
+ui_randomize|Losuj
 ; ui_hint|Lore
 ; ui_press_left_mouse_button_to_continue|Press left mouse button to continue...
 ; ui_loot|Loot
-; ui_chest|Chest
+ui_chest|Skrzynia
 ui_cut_short|c
 ui_pierce_short|p
 ui_blunt_short|b
@@ -568,7 +568,7 @@ ui_companions|Kompani
 ; ui_custom_battle|Custom Battle
 ; ui_player|Player
 ; ui_value_denars|%d peningas
-; ui_back|Back
+ui_back|Wróć
 ; ui_forward|Forward
 ; ui_display_on_map|Show On Map
 ; ui_info_pages|Game Concepts
@@ -609,7 +609,7 @@ ui_off2|Wyłącz
 ui_group_1|Piechota
 ui_group_2|Łucznicy
 ui_group_3|Kawaleria
-; ui_group_4|Spearmen
+ui_group_4|Włócznik
 ; ui_group_5|Skirmishers
 ; ui_group_6|Horse Archers
 ; ui_group_7|Unnamed 1
@@ -722,19 +722,19 @@ ui_combat_speed_faster|Szybciej
 ; ui_widescreen_mode_on|Multiple Screen Mode Enabled
 ; ui_widescreen_mode_off|Multiple Screen Mode Disabled
 ; ui_notification_cant_upgrade|(Can't upgrade: not enough money)
-; ui_turn_never|Never
+ui_turn_never|Nigdy
 ; ui_turn_ranged_only|Ranged only
 ; ui_turn_melee_only|Melee only
-; ui_turn_always|Always
+ui_turn_always|Zawsze
 ; ui_general_options|General Options
 ; ui_vac_enabled|Valve Anti Cheat Enabled
-; ui_campaign_ai|Campaign AI:
-; ui_downloading_map|Downloading map (%d KB)
-; ui_download_completed|Download completed.
-; ui_server_filter|Server filter
-; ui_has_players|Has players
-; ui_is_not_full|Not full
-; ui_is_password_free|No password
+ui_campaign_ai|AI kampanii:
+ui_downloading_map|Pobieranie mapy (%d KB)
+ui_download_completed|Pobieranie zakończone.
+ui_server_filter|Filtrowanie serwerów
+ui_has_players|Posiadający graczy
+ui_is_not_full|Nie pełny
+ui_is_password_free|Bez hasła
 ; ui_native_only|Native only
 ; ui_ping_limit|Ping limit
 ; ui_filter_info|%d games and %d players filtered

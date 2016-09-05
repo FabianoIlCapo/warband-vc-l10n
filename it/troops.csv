@@ -100,9 +100,9 @@ trp_norse_standard_bearer|Portabandiera (Merkismathr)
 trp_norse_standard_bearer_pl|Portabandiera (Merkismathr)
 trp_norse_priest|Gothi
 trp_norse_priest_pl|Gothar
-trp_briton_slave|Servo Britanno (Aillt)
-trp_briton_slave_pl|Servi Britanni (Aillts)
-trp_briton_level0_landed|Signore Britanno (Bonheddwr)
+trp_briton_slave|Servo Bretone (Aillt)
+trp_briton_slave_pl|Servi Bretoni (Aillts)
+trp_briton_level0_landed|Signore Bretone (Bonheddwr)
 trp_briton_level0_landed_pl|Signori Britanni (Bonheddwyr)
 trp_briton_level1_landed|Lanciere Britanno (Pedyt)
 trp_briton_level1_landed_pl|Lancieri Britanni (Pedytes)
@@ -116,10 +116,10 @@ trp_briton_level1_companion|Campione Britanno (Campiwr)
 trp_briton_level1_companion_pl|Campioni Britanni (Campgwr)
 trp_briton_level2_companion|Guardia del Corpo Britanno (Teulu)
 trp_briton_level2_companion_pl|Guardie del Corpo Britanne (Teulus)
-; trp_briton_bowman|Briton Skirmisher (Cipryswr)
-; trp_briton_bowman_pl|Briton Skirmishers (Cipryswyr)
-; trp_briton_marksman|Briton Archer (Saethydd)
-; trp_briton_marksman_pl|Briton Archers (Saethydds)
+trp_briton_bowman|Schermagliatore Briton (Cipryswr)
+trp_briton_bowman_pl|Schermagliatori Bretoni (Cipryswyr)
+trp_briton_marksman|Arcieri Bretoni (Saethydd)
+trp_briton_marksman_pl|Arcieri Bretoni (Saethydds)
 trp_briton_horseman|Cavaliere Britanno (Marchoc)
 trp_briton_horseman_pl|Cavalieri Britanni (Marcach)
 trp_briton_standard_bearer|Portabandiera (Gwas Ys Tafell)
@@ -160,8 +160,8 @@ trp_scotch_level1_skirmisher|Schermagliatore Elite Pitto (Cruithnen)
 trp_scotch_level1_skirmisher_pl|Schermagliatori Elite (Cruithnen)
 trp_scotch_horseman|Cavaliere Pitto (Marcach)
 trp_scotch_horseman_pl|Cavalieri leggeri (Marcach)
-; trp_scotch_level0_landed|Pictish Landowner (Bothach)
-; trp_scotch_level0_landed_pl|Pictish Landowners (Bothach)
+trp_scotch_level0_landed|Proprietario terriero Pittone (Bothach)
+trp_scotch_level0_landed_pl|Proprietari terrieri Pittoni (Bothach)
 trp_scotch_level1_landed|Lanciere Pitto (Octhigern)
 trp_scotch_level1_landed_pl|Lancieri Pitti (Octhigern)
 trp_scotch_level2_landed|Guerriero Pitto (Gaithlennach)
@@ -179,7 +179,7 @@ trp_scotch_standard_bearer_pl|Portabandiera (Samhladh)
 trp_scotch_musician|Cornista Pitto
 trp_scotch_musician_pl|Cornisti Pitti
 trp_scotch_priest|Sacerdote
-; trp_scotch_priest_pl|Priests
+trp_scotch_priest_pl|Sacerdoti
 trp_angle_slave|Contadino Anglo (Gebur)
 trp_angle_slave_pl|Contadini (Geburas)
 trp_angle_bowman|Arciere Anglo (Scytta)
@@ -222,10 +222,10 @@ trp_irish_level2_landed|Veterano Irlandese (Boaire)
 trp_irish_level2_landed_pl|Veterani Irlandesi (Boaires)
 trp_irish_level3_landed|Nobile Irlandese (Aire)
 trp_irish_level3_landed_pl|Nobili Irlandesi (Airig)
-; trp_irish_level0_companion|Irish Warrior (Cliarnach)
+trp_irish_level0_companion|Guerriero Irlandese (Cliarnach)
 trp_irish_level0_companion_pl|Guerrieri Irlandesi (Cliathaire)
 trp_irish_level1_companion|Campione Irlandese (Caur)
-; trp_irish_level1_companion_pl|Irish Champions (Curadmir)
+trp_irish_level1_companion_pl|Campioni Irlandesi (Curadmir)
 trp_irish_knight|Guardia del Corpo Irlandese (Riglach)
 trp_irish_knight_pl|Guardie del Corpo Irlandesi (Riglach)
 trp_irish_standard_bearer|Portabandiera (Meirgeach)
@@ -426,8 +426,8 @@ trp_trainer|Addestratori
 trp_trainer_pl|Addestratori
 trp_constable_hareck|Hareck il conestabile
 trp_constable_hareck_pl|Hareck il conestabile
-; trp_ramun_the_slave_trader|Aethelmaer, the Slaver
-; trp_ramun_the_slave_trader_pl|Aethelmaer, the Slaver
+trp_ramun_the_slave_trader|Aethelmaer, lo Schiavista
+trp_ramun_the_slave_trader_pl|Aethelmaer, lo Schiavista
 trp_guide|Ulric
 trp_guide_pl|Ulric
 trp_xerina|Anchoret il Pitto

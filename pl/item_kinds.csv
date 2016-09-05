@@ -4,8 +4,8 @@ itm_tutorial_spear|Włócznia
 itm_tutorial_spear_pl|Włócznia
 itm_tutorial_club|Pałka
 itm_tutorial_club_pl|Pałka
-; itm_tutorial_battle_axe|Long Battle Axe
-; itm_tutorial_battle_axe_pl|Long Battle Axe
+itm_tutorial_battle_axe|Długi topór bojowy
+itm_tutorial_battle_axe_pl|Długi topór bojowy
 itm_tutorial_arrows|Strzały
 itm_tutorial_arrows_pl|Strzały
 itm_tutorial_bolts|Bełty
@@ -16,36 +16,36 @@ itm_tutorial_crossbow|Kusza
 itm_tutorial_crossbow_pl|Kusza
 itm_tutorial_throwing_daggers|Oszczepy
 itm_tutorial_throwing_daggers_pl|Oszczepy
-; itm_tutorial_saddle_horse|Saddle Pony
-; itm_tutorial_saddle_horse_pl|Saddle Pony
-; itm_tutorial_shield|Round Shield
-; itm_tutorial_shield_pl|Round Shield
+itm_tutorial_saddle_horse|Osiodłany kuc
+itm_tutorial_saddle_horse_pl|Osiodłany kuc
+itm_tutorial_shield|Okrągła tarcza
+itm_tutorial_shield_pl|Okrągła tarcza
 itm_tutorial_staff_no_attack|Laga
 itm_tutorial_staff_no_attack_pl|Laga
 itm_tutorial_staff|Laga
 itm_tutorial_staff_pl|Laga
-; itm_tutorial_sword|Common Sword
-; itm_tutorial_sword_pl|Common Sword
+itm_tutorial_sword|Zwyczajny miecz
+itm_tutorial_sword_pl|Zwyczajny miecz
 itm_tutorial_axe|Topór
 itm_tutorial_axe_pl|Topór
-; itm_tutorial_dagger|Seax
-; itm_tutorial_dagger_pl|Seax
+itm_tutorial_dagger|Nóż
+itm_tutorial_dagger_pl|Nóż
 itm_horse_meat|Końskie mięso
 itm_horse_meat_pl|Końskie mięso
-; itm_practice_sword|Common Sword
-; itm_practice_sword_pl|Common Sword
-; itm_heavy_practice_sword|Goidelic Champion Sword
-; itm_heavy_practice_sword_pl|Goidelic Champion Sword
-; itm_practice_dagger|Seax
-; itm_practice_dagger_pl|Seax
+itm_practice_sword|Zwyczajny miecz
+itm_practice_sword_pl|Zwyczajny miecz
+itm_heavy_practice_sword| 
+itm_heavy_practice_sword_pl| 
+itm_practice_dagger|Nóż
+itm_practice_dagger_pl|Nóż
 itm_practice_axe|Topór
 itm_practice_axe_pl|Topór
-; itm_arena_axe|Short Axe
-; itm_arena_axe_pl|Short Axe
-; itm_arena_sword|Common Sword
-; itm_arena_sword_pl|Common Sword
-; itm_arena_sword_two_handed|Goidelic Champion Sword
-; itm_arena_sword_two_handed_pl|Goidelic Champion Sword
+itm_arena_axe|Krótki topór
+itm_arena_axe_pl|Krótki topór
+itm_arena_sword|Zwyczajny miecz
+itm_arena_sword_pl|Zwyczajny miecz
+itm_arena_sword_two_handed| 
+itm_arena_sword_two_handed_pl| 
 itm_arena_lance|Włócznia
 itm_arena_lance_pl|Włócznia
 itm_practice_staff|Laga
@@ -56,8 +56,8 @@ itm_practice_shield|Tarcza do ćwiczeń
 itm_practice_shield_pl|Tarcza do ćwiczeń
 itm_practice_bow|Długi łuk
 itm_practice_bow_pl|Długi łuk
-; itm_practice_crossbow|Sling
-; itm_practice_crossbow_pl|Sling
+itm_practice_crossbow|Proca
+itm_practice_crossbow_pl|Proca
 itm_practice_javelin|Oszczepy
 itm_practice_javelin_pl|Oszczepy
 itm_practice_javelin_melee|Oszczep
@@ -66,108 +66,108 @@ itm_practice_throwing_daggers|Oszczepy
 itm_practice_throwing_daggers_pl|Oszczepy
 itm_practice_throwing_daggers_100_amount|Oszczepy
 itm_practice_throwing_daggers_100_amount_pl|Oszczepy
-; itm_practice_horse|Saddle Pony
-; itm_practice_horse_pl|Saddle Pony
+itm_practice_horse|Osiodłany kuc
+itm_practice_horse_pl|Osiodłany kuc
 itm_practice_arrows|Strzały
 itm_practice_arrows_pl|Strzały
-; itm_practice_bolts|Sling Rocks
-; itm_practice_bolts_pl|Sling Rocks
+itm_practice_bolts|Kamienie do procy
+itm_practice_bolts_pl|Kamienie do procy
 itm_practice_arrows_10_amount|Strzały
 itm_practice_arrows_10_amount_pl|Strzały
 itm_practice_arrows_100_amount|Strzały
 itm_practice_arrows_100_amount_pl|Strzały
 itm_practice_bolts_9_amount|Bełty do ćwiczeń
 itm_practice_bolts_9_amount_pl|Bełty do ćwiczeń
-; itm_practice_boots|Boots
-; itm_practice_boots_pl|Boots
+itm_practice_boots|Buty
+itm_practice_boots_pl|Buty
 itm_red_tourney_armor|Czerwona tunika
 itm_red_tourney_armor_pl|Czerwona tunika
 itm_blue_tourney_armor|Niebieska tunika
 itm_blue_tourney_armor_pl|Niebieska tunika
 itm_green_tourney_armor|Zielona tunika
 itm_green_tourney_armor_pl|Zielona tunika
-; itm_gold_tourney_armor|White Tunic
-; itm_gold_tourney_armor_pl|White Tunic
-; itm_red_tourney_helmet|Cap
-; itm_red_tourney_helmet_pl|Cap
-; itm_blue_tourney_helmet|Cap
-; itm_blue_tourney_helmet_pl|Cap
-; itm_green_tourney_helmet|Cap
-; itm_green_tourney_helmet_pl|Cap
-; itm_gold_tourney_helmet|Cap
-; itm_gold_tourney_helmet_pl|Cap
-; itm_arena_shield_red|Light Round Shield
-; itm_arena_shield_red_pl|Light Round Shield
-; itm_arena_shield_blue|Light Round Shield
-; itm_arena_shield_blue_pl|Light Round Shield
-; itm_arena_shield_green|Light Round Shield
-; itm_arena_shield_green_pl|Light Round Shield
-; itm_arena_shield_yellow|Light Round Shield
-; itm_arena_shield_yellow_pl|Light Round Shield
-; itm_arena_armor_white|White Tunic
-; itm_arena_armor_white_pl|White Tunic
+itm_gold_tourney_armor|Biała tunika
+itm_gold_tourney_armor_pl|Biała tunika
+itm_red_tourney_helmet|Czapka
+itm_red_tourney_helmet_pl|Czapka
+itm_blue_tourney_helmet|Czapka
+itm_blue_tourney_helmet_pl|Czapka
+itm_green_tourney_helmet|Czapka
+itm_green_tourney_helmet_pl|Czapka
+itm_gold_tourney_helmet|Czapka
+itm_gold_tourney_helmet_pl|Czapka
+itm_arena_shield_red|Lekka okrągła tarcza
+itm_arena_shield_red_pl|Lekka okrągła tarcza
+itm_arena_shield_blue|Lekka okrągła tarcza
+itm_arena_shield_blue_pl|Lekka okrągła tarcza
+itm_arena_shield_green|Lekka okrągła tarcza
+itm_arena_shield_green_pl|Lekka okrągła tarcza
+itm_arena_shield_yellow|Lekka okrągła tarcza
+itm_arena_shield_yellow_pl|Lekka okrągła tarcza
+itm_arena_armor_white|Biała tunika
+itm_arena_armor_white_pl|Biała tunika
 itm_arena_armor_red|Czerwona tunika
 itm_arena_armor_red_pl|Czerwona tunika
 itm_arena_armor_blue|Niebieska tunika
 itm_arena_armor_blue_pl|Niebieska tunika
 itm_arena_armor_green|Zielona tunika
 itm_arena_armor_green_pl|Zielona tunika
-; itm_arena_armor_yellow|Yellow Tunic
-; itm_arena_armor_yellow_pl|Yellow Tunic
-; itm_arena_tunic_white|White Tunic
-; itm_arena_tunic_white_pl|White Tunic
+itm_arena_armor_yellow|Żółta tunika
+itm_arena_armor_yellow_pl|Żółta tunika
+itm_arena_tunic_white|Biała tunika
+itm_arena_tunic_white_pl|Biała tunika
 itm_arena_tunic_red|Czerwona tunika
 itm_arena_tunic_red_pl|Czerwona tunika
 itm_arena_tunic_blue|Niebieska tunika
 itm_arena_tunic_blue_pl|Niebieska tunika
 itm_arena_tunic_green|Zielona tunika
 itm_arena_tunic_green_pl|Zielona tunika
-; itm_arena_tunic_yellow|Yellow Tunic
-; itm_arena_tunic_yellow_pl|Yellow Tunic
-; itm_arena_helmet_red|Helm with Nasal
-; itm_arena_helmet_red_pl|Helm with Nasal
-; itm_arena_helmet_blue|Helm with Nasal
-; itm_arena_helmet_blue_pl|Helm with Nasal
-; itm_arena_helmet_green|Helm with Nasal
-; itm_arena_helmet_green_pl|Helm with Nasal
-; itm_arena_helmet_yellow|Helm with Nasal
-; itm_arena_helmet_yellow_pl|Helm with Nasal
-; itm_steppe_helmet_white|Helm with Nasal
-; itm_steppe_helmet_white_pl|Helm with Nasal
-; itm_steppe_helmet_red|Helm with Nasal
-; itm_steppe_helmet_red_pl|Helm with Nasal
-; itm_steppe_helmet_blue|Helm with Nasal
-; itm_steppe_helmet_blue_pl|Helm with Nasal
-; itm_steppe_helmet_green|Helm with Nasal
-; itm_steppe_helmet_green_pl|Helm with Nasal
-; itm_steppe_helmet_yellow|Helm with Nasal
-; itm_steppe_helmet_yellow_pl|Helm with Nasal
-; itm_tourney_helm_white|Helm with Nasal
-; itm_tourney_helm_white_pl|Helm with Nasal
-; itm_tourney_helm_red|Helm with Nasal
-; itm_tourney_helm_red_pl|Helm with Nasal
-; itm_tourney_helm_blue|Helm with Nasal
-; itm_tourney_helm_blue_pl|Helm with Nasal
-; itm_tourney_helm_green|Helm with Nasal
-; itm_tourney_helm_green_pl|Helm with Nasal
-; itm_tourney_helm_yellow|Helm with Nasal
-; itm_tourney_helm_yellow_pl|Helm with Nasal
-; itm_arena_turban_red|Cap
-; itm_arena_turban_red_pl|Cap
-; itm_arena_turban_blue|Cap
-; itm_arena_turban_blue_pl|Cap
-; itm_arena_turban_green|Cap
-; itm_arena_turban_green_pl|Cap
-; itm_arena_turban_yellow|Cap
-; itm_arena_turban_yellow_pl|Cap
+itm_arena_tunic_yellow|Żółta tunika
+itm_arena_tunic_yellow_pl|Żółta tunika
+itm_arena_helmet_red|Hełm z nosalem
+itm_arena_helmet_red_pl|Hełm z nosalem
+itm_arena_helmet_blue|Hełm z nosalem
+itm_arena_helmet_blue_pl|Hełm z nosalem
+itm_arena_helmet_green|Hełm z nosalem
+itm_arena_helmet_green_pl|Hełm z nosalem
+itm_arena_helmet_yellow|Hełm z nosalem
+itm_arena_helmet_yellow_pl|Hełm z nosalem
+itm_steppe_helmet_white|Hełm z nosalem
+itm_steppe_helmet_white_pl|Hełm z nosalem
+itm_steppe_helmet_red|Hełm z nosalem
+itm_steppe_helmet_red_pl|Hełm z nosalem
+itm_steppe_helmet_blue|Hełm z nosalem
+itm_steppe_helmet_blue_pl|Hełm z nosalem
+itm_steppe_helmet_green|Hełm z nosalem
+itm_steppe_helmet_green_pl|Hełm z nosalem
+itm_steppe_helmet_yellow|Hełm z nosalem
+itm_steppe_helmet_yellow_pl|Hełm z nosalem
+itm_tourney_helm_white|Hełm z nosalem
+itm_tourney_helm_white_pl|Hełm z nosalem
+itm_tourney_helm_red|Hełm z nosalem
+itm_tourney_helm_red_pl|Hełm z nosalem
+itm_tourney_helm_blue|Hełm z nosalem
+itm_tourney_helm_blue_pl|Hełm z nosalem
+itm_tourney_helm_green|Hełm z nosalem
+itm_tourney_helm_green_pl|Hełm z nosalem
+itm_tourney_helm_yellow|Hełm z nosalem
+itm_tourney_helm_yellow_pl|Hełm z nosalem
+itm_arena_turban_red|Czapka
+itm_arena_turban_red_pl|Czapka
+itm_arena_turban_blue|Czapka
+itm_arena_turban_blue_pl|Czapka
+itm_arena_turban_green|Czapka
+itm_arena_turban_green_pl|Czapka
+itm_arena_turban_yellow|Czapka
+itm_arena_turban_yellow_pl|Czapka
 ; itm_book_tactics|History of the Peloponnesian War, of Thucydides
 ; itm_book_tactics_pl|History of the Peloponnesian War, of Thucydides
 itm_book_persuasion|Retoryka do Herenniusza
 itm_book_persuasion_pl|Retoryka do Herenniusza
-; itm_book_leadership|The Life of Alexander the Great
-; itm_book_leadership_pl|The Life of Alexander the Great
-; itm_book_intelligence|Paedeia
-; itm_book_intelligence_pl|Paedeia
+itm_book_leadership|Życie Aleksandra WIelkiego
+itm_book_leadership_pl|Życie Aleksandra Wielkiego
+itm_book_intelligence|Paideia
+itm_book_intelligence_pl|Paideia
 ; itm_book_trade|Oeconomica, of Aristotle
 ; itm_book_trade_pl|Oeconomica, of Aristotle
 ; itm_book_weapon_mastery|Constitution of Sparta, of Xenophon
@@ -202,18 +202,18 @@ itm_vc_wool_cloth_pl|Tkanina wełniana
 ; itm_amber_pl|Amber
 ; itm_ivory|Walrus Ivory
 ; itm_ivory_pl|Walrus Ivory
-; itm_silver|Silver
-; itm_silver_pl|Silver
+itm_silver|Srebro
+itm_silver_pl|Srebro
 itm_iron|Żelazo
 itm_iron_pl|Żelazo
-; itm_stone|Stone
-; itm_stone_pl|Stone
+itm_stone|Kamień
+itm_stone_pl|Kamień
 itm_tools|Narzędzia
 itm_tools_pl|Narzędzia
 itm_vc_raw_leather|Skóry
 itm_vc_raw_leather_pl|Skóry
-; itm_timber|Timber
-; itm_timber_pl|Timber
+itm_timber|Drewno
+itm_timber_pl|Drewno
 ; itm_soapstone|Soapstone
 ; itm_soapstone_pl|Soapstone
 itm_vc_furs|Futra
@@ -258,18 +258,18 @@ itm_quest_wine|Wino
 itm_quest_wine_pl|Wino
 itm_quest_ale|Piwo
 itm_quest_ale_pl|Piwo
-; itm_common_horse|Horse
-; itm_common_horse_pl|Horse
-; itm_common_horse2|Horse
-; itm_common_horse2_pl|Horse
+itm_common_horse|Koń
+itm_common_horse_pl|Koń
+itm_common_horse2|Koń
+itm_common_horse2_pl|Koń
 ; itm_common_pony|Pony
 ; itm_common_pony_pl|Pony
 ; itm_common_pony2|Pony
 ; itm_common_pony2_pl|Pony
-; itm_wild_horse|Horse
-; itm_wild_horse_pl|Horse
-; itm_wild_horse2|Horse
-; itm_wild_horse2_pl|Horse
+itm_wild_horse|Koń
+itm_wild_horse_pl|Koń
+itm_wild_horse2|Koń
+itm_wild_horse2_pl|Koń
 ; itm_wild_pony|Pony
 ; itm_wild_pony_pl|Pony
 ; itm_wild_pony2|Pony
@@ -1236,12 +1236,12 @@ itm_hood_02_pl|Kaptur
 ; itm_briton_helm17_pl|Old Complete Helm
 ; itm_briton_helm18|Old Complete Helm
 ; itm_briton_helm18_pl|Old Complete Helm
-; itm_briton_helm19|Helm with Nasal
-; itm_briton_helm19_pl|Helm with Nasal
-; itm_briton_helm20|Helm with Nasal
-; itm_briton_helm20_pl|Helm with Nasal
-; itm_briton_helm21|Helm with Nasal
-; itm_briton_helm21_pl|Helm with Nasal
+itm_briton_helm19|Hełm z nosalem
+itm_briton_helm19_pl|Hełm z nosalem
+itm_briton_helm20|Hełm z nosalem
+itm_briton_helm20_pl|Hełm z nosalem
+itm_briton_helm21|Hełm z nosalem
+itm_briton_helm21_pl|Hełm z nosalem
 ; itm_briton_helm22|Old Helm with Nasal
 ; itm_briton_helm22_pl|Old Helm with Nasal
 ; itm_briton_helm23|Old Helm with Nasal
@@ -1316,14 +1316,14 @@ itm_hood_02_pl|Kaptur
 ; itm_spangenhelm_17_pl|Elite Anglo Saxon Helm
 ; itm_spangenhelm_18|Saxon Helm
 ; itm_spangenhelm_18_pl|Saxon Helm
-; itm_spangenhelm_19|Helm with Nasal
-; itm_spangenhelm_19_pl|Helm with Nasal
-; itm_spangenhelm_20|Helm with Nasal
-; itm_spangenhelm_20_pl|Helm with Nasal
-; itm_spangenhelm_21|Helm with Nasal
-; itm_spangenhelm_21_pl|Helm with Nasal
-; itm_spangenhelm_22|Helm with Nasal
-; itm_spangenhelm_22_pl|Helm with Nasal
+itm_spangenhelm_19|Hełm z nosalem
+itm_spangenhelm_19_pl|Hełm z nosalem
+itm_spangenhelm_20|Hełm z nosalem
+itm_spangenhelm_20_pl|Hełm z nosalem
+itm_spangenhelm_21|Hełm z nosalem
+itm_spangenhelm_21_pl|Hełm z nosalem
+itm_spangenhelm_22|Hełm z nosalem
+itm_spangenhelm_22_pl|Hełm z nosalem
 ; itm_spangenhelm_23|Old Helm
 ; itm_spangenhelm_23_pl|Old Helm
 ; itm_spangenhelm_24|Old Helm with Nasal
@@ -1558,16 +1558,16 @@ itm_club_hard_pl|Pałka
 ; itm_longseax9_pl|Langseax
 ; itm_longseax10|Langseax
 ; itm_longseax10_pl|Langseax
-; itm_seax_1|Seax
-; itm_seax_1_pl|Seax
-; itm_seax_2|Seax
-; itm_seax_2_pl|Seax
-; itm_seax_3|Seax
-; itm_seax_3_pl|Seax
-; itm_seax_4|Seax
-; itm_seax_4_pl|Seax
-; itm_seax_5|Seax
-; itm_seax_5_pl|Seax
+itm_seax_1|Nóż
+itm_seax_1_pl|Nóż
+itm_seax_2|Nóż
+itm_seax_2_pl|Nóż
+itm_seax_3|Nóż
+itm_seax_3_pl|Nóż
+itm_seax_4|Nóż
+itm_seax_4_pl|Nóż
+itm_seax_5|Nóż
+itm_seax_5_pl|Nóż
 ; itm_ragnar_seax|Ragnar's Langseax
 ; itm_ragnar_seax_pl|Ragnar's Langseax
 ; itm_elf_seax|Elf's Langseax
@@ -1690,10 +1690,10 @@ itm_noble_swordv6_pl|Miecz
 ; itm_irish_short_sword2_pl|Goidelic Short Sword
 ; itm_irish_short_sword3|Goidelic Short Sword
 ; itm_irish_short_sword3_pl|Goidelic Short Sword
-; itm_championsword1|Goidelic Champion Sword
-; itm_championsword1_pl|Goidelic Champion Sword
-; itm_championsword2|Goidelic Champion Sword
-; itm_championsword2_pl|Goidelic Champion Sword
+itm_championsword1| 
+itm_championsword1_pl| 
+itm_championsword2| 
+itm_championsword2_pl| 
 ; itm_widow_maker|Widow Maker
 ; itm_widow_maker_pl|Widow Maker
 ; itm_suttonhoosword2|Bandit King Sword
@@ -1712,10 +1712,10 @@ itm_hatchet|Topór
 itm_hatchet_pl|Topór
 itm_axe|Topór
 itm_axe_pl|Topór
-; itm_axe_2|Short Axe
-; itm_axe_2_pl|Short Axe
-; itm_hand_axe|Short Axe
-; itm_hand_axe_pl|Short Axe
+itm_axe_2|Krótki topór
+itm_axe_2_pl|Krótki topór
+itm_hand_axe|Krótki topór
+itm_hand_axe_pl|Krótki topór
 ; itm_axe_3|Long Axe
 ; itm_axe_3_pl|Long Axe
 ; itm_axe_4|Long Axe
@@ -1728,10 +1728,10 @@ itm_axe_pl|Topór
 ; itm_one_handed_war_axe_c_pl|Short Battle Axe
 ; itm_one_handed_war_axe_d|Short Battle Axe
 ; itm_one_handed_war_axe_d_pl|Short Battle Axe
-; itm_one_handed_war_axe_e|Long Battle Axe
-; itm_one_handed_war_axe_e_pl|Long Battle Axe
-; itm_one_handed_war_axe_f|Long Battle Axe
-; itm_one_handed_war_axe_f_pl|Long Battle Axe
+itm_one_handed_war_axe_e|Długi Topór Bitewny
+itm_one_handed_war_axe_e_pl|Długi Topór Bitewny
+itm_one_handed_war_axe_f|Długi Topór Bitewny
+itm_one_handed_war_axe_f_pl|Długi Topór Bitewny
 ; itm_axe_5|Long Hand Axe
 ; itm_axe_5_pl|Long Hand Axe
 ; itm_axe_6|Hand Axe
@@ -1836,24 +1836,24 @@ itm_staff_pl|Laga
 ; itm_horn_pl|Horn
 ; itm_horn_multi|Horn
 ; itm_horn_multi_pl|Horn
-; itm_wooden_shield|Round Shield
-; itm_wooden_shield_pl|Round Shield
-; itm_viking_shield_round_06|Round Shield
-; itm_viking_shield_round_06_pl|Round Shield
-; itm_viking_shield_round_07|Round Shield
-; itm_viking_shield_round_07_pl|Round Shield
-; itm_viking_shield_round_10|Round Shield
-; itm_viking_shield_round_10_pl|Round Shield
-; itm_viking_shield_round_11|Round Shield
-; itm_viking_shield_round_11_pl|Round Shield
-; itm_viking_shield_round_08|Round Shield
-; itm_viking_shield_round_08_pl|Round Shield
-; itm_viking_shield_round_09|Round Shield
-; itm_viking_shield_round_09_pl|Round Shield
-; itm_viking_shield_round_12|Round Shield
-; itm_viking_shield_round_12_pl|Round Shield
-; itm_viking_shield_round_13|Round Shield
-; itm_viking_shield_round_13_pl|Round Shield
+itm_wooden_shield|Okrągła tarcza
+itm_wooden_shield_pl|Okrągła tarcza
+itm_viking_shield_round_06|Okrągła tarcza
+itm_viking_shield_round_06_pl|Okrągła tarcza
+itm_viking_shield_round_07|Okrągła tarcza
+itm_viking_shield_round_07_pl|Okrągła tarcza
+itm_viking_shield_round_10|Okrągła tarcza
+itm_viking_shield_round_10_pl|Okrągła tarcza
+itm_viking_shield_round_11|Okrągła tarcza
+itm_viking_shield_round_11_pl|Okrągła tarcza
+itm_viking_shield_round_08|Okrągła tarcza
+itm_viking_shield_round_08_pl|Okrągła tarcza
+itm_viking_shield_round_09|Okrągła tarcza
+itm_viking_shield_round_09_pl|Okrągła tarcza
+itm_viking_shield_round_12|Okrągła tarcza
+itm_viking_shield_round_12_pl|Okrągła tarcza
+itm_viking_shield_round_13|Okrągła tarcza
+itm_viking_shield_round_13_pl|Okrągła tarcza
 ; itm_viking_shield_round_01|Rawhide Shield
 ; itm_viking_shield_round_01_pl|Rawhide Shield
 ; itm_viking_shield_round_02|Rawhide Shield
@@ -1900,30 +1900,30 @@ itm_staff_pl|Laga
 ; itm_shield_8_pl|Berserkr Shield
 ; itm_shield_9|Berserkr Shield
 ; itm_shield_9_pl|Berserkr Shield
-; itm_shield_10|Round Shield
-; itm_shield_10_pl|Round Shield
+itm_shield_10|Okrągła tarcza
+itm_shield_10_pl|Okrągła tarcza
 ; itm_shield_11|Rawhide Shield
 ; itm_shield_11_pl|Rawhide Shield
 ; itm_shield_12|Svear Shield
 ; itm_shield_12_pl|Svear Shield
-; itm_shield_13|Round Shield
-; itm_shield_13_pl|Round Shield
-; itm_shield_14|Round Shield
-; itm_shield_14_pl|Round Shield
+itm_shield_13|Okrągła tarcza
+itm_shield_13_pl|Okrągła tarcza
+itm_shield_14|Okrągła tarcza
+itm_shield_14_pl|Okrągła tarcza
 ; itm_shield_15|Rawhide Shield
 ; itm_shield_15_pl|Rawhide Shield
 ; itm_shield_16|Rawhide Shield
 ; itm_shield_16_pl|Rawhide Shield
-; itm_shield_17|Round Shield
-; itm_shield_17_pl|Round Shield
-; itm_shield_18|Round Shield
-; itm_shield_18_pl|Round Shield
+itm_shield_17|Okrągła tarcza
+itm_shield_17_pl|Okrągła tarcza
+itm_shield_18|Okrągła tarcza
+itm_shield_18_pl|Okrągła tarcza
 ; itm_shield_19|Danish Shield
 ; itm_shield_19_pl|Danish Shield
 ; itm_shield_20|Northmathr Shield
 ; itm_shield_20_pl|Northmathr Shield
-; itm_shield_21|Round Shield
-; itm_shield_21_pl|Round Shield
+itm_shield_21|Okrągła tarcza
+itm_shield_21_pl|Okrągła tarcza
 ; itm_gael_bigroundshield_01|Gael Round Shield
 ; itm_gael_bigroundshield_01_pl|Gael Round Shield
 ; itm_gael_bigroundshield_02|Gael Round Shield
@@ -2070,16 +2070,16 @@ itm_long_bow_pl|Długi łuk
 ; itm_strong_bow_pl|Dark Hunter
 ; itm_war_bow|Eye-popping
 ; itm_war_bow_pl|Eye-popping
-; itm_sling_rock1|Sling Rocks
-; itm_sling_rock1_pl|Sling Rocks
+itm_sling_rock1|Kamienie do procy
+itm_sling_rock1_pl|Kamienie do procy
 ; itm_sling_lead|Sling Lead
 ; itm_sling_lead_pl|Sling Lead
-; itm_sling|Sling
-; itm_sling_pl|Sling
-; itm_sling2|Sling
-; itm_sling2_pl|Sling
-; itm_sling3|Sling
-; itm_sling3_pl|Sling
+itm_sling|Proca
+itm_sling_pl|Proca
+itm_sling2|Proca
+itm_sling2_pl|Proca
+itm_sling3|Proca
+itm_sling3_pl|Proca
 ; itm_sling_militar|Military Sling
 ; itm_sling_militar_pl|Military Sling
 ; itm_fustibalus1|Fustibalus
@@ -2264,16 +2264,16 @@ itm_bolts_mp_pl|Bełty
 ; itm_noswing_longseax9_pl|Langseax
 ; itm_noswing_longseax10|Langseax
 ; itm_noswing_longseax10_pl|Langseax
-; itm_noswing_seax_1|Seax
-; itm_noswing_seax_1_pl|Seax
-; itm_noswing_seax_2|Seax
-; itm_noswing_seax_2_pl|Seax
-; itm_noswing_seax_3|Seax
-; itm_noswing_seax_3_pl|Seax
-; itm_noswing_seax_4|Seax
-; itm_noswing_seax_4_pl|Seax
-; itm_noswing_seax_5|Seax
-; itm_noswing_seax_5_pl|Seax
+itm_noswing_seax_1|Nóż
+itm_noswing_seax_1_pl|Nóż
+itm_noswing_seax_2|Nóż
+itm_noswing_seax_2_pl|Nóż
+itm_noswing_seax_3|Nóż
+itm_noswing_seax_3_pl|Nóż
+itm_noswing_seax_4|Nóż
+itm_noswing_seax_4_pl|Nóż
+itm_noswing_seax_5|Nóż
+itm_noswing_seax_5_pl|Nóż
 ; itm_noswing_ragnar_seax|Ragnar's Langseax
 ; itm_noswing_ragnar_seax_pl|Ragnar's Langseax
 ; itm_noswing_elf_seax|Elf's Langseax
@@ -2396,10 +2396,10 @@ itm_noswing_noble_swordv6_pl|Miecz
 ; itm_noswing_irish_short_sword2_pl|Goidelic Short Sword
 ; itm_noswing_irish_short_sword3|Goidelic Short Sword
 ; itm_noswing_irish_short_sword3_pl|Goidelic Short Sword
-; itm_noswing_championsword1|Goidelic Champion Sword
-; itm_noswing_championsword1_pl|Goidelic Champion Sword
-; itm_noswing_championsword2|Goidelic Champion Sword
-; itm_noswing_championsword2_pl|Goidelic Champion Sword
+itm_noswing_championsword1| 
+itm_noswing_championsword1_pl| 
+itm_noswing_championsword2| 
+itm_noswing_championsword2_pl| 
 ; itm_noswing_widow_maker|Widow Maker
 ; itm_noswing_widow_maker_pl|Widow Maker
 ; itm_noswing_suttonhoosword2|Bandit King Sword
@@ -2422,10 +2422,10 @@ itm_noswing_noble_swordv6_pl|Miecz
 ; itm_noswing_one_handed_war_axe_c_pl|Short Battle Axe
 ; itm_noswing_one_handed_war_axe_d|Short Battle Axe
 ; itm_noswing_one_handed_war_axe_d_pl|Short Battle Axe
-; itm_noswing_one_handed_war_axe_e|Long Battle Axe
-; itm_noswing_one_handed_war_axe_e_pl|Long Battle Axe
-; itm_noswing_one_handed_war_axe_f|Long Battle Axe
-; itm_noswing_one_handed_war_axe_f_pl|Long Battle Axe
+itm_noswing_one_handed_war_axe_e|Długi Topór Bitewny
+itm_noswing_one_handed_war_axe_e_pl|Długi Topór Bitewny
+itm_noswing_one_handed_war_axe_f|Długi Topór Bitewny
+itm_noswing_one_handed_war_axe_f_pl|Długi Topór Bitewny
 ; itm_noswing_frankish_axe|Frankish Battle Axe
 ; itm_noswing_frankish_axe_pl|Frankish Battle Axe
 itm_noswing_staff|Laga

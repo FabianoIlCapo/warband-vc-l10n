@@ -9,10 +9,10 @@ str_given_by_s1_at_s2|Podarowane przez {s1} w {s2}
 str_given_by_s1_in_wilderness|Podarowane przez {s1} w trakcie walki
 str_s7_raiders|Bandyci {s7}
 str_bandits_eliminated_by_another|Kłopotliwi bandyci zostali wyeliminowani przez inną drużynę.
-; str_msg_battle_won|Battle won, your foes lie slaughtered on the field! (Press tab key to leave)
+str_msg_battle_won|Bitwa wygrana, Twoi wrogowie leżą wymordowani na ziemi! (Wciśnij tab aby wyjść)
 ; str_tutorial_map1|You are now viewing the world map. Left-click on the map to move your party to that location, enter the selected town, or pursue the selected party.^Time will pause on the overland map if your party is not moving, waiting or resting. To wait anywhere simply press and hold down the space bar.^This is a good moment to save your game! Press the Esc key and choose Save As or use F12 for quick saving.^^Good luck!
 ; str_tutorial_map11|You now have a strong party of men. Return to the jarl for further instruction.
-; str_randomize|Randomize
+str_randomize|Losuj
 str_charge|Naprzód
 str_color|Kolor
 str_flip_horizontal|Przerzuć w poziomie
@@ -82,12 +82,12 @@ str_join_order_attack_failure|Oglądasz w rozpaczy jak przeciwnicy zabijają Two
 ; str_center_captured|The {s2} has taken {s1} from the {s3}.
 ; str_troop_relation_increased|Your relation with {s1} has increased from {reg1} to {reg2}.
 ; str_troop_relation_detoriated|Your relation with {s1} has deteriorated from {reg1} to {reg2}.
-; str_faction_relation_increased|Your relation with the {s1} has increased from {reg1} to {reg2}. {s2}
-; str_faction_relation_detoriated|Your relation with the {s1} has deteriorated from {reg1} to {reg2}. {s2}
-; str_party_gained_morale|Your party gains {reg1} morale.
-; str_party_lost_morale|Your party loses {reg1} morale.
-; str_other_party_gained_morale|{s1} gains {reg1} morale.
-; str_other_party_lost_morale|{s1} loses {reg1} morale.
+str_faction_relation_increased|Twoje relacje z {s1} wzrosły z {reg1} na {reg2}. {s2}
+str_faction_relation_detoriated|Twoje relacje z {s1} spadły z {reg1} do {reg2}. {s2}
+str_party_gained_morale|Twój oddział zyskuje {reg1} pkt. morale.
+str_party_lost_morale|Twój oddział traci {reg1} pkt. morale.
+str_other_party_gained_morale|{s1} zyskuje {reg1} pkt. morale.
+str_other_party_lost_morale|{s1} traci {reg1} pkt. morale.
 ; str_qst_follow_spy_noticed_you|The spy has spotted you! He's making a run for it!
 ; str_duplicate|father
 ; str_s3s_s2|{s3}'s {s2}
@@ -100,21 +100,21 @@ str_join_order_attack_failure|Oglądasz w rozpaczy jak przeciwnicy zabijają Two
 ; str_relation_mnus_70|Hateful
 ; str_relation_mnus_60|Antagonistic
 ; str_relation_mnus_50|Hostile
-; str_relation_mnus_40|Angry
+str_relation_mnus_40|Wściekły
 ; str_relation_mnus_30|Resentful
 ; str_relation_mnus_20|Grumbling
-; str_relation_mnus_10|Suspicious
-; str_relation_plus_0|Indifferent
-; str_relation_plus_10|Cooperative
+str_relation_mnus_10|Podejrzliwy
+str_relation_plus_0|Obojętny
+str_relation_plus_10|Współpracujący
 ; str_relation_plus_20|Welcoming
 ; str_relation_plus_30|Favorable
 ; str_relation_plus_40|Supportive
-; str_relation_plus_50|Friendly
+str_relation_plus_50|Przyjazny
 ; str_relation_plus_60|Gracious
 ; str_relation_plus_70|Fond
-; str_relation_plus_80|Loyal
+str_relation_plus_80|Lojalny
 ; str_relation_plus_90|Devoted
-; str_relation_mnus_100_ns|{s60} is your mortal enemy.
+str_relation_mnus_100_ns|{s60} jest swoim śmiertelnym wrogiem.
 ; str_relation_mnus_90_ns|{s60} is implacable towards you.
 ; str_relation_mnus_80_ns|{s60} is vengeful towards you.
 ; str_relation_mnus_70_ns|{s60} is hateful towards you.
@@ -134,7 +134,7 @@ str_join_order_attack_failure|Oglądasz w rozpaczy jak przeciwnicy zabijają Two
 ; str_relation_plus_70_ns|{s60} is fond of you.
 ; str_relation_plus_80_ns|{s60} is loyal to you.
 ; str_relation_plus_90_ns|{s60} is devoted to you.
-; str_relation_reg1| Relation: {reg1}
+str_relation_reg1|Relacje: {reg1}
 ; str_center_relation_mnus_100|^The populace hates you with a passion
 ; str_center_relation_mnus_90|^The populace hates you intensely
 ; str_center_relation_mnus_80|^The populace hates you strongly
@@ -379,7 +379,7 @@ str_npc4_intro|Tak?
 ; str_npc5_intro|Hello, traveler. Would you join me for a drink?
 ; str_npc6_intro|I have things to tell you. Listen carefully.
 ; str_npc7_intro|Yes? Keep your distance, by the way.
-; str_npc8_intro|What do you want?
+str_npc8_intro|Czego chcesz?
 ; str_npc9_intro|You there, good {reg59?woman:man}. Be so kind as to fetch me another drink, eh?
 ; str_npc10_intro|God thee mid sie, {reg59?madame:sir}! Here's to the doom and downfall of all Welsh!
 ; str_npc11_intro|Heill, {reg59?my pretty:handsome}. I've been watching you a while.
@@ -894,7 +894,7 @@ str_npc16_payment_response|Bardzo dobrze.
 ; str_npc8_kingsupport_2a|Fair enough.
 ; str_npc9_kingsupport_2a|That seems sensible enough...
 ; str_npc10_kingsupport_2a|Of course! Everyone knows only Saxons are fit to be nobles.
-; str_npc11_kingsupport_2a|Tell me more.
+str_npc11_kingsupport_2a|Powiedz mi więcej.
 ; str_npc12_kingsupport_2a|Interesting. Please go on...
 ; str_npc13_kingsupport_2a|Please go on...
 ; str_npc14_kingsupport_2a|Very good, captain.
@@ -1568,8 +1568,8 @@ str_npc1_kingsupport_2b|Zapomnij.
 ; str_multi_game_type_2|Team Deathmatch
 str_multi_game_type_3|Bitwa
 str_multi_game_type_4|Oblężenie
-; str_multi_game_type_5|Duel
-; str_multi_game_type_6|Naval Battle
+str_multi_game_type_5|Pojedynek
+str_multi_game_type_6|Bitwa morska
 ; str_multi_game_type_7|Thor's Champion
 ; str_multi_game_type_8|Viking Invasion
 ; str_multi_game_type_9|Warlords Battle
@@ -1704,7 +1704,7 @@ str_dead|Martwy
 str_cancel|Anuluj
 ; str_continue|Continue
 str_done|Gotowe
-; str_back|Back
+str_back|Wróć
 ; str_start_map|Start Map
 ; str_choose_an_option|Choose an option:
 ; str_choose_a_poll_type|Choose a poll type:
@@ -2672,7 +2672,7 @@ str_game_type_basic|Tryb gry
 str_battle|Bitwa
 ; str_siege_offense|Siege (Offense)
 ; str_siege_defense|Siege (Defense)
-; str_character|Character
+str_character|Postać
 ; str_biography|Background
 ; str_player|Player
 str_enemy|Wróg
@@ -3349,7 +3349,7 @@ str_normal|Normalny
 ; str_damage_to_player|Player damage:
 ; str_damage_to_friends|Friends damage:
 str_combat_ai|AI w walce:
-; str_campaign_ai|Campaign AI:
+str_campaign_ai|AI kampanii:
 ; str_movement_and_combat_speed|Tactical Speed:
 ; str_battle_size|Battle size:
 ; str_difficulty_setting|Difficulty Setting

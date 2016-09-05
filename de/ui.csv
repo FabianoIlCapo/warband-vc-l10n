@@ -21,8 +21,8 @@ ui_faster|Schneller
 ui_slower|Langsamer
 ui_control_block_direction|Blockrichtung kontrollieren:
 ui_automatic_recommended|Automatisch
-ui_manual_easy|Manual (Einfach)
-ui_manual_hard|Manual (Schwierig)
+ui_manual_easy|Manuell (Einfach)
+ui_manual_hard|Manuell (Schwierig)
 ui_by_mouse_movement|Durch Mausbewegung
 ui_control_attack_direction|Angriffsrichtung kontrollieren:
 ui_lance_control|Lanzen Steuerung:
@@ -36,16 +36,16 @@ ui_report_damage|Schadensbericht
 ui_report_shot_difficulty|Schussschwierigkeit berichten
 ui_difficulty_rating_percentage|Schwierigkeit = %d%%
 ui_controls|Steuerung
-ui_video_options|Videooptionen
+ui_video_options|Grafik
 ui_done|Fertig
-ui_factions|Faktionen
+ui_factions|Fraktionen
 ui_item_itemname|Gegenstand - %s
 ui_prop_propname|Balken - %s
 ui_unknown_unknownname|Unbekannt - %s
 ui_entry_point_entrypointname|Einstiegspunkt %d
 ui_passage_menu_item_passagename|Durchgang (Menüpunkt %d))
 ui_plant_plantname|Pflanze - %s
-ui_export_file_for_character_playername_already_exists_overwrite_it|Exportdatei für Charakter %s besteht schon. Überschreiben?
+ui_export_file_for_character_playername_already_exists_overwrite_it|Exportdatei für Charakter %s existiert bereits. Überschreiben?
 ui_yes|Ja
 ui_no|Nein
 ui_set_save_file_name|Gebt einen Namen für diesen Spielstand ein:
@@ -67,7 +67,7 @@ ui_tutorial_face_generator|Ändert das Gesicht Eures Charakters mit den Schaltfl
 ui_restore|Laden
 ui_cancel|Abbrechen
 ui_delete|Löschen
-ui_confirm_delete_game|Seid Ihr sicher, dieses Spiel löschen zu wollen?
+ui_confirm_delete_game|Seid Ihr sicher, dass ihr dieses Spiel löschen wollt?
 ui_error_removing_file|Fehler beim Entfernen der Datei ...
 ui_day_datedisplay|Tag %d (%d:%d%d)
 ui_reset_changes|Änderungen zurücksetzen
@@ -91,7 +91,7 @@ ui_cha|CHA
 ui_at_learning_limit|(An der Lerngrenze)
 ui_not_enough_skill_points_to_learn|(Ungenügende Fertigkeitspunkte zum Erlernen)
 ui_strength|Stärke
-ui_agility|Wendigkeit
+ui_agility|Beweglichkeit
 ui_intelligence|Intelligenz
 ui_charisma|Charisma
 ui_not_enough_attributetype_to_learn_this_skill|
@@ -101,11 +101,11 @@ ui_explanation_polearm|Behandelt den Gebrauch von Stangenwaffen wie Speere, Lanz
 ui_explanation_archery|Behandelt den Gebrauch von Bögen.
 ui_explanation_crossbow|Behandelt den Gebrauch von Armbrüsten.
 ui_explanation_throwing|Behandelt den Gebrauch von Wurfwaffen wie Wurfspeeren, Wurfpfeilen, Steinen etc.
-ui_explanation_firearms|Behandelt den Gebrauch von Pistolen und Musketen.
-ui_explanation_strength|Stärke: Jeder Punkt fügt +1 Trefferpunkte hinzu. Die folgenden Fertigkeiten können nicht über 1/3 des Stärkewerts hinaus entwickelt werden: Eisenschwarte, Schlagkraft, Wurfkraft, Bogenzugkraft.
-ui_explanation_agility|Wendigkeit: Jeder Punkt verleiht fünf Waffenpunkte und erhöht die Waffengeschwindigkeit um 0.5%. Die folgenden Fertigkeiten können nicht über 1/3 des Wendigkeitswerts hinaus entwickelt werden: Waffenmeister, Schild, Athletik, Reiten, Berittenes Bogenschie
-ui_explanation_intelligence|Intelligenz: Jeder zusätzliche Intelligenzpunkt gewährt sofort einen zusätzlichen Fertigkeitspunkt. Die folgenden Fertigkeiten können nicht über 1/3 des Intelligenzwerts entwickelt werden: Ausbilder, Spurensuche, Taktiken,  Wegfindung, Aufklärung, Inventarverwaltung, Wundbehandlung, Chirurgie, Erste Hilfe, Baumeister, Überzeugungskraft.
-ui_explanation_charisma|Charisma: Jeder Punkt erhöht Eure Truppgrößenbeschränkung um +1. Die folgenden Fertigkeiten können nicht über 1/3 des Charismawerts hinaus entwickelt werden:Gefangenenverwaltung, Anführerschaft, Handel.
+ui_explanation_firearms|Behandelt den Gebrauch von Schleudern.
+ui_explanation_strength|Stärke: Jeder Punkt fügt +1 Trefferpunkte hinzu. Die folgenden Fertigkeiten können nicht 1/2 des Stärkewerts hinaus entwickelt werden: Eisenschwarte, Schlagkraft, Wurfkraft, Bogenzugkraft und Inventarverwaltung. Alle 5 Stufen erhaltet Ihr einen Extrapunkt, den Ihr einem Eurer Attribute hinzufügen könnt.
+ui_explanation_agility|Beweglichkeit: Jeder Punkt verleiht fünf Waffenpunkte und erhöht die Waffengeschwindigkeit um 0.5%. Die folgenden Fertigkeiten können nicht über 1/2 des Beweglichkeitswerts hinaus entwickelt werden: Waffenmeister, Aufklärung, Athletik, Reiten, Wegfindung und Plündern. Alle 5 Stufen erhaltet Ihr einen Extrapunkt, den Ihr einem Eurer Attribute hinzufügen könnt.
+ui_explanation_intelligence|Intelligenz: Jeder zusätzliche Intelligenzpunkt gewährt sofort einen zusätzlichen Fertigkeitspunkt. Die folgenden Fertigkeiten können nicht über 1/2 des Intelligenzwerts entwickelt werden: Ausbilder, Spurensuche, Taktiken, Wundbehandlung, Chirurgie, Erste Hilfe, Baumeister, Navigation und Waffenpflege. Alle 5 Stufen erhaltet Ihr einen Extrapunkt, den Ihr einem Eurer Attribute hinzufügen könnt.
+ui_explanation_charisma|Charisma: Jeder Punkt erhöht Eure Truppgrößenbeschränkung um +1. Die folgenden Fertigkeiten können nicht über 1/2 des Charismawerts hinaus entwickelt werden: König der Meere, Anführerschaft, Überzeugungskraft und Handel. Alle 5 Stufen erhaltet Ihr einen Extrapunkt, den Ihr einem Eurer Attribute hinzufügen könnt.
 ui_level|Stufe: %d
 ui_xp|Erfahrung: %d
 ui_next_level_at|Nächste Stufe bei: %d
@@ -117,7 +117,7 @@ ui_weapon_points|Waffenpunkte: %d
 ui_mission_losses_none|keine.
 ui_mission_losses_wounded|verwundet :
 ui_mission_losses_killed|getötet :
-ui_party_losses|%s : %d verwundet --- %d getötet of %d.
+ui_party_losses|%s : %d verwundet --- %d getötet von %d.
 ui_casualties_sustained|Erlittene Verluste:
 ui_advantage_change|Vorteilsänderung = %c%d
 ui_overall_battle_casualties|Gefechtsverluste insgesamt:
@@ -222,7 +222,7 @@ ui_merchant_pay_whatever|Na gut, zahlt einfach, was Ihr könnt.
 ui_merchant_think_of_something_else|Hmm. Denken wir uns doch lieber etwas anderes aus.
 ui_dumping_value_items|%d Gegenstände werden permanent verloren gehen. Seid Ihr sicher?
 ui_dumping_value_item|Ein Gegenstand wird permanent verloren gehen. Seid Ihr sicher?
-ui_question_slaughter_food_and_eat|%s und essen?
+ui_question_slaughter_food_and_eat|%s Schlachten und aufessen?
 ui_money_value|Geld: %s
 ui_dump|Wegwerfen
 ui_outfit|Ausrüstung
@@ -275,12 +275,12 @@ ui_polearms|Stangenwaffen
 ui_archery|Bogenschießen
 ui_crossbows|Armbrust
 ui_throwing|Werfen
-ui_firearms|Feuerwaffen
+ui_firearms|Schleudern
 ui_reset|Zurücksetzen
 ui_release_one|Eine/n freilassen
 ui_move_up|Nach oben
 ui_move_down|Nach unten
-ui_upgrade_one|Eine/n aktualisieren
+ui_upgrade_one|Eine/n aufwerten
 ui_party_skills|Truppfertigkeiten
 ui_morale|Moral: %s
 ui_terrible|Fürchterlich
@@ -301,7 +301,7 @@ ui_choose_companions|Gefährten auswählen
 ui_rescued_prisoners|Befreite Gefangene
 ui_captured_enemies|Gefangene Feinde
 ui_disband|Auflösen
-ui_take_prisoner|Als Gefangenen nehmen
+ui_take_prisoner|Gefangenen nehmen
 ui_take_back|Zurücknehmen
 ui_give|Geben
 ui_take|Nehmen
@@ -313,7 +313,7 @@ ui_capture|Gefangen nehmen
 ui_party_capcity_reached|(Maximale Truppgröße erreicht)
 ui_all|alle
 ui_joining_cost_weekly_wage|Aufnahmekosten: %d, Wöchentlicher Sold: %d
-ui_weekly_wage|Wochenlohn: %d Dinare
+ui_weekly_wage|Wochenlohn: %d Pfennige
 ui_price|Preis: %d
 ui_number_ready_to_upgrade|%d bereit zur Aktualisierung.
 ui_upgrade_to_value|Aktualisieren auf %s (%dd)
@@ -430,7 +430,7 @@ ui_fast_water_reflection|Schnelle Wasserreflektionen
 ui_maximum_framerate|Max. Bildrate:
 ui_show_framerate|Bildrate zeigen:
 ui_estimated_performance|Geschätzte Performance: %d%%
-ui_change_graphics_settings_explanation|Einige von Euch vorgenommenen Änderungen werden in Kraft treten, wenn Ihr einen neuen Bereich betretet.
+ui_change_graphics_settings_explanation|Einige von Euch vorgenommenen Änderungen werden erst in Kraft treten, wenn Ihr einen neuen Bereich betretet.
 ui_start_tutorial|Tutorial spielen
 ui_start_a_new_game|Neues Spiel
 ui_restore_a_saved_game|Spiel laden
@@ -454,13 +454,13 @@ ui_attack|Angreifen
 ui_parry_then_attack|Gegenangriff
 ui_defend|Verteidigen
 ui_kick|Treten
-ui_equip_weapon_1|Gegenstand ausrüsten 1
-ui_equip_weapon_2|Gegenstand ausrüsten 2
-ui_equip_weapon_3|Gegenstand ausrüsten 3
-ui_equip_weapon_4|Gegenstand ausrüsten 4
+ui_equip_weapon_1|Gegenstand 1 ausrüsten
+ui_equip_weapon_2|Gegenstand 2 ausrüsten
+ui_equip_weapon_3|Gegenstand 3 ausrüsten
+ui_equip_weapon_4|Gegenstand 4 ausrüsten
 ui_equip_next_weapon|Nächste Waffe ausrüsten
 ui_equip_next_shield|Nächsten Schild ausrüsten
-ui_sheath_weapon|Waffe in Scheide
+ui_sheath_weapon|Waffe Wegstecken
 ui_character_window|Charakterfenster
 ui_inventory_window|Inventarfenster
 ui_party_window|Truppfenster
@@ -501,7 +501,7 @@ ui_loading_module_info_file|Modulinfodatei wird geladen ...
 ui_processing_ini_file|INI-Datei wird verarbeitet ...
 ui_loading_music|Musik wird geladen ...
 ui_loading_data|Daten werden geladen ...
-ui_loading_setting_data|Umfelddaten werden geladen ...
+ui_loading_setting_data|Einstellungen werden geladen ...
 ui_loading_textures|Texturen werden geladen ...
 ui_finished|Fertig.
 ui_creating_game|Spiel wird erstellt ...
@@ -527,7 +527,7 @@ ui_order_button_retreat|Rückzug
 ui_order_button_advance|Zehn Schritte vor
 ui_order_button_fall_back|Zehn Schritte zurück
 ui_order_button_spread_out|Ausschwärmen
-ui_order_button_stand_closer|Näher aneinander
+ui_order_button_stand_closer|Zusammenrücken
 ui_order_button_mount_horses|Aufsitzen
 ui_order_button_dismount|Absitzen
 ui_order_button_hold_fire|Feuer einstellen
@@ -540,7 +540,7 @@ ui_order_button_fire_orders|Feuerbefehle
 ui_follow_me_e_|%s, mir nach!
 ui_charge_e_|%s, zum Angriff!!!
 ui_stand_ground_e_|%s, Stellung halten!
-ui_retreat_e_|%s, zieht sich zurück!
+ui_retreat_e_|%s, Rückzug!
 ui_mount_horses_e_|%s, aufsitzen!
 ui_dismount_e_|%s, absitzen!
 ui_advance_e_|%s, zehn Schritte vor!
@@ -562,19 +562,19 @@ ui_everyone_around_me|Soldaten in der Nähe!
 ui_str_hear_me|%s, Achtung!
 ui_str_and_str|%s und %s
 ui_str_comma_str|%s, %s
-ui_need_to_learn_prisoner_management|Ihr müsst die Fertigkeit Gefangenenverwaltung lernen, um Gefangene nehmen zu können.
+ui_need_to_learn_prisoner_management|Ihr müsst die Fertigkeit Gefangenen-Handhabung lernen, um Gefangene machen zu können.
 ui_game_log|Spiel-Log
 ui_recent_messages|Letzte Botschaften
 ui_custom_battle|Benutzerdefinierte Schlacht
 ui_player|Spieler
-ui_value_denars|%d Dinar
+ui_value_denars|%d Pfennige
 ui_back|Zurück
 ui_forward|Vorwärts
 ui_display_on_map|Auf Karte zeigen
 ui_info_pages|Spielkonzepte
 ui_troops2|Charaktere
 ui_locations|Orte
-ui_click_button_to_view_note|Klickt auf ein Link, um die Anmerkungen anzusehen
+ui_click_button_to_view_note|Klickt auf einen Link, um die Anmerkungen anzusehen
 ui_this_page_contains_no_information|Diese Seite enthält keine Informationen
 ui_other_pages_that_link_here|Andere Seiten, die hierhin verlinken:
 ui_report_is_value_days_old|(Bericht ist %d Tage alt)
@@ -590,8 +590,8 @@ ui_none|Keine
 ui_change|Ändern
 ui_how_to_change|Wie ändere ich dies?
 ui_change_directx_explanation|Ihr könnt die Wiedergabemethode zwischen DirectX 7 und DirectX 9 mit der Konfigurationsschaltfläche im Startmenü ändern, die beim Spielstart erscheint.
-ui_dropping_picking_up|%s fallen lassen%s aufheben.
-ui_dropping|%s wird abgelegt.
+ui_dropping_picking_up|%s ablegen; %s aufheben.
+ui_dropping|%s ablegen.
 ui_picking_up|%s aufheben.
 ui_unable_to_take|Kann dies nicht aufheben
 ui_age|Alter
@@ -604,17 +604,17 @@ ui_m_low2|Niedrig
 ui_m_high2|Hoch
 ui_m_ultra_high2|Sehr hoch
 ui_off2|Aus
-ui_group_header|Truppklasse
+ui_group_header|Truppengattung
 ui_group_rename|Gruppe umbenennen
 ui_group_1|Infanterie
 ui_group_2|Bogenschützen
 ui_group_3|Kavallerie
-ui_group_4|Unbenannt 1
-ui_group_5|Unbenannt 2
-ui_group_6|Unbenannt 3
-ui_group_7|Unbenannt 4
-ui_group_8|Unbenannt 5
-ui_group_9|Unbenannt 6
+ui_group_4|Speerträger
+ui_group_5|Plänkler
+ui_group_6|Berittene Schützen
+ui_group_7|Unbenannt 1
+ui_group_8|Unbenannt 2
+ui_group_9|Unbenannt 3
 ui_group_rename|Gruppe umbenennen
 ui_group_close|Schließen
 ui_party_b_group_information|%s gehört zu Gruppe %s
@@ -623,8 +623,8 @@ ui_ranged_damage|Fern: %d%s
 ui_overall_quality|Allgemeine Qualität
 ui_shader_quality|Shaderqualität:
 ui_flora_lod_detail|Baumdetail:
-ui_flora_degrade_distance|Entfernung für 
-ui_antialiasing|Anti-Aliasing:
+ui_flora_degrade_distance|Baumdetail-Distanz:
+ui_antialiasing|Kantenglättung:
 ui_use_depth_effects|Tiefeneffekte verwenden
 ui_hdr_mode|HDR-Modus:
 ui_autoexpore|Auto-Exposure
@@ -635,9 +635,9 @@ ui_join_game|Spiel beitreten
 ui_host_game|Spiel hosten
 ui_custom|Benutzerdefiniert
 ui_medium|Medium
-ui_male|Mann
-ui_female|Frau
-ui_gender|Geschlecht auswählen:
+ui_male|Männlich
+ui_female|Weiblich
+ui_gender|Geschlecht wählen:
 ui_edit_profile|Profil bearbeiten
 ui_new_profile|Neues Profil
 ui_enter_username|Benutzername eingeben:
@@ -651,23 +651,23 @@ ui_map_name|Karte
 ui_ping|Ping
 ui_dedicated|Dediziert
 ui_number_of_players|Spieler
-ui_password_protected|Kennwort
+ui_password_protected|Passwort
 ui_connect|Verbinden
 ui_local_area_network|Lokales Netzwerk
 ui_internet|Internet
 ui_favorites|Favoriten
 ui_source|Quelle:
-ui_server_password|Serverkennwort:
-ui_refresh|Auffrischen
-ui_start_search|Suche beginnen
-ui_add_to_favorites|An Favoriten anfügen
+ui_server_password|Serverpasswort:
+ui_refresh|Aktualisieren
+ui_start_search|Suchen
+ui_add_to_favorites|Zu Favoriten hinzufügen
 ui_remove_from_favorites|Von Favoriten entfernen
 ui_use_speedtree|Speedtree benutzen
 ui_use_instancing|Instancing benutzen
 ui_error|Fehler
 ui_error_server_full|Server ist voll.
-ui_error_server_full_for_non_private|Server ist voll für Spieler ohne Privatmitgliedskennwort.
-ui_error_server_password_incorrect|Ungültiges Kennwort.
+ui_error_server_full_for_non_private|Server ist voll für Spieler ohne Privatmitgliedspasswort.
+ui_error_server_password_incorrect|Ungültiges Passwort.
 ui_error_incorrect_serial|Ungültige Seriennummer
 ui_error_incorrect_authorization_key|Ungültiger Authorisierungsschlüssel.
 ui_error_banned_from_server|Ihr wurdet von diesem Server verbannt.
@@ -706,7 +706,7 @@ ui_round_starts_in_value_seconds|Runde startet in %d Sekunden ...
 ui_watching_value|Folge %s
 ui_capital_spec|SPEZ
 ui_capital_dead|TOT
-ui_instancing_error1|Fehler beim Feststellen des Instance Buffer (Größe: %d), Mesh-Instancing deaktiviert (Fehlercode: %d)
+ui_instancing_error1|Fehler beim Feststellen des Instance-Buffer (Größe: %d), Mesh-Instancing deaktiviert (Fehlercode: %d)
 ui_instancing_error2|Flächige Objekte konnten nicht eingefügt werden, Mesh-Instancing deaktiviert
 ui_by_keyboard|Mit Bewegungstasten
 ui_combat_speed_slowest|Am langsamsten
@@ -726,26 +726,26 @@ ui_turn_never|Niemals
 ui_turn_ranged_only|Nur Fernkampf
 ui_turn_melee_only|Nur Nahkampf
 ui_turn_always|Immer
-ui_general_options|Allgemeine Optionen
+ui_general_options|Allgemein
 ui_vac_enabled|Valve Anti Cheat aktiviert
-ui_campaign_ai|Kampagne AI:
+ui_campaign_ai|Kampagnen-KI:
 ui_downloading_map|Karte wird heruntergeladen (%d KB)
 ui_download_completed|Download abgeschlossen.
-ui_server_filter|Suchfilter speichern
-ui_has_players|Vorhandene Spieler
+ui_server_filter|Serverfilter
+ui_has_players|Spieler vorhanden
 ui_is_not_full|Nicht voll
-ui_is_password_free|Kein Password
+ui_is_password_free|Kein Passwort
 ui_native_only|Nur Einheimische
-ui_ping_limit|Ping Begrenzung
+ui_ping_limit|Ping-Begrenzung
 ui_filter_info|%d Spiele und %d Spieler wurden gefiltert
 ui_is_version_compatible|Kompatibel mit der Version
 ui_ttnet_account|TTNET Oyun account
 ui_username|Benutzername
-ui_password|Kennwort
-ui_error_incorrect_username_or_password|Benutzernamen oder Passwort falsch
+ui_password|Passwort
+ui_error_incorrect_username_or_password|Benutzername oder Passwort falsch
 ui_validating_account|Account wird überprüft ...
 ui_plase_enter_your_serial_key|Bitte geben Sie Ihre Seriennummer ein
 ui_texture_detail2|Texturdetail:
-ui_antialiasing2|Antialiasing:
-ui_troop_upgrades|Truppen Baum
+ui_antialiasing2|Kantenglättung:
+ui_troop_upgrades|Truppen-Baum
 ui_crouch|Ducken

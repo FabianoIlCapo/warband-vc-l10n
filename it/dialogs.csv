@@ -1,24 +1,24 @@
-dlga_start:blocked_agent|Questa persona sembra occupata. Forse dovrei passare...
+dlga_start:blocked_agent|Questa persona sembra occupata. Forse dovrei andarmene...
 dlga_blocked_agent:close_window|Mi dispiace. Non volevo disturbarti.
-dlga_blocked_agent:close_window.1|[Basta lasciare]
+dlga_blocked_agent:close_window.1|[Vattene]
 dlga_start:dog_talk_2|{s1}!
 dlga_dog_talk_1:dog_talk_2|{s1}!
 dlga_dog_talk_2:close_window|Vattene!
-dlga_dog_talk_2:close_window.1|Vai, {s1} vai!
+dlga_dog_talk_2:close_window.1|Vai, {s1}, vai!
 dlga_dog_talk_2:close_window.2|{s1}, aspetta!
 dlga_dog_talk_2:dog_talk_pretrain|Ecco, ho qualcosa per te...
-dlga_dog_talk_2:close_window.3|Ti chiamo io...
+dlga_dog_talk_2:close_window.3|Ti chiamerò io...
 dlga_dog_talk_2:close_window.4|Cane cattivo! Vattene! Non ti voglio più!
 dlga_dog_talk_2:close_window.5|Buttala!
 dlga_start:dog_talk_recruit| 
-dlga_dog_talk_recruit:dog_talk_1|Ecco, ho una salsiccia!
+dlga_dog_talk_recruit:dog_talk_1|Ecco, tieni una salsiccia!
 dlga_dog_talk_recruit:close_window|Bravo cane!
 dlga_dog_talk_recruit:close_window.1|Via!
 dlga_dog_talk_pretrain:dog_talk_train|Qui, ho qualcosa per te ...
 dlga_dog_talk_train:dog_talk_pretrain|Non sembri sano. Qui, hanno un {s7}!
 dlga_dog_talk_train:dog_talk_pretrain.1|Ecco, questo {s7} ti renderà più forte!
 dlga_dog_talk_train:dog_talk_pretrain.2|Voglio che tu sia più forte. Ecco alcuni {s7}. Và bene!
-dlga_dog_talk_train:dog_talk_pretrain.3|Sei troppo magra. Qui, hanno dei {s7}!
+dlga_dog_talk_train:dog_talk_pretrain.3|Sei troppo magro. Qui, hanno dei {s7}!
 dlga_dog_talk_train:dog_talk_pretrain.4|Puoi essere più veloce, amico mio. Ecco alcuni {s7} per te!
 dlga_dog_talk_train:dog_talk_pretrain.5|Ecco dei {s7} per i vostri denti!
 dlga_dog_talk_train:dog_talk_1|Non ho più cibo per voi.
@@ -160,7 +160,7 @@ dlga_port_crew_fleet2:the_fleetcrew1|Sì, è giunto il momento. Douar-an-Enez mi
 dlga_the_fleetcrew1:close_window|Mi è stato detto che sarete per settimane, addirittura mesi la fuori, quindi buona fortuna. La tua flotta ti aspetta all'uscita del porto. Prendete la vostra barca e andate con loro.
 dlga_port_crew_fleet2:close_window|No. Ho bisogno di finire alcune cose. Tornerò.
 dlga_port_r_2:close_window|Ora devo andare via. Addio .
-; dlga_start:close_window.5|Why are you bothering me? I'm busy! I have no time for people like you. Come back another day. Or better yet, don't.^^--It seems that Sigurd is not willing to receive you now. You'll need to look for another way to find out information about Sven.--
+dlga_start:close_window.5|Perché mi stai infastidendo? Sono occupato! Non ho tempo per persone come te. Torna un altro giorno. Oppure, meglio ancora, mai.^^--Sembrerebbe che Sigurd non voglia riceverti. Dovrai trovare un'altra maniera per cercare informazioni su Sven.--
 dlga_start:kinghorik_quest_danmarkprot|Questo è un buon posto, lontano da orecchie indiscrete. Ora, parliamo.
 dlga_start:kinghorik_quest_revenge4|Questo è un buon posto, lontano da orecchie indiscrete. Ora, parliamo.
 dlga_start:kinghorik_quest_thething1|Salve, {playername}.
@@ -439,7 +439,7 @@ dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|Bene. Ci sono quattro
 dlga_fighter_talk_train_attack_2:close_window|Cominciamo allora. Posso iniziare.
 dlga_fighter_talk_train_attack_2:fighter_pretalk|Veramente vorrei fare un'altra cosa, adesso.
 dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|Senza uno scudo, difendendovi con un'arma potete fermare gli attacchi che vengono solo da una direzione. Per esempio se difendete verso l'alto, parerete solo i fendenti, ma potreste essere colpito ai fianchi o frontalmente. ^^(Devi cliccare e tenere premuto il tasto destro del mouse per parare.)
-; dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|I'll now attack you with different types of strokes, and I will wait until you do the correct block before attacking. Try to do the correct block as soon as you can. ^^(This practice is easy to do with the 'automatic block direction' setting, which is the default. If you go to the Options menu and change the defend direction control to 'mouse movement' or 'keyboard,' you'll need to manually choose block direction. This is much more challenging, but makes the game much more interesting. This practice can be very useful if you use manual blocking.)
+dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|Ora ti attaccherò con diversi tipi di attacco, e aspetterò finché farai la giusta posizione di difesa prima di attaccare. Prova a metterti nella giusta guardia più velocemente che puoi. ^^(Questa azione è più semplice con l'impostazione 'direzione di blocco automatica', attiva di default. Se apri il menu Opzioni e cambi il controllo della direzione di parata su 'in base al movimento del mouse' o 'dalla tastiera', dovrai scegliere manualmente la direzione della parata. Ciò è certamente più difficile, ma rende il gioco più interessante. È un esercizio molto utile se usi il blocco manuale.)
 dlga_fighter_talk_train_parry_3:close_window|Cominciamo allora. Posso iniziare.
 dlga_fighter_talk_train_parry_3:fighter_pretalk|Veramente vorrei fare un'altra cosa, adesso.
 dlga_fighter_talk_train_combat:fighter_talk_train_combat_2a|La simulazione di combattimento è un ottimo modo per prepararsi al combattimento reale. Combatteremo tra noi con armi non letali, fino a quando uno dei due cade a terra. Potrete farvi qualche livido, ma è sempre meglio che avere la peggio in uno scontro reale.
@@ -1001,12 +1001,12 @@ dlga_bodo_carta11:bodo_carta12|Se consegnerai questa lettera a Re Horik o qualsi
 dlga_bodo_carta12:bodo_carta13|Va bene, ma non credo che cambierò idea. La darò sicuramente ai Vichinghi.
 dlga_bodo_carta12:bodo_carta13.1|Va bene, ma non credo che cambierò idea. La darò sicuramente al West Seaxe.
 dlga_bodo_carta12:bodo_carta13.2|Bene, ne riparleremo alla lettera successiva.
-; dlga_bodo_carta13:bodo_carta14|Well, we will tell King Horik that the letter was destroyed during the fight with Atli Eiriksson. Then he does not have to worry about Sigurd 'Snake in the Eye' using it in the Assembly. This will ensure his support for your cause.
+dlga_bodo_carta13:bodo_carta14|Bene, diremo a Re Horik che la lettera è stata distrutta durante il combattimento con Atli Eiriksson. Non dovrà preoccuparsi di usare Sigurd 'Snake in the Eye' in Assemblea. Ciò assicurerà il suo supporto alla nostra causa.
 dlga_bodo_carta14:close_window|Non perdiamo tempo, usciamo da questa grotta.
-; dlga_brunhild_avisa:companion_brunhild_conv|Sigurd 'Snake in the Eye' was in the mead hall of the jarl of Kennemer on more than one occasion. He is not just any man, my {reg59?lady:lord}! You know that the jarl of Kennemer is a hard man, but he trembled before Sigurd. Sigurd doesn't say a lot, he never smiles, and his snake eyes burrow into you as if he were trying to read your thoughts. I was but a slave, but I heard things. People say that he is the most dangerous of the sons of Ragnar, a man who would kill you just for coughing nearby or for being in his way on the wrong day.
-; dlga_companion_brunhild_conv:companion_brunhild_conv3|The beautiful Brunhild is right, {playername}. From what I know, Sigurd Ragnarsson is the kind of man that one should avoid. Unfortunately, he blocks our way...
-; dlga_companion_brunhild_conv3:companion_brunhild_conv4|I don't believe it is so bad. You can't trust the jarl of Kennemer, since he is an accomplished actor who uses every possible tool to try to manipulate others. If he saw an advantage in passing as timid before Sigurd, he would've done that. I would be very careful with him, as he's a man who smiles when you face him, and stabs you with a dagger when you turn. With Sigurd, at least, you always know where he is coming from.
-; dlga_companion_brunhild_conv4:companion_brunhild_conv5|Reginhard is talking without knowing him. I've heard things and seen things. Maybe Reginhard was too busy drinking or betraying someone. Sigurd is spiteful, never forgiving -- and never forgetting...
+dlga_brunhild_avisa:companion_brunhild_conv|Sigurd "Occhio di Serpente" si revava nella mead Hall dello Jarl di Kennemer in più di un'occasione. Non è un uomo qualunque, mio/a {reg59?signora:signore}! Sappi che lo Jarl di Kennemer è un uomo forte, ma tremò di fronte a Sigurd. Sigurd non parla molto, non sorrire mai, e i suoi occhi da sperpente ti scrutano come se lui stia provando a leggere i tuoi pensieri. Io ero solo uno schiavo, ma ho sentito delle voci. La gente dice che lui è il più pericoloso tra i figli di Ragnar, un uomo che ti ucciderebbe semplicemente perchè gli hai tossito vicino o perchè eri sul suo cammino nel giorno sbagliato
+dlga_companion_brunhild_conv:companion_brunhild_conv3|La bella Brunhild ha ragione, {playername}. Da quel che ne so, Sigurd Ragnarsson è il tipo di personaggio che si dovrebbe evitare. Sfortunatamente, è lui che ci blocca la strada...
+dlga_companion_brunhild_conv3:companion_brunhild_conv4|Non credo sia così cattivo. Non puoi fidarti dello Jarl di Kennemer, sai che è un bugiardo che usa ogni possibile strumento per manipolare gli altri. Se ha visto un vantaggio personale passando per un debole dinnanzi a Sigurdo, è perchè voleva farlo. Io starei molto attento, è un uomo che ti sorride quando lo guardi, e ti pugnala non appena ti giri. Con Sigurd, almeno, puoi sempre capire da che parti arrivi e dove stia andando.
+dlga_companion_brunhild_conv4:companion_brunhild_conv5|Reginhard sta parlando senza conoscerlo. Ho sentito e visto cose. Forse Reginhard era troppo occupato a bere o tradire qualcuno. Sigurd è maligno, non perdona -- e non dimentica...
 dlga_companion_brunhild_conv5:companion_brunhild_conv6|Ha coraggio, la donna, chiamandomi ubriacone e traditore in faccia! Tu non sai niente di me! Guardati dalle tue parole, o dovrai guardarti le spalle.
 dlga_companion_brunhild_conv6:companion_brunhild_conv71|Brunilde! Reginhard ha avuto una vita dura. Non utilizzare quello che è successo con Thiaderd contro di lui.
 dlga_companion_brunhild_conv6:companion_brunhild_conv72|Reginhard! Superare i tuoi rimpianti e il tuo passato e non minacciare un membro di questa compagnia.
@@ -1026,7 +1026,7 @@ dlga_companion_brunhild_conv10:companion_brunhild_conv112|Parlare con Sigurd o d
 dlga_companion_brunhild_conv111:companion_brunhild_conv112|La Cosa o l'Assemblea è un incontro di uomini liberi in cui le controversie vengono risolte e le decisioni politiche divantano fatti.
 dlga_companion_brunhild_conv112:companion_brunhild_conv12|Penso che dovremmo ottenere la protezione e il sostegno di Re Horik. Questo ci darà un vantaggio quando parleremo con Sigurd e lo costringerà a rispettare le nostre vite. Se Re Horik ci aiuta, possiamo legalmente richiedere il rilascio di tua madre.
 dlga_companion_brunhild_conv12:companion_brunhild_conv13|Non andiamo direttamente da Sigurd 'Occhi di Serpente'. Ciò potrebbe causare la morte di tua madre e forse perderemmo traccia di Sven Bull Neck per sempre. Perché non vediamo se Re Horik ci sosterrà?
-; dlga_companion_brunhild_conv13:companion_brunhild_conv14|If I had to choose between going straight to Sigurd and getting myself killed or going to Horik and getting your mother killed, I wouldn't know what to say. You got me out of the hole where I was, so I'm fine with your choice whatever it is.
+dlga_companion_brunhild_conv13:companion_brunhild_conv14|Se dovessi scegliere tra andare incontro a Sigurd e finire ucciso oppure andare da Horik e avere tua madre morta, Non saprei cosa dire. Mi hai tirato fuori dal buco in cui ero finito, quindi sono d'accordo con la tua scelta qualunque essa sia.
 dlga_companion_brunhild_conv14:close_window|Ho bisogno di riflettere. Grazie a tutti. Continuiamo il nostro viaggio.
 dlga_companion_questions_bodo1:companion_recruit_backstory_responsebodo|Sven Bull Neck venne qui dopo l'attacco. Ha lasciato qualcuno dei suoi uomini qui con noi, i prigionieri. Io inoltre l'ho visto mandare delle navi in una missione per attaccare la Frisia. Dopo è andato a nord. Penso che qualcosa o qualcuno l'abbia chiamato lì. Ho sentito i suoi uomini dire queste cose, bensì non tutto quello che dicono potrebbe essere vero.
 dlga_companion_questions_bodo2:companion_responsebodostory|So che vuoi sapere se tua madre è ancora viva, e dove si trova. Beh, io non ti ho detto tutto. Ho bisogno che tu mantenga la calma e mi ascolti con attenzione.
@@ -1055,15 +1055,15 @@ dlga_companion_responsebodostory102:companion_responsebodostory11|Ero il bersagl
 dlga_companion_responsebodostory103:companion_responsebodostory102|Tua madre è ancora viva. Quando mi svegliai, prigioniero sulla nave di Sven Bull Neck, tua madre era accanto a me. Eravamo gli unici sopravvissuti, o così pensavo fino a quando sei venuto in mio soccorso oggi. Tua madre pensa che tu sia morto, amico mio.
 dlga_companion_responsebodostory11:companion_responsebodostory13|Cos'hai fatto?
 dlga_companion_responsebodostory13:companion_responsebodostory14|l'ho dato a tua madre! Ho pensato che fosse più al sicuro nelle sue mani che nelle mie... Prima di scagliarti addosso a me devi sapere che le ho salvato la vita, perché i Vichinghi hanno pensato che fosse la mia maestra.
-; dlga_companion_responsebodostory14:companion_responsebodostory15|Do you understand? If not for that object, she probably would be dead now, like the rest of the people of the Woden Ric. Your mother's disease helped too, because the Vikings think that madness is a touch of the gods. Sven took your mother north with him and left me to my fate here, to be sold as a slave, because he thought she was my master and the object carrier. We must hurry, because when Sven Bull Neck discovers the truth, he will kill her.
+dlga_companion_responsebodostory14:companion_responsebodostory15|Capisci? se non era per quell'oggetto, lei sarebbe sicuramente morta adesso, come il resto della gente di Woden Ric. La malattia di tua madre è stata d'aiuto, perché i Vichinghi pensano che la pazzia sia un tocco degli dei. Sven ha portato tua madre a nord con lui e mi ha lasciato al mio destino qui, per vendermi come schiavo, perché lui pensava che ella era la mia padrona e la portatrice dell'oggetto. Dobbiamo sbrigarci, perché quando Sven Bull Neck scoprirà la verità, la ucciderà.
 dlga_companion_responsebodostory15:companion_responsebodostory161|Chi sei tu, in realtà, cosa vuole di cosi importante Sigurd per scagliarti addosso Sven?
 dlga_companion_responsebodostory15:companion_responsebodostory162|Dove ha preso mia madre?
-; dlga_companion_responsebodostory161:companion_recruit_signup|That's not important, but I will tell you that I'm not a common traveler. I was sent by the king of Asturias, and what I brought with me is a gift that could change the course of a war! We'll talk about this later. It is urgent now to find your mother. Sven Bull Neck was summoned by his lord, Sigurd 'Snake in the Eye' Ragnarsson. Sigurd wants this object badly. He will interrogate your mother about it, because he thinks she has the information he needs. We must find Sigurd soon.
+dlga_companion_responsebodostory161:companion_recruit_signup|Non ha importanza, ma ti dirò che non sono un comune viaggiatore. Sono stato mandato dal re di Asturias, e quello che porto con me è un dono che potrebbe cambiare il corso della guerra! parleremo di questo più tardi. Adesso urge trovare tua madre. Sven Bull Neck è stato convocato dal suo signore, Sigurd 'Snake in the Eye' Ragnarsson. Sigurd vuole tremendamente quell'oggetto. Lui interrogherà tua madre, perché egli pensa che abbia le informazioni di cui ha bisogno. Dobbiamo trovare in fretta Sigurd.
 dlga_companion_responsebodostory162:companion_recruit_signup|Sven Bull Neck è stato convocato dal suo signore, Sigurd 'Occhi di Serpente' Ragnarsson. Sigurd vuole questo oggetto del male. Interrogherà tua madre, perché pensa che abbia informazioni di cui ha bisogno. Dobbiamo trovare il figlio di Sigurd. Dove ha preso mia madre?
 dlga_companion_reginhard1:companion_reginhard2|{s2}^^INon sono sicuro che abbiamo qualcosa di cui parlare.
 dlga_companion_reginhard2:companion_reginhard21|{s10}
-; dlga_companion_reginhard2:companion_reginhard3|Alright, I will stay with you, but tell me why you should not be here.
-; dlga_companion_reginhard2:companion_reginhard3.1|Come on, Reginhard, I'm legitimate. Tell me why you should not be here.
+dlga_companion_reginhard2:companion_reginhard3|Molto bene, rimarrò con te, ma dimmi perché non dovresti essere qui.
+dlga_companion_reginhard2:companion_reginhard3.1|Andiamo, Reginhard, sono legittimo. Dimmi perché non dovresti essere qui.
 dlga_companion_reginhard2:companion_reginhard3.2|Reginhard, prendi questi 50 denari. Sò che stai passando un momento difficile e gli amici servono a questo.
 dlga_companion_reginhard2:companion_reginhard3.3|Sei proprio una persona interessante. Qual è la tua storia? (Persuasione)
 dlga_companion_reginhard21:companion_reginhard2|{s2}
@@ -1074,11 +1074,11 @@ dlga_companion_reginhard4:companion_reginhard421|Come posso trovarlo?
 dlga_companion_reginhard421:companion_reginhard422|Non lo puoi trovare. Non vogliono essere trovati. Questi uomini temono lo Jarl. Thiaderd, inoltre, si circonda solo di gente fidata.
 dlga_companion_reginhard422:companion_reginhard423|Sono degno di fiducia. Chiedimi quello che vuoi.
 dlga_companion_reginhard422:companion_reginhard423.1|Penso che tu stia giocando con me e non mi piace. Me ne vado.
-; dlga_companion_reginhard423:close_window|{s3}^^Look at me and listen. There are many people having a hard time during this rebellion, particularly the many widows and orphans. There is a woman in Dorestad who collects donations to care for these widows and orphans. Go see her and help. I think you're a good person, but show me. Talk to this woman. Her name is Adda. You can find her in the shop on the wharf. Make a donation in my name. Maybe this will help my people see me with different eyes.
+dlga_companion_reginhard423:close_window|{s3}^^Guardami e ascoltami. Ci sono molte persone che stanno passando un brutto periodo durante questa ribellione, particolarmente le molte vedove e orfani. C'è una donna a Dorestad che raccoglie donazioni per conto di queste vedove e orfani. Va da lei e aiutala. Penso che sei una brava persona, ma dimostramelo. Parla con questa donna. Il suo nome è Adda. Puoi trovarla nel negozio sul molo. Fa una donazione a mio nome. Forse questo aiuterà la mia gente a vedermi con occhi diversi.
 dlga_bodo_choiceside1:bodo_choiceside21|Bodo, ricordami la tua missione.
 dlga_bodo_choiceside1:bodo_choiceside22|Sì, stavo pensando alla lettera e ho preso una decisione.
-; dlga_bodo_choiceside21:bodo_choiceside22|Your memory is fragile, my friend. When we traveled in the Woden Ric, Sven Bull Neck attacked us to steal a letter that I had. That's where our history began. Sven stole the letter for Sigurd 'Snake in the Eye,' his jarl, but we recovered the letter in Northvegr. We pulled it from the hands of the corpse of Atli, the man whom Sigurd had ordered to protect the letter. Now the letter is in our possession, and we were waiting for the right time to take it to West Seaxe. This time has come.
-; dlga_bodo_choiceside22:bodo_choiceside3|I am very happy! Without you, I would not have gotten this far. The letter will coordinate the alliance between West Seaxe, Asturias and the Franks. These three kingdoms will gather together men and ships to cleanse the North Sea of Vikings. In fact, it is possible that the fleet of Asturias is about to be sent, because my mission has been delayed.
+dlga_bodo_choiceside21:bodo_choiceside22|La tua memoria è breve, amico mio. Quando ha viaggiato nella Woden Ric, Sven Collo di Toro ci ha attaccati per rubare una lettera in mio possesso. Questo è dove la nostra storia è cominciata. Sven ha rubato la lettera diretta a Sigurd Occhio di Serpente, il suo Jarl, ma noi abbiamo ritrovato quest'ultima in Northvegr. L'abbiamo presa dalle mani del freddo Atli, l'uomo a cui Sigurd aveva ordinato di proteggere la lettera. Adesso la lettera è nelle nostre mani, e noi stiamo aspettando il momento buono per portarla nel West Seace. Questo momento è arrivato.
+dlga_bodo_choiceside22:bodo_choiceside3|Sono davvero felice! Senza di te io non sarei giunto fin qui. La lettera garantirà l'alleanza tra West Seace, Asturias e i Franchi. Questi tre regni assolderanno tutti insieme uomini e imbarcazioni per ripulire il mare del Nord dai Vichinghi. Ho sentito che forse la flotta di Asturias è pronta a salpare, anche perché la mia missione è stata rimandata.
 dlga_bodo_choiceside3:bodo_choiceside4_s|Mi piacerebbe sentire le opinioni degli altri compagni prima di prendere una decisione.
 dlga_bodo_choiceside3:bodo_choiceside4_1|Ora, ascolta la mia decisione.
 dlga_bodo_choiceside4_1:bodo_choiceside4_2|{playername}, dovresti ascoltare il nostro parere prima di decidere.
@@ -1087,8 +1087,8 @@ dlga_bodo_choiceside4_2:bodo_choiceside9|No, sono il capo e non mi interessa la 
 dlga_bodo_choiceside4_s:bodo_choiceside4|Non ho niente da dire. Ascolterò con gli altri.
 dlga_bodo_choiceside4_s:bodo_choiceside4.1|Dobbiamo prendere una decisione {playername} 
 dlga_bodo_choiceside4_s:bodo_choiceside4.2|--Schiarisce la gola e attende l'attenzione di tutti.--
-; dlga_bodo_choiceside4:bodo_choiceside41|Sorry, but I can't be impartial in this matter. My ancestors, my family, are Vikings. The gods have granted us victory upon victory, so that we may acquire fame and wealth. This invasion we have embarked upon is in the footsteps of the sons of Ragnar in Englaland. It is a rich, fertile land worth fighting for. The Danish understand that if you can seize something, it's yours. It is for the inhabitants of the land to defend it and be worthy adversaries.
-; dlga_bodo_choiceside41:bodo_choiceside42|The Danish are not beggars, and do not come asking for a piece of land. Danes do not ask for charity from the Saxons. We come with weapons in hand, ready to fight. If the Angles or Saxons defeat us, we will respect their victory, but if we prevail, the gods are with us and the fertile soil belongs to us. That is what I believe. If the Saxons and Franks come northward to fight and defeat the Danish, they are true warriors and the land is theirs.
+dlga_bodo_choiceside4:bodo_choiceside41|Mi dispiace, ma non posso essere imparziale in questa disputa. I miei antenati, la mia famiglia, sono Vichinghi. Gli dei ci hanno portato alla vittoria, quindi noi potremmo guadagnare fama e ricchezze. L'invasione che abbiamo iniziato è fatta sulle orme di quella dei figli di Ragnar in Inghilterra. E' una terra ricca, per cui vale la pena combattere. I danesi capiscono che se puoi sottomettere o conquistare qualcosa, è tua. Sta agli abitanti delle terre difenderla e combattere gli aggressori.
+dlga_bodo_choiceside41:bodo_choiceside42|I Danesi non sono mendicanti, e non vengono a chiedere un pezzo di terra. I Danesi non chiedono carità dai Sassoni. Noi veniamo con le armi in pugno, pronti a combattere. Se gli Inglesi o i Sassoni ci sconfiggono, noi rispettiamo la loro vittoria, ma se siamo noi a prevalere, gli Dei ci assistono e le terre fertili sono nostre. Questo è quello che credo. Se i Sassoni e i Franchi vengono a nord per combattere e sconfiggere i Danesi, allora sono dei veri guerrieri e la terra è loro.
 dlga_bodo_choiceside42:bodo_choiceside43|La tua opinione peserà molto nella mia decisione, Asbjorn. Grazie.
 dlga_bodo_choiceside42:bodo_choiceside43.1|Ciò non chiarisce nulla.
 dlga_bodo_choiceside42:bodo_choiceside43.2|Tutti gli uomini hanno il diritto di vivere senza doversi preoccupare di ciò che il mare può portare.
@@ -1104,7 +1104,7 @@ dlga_bodo_choiceside6:bodo_choiceside61|Io non sono felice qui. Mi dispiace, ma 
 dlga_bodo_choiceside61:bodo_choiceside62|Sei un membro molto importante del gruppo, Agathinos. voglo sapere se mi seguirai.
 dlga_bodo_choiceside61:bodo_choiceside7|Vedo. Staremmo meglio senza di te.
 dlga_bodo_choiceside62:bodo_choiceside7|{s2}^^Grandiosot! Allora resto qua.
-; dlga_bodo_choiceside7:bodo_choiceside71|It is my turn to speak. I have chosen you. I have followed you. I have fought beside you. Therefore, I think I know you better than most, {playername}. I am from Northvegr. We fought against the Danes often, and many other times we drank and laughed with them. They are like us: free men who choose to live out their fate. In Danmark or Northvegr, we have laws, but Englaland does not belong to anyone that matters. They are weak kingdoms with much wealth for the taking. You cannot put a treasure in plain sight of a man, not protect it and simply hope that he does not take it. If you're an idiot, why is it his fault?
+dlga_bodo_choiceside7:bodo_choiceside71|Ora è il mio turno di parlare. Io ho scelto te. Ti ho seguito. Ho combattuto al tuo fianco. Pertanto credo di conoscerti meglio di chiunque altro, {playername}. Vengo da Northvegr. Abbiamo spesso combattuto contro i Danesi, e in molte altre occasioni abbiamo bevuto e riso con loro. Loro sono come noi: uomini liberi che decidono di vivere il loro destino. In Danimarca o Northvegr, abbiamo leggi, ma l'Inghilterra non appartiene a nessuno questo importa. Sono dei regni deboli con molte ricchezze. Non puoi mettere un tesoro di fronte a un uomo, senza proteggerlo e sperando che non lo prenda. Se sei tu un'idiota, perchè è colpa sua?
 dlga_bodo_choiceside71:bodo_choiceside8|Atti di forza e Caos? Mi piace la tua idea, molto, Solveig.
 dlga_bodo_choiceside71:bodo_choiceside8.1|La forza indiscriminata non è accettabile e porta solo caos.
 dlga_bodo_choiceside8:bodo_choiceside9|Il caos è utile. Ti terrò al tuo fianco, non importa cosa succederà. Troppe cose ci uniscono.
@@ -1139,7 +1139,7 @@ dlga_bodo_danishcamp4:bodo_danishcamp6.1|Dove vuoi arrivare, Bodo?
 ; dlga_bodo_danishcamp5_1:bodo_danishcamp6|You are clever, and you know me better than I thought, {playername}. My mission over the years has been to create and strengthen this alliance. Certainly, it affects me if that breaks. However, I want you to understand the full seriousness of this situation. I do not think I would exaggerate to call this a historical moment.
 dlga_bodo_danishcamp5_2:bodo_danishcamp6|Sei stato in Danimarca con me. Credi davvero alle tue parole? I Danesi possono inviare più uomini il prossimo anno, e l'anno dopo ancora.
 dlga_bodo_danishcamp5_3:bodo_danishcamp6|Sì, questo potrebbe accadere... I Danesi sono persone che sanno affrontare le difficoltà che gli si parano davanti.
-; dlga_bodo_danishcamp6:bodo_danishcamp7|I ask you not to give my diplomatic letter to the Saxons just yet. First, we must resolve this siege situation, avoiding a battle if possible, because that would hurt my mission.
+dlga_bodo_danishcamp6:bodo_danishcamp7|Ti chiedo di non consegnare ancora le mie lettere diplomatiche ai Sassoni. Prima, dobbiamo risolvere questa situazione d'assedio, evitando il combattimento se possibile, perchè potrebbe compromettere la mia missione.
 dlga_bodo_danishcamp7:bodo_danishcamp8_1|Onestamente, senza rinforzi, i Danese può non essere propensi a dare battaglia per ora.
 dlga_bodo_danishcamp7:bodo_danishcamp8|Non sono sicuro di cosa fare con la lettera. Calmati.
 dlga_bodo_danishcamp7:bodo_danishcamp8_2|Ia darò ai Sassoni quando saranno pronti.
@@ -1280,7 +1280,7 @@ dlga_minister_nocontroltax2:minister_nocontroltax3|Sì, non posso sopportare di 
 dlga_minister_nocontroltax2:minister_pretalk|Ah, no. Fatemici pensare ancora per un pò.
 dlga_minister_nocontroltax3:minister_pretalk|Va bene, {reg59?mia signora:sire}. Saranno licenziati.
 dlga_minister_talk:minister_prisionero1|Invia un messaggero a pagare per il rilascio di un prigioniero.
-; dlga_minister_prisionero1:minister_prisionero2|Who should we pay the ransom for?^^Remember the prisoner should be in a prison so our messenger can find him.
+dlga_minister_prisionero1:minister_prisionero2|Per chi dovremmo pagare il riscatto?^^Ricorda che il prigioniero dovrebbe essere in una prigione così che il nostro messaggero possa trovarlo.
 dlga_minister_prisionero2:minister_prisionero3|{s10}.
 dlga_minister_prisionero2:minister_pretalk|Lasciamo stare.
 dlga_minister_prisionero3:minister_prisionero4|Quanto denaro dobbiamo offrire? considerando anche di aggiungere il costo del messaggero di 400 denari per la missione.
@@ -1289,7 +1289,7 @@ dlga_minister_prisionero4:minister_prisionero5.1|Ottocento denari e l'offerta sa
 dlga_minister_prisionero4:minister_prisionero5.2|Bene, voglio essere sicuro di riaverlo indietro. Offro loro 15.000 denari.
 dlga_minister_prisionero4:minister_pretalk|Cosa? Sono necessari più soldi? Santi numi, non ci penso neanche!
 dlga_minister_prisionero5:minister_pretalk|Bene, un messaggero verrà inviato a {s11} con la proposta di rilasciare {s10}.
-; dlga_minister_talk:minister_faith|I want a report on the piety of my subjects and new conversions.
+dlga_minister_talk:minister_faith|Voglio un rapporto sulla devozione dei miei soggetti e nuove conversioni.
 dlga_minister_faith:minister_faith2|{s22}
 dlga_minister_faith2:minister_pretalk|Grazie.
 dlga_minister_talk:minister_basicnanksystem1|Voglio vedere il tesoro del regno.
@@ -1383,18 +1383,18 @@ dlga_egil_mensajerey1:close_window|{s2}^^Sì, lo so. Ho sempre preso buone decis
 dlga_egil_mensajerey2:close_window|{s2}^^Sì, ho capito. Ti piace avere il controllo su tutto. Beh, è una tua decisione.
 dlga_egil_mensajerey3:close_window|{s2}^^Hai ragione. Perdonami. A volte sono troppo impulsivo. Non voglio mettere a repentaglio questa compagnia a causa della mia imprudenza. Mi consultarò con voi la prossima volta.
 dlga_reginhard_calm1:reginhard_calm2|Ti odia e ha deciso di combattere. Egli non ti ha lasciato altra scelta.
-; dlga_reginhard_calm2:reginhard_calm3|{s2}^^Yes, he did not listen to me. The jarl deceived me, told me he wanted to meet Thiaderd to negotiate peace, but Thiaderd was smarter than I and told me it was a trap.^I insisted, and his brother accompanied me in secret to the meeting with the jarl. So... the Godi of the jarl sacrificed Thiaderd's brother with the Blood Eagle.
+dlga_reginhard_calm2:reginhard_calm3|{s2} Si, lui non mi ha ascoltato. Lo jarl mi aveva ingannato,dicendomi che lui voleva incontrare Thiaderd per negoziare la pace, ma Thiaderd era più furbo di me e mi disse che era una trappola. Io insistetti,e suo fratello mi accompagnò in segreto per incontrare lo jarl. Così... il Godi dello jarl sacrificò il fratello di Thiaderd con l'aquila di sangue.
 dlga_reginhard_calm3:reginhard_calm4|Cos'è l'Aquila di Sangue?
 dlga_reginhard_calm3:reginhard_calm42|È morto da guerriero. È tempo di andare avanti. lo jarl di Kennemer ci aspetta.
 dlga_reginhard_calm3:reginhard_calm43|È morto come un guerriero, ma tu vivi come codardo. Vai a dare la notizia allo Jarl e lascia la sua compagnia.
 ; dlga_reginhard_calm4:reginhard_calm3|The Danish call it Blodugr Orn. They cut away all of the ribs from the spine, and then they rip out the living lungs to flap like eagle's wings.^It is horrible! I hope you never see it.
-; dlga_reginhard_calm42:reginhard_calm_finalcon|{s4}^^Then you work for the jarl of Kennemer... In the end, he got what he wanted. Wyrd bid ful araed. One cannot fight fate. Thiaderd is dead, and you are my new family.
-; dlga_reginhard_calm43:reginhard_calm_finalcon|{s4}^^Yes, I am a rat, but you aren't any better. You used me to get him. Thiaderd was a good man. His only sin was to revolt against the Danish and fight for freedom.^God forgive me! I accept my fate! Talk to your jarl. Later, when you tell me, I will leave your party. Gaed a wyrd swa hio scel!
+dlga_reginhard_calm42:reginhard_calm_finalcon|{s4}Allora tu lavori per lo jarl di Kennemer... Alla fine,lui ha ottenuto ciò che voleva. Wyrd bid ful araed. Uno solo non può combattere il fato. Thiaderd è merto, e ora tu sei la mia nuova famiglia.
+dlga_reginhard_calm43:reginhard_calm_finalcon|{s4}Si,sono un codardo,ma tu non sei meglio di me. Tu mi hai usato per catturarlo. Thiarderd era un brav'uomo. La sua unica colpa è stata quella di ribellarsi contro i danesi e combattere per la libertà. Dio mi perdoni! Io accetto il mio fato! Parla con il tuo jarl. Dopo,quando me lo dirai,andrò via dal tuo gruppo. Gaed a wyrd swa hio scel!
 dlga_reginhard_calm_finalcon:reginhard_calm_finalcon2|Gaed a wyrd swa hio scel!
 dlga_reginhard_calm_finalcon2:close_window|Il destino va sempre avanti per la sua strada!
 dlga_reginhard_mission3_1:reginhard_mission3_2|Ho bisogno di trovare Sven Bull Neck.
 dlga_reginhard_mission3_1:reginhard_mission3_3|Non mi interessa la vostra opinione. Vai a preparare le tue cose, perchè presto ci lascierai.
-; dlga_reginhard_mission3_2:close_window|{s2}^^There are always other ways that do not require that we submit to the will of others, but we'll talk later. A rider approaches from Doccinga.
+dlga_reginhard_mission3_2:close_window|{s2}^^Ci sono sempre modi che non richiedano di sottometterci ad altri, ma ne parleremo dopo. Un corriere giunge da Doccinga.
 dlga_reginhard_mission3_3:close_window|{s2}^^Lo so, le mie cose sono pronte. potete cacciarmi in qualunque momento, ma ora avete altre preoccupazioni. Un cavaliere si avvicina da Doccinga.
 dlga_reginhard_postdoccingaca:reginhard_postdoccingaca2|Ho fatto quello che dovevo. Lo jarl di Kennemer è un traditore e lo voglio lontano da me.
 dlga_reginhard_postdoccingaca:reginhard_postdoccingaca3|Se avessi saputo che avrei perso la fiducia dello jarl, non avrei aiutato Doccinga.
@@ -1487,10 +1487,10 @@ dlga_start:close_window.47|Hah! Non mostrate più spavalderia adesso, non è cos
 dlga_start:close_window.48|Molto bene, avete vinto. Che tutti quelli presenti oggi siano testimoni che mi avete sconfitto, e che abbandono le mie mire su {s10}. Proverete soddisfazione adesso non è vero ? Spregevole persona...
 dlga_start:close_window.49|Alzatevi. Che tutti quelli presenti oggi siano testimoni che vi ho sconfitto, e che ora dovete abbandonare il corteggiamento di {s10}. Vi permetterò una visita finale, per rendere i vostri saluti. Dopo questo, se insisterete nel tentativo di vederla, tutti sapranno che siete una persona priva d'onore.
 dlga_start:close_window.50|Molto bene. Ti concedo il punto. Mi scuso per quello che ho fatto.
-; dlga_start:close_window.51|Hah! You lost, {playername}, so that settles it. Be gone now.
+dlga_start:close_window.51|Hah! Hai perso, {playername}, così è deciso. Ora vattene!
 dlga_start:player_siege_castle_commander_1|Che cosa volete?
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender|Arrendetevi! La vostra situazione è senza speranza!
-; dlga_player_siege_castle_commander_1:player_hostage_surrender|I demand your surrender in exchange for the {s11}'s safe return.
+dlga_player_siege_castle_commander_1:player_hostage_surrender|Ti chiedo la resa in cambio del ritorno di  {s11}.
 dlga_player_siege_castle_commander_1:player_siege_tributo|Offro un accordo onorevole per porre fine all'assedio. Redetemi omaggio, e vi lascierò andare.
 dlga_player_siege_castle_commander_1:close_window|Niente. Adesso vado.
 dlga_player_siege_ask_surrender:close_window|Arrenderci? stai scherzando, vero? Non hai abbastanza uomini per prendere d'assalto la fortezza.
@@ -1512,7 +1512,7 @@ dlga_player_hostage_surrender:player_hostage_surrender_accepted|Bene, vi lascere
 dlga_player_hostage_surrender:close_window.2|Il nostro signore non ci perdonerebbe mai per aver accettato questo accordo. Dobbiamo combattere.
 dlga_player_hostage_surrender_accepted:player_hostage_surrender_accepted2|Ho liberato il vostro signore. Ora lasciate {s12}.
 dlga_player_hostage_surrender_accepted2:close_window|Va bene. Vi lasceremo questo posto. Avete vinto oggi.
-; dlga_player_hostage_surrender_accepted:player_hostage_surrender_accepted3|No, I have thought better of it and stay with our lord.
+dlga_player_hostage_surrender_accepted:player_hostage_surrender_accepted3|No, ci ho pensato bene a riguardo e deciso di rimanere con il nostro lord.
 dlga_player_hostage_surrender_accepted3:close_window|Allora difenderemo il forte fino alla morte, questa discussione è finita.
 dlga_player_siege_tributo:player_siege_tributo2|Forse... Possiamo raggiungere un accordo econimico.
 dlga_player_siege_tributo:close_window|Un tributo? Hah! Vi rido in faccia. Non otterrete nulla da qui.
@@ -1827,7 +1827,7 @@ dlga_campeon1_dialog4_3:campeon1_dialog5|Abbiamo cose più importanti da fare. D
 dlga_campeon1_dialog4_3:campeon1_dialog5_2|Il villaggio è più importante. Doobbiamo tornare là.
 dlga_campeon1_dialog4_3:campeon1_dialog5.1|Dobbiamo separarci. Voi due andate al villaggio, io seguirò Morrigan.
 dlga_campeon1_dialog4_3:campeon1_dialog5_2.1|Dobbiamo separarci. Voi due seguite Morrigan, io andrò al villaggio.
-; dlga_campeon1_dialog5:campeon1_dialog6|Ha! I see you were thinking up orders while dragging your feet!
+dlga_campeon1_dialog5:campeon1_dialog6|Ah! Vedo che stavi pensando a ordini mentre trascinando i piedi!
 dlga_campeon1_dialog6:campeon1_dialog7|No, noi conosciamo meglio la zona. Seguiremo Morrigan. Nel frattempo, scopri cosa sta accadendo a Caliacas a Bal Luighne.
 dlga_campeon1_dialog5_2:campeon1_dialog7|Sì, qualcuno deve vedere cosa sta succedendo a Caliacas a Bal Luighne. Tu vai lì mentre noi seguiamo Morrigan.
 dlga_campeon1_dialog7:campeon1_dialog8|Molto bene. Ci rivedremo presto.
@@ -1872,7 +1872,7 @@ dlga_start:ulf_dialog.1|Heill! Il mio nome è Ulf Thorirsson. Il mio jarl, Sigur
 dlga_start:close_window.58|Sono molto occupato. I miei schiavi sono pigri.
 dlga_ulf_dialog:ulf_dialog2|Grazie, Ulf. Vi prometto che nessuno toccherà vostra figlia, apprezzo la vostra ospitalità.
 dlga_ulf_dialog:ulf_dialog2.1|Basta parlare di tua figlia. Datemi cibo e bevande per i miei uomini, come segno di ospitalità.
-; dlga_ulf_dialog2:ulf_dialog3|(Ulf gives some orders, and two servants step out of the main house with viands and drink. They give skvr -sour milk- and buttered bread to you and your men.)
+dlga_ulf_dialog2:ulf_dialog3|(Ulf diede degli ordini, e due servi uscirono fuori dalla casa con cibo e bevande. Loro diedero skvr -latte acido- e del pane con burro a te ed ai tuoi uomini.)
 dlga_ulf_dialog3:ulf_dialog4|{s10}
 dlga_ulf_dialog4:ulf_dialog5|È tutto quello che ho, ve lo offrò come buona volontà.
 dlga_ulf_dialog5:ulf_dialog6|Sta mentendo! Ho visto barili di birra e carne di cervo in un magazzino qui vicino. Stiamo mangiando e bevendo questa merda, mentre lui tiene il meglio per se.
@@ -1985,7 +1985,7 @@ dlga_sacerdote2_action:close_window|Ego absolvo te a peccatis tuis, in nomine Pa
 dlga_start:pagano1_action|Si?
 dlga_pagano1_action:pagano2_action|Prete, i miei uomini hanno bisogno di Odino. Vi offro 500 denari per per il vostro aiuto.
 dlga_pagano1_action:pagano2_recruit|Prete, i miei uomini hanno bisogno di voi. Vorreste unirvi alla mia compagnia?
-; dlga_pagano1_action:pagano_quest|Is there anything I can do to help this hof? 
+dlga_pagano1_action:pagano_quest|C'è qualcosa che posso fare per aiutare questo hof? 
 ; dlga_pagano_quest:pagano_quest1|Perhaps. We are having a feast soon, to honor goddess Saga, and we are running low on some essential supplies. Would you be able to bring us {reg33} drinking horns of mead?
 dlga_pagano_quest:close_window|No, figlio mio, non abbiamo bisogno di niente al momento.
 dlga_pagano_quest1:close_window|Potete contare su di me.
@@ -2048,7 +2048,7 @@ dlga_start:lair_captain|Come posso aiutarvi, Comandante?
 dlga_lair_captain_pretalk:lair_captain|Nient'altro, Comandante?
 dlga_lair_captain:lair_captain_nothing|C'è qualcosa che devo sapere?
 dlga_lair_captain:lair_captain_improve|Capitano, vorrei migliorare questo posto.
-; dlga_lair_captain:lair_captain_improve_x1|Captain, how goes the construction?
+dlga_lair_captain:lair_captain_improve_x1|Capitano, come procede la costruzione?
 dlga_lair_captain:lair_captain_improve_torefuge|Capitano, vorrei migliorare questo mascondiglio.
 dlga_lair_captain:lair_captain_add_port_0|Vorrei attraccare le mie navi qui accanto a questo rifugio.
 dlga_lair_captain_add_port_0:lair_captain_add_port_1|Avremo bisogno di 1.000 denari, per pagare il personale e acquistare i materiali per costruire i moli.
@@ -2103,7 +2103,7 @@ dlga_olvir_dialog7:olvir_dialog71|{reg59?Signora:Signore}, è il momento di ripr
 dlga_olvir_dialog71:close_window|Non perdiamo altro tempo, andiamo.
 dlga_start:close_window.59|Siamo qui solo per evitare che fuggiate. Buona fortuna.
 dlga_start:close_window.60|è tutto tuo! l'ho già colpito pesantemente.
-; dlga_start:prisionero_interrogation1|Thor, we have a new visitor. Our friend hit me hard. Come and see if you can better him?
+dlga_start:prisionero_interrogation1|Thor, abbiamo un visitatore. Il nostro amico mi ha colpito per bene. Vedi se riesci a metterlo a posto.
 dlga_start:prisionero_interrogation1.1|Sta diventando noioso. Non hai di meglio da fare?
 dlga_pretalkdc:prisionero_interrogation1|Bene?
 dlga_prisionero_interrogation1:prisionero_interrogation2|Ti farò domande, e, se risponderai correttamente, non dovrai tenere di soffrire.
@@ -2135,7 +2135,7 @@ dlga_prisionero_golpeado3:prisionero_interrogationth|{s2}
 dlga_prisionero_interrogation1:prisionero_apoyoth1|Per favore, Thonkrik, puoi aiutarmi ad ottenere qualche risposta?
 ; dlga_prisionero_apoyoth1:prisionero_apoyoth2|{s2}^^Listen, Olafr. You attacked our village and killed our people. There are widows and orphans out there because of you, but we are ready to set you free if you answer {playername}'s questions.^This is the choice we give you: yield a few words or die here without your sword. I am your only friend here, but if you do not say what we want to hear, I will leave you in the hands of these animals.
 dlga_prisionero_apoyoth2:pretalkdc|{s2}
-; dlga_prisionero_interrogation1:prisionero_interrogation21|Torturer, the prisoner wants to be hit. Please accommodate him.
+dlga_prisionero_interrogation1:prisionero_interrogation21|Torturatore, il prigioniero vuole fare l'eroe. Per favore, accontentalo.
 dlga_prisionero_interrogation1:close_window|Non ho altri richieste da farvi al momento.
 dlga_prisionero_interrogation21:prisionero_interrogation_torturer|{s2}^^...
 dlga_prisionero_interrogation_torturer:prisionero_interrogationth|{s2}^^Certo, il piacere è mio. Per favore, {playername}, state indietro. Ho bisogno di spazio, non voglio che ti sporchi di sangue. Torna quando vorrai che smetta di colpirlo.
@@ -2269,7 +2269,7 @@ dlga_start:monjes_2|Al momento sono occupato, parla con l'Abate.
 dlga_monjes_2:close_window|Molto bene, buon uomo. Addio.
 dlga_start:monjesw_2|Al momento sono occupato, parla con l'Abate.
 dlga_monjesw_2:close_window|Molto bene, buon uomo. Addio.
-; dlga_regular_member_talk:followers_action|I've decided that you join our followers' party.
+dlga_regular_member_talk:followers_action|Ho deciso che ti unirai alla nostra compagnia di seguaci.
 dlga_followers_action:close_window|Molto bene, ti sosterrò dalle ultime file.
 dlga_regular_member_talk:briton_action|Pater, Voglio donare 500 denari per aiutare le famiglie dei miei uomini caduti.
 dlga_briton_action:regular_member_talk|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. I tuoi uomini si sentono meglio ora.
@@ -2279,7 +2279,7 @@ dlga_regular_member_talk:porta_presentacion|Heill, cosa puoi fare per me in batt
 dlga_porta_presentacion:regular_member_talk|Io? - Si avvicina e ti sussurra nell'orecchio. - Siamo utili per voi. Quando i vostri uomini ci vedranno in battaglia, guadagneranno coraggio. Se le cose vanno male, combatteranno più a lungo prima che la paura li colga.
 dlga_porta_presentacion:regular_member_talk.1|Io? - Si avvicina e ti sussurra nell'orecchio. - Sono importante per te. Quando i vostri uomini mi vedranno in battaglia, guadagneranno coraggio. Se le cose vanno male, combatteranno più a lungo prima che la paura li colga.
 dlga_regular_member_talk:porta1_presentacion|Heill, cosa puoi fare per i miei uomini?
-; dlga_porta1_presentacion:regular_member_talk|Me? I am important to you. I am the wife of one of your soldiers. If you have wives (30) in your party, your men will gain morale (every 48 hours).
+dlga_porta1_presentacion:regular_member_talk|Io? Sono importante per te. Sono la moglie di uno dei tuoi soldati. Se hai delle mogli (30) nella tua compagnia, il morale dei tuoi uomini crescerà (ogni 48 ore).
 dlga_regular_member_talk:follower_woman_action|Ho bisogno che mi aiuti a sollevare il morale dei miei uomini. Ti pagherò 450 denari per il tuo aiuto.
 dlga_follower_woman_action:regular_member_talk|Uomini? Oh... beh, è importante aiutarli.
 dlga_start:sacerdotes_party_talk|{Reg59?Mia signora:Mio signore}, siamo solo dei poveri chierici che cercano di portare un pò di luce ai popoli di questa terra.
@@ -4537,7 +4537,7 @@ dlga_ransom_broker_info_talk:ransom_broker_ransom_me|Potreste riscattarmi se ne 
 dlga_ransom_broker_info_talk:ransom_broker_pretalk|È tutto quello che volevo sapere. Grazie.
 dlga_start:ransom_broker_talk|Saluti. Se avete alcuni prigionieri, sarò felice di comprarli.
 dlga_ransom_broker_pretalk:ransom_broker_talk|In ogni modo, se avete alcuni prigionieri, sarò felice di comprarli.
-; dlga_ransom_broker_talk:ransom_broker_sell_prisoners|Then you'd better bring your purse. I have prisoners to sell.
+dlga_ransom_broker_talk:ransom_broker_sell_prisoners|Avete la borsa piena di denari? Ho dei prigionieri da vendere.
 ; dlga_ransom_broker_talk:ransom_broker_sell_prisoners_done|I want to sell all prisoners I have.
 ; dlga_ransom_broker_sell_prisoners_done:ransom_broker_pretalk|Well, come back when you have more slaves for me.
 dlga_ransom_broker_talk:ransom_broker_intro_2|Ditemi ciò che c'è di nuovo.
@@ -4550,7 +4550,7 @@ dlga_ransom_broker_ransom_companion_verify:ransom_broker_ransom_companion_accept
 dlga_ransom_broker_ransom_companion_verify:ransom_broker_ransom_companion_refuse|Non posso permettermi questa somma al momento.
 dlga_ransom_broker_ransom_companion_accept:ransom_broker_talk|Splendido! Penso che in pochi giorni dovreste trovare {s5} che cavalca per riunirsi a voi,  ammiccando alla luce del sole e senza dubbio molto grato! C'è qualche altro modo in cui posso aiutarvi?
 dlga_ransom_broker_ransom_companion_refuse:ransom_broker_talk|Certo, certo... Non importa quello che dicono sui topi, d'altro canto io non ho mai visto uno, a causa del buio nero come la pece. Comunque, sono sicuro che {s5} capirà perché è così importante per voi il controllo delle spese. Ora... C'è qualcos'altro?
-; dlga_ransom_broker_talk:close_window|Not this time. Farewell.
+dlga_ransom_broker_talk:close_window|Non questa volta. Addio.
 dlga_ransom_broker_sell_prisoners:ransom_broker_sell_prisoners_2|Vediamo cos'avete...
 dlga_ransom_broker_sell_prisoners_2:close_window|Resterò qui ancora per alcuni giorni. Fatemi sapere se avrete bisogno dei miei servigi.
 ; dlga_start:tavern_traveler_talk|Greetings, friend. You look like the kind of {reg59?person:man} who'd do well to know me. I travel a lot all across the Northlands and keep an open ear. I can provide you information that you might find useful. For a meager price of course.
@@ -4835,11 +4835,11 @@ dlga_bodo_merchant_22:bodo_merchant_3|{s2}
 ; dlga_sailors_merchant_1:close_window|Very well. We will talk tonight at the anchorage.
 ; dlga_start:close_window.94|[Enemy lookouts watch you closely from the walls of Readingum.]
 ; dlga_start:arquerosb_merchant_1|Talk to the boss, {playername}, that veteran in the prow of the boat over there. He's the one that can best train you in fighting.
-; dlga_arquerosb_merchant_1:close_window|Thanks, I will do that.
+dlga_arquerosb_merchant_1:close_window|Grazie, lo farò.
 dlga_start:frisianship_merchant_1|West thu hal, {playername}. Stai bene oggi? Ti muovevi continuamente nel sonno e dicevi cose incomprensibili. I miei marinai pensavano che eri come tormentato da uno spirito.
 dlga_frisianship_merchant_1:frisianship_merchant_2|Dove sono? Che posto è questo?
 dlga_frisianship_merchant_2:frisianship_merchant_3|Oh, questo è male. Non ricordi niente? Il mio nome è Avo, leof. Io sono il capitano di questa nave, la Woden Ric. Imbarcasti con noi a Friese alcune settimane fa, ci hai pagato bene per prenderti con noi.
-; dlga_frisianship_merchant_3:frisianship_merchant_4a|Yes, yes, I remember now.
+dlga_frisianship_merchant_3:frisianship_merchant_4a|Si, ora ricordo.
 ; dlga_frisianship_merchant_3:frisianship_merchant_4b|Oh, it's coming back to me now, but perhaps you can remind me why am I here?
 dlga_frisianship_merchant_4a:frisianship_merchant_5|Beh, non preoccuparti. Queste cose succedono a tutti.
 ; dlga_frisianship_merchant_4b:frisianship_merchant_5|Now I'm really starting to worry about you. I don't know the details, but do know that you worry for your mother. She is sick, and you were taking her to a priest of great healing ability in the Frisian port where we are going.
@@ -4881,11 +4881,11 @@ dlga_frisianship_merchant_5:frisianship_merchant_6|Grazie! Ma c'è una luce fuor
 ; dlga_petro_leader_33:petro_leader_34.1|Rathbarth Ragnarsson promises you half of West Seaxe if you join him.
 ; dlga_petro_leader_33:petro_leader_34.2|Rathbarth Ragnarsson will fill your boat with riches if you join him.
 ; dlga_petro_leader_34:petro_leader_35|And if they do not join, what will he do? Kill them? Did he send you here with a fleet to make friends?
-; dlga_petro_leader_35:petro_leader_36|Bodo?
-; dlga_petro_leader_35:petro_leader_36_1|Exactly. It is your choice.
+dlga_petro_leader_35:petro_leader_36|Bodo?
+dlga_petro_leader_35:petro_leader_36_1|Esatto. è una tua scelta.
 ; dlga_petro_leader_35:petro_leader_36_2|If I wanted you dead, I would have attacked. I am offering an alliance with fellow winners.
 ; dlga_petro_leader_36_1:petro_leader_36|{s2}^^I like things simple and clear. I like this guy.
-; dlga_petro_leader_36_2:petro_leader_36|Now you're talking.
+dlga_petro_leader_36_2:petro_leader_36|Ora stai parlando.
 ; dlga_petro_leader_36:petro_leader_37|This {reg59?woman:man} is a liar. I traveled with {reg59?her:him} for a long time. I offered {reg59?her:him} my friendship. I fought beside {reg59?her:him} and served {reg59?her:him} faithfully. But when the time came, {reg59?she:he} betrayed me and delivered the letter to the Vikings. That's why {reg59?she:he} is here today with that fleet: to destroy you and the alliance between West Seaxe, Frankia and Asturias.
 ; dlga_petro_leader_37:petro_leader_37_1|The Danish rule the North. It will take an alliance to keep Asturias safe.
 ; dlga_petro_leader_37:petro_leader_38_1|West Seaxe is weak and ripe for conquest. Don't you want to enjoy the glory and loot?
@@ -6211,13 +6211,13 @@ dlga_goods_merchant_pretalk:goods_merchant_talk|Nient'altro?
 ; dlga_quest_pieles1:goods_merchant_pretalk|Finally! I spent weeks waiting for this delivery. Thanks, but do not expect a tip. It has come very late.
 dlga_goods_merchant_talk:goods_reginhard_donations|Un uomo mi ha mandato a controllarti. Il suo nome è Reginhard.
 ; dlga_goods_reginhard_donations:goods_reginhard_donations2|I know who Reginhard is, and it is not a name that it pleases me to hear. I have no time for people coming from him.
-; dlga_goods_reginhard_donations2:goods_reginhard_donations3|Wait! I just want to make a donation to the widows and orphans in this town.
-; dlga_goods_reginhard_donations3:goods_reginhard_donations4|{s2}^^Err, I do not expect this from Reginhard. How much is your donation? We accept 100, 300 and 600 peningas.
-; dlga_goods_reginhard_donations4:goods_reginhard_donations5|These children deserve a better future. Donate 600 peningas.
-; dlga_goods_reginhard_donations4:goods_reginhard_donations5.1|I think 300 peningas will allow many families to get through the next winter.
-; dlga_goods_reginhard_donations4:goods_reginhard_donations5.2|I will donate 100 peningas.
-; dlga_goods_reginhard_donations4:goods_merchant_pretalk|I do not have enough money to make a good donation. I will come back later.
-; dlga_goods_reginhard_donations5:goods_merchant_pretalk|{s2}^^Many people will be grateful to you and Reginhard. God bless you.
+dlga_goods_reginhard_donations2:goods_reginhard_donations3|Aspetta! Voglio soltanto fare una donazione per le vedove e gli orfani della città.
+dlga_goods_reginhard_donations3:goods_reginhard_donations4|{s2}^^Err, non me lo sarei aspettato da Reginhard. Quanto vorresti donare? Accettiamo 100, 300 e 600 peningas.
+dlga_goods_reginhard_donations4:goods_reginhard_donations5|A questi bambini tocca un futuro migliore. Dono 600 peningas.
+dlga_goods_reginhard_donations4:goods_reginhard_donations5.1|Penso che 300 peningas permetteranno ad alcune famiglia di superare il prossimo inverno.
+dlga_goods_reginhard_donations4:goods_reginhard_donations5.2|Donerò 100 peningas.
+dlga_goods_reginhard_donations4:goods_merchant_pretalk|Non ho abbastanza denaro per fare una buona donazione. Tornerò fra breve.
+dlga_goods_reginhard_donations5:goods_merchant_pretalk|{s2}^^Alcune persone saranno grate a te e a Reginhard. Che dio vi benedica.
 dlga_goods_merchant_talk:goods_trade_requested|Vorrei comprare un paio di cose... E forse venderne alcune.
 dlga_goods_trade_requested:goods_trade_completed|Certo, certo... Ecco, dia pure un'occhiata alle mie merci...
 dlga_goods_trade_completed:goods_merchant_talk|Nient'altro?
@@ -6226,7 +6226,7 @@ dlga_goods_merchant_talk:close_window|Niente. Grazie.
 ; dlga_trade_info_request:trade_info_request_2|That information can be best obtained from caravan masters and travelling merchants. If you want, I can send you to the district where foreign merchants stay at when they come to the town. If you spend some time there and listen to the talk, you can learn a lot about what to buy and where to sell it.
 dlga_trade_info_request_2:close_window|Bene, andrò a trascorrere un pò di tempo con questi mercanti.
 dlga_trade_info_request_2:goods_merchant_pretalk|Ora non ho tempo per queste cose.
-; dlga_start:arena_intro_1.1|Good day, friend. If you've come to watch the tournaments, you've come in vain. There won't be a tournament here any time soon.
+dlga_start:arena_intro_1.1|Buon giorno, amico. Se sei qui per vedere i tornei, siete venuto qui a vuoto. Non ci saranno tornei per un po' di tempo.
 dlga_arena_intro_1:arena_intro_2|Tornei? Allora si tengono tornei qui...
 ; dlga_arena_intro_2:arena_intro_3|Yes. You should see this place during one of the tournament fights. Everyone from the town and nearby villages comes here. The crowd becomes mad with excitement. Anyway, as I said, there won't be an event here soon, so there isn't much to see. Except, there is an official duel every now and then, and of course we have melee fights almost every day.
 dlga_arena_intro_3:arena_training_melee_intro|Raccontatemi un pò di questi combattimenti in mischia.
@@ -6235,7 +6235,7 @@ dlga_arena_training_melee_intro_2:arena_training_melee_intro_reward|C'è un prem
 ; dlga_arena_training_melee_intro_reward:arena_training_melee_intro_2|There is, actually. Some of the wealthy townsmen offer prizes for those fighters who show great skill in the fights. If you can beat {reg1} opponents before going down, you'll earn {reg11} peningas. You'll get {reg12} peningas for striking down at least {reg2} opponents, {reg13} peningas if you can defeat {reg3} opponents, and {reg14} peningas if you can survive long enough to beat {reg4} opponents. If you can manage to be the last {reg59?fighter:man} standing, you'll earn the great prize of the fights, {reg15} peningas. Sounds good, eh?
 ; dlga_arena_training_melee_explain_reward:arena_master_melee_pretalk|Some of the wealthy townsmen offer prizes for those fighters who show great skill in the fights. If you can beat {reg1} opponents before going down, you'll earn {reg11} peningas. You'll get {reg12} peningas for striking down at least {reg2} opponents, {reg13} peningas if you can defeat {reg3} opponents, and {reg14} peningas if you can survive long enough to beat {reg4} opponents. If you can manage to be the last {reg59?fighter:man} standing, you'll earn the great prize of the fights, {reg15} peningas. Sounds good, eh?
 dlga_arena_training_melee_intro_2:arena_training_melee_intro_3|Posso partecipare anch'io?
-; dlga_arena_training_melee_intro_3:arena_master_melee_talk|Ha ha. You would have to be out of your mind not to. Of course. The melee fights are open to all. Actually, there is going to be a fight soon. You can go and hop in if you want to.
+dlga_arena_training_melee_intro_3:arena_master_melee_talk|Ha ha. Dovete essere fuori di testa per non farlo. Certo. I combattimenti sono aperti a tutti. Attualmente, ci sarà una lotta fra breve. Può entrare e tentare se vuole.
 dlga_start:arena_master_intro_1|Salve. Sembrate non essere di queste parti. Posso sapere il vostro nome?
 dlga_arena_master_intro_1:arena_master_intro_2|Sono {playername}.
 ; dlga_arena_master_intro_2:arena_master_pre_talk|Well met, {playername}. I am the master of the tournaments here at {s1}. Talk to me if you want to join the fights.
@@ -6247,7 +6247,7 @@ dlga_start:arena_master_fight_result|.
 ; dlga_arena_master_fight_result:arena_master_pre_talk.4|Your performance was amazing! You are without doubt a very skilled fighter. Not everyone can knock down {reg8} people in the fights. Of course, you deserve a prize with that performance: {reg10} peningas. Nice, eh?
 ; dlga_arena_master_fight_result:arena_master_pre_talk.5|That was damned good fighting, {playername}. You have very good moves, excellent tactics. And you earned a prize of {reg10} peningas for knocking down {reg8} opponents.
 ; dlga_arena_master_fight_result:arena_master_pre_talk.6|Congratulations champion! Your fight there was something to remember! You managed to be the last fighter standing beating down everyone else. And of course, you won the grand prize of the fights: {reg10} peningas.
-; dlga_start:arena_master_pre_talk|Hello, {playername}. Good to see you again.
+dlga_start:arena_master_pre_talk|Salute, {playername}. Bello potervi rivedere.
 dlga_arena_master_pre_talk:arena_master_talk|Cos'avreste piacere di fare?
 dlga_arena_master_talk:arena_master_melee_pretalk|Per quanto riguarda le lotte in mischia...
 dlga_arena_master_talk:arena_master_ask_tournaments|Ci sarà un torneo a breve nelle vicinanze?
@@ -6255,14 +6255,14 @@ dlga_arena_master_talk:close_window|Ora devo andare via. Addio e grazie.
 dlga_arena_master_ask_tournaments:arena_master_talk|{reg2?Non si terranno tornei a breve.:{reg1?Si terranno dei tornei:Si terrà un torneo} a {s15}.}
 dlga_arena_master_melee_pretalk:arena_master_melee_talk|Ci saranno dei combattimenti fra non molto. Se volete, l'arena è a vostra disposizione...
 dlga_arena_master_melee_talk:close_window|Bene. È quello che farò.
-; dlga_arena_master_melee_talk:arena_master_melee_reject|Thanks, but I will give my bruises some time to heal.
+dlga_arena_master_melee_talk:arena_master_melee_reject|Grazie ma darò alle mie ferite un po' di tempo per rimarginarsi.
 ; dlga_arena_master_melee_reject:arena_master_pre_talk|Good {reg59?girl:man}. That's clever of you.
 dlga_arena_master_melee_talk:arena_training_melee_explain_reward|Mi potete ricordare ancora una volta in quanto consiste il premio?
 ; dlga_start:galeas_talk|Hello, {reg59?girl:boy}. If you have any prisoners, I will be happy to buy them from you.
-; dlga_galeas_talk:galeas_sell_prisoners|Then you'd better bring your purse. I have prisoners to sell.
-; dlga_galeas_talk:close_window|Not this time. Farewell.
+dlga_galeas_talk:galeas_sell_prisoners|Avete la borsa piena di denari? Ho dei prigionieri da vendere.
+dlga_galeas_talk:close_window|Non questa volta. Addio.
 dlga_galeas_sell_prisoners:galeas_sell_prisoners_2|Vediamo cos'avete...
-; dlga_galeas_sell_prisoners_2:close_window|When you take more prisoners, bring them to me. I pay well.
+dlga_galeas_sell_prisoners_2:close_window|Quando avrete altri prigionieri, portatemeli. Pago bene.
 dlga_bandit_introduce:bandit_talk|{s5}
 dlga_bandit_talk:close_window|Non vi darò altro, oltre alla mia fredda lama, razza di feccia!
 dlga_bandit_talk:bandit_barter|Non c'è bisogno di combattere. Posso pagare per aver libero il passo.
@@ -6314,7 +6314,7 @@ dlga_prisoner_chat_noble_conv:prisoner_chat_noble_conv2|{s22}
 ; dlga_prisoner_chat_noble_conv2:prisoner_chat_noble_release|Wonderful news, you're free to go!
 ; dlga_prisoner_chat_noble_conv2:prisoner_chat_noble_keep|On the second thought, maybe you should stay my prisoner
 ; dlga_prisoner_chat_noble_conv2:close_window|Whatever suits you!
-; dlga_prisoner_chat_noble_release:close_window|I will not forget this act of Honor!
+dlga_prisoner_chat_noble_release:close_window|Non dimenticherò quest'atto di Onore!
 ; dlga_prisoner_chat_noble:prisoner_chat_noble_keep|You will remain my prisoner until one of your relatives reimburses me for you.
 ; dlga_prisoner_chat_noble_keep:close_window|Truly, this is beneath you.
 ; dlga_prisoner_chat_noble_keep:close_window.1|I trust you will be as understanding when I hunt you down like the dog you are!
@@ -6443,7 +6443,7 @@ dlga_start:player_castle_guard_talk|Si {reg59?signora:signore}?
 dlga_player_castle_guard_talk:player_castle_guard_talk_2|Come va la guardia, soldato?
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|Tutto tranquillo {reg59signora:signore}. Niente da segnalare.
 dlga_player_castle_guard_talk_3:close_window|Bene. Tenete gli occhi aperti, mi raccomando.
-; dlga_start:close_window.115|Good day, {reg59?madame:sir}. Always an honor to have you here in {s10}.
+dlga_start:close_window.115|Buona giornata, {signore/madame}. E' sempre un onore avervi qui in {s10}.
 dlga_start:close_window.116|{s44}
 dlga_start:hall_guard_talk|I vostri ordini, {reg59?mia signora:mio signore}?
 dlga_start:court_guard_ask_location|non siamo tenuti a parlare mentre siamo di guardia, {reg59?signora:signore}.

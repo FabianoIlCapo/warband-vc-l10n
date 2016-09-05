@@ -4,11 +4,11 @@
 ; qstr_{reg1}.{reg2}|{reg1}.{reg2}
 ; qstr_{s1}_|{s1} 
 qstr_Next_Page|Następna strona
-; qstr_Naval_Battle|Naval Battle
+qstr_Naval_Battle|Bitwa morska
 ; qstr_Coastal_Assault__Off|Coastal Assault (Offense)
 ; qstr_Coastal_Assault__Def|Coastal Assault (Defense)
-; qstr_Players:|Players:
-; qstr_Invaders:|Invaders:
+qstr_Players:|Gracze:
+qstr_Invaders:|Najeźdźcy:
 ; qstr_Invasion_difficulty_|Invasion difficulty (%):
 ; qstr_Allow_Shield_Bash|Allow Shield Bash
 ; qstr_Allow_Falling_from_H|Allow Falling from Horses
@@ -180,7 +180,7 @@ qstr_The_player_may_recei|Lekarze w większych miastach mogę leczyć za opłat�
 ; qstr_Equipment_may_get_da|Equipment may get damaged in battles, depending on its stats and the weapon maintenance skill of the party. Moreover, weaponsmiths and armorers offer to repair your equipment.^^{s8}
 ; qstr_{s3}^^{s4}|{s3}^^{s4}
 ; qstr_Default|Default
-; qstr_Randomize|Randomize
+qstr_Randomize|Losuj
 ; qstr_Who_are_you?|Who are you?
 ; qstr_Be_careful_with_your|Be careful with your choices.^They will affect your attributes, skills and dialogs, among other things.
 ; qstr_Bio:|Bio:
@@ -212,7 +212,7 @@ qstr_Normal|Normalny
 ; qstr_Fortitude|Fortitude
 ; qstr_Wisdom|Wisdom
 ; qstr_Anglo_Saxon|Anglo-Saxon
-; qstr_Norse|Norse
+qstr_Norse|Nord
 ; qstr_Frisian|Frisian
 ; qstr_Irish|Irish
 ; qstr_Briton|Briton
@@ -223,7 +223,7 @@ qstr_{s0}|{s0}
 ; qstr_Peasant|Peasant
 ; qstr_Priest|Priest
 ; qstr_Craftsman|Craftsman
-; qstr_Merchant|Merchant
+qstr_Merchant|Kupiec
 ; qstr_Noble|Noble
 ; qstr_Farming|Farming
 ; qstr_Stealing|Stealing
@@ -330,7 +330,7 @@ qstr_Ships|Statki
 ; qstr_Smith|Smith
 ; qstr_Healer|Healer
 ; qstr_Mules|Mules
-; qstr_Slave_Trader|Slave Trader
+qstr_Slave_Trader|Handlarz niewolników
 ; qstr_Dismiss|Dismiss
 ; qstr_Kingdom_Report|Kingdom Report
 ; qstr_{reg59?Queen:King}:|{reg59?Queen:King}:
@@ -1042,7 +1042,7 @@ qstr_Move_your_court_here|Rusz się tu.
 ; qstr_Kind|Kind
 ; qstr_Admirable|Admirable
 ; qstr_Heroic|Heroic
-; qstr_Inventory|Inventory
+qstr_Inventory|Ekwipunek
 ; qstr_Show_stats|Show stats
 ; qstr_Show_item_details__|Show item details  
 ; qstr_Troop_detail|Troop detail
@@ -1213,20 +1213,20 @@ qstr_Move_your_court_here|Rusz się tu.
 ; qstr_On_loan|On loan,
 ; qstr_is_{s16}_your_choice|is {s16} your choice of companions, {s17} your style of leadership, and {s18} the general state of affairs. Morale is {reg0}
 ; qstr_Companions_Info:^^_{|Companions Info:^^ {s19} ^^-----------^^ Currently:^^ {s7}{s1}
-; qstr_Loyal|Loyal
+qstr_Loyal|Lojalny
 ; qstr_Devoted|Devoted
 ; qstr_Fond|Fond
 ; qstr_Gracious|Gracious
-; qstr_Friendly|Friendly
+qstr_Friendly|Przyjazny
 ; qstr_Supportive|Supportive
 ; qstr_Favorable|Favorable
-; qstr_Cooperative|Cooperative
+qstr_Cooperative|Współpracujący
 ; qstr_Accepting|Accepting
-; qstr_Indifferent|Indifferent
-; qstr_Suspicious|Suspicious
+qstr_Indifferent|Obojętny
+qstr_Suspicious|Podejrzliwy
 ; qstr_Unhappy|Unhappy
 ; qstr_Resentful|Resentful
-; qstr_Angry|Angry
+qstr_Angry|Wściekły
 ; qstr_Hostile|Hostile
 ; qstr_Hateful|Hateful
 ; qstr_Vengeful|Vengeful
@@ -1579,7 +1579,7 @@ qstr_Tutorial|Samouczek
 ; qstr_No_one_accepts_the_o|No one accepts the offer.
 ; qstr_You_start_reading_{s|You start reading {s2}. After a few pages, you feel you could learn a lot from this book. You decide to keep it close by and read whenever you have the time.
 ; qstr_You_flip_through_the|You flip through the pages of {s2}, but you find the text confusing and difficult to follow. Try as you might, it soon gives you a headache, and you're forced to give up the attempt.
-; qstr_Villagers|Villagers
+qstr_Villagers|Wieśniacy
 ; qstr_Ambush!_The_enemy_ha|Ambush! The enemy has maneuvered to gain a good position, and you fell into an ambush.^^Being ambushed puts you in a poor and disorganized defensive position, and your men will have morale problems and reduced ability to cause damage to your enemies.^^
 ; qstr_You_have_encountered|You have encountered {s1}.^^The warlord encourages his men with a rousing speech. Your enemies have very high morale.^^
 ; qstr_You_have_encountered_|You have encountered {s1}.^^The warlord gathers his men to pray and invoke the protection of their god. Your enemies have high morale.^^
@@ -2251,7 +2251,7 @@ qstr_Morale|Morale
 ; qstr_You_are_already_in_{|You are already in {s1}.
 ; qstr__and_your_troops| and your troops
 ; qstr_There_is_a_ship_that|There is a ship that can bring you{s3} to the port of {s1} for {reg1} peningas.
-; qstr_I_changed_my_mind.|I changed my mind.
+qstr_I_changed_my_mind.|Zmieniłem zdanie.
 ; qstr_For_a_ship_of_this_s|For a ship of this size, I don't have enough timber, tar and wool, so I need you to bring these extra items. 
 ; qstr___He_indicates_the_f|--He indicates the far side of the bay with his arm.--
 ; qstr_Now_you_must_join_th|Now you must join the fleet led by Sven Bull Neck and Harald Haraldsson, which soon leaves Ribe for Englaland. Your destiny once again leads you to other lands.

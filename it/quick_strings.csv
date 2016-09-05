@@ -36,7 +36,7 @@ qstr_Show_game_rules|Mostra le regole del gioco
 qstr_Admin_tools_panel|Pannello Admin
 qstr_Change_game_type|Cambia modalità di gioco
 qstr_All_Players|Tutti i giocatori
-; qstr_The|The
+qstr_The|Il
 qstr_Candidate_#1:_{s1}|Candidato #1: {s1}
 qstr_Candidate_#2:_{s1}|Candidato #2: {s1}
 qstr_{s3}_of_the_{s4}_wis|{s3} del {s4} vuole scegliere un nuovo comandante e invita i suoi vassalli per un consiglio. {s1} e {s2} sono i probabili candidati.
@@ -111,7 +111,7 @@ qstr_Army_rotates_to_face|Gli eserciti ruotano affrontando centralmente il nemic
 qstr_Prevent_AI_from_taki|Impedisci all' AI di stare sulla difensiva:
 qstr_Anno_Domini_867|Anno Domini 867
 qstr_We_are_in_the_ninth_|Siamo nel IX secolo.^Lontane sono le luci di Roma,^assorbite dal corso del tempo,^ancora diversi secoli devono passare prima che^l'età d'oro di cavalieri e principesse^arrivi.^È un'era brutale, oscura e spietata^di forza bruta e di sopravvivenza,^dove gli uomini vanno a letto ogni notte^pregando di vedere un nuovo giorno.
-; qstr_It_is_the_age_of_the|It is the age of the Viking,^the clans of Ireland, the ascension^of Wessex and the emergence of the^Kingdom of Alba.^^It awaits you...
+qstr_It_is_the_age_of_the|È l'età dei Vichinghi, ^clan dell'Irlanda, l'ascesa^di Wessex e la nascita del^ Regno di Alba.^^ Sta aspettando te...
 qstr_Choose_Campaign_Type|Scegli il Tipo di Campagna.
 qstr_Choose_Options.|Scelta Opzioni.
 qstr_You_can_change_these|È possibile modificare queste opzioni durante il gioco al propio accampamento.
@@ -510,9 +510,9 @@ qstr_town|città
 qstr_village|villaggio
 qstr_Infiltration|Infiltrazione
 qstr_A_good_way_to_hasten|Un buon modo per accelerare la caduta del {s2} è quello di infiltrarsi con un gruppo di uomini a danneggiare le difese, depositi di cibo, forniture d'acqua o la fedeltà dei difensori. Si tratta di una manovra difficile e rischiosa, quasi suicida. Coloro che invierai avranno una bassa probabilità di tornare, ma in caso di successo, potrebbero causare gravi danni al nemico. Chiedono 600 denari per il loro disturbo. Che tipo di sabotaggio vorresti causare?
-; qstr_Poison_the_{s2}_s_wa|Poison the {s2}'s water.
+qstr_Poison_the_{s2}_s_wa|Avvelena l'acqua di {s2}.
 ; qstr_Kill_the_{s2}_s_live|Kill the {s2}'s livestock.
-; qstr_Burn_the_{s2}_s_food|Burn the {s2}'s food.
+qstr_Burn_the_{s2}_s_food|Brucia il cibo di {s2}.
 ; qstr_Subvert_the_defender|Subvert the defenders.
 ; qstr_____|    
 qstr_A_group_of_chosen_me|Un gruppo di uomini scelti verranno inviati ad avvelenare i rifornimenti d'acqua.
@@ -1902,14 +1902,14 @@ qstr_Your_men_think_that_yo|I tuoi uomini pensano che sei un capo molto forte.
 qstr_Your_officer_seems_h|Il tuo ufficiale sembra contento.
 qstr_The_wife_is_pregnant|La moglie è incinta e l'ufficiale chiede un alto compenso. Per evitare voci e problemi, paghi.
 qstr_{s1}_of_the_{s2}.|{s1} di {s2}
-; qstr_A_messenger_approach|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. Your proposal has been accepted and {s10} has been released from captivity.'
-; qstr_A_messenger_approache|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. Your proposal was not accepted and {s10} will remain captive. Here you have your money back.'
-; qstr_A_messenger_approaches|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} will meet you and will follow you as soon as possible.'
-; qstr_A_messenger_approaches_|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} says you're not the one to give orders.'
-; qstr_A_messenger_approaches_g|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} says that it would hardly be proper as you don't have authority for it.'
-; qstr_A_messenger_approaches_ga|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} has better things to do than follow your orders.'
-; qstr_A_messenger_approaches_gal|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} is busy and cannot follow orders at this time.'
-; qstr_A_messenger_approaches_gall|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} will go to {s10} as soon as possible.'
+qstr_A_messenger_approach|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. La tua proposta e' stata accettata e {s10} e' stato appena liberato dalla prigionia.'
+qstr_A_messenger_approache|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. La tua proposta non e' stata accettata e {s10} rimarrà prigioniero. Ecco i tuoi soldi indietro.'
+qstr_A_messenger_approaches|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} ti raggiungerà e ti seguirà il prima possibile.'
+qstr_A_messenger_approaches_|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} dice che non sei nessuno per dare ordini.'
+qstr_A_messenger_approaches_g|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} dice che non sarebbe corretto, in quanto non hai l'autorità per farlo.'
+qstr_A_messenger_approaches_ga|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} dice di avere di meglio da fare che seguire i tuoi ordini.'
+qstr_A_messenger_approaches_gal|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} è impegnato e non può seguire i tuoi ordini al momento.'
+qstr_A_messenger_approaches_gall|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} andrà da {s10} il prima possibile.'
 ; qstr_A_messenger_approaches_gallo|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message.: {s9} will go patrol around {s10} as soon as possible.'
 ; qstr_A_messenger_approaches_gallop|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} will go patrol around {s10} as soon as possible.'
 ; qstr_A_messenger_approaches_gallopi|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} will go to besiege {s10} as soon as possible.'

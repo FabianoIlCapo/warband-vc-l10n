@@ -46,7 +46,7 @@ p_castle_15|Gegnesburh
 p_castle_16|Stanford
 p_castle_17|Norwic
 p_castle_18|Haegelisdun
-; p_castle_19|Rendlaesburh
+p_castle_19|Rendlaesburh
 p_castle_20|Grantebrycge
 p_castle_21|Hrofae Ceaster
 p_castle_22|Dornwara Ceaster
@@ -185,12 +185,12 @@ p_village_64|Vles Inge Terp
 p_village_65|Bal Sebuirge
 p_village_66|Bal Magh
 p_village_67|Bal Magh Cobha
-; p_village_68|Bal Mor North
+p_village_68|Bal Mor Nord
 p_village_69|Bal Clochair
 p_village_70|Bal Fearnmhaigh
 p_village_71|Bal Macha
 p_village_72|Bal Dumai
-; p_village_73|Bal Mor South
+p_village_73|Bal Mor sud
 p_village_74|Bal Eachadha
 p_village_75|Bal Breacain
 p_village_76|Bal Crannoc
@@ -251,8 +251,8 @@ p_village_130|Bal Maistiu Est
 p_village_131|Bal Maistiu Ovest
 p_village_132|Tref Meguaidd Est
 p_village_133|Tref Meguaidd Ovest
-; p_village_134|Tom Ham East
-; p_village_135|Tom Ham South
+p_village_134|Tom Ham East
+p_village_135|Tom Ham South
 p_village_136|Bal Caiseal Est
 p_village_137|Bal Caiseal Ovest
 p_village_138|Bal Aileach Est
@@ -384,11 +384,11 @@ p_pagan_spawn_2|La campagna
 p_pagan_spawn_3|La campagna
 p_pagan_spawn_4|La campagna
 p_ship_raider_spawn_point_1|Il canale
-; p_ship_raider_spawn_point_2|the area
-; p_ship_raider_spawn_point_3|the area
-; p_ship_raider_spawn_point_4|the area
-; p_ship_raider_spawn_point_5|the area
-; p_ship_raider_spawn_point_6|the area
+p_ship_raider_spawn_point_2|l'area
+p_ship_raider_spawn_point_3|l'area
+p_ship_raider_spawn_point_4|l'area
+p_ship_raider_spawn_point_5|l'area
+p_ship_raider_spawn_point_6|l'area
 p_landing_point|Punto di approdo
 p_the_fleet|La Flotta
 p_transporter|Trasportatore

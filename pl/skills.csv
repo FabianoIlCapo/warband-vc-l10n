@@ -1,7 +1,7 @@
 skl_trade|Handel
 skl_trade_desc|Każdy poziom tej umiejętności zmniejsza karę za handel o 5%%. (Umiejętność drużynowa)
 skl_leadership|Przywództwo
-; skl_leadership_desc|Every point increases maximum number of troops you can command by 5 and reduces troop wages. (Leader skill)
+skl_leadership_desc|Każdy punkt zwiększa maksymalną ilość jednostek, którymi możesz dowodzić o 5 i redukuje ich koszt utrzymania. (Umiejętność dowódcy)
 skl_prisoner_management|Zarządzanie więźniami
 skl_prisoner_management_desc|Każdy poziom tej umiejętności zwiększa maksymalną ilość więźniów o %d. (Umiejętność lidera)
 skl_reserved_1|Umiejętność rezerwowa 1
@@ -19,21 +19,21 @@ skl_engineer_desc|Ta umiejętność pozwala na konstruowanie machin oblężniczy
 skl_first_aid|Pierwsza pomoc
 skl_first_aid_desc|Postaci odzyskują 5%% zdrowia utraconego podczas zadań na poziom. (Umiejętność drużynowa)
 skl_surgery|Operacja
-; skl_surgery_desc|Each point of this skill gives a 4%% chance that a mortally struck party member will be wounded rather than killed. (Party skill)
+skl_surgery_desc|Każdy punkt tej umiejętności daje 4%% szans, że śmiertelnie powalony członek oddziału będzie ranny, a nie zabity. (Umiejętność oddziału)
 skl_wound_treatment|Leczenie ran
-; skl_wound_treatment_desc|Party healing speed is increased by 20%% per level of this skill. Additionally, each point increases the chance that deep wounds will heal better by 5%%. (Party skill)
+skl_wound_treatment_desc|Prędkość leczenia się oddziału zwiększ aise o 20%% na poziom tej umiejętności. Dodatkowo każdy punkt zwiększa szansę na to, że poważne rany będą lepiej uleczane o 5%%. (Umiejętność oddziału)
 skl_inventory_management|Zarządzanie ekwipunkiem
 skl_inventory_management_desc|Podnosi wielkość inwentarza o +6 na każdy poziom umiejętności. (Umiejętność przywódcy)
 skl_spotting|Spostrzegawczość
 skl_spotting_desc|Zasięg wzroku drużyny zwiększa się o 10%% na każdy poziom umiejętności. (Umiejętność drużynowa)
-; skl_pathfinding|Path-Finding
+skl_pathfinding|Wyszukiwanie drogi
 skl_pathfinding_desc|Prędkość poruszania się drużyny na mapie zwiększa się o 3%% na poziom umiejętności. (Umiejętność drużynowa)
 skl_tactics|Taktyka
 skl_tactics_desc|Każde dwa poziomy umiejętności zwiększają przewagę na początku walki o 1. (Umiejętność drużynowa)
 skl_tracking|Tropienie
 skl_tracking_desc|Tropy stają się bardziej szczegółowe. (Umiejętność drużynowa)
 skl_trainer|Trener
-; skl_trainer_desc|Every day, each hero with this skill adds some experience to every other member of the party whose level is lower than his/hers. Experience gained goes as: {0,4,10,16,23,30}. (Personal skill)
+skl_trainer_desc|Każdego dnia, każdy bohater/bohaterka z tą umiejętnością dodaje nieco doświadczenie każdemu członkowi oddziału, którego poziom jest mniejszy od jego/jej. Otrzymane doścwiadczenie to kolejno: [0,4,10,16,23,30}. (Umiejętność osobista)
 skl_reserved_5|Umiejętność rezerwowa 5
 skl_reserved_5_desc|To jest umiejętność rezerwowa.
 skl_reserved_6|Umiejętność rezerwowa 6
@@ -47,15 +47,15 @@ skl_looting_desc|Ta umiejętność zwiększa ilość zdobywanych dóbr o 10%% na
 skl_horse_archery|Łucznictwo konne
 skl_horse_archery_desc|Zmniejsza kary do celności i obrażeń przy strzelaniu lub rzucaniu z konia. (Umiejętność osobista)
 skl_riding|Jeździectwo
-; skl_riding_desc|Enables you to ride horses of higher difficulty levels and increases your riding speed and manuever. With a skill of 4 or higher, you can also call your horse with the 'H' key in a battle. (Personal skill)
+skl_riding_desc|Pozwala na ujeżdżanie koni na wyższych poziomach trudności i zwiększa prędkośc jazdy i manewrowanie. Z umiejętnością 4 bądź wyższą możesz także przyzwać konia przyciskiem 'H' podczas bitwy. (Umiejętność osobista)
 skl_athletics|Atletyka
 skl_athletics_desc|Zwiększa prędkość biegu. (Umiejętność osobista)
 skl_shield|Tarcza
 skl_shield_desc|Zmniejsza obrażenia zadawane tarczom (8%% na poziom umiejętności), zwiększa pokrycie i prędkość tarczy. (Umiejętność osobista)
 skl_weapon_master|Mistrz broni
-; skl_weapon_master_desc|Makes it easier to learn weapon proficiencies, increases the proficiency limits and improves shield speed and coverage. Limits go as: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Personal skill)
-; skl_maintenance|Weapon Maintenance
-; skl_maintenance_desc|Adequate maintenance of your equipment will lower the chance of it breaking in battle. Each point of this skill reduces the probability of breaking by 7%%. (Party skill)
+skl_weapon_master_desc|Ułatwia naukę posługiwania się bronią, zwiększa limity i prędkość tarczy i jej zakrycie. Limity: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Umiejętność osobista)
+skl_maintenance|Konserwacja broni
+skl_maintenance_desc|Odpowiednia konserwacja Twojego ekwipunku zmiejszy szanse na jego zniszczenie podczas bitwy. Każdy punkt tej umiejętności zmiejsza szanse zniszczenia o 7%%. (Umiejętnośc oddziału)
 skl_reserved_10|Umiejętność rezerwowa 10
 skl_reserved_10_desc|To jest umiejętność rezerwowa.
 skl_reserved_11|Umiejętność rezerwowa 11
@@ -73,9 +73,9 @@ skl_power_strike_desc|Każdy punkt umiejętności zwiększa obrażenia w walce w
 skl_ironflesh|Żelazna skóra
 skl_ironflesh_desc|Każdy punkt umiejętności dodaje +2 punkty zdrowia. (Umiejętność osobista)
 skl_navigation|Nawigacja
-; skl_navigation_desc|Party map speed on sea is increased by 5%% per skill level. (Party skill)
-; skl_sea_king|Sea-King
-; skl_sea_king_desc|Every point increases the maximum number of ships you can command. (Leader skill)
+skl_navigation_desc|Prędkość oddziału na morzu jest zwiększona o 5%% na poziom. (Umiejętność oddziału)
+skl_sea_king|Król mórz
+skl_sea_king_desc|Każdy punkt zwiększa maksymalną liczbę łodzi, którymi możesz dowodzić. (Umiejętność dowódcy)
 skl_reserved_16|Umiejętność rezerwowa 16
 skl_reserved_16_desc|To jest umiejętność rezerwowa.
 skl_reserved_17|Umiejętność rezerwowa 17

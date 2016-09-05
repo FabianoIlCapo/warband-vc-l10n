@@ -18,7 +18,7 @@ trp_tutorial_swordsman|Miecznik
 trp_tutorial_swordsman_pl|Miecznik
 trp_novice_fighter|Początkujący wojownik
 trp_novice_fighter_pl|Początkujący wojownik
-; trp_regular_fighter|Fighter
+trp_regular_fighter|Wojownik
 trp_regular_fighter_pl|Typowy wojownik
 trp_veteran_fighter|Doświadczony wojownik
 trp_veteran_fighter_pl|Doświadczony wojownik
@@ -60,12 +60,12 @@ trp_watchman|Strażnik
 trp_watchman_pl|Strażnicy
 ; trp_mercenary_cavalry|Frank Horseman
 ; trp_mercenary_cavalry_pl|Frank Horsemen
-; trp_caravan_guard|Spearman
-; trp_caravan_guard_pl|Spearmen
-; trp_mercenary_swordsman|Veteran
-; trp_mercenary_swordsman_pl|Veterans
-; trp_regular_sailors|Sailor
-; trp_regular_sailors_pl|Sailors
+trp_caravan_guard|Włócznik
+trp_caravan_guard_pl|Włócznik
+trp_mercenary_swordsman|Weteran
+trp_mercenary_swordsman_pl|Włócznik
+trp_regular_sailors|Marynarz
+trp_regular_sailors_pl|Marynarze
 ; trp_mercenary_horseman|Aquitanian Skirmisher
 ; trp_mercenary_horseman_pl|Aquitanian Skirmishers
 ; trp_mercenary_leader|Old Captain
@@ -74,8 +74,8 @@ trp_watchman_pl|Strażnicy
 ; trp_hired_blade_pl|Sviar Warriors
 ; trp_mercenary_crossbowman|Finn Archer
 ; trp_mercenary_crossbowman_pl|Finnas Archers
-; trp_mercenaries_end|Villager
-; trp_mercenaries_end_pl|Villagers
+trp_mercenaries_end|Wieśniak
+trp_mercenaries_end_pl|Wieśniacy
 ; trp_norse_slave|Norse Freedman (Leysingi)
 ; trp_norse_slave_pl|Norse Freedmen (Leysingja)
 ; trp_norse_bowman|Norse Bowman (Gestr)
@@ -297,7 +297,7 @@ trp_irish_messenger|Posłaniec
 ; trp_brigand|Brigand
 ; trp_brigand_pl|Brigands
 ; trp_mountain_bandit|Robber
-; trp_mountain_bandit_pl|Robbers
+trp_mountain_bandit_pl|Rabusie
 ; trp_forest_bandit|Bandit
 ; trp_forest_bandit_pl|Bandits
 ; trp_sea_raider|Reaver
@@ -317,7 +317,7 @@ trp_irish_messenger|Posłaniec
 ; trp_looter_leader2|Bandit Leader
 ; trp_looter_leader2_pl|Bandit Leaders
 ; trp_manhunter|Young Warrior
-; trp_manhunter_pl|Young Warriors
+trp_manhunter_pl|Młodzi wwojownicy
 ; trp_slave_driver|Slave Driver
 ; trp_slave_driver_pl|Slave Drivers
 ; trp_slave_hunter|Slave Hunter
@@ -394,28 +394,28 @@ trp_town_walker_7_pl|Mieszczanie
 ; trp_nina_chica_pl|Children
 ; trp_monk_walker|Monk
 ; trp_monk_walker_pl|Monks
-; trp_village_walker_1|Villager
-; trp_village_walker_1_pl|Villagers
-; trp_village_walker_2|Villager
-; trp_village_walker_2_pl|Villagers
-; trp_village_walker_3|Villager
-; trp_village_walker_3_pl|Villager
-; trp_village_walker_4|Villager
-; trp_village_walker_4_pl|Villager
-; trp_village_walker_5|Villager
-; trp_village_walker_5_pl|Villager
-; trp_village_walker_6|Villager
-; trp_village_walker_6_pl|Villager
-; trp_village_walker_7|Villager
-; trp_village_walker_7_pl|Villagers
-; trp_village_walker_8|Villager
-; trp_village_walker_8_pl|Villager
-; trp_village_walker_1a|Villager
-; trp_village_walker_1a_pl|Villagers
-; trp_village_walker_3a|Villager
-; trp_village_walker_3a_pl|Villager
-; trp_village_walker_5a|Villager
-; trp_village_walker_5a_pl|Villager
+trp_village_walker_1|Wieśniak
+trp_village_walker_1_pl|Wieśniacy
+trp_village_walker_2|Wieśniak
+trp_village_walker_2_pl|Wieśniacy
+trp_village_walker_3|Wieśniak
+trp_village_walker_3_pl|Wieśniak
+trp_village_walker_4|Wieśniak
+trp_village_walker_4_pl|Wieśniak
+trp_village_walker_5|Wieśniak
+trp_village_walker_5_pl|Wieśniak
+trp_village_walker_6|Wieśniak
+trp_village_walker_6_pl|Wieśniak
+trp_village_walker_7|Wieśniak
+trp_village_walker_7_pl|Wieśniacy
+trp_village_walker_8|Wieśniak
+trp_village_walker_8_pl|Wieśniak
+trp_village_walker_1a|Wieśniak
+trp_village_walker_1a_pl|Wieśniacy
+trp_village_walker_3a|Wieśniak
+trp_village_walker_3a_pl|Wieśniak
+trp_village_walker_5a|Wieśniak
+trp_village_walker_5a_pl|Wieśniak
 trp_spy_walker_1|Mieszczanin
 trp_spy_walker_1_pl|Mieszczanie
 ; trp_spy_walker_2|Townswoman
@@ -444,8 +444,8 @@ trp_farmer_from_bandit_village|Farmer
 trp_farmer_from_bandit_village_pl|Farmerzy
 ; trp_trainer_2|Harald
 trp_trainer_2_pl|Trener
-; trp_trainer_1|Veteran
-; trp_trainer_1_pl|Veteran
+trp_trainer_1|Weteran
+trp_trainer_1_pl|Weteran
 trp_trainer_3|Trener
 trp_trainer_3_pl|Trener
 trp_trainer_4|Trener
@@ -453,47 +453,47 @@ trp_trainer_4_pl|Trener
 trp_trainer_5|Trener
 trp_trainer_5_pl|Trener
 ; trp_ransom_broker_1|Ransom Broker
-; trp_ransom_broker_1_pl|Slave Trader
+trp_ransom_broker_1_pl|Handlarz niewolników
 ; trp_ransom_broker_2|Ransom Broker
-; trp_ransom_broker_2_pl|Slave Trader
+trp_ransom_broker_2_pl|Handlarz niewolników
 ; trp_ransom_broker_3|Ransom Broker
-; trp_ransom_broker_3_pl|Slave Trader
+trp_ransom_broker_3_pl|Handlarz niewolników
 ; trp_ransom_broker_4|Ransom Broker
-; trp_ransom_broker_4_pl|Slave Trader
+trp_ransom_broker_4_pl|Handlarz niewolników
 ; trp_ransom_broker_5|Ransom Broker
-; trp_ransom_broker_5_pl|Slave Trader
+trp_ransom_broker_5_pl|Handlarz niewolników
 ; trp_ransom_broker_6|Ransom Broker
-; trp_ransom_broker_6_pl|Slave Trader
+trp_ransom_broker_6_pl|Handlarz niewolników
 ; trp_ransom_broker_7|Ransom Broker
-; trp_ransom_broker_7_pl|Slave Trader
+trp_ransom_broker_7_pl|Handlarz niewolników
 ; trp_ransom_broker_8|Ransom Broker
-; trp_ransom_broker_8_pl|Slave Trader
+trp_ransom_broker_8_pl|Handlarz niewolników
 ; trp_ransom_broker_9|Ransom Broker
-; trp_ransom_broker_9_pl|Slave Trader
+trp_ransom_broker_9_pl|Handlarz niewolników
 ; trp_ransom_broker_10|Ransom Broker
-; trp_ransom_broker_10_pl|Slave Trader
+trp_ransom_broker_10_pl|Handlarz niewolników
 ; trp_ransom_broker_20|Ransom Broker
-; trp_ransom_broker_20_pl|Slave Trader
-; trp_tavern_traveler_1|Traveller
-; trp_tavern_traveler_1_pl|Traveller
-; trp_tavern_traveler_2|Traveller
-; trp_tavern_traveler_2_pl|Traveller
-; trp_tavern_traveler_3|Traveller
-; trp_tavern_traveler_3_pl|Traveller
-; trp_tavern_traveler_4|Traveller
-; trp_tavern_traveler_4_pl|Traveller
-; trp_tavern_traveler_5|Traveller
-; trp_tavern_traveler_5_pl|Traveller
-; trp_tavern_traveler_6|Traveller
-; trp_tavern_traveler_6_pl|Traveller
-; trp_tavern_traveler_7|Traveller
-; trp_tavern_traveler_7_pl|Traveller
-; trp_tavern_traveler_8|Traveller
-; trp_tavern_traveler_8_pl|Traveller
-; trp_tavern_traveler_9|Traveller
-; trp_tavern_traveler_9_pl|Traveller
-; trp_tavern_traveler_10|Traveller
-; trp_tavern_traveler_10_pl|Traveller
+trp_ransom_broker_20_pl|Handlarz niewolników
+trp_tavern_traveler_1|Podróżnik
+trp_tavern_traveler_1_pl|Podróżnik
+trp_tavern_traveler_2|Podróżnik
+trp_tavern_traveler_2_pl|Podróżnik
+trp_tavern_traveler_3|Podróżnik
+trp_tavern_traveler_3_pl|Podróżnik
+trp_tavern_traveler_4|Podróżnik
+trp_tavern_traveler_4_pl|Podróżnik
+trp_tavern_traveler_5|Podróżnik
+trp_tavern_traveler_5_pl|Podróżnik
+trp_tavern_traveler_6|Podróżnik
+trp_tavern_traveler_6_pl|Podróżnik
+trp_tavern_traveler_7|Podróżnik
+trp_tavern_traveler_7_pl|Podróżnik
+trp_tavern_traveler_8|Podróżnik
+trp_tavern_traveler_8_pl|Podróżnik
+trp_tavern_traveler_9|Podróżnik
+trp_tavern_traveler_9_pl|Podróżnik
+trp_tavern_traveler_10|Podróżnik
+trp_tavern_traveler_10_pl|Podróżnik
 ; trp_tavern_bookseller_1|Book Merchant
 ; trp_tavern_bookseller_1_pl|Book Merchant
 ; trp_tavern_bookseller_2|Book Merchant
@@ -1360,35 +1360,35 @@ trp_trainer_5_pl|Trener
 ; trp_town_28_tavernkeeper|Host
 ; trp_town_29_tavernkeeper|Host
 ; trp_town_30_tavernkeeper|Casius
-; trp_town_1_merchant|Merchant
-; trp_town_2_merchant|Merchant
-; trp_town_3_merchant|Merchant
-; trp_town_4_merchant|Merchant
-; trp_town_5_merchant|Merchant
-; trp_town_6_merchant|Merchant
+trp_town_1_merchant|Kupiec
+trp_town_2_merchant|Kupiec
+trp_town_3_merchant|Kupiec
+trp_town_4_merchant|Kupiec
+trp_town_5_merchant|Kupiec
+trp_town_6_merchant|Kupiec
 ; trp_town_7_merchant|Hogni
-; trp_town_8_merchant|Merchant
-; trp_town_9_merchant|Merchant
-; trp_town_10_merchant|Merchant
+trp_town_8_merchant|Kupiec
+trp_town_9_merchant|Kupiec
+trp_town_10_merchant|Kupiec
 ; trp_town_11_merchant|Adda
-; trp_town_12_merchant|Merchant
-; trp_town_13_merchant|Merchant
-; trp_town_14_merchant|Merchant
-; trp_town_15_merchant|Merchant
-; trp_town_16_merchant|Merchant
-; trp_town_17_merchant|Merchant
-; trp_town_18_merchant|Merchant
-; trp_town_19_merchant|Merchant
-; trp_town_20_merchant|Merchant
-; trp_town_21_merchant|Merchant
-; trp_town_22_merchant|Merchant
-; trp_town_23_merchant|Merchant
-; trp_town_24_merchant|Merchant
-; trp_town_25_merchant|Merchant
-; trp_town_26_merchant|Merchant
-; trp_town_27_merchant|Merchant
-; trp_town_28_merchant|Merchant
-; trp_town_29_merchant|Merchant
+trp_town_12_merchant|Kupiec
+trp_town_13_merchant|Kupiec
+trp_town_14_merchant|Kupiec
+trp_town_15_merchant|Kupiec
+trp_town_16_merchant|Kupiec
+trp_town_17_merchant|Kupiec
+trp_town_18_merchant|Kupiec
+trp_town_19_merchant|Kupiec
+trp_town_20_merchant|Kupiec
+trp_town_21_merchant|Kupiec
+trp_town_22_merchant|Kupiec
+trp_town_23_merchant|Kupiec
+trp_town_24_merchant|Kupiec
+trp_town_25_merchant|Kupiec
+trp_town_26_merchant|Kupiec
+trp_town_27_merchant|Kupiec
+trp_town_28_merchant|Kupiec
+trp_town_29_merchant|Kupiec
 ; trp_salt_mine_merchant|Aeron ap Gareth
 ; trp_salt_mine_merchant_pl|Aeron ap Gareth
 ; trp_town_1_horse_merchant|Horse Merchant
@@ -1759,12 +1759,12 @@ trp_tutorial_archer_1_pl|Łucznicy
 ; trp_tutorial_rider_2|Horsewealas
 ; trp_tutorial_master_horseman|Riding Trainer
 ; trp_tutorial_master_horseman_pl|Riding Trainer
-; trp_swadian_merchant|Merchant
-; trp_vaegir_merchant|Merchant
-; trp_khergit_merchant|Merchant
+trp_swadian_merchant|Kupiec
+trp_vaegir_merchant|Kupiec
+trp_khergit_merchant|Kupiec
 ; trp_nord_merchant|Healer
-; trp_rhodok_merchant|Merchant
-; trp_sarranid_merchant|Merchant
+trp_rhodok_merchant|Kupiec
+trp_sarranid_merchant|Kupiec
 ; trp_startup_merchants_end|startup merchants end
 ; trp_startup_merchants_end_pl|startup merchants end
 ; trp_old_hero_boargrove|Old Hero
@@ -1808,8 +1808,8 @@ trp_tutorial_archer_1_pl|Łucznicy
 ; trp_lair_captain_pl|Lair Captains
 ; trp_mule_troop|The Frog
 ; trp_mule_troop_pl|The Frog
-; trp_leader_playerrf|Veteran
-; trp_leader_playerrf_pl|Veteran
+trp_leader_playerrf|Weteran
+trp_leader_playerrf_pl|Weteran
 ; trp_mountain_bandit_leader|Wolf Heart
 ; trp_mountain_bandit_leader_pl|Wolf Heart
 ; trp_last_druid|Druid
@@ -1832,9 +1832,9 @@ trp_tutorial_archer_1_pl|Łucznicy
 ; trp_gundinsalvo_cantabrian_pl|Comes Gundinsalvo of Amaia
 ; trp_port_crew|Old Sea Captain
 ; trp_port_crew_pl|SR Captains
-; trp_port_pirate|Slave Trader
+trp_port_pirate|Handlarz niewolników
 ; trp_port_pirate_pl|Slave Traders
-; trp_fisher|Fisher
+trp_fisher|Rybak
 ; trp_fisher_pl|Fishers
 ; trp_thiaderd|Thiaderd
 ; trp_thiaderd_pl|Thiaderd
