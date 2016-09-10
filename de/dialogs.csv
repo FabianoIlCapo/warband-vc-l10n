@@ -2039,7 +2039,7 @@ dlga_barber_cureh_2:barber_pretalk|Ich habe nicht genug Geld ...
 ; dlga_skald_sing:skald_sing2|{s2}^^I will write a poem so epic that all the isles will know about the greatness of {playername}. However, I must ask for a small sum to cover the cost of inks and... other things. I will need 500 coins.
 ; dlga_skald_sing2:skald_pretalk|Take the money. It is nothing to a mighty hero like me.
 ; dlga_skald_sing2:close_window|You ask the same price as a happy widow, and I could make her sing better! No, thank you.
-; dlga_skald_talk:skald_cancion|Can you sing for me and my men?
+dlga_skald_talk:skald_cancion|Kannst du für mich und meine Männer singen ?
 ; dlga_skald_talk:close_window|A bard? Songs? Why don't you go out and earn your bread like the rest of us? Farewell.
 ; dlga_skald_cancion:skald_cancion2|It will cost you 100 coins. I can sing...
 ; dlga_skald_cancion2:close_window|Cantiga 2
@@ -2053,16 +2053,16 @@ dlga_barber_cureh_2:barber_pretalk|Ich habe nicht genug Geld ...
 ; dlga_lair_captain:lair_captain_add_port_0|I would like to land my ships here next to this refuge.
 ; dlga_lair_captain_add_port_0:lair_captain_add_port_1|We will need 1,000 peningas, to pay staff and buy materials in order to build the jetties.
 ; dlga_lair_captain_add_port_0:lair_captain_pretalk|The Refuge is too far away from the shore. We can't do this.
-; dlga_lair_captain_add_port_1:lair_captain_add_port_2|Do so. Here is the money.
+dlga_lair_captain_add_port_1:lair_captain_add_port_2|Wohlan. Hier ist euer Geld.
 dlga_lair_captain_add_port_1:lair_captain_pretalk|Ich habe meine Meinung geändert.
 dlga_lair_captain_add_port_1:lair_captain_pretalk.1|Ich habe nicht genug Geld ...
 ; dlga_lair_captain_add_port_2:lair_captain_pretalk|Very well. It won't take long to build the jetties. You will be able to disembark here soon.
-; dlga_lair_captain:lairparty_action|I will donate 500 peningas to the families of my men.
+dlga_lair_captain:lairparty_action|Ich möchte den Familien meiner Männer 500 Münzen spenden.
 ; dlga_lair_captain:close_window|That'll be all.
 ; dlga_lair_captain_improve:lair_captain_improve2|Currently, we have a simple and poorly defended permanent camp with few services and capacity for fifty men. I suggest building some houses for the men stationed here, for them to bring their families, a mead hall to help them relax and improve morale, and a training camp for our men to improve their skills. It would be important to improve the defenses further. Finally, you will need more space. I would guess you would like to have a big and comfortable house.^^I estimate that we will need a lot of money, about 5,000 peningas, to pay staff and buy materials. In addition, we need you to buy us five tool kits and five timber pallets.
 ; dlga_lair_captain_improve2:lair_captain_improve3|Well, go ahead. This site needs improvement, and I have the needed resources and money.
 ; dlga_lair_captain_improve2:lair_captain_pretalk|I will get what you asked for, and I will return with it later.
-; dlga_lair_captain_improve2:lair_captain_pretalk.1|I'll think about it.
+dlga_lair_captain_improve2:lair_captain_pretalk.1|Ich werde darüber nachdenken.
 ; dlga_lair_captain_improve3:lair_captain_pretalk|I'll put the men to work right now, commander. If all goes well, the work will be finished in a week.
 ; dlga_lair_captain_improve3:lair_captain_pretalk.1|Commander, how can I say this? You do not have enough money. We need 5,000 peningas.
 ; dlga_lair_captain_improve_x1:lair_captain_pretalk|The workers are working hard, commander.
@@ -2070,13 +2070,13 @@ dlga_lair_captain_add_port_1:lair_captain_pretalk.1|Ich habe nicht genug Geld ..
 ; dlga_lair_captain_improve_torefuge:lair_captain_improve_torefuge2|Currently, we have a nice hideout with a mead hall and capacity for 120 men. I suggest building more houses for the men stationed here and for their families. On the other hand, we could use a blacksmith to help to repair our weapons and armor and build a stable for our horses. Moreover, it would be important to improve the defenses further with earthen mounds and ditches. Finally, you will need more space. I would guess you would like to have a mead hall, as befits a warlord.^^I estimate that we will need a lot of money, about 10,000 peningas, to pay staff and buy materials. In addition, we need you to buy us five tool kits and five timber pallets.
 ; dlga_lair_captain_improve_torefuge2:lair_captain_improve_torefuge3|Well, go ahead. This site needs improvement, and I have the needed resources and money, too.
 ; dlga_lair_captain_improve_torefuge2:lair_captain_pretalk|I will get what you ask, and will return with it later.
-; dlga_lair_captain_improve_torefuge2:lair_captain_pretalk.1|I'll think about it.
+dlga_lair_captain_improve_torefuge2:lair_captain_pretalk.1|Ich werde darüber nachdenken.
 ; dlga_lair_captain_improve_torefuge3:lair_captain_pretalk|I'll put the men to work right now, commander. If all goes well, the work will be finished in two weeks.
 ; dlga_lair_captain_improve_torefuge3:lair_captain_pretalk.1|Commander, how can I say this? You do not have enough money. We need 10,000 peningas.
 ; dlga_lairparty_action:lair_captain_pretalk|Thank you, {reg59?my lady:sir}. This will raise the morale and loyalty of the men.
 ; dlga_start:dcprisoner_join1|{reg59?Madame:Sir}, surely you do not remember me. My face looks much different when it's not being tortured. I am the man you questioned in Doccinga after the battle, Olafr the Captain.
 ; dlga_dcprisoner_join1:dcprisoner_join2|The truth is that, after my defeat, Sven disowned me, and I've been without a lord ever since. I served as a mercenary but had bad luck -- I spent everything I was paid on mead and women. I was looking for you, because you are the only person who showed compassion for me in the hardest times. I want to serve you, to fight in your army. I will be faithful if you accept me.
-; dlga_dcprisoner_join2:dcprisoner_join3|Veterans like you are always welcome.
+dlga_dcprisoner_join2:dcprisoner_join3|Veteranen wie ihr sind stets willkommen.
 ; dlga_dcprisoner_join2:dcprisoner_join4|No, surely you are a spy. Be gone.
 ; dlga_dcprisoner_join3:close_window|Thank you. I will be the bravest and the most loyal of your men!
 ; dlga_dcprisoner_join4:close_window|I understand and accept your rejection. You will not see me again.
@@ -2095,7 +2095,7 @@ dlga_lair_captain_add_port_1:lair_captain_pretalk.1|Ich habe nicht genug Geld ..
 dlga_olvir_dialog41:olvir_dialog51.1|{s10}
 ; dlga_olvir_dialog51:olvir_dialog7|{s2}^^Banquets, women and endless battles await you in the hall of the gods, Olvir. You've been good warrior, although we have been enemies. I will see you someday, and maybe we can fight alongside each other at Ragnarok.
 ; dlga_olvir_dialog52:olvir_dialog54|{reg59?Madame:Sir}, this man fought well. Let him go to Walhalla.
-; dlga_olvir_dialog54:olvir_dialog55|Please...
+dlga_olvir_dialog54:olvir_dialog55|Bitte...
 ; dlga_olvir_dialog55:olvir_dialog51|Well, Egil, give him his sword.
 ; dlga_olvir_dialog55:olvir_dialog6|No. Egil, give me his sword, for it will be mine. Let him go to hell.
 dlga_olvir_dialog6:olvir_dialog7|{s2}
@@ -2107,7 +2107,7 @@ dlga_olvir_dialog6:olvir_dialog7|{s2}
 ; dlga_start:prisionero_interrogation1.1|This is getting boring. Don't you have better things to do?
 ; dlga_pretalkdc:prisionero_interrogation1|Well?
 ; dlga_prisionero_interrogation1:prisionero_interrogation2|I'll ask you some questions, and, if you answer right, you won't have to keep suffering.
-; dlga_prisionero_interrogation1:prisionero_agua|--You give drinking water to the prisoner.--
+dlga_prisionero_interrogation1:prisionero_agua|--Du gibst dem Gefangenen etwas Trinkwasser.--
 dlga_prisionero_agua:pretalkdc|{s2}
 dlga_prisionero_agua2:pretalkdc|{s4}
 ; dlga_prisionero_interrogation1:prisionero_lheridas|--You clean the prisoner's wounds.--
@@ -2158,11 +2158,11 @@ dlga_prisionero_interrogation344:prisionero_interrogation22|{s5}
 dlga_prisionero_interrogation35:prisionero_interrogation4|{s5}
 ; dlga_prisionero_interrogation35:prisionero_interrogation22|I say nothing!
 ; dlga_prisionero_interrogation4:prisionero_interrogation41|Why did you attack the ship? They were only travelers and traders!
-; dlga_prisionero_interrogation4:prisionero_interrogation42|Listen, this is very important. Did anyone survive your attack?
+dlga_prisionero_interrogation4:prisionero_interrogation42|Hör zu, es ist wirklich wichtig. Hat irgendjemand den Angriff überlebt?
 dlga_prisionero_interrogation41:prisionero_interrogation4|{s5}
 dlga_prisionero_interrogation42:prisionero_interrogation43|{s5}
-; dlga_prisionero_interrogation43:prisionero_interrogation44|My mother was on that ship.
-; dlga_prisionero_interrogation43:prisionero_interrogation45|Where did the prisoners go?
+dlga_prisionero_interrogation43:prisionero_interrogation44|Meine Mutter war auf diesen Schiff!
+dlga_prisionero_interrogation43:prisionero_interrogation45|Wo sind die Gefangenen hingegangen? 
 ; dlga_prisionero_interrogation44:prisionero_interrogation43|Well, we spared some men, even a madwoman who talked nonsense. Maybe your mother is among them.
 ; dlga_prisionero_interrogation45:prisionero_interrogation22th|Sven Bull Neck took them with him. He was going to leave them in his hideout before continuing his journey north. The hideout is in Danmark. It is a good place and well defended, but I will not tell you where it is. I will not betray my masters just so you can kill me.
 ; dlga_prisionero_interrogation22th:prisionero_interrogation22th2|{s3}^^There is no need to torture him for that information. There is a man in the port of Ribe who deals with the Vikings for their slaves. He is a Frisian from Doccinga who has thrived in Ribe as port master. One often finds him outside, by the docks. He is not a good person, but he will sell whatever information you may require. When you talk to him, please do not mention my name, because it was I who forced him to leave Doccinga some years ago.
@@ -2173,7 +2173,7 @@ dlga_start:close_window.62|Ich habe keine Zeit für euch. Lebt wohl.
 ; dlga_start:sven_comprapr|The men are strong, with healthy teeth and hard muscles. The women are healthy, but they are sisters. They are the last slaves I have, so they go together in the package, or nothing. However, I'll give you a discount, and they will cost you only 900 peningas.
 ; dlga_start:svenlair_1|Who are you, and what do you want?
 ; dlga_start:revenge_kingmen|Heill, {playername}! Heill, Egil, vinr! We received your message and we are here. We hope we are in time to come to the party.
-; dlga_start:close_window.63|Gods protect us!
+dlga_start:close_window.63|Mögen die Götter uns schützen!
 ; dlga_revenge_kingmen:revenge_kingmen2|Sure, Harald! We're still waiting for the men of Sigurd 'Snake in the Eye.' My friend, here, is eager to meet Sven Bull Neck.
 ; dlga_revenge_kingmen2:revenge_kingmen3|Welcome, Harald. We appreciate the help of King Horik.
 ; dlga_revenge_kingmen3:revenge_kingmen4|I'm sure of it. Until the time comes, I will keep my men hidden, ready to intervene if things get ugly. The king was very clear, {playername}. You must not begin hostilities. In fact, he wants you to avoid confrontation if at all possible.
@@ -2181,7 +2181,7 @@ dlga_start:close_window.62|Ich habe keine Zeit für euch. Lebt wohl.
 ; dlga_revenge_kingmen4:revenge_kingmen5.1|Sven Bull Neck did me much evil. I promise nothing.
 ; dlga_revenge_kingmen5:close_window|The king is a man who likes his wishes to be executed. Now we enter the farm. My men are hungry and thirsty.
 ; dlga_harald_meeting1:harald_meeting21|I am especially interested in this meeting. I have long been waiting to hear from my mother.
-dlga_harald_meeting1:harald_meeting3|(Sagen Sie nichts)
+dlga_harald_meeting1:harald_meeting3|(nichts sagen)
 ; dlga_harald_meeting21:harald_meeting3|I think you may be wondering what our guest may have to say about this, but first we go to the most urgent matter.
 ; dlga_harald_meeting3:harald_meeting4|In Northhymbre, our Danish brothers have become strong. They control the kingdom through a puppet king. There are small uprisings of Angles, but these are localized and severely repressed. Nothing serious. The latest news we have is that the sons of Ragnar have moved south and taken a place, known as Snotingaham, in Mierce. The king of Mierce has not taken this well. He has besieged them there with his army, supported by the king of West Seaxe. We fear that the Ragnarssons may be in a hard place, so our mission is to go to Jorvik and join the forces that are gathering under Rathbarth, another of the sons of Ragnar, in support of his brothers. From there we will move south to meet the Angles and Saxons. With a little luck, we will kill their kings and the road south will be opened for plunder. You will come back rich to your wife and kids this year.
 dlga_harald_meeting4:harald_meeting4_1|Ich hoffe doch. Ich möchte nicht noch mehr Mäuler füttern müssen.
@@ -2190,7 +2190,7 @@ dlga_harald_meeting4:harald_meeting4_1|Ich hoffe doch. Ich möchte nicht noch me
 ; dlga_harald_meeting4_2:harald_meeting5_2|The issue is serious. How many men do Mierce and West Seaxe have?
 ; dlga_harald_meeting4_2:harald_meeting5_3|Sounds like a good plan, Harald. My men will go in the front!
 ; dlga_harald_meeting4_2:harald_meeting5|I agree.
-; dlga_harald_meeting5_1:harald_meeting5|{s2}.
+dlga_harald_meeting5_1:harald_meeting5|{s2}.
 ; dlga_harald_meeting5_2:harald_meeting5|That is hard to say. The information we have comes from merchants and travelers. They speak of thousands of men. It hardly matters, though. The Angles and the Saxons are weak people, fully domesticated by their kings. It will be like attacking housewives.
 ; dlga_harald_meeting5_3:harald_meeting5_4|{s2}^^Well, well. We have here an authentic toady. It seems there is always someone who is willing to stoop to any depth to gain favor with the boss.
 ; dlga_harald_meeting5_4:harald_meeting5|I cannot stand sycophants, {playername}. Now let's move on to the serious stuff.
@@ -2261,7 +2261,7 @@ dlga_problema_monjes_1:close_window|Ich habe keine Fragen mehr.
 dlga_problema_monjes_22:problema_monjes_3|{s2}
 ; dlga_problema_monjes_23:problema_monjes_1|I'm just a scribe in the monastery! I copy the ancient Roman texts. While looking for an old useless parchment to scrape and prepare for another document, I found this.
 dlga_problema_monjes_24:problema_monjes_1|{s2}
-; dlga_problema_monjes_3:close_window|You are a liar! This document is false! We don't have to talk more. Farewell, bastard.
+dlga_problema_monjes_3:close_window|Du Lügner! Die Dokumente sind gefälscht! Es gibt nichts mehr zu bereden. Lebt wohl, Bastard!
 dlga_problema_monjes_3:problema_monjes_31|Ihr lügt mich an, glaube ich.
 dlga_problema_monjes_3:problema_monjes_n1|In Ordnung. Ich verstehe.
 dlga_problema_monjes_31:problema_monjes_1|{s2}
@@ -3107,7 +3107,7 @@ dlga_lord_bandit_information:lord_pretalk|{s15}
 ; dlga_lord_respond_to_insult_challenge_battle_confirm:close_window|Enough of your insolence! At {reg59?her:him}, lads!
 ; dlga_lord_respond_to_insult_challenge_duel:lord_respond_to_insult_challenge_duel_confirm|I am ready to teach you one.
 ; dlga_lord_respond_to_insult_challenge_duel:close_window|This is not worth the shedding of blood.
-; dlga_lord_respond_to_insult_challenge_duel_confirm:close_window|So be it. Defend yourself!
+dlga_lord_respond_to_insult_challenge_duel_confirm:close_window|So sei es! Verteidigt euch!
 dlga_lord_quarrel_intervention_1:lord_quarrel_intervention_2|{s14}
 ; dlga_lord_quarrel_intervention_2:lord_quarrel_intervention_3a|Ah, well. It sounds like you're in the right, then.
 ; dlga_lord_quarrel_intervention_2:lord_quarrel_intervention_3b|Whatever your differences, I want you to settle them.
@@ -3607,10 +3607,10 @@ dlga_lord_ask_leave_service_verify_again:lord_ask_leave_service_3|Jawohl, {s65}.
 ; dlga_lord_collect_taxes_half_success:lord_pretalk|What? Is this some scheme of yours, {playername}? That's less than half the taxes I'm owed! You have let them get away with murder as well as my money. What a farce! You can forget the money I promised you, I'm taking {reg20} peningas from what you collected, and you're lucky I'm leaving you a few coins for honour's sake.
 ; dlga_lord_collect_taxes_fail:lord_pretalk|God, what a bloody mess you've gotten us into, {playername}. This could turn very ugly if I do not take immediate action. I certainly hope you're not here expecting to be paid for failure. Hand over my {reg19} peningas, if you please, and end our business together.
 ; dlga_lord_active_mission_2:lord_hunt_down_fugitive_success|I found {s4} hiding in {s3} and gave him his punishment.
-; dlga_lord_active_mission_2:lord_hunt_down_fugitive_fail|I'm afraid he got away.
+dlga_lord_active_mission_2:lord_hunt_down_fugitive_fail|Ich befürchte er ist entkommen.
 ; dlga_lord_hunt_down_fugitive_success:lord_hunt_down_fugitive_success_2|And we'll all be a lot better off without him! Thank you, {playername}, for removing this long-festering thorn from my side. 'Tis good to know you can be trusted to handle things with an appropriate level of tactfulness. A bounty I promised, and a bounty you shall have. {reg25} peningas and not a copper less!
 ; dlga_lord_hunt_down_fugitive_success_2:lord_hunt_down_fugitive_reward_accept|Let me take the money, {s65}. Thank you.
-; dlga_lord_hunt_down_fugitive_success_2:lord_hunt_down_fugitive_reward_reject|This is blood money. I can't accept it.
+dlga_lord_hunt_down_fugitive_success_2:lord_hunt_down_fugitive_reward_reject|Dies ist Blutgeld. Ich kann das nicht annehmen.
 ; dlga_lord_hunt_down_fugitive_reward_accept:lord_pretalk|Of course, {playername}. Here you are. Once again, you've my thanks for ridding me of that {s43}.
 ; dlga_lord_hunt_down_fugitive_reward_reject:lord_pretalk|You are a {reg59?woman:man} for whom justice is its own reward, eh? As you wish it, {playername}, as you wish it. An honourable sentiment, to be true. Regardless, you've my thanks for ridding me of that {s43}.
 ; dlga_lord_hunt_down_fugitive_fail:lord_pretalk|It is a sad day when that {s43} manages to avoid the hand of justice yet again. I thought you would be able to do this, {playername}. Clearly, I was wrong.
@@ -3620,9 +3620,9 @@ dlga_lord_active_mission_2:lord_active_mission_3|Ich arbeite immernoch daran.
 dlga_lord_mission_failed:lord_pretalk|{s43}
 ; dlga_lord_suggets_attack_enemy_castle3:lord_pretalk|That should be possible. Very well, we'll attack {s1}.
 ; dlga_lord_propose_mercenary:lord_mercenary_service|As it happens, {playername}, I promised {s10} that I would hire a company of mercenaries for an upcoming campaign. 
-; dlga_lord_mercenary_service:lord_mercenary_service_reject|I'm not interested, thank you.
+dlga_lord_mercenary_service:lord_mercenary_service_reject|Ich bin nicht interessiert, habt Dank.
 ; dlga_lord_mercenary_service:lord_mercenary_service_accept|Aye, I'll join the {s9}.
-; dlga_lord_mercenary_service:lord_mercenary_elaborate_pay|I'm interested. Please tell me more.
+dlga_lord_mercenary_service:lord_mercenary_elaborate_pay|Ich bin interessiert. Bitte erzählt mir mehr.
 ; dlga_lord_mercenary_service_accept:lord_mercenary_service_verify|Perfect. Of course, you shall have to make a formal declaration of allegiance, and give your oath that you and your company will remain in service to the {s9} for a period of no less than one month.
 ; dlga_lord_mercenary_service_verify:lord_mercenary_service_verify_2|As you wish. Your enemies are my enemies.
 ; dlga_lord_mercenary_service_verify:lord_mercenary_service_reject|On second thought, forget it.
@@ -3633,10 +3633,10 @@ dlga_lord_mission_failed:lord_pretalk|{s43}
 ; dlga_lord_mercenary_service_elaborate_duty:lord_mercenary_elaborate_1|Duties... There are only a few, none of them difficult. The very first thing is to declare your allegiance. An oath of loyalty to our cause. Once that's done, you shall be required to fulfill certain responsibilities. You'll participate in military campaigns, fulfill any duties given to you by your commanders, and most of all you shall attack the enemies of our kingdom wherever you might find them.
 ; dlga_lord_mercenary_elaborate_1:lord_mercenary_service_elaborate_duty|And what about my duties as a mercenary?
 ; dlga_lord_mercenary_elaborate_1:lord_mercenary_elaborate_castle|Can I hold on to any castles I take?
-; dlga_lord_mercenary_elaborate_1:lord_mercenary_elaborate_banner|Can I fly my own banner?
+dlga_lord_mercenary_elaborate_1:lord_mercenary_elaborate_banner|Darf ich mein eigenes Banner tragen ?
 ; dlga_lord_mercenary_elaborate_1:lord_mercenary_elaborate_pay|How much will you pay me for my service?
 ; dlga_lord_mercenary_elaborate_1:lord_mercenary_service_accept|Sounds good. I wish to enter your service as a mercenary.
-; dlga_lord_mercenary_elaborate_1:lord_mercenary_service_reject|Apologies, my sword is not for hire.
+dlga_lord_mercenary_elaborate_1:lord_mercenary_service_reject|Verzeiht, mein Schwert ist nicht käuflich.
 ; dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1|Only my loyal vassals can own lands and castles in my realm -- and all my vassals are men.\\I am not inclined to depart from this tradition without a very good reason. If you prove yourself in battle, you can swear an oath of homage to me and become my vassal.\\We may then discuss how you may obtain a castle.
 ; dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1.1|Hmm... Only loyal vassals of {s10} can own lands and castles. While kings will sometimes accept vassalage from men who prove themselves in battle, and grant them land, I have never heard of a king who gave fiefs to women. You had best discuss that issue with {s10} himself.
 ; dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1.2|Only my loyal vassals can own lands and castles in my realm. A mercenary cannot be trusted with such a responsibility. However, after serving for some time, you can swear homage to me and become my vassal. Then you will be rewarded with a fief.
@@ -3659,13 +3659,13 @@ dlga_lord_mission_failed:lord_pretalk|{s43}
 ; dlga_lord_tell_mission:destroy_lair_quest_brief|Yes -- there is something you can do for us. We have heard reports that a group of {s4} have established a hideout in this area, and have been attacking travellers. If you could find their lair and destroy it, we would be very grateful.
 ; dlga_lord_tell_mission:lord_mission_rescue_prisoner|My {s11}, {s13}, has been taken prisoner by {s14} of the {s15}. Normally, honorable nobles will grant prisoners of gentle blood the privilege of parole, and treat them as honored guests so long as they give their word that they will not attempt to escape, until such time as a ransom can be paid.  But {s14}, instead of granting {s13} parole, has consigned my {s11} to his dungeons -- no doubt in the hope that he can demand more from us.
 ; dlga_lord_mission_rescue_prisoner:lord_mission_rescue_prisoner_confirm|We need you to get my {s11} out of prison. You may be able to pay a ransom -- in which case we could cover your expenses, up to 5000 peningas. If you have connections within {s24}, you may be able to use them to sneak him out. Or, you may try a more direct approach -- walk up to the gaoler, take the keys by force, and then fight your way out. Can you do this for us?
-; dlga_lord_mission_rescue_prisoner_confirm:lord_mission_rescue_prisoner_accepted|I can try.
+dlga_lord_mission_rescue_prisoner_confirm:lord_mission_rescue_prisoner_accepted|Ich kann es versuchen.
 ; dlga_lord_mission_rescue_prisoner_confirm:lord_mission_rescue_prisoner_rejected|I don't think that I can help you.
 ; dlga_lord_mission_rescue_prisoner_rejected:close_window|It would not have been an easy task. Perhaps we will find another way.
 ; dlga_lord_mission_rescue_prisoner_accepted:lord_mission_rescue_prisoner_method|We are most grateful. Could I ask you how you were planning to proceed?
 ; dlga_lord_mission_rescue_other_ideas:lord_mission_rescue_prisoner_method|Did you have any other ideas which you wished to discuss?
 ; dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_prisonbreak|I am thinking of breaking into the prison in {s24}, finding {s13}, and fighting my way out.
-; dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_siege|I am thinking of taking {s24} by storm.
+dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_siege|Ich denke darüber nach {s24} zu erobern.
 ; dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_planning_end|I have done enough planning. Time to act!
 ; dlga_lord_mission_rescue_prisoner_planning_end:close_window|May the heavens protect you.
 ; dlga_lord_mission_rescue_prisoner_method_prisonbreak:lord_mission_rescue_prisoner_method_prisonbreak_2|I had discussed this idea with some of my men. One could enter {s24}, either in disguise or openly, then walk up to the prison guard and try to take the keys by force. However, getting out may be difficult. The garrison may be slow to react, but even so, you are likely to find yourself fighting a half dozen or more of the enemy at once, with limited space in which to maneuver. If you can fight your way past them, though, you can probably get out.
@@ -5024,7 +5024,7 @@ dlga_bardo_sing_lady2:bardo_pretalk|Macht nichts.
 ; dlga_bardo_sing:bardo_sing2|My lord, I will write a poem so epic that the whole Northlands will know about the greatness of {playername} - he jumps with joy. -Finally, he stops and takes a deep breath-. In return, I am asking for a small sum to cover the cost of inks and... keep my creativity going. I will need 500 coins.
 ; dlga_bardo_sing2:bardo_pretalk|Take the money. It is nothing to a mighty hero like me.
 ; dlga_bardo_sing2:close_window|You ask for the same price as a happy widow, and undoubtedly I'd like her performance better.
-; dlga_bardo_talk:bardo_cancion|Can you sing for me and my men?
+dlga_bardo_talk:bardo_cancion|Kannst du für mich und meine Männer singen ?
 ; dlga_bardo_talk:close_window|A bard? Songs? Why don't you go out and earn your bread like the rest of us?
 ; dlga_bardo_cancion:bardo_cancion2|It will cost you 100 coins, I can sing...
 ; dlga_bardo_cancion2:close_window|Your best song.
@@ -5101,7 +5101,7 @@ dlga_problema_juicio3:problema_juicio4|{s2}
 ; dlga_abad_catach2:abad_catachpers|I need this book to rescue prisoners. Isn't that the work of God? To save lives? (Persuasion)
 ; dlga_abad_catach2:abad_dalibro_ps|If you do not give me the book, I will kill everyone here. (Power Strike)
 ; dlga_abad_catach3:close_window|Then you have to kill us all and take the book from our dead hands. God will make us martyrs and condemn you.
-; dlga_abad_catach4:abad_catach2c|Sorry, but it's not a question of money. This is a relic, and it is too sacred to sell.
+dlga_abad_catach4:abad_catach2c|Verzeiht, aber dies ist ein Relikt, und es ist zu heilig, als dass man es mit Geld bezahlen könnte.
 ; dlga_abad_catach2c:abad_catach3c|Pater, it is too important for me. I need to find the hideout where a Viking holds prisoners. They are in danger. You must help me, pater. This book is my only hope to save them.
 ; dlga_abad_catach3c:abad_catach4c|I understand that you want to save innocent people, but the book belongs to the Ui Neill of Aileach and Mide. Well, I could give it to you, for your cause is honorable. I could tell the Ui Neill that you are a Viking who stole it from us by the sword, but they will hate you and become your enemies. Are you sure?
 ; dlga_abad_catach3c:abad_pretalk|I'm not moved by your words.
@@ -5116,8 +5116,8 @@ dlga_problema_juicio3:problema_juicio4|{s2}
 ; dlga_abad_dalibro_ps:close_window.1|Take the book. I will not allow you to kill all those people, but a divine curse will fall on you. Now, go away, demon.
 ; dlga_abad_talk:addonstoryabad1|I received your message. Why have you sent for me?
 ; dlga_abad_talk:addonstoryabad1_re|I could be interested in your offer.
-; dlga_abad_talk:addonsthesnakedead|'The Snake' is dead.
-; dlga_abad_talk:abadmorrigan_end1|Morrigan won't be a problem any more.
+dlga_abad_talk:addonsthesnakedead|'Die Schlange' ist tot.
+dlga_abad_talk:abadmorrigan_end1|Morrigan wird kein Problem mehr sein.
 ; dlga_abad_talk:abadmaelbresail_1|We have to talk about Mael Bresail.
 ; dlga_abad_talk:addonsflaithbertach1|I know where Flaithbertach's grandchildren are.
 ; dlga_addonsflaithbertach1:addonsflaithbertach2|That's good news. You're lucky, for my patron wants to hear it directly from you. He is a powerful man who doesn't like long florid stories. When he asks you something, just give him a simple answer. I assure you that if you make a good impression, you will have a bright future. My patron's name is Mael Bresail. You can find him at the court of Aileach.
@@ -5150,11 +5150,11 @@ dlga_addonstoryabad6:addonstoryabad6_1.1|Ich höre.
 ; dlga_addonstoryabad7descendiente1:addonstoryabad8descendiente1|Tell me about this man and why he must die.
 ; dlga_addonstoryabad7descendiente1:addonstoryabad9_1descendiente1|Five thousand peningas? Sounds good, but I want another 1,000 in advance for expenses.
 ; dlga_addonstoryabad7descendiente1:addonstoryabad10descendiente1|Without a doubt, I am your {reg59?woman:man}.
-; dlga_addonstoryabad7descendiente1:addonstoryabad9_2descendiente1|No, I'm not interested. Sorry.
+dlga_addonstoryabad7descendiente1:addonstoryabad9_2descendiente1|Nein, ich bin nicht interessiert. Verzeiht mir.
 ; dlga_addonstoryabad8descendiente1:addonstoryabad9descendiente1|He is called 'the Snake.' He is an exile and descendant of a cursed family who tried to impose their power in Eriu. It took a lot of effort and lives to defeat him, but The 'Snake' escaped.
 ; dlga_addonstoryabad9descendiente1:addonstoryabad9_1descendiente1|Five thousand peningas? Sounds good, but I want another 1,000 for expenses now.
 ; dlga_addonstoryabad9descendiente1:addonstoryabad10descendiente1|Without a doubt, I am your {reg59?woman:man}.
-; dlga_addonstoryabad9descendiente1:addonstoryabad9_2descendiente1|No, I'm not interested. Sorry.
+dlga_addonstoryabad9descendiente1:addonstoryabad9_2descendiente1|Nein, ich bin nicht interessiert. Verzeiht mir.
 ; dlga_addonstoryabad9_1descendiente1:addonstoryabad10descendiente1|Money is not a problem. Take 1,000 peningas. Now, we have a deal.
 ; dlga_addonstoryabad9_2descendiente1:close_window|Very well, I guess you need time to think about it. Come back if you change your mind.
 ; dlga_addonstoryabad10descendiente1:addonstoryabad11descendiente1|Very well. I recommend that you travel with all haste to Scuin. Look for a man there called The 'Snake' in the mead hall. Return quickly once the problem is solved. Godspeed.
@@ -5162,17 +5162,17 @@ dlga_addonstoryabad6:addonstoryabad6_1.1|Ich höre.
 ; dlga_addonstoryabad11descendiente1:close_window.1|I shall certainly do so, pater.
 ; dlga_addonsthesnakedead:addonsthesnakedead2|I know. Our spy sent a messenger with the news. Here is your reward. As you see, my patron is very generous.^^That being said, I have a suggestion. Our spy told us that you had bantered away with The 'Snake' too much. This was a mistake. He could have dissuaded you, and also the less you know about my patron's business, the better it is, for your own sake.
 ; dlga_addonsthesnakedead2:addonsthesnakedead2_1|Is that a threat?
-; dlga_addonsthesnakedead2:addonsthesnakedead3|I understand.
+dlga_addonsthesnakedead2:addonsthesnakedead3|Ich verstehe.
 ; dlga_addonsthesnakedead2:addonsthesnakedead2_2|That's what I do.
 ; dlga_addonsthesnakedead2_1:addonsthesnakedead3|Hardly. I am an abbot, not a killer. It was a suggestion. Do what you want.^^But enough about that. I have another task for you that pays even better.
 ; dlga_addonsthesnakedead2_2:addonsthesnakedead3|It was just a suggestion. You are being paid well for this work, so it would be foolish to annoy your patron.^^But enough about that. I have another task for you that pays even better.
 ; dlga_addonsthesnakedead3:addonsthesnakedead4|There is another danger that threatens Eriu...
 ; dlga_addonsthesnakedead4:addonsthesnakedead4_1|I hope that it is not another murder. I am not an assassin.
-; dlga_addonsthesnakedead4:addonsthesnakedead5|[Say Nothing]
+dlga_addonsthesnakedead4:addonsthesnakedead5|[Nichts sagen.]
 ; dlga_addonsthesnakedead4_1:addonsthesnakedead5|No, thank God. In this case, it is only information. Listen.
 ; dlga_addonsthesnakedead5:addonsthesnakedead6|Across the sea, Caer Meguaidd has become a refuge for the enemies of Eriu. It is a place that breeds intrigues. Two people in particular pose dangers to us - they are Flaithbertach's grandchildren. Your mission is simple: go and find out where they are hiding. As nobody connects you with my patron, you can simply ask the mayor, a man called Donngal, for this information. For this easy task, you will get another 5,000 peningas.
 ; dlga_addonsthesnakedead6:addonsthesnakedead7|We have a deal.
-; dlga_addonsthesnakedead6:addonsthesnakedead8|No, I'm not interested. Sorry.
+dlga_addonsthesnakedead6:addonsthesnakedead8|Nein, ich bin nicht interessiert. Verzeiht.
 ; dlga_addonsthesnakedead8:addonsthesnakedead7|You're working for my boss; I'm just a messenger. I give you information; you do what you want.
 ; dlga_addonsthesnakedead7:addonsthesnakedead9|Donngal has a weakness for gold. I'm sure you'll be able to convince him. Come back as soon as possible with news about the location of Flaithbertach's grandchildren. Good luck.
 ; dlga_addonsthesnakedead9:close_window|You keep those 5,000 peningas handy, for I will return soon.
@@ -5183,7 +5183,7 @@ dlga_addonstoryabad6:addonstoryabad6_1.1|Ich höre.
 ; dlga_addonstoryabad8:addonstoryabad9_2|Can you tell me more about the evil that attacks them?
 ; dlga_addonstoryabad8:addonstoryabad9_3|Ten thousand peningas? Sounds good, but I want 2,000 extra for expenses now.
 ; dlga_addonstoryabad8:addonstoryabad9_4|If these people need help, I will go. Without a doubt, I am your hero.
-; dlga_addonstoryabad8:addonstoryabad9_5|No, I'm not interested. Sorry.
+dlga_addonstoryabad8:addonstoryabad9_5|Nein, ich bin nicht interessiert. Verzeiht.
 ; dlga_addonstoryabad9_1:addonstoryabad10_2|The lords in Eriu are too busy making war on each other, and the area near Bal Luighne is remote and unimportant. I hope my patron didn't make a mistake in selecting you...
 ; dlga_addonstoryabad9_2:addonstoryabad10_1|I have nothing else to add. The news lacks details, and the fishermen are terrified. I think the area leader of Bal Luighne would be the best person to get details from.
 ; dlga_addonstoryabad9_3:addonstoryabad11|As you know, money is not a problem, and I apologize for underestimating your needs. Take 2,000 more peningas. Now, we have a deal.
@@ -5196,7 +5196,7 @@ dlga_addonstoryabad6:addonstoryabad6_1.1|Ich höre.
 ; dlga_addonstoryabad10_1:addonstoryabad9_3|Ten thousand peningas? Sounds good, but I want 2,000 extra for expenses now.
 ; dlga_addonstoryabad10_1:addonstoryabad9_1|Are there not lords of Eriu that can deal with this problem?
 ; dlga_addonstoryabad10_1:addonstoryabad9_4|If these people need help, I will go. Without a doubt, I am your hero.
-; dlga_addonstoryabad10_1:addonstoryabad9_5|No, I'm not interested. Sorry.
+dlga_addonstoryabad10_1:addonstoryabad9_5|Nein, ich bin nicht interessiert. Verzeiht.
 ; dlga_addonstoryabad11:addonstoryabad12|I recommend that you take your best weapons and travel with all haste to Bal Luighne. Look for a man there called Caliacas. Return quickly once the problem is solved. Godspeed.
 ; dlga_addonstoryabad12:close_window|You keep those 10,000 peningas handy, for I will return soon.
 ; dlga_addonstoryabad12:close_window.1|I shall certainly do so, pater.
@@ -5231,26 +5231,26 @@ dlga_abadmaelbresail_8:close_window|Ich bin später wieder zurück.
 ; dlga_abadmaelbresail_7:close_window.2|That's all I need. Farewell.
 ; dlga_abad_talk:abad_quest|Pater, is there anything I can do to help your monastery? 
 ; dlga_abad_quest:abad_quest1|Perhaps. We are building more houses for our new brothers, and we definitely need more timber. Would you be able to bring us {reg33} pallets?
-; dlga_abad_quest:abad_pretalk|No, my son, we don't need your help at the moment
-; dlga_abad_quest1:abad_pretalk|Pater, you can count on me
+dlga_abad_quest:abad_pretalk|Nein, mein Sohn, wir benötigen deine Hilfe momentan nicht.
+dlga_abad_quest1:abad_pretalk|Vater, Sie können auf mich zählen!
 ; dlga_abad_talk:abad_thankyou|Pater, I brought you {reg33} pallets of timber, as you requested.
 ; dlga_abad_thankyou:abad_pretalk|Thank you, {playername}. The brothers of {s3} will be praying nightly for your soul. Amen.
-; dlga_abad_quest1:abad_pretalk.1|Pater, I don't believe I have time for this.
+dlga_abad_quest1:abad_pretalk.1|Vater, ich fürchte dafür habe ich keine Zeit.
 ; dlga_abad_talk:abad_action|Pater, we need God to cleanse us of our sins. Here are 500 peningas for widows and orphans.
 dlga_abad_action:close_window|Ego absolvo te a peccatis tuis, in nomine Patris et Filii et Spiritus Sanctii. Amen. Eure Männer werden sich nun besser fühlen.
-; dlga_abad_talk:abad_talk_conv|Pater, I would like to know more about converting people to the one true faith!
+dlga_abad_talk:abad_talk_conv|Vater, ich würde gerne mehr über die Konvertierung zum einzig wahren Glauben erfahren.
 ; dlga_abad_talk_conv:abad_talk_conv1|Sure, my son. I will be more than happy to talk to you about the matters of Christianity, but I don't have a lot of free time. Would you consider a donation to our monastery? I think 500 peningas will help my brothers make this place even more beautiful.
-; dlga_abad_talk_conv1:abad_talk_conv2|Of course, here is my donation.
-; dlga_abad_talk_conv1:abad_pretalk|Sorry, I don't have this kind of money at the moment.
+dlga_abad_talk_conv1:abad_talk_conv2|Selbstverständlich, hier ist meine Spende.
+dlga_abad_talk_conv1:abad_pretalk|Verzeihen Sie, ich habe nicht genug Geld dabei. 
 ; dlga_abad_talk_conv1:close_window|I really don't see why I should pay you. Good day!
 ; dlga_abad_talk_conv2:abad_talk_conv2a|Thank you, my {reg59?daughter:son}. Our Lord, Jesus Christ will be pleased. Now, about conversion. You see, each settlement has some mix of true Christians, pagans, heretics and, God forbid, atheists. Every day, events affect people's beliefs. Some turn to Christianity, and others abandon it. That effect is fairly insignificant, on balance, unless there is some kind of force that compels people to choose one way over the others. Certain lords and minor adventurers come with a sword and try to force people to change their beliefs. That, of course, is not God's way.
 ; dlga_abad_talk_conv2a:abad_talk_conv2b|Our Lord, Jesus Christ, teaches us that any influence we exert on people should come through convincing, preaching and other non-violent means. However, force of threat produces results that are more spectacular, albeit short-lived. This can be improved by compelling people to build a house of worship and hiring a good priest to teach them. Initially, many people may not like that they are being forced to follow our God, but eventually, through God's Word, they change.
 ; dlga_abad_talk_conv2b:abad_talk_conv3|With persistence and patience, more and more people will turn to the only true faith, just as they have done elsewhere in Europe. The more people are converted, the easier it will be to convert the rest. But please be prepared for setbacks! Initially, it will be a difficult process. If too many people living in that particular place become too angry, they may even riot and burn down the house of worship. Even then, don't despair. Rebuild it and continue with your mission. Also, it helps if your settlement is near a monastery. God bless you, my {reg59?daughter:son}. I pray that your way will be blessed if you decide to follow this path. Amen.
-; dlga_abad_talk_conv3:abad_pretalk|Thank you, father. That was very informative.
+dlga_abad_talk_conv3:abad_pretalk|Habt dank, Vater. Das war sehr lehrreich. 
 ; dlga_abad_talk_conv3:abad_talk_conv4|You mentioned forced conversion...
 ; dlga_abad_talk_conv4:abad_talk_conv4a|Yes, my {reg59?daughter:son}. Some of our more overzealous brothers, especially the ones who consider themselves to be great soldiers, think that chopping off a few heads will force people to abandon their beliefs in favor of Christianity. While it may work to some degree in the very short term, inevitably these people will reconvert to their old gods the moment the sword is back in its sheath. If this is the path that you wish to take, I advise that you have a dozen or so clergymen with you to facilitate the process.
 ; dlga_abad_talk_conv4a:abad_pretalk|Being formidable is important, but it is also essential to be able to speak intelligently and persuasively. Your personality will also play a role. Being bold and courageous should help your case, as opposed to being shy and compassionate. Lastly, I highly recommend that you build up relations with the people first. It is well known that people are more receptive if they trust and like you. May God help you, my {reg59?daughter:son}. Amen.
-; dlga_abad_talk:abad_talk_wine|Pater, I have heard great things about the wine of this monastery. Can I buy some of it?
+dlga_abad_talk:abad_talk_wine|Vater, ich hörte großartiges über den Wein dieses Klosters. Darf ich ein paar Krüge kaufen?
 dlga_abad_talk_wine:abad_talk_wine2|{s4}
 ; dlga_abad_talk_wine:abad_pretalk|Sorry, my {reg59?daughter:son}. We have just sold it to someone else.
 dlga_abad_talk_wine2:abad_pretalk|Sehr gut. Ich möchte welche kaufen.
@@ -5290,16 +5290,16 @@ dlga_abad_talk_wine2:abad_pretalk|Sehr gut. Ich möchte welche kaufen.
 ; dlga_elf_treasure11_1:elf_treasure12|Well, let's continue.
 ; dlga_elf_treasure11_2:elf_treasure12|No, no, I am not a rat! I am a good elf, but I love your silver so much, I can't help it. I will not cheat again, I promise! Listen to my next riddle.
 ; dlga_elf_treasure12:elf_treasure13|Four hang.^Four sprang.^Two find the way.^Two ward off dogs.^One dangles after,^Always rather dirty.
-; dlga_elf_treasure13:elf_treasure15|A cow.
+dlga_elf_treasure13:elf_treasure15|Eine Kuh.
 ; dlga_elf_treasure13:elf_treasure14|Swords.
 ; dlga_elf_treasure13:elf_treasure14.1|A squad of swordsmen.
 ; dlga_elf_treasure13:elf_treasure14.2|Spiders.
 ; dlga_elf_treasure14:elf_treasure16|You are incorrect. Your silver is mine. One more riddle to go!
 ; dlga_elf_treasure15:elf_treasure16|Yes, that has four feet and four udders, two horns and two eyes, and the tail dangles after. Take your prize, and let's continue on to the last riddle.
 ; dlga_elf_treasure16:elf_treasure17|What creature is it that carries men?^It has a bloody back,^Yet shelters the strong^From shaft and point^And all manner of attack.^It gives life to some,^But itself lies down^Inside a soldier's grasp?
-; dlga_elf_treasure17:elf_treasure18|A ship.
-; dlga_elf_treasure17:elf_treasure18.1|A horse.
-; dlga_elf_treasure17:elf_treasure19|A shield.
+dlga_elf_treasure17:elf_treasure18|ein Schiff
+dlga_elf_treasure17:elf_treasure18.1|ein Pferd
+dlga_elf_treasure17:elf_treasure19|ein Schild
 ; dlga_elf_treasure17:elf_treasure18.2|A wall.
 ; dlga_elf_treasure17:elf_treasure18.3|A noose for hanging elves!
 ; dlga_elf_treasure18:elf_treasure20|Incorrect! Your silver is mine!
@@ -5310,13 +5310,13 @@ dlga_abad_talk_wine2:abad_pretalk|Sehr gut. Ich möchte welche kaufen.
 ; dlga_start:close_window.100|--She does not look you in the eye as she speaks to you.--
 ; dlga_start:close_window.101|--He does not look you in the eye as he speaks to you.--
 ; dlga_start:battlestones_treasure1|{s2}^^This is a trading post. Here we buy captured slaves and offer a better price than other sites. If you brought slaves to sell, talk. If not, leave.
-; dlga_battlestones_treasure1:battlestones_treasure3|I have slaves to sell.
+dlga_battlestones_treasure1:battlestones_treasure3|Ich hab Gefangene zu verkaufen.
 ; dlga_battlestones_treasure1:battlestones_treasure2|You're enslaving innocent people. I came to kill you.
 ; dlga_battlestones_treasure1:close_window|Sorry for disturbing you. Farewell.
 ; dlga_battlestones_treasure2:close_window|Well, well, you're a funny {reg59?lady:man}. Now I am going to kill you.
 ; dlga_battlestones_treasure3:battlestones_treasure4|I will pay you according to the quality of the prisoner as do other slave traders and I will add 1 pening on top regardless of their status. That means you will earn one extra pening per slave more than you will anywhere else.
 ; dlga_battlestones_treasure3:close_window|You don't appear to have any slaves to sell. Why are you wasting my time?
-; dlga_battlestones_treasure4:battlestones_treasure5|My slaves are yours. Pay me.
+dlga_battlestones_treasure4:battlestones_treasure5|Meine Gefangenen gehören dir. Bezahlt mich 
 ; dlga_battlestones_treasure4:close_window|I don't want to sell. Farewell.
 ; dlga_battlestones_treasure5:close_window|Nice doing business with you. Come back when you have more slaves for me.
 ; dlga_start:bandit_treasure1|{s2}^^Hey, hey, who are you and what are you doing in my hole?
@@ -5324,17 +5324,17 @@ dlga_abad_talk_wine2:abad_pretalk|Sehr gut. Ich möchte welche kaufen.
 ; dlga_bandit_treasure1:close_window|Sorry for disturbing you. Farewell.
 ; dlga_bandit_treasure2:bandit_treasure3|Well, well, you're a funny {reg59?lady:man} to poke your nose into other people's affairs. You know, I met a man like you once, a real goose... As an old god once said, I will answer all your questions if you solve but a single riddle of mine.
 ; dlga_bandit_treasure3:bandit_treasure4|And what happened to that man?
-; dlga_bandit_treasure3:close_window|I do not have time for this. Farewell.
+dlga_bandit_treasure3:close_window|Dafür hab ich keine Zeit. Lebt wohl.
 ; dlga_bandit_treasure4:bandit_treasure5|That man had only one question to answer... can you imagine, a single question! but he failed and died before the divine. Now you must play this game. I'll ask you a riddle, and if you solve it, I'll answer all your questions, but if you fail, I'll take your soul.
 dlga_bandit_treasure5:bandit_treasure6|{s10}
 ; dlga_bandit_treasure5:bandit_treasure6.1|I like riddles. Let's go.
-; dlga_bandit_treasure5:bandit_treasure6.2|I do not have time for this. Farewell.
+dlga_bandit_treasure5:bandit_treasure6.2|Dafür hab ich keine Zeit. Lebt wohl.
 ; dlga_bandit_treasure6:bandit_treasure7|Actually, I didn't say you have a choice. There is only one option, so let's play. Listen carefully, for your life is at stake, he-he. And the riddle is:^^I cannot be seen. I cannot be felt.^I cannot be heard. I cannot be smelt.^I lie behind stars and under the hills,^And holes, no matter how deep, I can always fill.^I always come first and always follow after.^I end all life. I kill all laughter.
-; dlga_bandit_treasure7:bandit_treasure8|Air.
-; dlga_bandit_treasure7:bandit_treasure8.1|Clouds.
-; dlga_bandit_treasure7:bandit_treasure8.2|Death.
-; dlga_bandit_treasure7:bandit_treasure9|Darkness.
-; dlga_bandit_treasure7:bandit_treasure8.3|Water.
+dlga_bandit_treasure7:bandit_treasure8|Luft
+dlga_bandit_treasure7:bandit_treasure8.1|Wolken
+dlga_bandit_treasure7:bandit_treasure8.2|Tod
+dlga_bandit_treasure7:bandit_treasure9|Finsternis 
+dlga_bandit_treasure7:bandit_treasure8.3|Wasser
 dlga_bandit_treasure7:bandit_treasure8.4|Nichts.
 ; dlga_bandit_treasure7:bandit_treasure8.5|I don't want to play.
 ; dlga_bandit_treasure8:close_window|That's not correct. Now you have a different problem that my friend and I will help to solve.
@@ -5348,7 +5348,7 @@ dlga_druid_refugee:close_window|Habt dank, lebt Wohl.
 ; dlga_druid_pretalk:druid_talk|Welcome, {playername}. I am the last druid.
 ; dlga_druid_talk:druid_angry|I see. It is just an excuse to create your own sect.
 ; dlga_druid_angry:close_window|What? I do not hurt anyone. People who want to come here are free to join us or leave. Why punish me with your presence?
-; dlga_druid_talk:druid_ayuda|Tell me about your gods.
+dlga_druid_talk:druid_ayuda|Erzähl mir mehr über eure Götter.
 ; dlga_druid_talk:close_window|You are mad! I see only evil here! This is a haven for murderers! Farewell.
 ; dlga_druid_talk:close_window.1|I have no need for a man of any god at this time.
 ; dlga_druid_ayuda:druid_ayu|Our gods came largely from two families: the Children of Don and the Children of Llyr. Don was a goddess of the sky, and Llyr was a god of the sea. Don is known as the big mother. Among her children were the god Gwydion and the goddess Arianrod. Gwydion was a god druid, a 'master of illusion and fantasy.' He was a friend and helper of mankind, and a constant fighter against the powers of the underworld, the realm of Annwn.
@@ -5362,8 +5362,8 @@ dlga_druid_refugee:close_window|Habt dank, lebt Wohl.
 ; dlga_druid_sacrifice_2:close_window|-The Druid pronounces your name and opens the throat of a prisoner tied to the post with the ritual knife.^^You close your eyes...-
 ; dlga_druid_ayuda2:druid_venta|I want to sell you all prisoners I brought.
 ; dlga_druid_venta:druid_venta2|Do you have any pretty virgins? Anyways, I will pay you silver according to prisoner quality.
-; dlga_druid_venta2:druid_venta3|Your gods and goddesses will be pleased with such sacrifice material as I bring.
-; dlga_druid_venta2:druid_pretalk|Let me think about it again.
+dlga_druid_venta2:druid_venta3|Eure Götter und Göttinnen werden zufrieden sein mit solch Opfergaben wie ich sie bringe.
+dlga_druid_venta2:druid_pretalk|Lasst mich noch einmal darüber nachdenken.
 ; dlga_druid_venta3:close_window|I'll tell you one thing: we are not here by chance. We are near the ancient Kingdom of Dyfed, a territory connected with Annwn, the Underworld. Here, we are close to all the gods and goddesses, because this is the time of their fall. The gods of Annwn are now the most powerful. I am a follower of Bran, god of the Underworld, whose eminence is most often associated with his 'Wonderful Head.' Bran is also the patron of bards, minstrels, and musicians. You should pray to him.
 ; dlga_druid_ayuda2:druid_angry|Human sacrifices? You're a fool!
 ; dlga_druid_ayuda2:druid_pretalk|Actually, forget this.
@@ -5372,7 +5372,7 @@ dlga_druid_refugee:close_window|Habt dank, lebt Wohl.
 ; dlga_old_talk:close_window|I am {playername}, but I haven't got time for you.
 ; dlga_start:old_grainok|I see that you came loaded with wheat for my people. Thank you!
 ; dlga_start:close_window.102|You... You stole our money and left us without food. I don't want to see you ever again.
-; dlga_start:close_window.103|{playername}, please return with food.
+dlga_start:close_window.103|{playername}, bitte kehrt mit Essen zurück.
 ; dlga_old_grainok:old_grainok2|I like to be of help.
 ; dlga_old_grainok2:old_grainok3|Thank you! We are poor and cannot offer more than our friendship, but whenever you come here, you will be welcome. Moreover, I'll give you one of my sons to serve you as a soldier. He is a strong and brave boy.
 ; dlga_old_grainok3:close_window|I told him to go to pack up and join you when you leave this place. Thank you so much, {playername}. You saved our lives! Now we will return to our caves and hide for a while longer in this terrible world.
@@ -5387,12 +5387,12 @@ dlga_old_sins2:old_continue.1|Rom war riesig, alten Mann.
 ; dlga_old_continue:old_ayuda_2|Oh, it is good you know about the Romans or have at least heard of them. You seem like a person that I can trust. I have a favor to ask... We need your help.
 ; dlga_old_continue2:old_ayuda_2|I understand. For me Rome means nothing. It is part of my past, but only part was Roman. In fact, I am more Briton and Angle than Roman. At any rate, you seem like a person that I can trust. I have a favor to ask... We need your help.
 ; dlga_old_ayuda_2:old_ayuda_3|Recent invasions have complicated things a lot here in the north. We live well hidden in the caves to the east, but come to this place when we need food, for merchants often stop here on their way to trading towns. At present, we've been waiting for weeks and no merchant has come... We had a bad harvest and desperately need food. Could you bring us eight sacks of wheat? I will give you money in advance.
-; dlga_old_ayuda_3:old_ayuda_4|I will be happy to help you.
-; dlga_old_ayuda_3:close_window|I haven't got time for this.
+dlga_old_ayuda_3:old_ayuda_4|Es ist mir eine Freude euch zu helfen.
+dlga_old_ayuda_3:close_window|Ich habe keine Zeit dafür.
 ; dlga_old_ayuda_4:close_window|Thank you. Take this money and return as soon as possible. We have hungry children crying.
 ; dlga_start:quarry_refugee2|I am busy. Talk to the foreman.
 dlga_quarry_refugee2:close_window|Sehr schön, mein guter Man. Lebt wohl.
-; dlga_start:capataz_talk|What do you want? Can't you see that I am busy?
+dlga_start:capataz_talk|Was willst du? Siehst du nicht, dass ich beschäftigt bin?
 dlga_capataz_pretalk:capataz_talk|Ja?
 ; dlga_capataz_talk:capataz_angry|Watch how you speak to me, man, or I shall give you a painful reply.
 ; dlga_capataz_angry:close_window|Bah! I haven't insulted you, and the laws protect us. I have better things to do.
@@ -5404,7 +5404,7 @@ dlga_quarry_work_1:close_window|Ich bin nicht interessiert.
 dlga_quarry_work_1:quarry_work_2|Sehr gut. Ich möchte für einen Tag hier arbeiten.
 ; dlga_quarry_work_2:close_window|The stone down here must be broken out of the earth. Here is a pickaxe.
 ; dlga_capataz_ayuda:close_window|Sorry, my {reg59?lady:lord}, but this place is our place. This place belonged to our fathers and before them, our grandparents. Only my men and my slaves work here.
-; dlga_capataz_talk:capataz_sins|I'd like to buy some of whatever you're mining here.
+dlga_capataz_talk:capataz_sins|Ich würde gerne etwas von dem Zeug, was ihr hier abbaut, kaufen.
 dlga_capataz_sins:capataz_sins2|{s4}
 ; dlga_capataz_sins:capataz_pretalk|Sorry, I have just promised the rest to someone else.
 dlga_capataz_sins2:capataz_pretalk|Sehr gut. Ich möchte welche kaufen.
@@ -5433,14 +5433,14 @@ dlga_capataz_talk2:capataz_venta2|Ich möchte Euch all meine Gefangenen verkaufe
 ; dlga_capataz_venta2:capataz_venta22|Well, I will pay you a flat 30 peningas for each prisoner, as I don't care about their quality or their past. If such things matter to you, I guarantee that they will never escape from here. Do we have a deal?
 dlga_capataz_venta22:capataz_venta32|Ja, dass ist akzeptabel.
 dlga_capataz_venta22:capataz_pretalk2|Lasst mich darüber nachdenken.
-; dlga_capataz_venta32:close_window|Thank you. I could use a few new hands.
+dlga_capataz_venta32:close_window|Danke. Ich könnte weitere Hände gebrauchen.
 ; dlga_capataz_talk2:close_window|I take my leave now.
 ; dlga_start:close_window.106|You're not getting any money from me!
 ; dlga_start:capataz_talk3|Aye, this is a work camp.
 dlga_capataz_pretalk3:capataz_talk3|Wie kann ich sonst noch helfen?
 ; dlga_start:close_window.107|You haven't finished your work yet. As I said, the wood next to me needs to be cut into smaller pieces, and the trees behind this house have to be felled.
 dlga_capataz_talk3:lumber_work_0|Ich würde gern hier arbeiten.
-; dlga_lumber_work_0:lumber_work_1|We have use for a day laborer. We pay four peningas per day.
+dlga_lumber_work_0:lumber_work_1|Tagelöhner können wir gebrauchen. Wir zahlen 4 Pfennige pro Tag. 
 dlga_lumber_work_1:close_window|Ich bin nicht interessiert.
 dlga_lumber_work_1:lumber_work_2|Sehr gut. Ich möchte für einen Tag hier arbeiten.
 ; dlga_lumber_work_2:close_window|The wood next to me needs to be cut into smaller pieces, and the trees behind this house have to be felled. Here is your axe.
@@ -5452,23 +5452,23 @@ dlga_lumber_work_1:lumber_work_2|Sehr gut. Ich möchte für einen Tag hier arbei
 dlga_capataz_talk3:close_window|Ich muss gehen.
 ; dlga_capataz_sins3:capataz_sins23|Of course! {s4}
 ; dlga_capataz_sins3:capataz_pretalk3|Sorry, one of the lords in the area just requisitioned whatever we had.
-; dlga_capataz_sins23:capataz_pretalk3|Very well. I would like to buy some.
+dlga_capataz_sins23:capataz_pretalk3|Sehr gut. Ich möchte gerne welche kaufen.
 ; dlga_start:close_window.108|You are not going to see a pening from us!
 ; dlga_start:farmstead_boss_talk|Welcome to our farm. Please help yourself to some bread and ale. How may I help you?
-; dlga_farmstead_boss_pretalk:farmstead_boss_talk|How else may I help you?
+dlga_farmstead_boss_pretalk:farmstead_boss_talk|Kann ich dir sonst noch helfen?
 ; dlga_farmstead_boss_talk:farmstead_boss_angry|There is trouble in the area, and your farm is so nice. I can protect it -- for a fee.
 ; dlga_farmstead_boss_angry:farmstead_boss_extortion|Trouble? There's no trouble... Oh, I see. Yes, we want no trouble. We will pay you.
 ; dlga_farmstead_boss_extortion:farmstead_boss_pretalk|Well done, my man. I assure you, trouble will stay far from you.
 dlga_farmstead_boss_angry:close_window|Ärger? Belästigt mich noch einmal, und ich zeige euch Ärger!
 ; dlga_start:close_window.109|You haven't finished your work yet. As I said, the hay in the two wheat fields near the courtyard must be piled up.
 dlga_farmstead_boss_talk:farmstead_work_0|Ich würde gern hier arbeiten.
-; dlga_farmstead_work_0:farmstead_work_1|We have a use for a day laborer. We pay three peningas per day.
+dlga_farmstead_work_0:farmstead_work_1|Tagelöhner können wir gebrauchen. Wir zahlen 3 Pfennige pro Tag. 
 dlga_farmstead_work_1:close_window|Ich bin nicht interessiert.
 dlga_farmstead_work_1:farmstead_work_2|Sehr gut. Ich möchte für einen Tag hier arbeiten.
 ; dlga_farmstead_work_2:close_window|The hay in the two wheat fields near the courtyard must be piled up. Here is a pitchfork.
 ; dlga_farmstead_boss_talk:farmstead_boss_ayuda|I see some of your men are loitering around. Can I hire some of them?
 ; dlga_farmstead_boss_ayuda:farmstead_boss_ayuda2|To tell the truth, my {reg59?lady:lord}, my servants and slaves breed like rabbits and eat too much of the produce. It would please me to sell the excess, and I'll give you a good price. One hundred peningas for the lot.
-; dlga_farmstead_boss_ayuda2:farmstead_boss_ayuda3|Sounds good. Here is the money, how many men can you give me?
+dlga_farmstead_boss_ayuda2:farmstead_boss_ayuda3|Klingt gut. Hier ist das Geld, wie viele Männer könnt ihr mir geben?
 dlga_farmstead_boss_ayuda2:farmstead_boss_pretalk|Oh, ich fürchte, ich bin nicht einverstanden. Das ist ein wenig übertrieben.
 dlga_farmstead_boss_ayuda3:farmstead_boss_pretalk|{reg0} Burschen in allen.
 dlga_farmstead_boss_talk:farmstead_boss_sins|Was habt ihr anzubieten?
@@ -5483,14 +5483,14 @@ dlga_farmstead_boss_cattle:farmstead_boss_cattle1|Wir können das schaffen {Play
 dlga_farmstead_boss_cattle1:farmstead_boss_pretalk|Habt Dank.
 ; dlga_start:reeve_begin|Good day, {reg59?my lady:my lord}.
 ; dlga_start:reeve_talk|Hello, stranger. You seem to be new to {s9}. I am the reeve of this fort.
-; dlga_start:reeve_begin.1|Good day, {playername}.
+dlga_start:reeve_begin.1|Guten Tag, {playername}.
 ; dlga_reeve_begin:reeve_friendly_pretalk|I have heard that you found the perpetrator and recovered my valuable {s13}. You are really as good as they say. Here is your reward: {reg5} peningas.
 ; dlga_reeve_begin:close_window|I heard that you lost a fight against the runaway guard and my valuable {s9} is gone forever. I am very disappointed, {playername}, as I've heard so many good things about your reliability. 
 ; dlga_reeve_begin:reeve_friendly_pretalk.1|I have heard about your deeds. You have given those bandits the punishment they deserved. You are really as good as they say. Here is your reward: {reg5} peningas. I would like to give more but those bandits almost brought me to bankruptcy.
 dlga_reeve_begin:reeve_talk|Was kann ich für dich tun?
 dlga_reeve_friendly_pretalk:reeve_talk|Nun... Was kann ich sonst noch für dich tun?
 dlga_reeve_pretalk:reeve_talk|Ja?
-; dlga_reeve_talk:reeve_info_begin|Can you tell me about what you do?
+dlga_reeve_talk:reeve_info_begin|Könnt Ihr mir etwas über Eure Tätigkeit erzählen?
 dlga_reeve_info_begin:reeve_info_talk|{s11}
 dlga_reeve_info_talk:reeve_info_lord|Wer ist der Herr dieser Feste?
 ; dlga_reeve_info_lord:reeve_info_talk|This fort's lord and protector is {s10}. {s10} resides here and collects taxes from the local populace. However, when my lord is not around, I manage matters and execute the law in my lord's stead. As the castle's reeve, I have the authority to decide those things.{s33}
@@ -5521,14 +5521,14 @@ dlga_reeve_talk:merchant_quest_requested.1|Bezüglich des Auftrages, welchen Ihr
 dlga_reeve_talk:merchant_quest_about_job|Bezüglich der Aufgabe, die Ihr mir erteilt hattet...
 ; dlga_start:mayor_begin|Good day, {reg59?my lady:my lord}.
 ; dlga_start:mayor_talk|Hello stranger, you seem to be new to {s9}. I am the mayor of the town.
-; dlga_start:mayor_begin.1|Good day, {playername}.
+dlga_start:mayor_begin.1|Guten Tag, {playername}.
 ; dlga_mayor_begin:lord_persuade_lords_to_make_peace_completed|{playername}, it was an incredible feat to get the {s14} and the {s15} to make peace, and you made it happen. Your involvement has not only saved our town from disaster, but it has also saved thousands of lives, and put an end to all the grief this bitter war has caused. As the townspeople of {s19}, know that we'll be good on our word, and we are ready to pay the {reg12} peningas we promised.
-; dlga_lord_persuade_lords_to_make_peace_completed:lord_persuade_lords_to_make_peace_pay|Thank you. Let me have the money.
+dlga_lord_persuade_lords_to_make_peace_completed:lord_persuade_lords_to_make_peace_pay|Habt Dank. Gebt mir das Geld.
 ; dlga_lord_persuade_lords_to_make_peace_completed:lord_persuade_lords_to_make_peace_no_pay|No need for a payment. I only did what was right.
 ; dlga_lord_persuade_lords_to_make_peace_pay:close_window|Oh, yes, of course. We had already got the money for you. Here, please accept these {reg12} peningas together with our most sincere thanks. Me and the people of our town will not forget your help.
 ; dlga_lord_persuade_lords_to_make_peace_no_pay:close_window|You are indeed an extraordinary person, {reg59?madame:sir}, and it is an honour for me to have known you. You not only did what was impossible and put an end to this terrible war, but you won't even accept a reward for it. Very well, I will not insist on the matter, but please know that you will have our eternal respect and gratitude.
 ; dlga_mayor_begin:lord_deal_with_night_bandits_completed|Very nice work, {playername}, you made short work of those lawless curs. Thank you kindly for all your help, and please accept this bounty of 150 peningas.
-; dlga_lord_deal_with_night_bandits_completed:close_window|It was my pleasure, {s65}.
+dlga_lord_deal_with_night_bandits_completed:close_window|Es war mir eine Ehre, {s65}.
 ; dlga_mayor_begin:mayor_looters_quest_response|Ah, {playername}. Do you have any progress to report?
 dlga_mayor_looters_quest_response:mayor_looters_quest_destroyed|Ich habe einige Plünderer getötet.
 dlga_mayor_looters_quest_response:mayor_looters_quest_goods|Ich habe Ihnen ein paar Waren mitgebracht.
@@ -5560,7 +5560,7 @@ dlga_move_cattle_herd_failed:move_cattle_herd_failed_2.1|Es tut mir leid. Die d�
 dlga_mayor_begin:mayor_talk|Was kann ich für dich tun?
 dlga_mayor_friendly_pretalk:mayor_talk|Nun... Was kann ich sonst noch für dich tun?
 dlga_mayor_pretalk:mayor_talk|Ja?
-; dlga_mayor_talk:mayor_info_begin|Can you tell me about what you do?
+dlga_mayor_talk:mayor_info_begin|Könnt Ihr mir etwas über Eure Tätigkeit erzählen?
 ; dlga_mayor_talk:mayor_dongall_quest1|I've heard that the grandchildren of Flaithbertach are here. Did you know that?
 ; dlga_mayor_talk:mayor_dongall_quest6|About Flaithbertach's grandchildren...
 ; dlga_mayor_dongall_quest1:mayor_dongall_quest2|Yes, everyone has heard of them. The children of the son of Flaithbertach mac Niall, the brother of Aed mac Niall, ri h-Erenn uile, called 'Findliath,' or 'Fair Warrior.' Flaithbertach's untimely death gave Aed access to the throne of Aileach. Flaithbertach's family had a bad end too, but two of his children escaped with the two grandchildren. I heard that one of the two who escaped died recently. I feel sorry for him. So very tragic.

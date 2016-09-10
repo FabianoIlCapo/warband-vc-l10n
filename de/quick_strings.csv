@@ -759,7 +759,7 @@ qstr_You_lose_{reg12}_ren|Ihr verliert {reg12} Ansehen.
 qstr_Your_relation_with_{|Euer Verhältnis mit {s1} hat sich verbessert.
 qstr_Your_relation_with_{s|Euer Verhältnis mit {s1} hat sich verschlechtert.
 qstr_You_have_angered_the|Ihr habt sie verärgert.
-; qstr_You_have_appeased_th|You have appeased them.
+qstr_You_have_appeased_th|Du hast sie besänftigt.  
 qstr_You_gain_reputation.|Sie gewinnen Ruf.
 qstr_You_lose_reputation.|Ihr verliert an Ehre.
 qstr_Now_your_reputation_|Jetzt ist Ihr Ruf {reg1}
@@ -1435,7 +1435,7 @@ qstr_Today_is_a_good_day_|Heute ist ein guter Tag zum sterben, nicht wahr? "
 qstr_The_battle_against_t|Der Kampf gegen die Banditen war hart, aber Ihr habt gesiegt. Beim aufnehmen der Überreste aus einem Loch, das sie zwischen den Felsen gruben, findet Ihr ein Vermögen in Geld.
 qstr_You_have_killed_all_|Ihr habt die Wikinger getötet und die Sklaven befreit. Dadurch erhaltet Ihr Ruhm und ansehen.
 qstr_You_look_up_and_see_|Ihr schaut und seht, dass dieses Dorf bereits von den Wikingern geplündert wurde, und jetzt seid Ihr ihre neue Beute.
-; qstr_After_a_hard_battle_|After a hard battle, you've defeated the Vikings who attempted to ambush you. Now their riches are yours, but you are especially happy to see a few pieces of chain mail.
+qstr_After_a_hard_battle_|Nach einem schweren Gefecht, hast du die Wikinger, welche versuchten dir aufzulauern,besiegt. Nun gehören ihre Reichtümer euch, aber du bist besonders froh darüber ein paar Bestandteile eines Kettenhemdes zu sehen.
 qstr_If_you_want_to_cross|Wenn Ihr die Brücke überqueren wollt, müsst Ihr den Troll bezahlen!"
 qstr_The_troll_is_dead_at|Der Troll liegt tot zu Euren Füßen, sodass Ihr den Schatz von den erpressten Reisenden und ihrer Gruppe erhaltet.
 ; qstr_Come_closer_closer_c|Come closer, closer come, I'm here, almost nigh. So long I've been alone. Come and win a prize!
@@ -1496,7 +1496,7 @@ qstr_Try_to_flee!_|Versucht zu fliehen!
 ; qstr_A_stranger_shouts__Q|A stranger shouts, 'Quick. Back to camp. You're in danger!'
 ; qstr_An_attacker_yells__W|An attacker yells, 'Who are you, woman? Anyway, you're too late! {playername}, the jarl of Kennemer wants your head. You were a fool to walk away from your camp. Now you're going to die! Greet Hell for me!'
 ; qstr_Not_far_in_the_dista|Not far in the distance are Snotingaham's walls. Exit the forest and walk towards them.
-; qstr_You_run_into_the_for|You run into the forest and manage to flee.
+qstr_You_run_into_the_for|Du rennst in den Wald und schaffst es zu fliehen.
 ; qstr_Your_mission_is_to_f|Your mission is to follow the road to Snotingaham on the other side of the forest, avoiding the Mercians patrols.^^If you feel lost at some point, press the K key to remember these goals.
 ; qstr_On_a_hill_taking_adv|On a hill, taking advantage of the natural defenses, the Danish have set camp. You notice that there are many tents, and must accommodate more than 200 men.
 ; qstr_Aescendun_is_the_pla|Aescendun is the place chosen by the Saxons to regroup. It cuts off the way into Wessex for the Danish.
@@ -1996,8 +1996,8 @@ qstr_You_feel_happy.|Du fühlst dich glücklich.
 ; qstr_Your_men_appreciate_|Your men appreciate your concern for their families.
 ; qstr_Your_men_are_unhappy|Your men are unhappy that you don't take care of their widows.
 ; qstr_Your_men_are_unhappy_|Your men are unhappy that you don't take care of their widows, but understand you are strapped at the moment.
-; qstr_Your_men_are_upset_t|Your men are upset that you won't take care of their widows if they are killed.
-; qstr_Your_men_are_happy_to|Your men are happy to hear that you care about their families.
+qstr_Your_men_are_upset_t|Deine Männer befürchten, dass du dich nicht um ihre Witwen sorgen wirst sobald sie gefallen sind.
+qstr_Your_men_are_happy_to|Deine Männer sind froh zu hören, dass dich um ihre Familien kümmern wirst. 
 ; qstr_Your_men_are_very_ha|Your men are very happy that you protect their families.
 ; qstr_Your_followers_feel_|Your followers feel that you will protect them at any cost, but the people in {s4} are not very happy with your decision. They criticize you when you leave, generating unfavorable rumors.
 ; qstr_Your_followers_feel_t|Your followers feel that you do not protect them as they deserve for their services, but the people in {s4} are very happy with your decision. The rumor spreads that you are just.
@@ -2436,7 +2436,7 @@ qstr_{playername}_when_we|{playername}, als wir unseren langen Marsch begannen, 
 ; qstr_Well_I_guess_I_can_ad|Well, I guess I can admit defeat. We will leave the fort, but I want your promise that you will not attack us.
 ; qstr_We_are_ready_to_leav|We are ready to leave this fort to you and march away if you give me your word of honour that you'll let us leave unmolested.
 ; qstr_There_comes_a_time_wh|There comes a time when every good leader must be responsible for the welfare of his men. We leave the fort. I want your promise that you will not attack us.
-; qstr_You_re_nothing_but_s|You're nothing but scum. You should leave before we kill you.
+qstr_You_re_nothing_but_s|Du bist nichts als Abschaum. Verschwinde oder wir töten dich.
 ; qstr_You_re_wasting_your_|You're wasting your time. Attack us -- if you have the courage.
 ; qstr_You_have_called_me_f|You have called me for this? We would never surrender to the likes of you.
 ; qstr_Surrender?_Hah!_We_c|Surrender? Hah! We can hold these walls until we all die of old age, while you most assuredly won't.
@@ -2834,8 +2834,8 @@ qstr_Mark_my_words_{reg59|Merke dir meine Worte, {reg59?woman:man}. Wenn Sigurd 
 ; qstr___He_laughs_loudly._|--He laughs loudly.--
 ; qstr_{s9}_wants_you_find_|{s9} wants you find and speak with {s3} of the {s4} to give him your oath of homage. Then, he wants you to return for an assignment.
 ; qstr_As_he_rejoins_his_br|As he rejoins his brothers to decide what to do about the letter of Bodo, {s11} has asked you to go to the Kingdom of Alban, conquer {s3} and keep it twenty days to weaken the Picts and secure the rear of the Danish in Northhymbre.
-; qstr___He_takes_a_deep_bre|--He takes a deep breath.--
-; qstr___He_smiles_pleased.|--He smiles, pleased.--
+qstr___He_takes_a_deep_bre|--Er atmet tief ein.--
+qstr___He_smiles_pleased.|--Er lächelt, zufrieden.--
 ; qstr_The_time_to_meet_with_|The time to meet with the troops from the Kingdom of Asturias has arrived. Bodo's letter indicates that they will dock at {s3}, and {s11} wants you go there and meet with them. There is a traitor. Use him to gain favor with the Asturian troops and bring them to the side of the sons of Ragnar. But if you fail to convince them, {s11} wants them destroyed.^^But before you leave Englaland, you must go to {s3} and talk to the old captain at the port, as {s11} has gathered men and ships to help you in Douar-an-Enez.
 ; qstr_The_king_wants_no_le|The king wants no letters. You have been sent to speak to his brother, {s11}.
 ; qstr___He_takes_the_letter_|--He takes the letter from your hands, and you see his fingers are stained with ink. Aelfred reads the letter slowly, absorbing with interest all that it contains. After reading it, without saying anything, Aelfred calls Bodo and takes him aside a few meters, where they talk a long time. --
@@ -2853,12 +2853,12 @@ qstr_{s13}_asked_you_to_ga|{s13} bat Euch, {reg3} Stück Vieh zusammen zu treibe
 qstr_{s13}_asked_you_to_gat|{s13} bat Euch, {reg3} Stück Vieh zusammen zu treiben und sie erst nach Aescesdun und dann zu ihm zu bringen.
 ; qstr___He_puts_his_hand_on_|--He puts his hand on your shoulder and looks into your eyes.--
 ; qstr_You_ve_joined_your_a|You've joined your army to that of {s11}, which awaits the arrival of the great Danish army. It seems that the fate of West Seaxe will be decided soon.
-; qstr___He_pats_your_back.|--He pats your back.--
+qstr___He_pats_your_back.|--Er tätschelt euch den Rücken.--
 ; qstr_You_must_enter_the_se|You must enter the service of {s11} and prepare for the battle ahead.
-; qstr___Halfdan_laughs_lou|--Halfdan laughs loudly.--
+qstr___Halfdan_laughs_lou|--Halfdan lacht laut auf.--
 ; qstr___He_confidently_tou|--He confidently tousles your hair.--
 qstr_{s13}_asked_you_to_gath|{s13} bat Euch, {reg3} Stück Vieh zusammen zu treiben und sie erst nach Readingum und dann zu ihm zu bringen.
-; qstr___He_hugs_you_tightl|--He hugs you tightly, like a bear.--
+qstr___He_hugs_you_tightl|--Er umarmt euch, wie ein Bär.--
 ; qstr_You_ve_joined_your_ar|You've joined your army to that of {s11}, which is ready to march on the Saxons in Aescesdun. It seems that the fate of West Seaxe will be decided soon.
 ; qstr_{s9}_told_you_that_S|{s9} told you that Sven Bull Neck has gone to Readingum, where he has taken over. It's time to finish what started on the Woden Ric. Sven Bull Neck cannot escape again. Go to Readingum.
 ; qstr_You_are_an_enemy_of_|You are an enemy of my kingdom.

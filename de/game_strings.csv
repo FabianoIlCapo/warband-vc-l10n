@@ -581,12 +581,12 @@ str_npc13_signup_response_1|Gut. Ich bin glücklich jemanden wie euch einzustell
 ; str_npc15_signup_response_2|You know, now that I think about it, I won't need your expertise for the foreseeable future.
 ; str_npc16_signup_response_2|To be honest, I'd prefer someone who is not a religious fanatic.
 ; str_npc1_payment|I will be very useful to you, {reg59?madame:sir}, you can bet on that. Just one more thing before we leave, would you mind lending me {reg3} peningas? I am ashamed to say it, but I have made myself a bit of debt here, staying in this tavern over the last few weeks, and the tavern owners no longer believe that I am loaded with silver as I used to tell them. You know, things could get ugly here if they see me leaving with you before paying them.
-; str_npc2_payment|Before I sign up, I will need 300 coins here.
+str_npc2_payment|Bevor ich beitrete, bräuchte ich 300 Münzen im voraus.
 str_npc3_payment|Dann werde ich Eure Feinde für Euch bekämpfen.
 ; str_npc4_payment|Before we depart, would you be so kind as to lend me {reg3} peningas? I had to pawn a family heirloom at a pawnbroker here in {s20}, and I would like to retrieve it before we leave.
 ; str_npc5_payment|Thank you. Now, to seal off our agreement, I ask for {reg3} peningas from you, so I can adequately equip myself with armor and weapons necessary to fill my new obligations to you.
 str_npc6_payment|Bevor ich zustimme, benötige ich 300 Pfennige als Bezahlung.
-; str_npc7_payment|All right, then. I will come with you, but I want a payment of {reg3} peningas first. You aren't expecting me to work for free, are you?
+str_npc7_payment|In Ordnung... Ich werde mit euch kommen, aber als Bezahlung erwarte ich {reg3} Münzen. Du hast doch nicht geglaubt das ich umsonst arbeite, oder ?
 str_npc8_payment|Dann werde ich Eure Feinde für Euch bekämpfen.
 ; str_npc9_payment|That's very good of you, but before I join, can you lend me {reg3} peningas, so that I can buy some proper clothing that befits a gentleman of noble birth like me? The coat on me has worn badly due to my recent bad fortune, and I cannot let common soldiers mistake me as one of their own.
 ; str_npc10_payment|That's good news, but I'll ask for one last thing, warlord. I have a woman here in {s20}, a happy widow, and she says she has my child in her belly. Damn, she is a Brythonic wench, but I want to give her some money before I leave... for the child, you know. Even if the child's only half-Saxon, it still deserves some future. Do you think you can spare {reg3} peningas?
@@ -1220,7 +1220,7 @@ str_comment_intro_female_famous_pitiless|Ich kenne Euren Namen. Er bringt Furcht
 ; str_comment_i_quarreled_with_troop_over_woman|It is well known that {s51} paid suit to {s54} while I was also courting her. He is unworthy of her attentions, and I intend to teach him to keep his distance from her.
 ; str_comment_i_quarreled_with_you_over_woman_default|I hear that you have been paying suit to {s54}. I do not believe that you are worthy of a fair lady such as her, and would strongly encourage you to cease pursuing her.
 ; str_comment_i_quarreled_with_you_over_woman_derisive|I hear that you have been paying suit to {s54}. Let me tell you something -- I've had my eye on that one ever since I was a lad, and she was a lass. She's a high-born lady of this realm and should not be demeaned by a foreigner's crude attentions. Keep away from her, or expect to pay the price!
-; str_comment_player_suggestion_succeeded|I followed your suggestion, and profited much by your advice.
+str_comment_player_suggestion_succeeded|Ich habe eurer Empfehlung folge geleistet und sehr davon profitiert.
 ; str_comment_player_suggestion_failed|I followed your suggestion and met with disaster, and I hold you responsible.
 ; str_comment_you_enfiefed_a_commoner_hesitant|I understand that you have given {s51} to a commoner who calls himself {s54}. Be careful. To learn the art of governance is no easy task, and perhaps it is best that fathers pass it on to their sons. I advise you against tampering with the institution of lordship.
 ; str_comment_you_enfiefed_a_commoner_derisive|I understand that you have given {s51} to a commoner who calls himself {s54}. Do not the ancients warn us against making royal robes out of the hides of pigs?
@@ -1236,7 +1236,7 @@ str_comment_intro_female_famous_pitiless|Ich kenne Euren Namen. Er bringt Furcht
 ; str_martial|martial
 ; str_quarrelsome|bad-tempered
 ; str_selfrighteous|pitiless
-; str_cunning|cunning
+str_cunning|scharfsinnig
 ; str_debauched|sadistic
 ; str_goodnatured|good-natured
 ; str_upstanding|upstanding
@@ -1256,11 +1256,11 @@ str_comment_intro_female_famous_pitiless|Ich kenne Euren Namen. Er bringt Furcht
 ; str_surrender_offer_quarrelsome|Enough! You win today, you dog! Ach, the shame of it!
 ; str_surrender_offer_pitiless|I yield! You have won. Cursed be this day!
 ; str_surrender_offer_cunning|Stop! I yield to you!
-; str_surrender_offer_sadistic|I give up! I give up! Call back your dogs!
+str_surrender_offer_sadistic|Ich gebe auf! Ich gebe auf! Ruft eure Hunde zurück!
 ; str_surrender_offer_goodnatured|I yield! Congratulations on your victory, {reg59?madame:sir}!
 ; str_surrender_offer_upstanding|I yield! Grant me the honours of war, and do yourself credit!
 ; str_lord_declines_negotiation_offer_default|That may be, but I wish to fight with you
-; str_lord_declines_negotiation_offer_martial|That may be, but it is my duty to fight with you
+str_lord_declines_negotiation_offer_martial|Das könnte sein , aber es ist meine Pflicht mit euch zu kämpfen!
 ; str_lord_declines_negotiation_offer_quarrelsome|Hah! I want to fight with you
 ; str_lord_declines_negotiation_offer_pitiless|Why should I care? I wish to fight with you
 ; str_lord_declines_negotiation_offer_cunning|Ah. Unfortunately, you see, I wish to fight with you
@@ -1269,7 +1269,7 @@ str_comment_intro_female_famous_pitiless|Ich kenne Euren Namen. Er bringt Furcht
 ; str_lord_declines_negotiation_offer_upstanding|That may be, but my duty to my liege requires me to fight with you
 ; str_prisoner_released_default|You have my gratitude, {reg59?madame:sir}. I shall not forget your kindness.
 ; str_prisoner_released_martial|You are indeed a {reg59?woman:man} of honour, {reg59?madame:sir}. I shall not forget this!
-; str_prisoner_released_quarrelsome|I'm free? Well... Good bye, then.
+str_prisoner_released_quarrelsome|Ich bin frei? Nun gut... dann gehabt euch wohl.
 ; str_prisoner_released_pitiless|Thank you. When you are finally defeated, I will request for your death to be swift and merciful. Unless, that is, you care to join us... Good bye, for now.
 ; str_prisoner_released_cunning|Am I? You are a good {reg59?woman:man}. I will try to find a way to repay you.
 ; str_prisoner_released_sadistic|Am I? So refined is your cruelty, that you would rather see me free and humiliated than in chains. Enjoy your triumph!
@@ -1325,17 +1325,17 @@ str_enemy_meet_sadistic|Wer seid ihr? Sprecht schnell, bevor ich euch die Zunge 
 ; str_unprovoked_attack_upstanding|I consider this an unprovoked assault and will protest to your king. Why do you do this?
 ; str_unnecessary_attack_default|I will not hesitate to cut you down if pressed, but I will offer you the chance to ride away from this.
 ; str_unnecessary_attack_martial|I am eager to take you up on your challenge, {reg59?madame:sir}, although I will give you a moment to reconsider.
-; str_unnecessary_attack_quarrelsome|Bah! I'm in no mood for this nonsense today. Get out of my way.
+str_unnecessary_attack_quarrelsome|Bah! Ich bin heute nicht in der Stimmung für so einen Quatsch! Geht mir aus dem Weg!
 ; str_unnecessary_attack_pitiless|I am in a merciful mood today. I will pretend that I did not hear you.
 ; str_unnecessary_attack_cunning|I don't see what you have to gain by making an enemy of me. Maybe you should just ride away.
 ; str_unnecessary_attack_sadistic|I have no time to waste on a worm like you. Get out of my way.
 ; str_unnecessary_attack_goodnatured|I don't see what you have to gain by picking a fight, {reg59?madame:sir}. You can still ride away.
 ; str_unnecessary_attack_upstanding|If a fight is what you wish, {reg59?madame:sir}, then you will have one, but I will yet offer you the chance to back down.
 str_lord_challenged_default|Wie ihr wünscht, macht euch bereit zu sterben!
-; str_lord_challenged_martial|So be it. Defend yourself!
+str_lord_challenged_martial|So sei es! Verteidigt euch!
 ; str_lord_challenged_quarrelsome|You impudent whelp! I'll crush you!
 ; str_lord_challenged_pitiless|If you so badly wish to die, then I have no choice but to oblige you.
-; str_lord_challenged_cunning|Well, if you leave me no choice...
+str_lord_challenged_cunning|Nun gut, Ihr lasst mir keine Wahl...
 ; str_lord_challenged_sadistic|You heap of filth! I'll make you wish you'd never been born.
 ; str_lord_challenged_goodnatured|Very well. I had hoped that we might avoid coming to blows, but I see that I have no choice.
 ; str_lord_challenged_upstanding|So be it. It saddens me that you cannot be made to see reason.
@@ -1372,7 +1372,7 @@ str_lord_challenged_default|Wie ihr wünscht, macht euch bereit zu sterben!
 ; str_lord_derogatory_goodnatured|hopelessly naive
 ; str_lord_derogatory_upstanding|stiff-necked and sanctimonious
 str_lord_derogatory_result|bringen uns zu den Ruinen
-; str_lord_derogatory_martial_action|attack the enemy without thought or plan, and throw away the lives of your men
+str_lord_derogatory_martial_action| Wenn du den Feind ohne Verstand oder einen Plan angreifst, würdest du das Leben deiner Männer einfach wegwerfen. 
 ; str_lord_derogatory_quarrelsome_action|pick fights with other lords, leaving us divided and weak
 ; str_lord_derogatory_pitiles_action|alienate the commons, provoking revolt and mutiny
 ; str_lord_derogatory_cunning_action|cut a deal with the enemy behind our back
@@ -1405,7 +1405,7 @@ str_lord_derogatory_result|bringen uns zu den Ruinen
 ; str_political_philosophy_custodian|A good ruler creates the proper conditions for people to prosper. Personally, I intend to use my wealth to create more wealth, for myself and for the common benefit.
 ; str_rebellion_prior_argument_very_favorable|I have already heard some arguments for supporting your candidate for the throne, and I tend to agree with them.
 ; str_rebellion_prior_argument_favorable|I have already heard some arguments for supporting your candidate for the throne, and I tend to agree with them.
-; str_rebellion_prior_argument_unfavorable|I have already heard some arguments for supporting your candidate for the throne, but I do not find them convincing.
+str_rebellion_prior_argument_unfavorable|Ich hörte bereits einige Argumente für die Unterstützung eures Thronanwärters, aber ich fand sie nicht überzeugend. 
 ; str_rebellion_prior_argument_very_unfavorable|I have already heard some arguments for supporting your candidate for the throne, but I disagree with most of them.
 ; str_rebellion_rival_martial|{s49} your ally {s44} once questioned my honour and my bravery. It's not often I get the chance to face him in battle, and make him retract his statement.
 ; str_rebellion_rival_quarrelsome|{s49} you're working with {s44}. He's a crafty weasel, and I don't trust him one bit.

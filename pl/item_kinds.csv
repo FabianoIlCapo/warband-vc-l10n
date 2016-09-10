@@ -182,12 +182,12 @@ itm_book_intelligence_pl|Paideia
 ; itm_book_surgery_reference_pl|Synopsis of Aelius Galenus
 ; itm_relic|The Cathach of Colum Cille
 ; itm_relic_pl|The Cathach of Colum Cille
-; itm_mead|Mead
-; itm_mead_pl|Mead
+itm_mead|Miód
+itm_mead_pl|Miód
 itm_salt|Sól
 itm_salt_pl|Sól
-; itm_tar|Tar
-; itm_tar_pl|Tar
+itm_tar|Smoła
+itm_tar_pl|Smoła
 ; itm_jewelry|Jewellery
 ; itm_jewelry_pl|Jewellery
 itm_raw_flax|Paczka lnu
@@ -230,18 +230,18 @@ itm_vc_honey|Miód
 itm_vc_honey_pl|Miód
 itm_sausages|Kiełbasa
 itm_sausages_pl|Kiełbasa
-; itm_cabbages|Vegetables
-; itm_cabbages_pl|Vegetables
+itm_cabbages|Warzywa
+itm_cabbages_pl|Warzywa
 itm_dried_meat|Suszone mięso
 itm_dried_meat_pl|Suszone mięso
 itm_apples|Owoce
 itm_apples_pl|Owoce
 ; itm_barley|Barley
 ; itm_barley_pl|Barley
-; itm_venison|Boar Meat
-; itm_venison_pl|Boar Meat
-; itm_grain|Wheat
-; itm_grain_pl|Wheat
+itm_venison|Mięso z dzika
+itm_venison_pl|Mięso z dzika
+itm_grain|Pszenica
+itm_grain_pl|Przenica
 itm_cattle_meat|Wołowina
 itm_cattle_meat_pl|Wołowina
 itm_bread|Chleb
@@ -262,34 +262,34 @@ itm_common_horse|Koń
 itm_common_horse_pl|Koń
 itm_common_horse2|Koń
 itm_common_horse2_pl|Koń
-; itm_common_pony|Pony
-; itm_common_pony_pl|Pony
-; itm_common_pony2|Pony
-; itm_common_pony2_pl|Pony
+itm_common_pony|Kuc
+itm_common_pony_pl|Kuc
+itm_common_pony2|Kuc
+itm_common_pony2_pl|Kuc
 itm_wild_horse|Koń
 itm_wild_horse_pl|Koń
 itm_wild_horse2|Koń
 itm_wild_horse2_pl|Koń
-; itm_wild_pony|Pony
-; itm_wild_pony_pl|Pony
-; itm_wild_pony2|Pony
-; itm_wild_pony2_pl|Pony
-; itm_cow1|Cow
-; itm_cow1_pl|Cow
-; itm_cow2|Cow
-; itm_cow2_pl|Cow
+itm_wild_pony|Kuc
+itm_wild_pony_pl|Kuc
+itm_wild_pony2|Kuc
+itm_wild_pony2_pl|Kuc
+itm_cow1|Krowa
+itm_cow1_pl|Krowa
+itm_cow2|Krowa
+itm_cow2_pl|Krowa
 itm_arrows|Strzały
 itm_arrows_pl|Strzały
-; itm_khergit_arrows|Piercing Arrows
-; itm_khergit_arrows_pl|Piercing Arrows
+itm_khergit_arrows|Strzały Przeszywające
+itm_khergit_arrows_pl|Strzały Przeszywające
 itm_barbed_arrows|Strzały kolczaste
 itm_barbed_arrows_pl|Strzały kolczaste
 itm_bodkin_arrows|Strzały szydłowe
 itm_bodkin_arrows_pl|Strzały szydłowe
 itm_bolts|Bełty
 itm_bolts_pl|Bełty
-; itm_bolts2|Piercing Bolts
-; itm_bolts2_pl|Piercing Bolts
+itm_bolts2|Bełty Przeszywające
+itm_bolts2_pl|Bełty Przeszywające
 ; itm_bolts3|Barbed Bolts
 ; itm_bolts3_pl|Barbed Bolts
 ; itm_bolts4|Bodkin Bolts

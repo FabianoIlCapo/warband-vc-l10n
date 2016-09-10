@@ -184,7 +184,7 @@ mno_wait_24_hours|Aspetta fino a domani.
 menu_siege_plan|Ti incontri con i tuoi consulenti per pianificare l'assedio e cercare di conquistare {s4} con le minor perdite possibili. La tua strategia potrebbe essere quello di portare il posto alla carestie e alla demoralizzazione.^^{s15} {s17} {s18} {s19} {s20}
 mno_build_circunvalation|Bloccare: costruisce posti di blocco intorno {s4}
 mno_close_circunvalation|I posti di blocco sono Completati. Ora Ordina di attivare l'Osservazione.
-mno_town_investigar|Investiga sulle difese: prova ad infiltrarti. (Tracking)
+mno_town_investigar|Investiga sulle difese: prova ad infiltrarti. (L'abilità Osservazione aiuta)
 mno_traicion_interna|Trova un traditore all'interno delle difese di {s4}.
 mno_traicion_interna3|Novità dagli uomini inviati in cerca di un traditore?
 mno_infiltracion_interna|Manda alcuni uomini ad infiltrarsi.
@@ -281,7 +281,7 @@ mno_saqueo_normal|Saccheggia {reg2?la città:il forte} e vattene.
 mno_saqueo_total|Devasta il posto e vattene.
 menu_castle_taken_plunder|{reg2?La città è stata saccheggiata:Il forte è stato saccheggiato}. Hai raccolto {reg7} denari.
 menu_castle_taken_native|{s3} è caduto per mano delle tue truppe, e adesso hai il completo controllo {reg2?della città:del forte}. {reg1? puoi stanzionare truppe qui per difenderla da nemici che possono cercare di ricatturarla. Inoltre, adesso dovresti scegliere se terrai {reg2?la città:il castello} per te stesso oppure darlo a un fedele vassallo...:}
-menu_castle_taken_keepplunder|{s3} ha ceduto alle tue truppe, e ora avete il pieno controllo di {reg2?town:fort}. Le tue truppe corrono per le strade prendendo tutto ciò che possono trasportare. {reg2?town:fort} viene saccheggiata. Hai raccolto {reg7} peningas. {reg1? Puoi stazionare truppe qui per difenderti contro i nemici che potrebbero tentare di riconquistare il luogo. Inoltre, è necessario selezionare ora se deciderai di tenere {reg2?town:castle} per te o darla ad un vassallo fedele ...:}
+menu_castle_taken_keepplunder|{s3} è caduto per mano delle tue truppe, adesso hai il completo controllo {reg2?della città:del forte}. Le tue truppe corrono per le strade afferrando più materiale di quanto possano portarne. {reg2?La città è stata saccheggiata:Il forte è stato saccheggiato}. Hai raccolto {reg7} denari. {reg1? Puoi stanzionare truppe qui per difenderla da nemici che possono cercare di riconquistarlo. Inoltre, adesso dovresti scegliere se terrai {reg2?la città:il forte} per te oppure darlo a un fedele vassallo...:} 
 menu_castle_taken_2|{s3} è caduto per mano delle tue truppe, e adesso hai il completo controllo del forte. è giunto il momento di mandare parola a {s9} della tua vittoria. {s5}
 mno_castle_taken_claim|Chiedi che {s3} ti venga assegnato.
 mno_castle_taken_claim_2|Richiedi che {s3} sia assegnato {reg59?tuo marito:tua moglie}.
