@@ -833,8 +833,6 @@ mno_destroy_itv|Bah. Ordini ai tuoi uomini di saccheggiarlo e raderlo al suolo.
 menu_sven_lair_final|Il Destino sta giocando con te. In primo luogo, tutto era rivolto alla morte di tua madre. Eri spinto in parte dalla necessità di sopravvivere, ma principalmente dalla vendetta: Trovare e Uccidere Sven Bull Neck. Ma, ora che tua madre è ancora viva e nelle mani dei tuoi nemici, la tua priorità è di trovarla e salvarla.
 mno_travel_sv|Vai.
 menu_svenlair_victory_conquista|Dopo una dura battaglia, i tuoi uomini hanno sconfitto i Vichinghi che proteggevano il nascondiglio. È necessario decidere cosa fare con esso.
-mno_take_itsl|È un buon posto. Ordina ai tuoi uomini di ripulirlo per te.
-mno_destroy_itsl|Bah. Ordini ai tuoi uomini di saccheggiarlo e raderlo al suolo.
 menu_farmstead_sigurd|Una strada sterrata conduce a un grande recinto, oltre il quale sono state costruite alcune case. Sembra un luogo prospero, sede di un'uomo ricco.^Da dove ti trovi, è possibile vedere alcuni uomini che si muovono li attorno. Tutto sembra tranquillo.
 mno_enter_to_farmstead|Entra nella fattoria.
 mno_encounter_savefarm|Lascia.
@@ -864,7 +862,7 @@ menu_banquete_moral_refuge|Ordini ai tuoi uomini di lasciare le loro armi fuori 
 mno_banquete_okr|Bevi, ridi e gridi in maniera sfacciata.
 mno_banquete_ok2r|Rimani sobrio, gusti la bevanda, ma non bevi più del necessario.
 mno_banquete_ok3r|Chiama i suoi uomini e dona loro anelli e bracciali (2000 denari).
-; menu_player_lair_menus|{s10} Your very own refuge, a hidden retreat free from enemies, where you can hide when things go badly, rest from your travels, or save your most personal of treasures. ^^{s11}^^{s13}
+; menu_player_lair_menus|You are at {s10}, your very own refuge, a hidden retreat free from enemies, where you can hide when things go badly, rest from your travels, or save your most personal of treasures. ^^{s11}^^{s13}
 mno_banquete_refugemead|I miei uomini meritano un banchetto al mio rifugio.
 mno_guarida_rename|Rinomina il tuo rifugio.
 mno_lair_interior|Vai alla sala del rifugio.
@@ -883,7 +881,7 @@ mno_embarkre|Imbarcarsi.
 mno_lair_leave|Parti...
 mno_lair_leave_door|Lascia quest'area.
 menu_demoler_lairm|Sei sicuro di volerlo demolire?
-mno_demoler_yes|Sì (1000 denari).
+; mno_demoler_yes|Yes ({reg1} peningas).
 mno_demoler_no|Ritorna.
 menu_conversacion_companions1|Appena fermati per riposarsi dalla strada, i tuoi compagni si avvicinano, guidati da Brunilde. Lei ha qualcosa da dirti.
 mno_talk_to_brunhild|Ascolta Brunilde.

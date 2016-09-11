@@ -833,8 +833,6 @@ mno_encounter_savefort|Odejdź.
 ; menu_sven_lair_final|Fate is playing with you. First, everything was pointing to your mother's death. You were driven partly by the need to survive, but mainly by revenge: find Sven Bull Neck and kill him. But, now that your mother is still alive and in the hands of your enemies, your priority is to find and rescue her.
 ; mno_travel_sv|Go.
 ; menu_svenlair_victory_conquista|After a tough battle, your men have defeated the Vikings protecting the hideout. You need to decide what to do with it.
-; mno_take_itsl|It is a good place. I order my men to clean it up for me.
-; mno_destroy_itsl|Bah. I order my men to pillage and destroy it.
 ; menu_farmstead_sigurd|A dirt road leads to a large fence, beyond which several houses have been built. It seems like a prosperous place, home to a rich man.^From where you are, you can see some men moving around. Everything seems quiet.
 ; mno_enter_to_farmstead|Enter the farmstead.
 mno_encounter_savefarm|Odejdź.
@@ -864,7 +862,7 @@ mno_choice_01_1bar|Kontynuuj
 ; mno_banquete_okr|You drink, laugh and shout as they come.
 ; mno_banquete_ok2r|You stay sober, taste the drink, but no more than necessary.
 ; mno_banquete_ok3r|You call your men and give them rings and bracelets (2000 peningas).
-; menu_player_lair_menus|{s10} Your very own refuge, a hidden retreat free from enemies, where you can hide when things go badly, rest from your travels, or save your most personal of treasures. ^^{s11}^^{s13}
+; menu_player_lair_menus|You are at {s10}, your very own refuge, a hidden retreat free from enemies, where you can hide when things go badly, rest from your travels, or save your most personal of treasures. ^^{s11}^^{s13}
 ; mno_banquete_refugemead|My men deserve a banquet in my refuge.
 ; mno_guarida_rename|Rename your refuge.
 ; mno_lair_interior|Go to the refuge's hall.
@@ -883,7 +881,7 @@ mno_lair_wait|Poczekaj trochę czasu.
 mno_lair_leave|Odejdź...
 mno_lair_leave_door|Opuść obszar.
 ; menu_demoler_lairm|Are you sure you want to demolish your refuge?
-; mno_demoler_yes|Yes (1000 peningas).
+; mno_demoler_yes|Yes ({reg1} peningas).
 ; mno_demoler_no|Return.
 ; menu_conversacion_companions1|As you stop to rest on the way, your companions approach you, led by Brunhild. She has something to say.
 ; mno_talk_to_brunhild|Listen to Brunhild.

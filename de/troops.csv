@@ -724,9 +724,9 @@ trp_knight_6_2|Aldermann Æthelreds
 trp_knight_6_2_pl|Æthelreds
 trp_knight_6_3|Aldermann Ealhhere
 trp_knight_6_3_pl|Ealhhere
-trp_knight_6_4|Eanfrith
+trp_knight_6_4|Dryhten Eanfrith
 trp_knight_6_4_pl|Eanfrith
-trp_knight_6_5|Ecgwald
+trp_knight_6_5|Dryhten Ecgwald
 trp_knight_6_5_pl|Ecgwald
 trp_knight_7_1|Aldermann Ceowulf Ceowulfing
 trp_knight_7_1_pl|Ceowulf Ceowulfing
@@ -804,13 +804,13 @@ trp_knight_11_3|Guledic Dyfnwal Karte Rhun
 trp_knight_11_3_pl|Dyfnwal Karte Rhun
 trp_knight_11_4|Guledic Giric Karte Rath
 trp_knight_11_4_pl|Giric Karte Rath
-trp_knight_11_5|Cynon Karte Cyndrwyn
+trp_knight_11_5|Mael Cynon map Cyndrwyn
 trp_knight_11_5_pl|Cynon Karte Cyndrwyn
-trp_knight_11_6|Gwion Karte Cyndrwyn
+trp_knight_11_6|Mael Gwion map Cyndrwyn
 trp_knight_11_6_pl|Gwion Karte Cyndrwyn
-trp_knight_11_7|Madoc-Karte Cadell
+trp_knight_11_7|Mael Madoc map Cadell
 trp_knight_11_7_pl|Madoc-Karte Cadell
-trp_knight_11_8|Caradoc Karte Riwall
+trp_knight_11_8|Mael Caradoc map Riwall
 trp_knight_11_8_pl|Caradoc Karte Riwall
 trp_knight_12_1|Guledic Eliud Karte Eferferdyn
 trp_knight_12_1_pl|Eliud Karte Eferferdyn
@@ -892,7 +892,7 @@ trp_knight_19_3|Mac Flann Sinna Mael Sechnaill
 trp_knight_19_3_pl|Flann Sinna Mac Sechnaill
 trp_knight_19_4|Tiarna Flann Mac Conaing
 trp_knight_19_4_pl|Flann Mac Conaing
-trp_knight_19_5|Conall Mac Echach
+trp_knight_19_5|Mael Conall mac Echach
 trp_knight_19_5_pl|Conall Mac Echach
 trp_knight_20_1|Mael Domnall Dasachtach Mac Causantin
 trp_knight_20_1_pl|Domnall Dasachtach Mac Causantin
@@ -1666,6 +1666,35 @@ trp_town_28_shipwright|Schiffsbauer
 trp_town_29_shipwright|Schiffsbauer
 trp_shipwright_end|Wildschwein
 trp_shipwright_end_pl|Wildschweine
+trp_town_1_master_craftsman|Handwerker
+trp_town_2_master_craftsman|Handwerker
+trp_town_3_master_craftsman|Handwerker
+trp_town_4_master_craftsman|Handwerker
+trp_town_5_master_craftsman|Handwerker
+trp_town_6_master_craftsman|Handwerker
+trp_town_7_master_craftsman|Handwerker
+trp_town_8_master_craftsman|Handwerker
+trp_town_9_master_craftsman|Handwerker
+trp_town_10_master_craftsman|Handwerker
+trp_town_11_master_craftsman|Handwerker
+trp_town_12_master_craftsman|Handwerker
+trp_town_13_master_craftsman|Handwerker
+trp_town_14_master_craftsman|Handwerker
+trp_town_15_master_craftsman|Handwerker
+trp_town_16_master_craftsman|Handwerker
+trp_town_17_master_craftsman|Handwerker
+trp_town_18_master_craftsman|Handwerker
+trp_town_19_master_craftsman|Handwerker
+trp_town_20_master_craftsman|Handwerker
+trp_town_21_master_craftsman|Handwerker
+trp_town_22_master_craftsman|Handwerker
+trp_town_23_master_craftsman|Handwerker
+trp_town_24_master_craftsman|Handwerker
+trp_town_25_master_craftsman|Handwerker
+trp_town_26_master_craftsman|Handwerker
+trp_town_27_master_craftsman|Handwerker
+trp_town_28_master_craftsman|Handwerker
+trp_town_29_master_craftsman|Handwerker
 trp_local_merchant|Örtlicher Händler
 trp_local_merchant_pl|Örtliche Händler
 trp_tax_rebel|Bauernrebell
@@ -1870,23 +1899,23 @@ trp_orm_robagranjas|Orm Svarte
 trp_orm_robagranjas_pl|Orm Svarte
 trp_pagano|Godi Olafr
 trp_pagano_pl|Priester
-trp_pseudo_troop_01|PT01
+trp_pseudo_troop_01|Gjalfrmarr
 trp_pseudo_troop_01_pl|
-trp_pseudo_troop_02|PT02
+trp_pseudo_troop_02|Eydendr
 trp_pseudo_troop_02_pl|
-trp_pseudo_troop_03|PT03
+trp_pseudo_troop_03|Gunnmas
 trp_pseudo_troop_03_pl|
-trp_pseudo_troop_04|PT04
+trp_pseudo_troop_04|Sundvargs
 trp_pseudo_troop_04_pl|PT
-trp_pseudo_troop_05|PT05
+trp_pseudo_troop_05|Unnswin
 trp_pseudo_troop_05_pl|PT
-trp_pseudo_troop_06|PT06
+trp_pseudo_troop_06|Bengrefill
 trp_pseudo_troop_06_pl|PT
-trp_pseudo_troop_07|PT07
+trp_pseudo_troop_07|Elgslagar
 trp_pseudo_troop_07_pl|PT
-trp_pseudo_troop_08|PT08
+trp_pseudo_troop_08|Arajo
 trp_pseudo_troop_08_pl|PT
-trp_pseudo_troop_09|PT09
+trp_pseudo_troop_09|Byrskids
 trp_pseudo_troop_09_pl|PT
 trp_pseudo_troop_end|Zweiter Outfit
 trp_pseudo_troop_end_pl|Pseudo Truppe Ende

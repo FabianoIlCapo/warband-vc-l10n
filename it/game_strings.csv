@@ -2609,11 +2609,11 @@ str_faction_title_male_3|Cyning {s0}
 str_faction_title_male_4|Ealdorman {s0}
 str_faction_title_male_5|Dryhten {s0}
 str_faction_title_male_6|Ri {s0}
-str_faction_title_female_player|Gundelic {s0}
+; str_faction_title_female_player|Guledic {s0}
 str_faction_title_female_1|Tiern {s0}
 str_faction_title_female_2|Ruire {s0}
-str_faction_title_female_3|Ard Tiarna {s0}
-str_faction_title_female_4|Tiarna {s0}
+str_faction_title_female_3|Tiarna {s0}
+; str_faction_title_female_4|Mael {s0}
 str_faction_title_female_5|Dux {s0}
 str_faction_title_female_6|Comandante {s0}
 str_name_kingdom_text|Quale sarà il nome del tuo regno?
@@ -3376,3 +3376,4 @@ str_changing_gametype_is_voteable|Cambiare la tipologia di gioco è votabile.
 str_changing_gametype_is_not_voteable|Cambiare la tipologia di gioco non è votabile.
 str_weapon_break|Equipaggiamento Deteriorabile:
 str_no_suit_religion|Non puoi pensare di sposarti nella mia famiglia finchè non credi nemmeno negli stessi Dei! Convertiti prima, dopo potremmo parlare di questo argomento.
+str_modifications| 

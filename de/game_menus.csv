@@ -833,8 +833,6 @@ mno_destroy_itv|Bah. ich befehle meinen Männer es zu plündern und zu zerstöre
 menu_sven_lair_final|Das Schicksal spielt mit euch. Zuerst drehte sich alles um den Tod eurer Mutter. Teilweise von Rache, doch auch vom Wunsch zu überleben getrieben wolltet ihr nur Sven Stiernacken finden und töten. Nun, nachdem ihr erfahren habt, dass eure Mutter noch lebt und in der Hand des Feindes ist, ist euer nächstes Ziel sie zu retten.
 mno_travel_sv|Gehen Sie.
 menu_svenlair_victory_conquista|Nach einem harten Kampf haben Eure Männer die Wikinger besiegt, welche das Versteck bewchten. Nun müssen Sie entscheiden, was damit geschieht.
-mno_take_itsl|Dies ist ein guter Ort. Ich befehle meinen Männern in zu säubern.
-mno_destroy_itsl|Bah. ich befehle meinen Männer es zu plündern und zu zerstören.
 menu_farmstead_sigurd|Ein Schotterweg führt zu einem großen Zaun, hinter dem mehrere Häuser gebaut wurden. Der Ort scheint wohlhabend, und das Zuhause eine reichen Mannes zu sein.^Von dort, wo Ihr euch befindet, könnet Ihr einige Menschen sehen, die ihren Beschäftigungen nachgehen. Alles scheint ruhig.
 mno_enter_to_farmstead|Gehen Sie zum Bauernhof.
 mno_encounter_savefarm|Weiterziehen.
@@ -864,7 +862,7 @@ menu_banquete_moral_refuge|Du befiehlst deinen Männern, die Waffen draußen zu 
 mno_banquete_okr|Sie drinken, lachen und schreien als sie herbeikommen.
 mno_banquete_ok2r|Sie bleiben nüchtern, nippen am Getränk, aber nicht mehr als notwendig.
 mno_banquete_ok3r|Sie rufen Ihre Männer und Belohnen sie, Ringe und Armbänder für (2000 Peningas).
-menu_player_lair_menus|{s10} Eure sichere Zuflucht, ein sicherer Schlupfwinkel, frei von Feinden wo ihr euch zurückziehen könnt, wenn die Dinge schlecht liegen und eure wichtigsten Besitztümer verwahrt. ^^{s11}^^{s13}
+menu_player_lair_menus|Ihr seid bei {s10}, eurer Zuflucht. Ein sicherer Schlupfwinkel, frei von Feinden wo ihr euch zurückziehen könnt, wenn die Dinge schlecht liegen und eure wichtigsten Besitztümer verwahren könnt. ^^{s11}^^{s13}
 mno_banquete_refugemead|Meine Männer verdienen ein Bankett in meiner Zuflucht.
 mno_guarida_rename|Benennen Sie Ihre Zuflucht um.
 mno_lair_interior|Gehen Sie zur Halle der Zuflucht.
@@ -883,7 +881,7 @@ mno_embarkre|An Bord gehen.
 mno_lair_leave|Verlassen ...
 mno_lair_leave_door|Verlasst den Bereich.
 menu_demoler_lairm|Sind SIe sicher, dass SIe Ihre Zuflucht abbrechen möchten?
-mno_demoler_yes|Ja (1000 Pfennige).
+mno_demoler_yes|Ja ({reg1} peningas).
 mno_demoler_no|Zurückkehren
 menu_conversacion_companions1|Als Sie stehen bleiben um ein wenig zu rasten, kommen Ihre Begleiter, angeführt von Brunhild, näher. Sie hat etwas zu sagen.
 mno_talk_to_brunhild|Hören Sie Brunhild zu.
