@@ -529,7 +529,7 @@ dlga_childsdialog_1:close_window|{s4}
 dlga_start:ramun_introduce_1|Guten Tag, {reg59?lassie:young man}.
 dlga_ramun_introduce_1:ramun_introduce_2|Verzeiht mir. Ihr seht aus wie ein Händler, aber ich sehe keine Waren.
 dlga_ramun_introduce_1:close_window|Macht nichts.
-; dlga_ramun_introduce_2:ramun_introduce_3|A trader? Oh, aye, I certainly am that. My merchandise is a bit different from most, however. It has to be fed and watered twice a day and tries to run away if I turn my back.
+dlga_ramun_introduce_2:ramun_introduce_3|Ein Händler? Oh, aye, das ist derzeit meine Tätigkeit. Meine Waren sind ein wenig anders, als die anderer Händler. Sie müssen zweimal täglich gefüttert und getränkt werden und läuft weg, sobald ich ihm den Rücken zukehre.
 dlga_ramun_introduce_3:ramun_introduce_4|Vieh?
 ; dlga_ramun_introduce_4:ramun_introduce_5|Close enough. I like to call myself the man who keeps every boat on this ocean moving. Boats are driven by oars, you see, and oars need men to pull them or they stop. That's where I come in.
 dlga_ramun_introduce_5:ramun_introduce_6|Galeerensklaven.
@@ -566,7 +566,7 @@ dlga_ramun_leave:close_window|Denkt daran, bringt mir jeden Gefangenen den Ihr h
 dlga_start:nurse_talk|Ich bitte demütig, dass Eure Lordschaft seine Hände dort behält, wo ich sie sehen kann.
 dlga_nurse_talk:close_window|Kein Problem.
 dlga_nurse_talk:nurse_talk1|Könnt Ihr mir mehr darüber sagen, wie ich Eure Dame dazu überreden kann mich zu heiraten?
-; dlga_nurse_talk1:nurse_talk2|I would gladly tell your lordship, if he finds 25 peningas in his pock..., purse.
+dlga_nurse_talk1:nurse_talk2|Ich werde eurer Lordschaft gerne Auskunft geben, wenn er 25 Münzen in seiner Tasch.., Geldbeutel findet.
 dlga_nurse_talk2:close_window|Ich glaube nicht, dass ich Sie bezahlen werde.
 dlga_nurse_talk2:nurse_talk3|Hier bitte schön. Jetzt sprich!
 ; dlga_nurse_talk3:close_window|Thank you, your lordship. To be considered as a potential groom, you have to be a person of stature, a pledged vassal or a renowned warrior. At the very least, you should have as much renown as junior lords. Secondly, you must have good relations with the lady, and her father or guardian. Lastly, the most important component is chemistry. The chemistry between you and the lady will largely depend on your charisma, so being ugly, fat, or having a cheap beer or pickle breath would hardly come handy. If you get refused the first time, don't despair, their ladyships are known for playing hard to get, wait a few days and try again. With high persuasion, and charisma, you will eventually prevail, and the lady will agree to get married. Then go and talk to her father or guardian, and get an official blessing from him.
@@ -597,7 +597,7 @@ dlga_looters_2bribeg:looters_bribe13|Ach nichts. Aus mir spricht nur der Met.
 dlga_looters_bribe12:close_window|Oh, we've got plenty of payment for you, buttercup.
 dlga_looters_bribe13:close_window|Das ist witzig. Jetzt hat mein Speer Euch etwas zu sagen.
 dlga_looters_2:close_window.2|Wir werden Sie in Ruhe lassen.
-; dlga_start:village_farmer_talk|My {reg59?lady:lord}, we're only poor farmers from the village of {s11}. {reg1?We are taking our products to the market at {s12}.:We are returning from the market at {s12} back to our village.}
+dlga_start:village_farmer_talk|Mein {reg59?lady:lord}, wir sind nur arme Bauern vom Dorfe {s11}. {reg1? Wir bringen unsere Waren zum Markt in {s12}.: Wir werden von dort um {s12} zurückkehren und uns auf dem Rückweg machen.}
 dlga_village_farmer_talk:farmer_bandit_information|Ich jage eine Gruppe Banditen mit folgender Beschreibung... Habt Ihr sie gesehen?
 dlga_farmer_bandit_information:village_farmer_talk|{s15}
 dlga_village_farmer_talk:close_window|Nun, wir werden ja sehen wie arm Ihr seid, nachdem ich mir alles genommen habe was Ihr besitzt.
@@ -610,7 +610,7 @@ dlga_start:fisher_talk|Mein/e {reg59?lady:lord}, wir sind nur ein paar arme Fisc
 dlga_fisher_talk:close_window|Nun, wir werden ja sehen wie arm Ihr seid, nachdem ich mir alles genommen habe was Ihr besitzt.
 dlga_fisher_talk:fisher_talk_1|Ist es wichtig für {s11} zu angeln?
 dlga_fisher_talk:close_window.1|Machen Sie weiter so. Lebt wohl.
-; dlga_fisher_talk_1:fisher_talk_2|{s11} has a {s21} fishing fleet. Usually we {s22}produce enough salt to preserve the fish the fleet brings to port.
+dlga_fisher_talk_1:fisher_talk_2|{s11} besitzt eine {s21} Fischerflotte. Gewöhnlich produzieren wir {s22} genug Salz um den Fisch zu konservieren, den die Flotte heranbringt.
 dlga_fisher_talk_2:close_window|Sehr gut. Das ist alles was ich wissen wollte.
 dlga_start:traveller_ship_talk|Guten Tag mein/e {reg59?lady:lord}. Wir segeln von {s11} nach {s12}
 dlga_traveller_ship_talk:close_window|Ich werde Euer Schiff entern und alles nehmen, was Ihr besitzt.
@@ -622,7 +622,7 @@ dlga_wessex_patrol1:wessex_patrol2|Lasst uns durch. Wir sind Abgesandte. Wir sin
 dlga_wessex_patrol1:wessex_patrol3|(Die Sachsen-Patrouille angreifen)
 dlga_wessex_patrol1:wessex_patrol2.1|(Auf dem Weg bleiben und der Sachsen-Patrouille ausweichen)
 dlga_wessex_patrol2:close_window|--Die Sachsen gehen aus dem Weg, so dass Sie weitergehen können--
-; dlga_wessex_patrol2:close_window.1|I know who you are, {playername}. My brother was among those foragers that you attacked. I do not care if you're an emissary or not, you're going to pay for killing my brother.
+dlga_wessex_patrol2:close_window.1|Ich kenne euch, {playername}. Mein Bruder war unter den Jägern die ihr angegriffen habt. Es ist mir gleich, ob ihr ein Unterhändler seid, ihr werdet für die Tötung meines Bruders bezahlen.
 dlga_wessex_patrol3:close_window|Zu den Waffen, sie greifen an!
 dlga_start:foragers_mission_talk|Halt! Wer seid Ihr und was wollt Ihr?
 dlga_foragers_mission_talk:close_window|Heute ist ein guter Tag zum Sterben, Abschaum!
@@ -5789,14 +5789,14 @@ dlga_mayor_economy_report_2:mayor_economy_report_3|{s42}
 ; dlga_merchant_quest_requested:merchant_quest_brief.6|One of the merchants here is looking for herdsmen to take his cattle to the market in {s13}.
 ; dlga_merchant_quest_brief:move_cattle_herd_quest_brief|The cattle herd must be at {s13} within 30 days. Sooner is better, much better, but it must be absolutely no later than 30 days. If you can do that, I'd be willing to pay you {reg8} peningas for your trouble. Interested?
 ; dlga_move_cattle_herd_quest_brief:move_cattle_herd_quest_taken|Aye, I can take the herd to {s13}.
-; dlga_move_cattle_herd_quest_brief:merchant_quest_stall|I am sorry, but no.
+dlga_move_cattle_herd_quest_brief:merchant_quest_stall|Entschuldigt, aber nein.
 ; dlga_move_cattle_herd_quest_taken:mayor_pretalk|Splendid. You can find the herd right outside the town. After you take the animals to {s13}, come back to me and you will get your pay.
 dlga_merchant_quest_requested:merchant_quest10_brief|{s33}
 ; dlga_merchant_quest10_brief:merchant_quest10_taken|No problem. I will bring your {s13} back.
-; dlga_merchant_quest10_brief:merchant_quest_stall|I am sorry, but no.
+dlga_merchant_quest10_brief:merchant_quest_stall|Entschuldigt, aber nein.
 dlga_merchant_quest_requested:merchant_quest11_brief|{s33}
 ; dlga_merchant_quest11_brief:merchant_quest11_taken|Aye, I will bring you {reg33} loads of {s33}.
-; dlga_merchant_quest11_brief:merchant_quest_stall|I am sorry, but no.
+dlga_merchant_quest11_brief:merchant_quest_stall|Entschuldigt, aber nein.
 ; dlga_merchant_quest10_taken:mayor_pretalk|Splendid. Good luck on finding the rascal and bringing my {s13} back.
 ; dlga_merchant_quest10_taken:reeve_pretalk|Splendid. Good luck on finding the rascal and bringing my {s13} back.
 ; dlga_merchant_quest11_taken:mayor_pretalk|Splendid. Bring {reg33} loads of {s33} here, and I will reimburse you for your expenses.
@@ -5819,7 +5819,7 @@ dlga_merchant_quest_requested:merchant_quest11_brief|{s33}
 ; dlga_village_elder_thonkrik2b:village_elder_thonkrik3|Well, {playername}, go ahead.
 ; dlga_village_elder_thonkrik3:village_elder_thonkrik4|We were traveling on a ship, the Woden Ric, and were attacked by Vikings! That's the reason you found me in the sea.
 ; dlga_village_elder_thonkrik4:village_elder_thonkrik5|I know the Woden Ric! It made landfall at Doccinga many times, because it had passengers seeking cures for the most terrible ills. ^The father of the healer who has healed you was a man well known for his skills in many parts, and thousands of people left everything to come here. Now that man has died, and unfortunately his son does not have his father's magic. ^I am sorry to hear that the Woden Ric was attacked by Vikings...
-; dlga_village_elder_thonkrik5:village_elder_thonkrik7|I was one of those people. My mother was sick, and now, maybe she... is dead.
+dlga_village_elder_thonkrik5:village_elder_thonkrik7|Ich war einer dieser Leute. Meine Mutter war krank und nun ist sie... vielleicht tot.
 ; dlga_village_elder_thonkrik5:village_elder_thonkrik7.1|My mother traveled with me. Did you find other people or... corpses where you found me?
 ; dlga_village_elder_thonkrik7:village_elder_thonkrik8|The sea brings swollen corpses and wrecks to our shores sometimes, but nobody lately. Usually, Vikings take prisoners to sell as slaves...
 ; dlga_village_elder_thonkrik8:village_elder_thonkrik9|Thonkrik, our ship was attacked by Sven Bull Neck. Have you heard of this name before?
@@ -5831,32 +5831,32 @@ dlga_village_elder_thonkrik10:village_elder_thonkrik11|{s1}
 ; dlga_village_elder_thonkrik12:village_elder_thonkrik13|And so what? They are not looking for Sven. Where is Sven? I want an answer now!
 ; dlga_village_elder_thonkrik12:village_elder_thonkrik15|Thonkrik, I need your help. Don't you know I can help you kill Sven?
 ; dlga_village_elder_thonkrik13:village_elder_thonkrik14|I don't have an answer for you. I am but a simple villager who yet, I may point out, retains his head. If you are so intent on your own destruction, you should ask the jarl of Kennemer. God has given you a second chance, saving your life, but now you intend to waste it. Good luck, but I cannot help more.
-; dlga_village_elder_thonkrik14:village_elder_pretalk|Thanks for everything.
+dlga_village_elder_thonkrik14:village_elder_pretalk|Danke für Alles.
 ; dlga_village_elder_thonkrik15:village_elder_thonkrik16|{s1}^^{playername}, look at yourself! You are weak, puny! Almost dead just weeks ago saved by lowly fishermen. You've lost all your possessions. You don't have weapons, resources or men. I don't know where Sven keeps his hideout, but if you go there someday, you will meet your death.
 ; dlga_village_elder_thonkrik16:village_elder_thonkrik17|I don't fear death, Thonkrik. I know what I want to do, and it is to kill Sven. Farewell!
 ; dlga_village_elder_thonkrik16:village_elder_thonkrik18|I see you don't know anything. Thanks for everything. Farewell.
 ; dlga_village_elder_thonkrik17:village_elder_pretalk|I see the determination in your eyes. Here, take these few coins and my advice along with them: find a job and forget about Sven. Otherwise, feel free to ask the jarl of Kennemer, he might be able to help you.
 ; dlga_village_elder_thonkrik18:village_elder_pretalk|You are right. I don't know anything, but you can ask the jarl of Kennemer. Please take some food. You have a long journey ahead of you.
-; dlga_doccinga_thonkrikca:doccinga_thonkrikca2|Calm down, Thonkrik! I'm here to help.
+dlga_doccinga_thonkrikca:doccinga_thonkrikca2|Beruhige dich, Thonkrik! Ich bin hier um zu helfen.
 ; dlga_doccinga_thonkrikca2:doccinga_thonkrikca3|The young people of the village have gathered on the beach with the king's troops to try to prevent the landing of Sven Bull Neck, but they are few. Thanks for coming to our aid!
 ; dlga_doccinga_thonkrikca3:doccinga_thonkrikca4|Finally, Sven is near. He will pay greatly for what he did to me.
-; dlga_doccinga_thonkrikca3:doccinga_thonkrikca5|Where are the men of {s4}? 
+dlga_doccinga_thonkrikca3:doccinga_thonkrikca5|Wo sind die Männer von {s4}?
 ; dlga_doccinga_thonkrikca4:doccinga_thonkrikca3|{s2}^^Those boats are Sven's, that's for sure. He always leads them. But this many men... I've never heard of Sven Bull Neck attacking a village with so many. It looks like an invasion!
 ; dlga_doccinga_thonkrikca5:doccinga_thonkrikca51|{s4} will not come, I know. Some of the people here sent messengers, too, like you and the king, but he did not respond.^^Normally, I would not talk about this openly, for they are Danish problems, but {s4} has left my people to their fate. In fact, I fear that all this is because of him.
 ; dlga_doccinga_thonkrikca51:doccinga_thonkrikca6|{s2}^^I know people who work in the jarl's house, and it is rumored that he aspires to the throne of Friese... I should not say this, but Sven Bull Neck has been there in the past.^I fear that these boats are attacking Doccinga to bring Sven's warriors to help the jarl capture the throne, but these are just my assumptions.
-; dlga_doccinga_thonkrikca6:doccinga_thonkrikca71|Damn traitor. He's been playing with me.
+dlga_doccinga_thonkrikca6:doccinga_thonkrikca71|Verdammter Verräter! Er hat mit mir gespielt. 
 ; dlga_doccinga_thonkrikca6:doccinga_thonkrikca72|I'll take care of that issue later. Right now, I have to stop an invasion.
 ; dlga_doccinga_thonkrikca71:doccinga_thonkrikca72|Be careful with him, he is a dangerous man.
 ; dlga_doccinga_thonkrikca72:doccinga_thonkrikca72_f|Ic bancie the! Thank you for coming to help, {playername}. I will join my people now. A huskarl from the king leads the defense.
 ; dlga_doccinga_thonkrikca72_f:close_window|Follow his orders. Please fight with us! Good luck.
-; dlga_doccinga_interrogation_1:doccinga_interrogation_12|What you want to do with the prisoner?
-; dlga_doccinga_interrogation_12:doccinga_interrogation_mu|Kill him! He is a murderer and does not deserve to live.
+dlga_doccinga_interrogation_1:doccinga_interrogation_12|Was habt ihr mit dem Gefangenen vor?
+dlga_doccinga_interrogation_12:doccinga_interrogation_mu|Töte ihn! Er ist ein Mörder und verdient es nicht zu leben.
 dlga_doccinga_interrogation_12:doccinga_interrogation_mu.1|Lasst ihn gehen, ich will sein Blut nicht an meinen Händen haben.
 ; dlga_doccinga_interrogation_mu:doccinga_interrogation_11|It will be done as you have said. As for you, what will you do now?
 ; dlga_doccinga_interrogation_11:doccinga_interrogation_2|In Friese, I'm not wanted. I've earned powerful enemies against whom I cannot fight now, Thonkrik. My priority is my mother. I must save her. I will try finding passage to Danmark on some ship and looking for Sven Bull Neck. Maybe we will never meet again...
-; dlga_doccinga_interrogation_2:doccinga_interrogation_3|I know you'll be back someday...
+dlga_doccinga_interrogation_2:doccinga_interrogation_3|Ich weiß du wirst eines Tages zurückkehren...
 ; dlga_doccinga_interrogation_3:doccinga_interrogation_31|Yes, with an army. The jarls and the king of Friese will pay for what they have done to me.
-; dlga_doccinga_interrogation_3:doccinga_interrogation_32|No, I hate this land. You will not see me again.
+dlga_doccinga_interrogation_3:doccinga_interrogation_32|Nein, ich hasse dieses Land! Du wirst mich nicht wieder sehen.
 ; dlga_doccinga_interrogation_3:doccinga_interrogation_33|It is possible. If I return, I will stop in Doccinga to say hello, friend.
 ; dlga_doccinga_interrogation_31:doccinga_interrogation_4|I understand it. You're a {reg59?woman:man} haunted by revenge: Sven, Sigurd, and now the jarl of Kennemer. I hope you find peace someday.
 ; dlga_doccinga_interrogation_32:doccinga_interrogation_4|Then, may fate accept that someday you will make your way back.
@@ -5874,7 +5874,7 @@ dlga_doccinga_interrogation_12:doccinga_interrogation_mu.1|Lasst ihn gehen, ich 
 ; dlga_start:village_elder_talk.1|Welcome to {s9}, my {reg59?lady:lord}. We were rejoiced by the news that you are the new {reg59?lady:lord} of our humble village. I am the village elder and I will be honoured to serve you in any way I can.
 ; dlga_start:village_elder_talk.2|{reg59?My lady:My lord}, you honour our humble village with your presence.{s33}
 ; dlga_start:village_elder_talk.3|Good day, {reg59?madam:sir}, and welcome to {s9}. I am the local leader of this village.
-; dlga_start:village_elder_talk.4|Good day. I am happy to see you back.
+dlga_start:village_elder_talk.4|Seid gegrüßt. Ich freue mich dich wiederzusehen.
 dlga_start:village_elder_talk.5|Guten Tag, {reg59?madam:sir}.
 dlga_village_elder_pretalk:village_elder_talk|Gibt es noch etwas das ich für Sie tun kann?
 ; dlga_village_elder_talk_p:village_elder_talk_p_f|Sure, Thonkrik. Take me to him. It is time for some words.

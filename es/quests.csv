@@ -1,6 +1,6 @@
 qst_deliver_message|Entregad el mensaje a {s13}
 ; qst_deliver_message_text|{s9} asked you to take a message to {s13}. {s13} was at {s4} when you were given this quest.
-qst_deliver_message_to_enemy_lord|Entregad el mensaje a {s13}
+qst_deliver_message_to_enemy_lord|Entrega el mensaje a {s13}
 ; qst_deliver_message_to_enemy_lord_text|{s9} asked you to take a message to {s13} of {s15}. {s13} was at {s4} when you were given this quest.
 qst_raise_troops|Reunid {reg1} {s14}
 qst_raise_troops_text|{s9} os ha pedido que le llevéis {reg1} {s14}.
@@ -79,9 +79,9 @@ qst_offer_gift|Procurad un regalo
 ; qst_offer_gift_text|Give {s10} a gift to provide to {reg4?her:his} {s11}, {s12}.
 qst_denounce_lord|Denunciad a un Señor
 ; qst_denounce_lord_text|Denounce {s11} in public.
-qst_intrigue_against_lord|Tramad contra un Señor
+qst_intrigue_against_lord|Conspira contra un Señor
 ; qst_intrigue_against_lord_text|Criticize {s11} in private.
-qst_track_down_bandits|Rastread a los bandidos
+qst_track_down_bandits|Rastrea a los bandidos
 ; qst_track_down_bandits_text|{s9} of {s4} asked you to track down {s6}, who attacked travellers on the roads near town.
 qst_track_down_provocateurs|Rastread a los provocadores
 ; qst_track_down_provocateurs_text|{s9} of {s4} asked you to track down a group of thugs, hired to create a border incident between {s5} and {s6}.

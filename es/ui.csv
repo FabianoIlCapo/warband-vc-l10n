@@ -13,7 +13,7 @@ ui_reduced_to_1_over_2_easiest|Reducido a 1/2 (Muy fácil)
 ui_reduced_to_3_over_4_easy|Reducido a 3/4 (Fácil)
 ui_normal|Normal
 ui_combat_ai|IA de combate:
-; ui_combat_speed|Movement and Combat Speed:
+ui_combat_speed|Velocidad de movimiento y combate
 ui_good|Buena
 ui_average_caps|Media
 ui_poor|Mala
@@ -28,7 +28,7 @@ ui_control_attack_direction|Control dir. ataque:
 ui_lance_control|Control de lanza:
 ui_by_relative_enemy_position|Por posición relativa del enemigo
 ui_by_inverse_mouse_movement|Por movimiento inverso del ratón
-; ui_battle_size|Battle Size (impact on performance):
+ui_battle_size|Tamaño de batalla (impacto en el desempeño)
 ui_show_attack_direction|Mostrar dirección del ataque
 ui_show_targeting_reticule|Mostrar retícula de diana
 ui_show_names_of_friendly_troops|Mostrar estandartes en tropas amigas
@@ -101,11 +101,11 @@ ui_explanation_polearm|Relativo al uso de armas enastadas como lanzas, bastones,
 ui_explanation_archery|Relativo al uso de arcos.
 ui_explanation_crossbow|Relativo al uso de ballestas.
 ui_explanation_throwing|Relativo al uso de armas arrojadizas como jabalinas, dardos, piedras, etc.
-; ui_explanation_firearms|Covers usage of slings.
-; ui_explanation_strength|Strength: Every point adds +1 to hit points. The following skills cannot be developed beyond 1/2 of Strength: Ironflesh, Power Strike, Power Throw, Power Draw, and Inventory Management. Every 5 levels, you get an extra point to add to attributes like this.
-; ui_explanation_agility|Agility: Each point gives five weapon points and slightly increases movement speed. The following skills cannot be developed beyond 1/2 of Agility: Weapon Master, Spotting, Athletics, Riding, Path Finding, and Looting. Every 5 levels, you get an extra point to add to attributes like this.
-; ui_explanation_intelligence|Intelligence: Every point to intelligence immediately gives one extra skill point. The following skills cannot be developed beyond 1/2 of Intelligence: Trainer, Tracking, Tactics, Wound Treatment, Surgery, First Aid, Engineer, Navigation, and Weapon Maintenance. Every 5 levels, you get an extra point to add to attributes like this.
-; ui_explanation_charisma|Charisma: Affects dialogues, seduction, and how others see you. Each point increases your party size limit by +1. The following skills cannot be developed beyond 1/2 of Charisma: Sea King, Leadership, Persuasion, Trade. Every 5 levels, you get an extra point to add to attributes like this.
+ui_explanation_firearms|Uso de cubiertas de hondas
+ui_explanation_strength|Fuerza: Cada punto añade +1 a los puntos de golpe. Las siguientes habilidades no pueden ser desarrolladas por encima del 1/2 de Fuerza: Piel de acero, Golpe poderoso, Lanzamiento poderoso, Desenvainado poderoso, y Gestión de inventario. Cada 5 niveles, usted obtiene un punto extra a apadir a atributos como estos.
+ui_explanation_agility|Agilidad: Cada punto da cinco puntos de arma e incrementa ligeramente la velocidad de movimiento. Las siguientes habilidades no pueden ser desarrolladas por encima de 1/2 de Agilidad: Maestro de arma, Señalar, Atlético, Equitación, Encontrar camino, y Saqueo. Cada 5 niveles, usted obtiene un punto extra a añadir a atributos como estos.
+ui_explanation_intelligence|Inteligencia: Cada punto a inteligencia da inmediatamente un punto de habilidad extra. Las siguientes habilidades no pueden ser desarrolladas por encima de 1/2 de Inteligencia: Entrenador, Rastrear, Tácticas, Tratar heridas, Cirugía, Primeros auxilios, Ingeniero, Navegación, y Mantenimiento de arma. Cada 5 niveles, usted obtiene un punto extra a añadir a atributos como estos.
+ui_explanation_charisma|Carisma: Afecta a diálogos, a seducción, y a cómo otros le ven. Cada punto incrementa el límite de tamaño de su grupo en +1. Las siguientes habilidades no pueden ser desarrolladas por encima del 1/2 de Carisma. Rey del mar, Liderazgo, Persuasión, Comercio. Cada 5 niveles, usted obtiene un punto extra a añadir a atributos como estos.
 ui_level|Nivel: %d
 ui_xp|Experiencia: %d
 ui_next_level_at|Próximo nivel a: %d
@@ -160,13 +160,13 @@ ui_passage|Paso
 ui_go|Ir
 ui_retreat_battle|Retirarse de batalla
 ui_leave_area|Abandonar el área
-; ui_reports|Quarters
+ui_reports|Cuartos
 ui_camp|Acampar
 ui_terrain|Terreno
 ui_quests|Misiones
 ui_inventory|Inventario
 ui_character|Personaje
-; ui_party|Army
+ui_party|Ejército
 ui_paused|En pausa
 ui_click_left_button_to_cancel_wait|Esperando... (Clic izquierdo para regresar)
 ui_midnight|Medianoche
@@ -275,7 +275,7 @@ ui_polearms|Armas enastadas
 ui_archery|Arcos
 ui_crossbows|Ballestas
 ui_throwing|Armas arrojadizas
-; ui_firearms|Slings
+ui_firearms|Hondas
 ui_reset|Restablecer
 ui_release_one|Soltar uno
 ui_move_up|Mover arriba
@@ -313,10 +313,10 @@ ui_capture|Capturar
 ui_party_capcity_reached|(Se ha alcanzado la capacidad máxima del grupo)
 ui_all| todos
 ui_joining_cost_weekly_wage|Coste de unirse: %d, salario semanal: %d
-; ui_weekly_wage|Weekly wage: %d peningas
+ui_weekly_wage|Salario semanal: %d de peningas
 ui_price|Precio: %d
 ui_number_ready_to_upgrade|%d listo para ser mejorado.
-; ui_upgrade_to_value| Upgrade to %s (%dp)
+ui_upgrade_to_value|Actualizar a %s (%dp)
 ui_notification_no_slot_for_upgrade|¡No hay espacio para mejorar %s!
 ui_shield_broken|Escudo roto.
 ui_shield_cracked|Escudo rajado.
@@ -328,8 +328,8 @@ ui_received_couched_lance_damage|¡Daño de lanza en ristre recibido!
 ui_speed_bonus_plus|Bonificación a la velocidad: +%d%%
 ui_speed_bonus|Bonificación a la velocidad: %d%%
 ui_cant_reload_this_weapon_on_horseback|No podéis recargar esta arma a caballo.
-; ui_no_more_bolts|No more projectiles...
-; ui_you_are_not_carrying_any_bolts|You are not carrying any projectiles.
+ui_no_more_bolts|No hay más proyectiles
+ui_you_are_not_carrying_any_bolts|No lleva ningún proyectil
 ui_no_more_arrows|No quedan más flechas...
 ui_you_are_not_carrying_any_arrows|No lleváis ninguna flecha encima.
 ui_head_shot|¡Tiro en la cabeza!
@@ -487,7 +487,7 @@ ui_zoom_out|Alejar cámara
 ui_wait|Esperar
 ui_take_screenshot|Capturar pantalla
 ui_randomize|Al azar
-; ui_hint|Lore
+ui_hint|Sabiduría popular
 ui_press_left_mouse_button_to_continue|Presionar botón izquierdo para continuar...
 ui_loot|Recompensa
 ui_chest|Cofre
@@ -562,12 +562,12 @@ ui_everyone_around_me|Soldados cercanos
 ui_str_hear_me|¡%s, escuchadme!
 ui_str_and_str|%s y %s
 ui_str_comma_str|%s, %s
-; ui_need_to_learn_prisoner_management|The number of prisoners is determined by the size of your army.
+ui_need_to_learn_prisoner_management|El número de prisioneros es determinado por el tamaño de su ejército
 ui_game_log|Log del juego
 ui_recent_messages|Mensajes
 ui_custom_battle|Escaramuza
 ui_player|Jugador
-; ui_value_denars|%d peningas
+ui_value_denars|%d peningas
 ui_back|Atrás
 ui_forward|Adelante
 ui_display_on_map|Mostrar en mapa
@@ -609,9 +609,9 @@ ui_group_rename|Renombrar grupo
 ui_group_1|Infantería
 ui_group_2|Arqueros
 ui_group_3|Caballería
-; ui_group_4|Spearmen
-; ui_group_5|Skirmishers
-; ui_group_6|Horse Archers
+ui_group_4|Lanceros
+ui_group_5|Escaramuzadores
+ui_group_6|Arqueros montados
 ui_group_7|Sin nombre 1
 ui_group_8|Sin nombre 2
 ui_group_9|Sin nombre 3
@@ -641,7 +641,7 @@ ui_gender|Elegir género:
 ui_edit_profile|Editar perfil
 ui_new_profile|Nuevo perfil
 ui_enter_username|Introducir nombre de usuario:
-; ui_invalid_username|Usernames may only contain letters, numbers or '_' character.
+ui_invalid_username|Los nombres de usuario sólo pueden contener letras, números o los carácteres '_'
 ui_confirmation|¿Estás seguro?
 ui_multiplayer|Multijugador
 ui_server_name|Servidor
@@ -738,7 +738,7 @@ ui_is_password_free|Sin contraseña
 ui_native_only|Solo nativos
 ui_ping_limit|Límite de ping 
 ui_filter_info|%d partidas y %d jugadores filtrados 
-; ui_is_version_compatible|Compatible with version
+ui_is_version_compatible|Compatible con la versión
 ui_ttnet_account|Cuenta TTNET  
 ui_username|Nombre de usuario
 ui_password|Contraseña
@@ -747,5 +747,5 @@ ui_validating_account|Validando cuenta...
 ui_plase_enter_your_serial_key|Por favor introduce el número de serie
 ui_texture_detail2|Detalle de textura:
 ui_antialiasing2|Antialiasing:
-; ui_troop_upgrades|Troop Tree
-; ui_crouch|Crouch
+ui_troop_upgrades|Escuadrón de árbol
+ui_crouch|Agacharse

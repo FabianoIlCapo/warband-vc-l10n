@@ -1,53 +1,53 @@
-; dlga_start:blocked_agent|This person seems busy. Maybe I should move on...
-; dlga_blocked_agent:close_window|I'm sorry. I didn't mean to disturb you.
-; dlga_blocked_agent:close_window.1|[Just Leave]
-; dlga_start:dog_talk_2|{s1}!
-; dlga_dog_talk_1:dog_talk_2|{s1}!
-; dlga_dog_talk_2:close_window|Heel!
-; dlga_dog_talk_2:close_window.1|Go, {s1}, go!
-; dlga_dog_talk_2:close_window.2|{s1}, stay!
-; dlga_dog_talk_2:dog_talk_pretrain|Here, I have something for you ...
-; dlga_dog_talk_2:close_window.3|I'll call you...
-; dlga_dog_talk_2:close_window.4|Bad dog! Go away! I don't want you any more!
-; dlga_dog_talk_2:close_window.5|Drop it!
-; dlga_start:dog_talk_recruit|   
-; dlga_dog_talk_recruit:dog_talk_1|Here, have a sausage!
-; dlga_dog_talk_recruit:close_window|Good dog!
-; dlga_dog_talk_recruit:close_window.1|Away!
-; dlga_dog_talk_pretrain:dog_talk_train|Here, I have something for you ...
-; dlga_dog_talk_train:dog_talk_pretrain|You don't look healthy. Here, have a {s7}!
-; dlga_dog_talk_train:dog_talk_pretrain.1|Here, this {s7} will make you stronger!
-; dlga_dog_talk_train:dog_talk_pretrain.2|I want you to be tougher. Here is some {s7}. It's good for you!
-; dlga_dog_talk_train:dog_talk_pretrain.3|You are too thin. Here, have some {s7}!
-; dlga_dog_talk_train:dog_talk_pretrain.4|You could be faster, my friend. Here is some {s7} for you!
-; dlga_dog_talk_train:dog_talk_pretrain.5|Here is some {s7} for your teeth!
-; dlga_dog_talk_train:dog_talk_1|I have no more food for you.
-; dlga_dog_talk_train:dog_talk_1.1|That's all for today.
-; dlga_start:close_window.1|You should go down to your mother and drop off something she can use on her way to Walhalla.
-; dlga_start:close_window.2|I'm waiting for somebody who is coming with a girl. Have you seen them?
-; dlga_start:close_window.3|Ah, you are {playername}. Thonkrik told me you would come here. Get on the ship. My men and I will show you how easily she sails.
-; dlga_start:port_chief_travel|Heill! Are you looking to travel to another town?
-; dlga_start:close_window.4|Please wait for everybody to board the ship.
+dlga_start:blocked_agent|Esta persona perece ocupada. Quizá debería continuar...
+dlga_blocked_agent:close_window|Perdón. No pretendía molestarle.
+dlga_blocked_agent:close_window.1|[Irse sin más]
+dlga_start:dog_talk_2|¡{s1}!
+dlga_dog_talk_1:dog_talk_2|¡{s1}!
+dlga_dog_talk_2:close_window|¡Ven aquí!
+dlga_dog_talk_2:close_window.1|¡Vete, {s1}, vete!
+dlga_dog_talk_2:close_window.2|¡{s1}, quédate!
+dlga_dog_talk_2:dog_talk_pretrain|Tome, tengo algo para usted...
+dlga_dog_talk_2:close_window.3|Te llamaré...
+dlga_dog_talk_2:close_window.4|¡Perro malo! ¡Vete! ¡No te quiero más!
+dlga_dog_talk_2:close_window.5|¡Suleltalo!
+dlga_start:dog_talk_recruit|   
+dlga_dog_talk_recruit:dog_talk_1|¡Tome, tenga una salchicha!
+dlga_dog_talk_recruit:close_window|¡Buen perro!
+dlga_dog_talk_recruit:close_window.1|¡Fuera!
+dlga_dog_talk_pretrain:dog_talk_train|Tome, Tengo algo para usted...
+dlga_dog_talk_train:dog_talk_pretrain|No tiene buen aspecto. ¡Tenga, tome un {s7}!
+dlga_dog_talk_train:dog_talk_pretrain.1|¡Tome, este {s7} le fortalecerá!
+dlga_dog_talk_train:dog_talk_pretrain.2|Quiero que sea más fuerte. Aquí hay algunos {s7}. ¡Le vendrán bien!
+dlga_dog_talk_train:dog_talk_pretrain.3|Está demasiado delgado. ¡Tenga, tome unos {s7}!
+dlga_dog_talk_train:dog_talk_pretrain.4|Podría ser más rápido, amigo. ¡Aquí tengo algunos {s7} para usted!
+dlga_dog_talk_train:dog_talk_pretrain.5|¡Aquí hay algunos {s7} para sus dientes!
+dlga_dog_talk_train:dog_talk_1|No tengo más comida para usted.
+dlga_dog_talk_train:dog_talk_1.1|Eso es todo por hoy.
+dlga_start:close_window.1|Debería bajar con su madre y dejar algo que ella pueda utilizar en su camino a Walhalla.
+dlga_start:close_window.2|Estoy esperando a alguien que viene con una chica. ¿Les ha visto?
+dlga_start:close_window.3|Ah, usted es {playername}. Thonkrik me dijo que vendría. Suba al barco. Mis hombres y yo le enseñaremos lo fácil que navega.
+dlga_start:port_chief_travel|¡Heill! ¿Está buscando viajar a otra ciudad?
+dlga_start:close_window.4|Por favor espere a los demás para subir al barco.
 dlga_start:port_chief2|{s1}
-; dlga_port_chief2:port_chief3|What do you need?
-; dlga_port_chief3:port_chief_fleet1|Greetings. I have come to join the fleet of Sven Bull Neck and Harald Haraldsson that will travel to Englaland.
-; dlga_port_chief3:port_chief_bodoletter1|A man named Atli Eiriksson left this port some time ago. Do you know where he was going?
-; dlga_port_chief3:port_chief_pieles|I have given the skins to Hogni, now it's your turn. Where is Atli Eiriksson?
-; dlga_port_chief3:port_chief_catach|I was at Gleann Da Loch and took 'The Cathach of Colum Cille.'
-; dlga_port_chief3:port_chief_catach32|Unfortunately, Gleann Da Loch is too far. Would you take money instead?
-; dlga_port_chief3:port_chief_svenlair|You know what I want. Where is the hideout of Sven Bull Neck?
-; dlga_port_chief3:port_chief_buy_ship|I want to buy a ship.
-; dlga_port_chief_buy_ship:close_window|Follow me!
-; dlga_port_chief3:port_chief_info_main|I have some questions about ships and sea travel.
+dlga_port_chief2:port_chief3|¿Qué necesita?
+dlga_port_chief3:port_chief_fleet1|Saludos. He venido a unirme a la flota de Sven Cuello de Toro y a Harald Haraldsson que viajarán a Englaland.
+dlga_port_chief3:port_chief_bodoletter1|Un hombre llamado Atli Eiriksson dejó este puerto hace algún tiempo. ¿Sabe adónde iba?
+dlga_port_chief3:port_chief_pieles|Le he dado las pieles a Hogni, ahora es su turno. ¿Dónde está Atli Eiriksson?
+dlga_port_chief3:port_chief_catach|Yo estuve en Gleann Da Loch y cogí 'El Cathach de Colum Cille.'
+dlga_port_chief3:port_chief_catach32|Desafortunadamente, Gleann Da Loch está demasiado lejos. ¿Cogerás dinero en su lugar?
+dlga_port_chief3:port_chief_svenlair|Usted sabe lo que quiero. ¿Dónde está la guarida de Sven Cuello de Toro?
+dlga_port_chief3:port_chief_buy_ship|Quiero comprar un barco.
+dlga_port_chief_buy_ship:close_window|¡Seguidme!
+dlga_port_chief3:port_chief_info_main|Tengo algunas preguntas sobre barcos y viaje por mar.
 dlga_port_chief_info_main:port_chief_info_main_1|¿Qué queréis saber?
-; dlga_port_chief_info_main_1:port_chief_info_a_1|Why do people go to sea?
-; dlga_port_chief_info_main_1:port_chief_info_b_1|How do I find my way at sea?
-; dlga_port_chief_info_main_1:port_chief_info_c_1|What do I need to know if I want to buy a ship?
-; dlga_port_chief_info_main_1:port_chief_info_d_1|What makes a ship fast?
-; dlga_port_chief_info_main_1:port_chief2|That's all I wanted to know. Thanks!
-; dlga_port_chief_info_a_1:port_chief_info_main|You can earn a lot of money if you trade goods or slaves across the sea. Others use it for raiding settlements. Finally, no Viking will respect you as a leader if you don't have a good ship.
+dlga_port_chief_info_main_1:port_chief_info_a_1|¿Por qué la genta va al mar?
+dlga_port_chief_info_main_1:port_chief_info_b_1|¿Cómo encuentro mi camino en el mar?
+dlga_port_chief_info_main_1:port_chief_info_c_1|¿Qué necesito para saber si si quiero comprar un barco?
+dlga_port_chief_info_main_1:port_chief_info_d_1|¿Qué hace más rápido a un barco?
+dlga_port_chief_info_main_1:port_chief2|Eso es todo lo que quería saber. ¡Gracias!
+dlga_port_chief_info_a_1:port_chief_info_main|Puede ganar mucho dinero si comercia con bienes o esclavos a través del mar. Otros lo utilizan para asaltar asentamientos. Al final, ningún vikingo le respetará como líder si no tiene un buen barco.
 ; dlga_port_chief_info_b_1:port_chief_info_main|Look at the sun at day. Rest at night. The better you are at finding your way, the faster you travel.
-; dlga_port_chief_info_c_1:port_chief_info_c_2|First, you need to know what type of ship you want. If you want to trade, then a Knorr may be a good choice. They have much room for cargo, but they are not very fast. The Snekkja, the Skei and the Busse are fast warships and are able to carry many troops. The Karvi is something in-between. If you only have a few men, then a small ship like a Byrding would perhaps suit you better.
+dlga_port_chief_info_c_1:port_chief_info_c_2|Primero, necesita saber qué tipo de barco quiere. Si quiere comerciar, un Knorr puede ser una buena elección. Tienen mucho espacio para el cargamento, pero no son muy rápidos. El Snekkja, el Skei y el Busse son navíos de guerra rápidos y son capaces de cargar muchas tropas. El Karvi es algo intermedio. Si sólo quiere tener unos pocos hombres, un barco pequeño como un Byrding quizá le iría mejor.
 ; dlga_port_chief_info_c_2:port_chief_info_main|The second important factor is the type of wood the ship is made from. Ships made out of oak wood are the best ships, but are also expensive. Beech is cheaper, but it rots faster.
 ; dlga_port_chief_info_d_1:port_chief_info_main|The wind -- if you place your sails in a position to catch it best. If there is no wind at all, then your crew has to row. More rowers will make the ship faster. If you have more than one ship in your fleet, then your fleet will only be as fast as your slowest ship. A skilled Navigator can also make your fleet faster.
 ; dlga_port_chief3:port_chief_travel|I want to travel to another port.
@@ -62,7 +62,7 @@ dlga_port_chief_travel_2:port_chief_travel_3|{s1}
 ; dlga_port_chief_travel_4:port_chief_travel_5|Let's start!
 dlga_port_chief_travel_4:port_chief2|{s1}
 dlga_port_chief_travel_4:close_window|{s1}
-; dlga_port_chief_travel_5:close_window|Follow me!
+dlga_port_chief_travel_5:close_window|¡Seguidme!
 ; dlga_port_chief3:port_chief_pick_up_ship1|Is my ship ready yet?
 ; dlga_port_chief_pick_up_ship1:port_chief2|My men and I are still working on it. Come back in {reg1} days.
 ; dlga_port_chief_pick_up_ship1:port_chief_pick_up_ship2|The ship is ready! Do you want us to launch it?
@@ -315,7 +315,7 @@ dlga_ailchu1_conversationcamp1:ailchu1_conversationcamp2|Os escucho.
 ; dlga_solveig_conversationcamp2:solveig_conversationcamp4|Woman, your place is at home with a husband.
 ; dlga_solveig_conversationcamp3:close_window|I know, and I like it here. You must know that you have a loyal follower in me. I am committed to your cause.
 ; dlga_solveig_conversationcamp3_2:close_window|Thanks, {playername}. I hope to stay with you for a long time.
-; dlga_solveig_conversationcamp4:close_window|I am confused. On the one hand, you accept me in your army, but on the other hand, you say I should get married and go home. You must be joking. Hah! Good one on old Solveig.
+dlga_solveig_conversationcamp4:close_window|Estoy confuso. Por una parte, usted me acepta en su ejército, pero por otro lado, dice que debería casarme e ir a casa. Debe de estar bromeando. ¡Ja! Una buena en la vieja Solveig.
 ; dlga_conversation_companioncamp:solveig_2conversationcamp1|{playername}, I like you a lot. I must admit that I am drawn to you.
 ; dlga_solveig_2conversationcamp1:solveig_2conversationcamp2|As you know, I chose the path of war. I keep my virginity in order to protect myself from love and men. It is not an easy way; it's not a comfortable way, but it has its laws, and if I break these, my life will become meaningless. My arms are my only husbands, and my shield is my home. I need you to respect that or I'll have to leave your company.
 ; dlga_solveig_2conversationcamp2:solveig_2conversationcamp3|I respect that, Solveig, and I am not really attracted to you.

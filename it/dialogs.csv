@@ -577,7 +577,7 @@ dlga_manhunter_talk_b1:close_window|Lo sapevo! Andiamo ragazzi, prendiamo questi
 dlga_manhunter_talk_b:manhunter_talk_b2|No, non ho visto alcun criminale.
 dlga_manhunter_talk_b2:close_window|Bah. Si sono nascosti come topi in questa regione, ma con il fumo li tireremo fuori. Prima o poi.
 dlga_manhunter_talk_b:manhunter_talk_b3|Vorrei risquotere la taglia di alcuni criminali che ho catturato.
-dlga_manhunter_talk_b3:close_window|Eccoti i sodli. Ora io e i miei ragazzi andremo a caccia di altri criminali.
+dlga_manhunter_talk_b3:close_window|Eccoti la taglia. Ora io e i miei ragazzi andremo a caccia di altri criminali.
 dlga_manhunter_talk_b:manhunter_talk_b4|Sei feccia, saccheggi e schiavizzi la gente. Meriti la morte.
 dlga_manhunter_talk_b4:close_window|Come osi! Preparati a morire.
 dlga_manhunter_talk_b:manhunter_talk_b1close|Buona fortuna. Addio.
@@ -4035,8 +4035,8 @@ dlga_lady_other_suitor_challenge_confirm_yes:lady_pretalk|{s15}
 dlga_lady_other_suitor_challenge_confirm_no:lady_private_conversation_end|Bene. Siete saggio a non farvi guidare dalle vostre passioni.
 dlga_lady_talk:lady_active_mission_1|Per quanto riguarda il compito che mi avete assegnato...
 dlga_lady_active_mission_1:lady_active_mission_2|Si {reg59?signora:signore}, hai fatto qualche progresso?
-; dlga_lady_active_mission_2:lady_active_mission_thankyou|Indeed. I brought you {reg5} {reg1?pieces:piece} of {s33}.
-; dlga_lady_active_mission_2:lady_active_mission_thankyou1|Indeed. I brought you {reg5} {reg1?bottles:bottle} of {s33} and 2 pieces of cheese.
+dlga_lady_active_mission_2:lady_active_mission_thankyou|Certamente. Vi ho portato {reg5} {reg1?pezzi:pezzo} di {s33}.
+dlga_lady_active_mission_2:lady_active_mission_thankyou1|Certamente. Vi ho portato {reg5} {reg1?bottiglie:bottiglia} di {s33} e 2 pezzi di formaggio.
 ; dlga_lady_active_mission_thankyou:lady_talk|Thank you very much, {playername}! I really appreciate your helping me. I promise I would find a way to reward you for your valiant efforts.
 ; dlga_lady_active_mission_thankyou1:lady_talk|Thank you very much, {playername}! I really appreciate your helping me. I promise I would find a way to reward you for your valiant efforts.
 dlga_lady_active_mission_2:lady_active_mission_3|Sono ancora all'opera su questo.
@@ -4446,9 +4446,9 @@ dlga_deserter_paid_talk_2a:close_window|Si. Basta scherzare ora và a racimolare
 dlga_deserter_paid_talk:deserter_paid_talk_2b|No. È tempo che mi paghiate.
 dlga_deserter_paid_talk_2b:close_window|Che sciocchezze state dicendo? Volete avere guai? Con me li avrete!
 dlga_start:deserter_talk|Siamo uomini liberi. Combatteremo soltanto per noi stessi d'ora in avanti. Ora dateci il vostro oro o assaggerete il nostro acciaio!
-; dlga_deserter_talk:close_window|When I'm done with you, you'll regret ever leaving your lord.
+dlga_deserter_talk:close_window|Quando avrò finito con voi, vi pentirete di aver lasciato il vostro signore.
 dlga_deserter_talk:deserter_barter|Non c'è bisogno di combattere. Posso pagare per aver libero passaggio.
-; dlga_deserter_talk:deserters_2bribe|Do you know whom you address? I will not kill you if you join me.
+dlga_deserter_talk:deserters_2bribe|Sai chi hai incontrato? Non vi ucciderò se vi unirete a me.
 dlga_deserters_2bribe:close_window|Non mi interessa chi sei. È tempo che tu muoia.
 ; dlga_deserters_2bribe:deserters_2bribeg|Yes, I've heard of you. They say your men collect the best loot. Forgive us, and we will be delighted to join such a fierce leader
 ; dlga_deserters_2bribe:deserters_2bribere|We would consider your offer if you fronted us {reg0} peningas.
@@ -4528,7 +4528,7 @@ dlga_ransom_broker_info_talk:ransom_broker_pretalk|È tutto quello che volevo sa
 dlga_start:ransom_broker_talk|Saluti. Se avete alcuni prigionieri, sarò felice di comprarli.
 dlga_ransom_broker_pretalk:ransom_broker_talk|In ogni modo, se avete alcuni prigionieri, sarò felice di comprarli.
 dlga_ransom_broker_talk:ransom_broker_sell_prisoners|Avete la borsa piena di denari? Ho dei prigionieri da vendere.
-; dlga_ransom_broker_talk:ransom_broker_sell_prisoners_done|I want to sell all prisoners I have.
+dlga_ransom_broker_talk:ransom_broker_sell_prisoners_done|Voglio vendere tutti i prigionieri che ho.
 ; dlga_ransom_broker_sell_prisoners_done:ransom_broker_pretalk|Well, come back when you have more slaves for me.
 dlga_ransom_broker_talk:ransom_broker_intro_2|Ditemi ciò che c'è di nuovo.
 dlga_ransom_broker_talk:ransom_broker_ransom_companion|Desidero riscattare uno dei miei compagni.
@@ -5350,7 +5350,7 @@ dlga_druid_talk:druid_ayuda|Parlami dei tuoi dei.
 ; dlga_druid_ayuda2:druid_sacrifice_1|I want to make a sacrifice. I will give you 4000 coins for the expenses of the ceremony.
 ; dlga_druid_sacrifice_1:druid_sacrifice_2|Yes, yes, bring the money! Well, let me think... So far, I haven't had to do anything serious. I used to slay these wretched beggars and enjoy their screams.^^-The Druid summons his followers, and they surround you. They begin to chant in a language you don't understand. The Druid swings from side to side with a cruel smile and a huge knife in his hands.
 ; dlga_druid_sacrifice_2:close_window|-The Druid pronounces your name and opens the throat of a prisoner tied to the post with the ritual knife.^^You close your eyes...-
-; dlga_druid_ayuda2:druid_venta|I want to sell you all prisoners I brought.
+dlga_druid_ayuda2:druid_venta|Voglio venderti tutti i prigionieri che ho portato.
 ; dlga_druid_venta:druid_venta2|Do you have any pretty virgins? Anyways, I will pay you silver according to prisoner quality.
 ; dlga_druid_venta2:druid_venta3|Your gods and goddesses will be pleased with such sacrifice material as I bring.
 ; dlga_druid_venta2:druid_pretalk|Let me think about it again.
@@ -5388,7 +5388,7 @@ dlga_capataz_pretalk:capataz_talk|Si?
 ; dlga_capataz_angry:close_window|Bah! I haven't insulted you, and the laws protect us. I have better things to do.
 ; dlga_capataz_talk:capataz_ayuda|I want my slaves to work here.
 ; dlga_start:close_window.104|You haven't finished your work yet. As I said, the stone down here must be broken out of the earth.
-; dlga_capataz_talk:quarry_work_0|I would like to work here.
+dlga_capataz_talk:quarry_work_0|Mi piacerebbe lavorare qui.
 ; dlga_quarry_work_0:quarry_work_1|We have use for a day laborer. We pay five peningas per day.
 dlga_quarry_work_1:close_window|Non sono interessato.
 ; dlga_quarry_work_1:quarry_work_2|Very well, I want to work one day here.
@@ -5410,12 +5410,12 @@ dlga_capataz_talk:capataz_venta|Vorrei vendere tutti i miei prigionieri a te.
 ; dlga_capataz_talk2:capataz_angry2|What is happening here?
 ; dlga_capataz_angry2:close_window|Salt. Work. More salt. As you can see. Now I have things to do.
 ; dlga_start:close_window.105|You haven't finished your work yet. As I said, in the tunnel next to me, the salt must be struck out of the mountain.
-; dlga_capataz_talk2:salt_work_0|I would like to work here.
+dlga_capataz_talk2:salt_work_0|Mi piacerebbe lavorare qui.
 ; dlga_salt_work_0:salt_work_1|We have use for a day laborer. We pay five peningas per day.
 dlga_salt_work_1:close_window|Non sono interessato.
 ; dlga_salt_work_1:salt_work_2|Very well, I want to work one day here.
 ; dlga_salt_work_2:close_window|In the tunnel next to me, the salt must be struck out of the mountain. Here is a pickaxe.
-; dlga_capataz_talk2:capataz_sins2_2|I want to buy some salt.
+dlga_capataz_talk2:capataz_sins2_2|Voglio comprare un po' di sale.
 ; dlga_capataz_sins2_2:capataz_sins22|Well, you've come the right place. {s4}
 ; dlga_capataz_sins2_2:capataz_pretalk2|Sorry, I just sold the last sack of salt to someone else.
 dlga_capataz_sins22:capataz_pretalk2|Molto bene. Vorrei comprare qualcosa.
@@ -5427,9 +5427,9 @@ dlga_capataz_talk2:capataz_venta2|Vorrei vendere tutti i miei prigionieri a te.
 ; dlga_capataz_talk2:close_window|I take my leave now.
 ; dlga_start:close_window.106|You're not getting any money from me!
 ; dlga_start:capataz_talk3|Aye, this is a work camp.
-; dlga_capataz_pretalk3:capataz_talk3|How else may I help?
+dlga_capataz_pretalk3:capataz_talk3|In quale altro modo posso aiutare?
 ; dlga_start:close_window.107|You haven't finished your work yet. As I said, the wood next to me needs to be cut into smaller pieces, and the trees behind this house have to be felled.
-; dlga_capataz_talk3:lumber_work_0|I would like to work here.
+dlga_capataz_talk3:lumber_work_0|Mi piacerebbe lavorare qui.
 ; dlga_lumber_work_0:lumber_work_1|We have use for a day laborer. We pay four peningas per day.
 dlga_lumber_work_1:close_window|Non sono interessato.
 ; dlga_lumber_work_1:lumber_work_2|Very well, I want to work one day here.
@@ -5438,20 +5438,20 @@ dlga_lumber_work_1:close_window|Non sono interessato.
 ; dlga_lumbercamp_angry:lumbercamp_extortion|Oh? Well, it's true that I do not like fires. I will pay your... fee.
 ; dlga_lumbercamp_extortion:close_window|You have done well, my man. We'll make sure nothing happens to you or your camp.
 ; dlga_lumbercamp_angry:close_window|Is this some sort of a bad joke? I have no time for your nonsense.
-; dlga_capataz_talk3:capataz_sins3|I want to buy some timber.
-; dlga_capataz_talk3:close_window|I must take my leave.
+dlga_capataz_talk3:capataz_sins3|Voglio comprare un po' di legname.
+dlga_capataz_talk3:close_window|Devo andare.
 dlga_capataz_sins3:capataz_sins23|Certo! {s4}
 ; dlga_capataz_sins3:capataz_pretalk3|Sorry, one of the lords in the area just requisitioned whatever we had.
 ; dlga_capataz_sins23:capataz_pretalk3|Very well. I would like to buy some.
 ; dlga_start:close_window.108|You are not going to see a pening from us!
 ; dlga_start:farmstead_boss_talk|Welcome to our farm. Please help yourself to some bread and ale. How may I help you?
-; dlga_farmstead_boss_pretalk:farmstead_boss_talk|How else may I help you?
-; dlga_farmstead_boss_talk:farmstead_boss_angry|There is trouble in the area, and your farm is so nice. I can protect it -- for a fee.
+dlga_farmstead_boss_pretalk:farmstead_boss_talk|In quale altro modo posso aiutarvi?
+dlga_farmstead_boss_talk:farmstead_boss_angry|Ci sono problemi nella zona, e la tua fattoria è così bella. Posso proteggerla -- a pagamento.
 ; dlga_farmstead_boss_angry:farmstead_boss_extortion|Trouble? There's no trouble... Oh, I see. Yes, we want no trouble. We will pay you.
 ; dlga_farmstead_boss_extortion:farmstead_boss_pretalk|Well done, my man. I assure you, trouble will stay far from you.
 ; dlga_farmstead_boss_angry:close_window|Trouble? Bother me again, and I'll show you trouble!
 ; dlga_start:close_window.109|You haven't finished your work yet. As I said, the hay in the two wheat fields near the courtyard must be piled up.
-; dlga_farmstead_boss_talk:farmstead_work_0|I would like to work here.
+dlga_farmstead_boss_talk:farmstead_work_0|Mi piacerebbe lavorare qui.
 ; dlga_farmstead_work_0:farmstead_work_1|We have a use for a day laborer. We pay three peningas per day.
 dlga_farmstead_work_1:close_window|Non sono interessato.
 ; dlga_farmstead_work_1:farmstead_work_2|Very well, I want to work one day here.
@@ -5461,8 +5461,8 @@ dlga_farmstead_work_1:close_window|Non sono interessato.
 ; dlga_farmstead_boss_ayuda2:farmstead_boss_ayuda3|Sounds good. Here is the money, how many men can you give me?
 ; dlga_farmstead_boss_ayuda2:farmstead_boss_pretalk|Oh, I'm afraid I disagree. That's a little excessive.
 ; dlga_farmstead_boss_ayuda3:farmstead_boss_pretalk|{reg0} lads in all.
-; dlga_farmstead_boss_talk:farmstead_boss_sins|What do you have for sale?
-; dlga_farmstead_boss_talk:close_window|I must take my leave.
+dlga_farmstead_boss_talk:farmstead_boss_sins|Che cosa avete in vendita?
+dlga_farmstead_boss_talk:close_window|Devo andare.
 dlga_farmstead_boss_sins:farmstead_boss_sins2|{s4}
 ; dlga_farmstead_boss_sins:farmstead_boss_pretalk|My lord has just sent a word that he needs the rest of what I have for a feast.
 ; dlga_farmstead_boss_sins2:farmstead_boss_pretalk|I'm interested. Let me see.
@@ -5545,7 +5545,7 @@ dlga_move_cattle_herd_failed:move_cattle_herd_failed_2.1|Mi dispiace. Alcuni ani
 ; dlga_mayor_begin:merchant_ask_for_debts|According to my accounts, you owe the merchants guild {reg1} peningas. Would you like to pay this off now?
 dlga_merchant_ask_for_debts:merchant_debts_paid|Bene. Pagherò il mio debito.
 dlga_merchant_debts_paid:mayor_pretalk|Eccellente. Riferirò ai miei amici commercianti che avete intenzione di cancellare il vostro debito.
-; dlga_merchant_ask_for_debts:merchant_debts_not_paid|I'm afraid I can't pay this sum now.
+dlga_merchant_ask_for_debts:merchant_debts_not_paid|Temo di non poter pagare questa somma attualmente.
 ; dlga_merchant_debts_not_paid:close_window|In that case, I am afraid, I can't deal with you. Guild rules... Come back when you can pay the {reg1} peningas. We'll be charging interest on your debt, so the sooner you pay it, the better.
 dlga_mayor_begin:mayor_talk|Cosa posso fare per Vossignoria?
 dlga_mayor_friendly_pretalk:mayor_talk|Ora... Cos'altro posso fare per voi?
@@ -5583,11 +5583,11 @@ dlga_mayor_talk:mayor_info_begin|Quali sono le vostre mansioni?
 ; dlga_mayor_histori:mayor_histori2|I surely can. Did getting up here bring sweat to your forehead? I bet it did! You're probably too proud to admit it, but everyone must catch their breath once they reach the town walls. It's not just from being amazed by the majestic size of this place but also from ascending the steep path leading up here. You've come to the royal town of Bernaccia: Bebbanburh. This is where our kings resided centuries ago.
 ; dlga_mayor_histori2:mayor_histori3|No doubt you understand why it was made the royal seat. With the sea on one side, cliffs on the other and just a narrow path leading up here, it's a well-protected town. Since it was guarded by wise and holy men, it was impossible to conquer. Although I should just say 'wise.' King Aethelfrith, who named the town after his wife Bebba, was certainly not holy. He was the first Northumbrian king and such a ruthless and steely leader of his men, that the natives here, the Britons, called him 'The Destroyer.'
 ; dlga_mayor_histori3:mayor_talk|He has kept this kingdom together in troublesome times, and he and his son Oswald conquered vast areas of land to the west. Two centuries ago, our kingdom became the most powerful of Britain. King Oswiu gained supremacy over Mercia, becoming Brytenwalda. Those golden days are unfortunately gone. Not too far away from here, there is the holy island of Lindisfarne, where the Danes attacked us for the first time. Ever since that day, we have suffered from their raids. Now our kingdom is under the thumbs of those accursed Norsemen, and our ruler Ecgberht is nothing more than just a puppet in Jorvik. But here in Bebbanburh his influence is minimal, and good people of this town still resist.
-; dlga_mayor_talk:town_tax|I would like to set a new tax rate for this town.
-; dlga_town_tax:town_tax2|Certainly. What taxes do you want us to pay to you?
-; dlga_town_tax2:town_tax3|I would like to set a low tax rate.
-; dlga_town_tax2:town_tax3.1|I would like to set a high tax rate.
-; dlga_town_tax2:town_tax3.2|I would like to set a normal tax rate.
+dlga_mayor_talk:town_tax|Vorrei impostare una nuovo livello di tasse per questa città.
+dlga_town_tax:town_tax2|Certamente. Quante tasse vuoi farci pagare?
+dlga_town_tax2:town_tax3|Vorrei impostare un livello di tasse basso.
+dlga_town_tax2:town_tax3.1|Vorrei impostare un livello di tasse alto.
+dlga_town_tax2:town_tax3.2|Vorrei impostare un livello di tasse normale.
 dlga_town_tax2:mayor_pretalk|Veramente, ho cambiato idea.
 ; dlga_town_tax3:mayor_pretalk|Most certainly! We shall abide by your most gracious order.
 dlga_mayor_talk:merchant_quest_requested|Avete del lavoro per me?
@@ -5651,7 +5651,7 @@ dlga_merchant_quest_about_job_2:merchant_quest_what_if_fail|Cosa succede se non 
 dlga_merchant_quest_about_job_2:merchant_quest_about_job_working|Ci sto ancora lavorando.
 dlga_merchant_quest_about_job_working:mayor_pretalk|Bene. Ho fiducia che riuscirete a portare a termine il compito.
 dlga_merchant_quest_about_job_working:reeve_pretalk|Bene. Ho fiducia che riuscirete a portare a termine il compito.
-; dlga_merchant_quest_about_job_2:merchant_quest_about_job_2a|Indeed. I brought you {reg5} loads of {s33}.
+dlga_merchant_quest_about_job_2:merchant_quest_about_job_2a|Certamente. Vi ho portato {reg5} carichi di {s33}.
 ; dlga_merchant_quest_about_job_2a:mayor_pretalk|Good news, {playername}. I will let the merchant know, so he can come and get his materials. For now, please take the {s33} you brought to the storage over there. And of course, here is your reward.
 ; dlga_merchant_quest_about_job_2a:reeve_pretalk|Good news, {playername}. I will let the merchant know, so he can come and get his materials. For now, please take the {s33} you brought to the storage over there. And of course, here is your reward.
 dlga_merchant_quest_last_offered_job:merchant_quest_brief|Eh, volete rifletterci. Bene...
@@ -5803,8 +5803,8 @@ dlga_merchant_quest11_brief:merchant_quest_stall|Mi dispiace, ma debbo rifiutare
 ; dlga_merchant_quest11_taken:reeve_pretalk|Splendid. Bring {reg33} loads of {s33} here, and I will reimburse you for your expenses.
 dlga_merchant_quest_requested:mayor_pretalk|Ho paura di non potervi offrire un lavoro adesso.
 dlga_merchant_quest_requested:reeve_pretalk|Ho paura di non potervi offrire un lavoro adesso.
-; dlga_start:village_elder_deliver_cattle_thank|My good {reg59?madam:sir}. Our village is grateful for your help. Thanks to the {reg5} head of cattle you have brought, we can now raise our own herd.
-; dlga_start:village_elder_deliver_cattle_thank.1|My good {reg59?madam:sir}. Our village is grateful for your help. The slave will be punished now.
+dlga_start:village_elder_deliver_cattle_thank|{reg59?Mia buona signora:Mio buon signore}. Il nostro villaggio vi è grato per il vostro aiuto. Grazie per i {reg5} capi di bestiame che ci avete portato, ora possiamo allevare la nostra mandria!
+dlga_start:village_elder_deliver_cattle_thank.1|{reg59?Mia buona signora:Mio buon signore}. Il nostro villaggio vi è grato per il vostro aiuto. Lo schiavo sarà punito.
 ; dlga_start:village_elder_pretalk|My good {reg59?madam:sir}. You tried, but you returned without the slave. I guess you couldn't find him...
 ; dlga_village_elder_deliver_cattle_thank:village_elder_talk|My good {reg59?lady:lord}, please, is there anything I can do for you?
 ; dlga_start:doccinga_interrogation_1|I do not think we can get more information. It seems that your fate, your Wyrd, takes you to Danmark, my friend.
@@ -5870,10 +5870,10 @@ dlga_village_elder_thonkrik10:village_elder_thonkrik11|{s1}
 ; dlga_doccinga_interrogation_6:doccinga_interrogation_61|Well, I'll take her and the ship. Farewell, Thonkrik.
 ; dlga_doccinga_interrogation_61:doccinga_interrogation_61_f|Wes gesund, my friend.
 ; dlga_doccinga_interrogation_61_f:close_window|Wes gesund.
-; dlga_start:village_elder_talk|Good day, {reg59?madam:sir}, and welcome to {s9}. I am the leader of this village.
-; dlga_start:village_elder_talk.1|Welcome to {s9}, my {reg59?lady:lord}. We were rejoiced by the news that you are the new {reg59?lady:lord} of our humble village. I am the village elder and I will be honoured to serve you in any way I can.
-; dlga_start:village_elder_talk.2|{reg59?My lady:My lord}, you honour our humble village with your presence.{s33}
-; dlga_start:village_elder_talk.3|Good day, {reg59?madam:sir}, and welcome to {s9}. I am the local leader of this village.
+dlga_start:village_elder_talk|Buona giornata, {reg59?signora:signore}, e benvenuto a {s9}. Io sono il capo di questo villaggio.
+dlga_start:village_elder_talk.1|Benvenuto a {s9}, mi{reg59?a signora:o signore}. Abbiamo hanno gioito alla notizia che voi siete {reg59?la nuova signora:il nuovo signore} del nostro umile villaggio. Io sono il capo del villaggio e sarei onorato di servirvi in qualsiasi modo che possibile.
+dlga_start:village_elder_talk.2|{reg59?Mia signora:Mio Signore}, onorate il nostro umile villaggio con la vostra presenza.{s33}
+dlga_start:village_elder_talk.3|Buona giornata, {reg59?signora:signore}, e benvenuto a {s9}. Io sono il capo locale di questo villaggio.
 ; dlga_start:village_elder_talk.4|Good day. I am happy to see you back.
 dlga_start:village_elder_talk.5|Buongiorno, {reg59?signora:signore}.
 dlga_village_elder_pretalk:village_elder_talk|C'è qualcosa che posso fare per voi?
@@ -5956,11 +5956,11 @@ dlga_village_elder_caliacas15_4:village_elder_caliacas16_1|{s10}
 ; dlga_village_elder_ask_fugitive:close_window|Strangers come and go to our village, {reg59?madam:sir}. If he is hiding here, you will surely find him if you look around.
 dlga_village_elder_talk:village_elder_active_mission_1|Per quanto riguarda il compito che mi avete assegnato...
 dlga_village_elder_talk:village_elder_request_mission_ask|Avete qualche compito in cui possa aiutarvi?
-; dlga_village_elder_talk:village_elder_trade_begin|I want to buy some supplies. I will pay with silver.
-; dlga_village_elder_talk:village_elder_levy_begin|I need to raise the levy.
-; dlga_village_elder_levy_begin:village_elder_levy_1|Very well. We can raise {reg33} people. Do you want to proceed? Please, keep in mind that taking men away from the fields will negatively impact our village.
-; dlga_village_elder_levy_1:village_elder_pretalk|Hmm, no, I don't want to do that.
-; dlga_village_elder_levy_1:village_elder_levy_2|Yes, please call up all the eligible men. And get your gear, too.
+dlga_village_elder_talk:village_elder_trade_begin|Voglio comprare delle provviste. Pagherò con dell'argento.
+dlga_village_elder_talk:village_elder_levy_begin|Ho bisogno di aumentare le leve.
+dlga_village_elder_levy_begin:village_elder_levy_1|Molto bene. Possiamo arruolare {reg33} persone. Desiderate procedere? Tenete a mente che prendendo gli uomini dai campi influirà negativamente il nostro villaggio.
+dlga_village_elder_levy_1:village_elder_pretalk|Hmm, no, non voglio fare questo.
+dlga_village_elder_levy_1:village_elder_levy_2|Sì, richiamare tutti gli uomini possibili. E prendi anche il tuo equipaggiamento.
 ; dlga_village_elder_levy_2:close_window|As you wish, {playername}.
 ; dlga_start:village_elder_march|Yes, my {reg59?lady:lord}?
 dlga_village_elder_march:village_elder_give_order|Ho un nuovo compito per voi.
@@ -5969,34 +5969,34 @@ dlga_village_elder_give_order1:village_elder_follow|Seguitemi.
 dlga_village_elder_follow:close_window|Certo.
 ; dlga_village_elder_give_order1:village_elder_disband|I don't require your services any longer...
 ; dlga_village_elder_disband:close_window|Thank you. We'll be happy to go back home.
-; dlga_reeve_talk:castle_tax|I would like to set a new tax rate for this fort.
+dlga_reeve_talk:castle_tax|Vorrei impostare una nuovo livello di tasse per questo forte.
 dlga_reeve_talk:close_window|[Abbandona]
-; dlga_castle_tax:castle_tax2|Certainly. What taxes do you want us to pay you?
-; dlga_castle_tax2:castle_tax3|I would like to set a low tax rate.
-; dlga_castle_tax2:castle_tax3.1|I would like to set a high tax rate.
-; dlga_castle_tax2:castle_tax3.2|I would like to set a normal tax rate.
+dlga_castle_tax:castle_tax2|Certamente. Quante tasse vuoi farci pagare?
+dlga_castle_tax2:castle_tax3|Vorrei impostare un livello di tasse basso.
+dlga_castle_tax2:castle_tax3.1|Vorrei impostare un livello di tasse alto.
+dlga_castle_tax2:castle_tax3.2|Vorrei impostare un livello di tasse normale.
 dlga_castle_tax2:reeve_pretalk|Veramente, ho cambiato idea.
 ; dlga_castle_tax3:reeve_pretalk|Most certainly. We shall abide by your most gracious order.
-; dlga_village_elder_talk:village_tax|I would like to set a new tax rate for this village.
-; dlga_village_tax:village_tax2|Certainly. What taxes do you want us to pay you?
-; dlga_village_tax2:village_tax3|I would like to set a low tax rate.
-; dlga_village_tax2:village_tax3.1|I would like to set a high tax rate.
-; dlga_village_tax2:village_tax3.2|I would like to set a normal tax rate.
+dlga_village_elder_talk:village_tax|Vorrei impostare una nuovo livello di tasse per questo villaggio.
+dlga_village_tax:village_tax2|Certamente. Quante tasse vuoi farci pagare?
+dlga_village_tax2:village_tax3|Vorrei impostare un livello di tasse basso.
+dlga_village_tax2:village_tax3.1|Vorrei impostare un livello di tasse alto.
+dlga_village_tax2:village_tax3.2|Vorrei impostare un livello di tasse normale.
 dlga_village_tax2:village_elder_pretalk|Veramente, ho cambiato idea.
 ; dlga_village_tax3:village_elder_pretalk|Most certainly. We shall abide by your most gracious order.
 dlga_village_elder_give_order1:close_window|Niente.
-; dlga_village_elder_trade_begin:village_elder_trade_talk|Of course, {reg59?madam:sir}. Do you want to buy goods or cattle?
+dlga_village_elder_trade_begin:village_elder_trade_talk|Naturalmente, {reg59?signora:signore}. Vuole acquistare merci o bestiame?
 dlga_village_elder_trade_talk:village_elder_trade|Voglio comprare merci e cibo.
 ; dlga_village_elder_trade:village_elder_pretalk|We have some food and other supplies in our storehouse. Come and have a look.
 dlga_village_elder_trade_talk:village_elder_buy_cattle|Vorrei comprare del bestiame.
-; dlga_village_elder_talk:village_elder_get_cattle_gift|I have {reg25} head of cattle that I would like to gift to your village.
+dlga_village_elder_talk:village_elder_get_cattle_gift|Ho {reg25} capi di bestiame che mi piacerebbe regalare al tuo villaggio.
 ; dlga_village_elder_get_cattle_gift:village_elder_pretalk|Yes, definitely. Our people will be extremely grateful for such a generous gift.
 dlga_village_elder_trade_talk:village_elder_pretalk|Ho cambiato idea. Non ho bisogno di comprare niente.
 dlga_village_elder_talk:village_elder_ask_enemies|Avete visto dei nemici nei dintorni di recente?
-; dlga_village_elder_ask_enemies:village_elder_pretalk|I am sorry, {reg59?madam:sir}. We have neither seen nor heard of any war parties in this area.
+dlga_village_elder_ask_enemies:village_elder_pretalk|Sono spiacente, {reg59?signora:signore}. Non abbiamo visto nè sentito di nessun gruppo di soldati in questa zona.
 dlga_village_elder_ask_enemies:village_elder_tell_enemies|Hmm. Fatemici pensare...
 dlga_village_elder_tell_enemies:village_elder_tell_enemies|{s1} {s2}
-; dlga_village_elder_tell_enemies:village_elder_pretalk|No, {reg59?madam:sir}. We haven't seen any war parties in this area for some time.
+dlga_village_elder_tell_enemies:village_elder_pretalk|No, {reg59?signora:signore}. Non abbiamo visto nessun gruppo di soldati in questa zona, da molto tempo.
 dlga_village_elder_tell_enemies:village_elder_pretalk.1|Bene, immagino sia tutto.
 ; dlga_tort_explained:torture_1|My {reg59?lady:lord}, I can beat and torture your enemies for your pleasure or if you want to make an enemy lord do something. For example, you can force an enemy lord to grant permission to court his daughter or sister, if such permission is hard to gain for you by any other means. Or you can force the lord to grant you parts of his rents from his fief for some time in exchange for freedom. If the lord is pagan and married, you can try to force him to divorce his wife. Then, of course, you will be free to pursue her as a free woman.
 ; dlga_torture_1:torture_pretalk|Thank you. That was informative.
@@ -6049,7 +6049,7 @@ dlga_village_elder_ask_set_fire_9:village_elder_ask_set_fire_11|Fatelo allo scoc
 ; dlga_village_elder_ask_set_fire_10:close_window|Very well, {reg59?my lady:sir}. We will make our preparations. Now you make yours.
 ; dlga_village_elder_ask_set_fire_11:close_window|As you wish, {reg59?my lady:sir}. May the heavens protect you.
 ; dlga_village_elder_talk:village_elder_recruit_start|I'm looking for men who are willing to follow me. I am recruiting...
-; dlga_village_elder_talk:village_elder_angry|I can protect this village from harm -- for a fee.
+dlga_village_elder_talk:village_elder_angry|Posso proteggere questo villaggio dalle minacce -- a pagamento.
 ; dlga_village_elder_angry:village_elder_extortion|Ach, not another one! For the sake of our families, I will pay your fee.
 ; dlga_village_elder_extortion:close_window|You have done well. Your families will thank you.
 ; dlga_village_elder_angry:close_window|Hah, you joker, you... You don't fool me one bit!
@@ -6057,7 +6057,7 @@ dlga_village_elder_ask_set_fire_9:village_elder_ask_set_fire_11|Fatelo allo scoc
 ; dlga_village_elder_ask_dog:village_elder_pretalk|Yes, recently I saw a stray dog. He was begging for food, but nobody here needs a new dog. I think he is currently sitting somewhere around here.
 ; dlga_village_elder_ask_dog:village_elder_pretalk.1|No, I haven't seen any stray dog here recently. 
 dlga_village_elder_talk:close_window|[Abbandona]
-; dlga_village_elder_buy_cattle:village_elder_buy_cattle_2|We have {reg5} head of cattle, each for {reg6} peningas. How many do you want to buy?
+dlga_village_elder_buy_cattle:village_elder_buy_cattle_2|Abbiamo {reg5} capi di bestiame, ciascuno per {reg6} denari. Quanti ne vuoi comprare?
 ; dlga_village_elder_buy_cattle:village_elder_buy_cattle_2.1|I am afraid we have no cattle left in the village, {reg59?madam:sir}.
 dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete|Uno.
 dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.1|Due.
@@ -6096,7 +6096,7 @@ dlga_village_elder_recruit4_2:village_elder_recruit2|{s4}
 ; dlga_village_elder_recruit5_1:village_elder_talk|It doesn't make sense to discuss things that are so vague. I think that I've been wasting my time with you. Farewell.
 ; dlga_village_elder_recruit6:village_elder_talk|Well, you have my permission to take those troublemakers off my hands. I think they are eager for adventure anyway. You may go to the center of the village and take anyone loitering there. For every recruit you take from this village, I'll take a commission.
 dlga_village_elder_active_mission_1:village_elder_active_mission_2|Si {reg59?signora:signore}, hai fatto qualche progresso?
-; dlga_village_elder_active_mission_2:village_elder_deliver_grain_thank|Indeed. I brought you {reg5} sacks of grain.
+dlga_village_elder_active_mission_2:village_elder_deliver_grain_thank|Certamente. Vi ho portato {reg5} sacchi di grano.
 ; dlga_village_elder_deliver_grain_thank:village_elder_deliver_grain_thank_2|My good {reg59?lady:lord}. You have saved us from hunger and desperation. We cannot thank you enough, but you'll always be in our prayers. The village of {s13} will not forget what you have done for us.
 ; dlga_village_elder_deliver_grain_thank_2:village_elder_talk|My good {reg59?lady:lord}, please, is there anything I can do for you?
 dlga_village_elder_active_mission_2:village_elder_active_mission_3|Sono ancora all'opera su questo.
@@ -6104,7 +6104,7 @@ dlga_village_elder_active_mission_2:village_elder_mission_failed|Mi dispiace di 
 ; dlga_village_elder_active_mission_3:village_elder_pretalk|Thank you, {reg59?madam:sir}. We are praying for your success every day.
 ; dlga_village_elder_mission_failed:village_elder_pretalk|Ah, I am sorry to hear that, {reg59?madam:sir}. I'll try to think of something else.
 ; dlga_village_elder_request_mission_ask:village_elder_pretalk|Well, {reg59?her:his} Highness is already engaged with a task helping us. We cannot ask more from you.
-; dlga_village_elder_request_mission_ask:village_elder_pretalk.1|No, {reg59?madam:sir}. We don't have any other tasks for you.
+dlga_village_elder_request_mission_ask:village_elder_pretalk.1|No, {reg59?signora:signore}. Non abbiamo altre attività per voi.
 dlga_village_elder_request_mission_ask:village_elder_tell_mission|Un compito?
 ; dlga_village_elder_tell_mission:village_elder_tell_deliver_grain_mission|{reg59?My good lady:My good lord}, our village has been going through such hardships lately. The harvest has been bad, and recently some merciless bandits took away our wheat that we had reserved for the planting season. If we cannot find some seed soon, we will not be able to plant our fields and then we will have nothing to eat for the coming year. If you can help us, we would be indebted to you forever.
 dlga_village_elder_tell_deliver_grain_mission:village_elder_tell_deliver_grain_mission_2|Hmmm. Di quanto grano avete bisogno?
@@ -6113,14 +6113,14 @@ dlga_village_elder_tell_deliver_grain_mission:village_elder_deliver_grain_missio
 dlga_village_elder_tell_deliver_grain_mission_3:village_elder_deliver_grain_mission_accept|Bene, andrò a procurarvi il grano che vi serve.
 dlga_village_elder_tell_deliver_grain_mission_3:village_elder_deliver_grain_mission_reject|Ho paura di non aver proprio tempo per questo. Dovrete chiedere aiuto altrove.
 ; dlga_village_elder_deliver_grain_mission_accept:close_window|Thank you, {reg59?madam:sir}. We'll be praying for you night and day.
-; dlga_village_elder_deliver_grain_mission_reject:close_window|Yes, {reg59?madam:sir}, of course. I am sorry if I have bothered you with our troubles.
+dlga_village_elder_deliver_grain_mission_reject:close_window|Sì, {reg59?signora:signore}, certamente. Mi spiace avervi disturbato con questi nostri problemi.
 ; dlga_village_elder_tell_mission:village_elder_tell_capture_mission|{reg59?My good lady:My good lord}, we have a bit of a problem on our hands. Although the harvest was good, and we are not doing that badly either, too many of our men can't marry, because there are not enough women in our village, only God knows why. That brings about unnecessary tension among our men, and with it all kind of rowdy behavior and incessant fistfights. You look like a {reg59?lady:man} of the sword. Would you be able to capture and bring us some young women so our poor men can stop fighting and start farming?
 dlga_village_elder_tell_capture_mission:village_elder_tell_capture_mission_2a|{s10}
 dlga_village_elder_tell_capture_mission:village_elder_tell_capture_mission_2b|{s10}
 ; dlga_village_elder_tell_capture_mission:village_elder_capture_mission_reject|I am not a kidnapper. Ask someone else to help you.
 dlga_village_elder_tell_capture_mission_2a:village_elder_tell_capture_mission_3a|{s10}
 dlga_village_elder_tell_capture_mission_2b:village_elder_tell_capture_mission_3b|{s10}
-; dlga_village_elder_capture_mission_reject:close_window|Yes, {reg59?my lady:my lord}, of course. I am sorry if I have bothered you with our troubles.
+dlga_village_elder_capture_mission_reject:close_window|Sì, {reg59?mia signora:mio signore}, certamente. Mi spiace avervi disturbato con questi nostri problemi.
 ; dlga_village_elder_tell_capture_mission_3b:village_elder_capture_mission_4b|I'm not sure how common this is... Why not ask your lord to help you?
 ; dlga_village_elder_tell_capture_mission_3b:village_elder_capture_mission_4b.1|That sounds fascinating. Perhaps I will take you up on that offer when I'm ready...
 ; dlga_village_elder_tell_capture_mission_3b:village_elder_capture_mission_4b.2|You seem to know a lot about women, my good man. This all seems so logical now.
@@ -6157,25 +6157,25 @@ dlga_village_elder_capture_mission_4d1:village_elder_tell_capture_mission_5a|Hmm
 ; dlga_village_elder_tell_capture_mission_6:village_elder_capture_mission_accept|Then I will go and find you the women you need.
 dlga_village_elder_tell_capture_mission_6:village_elder_capture_mission_reject|Ho paura di non aver proprio tempo per questo. Dovrete chiedere aiuto altrove.
 ; dlga_village_elder_capture_mission_accept:close_window|Thank you, {reg59?my lady:my lord}. May your paths guide you to the best women.
-; dlga_village_elder_active_mission_2:village_elder_capture_thank|Indeed. I have brought you {reg5} women, as you requested.
+dlga_village_elder_active_mission_2:village_elder_capture_thank|Certamente. Vi ho portato {reg5} donne, come avete richiesto.
 ; dlga_village_elder_capture_thank:village_elder_capture_thank_2|My good {reg59?lady:lord}, you are a true savior for our village. We cannot thank you enough, but you'll always be in our prayers. The men of {s13} will not forget what you have done for us. We will all name our first {reg59?daughter:son} after you!
 ; dlga_village_elder_capture_thank_2:village_elder_talk|My good {reg59?lady:lord}, please, is there anything I can do for you?
 ; dlga_village_elder_tell_mission:village_elder_tell_capture_slave_mission|One of our slaves has overwhelmed his owner and fled. You look like a {reg59?woman:man} of war strong enough to capture him. Would you be able to find him and bring him back? He cannot have gone far. He must be hiding somewhere next to the village.
-; dlga_village_elder_tell_capture_slave_mission:village_elder_capture_slave_mission_accept|I will find him and bring him back.
-; dlga_village_elder_tell_capture_slave_mission:village_elder_capture_slave_mission_reject|I'm no slave hunter.
-; dlga_village_elder_tell_capture_slave_mission:village_elder_capture_slave_mission_reject.1|I am afraid I don't have time for this now.
+dlga_village_elder_tell_capture_slave_mission:village_elder_capture_slave_mission_accept|Lo troverò e riporterò indietro.
+dlga_village_elder_tell_capture_slave_mission:village_elder_capture_slave_mission_reject|Non sono un cacciatore di schiavi.
+dlga_village_elder_tell_capture_slave_mission:village_elder_capture_slave_mission_reject.1|Temo di non avere tempo per questo ora.
 ; dlga_village_elder_capture_slave_mission_accept:close_window|You will? Oh, splendid! Thank you, {reg59?madam:sir}. He must be hiding somewhere near our village.
 ; dlga_village_elder_capture_slave_mission_reject:close_window|Yes, of course {reg59?madam:sir}. Well, we will find someone else for the job.
 dlga_start:capture_slave_pretalk_1|Salute, viaggiatore.
-; dlga_capture_slave_pretalk_1:capture_slave_pretalk_2|Greetings. What are you doing here in the middle of nowhere?
-; dlga_capture_slave_pretalk_2:capture_slave_talk|I ran away from a nearby village, and I'm hiding here trying to decide what to do next.
+dlga_capture_slave_pretalk_1:capture_slave_pretalk_2|Saluti. Che cosa ci fai qui in mezzo al nulla?
+dlga_capture_slave_pretalk_2:capture_slave_talk|Sono scappato da un villaggio vicino, e mi sto nascondendo qui cercando di decidere cosa fare dopo.
 dlga_capture_slave_pretalk_x:capture_slave_talk|cos'altro volete sapere?
 dlga_capture_slave_talk:capture_slave_ask_why|Perchè siete corso via?
 ; dlga_capture_slave_ask_why:capture_slave_pretalk_x|My master has beaten me on more than one occasion. I could not stand it any longer.
 dlga_capture_slave_talk:capture_slave_talk_2|Sono qui per portarti dal tuo padrone.
-; dlga_capture_slave_talk_2:capture_slave_talk_3|I'm begging you, {reg59?madam:sir}. Anything but that. Death awaits me there.
+dlga_capture_slave_talk_2:capture_slave_talk_3|Vi supplico, {reg59?signora:signore}. Qualsiasi cosa ma non questo. La morte mi aspetta lì.
 dlga_capture_slave_talk_3:close_window|Mi interessa poco del tuo destino. Seguimi!
-; dlga_capture_slave_talk_3:capture_slave_kill|If death is awaiting you anyway, I will kill you right here.
+dlga_capture_slave_talk_3:capture_slave_kill|Se la morte ti aspetta in ogni caso, ti ucciderò proprio qui.
 dlga_capture_slave_kill:close_window|In quel caso, mi difenderò.
 dlga_capture_slave_talk_3:capture_slave_talk_4|Unisciti al mio esercito e non dovrai tornare dal tuo padrone
 dlga_capture_slave_talk_3:capture_slave_talk_4.1|Me ne vado. Farò finta di non averti visto.
@@ -6185,16 +6185,16 @@ dlga_village_elder_tell_train_peasants_against_bandits_mission:village_elder_tra
 dlga_village_elder_tell_train_peasants_against_bandits_mission:village_elder_train_peasants_against_bandits_mission_reject|Voi contadini non avete niente a che fare con le battaglie. Pagate i banditi e fatela finita.
 ; dlga_village_elder_train_peasants_against_bandits_mission_accept:close_window|You will? Oh, splendid! We would be deeply indebted to you, {reg59?madam:sir}. I'll instruct the village folk to assemble here and receive your training. If you can teach us how to defend ourselves, I promise you'll receive everything we can give you in return for your efforts.
 ; dlga_village_elder_train_peasants_against_bandits_mission_reject:close_window|Yes, of course {reg59?madam:sir}. Thank you for your counsel.
-; dlga_village_elder_tell_mission:village_elder_tell_deliver_cattle_mission|Bandits have driven away our cattle. Our pastures are empty. If we had just a few head of cattle, we could start to raise a herd again.
+dlga_village_elder_tell_mission:village_elder_tell_deliver_cattle_mission|I banditi hanno portato via il nostro bestiame. I nostri pascoli sono vuoti. Se avessimo anche solo pochi capi di bestiame, potremmo iniziare ad allevare di nuovo una mandria.
 dlga_village_elder_tell_deliver_cattle_mission:village_elder_tell_deliver_cattle_mission_2|Di quante bestie avete bisogno?
 dlga_village_elder_tell_deliver_cattle_mission:village_elder_deliver_cattle_mission_reject|Non ho tempo per questo genere di cose. Chiedete aiuto a qualcun altro.
-; dlga_village_elder_tell_deliver_cattle_mission_2:village_elder_tell_deliver_cattle_mission_3|I think {reg5} head of cattle will suffice for a small herd.
+dlga_village_elder_tell_deliver_cattle_mission_2:village_elder_tell_deliver_cattle_mission_3|Penso che {reg5} capi di bestiame saranno sufficiente per una piccola mandria.
 dlga_village_elder_tell_deliver_cattle_mission_3:village_elder_deliver_cattle_mission_accept|Vi porterò il bestiame che vi serve, allora.
 dlga_village_elder_tell_deliver_cattle_mission_3:village_elder_deliver_cattle_mission_reject|Ho paura di non aver proprio tempo per questo. Dovrete chiedere aiuto altrove.
 ; dlga_village_elder_deliver_cattle_mission_accept:close_window|Thank you, {reg59?madam:sir}. We'll be praying for you night and day.
-; dlga_village_elder_deliver_cattle_mission_reject:close_window|Yes, {reg59?madam:sir}, of course. I am sorry to have bothered you with our troubles.
+dlga_village_elder_deliver_cattle_mission_reject:close_window|Sì, {reg59?signora:signore}, certamente. Mi spiace avervi disturbato con questi nostri problemi.
 ; dlga_village_elder_tell_mission:village_elder_pretalk|Thank you, {reg59?madam:sir}, but we do not really need anything right now.
-; dlga_start:goods_merchant_talk|{reg59?My lady:My lord}, you honour my humble shop with your presence.
+dlga_start:goods_merchant_talk|{reg59?Mia signora:Mio Signore}, onorate il mio umile negozio con la vostra presenza.
 dlga_start:goods_merchant_talk.1|Benvenuto {reg59?signora:signore}. Cosa posso fare per voi?
 dlga_goods_merchant_pretalk:goods_merchant_talk|Nient'altro?
 ; dlga_goods_merchant_talk:quest_pieles1|Hogni, the port master of Ribe sends these furs to you.

@@ -18,7 +18,7 @@ trp_tutorial_swordsman|Espadachín
 trp_tutorial_swordsman_pl|Espadachín
 trp_novice_fighter|Luchador novicio
 trp_novice_fighter_pl|Luchadores novicios
-; trp_regular_fighter|Fighter
+trp_regular_fighter|Luchador
 trp_regular_fighter_pl|Luchadores con experiencia
 trp_veteran_fighter|Luchador veterano
 trp_veteran_fighter_pl|Luchadores veteranos
@@ -48,35 +48,35 @@ trp_cattle|Ganado
 trp_cattle_pl|Ganado
 trp_farmer|Campesino
 trp_farmer_pl|Campesinos
-; trp_cantaber_iuventus|Cantabrian Warrior
-; trp_cantaber_iuventus_pl|Cantabrian Raider
-; trp_asturias_veteran|Asturian Veteran
-; trp_asturias_veteran_pl|Asturian Veteran
-; trp_gallaecia_warrior|Gallaecian Comes's Guard
-; trp_gallaecia_warrior_pl|Gallaecian Comes's Guard
+trp_cantaber_iuventus|Guerrero cántabro
+trp_cantaber_iuventus_pl|Saqueador cántabro
+trp_asturias_veteran|Veterano asturiano
+trp_asturias_veteran_pl|Veterano asturiano
+trp_gallaecia_warrior|Guardia de Comes gallega
+trp_gallaecia_warrior_pl|Guardia de Comes gallega
 trp_townsman|Ciudadano
 trp_townsman_pl|Ciudadanos
 trp_watchman|Vigilante
 trp_watchman_pl|Vigilantes
-; trp_mercenary_cavalry|Frank Horseman
-; trp_mercenary_cavalry_pl|Frank Horsemen
-; trp_caravan_guard|Spearman
-; trp_caravan_guard_pl|Spearmen
-; trp_mercenary_swordsman|Veteran
-; trp_mercenary_swordsman_pl|Veterans
-; trp_regular_sailors|Sailor
-; trp_regular_sailors_pl|Sailors
-; trp_mercenary_horseman|Aquitanian Skirmisher
-; trp_mercenary_horseman_pl|Aquitanian Skirmishers
-; trp_mercenary_leader|Old Captain
-; trp_mercenary_leader_pl|Old Captains
-; trp_hired_blade|Svear Warrior
-; trp_hired_blade_pl|Sviar Warriors
-; trp_mercenary_crossbowman|Finn Archer
-; trp_mercenary_crossbowman_pl|Finnas Archers
+trp_mercenary_cavalry|Jinete franco
+trp_mercenary_cavalry_pl|Jinete franco
+trp_caravan_guard|Lancero
+trp_caravan_guard_pl|Lanceros
+trp_mercenary_swordsman|Veterano
+trp_mercenary_swordsman_pl|Veteranos
+trp_regular_sailors|Marinero
+trp_regular_sailors_pl|Marineros
+trp_mercenary_horseman|Escaramuzador aquitariano
+trp_mercenary_horseman_pl|Escaramuzadores aquitarianos
+trp_mercenary_leader|Viejo capitán
+trp_mercenary_leader_pl|Viejos capitanes
+trp_hired_blade|Guerrero svear
+trp_hired_blade_pl|Guerreros sviar
+trp_mercenary_crossbowman|Arquero finlandés
+trp_mercenary_crossbowman_pl|Arqueros finlandeses
 trp_mercenaries_end|Aldeana
 trp_mercenaries_end_pl|Aldeanas
-; trp_norse_slave|Norse Freedman (Leysingi)
+trp_norse_slave|Liberto nórdico (Leysingi)
 ; trp_norse_slave_pl|Norse Freedmen (Leysingja)
 ; trp_norse_bowman|Norse Bowman (Gestr)
 ; trp_norse_bowman_pl|Norse Bowmen (Gestir)
@@ -297,7 +297,7 @@ trp_irish_prison_guard_pl|Guardias de la cárcel
 trp_brigand|Bandolero
 trp_brigand_pl|Bandoleros
 trp_mountain_bandit|Ladrón
-; trp_mountain_bandit_pl|Robbers
+trp_mountain_bandit_pl|Asaltantes
 trp_forest_bandit|Bandido
 trp_forest_bandit_pl|Bandidos
 ; trp_sea_raider|Reaver
@@ -306,10 +306,10 @@ trp_forest_bandit_pl|Bandidos
 ; trp_desert_bandit_pl|Highwaymen
 ; trp_steppe_bandit|Northmathr Vikingr
 ; trp_steppe_bandit_pl|Northmenn Vikingarnir
-; trp_taiga_bandit|Vikingr
-; trp_taiga_bandit_pl|Vikingarnir
+trp_taiga_bandit|Vikingos
+trp_taiga_bandit_pl|Vikingarnir
 ; trp_elite_viking|Danish Elite Vikingr
-; trp_elite_viking_pl|Danish Elite Vikingarnir
+trp_elite_viking_pl|Vikingarnir de élite danés
 ; trp_elite_viking_2|Svear Elite Vikingr
 ; trp_elite_viking_2_pl|Sviar Elite Vikingarnir
 ; trp_sea_raider_leader2|Ship Captain
@@ -317,7 +317,7 @@ trp_forest_bandit_pl|Bandidos
 ; trp_looter_leader2|Bandit Leader
 ; trp_looter_leader2_pl|Bandit Leaders
 ; trp_manhunter|Young Warrior
-; trp_manhunter_pl|Young Warriors
+trp_manhunter_pl|Guerreros jóvenes
 trp_slave_driver|Esclavista
 trp_slave_driver_pl|Esclavistas
 trp_slave_hunter|Cazador de Esclavos
@@ -444,8 +444,8 @@ trp_farmer_from_bandit_village|Campesino
 trp_farmer_from_bandit_village_pl|Campesinos
 trp_trainer_2|Harald
 trp_trainer_2_pl|Instructor
-; trp_trainer_1|Veteran
-; trp_trainer_1_pl|Veteran
+trp_trainer_1|Veterano
+trp_trainer_1_pl|Veterano
 trp_trainer_3|Instructor
 trp_trainer_3_pl|Instructor
 trp_trainer_4|Instructor
@@ -453,27 +453,27 @@ trp_trainer_4_pl|Instructor
 trp_trainer_5|Instructor
 trp_trainer_5_pl|Instructor
 trp_ransom_broker_1|Comisionista de rescates
-; trp_ransom_broker_1_pl|Slave Trader
+trp_ransom_broker_1_pl|Traficante de esclavos
 trp_ransom_broker_2|Comisionista de rescates
-; trp_ransom_broker_2_pl|Slave Trader
+trp_ransom_broker_2_pl|Traficante de esclavos
 trp_ransom_broker_3|Comisionista de rescates
-; trp_ransom_broker_3_pl|Slave Trader
+trp_ransom_broker_3_pl|Traficante de esclavos
 trp_ransom_broker_4|Comisionista de rescates
-; trp_ransom_broker_4_pl|Slave Trader
+trp_ransom_broker_4_pl|Traficante de esclavos
 trp_ransom_broker_5|Comisionista de rescates
-; trp_ransom_broker_5_pl|Slave Trader
+trp_ransom_broker_5_pl|Traficante de esclavos
 trp_ransom_broker_6|Comisionista de rescates
-; trp_ransom_broker_6_pl|Slave Trader
+trp_ransom_broker_6_pl|Traficante de esclavos
 trp_ransom_broker_7|Comisionista de rescates
-; trp_ransom_broker_7_pl|Slave Trader
+trp_ransom_broker_7_pl|Traficante de esclavos
 trp_ransom_broker_8|Comisionista de rescates
-; trp_ransom_broker_8_pl|Slave Trader
+trp_ransom_broker_8_pl|Traficante de esclavos
 trp_ransom_broker_9|Comisionista de rescates
-; trp_ransom_broker_9_pl|Slave Trader
+trp_ransom_broker_9_pl|Traficante de esclavos
 trp_ransom_broker_10|Comisionista de rescates
-; trp_ransom_broker_10_pl|Slave Trader
+trp_ransom_broker_10_pl|Traficante de esclavos
 trp_ransom_broker_20|Comisionista de rescates
-; trp_ransom_broker_20_pl|Slave Trader
+trp_ransom_broker_20_pl|Traficante de esclavos
 trp_tavern_traveler_1|Viajero
 trp_tavern_traveler_1_pl|Viajero
 trp_tavern_traveler_2|Viajero
@@ -1837,8 +1837,8 @@ trp_relative_of_merchants_end_pl|fin de familia de mercaderes
 ; trp_lair_captain_pl|Lair Captains
 ; trp_mule_troop|The Frog
 ; trp_mule_troop_pl|The Frog
-; trp_leader_playerrf|Veteran
-; trp_leader_playerrf_pl|Veteran
+trp_leader_playerrf|Veterano
+trp_leader_playerrf_pl|Veterano
 ; trp_mountain_bandit_leader|Wolf Heart
 ; trp_mountain_bandit_leader_pl|Wolf Heart
 ; trp_last_druid|Druid
@@ -1861,9 +1861,9 @@ trp_relative_of_merchants_end_pl|fin de familia de mercaderes
 ; trp_gundinsalvo_cantabrian_pl|Comes Gundinsalvo of Amaia
 ; trp_port_crew|Old Sea Captain
 ; trp_port_crew_pl|SR Captains
-; trp_port_pirate|Slave Trader
+trp_port_pirate|Traficante de esclavos
 ; trp_port_pirate_pl|Slave Traders
-; trp_fisher|Fisher
+trp_fisher|Pescador
 ; trp_fisher_pl|Fishers
 ; trp_thiaderd|Thiaderd
 ; trp_thiaderd_pl|Thiaderd
@@ -1985,7 +1985,7 @@ trp_mp_scotch_infantry_pl|
 trp_mp_scotch_archer_pl| 
 ; trp_mp_scotch_cavalry|Pictish Cavalry
 trp_mp_scotch_cavalry_pl| 
-; trp_norse_peasant_ai|Norse Freedman (Leysingi)
+trp_norse_peasant_ai|Liberto nórdico (Leysingi)
 ; trp_norse_peasant_ai_pl|Norse Freedmen (Leysingja)
 ; trp_saxon_peasant_ai|Saxon Peasant (Gebur)
 ; trp_saxon_peasant_ai_pl|Peasants (Geburas)

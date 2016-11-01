@@ -425,7 +425,7 @@ str_npc2_backstory_a|Ich erbitte ein wenig Eurer Zeit, {reg59?madame:sir}. Hört
 str_npc3_backstory_a|Ich... Es tut mir leid, aber bitte versteht doch. Mein Leben war die Hölle auf Erden seit ich Dienerin im Hause des Jarls von Kennemer wurde.
 str_npc4_backstory_a|Ich bin ein Mann der Tat. Wenn Ihr einen Mann der Wörter wollt, sucht Euch einen Priester.
 str_npc5_backstory_a|Ich bin Morgant von Bosvenegh. Jedoch wurde ich aus meiner Heimat vertrieben...
-; str_npc6_backstory_a|{reg59?Madam:Sir}, I should be dead, but I still live while others who should be alive are dead. I came to consider the ship that brought me north, the Woden Ric, as a home, with its crew as my family. So when the Vikings attacked, I grabbed my sword and my shield and prepared to defend them to the death.^^The Cantabrians are Christians, but some of us still remember the old gods. One in particular, Erudino, guides us in battle, and I shout his name while attacking with my sword.
+str_npc6_backstory_a|{reg59? Frau: Herr}, ich wäre tot, aber ich lebe noch, während andere, die dass Leben Verdienen tot sind. Ich kam zu das Schiff, das brachte mich nach Norden, zu Woden Ric, in einem Haus, mit seiner Mannschaft die wie meine Familie ist. Als  die Wikinger uns angegriffen haben, schnappte ich mein Schwert und mein Schild und war bereit, sie zu verteidigen, bis zum Tot. ^ ^ die Kantabrier sind Christen, aber einige von uns sehen sie als alte Götter. Eine besonders Erudino, führt uns in die Schlacht, und ich schrie seinen Namen beim Angriff mit dem Schwert.
 str_npc7_backstory_a|Mein Glück? So kann man das auch nennen.
 str_npc8_backstory_a|Ah. Nun, wenn Ihr es unbedingt wissen müsst, werde ich es Euch sagen. Nicht viele Leute in dieser Gegend wollen dem guten alten Reginhard zuhören.
 str_npc9_backstory_a|Meine aufrichtige Entschuldigung. Es ist manchmal schwer, Leute inmitten des Rauches und der Finsternis hier zu erkennen. Ich kann immer noch nicht glauben, dass ich mein Heim an einem solchen Ort errichten musste.
@@ -2495,7 +2495,7 @@ str_hello_playername|Hallo, {playername}!
 ; str_ah_my_gentle_playername_how_much_good_it_does_my_heart_to_see_you_again| How much good it does my heart to see you again! Sometimes, I feel that there is a mystic bond between us that transcends the distance.
 ; str_playername__i_am_so_glad_to_see_you_again_i_must_say_i_do_envy_your_freedom_to_ride_out_and_experience_the_world| I must say, I do envy your freedom to ride out and experience the world.
 ; str_playername__i_am_so_glad_to_see_you_i_trust_that_you_have_been_behaving_honorably_since_last_we_met| I trust that you have been behaving honorably since last we met.
-; str_playername__i_am_so_glad_that_you_were_able_to_come| I am so glad that you were able to come.
+str_playername__i_am_so_glad_that_you_were_able_to_come| Ich bin so froh, dass Sie kommen konnten.
 ; str_i_do_enjoy_speaking_to_you_but_i_am_sure_you_understand_that_our_people_cluck_their_tongues_at_a_woman_to_spend_too_long_conversing_with_a_man_outside_her_family__although_the_heavens_know_its_never_the_man_who_is_held_to_blame_|I do enjoy speaking to you. But I am sure you understand that our people cluck their tongues at a woman who spends too long conversing with a man outside her family -- although the heavens know it's never the man who is held to blame. 
 ; str_as_much_as_i_enjoy_speaking_to_you_i_do_not_care_to_be_gossiped_about_by_others_who_might_lack_my_grace_and_beauty_|As much as I enjoy speaking to you, I do not care to be gossiped about by others who might lack my grace and beauty. 
 ; str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_one_of_the_great_families_of_this_land_i_must_set_an_example_of_propriety_|I do so enjoy speaking to you. But as a daughter of one of the great families of this land, I must set an example of propriety. 
@@ -3024,52 +3024,52 @@ str_inv_command_order_use_ranged|Fernkampf Waffe einsetzen
 ; str_briton_level3_landed|Uchelwr Levy 1st Rank
 ; str_briton_level0_companion|Cadwr Companion Back
 ; str_briton_level1_companion|Campiwr Companion Mid
-; str_briton_level2_companion|Teulu Companion Front
-; str_briton_horseman|Marchoc Horseman
-; str_saxon_slave|Gebur Auxillary
-; str_saxon_bowman|Sceotand Bowman
-; str_saxon_level0_landed|Kotsetla Fyrd Back
-; str_saxon_level1_landed|Geoguth Fyrd 3rd Rank
-; str_saxon_level2_landed|Duguth Fyrd 2nd Rank
-; str_saxon_level3_landed|Thegn Fyrd 1st Rank
-; str_saxon_level0_companion|Geneata Companion Back
-; str_saxon_level1_companion|Gesith Companion Mid
-; str_saxon_level2_companion|Hearthweru Companion Front
-; str_saxon_horseman|Ridwiga Horseman
-; str_scotch_peasant|Petta Auxillary
-; str_scotch_bowman|Fuidir Skirmisher
-; str_scotch_level0_skirmisher|Saiogdear Skirmisher
-; str_scotch_level1_skirmisher|Cruithne Skirmisher
-; str_scotch_level0_landed|Bothach Levy Back
-; str_scotch_level1_landed|Octhingern Levy Mid
-; str_scotch_level2_landed|Diuberr Levy Mid
-; str_scotch_level0_companion|Creach Sluach Companion Back
-; str_scotch_level1_companion|Bruide Companion Back
-; str_scotch_level2_companion|Gaisgidh Companion Front
-; str_scotch_horseman|Each Raidh Horseman
-; str_scotch_knight|Toisech Knight
-; str_angle_slave|Gebur Auxillary
-; str_angle_bowman|Sceotand Bowman
-; str_angle_level0_landed|otsetla Fyrd Back
-; str_angle_level1_landed|Geoguth Fyrd 3rd Rank
-; str_angle_level2_landed|Duguth Fyrd 2nd Rank
-; str_angle_level3_landed|Thegn Fyrd 1st Rank
-; str_angle_level0_companion|Geneata Companion Back
-; str_angle_level1_companion|Gesith Companion Mid
-; str_angle_level2_companion|Hearthweru Companion Front
-; str_angle_horseman|Ridwiga Horseman
-; str_irish_slave|Senchleithe Auxillary
-; str_irish_bowman|Fer Midboth Skirmisher
-; str_irish_level0_skirmisher|Ceitherne Skirmisher
-; str_irish_level1_skirmisher|Fian Skirmisher
-; str_irish_level0_landed|Bothach Levy Back
-; str_irish_level1_landed|Ocaire Levy 3rd Rank
-; str_irish_level2_landed|Boaire Levy 2nd Rank
-; str_irish_level3_landed|Airig Levy 1st Rank
-; str_irish_level0_companion|Cliarthaire Companion
-; str_irish_level1_companion|Curraidh Companion
-; str_irish_horseman|Marcach Horseman
-; str_irish_knight|Deaisbard Knight
+str_briton_level2_companion|Teulu Begleiter vorne
+str_briton_horseman|Marchoc Reiter
+str_saxon_slave|Gebur Auxillary
+str_saxon_bowman|Sceotand Bogenschütze
+str_saxon_level0_landed|Kotsetla Fyrd zurück
+str_saxon_level1_landed|Geoguth Fyrd 3. Rang
+str_saxon_level2_landed|Duguth Fyrd 2. Rang
+str_saxon_level3_landed|Thegn Fyrd-1. Rang
+str_saxon_level0_companion|Geneata Begleiter Rücken
+str_saxon_level1_companion|Gesith Begleiter Mitte
+str_saxon_level2_companion|Hearthweru Begleiter Front
+str_saxon_horseman|Ridwiga Reiter
+str_scotch_peasant|Petta Auxillary
+str_scotch_bowman|Fuidir Skirmisher
+str_scotch_level0_skirmisher|Saiogdear Skirmisher
+str_scotch_level1_skirmisher|Bauen Skirmisher
+str_scotch_level0_landed|Bothach Levy Rücken
+str_scotch_level1_landed|Octhingern Abgabe Mitte
+str_scotch_level2_landed|Diuberr Abgabe Mitte
+str_scotch_level0_companion|Creach Sluach Begleiter Rücken
+str_scotch_level1_companion|Bruide Begleiter Rücken
+str_scotch_level2_companion|Gaisgidh Begleiter Front
+str_scotch_horseman|Each Raidh Reiter
+str_scotch_knight|Toisech Ritter
+str_angle_slave|Gebur Auxillary
+str_angle_bowman|Sceotand Bogenschütze
+str_angle_level0_landed|Otsetla Fyrd Rücken
+str_angle_level1_landed|Geoguth Fyrd 3. Rang
+str_angle_level2_landed|Duguth Fyrd 2. Rang
+str_angle_level3_landed|Thegn Fyrd 1. Rang
+str_angle_level0_companion|Geneata Begleiter Rücken
+str_angle_level1_companion|Gesith Begleiter Mitte
+str_angle_level2_companion|Hearthweru Begleiter Front
+str_angle_horseman|Ridwiga Reiter
+str_irish_slave|Senchleithe Auxillary
+str_irish_bowman|Fer Midboth Skirmisher
+str_irish_level0_skirmisher|Ceitherne Skirmisher
+str_irish_level1_skirmisher|FIAN Skirmisher
+str_irish_level0_landed|Bothach Levy Rücken
+str_irish_level1_landed|Ocaire Levy 3. Rang
+str_irish_level2_landed|Boaire Levy 2. Rang
+str_irish_level3_landed|Airig Levy 1. Rang
+str_irish_level0_companion|Cliarthaire Begleiter
+str_irish_level1_companion|Curraidh Begleiter
+str_irish_horseman|Marcach Reiter
+str_irish_knight|Deaisbard Ritter
 ; str_standard_dragon1|standard dragon1
 ; str_standard_dragon2|standard dragon2
 ; str_standard_dragon3|standard dragon3

@@ -27,7 +27,7 @@ qstr_Rumors|Dicerie
 ; qstr_It_appears_that_{s31|It appears that {s31} has dismissed recent stories about {s32}'s disloyalty as nothing but his enemies' gossip.
 ; qstr_It_seems_that_{s31}_w|It seems that {s31} was not amused after {s32} was found to be involved in a cattle-thieving scheme.
 ; qstr_It_appears_{s32}_had|It appears {s32} had managed to avoid being linked to a recent murder, and his relations with {s31} didn't suffer.
-; qstr_Winter_is_the_worst_|Winter is the worst time for war. It's cold, it rains too much and food is scarce. In winter, men would rather shelter by the fire than campaign. Watch your morale and your food stores.
+qstr_Winter_is_the_worst_|L'inverno è il momento peggiore per la guerra. Fa freddo, piove troppo e il cibo è scarso. In inverno, gli uomini preferirebbero piuttosto riparo con il fuoco puttosto che la campagna. Controlla il morale e le scorte di cibo.
 ; qstr_{s40}_decided_to_bec|{s40} decided to become an adventurer near {s39}
 ; qstr_It_seems_your_soldie|It seems your soldiers had a good time and helped themselves to some of the drinks in your inventory.
 ; qstr_It_seems_someone_wen|It seems someone went through your inventory and stole some of your {s33}.
@@ -46,7 +46,7 @@ qstr_{s22}|{s22}
 qstr_Your_party_is_spotte|La tua Compagnia è stata avvistata dagli abitanti di {s1}.
 qstr_Your_men_have_nothin|I tuoi uomini non hanno niente da mangiare!
 qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?sono scappati:è scappato} dalla tua Compagnia durante la notte.
-; qstr_{s1}_of_the_{s3}_has|{s1} of the {s3} has been released from captivity.
+qstr_{s1}_of_the_{s3}_has|{s1} di {s3} è stato rilasciato dalla prigionia.
 ; qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits at night.
 qstr_{s1}_has_won_the_tou|{s1} ha vinto il torneo a {s2}.
 qstr_You_pay_for_accommod|Paghi per la sistemazione.
@@ -179,7 +179,7 @@ qstr_The_port_master_from|Il capo portuale di Ribe ti ha dato la posizione del n
 ; qstr_The_port_master_from_R|The port master from Ribe gave you the location of Odin's cave: near {s3}. Go there to recover Bodo's letter.
 ; qstr_Embark_on_your_boat_|Embark on your boat, join the fleet, and lead it to Douar-an-Enez.
 qstr_Perhaps_there_is_a_l|Forse c'è ancora un po 'di tempo prima della fine del mondo. (Flemmatico)
-qstr_You_re_right!_The_co|Hai ragione! L'arrivo dei Vichinghi dimostra che è veramente la fine! (Melanconico)
+qstr_You_re_right!_The_co|Hai ragione! L'arrivo dei Vichinghi dimostra che è veramente la fine! (Malinconico)
 qstr_The_Bible_also_says_|La Bibbia dice anche che un re unirà tutta la terra. Io sono quel re. (Irascibile)
 qstr_A_change_in_the_worl|Un cambiamento nel mondo crea solo più opportunità agli audaci, ecco tutto. (Sanguigno)
 ; qstr_I_appreciate_your_re|I appreciate your reassuring words, but I'm afraid that the end of the world has already been set, and nothing that we do or say will alter it. All we can do is wait and fight until the armies of God come.
@@ -187,7 +187,7 @@ qstr_A_change_in_the_worl|Un cambiamento nel mondo crea solo più opportunità a
 ; qstr_Your_self_confidence|Your self-confidence comforts me, but I must inform you that the king will be defeated by the army of evil. Only the arrival of the army of God will save the world. However, if you ever become the king, it will be a pleasure to fight and die beside you.
 ; qstr_I_m_surprised_that_y|I'm surprised that you can see any benefit in the misfortunes of others. You're definitely more ruthless than I had thought.
 qstr_You_need_to_rid_your|Sbarazzati della tua arroganza. (Flemmatico)
-qstr_I_am_always_willing_|Sono sempre disposto ad imparare. Grazie, Egil. (Melanconico)
+qstr_I_am_always_willing_|Sono sempre disposto ad imparare. Grazie, Egil. (Malinconico)
 qstr_I_think_it_s_clear_t|Penso sia chiaro che il Fato è più favorevole a me che a voi. (Irascibile)
 qstr_Silence!_You_shall_n|Silenzio! Non mancare di rispetto alla mia autorità! (Sanguigno)
 ; qstr_Yes_I_pretended_to_b|Yes, I pretended to be modest. Well, it's something that comes naturally to me, but arrogance is good for a leader. You should learn to be a bit arrogant when needed -- that is part of my advice -- and men should see your confidence. Your orders must be sharp, and anyone who does not follow them has to be punished. This is what I value in a leader, and I'm glad you listened. But enough talking.
@@ -226,7 +226,7 @@ qstr___She_smiles.__|--Lei ride.--
 qstr___He_mutters_somethi|--Borbotta qualcosa tra i denti come se stesse parlando con qualcuno di invisibile.--
 qstr___He_seems_very_nerv|--Sembra molto nervoso e spaventato.--
 qstr_Please_calm_down._I_|Per favore, calmati. Non sono tuo nemico. Fai un respiro profondo dimmi di mia madre. (Flemmatico)
-qstr_You_re_making_me_wor|Mi stai facendo preoccupare... molto preoccupare... Calmati e dimmi di mia madre. (Melanconico)
+qstr_You_re_making_me_wor|Mi stai facendo preoccupare... molto preoccupare... Calmati e dimmi di mia madre. (Malinconico)
 qstr_Relax!_You_re_talkin|Rilassati! Stai parlando con un amico, posso proteggerti da chiunque ti voglia fare del male. (Irascibile)
 qstr_Calm_down_and_tell_m|Calmati e dimmi di mia madre! In caso contrario, lo giuro, il tuo corpo risponderà alle domande. (Sanguigno)
 qstr_Thank_you_for_being_|Grazie per essere così comprensivo. Ho avuto una dura giornata oggi. Sto meglio ora. Ascolta, ho cose importanti da dirti.
@@ -249,7 +249,7 @@ qstr_Reginhard_thinks_tha|Reginhard pensa che sei un capo debole.
 qstr_Bodo_thinks_that_you|Bodo pensa che sei un capo debole.
 ; qstr_Brunhild_has_advised|Brunhild has advised that you go first to an enemy of {s9}, {s11}, for support before you place yourself in the hands of the son of Ragnar.
 qstr_I_m_not_sure_I_want_|Non sono sicuro di voler ascoltare ciò che hai da dirmi. (Flemmatico)
-qstr_You_are_worrying_me_|Mi stai preoccupando, Bodo. Cosa vuoi dirmi? Sputa il rospo! (Melanconico)
+qstr_You_are_worrying_me_|Mi stai preoccupando, Bodo. Cosa vuoi dirmi? Sputa il rospo! (Malinconico)
 qstr_I_m_very_calm..._Tru|Sono molto calmo... Fidati di me, non farmi innervosire. Ho poca pazienza. Parla, o ti picchio per bene. (Irascibile)
 qstr_Whatever_you_have_to|Qualunque cosa hai da dire, dilla. Mi sono preparato per questo momento da molto tempo. (Sanguigno)
 qstr_I_understand_my_frie|Capisco, amico mio, ma voi dovete sapere... tutto.
@@ -279,7 +279,7 @@ qstr___He_shrugs.__|--Alza le spalle.--
 ; qstr_Finally_all_roads_lea|Finally, all roads lead to {s11} 'Snake in the Eye.' Sven Bull Neck has taken your mother with him, because {s11} wants an object that Bodo gave your mother and information he told her. Sven thinks your mother is the carrier of the object instead of Bodo. Therefore, she is still alive. You must hurry, before Sven discovers the deception and kills her.
 ; qstr___He_takes_the_mead_|--He takes the mead jug to his lips, drinks long, and then he just looks at you.--
 qstr_You_don_t_trust_me._|Non ti fidi di me. Capisco; Sono nuovo qui. Forse dovrei andarmene. (Flemmatico)
-qstr_I_see..._Something_m|Capisco... Qualcosa ti rende nervoso. (Melanconico)
+qstr_I_see..._Something_m|Capisco... Qualcosa ti rende nervoso. (Malinconico)
 qstr_Look_at_me._Who_else|Guardami. Chi altro in questa sala idromele siede con voi? Nessuno! (Irascibile)
 ; qstr_You_looked_like_some|You looked like someone that would appreciate a friend, but I can go again. (Sanguine)
 qstr_{s21}_seems_happy.|{s21} sembra contento.
@@ -382,13 +382,13 @@ qstr_Note_4:_You_killed_M|Nota 4: Hai ucciso Mael Bresail per vendicare il suo a
 qstr_Morrigan_has_died._R|Morrigan è morta. Ritorna dall'abate per ottenere la tua ricompensa e forse qualche risposta.
 qstr_Note_3:_You_chose_to|Nota 3: Hai scelto di uccidere Morrigan.
 qstr_Oh_I_m_no_murderer..|Oh, non sono un assassino... Sto solo cercando di aiutare Bal Luighne. (Flemmatico)
-qstr_My_duty_is_but_to_pr|Questo è il mio dovere ma devo anche proteggere il popolo di Bal Luighne. (Melanconico)
+qstr_My_duty_is_but_to_pr|Questo è il mio dovere ma devo anche proteggere il popolo di Bal Luighne. (Malinconico)
 qstr_I_am_not_a_murderer.|Io non sono un assassino. Hai attaccato Bal Luighne e ora io ti ucciderò. (Irascibile)
 qstr_My_only_goal_is_to_k|Il mio unico obiettivo è quello di ucciderti per quello che hai fatto a Bal Luighne, strega (Sanguigno)
 qstr_Morrigan_has_joined_|Morrigan si è unita alla tua compagnia. Ritorna dall'abate per ottenere la tua ricompensa e forse qualche risposta.
 qstr_Note_3:_You_chose_to_|Nota 3: Hai scelto di risparmiare la vita di Morrigan e di cercare risposte da Mael Bresail. Morrigan ha aderito alla tua compagnia.
 qstr_My_parents_gave_me_t|I miei genitori mi hanno dato il nome di {playername}. Io sono il terzo campione che stavate aspettando. (Flemmatico)
-qstr_Well_I_am_{playernam|Bene, Io sono {playername}, il terzo campione. (Melanconico)
+qstr_Well_I_am_{playernam|Bene, Io sono {playername}, il terzo campione. (Malinconico)
 qstr_My_name_is_{playerna|Il mio nome è {playername}. Il terzo campione. (Irascibile)
 qstr_I_am_{playername}._A|Io sono {playername}, il terzo campione, sono onorato di conoscervi. (Sanguigno)
 ; qstr_Ah_well_we_were_wait|Ah, well, we were waiting outside the old, burned-out pagan's place. You made us wait quite a long time.
@@ -404,7 +404,7 @@ qstr_Note_2:_You_chose_ki|Nota 2: Hai8scelto di uccidere gli altri campioni per 
 qstr_{s9}_has_good_relati|{s9} è in buoni rapporti con te.
 ; qstr___Ulf_seems_very_hap|--Ulf seems very happy. He carries in his hands the sword and chainmail of Orm Svarti.--
 qstr_Thanks_for_sharing_y|Grazie per aver condiviso il tuo bere e il tuo cibo con noi, Ulf. (Flemmatico)
-qstr_Thanks_for_sharing_yo|Grazie per aver condiviso il tuo bere e il tuo cibo con noi, Ulf. (Melanconico)
+qstr_Thanks_for_sharing_yo|Grazie per aver condiviso il tuo bere e il tuo cibo con noi, Ulf. (Malinconico)
 qstr_Sour_milk_and_butter|Latte acido e pane imburrato? Non hai niente di meglio? (Irascibile)
 qstr_Sour_milk_and_buttere|Latte acido e pane imburrato? Accetteremo la vostra povera ospitalità, ma mi aspettavo di meglio da un uomo come te. (Sanguigno)
 ; qstr___He_spits_out_what_|--He spits out what he was eating and throws away his skvr horn.--
@@ -424,7 +424,7 @@ qstr_Note_3:_Thora_from_U|Nota 3: Thora dalla fattoria di Ulf è rimasta incinta
 ; qstr___Ulf_s_mouth_opens_|--Ulf's mouth opens and closes several times, not knowing what to say. You see his face redden, looking ready to burst. His eyes search around to rest on a spear. His thralls have stopped doing their chores. They are five or six men armed with knives and sticks, but there could be more in the house.--
 qstr_Do_not_question_me_B|Non discutere con me, Brunilde. A volte è difficile ascoltare la verità, Ulf. (Sanguigno)
 qstr_I_apologize_Ulf._I_s|Ti chiedo scusa, Ulf. Ho parlato senza pensare. Rispetto tua figlia. (Flemmatico)
-qstr_I_see_it_is_importan|Vedo che è importante e sei ansioso. Mi dispiace. Mi scuso. (Melanconico)
+qstr_I_see_it_is_importan|Vedo che è importante e sei ansioso. Mi dispiace. Mi scuso. (Malinconico)
 qstr_We_are_friends_Ulf._|Siamo amici, Ulf. Mi scuso. (Irascibile)
 qstr___Ulf_makes_an_effor|--Ulf fa uno sforzo per calmarsi, prende un respiro profondo e ti guarda dritto negli occhi.--
 qstr___Egil_laughs_at_his|--Egil ride della sua battuta mentre fa gesti indecenti.--
@@ -563,7 +563,7 @@ qstr_Note_Egil:_You_warn_|Nota Egil: Avverti Egil che dovrà lasciare la tua com
 qstr_Note_Egil:_You_warn_E|Nota Egil: Avverti Egil duellerai a morte con lui dopo l'Assemblea, poichè era una spia di {s9} tra i tuoi uomini e ha spezzato il cuore di Brunilde.
 qstr___He_looks_worried._|--Sembra preoccupato.--
 qstr_Things_being_as_they|Le cose stanno cosi, non posso farci nulla. (Flemmatico)
-qstr_I_see._I_don_t_know_|Vedo. Non so cosa dirti. (Melanconico)
+qstr_I_see._I_don_t_know_|Vedo. Non so cosa dirti. (Malinconico)
 qstr_Guthrum_s_dead_but_w|Guthrum è morto, ma noi no. Fidati di me. Ti aiuterò a uscire da questo posto. (Irascibile)
 qstr_Nothing_is_lost._We_|Nulla è ancora perduto. Abbiamo sventato i piani tutti di Sigurd finora. (Sanguigno)
 ; qstr_Yes_the_Norns_that_s|Yes, the Norns that spin our fates play with us. I hope that their next threads help us.
@@ -611,7 +611,7 @@ qstr___Reginhard_looks_sa|--Reginhard Sembra triste.--
 qstr_The_judges_nod_at_the_|I giudici annuiscono alle parole di Reginhard. Questo rende la tua situazione molto complicata.
 qstr___Reginhard_looks_do|--Reginhard Guarda in terra e parla tranquillamente.--
 qstr_I_have_always_treate|Ti ho sempre trattato bene. Non capisco cosa sia successo. (Flemmatico)
-qstr_You_know_that_I_had_|Sapete che non avevo scelta con Thiaderd, Olvir o chiunque altro. (Melanconico)
+qstr_You_know_that_I_had_|Sapete che non avevo scelta con Thiaderd, Olvir o chiunque altro. (Malinconico)
 qstr_Wherever_you_may_hid|Ovunque tu possa nascondersi d'ora in poi, io ti troverò e ti ucciderò. (Irascibile)
 qstr_You_betrayed_Thiader|Hai tradito Thiaderd, e ora tradisci me. Sei una maledizione, Reginhard. (Sanguigno)
 qstr_What_happened_is_tha|Ciò che so è che Thiaderd è morto, devo convivere con questo. Adesso almeno so che sarà vendicato.
@@ -667,7 +667,7 @@ qstr___He_looks_at_you._H|--Ti guarda. I suoi occhi, i suoi lineamenti duri, e a
 qstr_Note_Bodo:_you_chose|Nota Bodo: hai scelto di consegnare Bodo a {s11} in cambio di tua madre.
 ; qstr_Note_Bodo:_you_chose_|Note Bodo: you chose to be loyal to Bodo and not deliver him to {s11} at the exchange at the farm.
 qstr_Sven_is_my_goal_too.|Sven è anche il mio obiettivo. Voglio partecipare alla caccia. (Flemmatico)
-qstr_Sven_is_mine!_I_want|Sven è mio!. Lo voglio morto! Parteciperò alla caccia. (Melanconico)
+qstr_Sven_is_mine!_I_want|Sven è mio!. Lo voglio morto! Parteciperò alla caccia. (Malinconico)
 qstr_No_you_listen_to_me!|No, ascoltami! Voglio che Sven paghi per quello che ha fatto. Dammi gli uomini! (Irascibile)
 qstr_Yes!_Those_are_just_|Sì! Queste sono solo le parole che volevo sentire. Attachiamolo in mare! (Sanguigno)
 qstr_Your_goal?_Who_are_y|Il tuo obiettivo? Chi sei? Avete navi e uomini?
@@ -676,7 +676,7 @@ qstr_Your_goal?_Who_are_y|Il tuo obiettivo? Chi sei? Avete navi e uomini?
 ; qstr_Your_enthusiasm_glad|Your enthusiasm gladdens me. I wish my men thought alike, but they are too afraid of Sven. How many men and ships can you bring to the hunt?
 qstr___He_looks_into_your|--Ti guarda negli occhi, sorpreso.--
 qstr_This_hunt_is_my_life|Questa caccia è la mia vita, signore. Non mi arrenderò. (Flemmatico)
-qstr_Sir_I_have_lost_ever|Signore, ho perso tutto... Vivo solo per la vendetta... (melanconico)
+qstr_Sir_I_have_lost_ever|Signore, ho perso tutto... Vivo solo per la vendetta... (Malinconico)
 qstr_I_shall_not_leave_un|Non me ne andò da qui finchè non mi darai una possibilità. Non mi muoverò dalla porta. (Irascibile)
 qstr_You_just_cannot_see_|Non lo sai ancora, ma hai bisogno di me, signore. Io non ho paura di Sven! (Sanguigno)
 qstr_Alright!_Alright!_I_|Va bene! Va bene! Vedo... Beh io ho un'idea. Ascoltami.
@@ -692,7 +692,7 @@ qstr_{s11}_wants_Thiaderd|{s11} vuole Thiaderd morto. Hai bisogno di parlare con
 ; qstr___His_eyes_show_joy_|--His eyes show joy, and he pats your back with confidence.--
 qstr_{s11}_told_me_that_S|{s11} mi ha detto che Sven Bull Neck è vassallo di Sigurd 'Serpente nell'occhio' Ragnarsson. Dovresti parlare con {s9} se mai viaggiare a Danmark.
 ; qstr_Your_king_has_not_wr|Your king has not wronged me, but you do. It seems you can't help me hunt Sven. (Phlegmatic)
-qstr_Every_time_I_finish_|Ogni volta che porto a termine una missione, ne inventi una nuova! Intanto Sven vive. (Melanconico)
+qstr_Every_time_I_finish_|Ogni volta che porto a termine una missione, ne inventi una nuova! Intanto Sven vive. (Malinconico)
 qstr_Jarl?_You_promise_mu|Jarl? Tu mi hai promesso molto, ma il tuo re mi darebbe lo stesso queste informazioni. (Irascibile)
 qstr__Jarl?__I_like_that_|'Jarl?' Mi piace, ma visto che faccio io tutto il lavoro sporco, 're' sarebbe meglio! (Sanguigno)
 ; qstr_I_can_only_help_you_|I can only help you if you help me. It's so easy, but if I am not king, I won't have an army or resources to hunt Sven. You decide.
@@ -703,7 +703,7 @@ qstr_The_difference_is_th|La differenza è che ora hai guadagnato la mia fiducia
 ; qstr_{s11}_wants_me_to_kil|{s11} wants me to kill his king, {s9}, his own uncle, in order to have free access to the throne of {s3} and give me men and resources to hunt Sven.
 ; qstr_Note_3:_You_have_cho|Note 3: You have chosen to become an enemy of {s9} for his betrayal and alliance with {s11}, Sven Bull Neck's patron. You know he will send assassins after your head.
 qstr_I_did_not_know_your_|Non sapevo dei vostri piani. Doccinga mi ha chiesto aiuto e io ho fatto il possibile. (Flemmatico)
-qstr_Calm_down_and_tell_me|Calmati e dimmi qual è il problema. Siamo persone civili. (Melanconico)
+qstr_Calm_down_and_tell_me|Calmati e dimmi qual è il problema. Siamo persone civili. (Malinconico)
 qstr_There_is_only_one_tr|C'è solo un traditore qui e quello sei tu. Cane, Dannato! Ti costerà caro. (irascibile)
 qstr_These_Vikings_were_f|Questi vichinghi erano pochi e deboli. Sei stato uno sciocco a pensare che ti avrebbero aiutato. (Sanguigno)
 ; qstr_Note_3:_You_chose_no|Note 3: You chose not to become an open enemy of {s9} for his betrayal and alliance with {s11}, Sven Bull Neck's patron.
@@ -723,7 +723,7 @@ qstr_The_king_does_not_be|Il re non ti crederà. Hai bisogno di prove per convin
 qstr_It_seems_you_will_not|Sembra non avrai l'aiuto del re. Dovrai parlare con {s11} 'Occhi di Serpente' direttamente.
 qstr_{s10}_won_t_support_y|{s10} non ti supporterà contro {s9}.
 qstr_I_did_not_want_to_ki|Non volevo uccidere Atli, ma non avevo alternative. (Flemmatico)
-qstr_I_am_aware_of_the_se|Sono consapevole della gravità del pericolo. Non c'è bisogno di ricordarlo. (Melanconico)
+qstr_I_am_aware_of_the_se|Sono consapevole della gravità del pericolo. Non c'è bisogno di ricordarlo. (Malinconico)
 qstr_I_did_this_for_you._|L'ho fatto per te. Senza di me, la lettera sarebbe in mano a Sigurd, che prenderebbe il trono. (Irascibile)
 qstr_Come_on_sire_I_left_|Andiamo, Sire, non ho lasciato testimoni. L'assemblea può incolparmi di nulla. (Sanguigno)
 qstr_I_see._Well_it_is_yo|Vedo. Beh, è il vostro collo.
@@ -735,7 +735,7 @@ qstr_{s9}_wants_you_back_|{s9} ti rivuole con {s11}.
 qstr_{s9}_wants_you_to_me|{s9} vuole che incontri {s11} del West Seaxe a {s3} e gli consegni la lettere del tradimento.
 qstr___You_perceive_that_|--Percepisci che la notizia lo turba profondamente.--
 qstr_I_guess_you_ve_weigh|Credo che tu abbia soppesato tutte le opzioni prima di prendere una decisione. (Flemmatico)
-qstr_So_all_is_not_lost!_|Non tutto è perduto! (Melanconico)
+qstr_So_all_is_not_lost!_|Non tutto è perduto! (Malinconico)
 qstr_Retreat_is_dishonora|La ritirata è disonorevole. Se fossi arruolato in questo esercito, punterei alla vittoria. (irascibile)
 qstr_Come_come._Retreat?_|Vieni, vieni. Ritirarsi? Sei un vigliacco? (Sanguigno)
 qstr_We_must_be_realistic|Dobbiamo essere realisti. In caso contrario, potremmo perdere tutto quello che abbiamo.
@@ -783,8 +783,8 @@ qstr_You_ve_joined_your_ar|Hai unito la tua armata a quella di {s11}, che si muo
 qstr_You_are_an_enemy_of_|Sei un nemico del mio regno.
 qstr_You_must_earn_my_tru|Devi prima guadagnarti la mia fiducia se vuoi reclutare uomini nelle mie terre. Ora, i nostri rapporti sono pessimi.
 ; qstr_I_don_t_know_if_I_tr|I don't know if I trust you enough to take men from my land and lead them into battle. Prove yourself first, then come back and ask again.^^(150 or more Renown)
-; qstr_No._I_do_not_know_wh|No. I do not know who you are. You must earn my trust if you want to recruit men in my land.^^(150 or more Renown and 5 or more positive relation needed)
-; qstr_Well_I_ve_come_to_kn|Well, I've come to know you, and it pleases me to allow it. Therefore, I hereby give notice that, if a man wants to join you, he will be free to do so, provided, as ever, that he is free of commitments to another lord.
+qstr_No._I_do_not_know_wh|No. Non ti conosco. Devi guadagnare la mia fiducia se vuoi reclutare uomini nella mia terra. ^^(150 o più di Fama e 5 o più di relazione positiva necessaria)
+qstr_Well_I_ve_come_to_kn|Bene, ora che vi ho conosciuto è un piacere consentirlo. Pertanto, vi avviso che, se un uomo vuole unirsi a voi, egli sarà libero di farlo, purché, come sempre, che sia libero da impegni verso un altro signore.
 qstr_you|voi
 qstr_You_are_challenging_|Mi avete sfidato a duello? Che buffone! Come volete, {playername}, sarà un bell'esercizio spaccarvi la testa!
 qstr_{s16}_and_{s17}|{s16} e {s17}
@@ -891,7 +891,7 @@ qstr_You_chose_well_{reg5|Avete scelto bene, {reg59?signora:signore}.  I miei ra
 qstr_Well_done_{reg59?mad|Ben fatto, {reg59?signora:signore}.  Conservate i soldi e il vino senza paura durante il viaggio, non c'è nemico in queste terre che dobbiate temere.
 qstr_We_are_at_your_servi|Siamo al vostro servizio,  {reg59?signora:signore}. Indicateci la direzione di costoro che abbisognano di una lezione, e noi faremo il resto.
 qstr_Oh..._well..._I_do_n|Oh... beh... non lo so... Probabilmente sto bene. (Flemmatico)
-qstr_Even_bad_dreams_spea|Anche i brutti sogni ci parlano. Mi piace ascoltarli. Forse possiamo imparare qualcosa. (Melanconico)
+qstr_Even_bad_dreams_spea|Anche i brutti sogni ci parlano. Mi piace ascoltarli. Forse possiamo imparare qualcosa. (Malinconico)
 qstr_Yes_I_had_a_nightmar|Sì, ho avuto un incubo, ma ora sono sveglio. Tutto ciò che conta è andare avanti. (Irascibile)
 qstr_All_is_well._Believe|Tutto bene. Credetemi, è stato solo uno stupido incubo! (Sanguigno)
 qstr_No_need_to_get_shy!_|Non è necessario essere timidi! In ogni caso, è bello vederti, amico.
@@ -947,7 +947,7 @@ qstr___You_see_a_short_th|--Puoi vedere un piccolo, magro uomo con una strana fa
 qstr___The_Swedish_Viking|--Il Vichingo Svedese ti guarda dall'alto in basso, ti sta studiando.--
 qstr___The_man_flattening|--Un uomo, sta appiattendo la terra con i piedi, si gira improvvisamente verso di te quando ti avvicini. In un primo momento, sembra sorpreso, ma subito dopo sorride.--
 qstr_I_was_just_leaving._|Me ne vado. (Flemmatico)
-qstr_I_think_we_are_both_|Siamo entrambi troppo vecchi per giochi come questo. (Melanconico)
+qstr_I_think_we_are_both_|Siamo entrambi troppo vecchi per giochi come questo. (Malinconico)
 qstr_Heh_I_ve_played_game|Eh, ho giocato a giochi con quote peggiori. Procediamo. (Irascibile)
 qstr_Very_well_but_if_I_s|Molto bene, ma se risolvo l'indovinello, e non mi piaciono le tue risposte, mi prenderò la tua anima. (Sanguigno)
 qstr_When_you_open_your_e|Quando riapri nuovamente gli occhi, ricevi la benedizione degli dei e delle dee. Forse questa è solo la tua immaginazione, ma ti sente più abile con le armi.
@@ -1003,7 +1003,7 @@ qstr_The_{s9}_of_{s3}_ask|Il {s9} di {s3} ti ha chiesto di recuperare una {s13} 
 qstr_{s9}_of_{s3}_asked_yo|{s9} di {s3} ti ha chiesto di portargli {reg33} carichi di {s33}.
 qstr___His_eyes_widen.__|--Spalanca gli occhi.--
 qstr_He_has_killed_many_p|Ha ucciso molte persone, compresa mia madre. Devo trovarlo! (Flemmatico)
-qstr_I_know_but_he_must_d|Lo so, ma deve morire! Ora è mio nemico mortale! Dov'è Sven, Thonkrik? (Melanconico)
+qstr_I_know_but_he_must_d|Lo so, ma deve morire! Ora è mio nemico mortale! Dov'è Sven, Thonkrik? (Malinconico)
 qstr_Sven_had_the_audacit|Sven ha avuto l'audacia di attaccare la mia nave. La pagherà a caro prezzo! Dov'è? (Irascibile)
 qstr_Sven_is_my_goal_now.|Sven è il mio obiettivo ora. Chiunque si metta sulla mia strada è mio nemico! Dove si trova Sven? (Sanguigno)
 qstr___He_looks_frightene|--Sembra spaventato.--
@@ -1021,11 +1021,11 @@ qstr__May_I_remind_you_that_|Posso ricordarvi che attualmente vi stiamo pagando 
 qstr__May_I_remind_you_that_c|Posso ricordarvi che attualmente vi stiamo pagando delle tasse basse {reg59?vostra signoria:vostra signoria}? Vi siamo terribilmente grati per la vostra generosità.
 qstr__May_I_remind_you_that_cu|Posso ricordarvi che attualmente vi stiamo pagando delle tasse alte {reg59?vostra signoria:vostra signoria}? Molte persone vi stanno maledicendo per la vostra avidità.
 qstr_Old_gods?_This_is_a_|Antichi dèi? Questo mi preoccupa. Non ho mai affrontato alcun 'Dio' prima d'oggi. (Flemmatico)
-qstr_Tell_me_more_about_t|Dimmi di più su questi "dei" e di come ti stanno osservando. (Melanconico)
+qstr_Tell_me_more_about_t|Dimmi di più su questi "dei" e di come ti stanno osservando. (Malinconico)
 qstr_Look_at_me._I_m_here|Guardami. Sono qui con te, ascoltando, Caliacas. Dimmi di più su queste 'divinità' che ti osservano. (Irascibile)
 qstr_Come_on_man_no_need_|Andiamo, amico, non c'è bisogno di essere tristi. Ora ci sono qui io, mi prenderò cura di questo problema. Dimmi, chi ti sta osservando? (Sanguigno)
 qstr_Demons?_This_could_b|Demoni? Questo sembra essere un problema serio. (Flemmatico)
-qstr_I_sure_hope_I_am_rea|Spero di essere pronto per affrontare un 'demone'. (Melanconico)
+qstr_I_sure_hope_I_am_rea|Spero di essere pronto per affrontare un 'demone'. (Malinconico)
 qstr_Morrigan_is_a_pretty|Morrigan è un bel nome, anche per un 'demone'. (Irascibile)
 qstr_Tuatha_De_Danann?_I_|Tuatha De Danann? Non ho paura dei 'demoni'. (Sanguigno)
 ; qstr_Caliacas_told_you_th|Caliacas told you that the evil attacking them is an ancient demon called Morrigan, the Raven Goddess, who leads a bunch of beasts. You've discovered that you're not the only hero destined to defeat Morrigan, and have to meet the other two in the burnt hut of the old man who worshiped the old gods.
@@ -1040,7 +1040,7 @@ qstr_I_am_the_leader_of_t|Io sono il capo di questa area. È intelligente chiede
 qstr_Looking_for_men_who_|Siete alla ricerca di uomini che sono disposti a rischiare la pelle per la gloria e la ricchezza, eh?
 qstr_Interesting._You_re_|Interessante. Siete alla ricerca di uomini ed io, per pura coincidenza, conosco persone interessate nella zona.
 qstr_You_don_t_trust_me._I|Non ti fidi di me. Capisco; Sono nuovo qui. Ma sono una brava persona. (Flemmatico)
-qstr_I_don_t_like_what_yo|Non mi piace ciò che dici. Sono venuto qui per reclutare. Perché vuoi sprecare il mio tempo? (Melanconico)
+qstr_I_don_t_like_what_yo|Non mi piace ciò che dici. Sono venuto qui per reclutare. Perché vuoi sprecare il mio tempo? (Malinconico)
 qstr_Believe_me_I_have_li|Credetemi, ho poca pazienza. Facciamo le cose nel modo più semplice, o nel modo più duro. (irascibile)
 qstr_I_see._Well_you_look|Vedo. Beh, finalmente qualcuno ragionevole. Possiamo negoziare... (Sanguigno).
 qstr_You_a_good_person?_H|Tu, una brava persona? Ha! La tua reputazione dice il contrario. Di molto.
@@ -1328,9 +1328,9 @@ qstr_Short|Basso
 qstr_Young__16_22_years_o|Giovane (16-22 anni)
 qstr_Adult__23_40_years_o|Adulto (23-40 anni)
 qstr_Elder__40_or_more_ye|Anziano (oltre i 40 anni)
-qstr_Sanguine|Sanguigno
+qstr_Sanguine|Sanguinario
 qstr_Choleric|Irascibile
-qstr_Melancholic|Melanconico
+qstr_Melancholic|Malinconico
 qstr_Phlegmatic|Flemmatico
 qstr_Justice|Giustiziere
 qstr_Temperance|Temprato
@@ -1384,7 +1384,7 @@ qstr_{reg1}|{reg1}
 qstr_Wounds:|Ferite:
 qstr_Enemies_Killed:|Nemici Uccisi:
 qstr_Enemies_Wounded:|Nemici Feriti:
-qstr_Allies_Killed:|Alleati Morti:
+qstr_Allies_Killed:|Alleati Uccisi:
 qstr_Allies_Wounded:|Alleati Feriti:
 qstr_Story|Storia
 qstr_Attributes/Skills|Caratteristiche/Abilità
@@ -2306,16 +2306,16 @@ qstr_Scars:^^none|Cicatrici^^nessuna
 qstr_Scars:^^{s1}These_in|Cicatrici:^^{S1} Queste lesioni sono diventate permanenti. Ora non possono più essere curate.
 qstr_Lifetime_wounds:_{re|Ferite permanenti: {reg1} finora.
 qstr_Current_party_size_l|L'attuale limite di dimensione della Compagnia è: {reg0}.^^Fama: {reg34}^Leadership Combinata:  {s2}{reg32}^Carisma: {s3}{reg33}^Feudi: {s6}{reg35}^Navi (solo quelle in mare): {s7}{reg2}^^{playername} può gestire al massimo {reg36} truppe.^{reg59?Attualmente:Attualmente} ne hai {reg37}.
-; qstr_^Religious_Differenc|^Religious Differences:  -{reg7}
+qstr_^Religious_Differenc|^Differenze Religiose: -{reg7}
 qstr_^No_food:___{reg7}|^Niente cibo:  -{reg7}
 qstr_^Wage_debt:___{reg7}|^Debito dai salari:  -{reg7}
 qstr_Currently_falling_fr|Attualmente classificato come: +
 qstr_Currently_rising_fro|Attualmente passato da:
 qstr_{s11}{s10}{s12}|{s11}{s10}{s12}
-; qstr_^^These_pagan_troops|^^These pagan troops cause trouble: {s11}
-; qstr_^^These_Christian_tr|^^These Christian troops cause trouble: {s11}
+qstr_^^These_pagan_troops|^^Queste truppe pagane causano problemi: {s11}
+qstr_^^These_Christian_tr|^^Queste truppe cristiane causano problemi: {s11}
 qstr_^^Player_currently_h|^^Il giocatore attualmente ha più truppe di quante possa gestirne.
-; qstr_Current_party_morale|Current party morale: {reg5}.^^Base morale:  +{reg8}^Party size penalty: {s2}{reg1}{s14}^Lack of rest: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^{s7}{reg4} {s8}{s13}^^{s19}
+qstr_Current_party_morale|Morale attuale della compagna: {reg5}.^^Morale base: +{reg8}^Penalità dimensione compagna: {s2}{reg1}{s14}^Mancanza di riposo: {s3}{reg2}^Varietà di cibo: {s4}{reg3}{s5}{s6}^{s7}{reg4} {s8}{s13}^^{s19}
 qstr_{s18}^^_____________|{s18}^^----------------^^{s20}
 qstr_{s17}_^_{s18}|{s17} ^ {s18}
 qstr_{s15}_^_{s16}|{s15} ^ {s16}
@@ -2380,7 +2380,7 @@ qstr_Forest.|Foresta.
 qstr_Snow_Forest.|Foresta Innevata.
 qstr_Ocean.|Oceano.
 qstr_Sea.|Mare.
-qstr_Standard_Bearer:_{re|Alfiere:{reg1}^Bonus al Comando: {reg2} (max 3)
+qstr_Standard_Bearer:_{re|Portabandiera: {reg1}^Bonus al Comando: {reg2} (max 3)
 qstr_Musician:_{reg1}^Tac|Musico: {reg1}^Bonus alla tattica: {reg2} (max 3)
 qstr_Note:_You_re_close_t|Nota: Sei vicino all'insediamento nemico, occorre estrema cautela.
 qstr_{s16}^^_____________|{s16}^^-------------------^^Informazioni sul Campo:^^^{s6}^^{s7}^^Terreno Circostante: {s2}^^Esploratori: {s5}^^Foraggiatori: {s3}^^Campo fortificato {s4}^^{s11}
@@ -2997,7 +2997,7 @@ qstr_The_farmers_thank_yo|I contadini ti ringraziano. forse il loro signore capi
 ; qstr_The_farmers_thank_you|The farmers thank you, although they are not happy with your counsel. It will cost the lives of many of their children next winter.
 qstr_She_thanks_you_and_h|Ringrazi e ti dirigi alla città più vicina.
 ; qstr_She_thanks_you_profu|She thanks you profusely and heads back to her village, a little weak from the ordeal.
-; qstr_The_days_get_longer_|The days get longer and the bony grip of winter loosens. Green leaves crown the trees once more. 
+qstr_The_days_get_longer_|Le giornate si allungano e si allenta la presa dell'inverno. Le foglie verdi crescono ancora una volta sugli alberi.
 ; qstr_The_sun_greets_you_e|The sun greets you early in the morning and sends you to bed at night.
 ; qstr_As_nature_becomes_a_|As nature becomes a plethora of colours, people replenish their stores and prepare for winter.
 ; qstr_The_night_steals_fro|The night steals from the day and grows long, while the frost threatens to do away with the weak and the old.
