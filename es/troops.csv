@@ -1148,7 +1148,7 @@ trp_kingdom_9_lady_6_pl|Anna
 ; trp_town_3_seneschal_pl|Chronicler
 ; trp_town_4_seneschal|Angle Chronicler
 ; trp_town_4_seneschal_pl|Chronicler
-; trp_town_25_seneschal|Mael Bresail
+trp_town_25_seneschal|Mael Bresail
 ; trp_castle_1_seneschal|Fort Reeve
 ; trp_castle_2_seneschal|Fort Reeve
 ; trp_castle_3_seneschal|Fort Reeve
@@ -1919,8 +1919,8 @@ trp_pseudo_troop_03_pl|
 ; trp_pseudo_troop_09_pl|pt
 ; trp_pseudo_troop_end|Second Outfit
 ; trp_pseudo_troop_end_pl|pseudo troop end
-; trp_the_snake|The Snake
-; trp_the_snake_pl|The Snake
+trp_the_snake|La Serpiente
+trp_the_snake_pl|La Serpiente
 ; trp_campeon_1|Aed mac Ainmerech
 ; trp_campeon_1_pl|Aed mac Ainmerech
 ; trp_campeon_2|Olchobar mac Cinaeda

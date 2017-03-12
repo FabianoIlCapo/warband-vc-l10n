@@ -288,7 +288,7 @@ mno_castle_taken_claim_2|Richiedi che {s3} sia assegnato {reg59?tuo marito:tua m
 mno_castle_taken_no_claim|Non chiedere ricompense.
 menu_saqueo_loot_continue|Questo insediamento è stato saccheggiato
 ; menu_requested_castle_granted_to_player|You receive a message from your liege, {s3}.^^{reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to you, with all due incomes and titles, to hold in {reg4?her:his} name for as long as you maintain your oath of homage.
-; menu_requested_castle_granted_to_player_husband|You receive a message from your liege, {s3}.^^{reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to your husband, {s7}.
+menu_requested_castle_granted_to_player_husband|Hai recevuto un messaggio dal sovrano, {s3}.^^ {reg4?Lei:Lui} ha deciso di concedere {s2}{reg3? e il vicino villaggio di {s4}:} a tuo marito, {s7}.
 ; menu_requested_castle_granted_to_another|You receive a message from your monarch, {s3}.^^'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour that I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {reg6} peningas to cover the expenses of your campaign, but {s2} I give to {s5}.' 
 mno_accept_decision|Accetta la decisione.
 mno_leave_faction|Decidi che è inaccettabile! Sciogli il giuramento di fedeltà!
@@ -881,7 +881,7 @@ mno_embarkre|Imbarcarsi.
 mno_lair_leave|Parti...
 mno_lair_leave_door|Lascia quest'area.
 menu_demoler_lairm|Sei sicuro di volerlo demolire?
-; mno_demoler_yes|Yes ({reg1} peningas).
+mno_demoler_yes|Sì ({reg1} denari).
 mno_demoler_no|Ritorna.
 menu_conversacion_companions1|Appena fermati per riposarsi dalla strada, i tuoi compagni si avvicinano, guidati da Brunilde. Lei ha qualcosa da dirti.
 mno_talk_to_brunhild|Ascolta Brunilde.
@@ -1094,20 +1094,20 @@ mno_choice_12_3j|Rifiuti di pagare per danni causati dal Nemico.
 mno_choice_12_4j|Uccidili il contadino e sua moglie.
 menu_no_paymentandkill|Per vendetta, gli uomini dei villaggi vicini si sono riuniti e hanno attaccato le vostre truppe di approvvigionamento^^le tue perdite: {s8}
 mno_choice_nppayment_2j|Dannazione!
-; menu_event_siege_13|A group of enemies attacked our men by surprise and then quickly withdrew.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_event_siege_13|Un gruppo di nemici ha attaccatoi  nostri uomini di sorpresa e poi rapidamente si è ritirato.^^Le tue vittime: {s8}^^Vittime del nemico: {s10}
 mno_choice_13_1b|Sii più prudente (Soluzione: Blocca il luogo).
-; menu_event_siege_14|While foraging, a group of enemies encountered a group of our men.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_event_siege_14|Durante il foraggiamento, un gruppo di nemici ha incontrato un gruppo di nostri uomini.^^Le tue vittime: {s8}^^Vittime del nemico: {s10}
 mno_choice_14_1b|Sii più prudente (Soluzione: Blocca il luogo).
-; menu_event_siege_15|We were attacked by an enemy force while raiding neighboring villages. The villagers joined the enemy, causing us many casualties.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_event_siege_15|Siamo stati attaccati da una forza nemica mentre razziava villaggi vicini. Gli abitanti del villaggio si uniti al nemico, causandoci molte vittime.^^Le tue vittime: {s8}^^Vittime del nemico: {s10}
 mno_choice_15_1b|Sii più prudente (Soluzione: Blocca il luogo).
-; menu_event_siege_16|The enemy and our men came upon each other near a river, and the fight for water caused numerous casualties on both sides.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_event_siege_16|Il nemico e i nostri uomini si sono scontranti vicino ad un fiume, e la lotta per l'acqua ha causato numerose vittime su entrambi i lati.^^Le tue vittime: {s8}^^Vittime del nemico: {s10}
 mno_choice_16_1b|Sii più prudente (Soluzione: Blocca il luogo).
-; menu_event_siege_17|The enemy sallied out through a secret passage, attacking us before swiftly retreating back to the protection of their walls.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_event_siege_17|Il nemico è uscito fuori attraverso un passaggio segreto, e ci ha attaccato prima di ritirarsi rapidamente protetti dalle mura.^^Le tue vittime: {s8}^^Vittime del nemico: {s10}
 mno_choice_17_1b|Sii più prudente (Soluzione: Blocca il luogo).
 menu_event_siege_18|Alcuni dei vostri uomini hanno rapito delle donne dai villaggi circostanti e le hanno portate al campo d'assedio per divertirsi.
 mno_choice_18_1b|Loro acconsentono a lasciarti la donna più bella.
-; mno_choice_18_2b|Order the release of the women and punish the kidnappers.
-; menu_event_siege_19|The enemy is trying to break our blockade, and our men are trying to contain them.^^Your casualties: {s8}^^Enemy casualties: {s10}
+mno_choice_18_2b|Ordina ai tuoi uomini di rilasciare le donne e punire i rapitori.
+menu_event_siege_19|Il nemico sta cercando di rompere il nostro blocco, e i nostri uomini stanno cercando di contenerli.^^Le tue vittime: {s8}^^Vittime del nemico: {s10}
 mno_choice_19_1b|Invia alcuni uomini mentre io ne prendo altri per costringerli a ritirarsi.
 mno_choice_19_2b|Invia tutti gli uomini per proteggere il perimetro.
 mno_choice_19_3b|Non preoccuparti. Le nostre mura sono resistenti.
@@ -1125,7 +1125,7 @@ menu_no_defendiendo_equip|Il nemico ha superato le nostre difese e bruciato le n
 mno_defendiendo_1bnde|Dobbiamo ricominciare la costruzione di nuovo.
 menu_defendiendo_equip|Siamo riusciti a respingere il nemico, che è tornato alla difesa delle sue mura^^Le tue vittime: {s8}^^Le vittime nemiche: {s10}
 mno_defendiendo_1heq|Ben fatto.
-; menu_defendiendo_mal_equip|Another group of enemies has surrounded our positions and burned down our siege equipment on the other side.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_defendiendo_mal_equip|Un altro gruppo di nemici ha circondato le nostre posizioni e bruciato giù la nostra attrezzatura di assedio sull'altro lato.^^Le tue vittime: {s8}^^Vittime del nemico: {s10}
 mno_defendiendo_1vmal|Dannazione!
 menu_event_siege_21|Le tue guardie hanno scoperto diversi uomini ce cercavano di sgattaiolare fuori durante la notte per sfuggire al tuo blocco.
 mno_choice_21_1b|Lasciali fuggire.
@@ -1136,7 +1136,7 @@ mno_choice_22_1b|Invia uomini per tendere un'imboscata al nemico, indossando pel
 mno_choice_22_2b|Non fare nulla.
 ; menu_victoria_ovejas|Your soldiers surrounded the enemy in sheepskins and fell upon them by surprise, spreading death.^^Your casualties: {s8}^^Enemy casualties: {s10}
 mno_defendiendo_1lovej|Perfetto!
-; menu_derrota_ovejas|It's a trap! {reg59?Lady:Sir}, the men dressed in sheepskins were a decoy to bring out our men and ambush them. Many were killed before returning to the protection of our circumvallation.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_derrota_ovejas|È una trappola! {reg59?Signora:Signore}, gli uomini vestiti di pelli di pecora erano un'esca per portare fuori i nostri uomini e tendergli un'imboscata. Molti sono stati uccisi prima di tornare alla protezione della nostra circumvallazione.^^Le tue vittime: {s8}^^Vittime del nemico: {s10}
 mno_defendiendo_1poveja|È terribile.
 menu_tablas_ovejas|I tuoi soldati si sono stati schierati per circondare il nemico, ma erano troppo lenti e rumorosi. Gli uomini con le pelli di pecora hanno avvertito la minaccia e sono ritornati alla fortezza rapidamente.
 mno_defendiendo_1oveja2|Sarà per la prossima volta.

@@ -1,7 +1,7 @@
 trp_multiplayer_profile_troop_male|Mehrspieler-Profil Truppe Männlich
 trp_multiplayer_profile_troop_male_pl|Mehrspieler-Profil Truppe Männlich
-trp_multiplayer_profile_troop_female|Mehrspieler-Profil Truppe weiblich
-trp_multiplayer_profile_troop_female_pl|Mehrspieler-Profil Truppe weiblich
+trp_multiplayer_profile_troop_female|Mehrspieler-Profil Truppe Weiblich
+trp_multiplayer_profile_troop_female_pl|Mehrspieler-Profil Truppe Weiblich
 trp_temp_troop|Temporäre Truppe
 trp_temp_troop_pl|Temporäre Truppe
 trp_find_item_cheat|Item Cheat
@@ -28,12 +28,12 @@ trp_arena_training_fighter_1|Kampfanfänger
 trp_arena_training_fighter_1_pl|Kampfanfänger
 trp_arena_training_fighter_2|Kampfanfänger
 trp_arena_training_fighter_2_pl|Kampfanfänger
-trp_arena_training_fighter_3|Normal-Kämpfer
-trp_arena_training_fighter_3_pl|Normale-Kämpfer
-trp_arena_training_fighter_4|Normal-Kämpfer
-trp_arena_training_fighter_4_pl|Normale-Kämpfer
-trp_arena_training_fighter_5|Normal-Kämpfer
-trp_arena_training_fighter_5_pl|Normale-Kämpfer
+trp_arena_training_fighter_3|Normal Kämpfer
+trp_arena_training_fighter_3_pl|Normale Kämpfer
+trp_arena_training_fighter_4|Normal Kämpfer
+trp_arena_training_fighter_4_pl|Normale Kämpfer
+trp_arena_training_fighter_5|Normal Kämpfer
+trp_arena_training_fighter_5_pl|Normale Kämpfer
 trp_arena_training_fighter_6|Kampfveteran
 trp_arena_training_fighter_6_pl|Kampfveteran
 trp_arena_training_fighter_7|Kampfveteran
@@ -66,18 +66,18 @@ trp_mercenary_swordsman|Veteran
 trp_mercenary_swordsman_pl|Veteranen
 trp_regular_sailors|Seemann
 trp_regular_sailors_pl|Seemänner
-trp_mercenary_horseman|Aquitanium Scharmützel
-trp_mercenary_horseman_pl|Aquitanium Scharmützler
+trp_mercenary_horseman|Aquitanischer Scharmützler
+trp_mercenary_horseman_pl|Aquitanische Scharmützler
 trp_mercenary_leader|Alter Kapitän
 trp_mercenary_leader_pl|Alter Kapitän
 trp_hired_blade|Svear Krieger
 trp_hired_blade_pl|Sviar Krieger
-trp_mercenary_crossbowman|Finn-Bogenschütze
-trp_mercenary_crossbowman_pl|Finna Bogenschützen
+trp_mercenary_crossbowman|Finnischer Bogenschütze
+trp_mercenary_crossbowman_pl|Finnische Bogenschützen
 trp_mercenaries_end|Dorfbewohner
 trp_mercenaries_end_pl|Dorfbewohner
-trp_norse_slave|Freigelassener Nordische (Leysingi)
-trp_norse_slave_pl|Freigelassene Nordische (Leysingja)
+trp_norse_slave|Nordischer Freigelassener (Leysingi)
+trp_norse_slave_pl|Nordische Freigelassene (Leysingja)
 trp_norse_bowman|Nordischer Bogenschütze (Gestr.)
 trp_norse_bowman_pl|Nordische Bogenschützen (Gestir)
 trp_norse_elitearcher|Nordischer Bogenschützen-Krieger (Heimthegi)
@@ -86,7 +86,7 @@ trp_norse_level0_landed|Nordischer Unabhängiger (Boandi)
 trp_norse_level0_landed_pl|Nordische Unabhängige (Bondar)
 trp_norse_level1_landed|Nordischer Speerkämpfer (Drengr)
 trp_norse_level1_landed_pl|Nordische Speerkämpfer (Drengir)
-trp_norse_level2_landed|Nordischer Elite Speerkämpfer (Thane (Gefolgsmann))
+trp_norse_level2_landed|Nordischer Elite Speerkämpfer (thane)
 trp_norse_level2_landed_pl|Nordische Elite Speerkämpfer (Thegnar)
 trp_norse_level3_landed|Nordischer Adeliger (Hersir)
 trp_norse_level3_landed_pl|Nordische Adlige (Hersir)
@@ -95,10 +95,10 @@ trp_norse_level0_companion_pl|Nordische Gefährten (Hirthmathr)
 trp_norse_level1_companion|Nordischer Veteran (Rekkr)
 trp_norse_level1_companion_pl|Nordische Veteranen (Rekkar)
 trp_norse_level2_companion|Nordische Leibwache (Huskarl)
-trp_norse_level2_companion_pl|Nordischer Leibwächter (Huskarlar)
+trp_norse_level2_companion_pl|Nordische Leibwächter (Huskarlar)
 trp_norse_standard_bearer|Standartenträger (Merkismathr)
 trp_norse_standard_bearer_pl|Standartenträger (Merkismathr)
-trp_norse_priest|Gothi
+trp_norse_priest|Priester
 trp_norse_priest_pl|Gothar
 trp_briton_slave|Britannischer Leibeigener (Aillt)
 trp_briton_slave_pl|Britannische Leibeigene (Aillts)
@@ -113,7 +113,7 @@ trp_briton_level3_landed_pl|Britannische Adlige (Uchelwyr)
 trp_briton_level0_companion|Britannischer Krieger (Cadwr)
 trp_briton_level0_companion_pl|Britannische Krieger (Cadwyr)
 trp_briton_level1_companion|Britannischer Kämpfer (Campiwr)
-trp_briton_level1_companion_pl|Britannischer Kämpfer (Campgwr)
+trp_briton_level1_companion_pl|Britannische Kämpfer (Campgwr)
 trp_briton_level2_companion|Britannische Leibwache (Teulu)
 trp_briton_level2_companion_pl|Britannische Leibwächter (Teulus)
 trp_briton_bowman|Britannischer Scharmützler (Cipryswr)
@@ -144,7 +144,7 @@ trp_saxon_level1_companion|Sächsischer Veteran (Gesith)
 trp_saxon_level1_companion_pl|Sächsische Veteranen (Gesithas)
 trp_saxon_level2_companion|Sächsische Leibwache (Gedriht)
 trp_saxon_level2_companion_pl|Sächsische Leibwächter (Gedrihtes)
-trp_saxon_horseman|Sächsischer Reiter (ridda-Strafe)
+trp_saxon_horseman|Sächsischer Reiter (Ridda)
 trp_saxon_horseman_pl|Sächsische Reiter (Riddan)
 trp_saxon_standard_bearer|Standartenträger (Tacnberend)
 trp_saxon_standard_bearer_pl|Standartenträger (Tacnberends)
@@ -176,34 +176,34 @@ trp_scotch_knight|Piktischer Adeliger (Toisech)
 trp_scotch_knight_pl|Piktische Adlige (Toisechs)
 trp_scotch_standard_bearer|Standartenträger (Samhladh)
 trp_scotch_standard_bearer_pl|Standartenträger (Samhladh)
-trp_scotch_musician|Piktischer Hornman
+trp_scotch_musician|Piktischer Hornmann
 trp_scotch_musician_pl|Piktische Hornmänner
 trp_scotch_priest|Priester
 trp_scotch_priest_pl|Priester
-trp_angle_slave|Angle Bauer (Gebur)
+trp_angle_slave|Anglischer Bauer (Gebur)
 trp_angle_slave_pl|Bauern (Geburas)
-trp_angle_bowman|Angle Bogenschütze (Scytta)
-trp_angle_bowman_pl|Angle Bogenschützen (Scyttena)
-trp_angle_level0_landed|Angle Landsasse (Kotsetla)
-trp_angle_level0_landed_pl|Angle Landsassen (Kotsetlas)
-trp_angle_level1_landed|Angel Speerkämpfer (Cniht)
+trp_angle_bowman|Anglischer Bogenschütze (Scytta)
+trp_angle_bowman_pl|Anglische Bogenschützen (Scyttena)
+trp_angle_level0_landed|Anglischer Landsasse (Kotsetla)
+trp_angle_level0_landed_pl|Anglische Landsassen (Kotsetlas)
+trp_angle_level1_landed|Anglischer Speerkämpfer (Cniht)
 trp_angle_level1_landed_pl|Speerkämpfer (Cnihtes)
-trp_angle_level2_landed|Angle Krieger (Cempa)
-trp_angle_level2_landed_pl|Angle Kriegern (Cempan)
-trp_angle_level3_landed|Angle Adliger (Thane)
-trp_angle_level3_landed_pl|Angle Adlige (Thanes)
-trp_angle_level0_companion|Angle Gefährte (Geneat)
-trp_angle_level0_companion_pl|Angle Gefährten (Geneata)
-trp_angle_level1_companion|Angle Veteran (Gesith)
-trp_angle_level1_companion_pl|Angle Veterans (Gesithas)
-trp_angle_level2_companion|Angle Leibwache (Gedriht)
-trp_angle_level2_companion_pl|Angle Leibwächter (Gedrihtes)
-trp_angle_horseman|Angle Reiter (ridda-Strafe)
-trp_angle_horseman_pl|Angle Reiter (Riddan)
+trp_angle_level2_landed|Anglischer Krieger (Cempa)
+trp_angle_level2_landed_pl|Anglische Krieger (Cempan)
+trp_angle_level3_landed|Anglischer Adliger (Thane)
+trp_angle_level3_landed_pl|Anglische Adlige (Thanes)
+trp_angle_level0_companion|Anglischer Gefährte (Geneat)
+trp_angle_level0_companion_pl|Anglische Gefährten (Geneata)
+trp_angle_level1_companion|Anglischer Veteran (Gesith)
+trp_angle_level1_companion_pl|Anglische Veteranen (Gesithas)
+trp_angle_level2_companion|Anglische Leibwache (Gedriht)
+trp_angle_level2_companion_pl|Anglische Leibwächter (Gedrihtes)
+trp_angle_horseman|Anglischer Reiter (Ridda)
+trp_angle_horseman_pl|Anglische Reiter (Riddan)
 trp_angle_standard_bearer|Standartenträger (Tacnberend)
 trp_angle_standard_bearer_pl|Standartenträger (Tacnberends)
-trp_angle_priest|Angle Priester
-trp_angle_priest_pl|Angle Priester
+trp_angle_priest|Anglischer Priester
+trp_angle_priest_pl|Anglische Priester
 trp_irish_slave|Irischer Leibeigener (Senchleithe)
 trp_irish_slave_pl|Irische Leibeigene (Senchleithe)
 trp_irish_bowman|Irischer Scharmützel (Fer Midboth)
@@ -230,9 +230,9 @@ trp_irish_knight|Irische Leibwache (Riglach)
 trp_irish_knight_pl|Irische Leibwächter (Riglach)
 trp_irish_standard_bearer|Standartenträger (Meirgeach)
 trp_irish_standard_bearer_pl|Standartenträger (Meirgeach)
-trp_irish_priest|Godelic Priester
-trp_irish_priest_pl|Godelic Priester
-trp_todos_cuerno|Hornman
+trp_irish_priest|Goidelischer Priester
+trp_irish_priest_pl|Goidelische Priester
+trp_todos_cuerno|Hornmann
 trp_todos_cuerno_pl|Hornmänner
 trp_norse_messenger|Kurier (Bodi)
 trp_norse_messenger_pl|Boten (Bodar)
@@ -276,16 +276,16 @@ trp_scotch_castle_guard|Wache
 trp_scotch_castle_guard_pl|Wachen
 trp_angle_messenger|Kurier (Horsweala)
 trp_angle_messenger_pl|Boten (Horswealas)
-trp_angle_deserter|Angle Deserteur
-trp_angle_deserter_pl|Angle Deserteure
+trp_angle_deserter|Anglischer Deserteur
+trp_angle_deserter_pl|Anglische Deserteure
 trp_angle_prison_guard|Gefängniswache
 trp_angle_prison_guard_pl|Gefängniswachen
 trp_angle_castle_guard|Wache
 trp_angle_castle_guard_pl|Wachen
 trp_irish_messenger|Bote
 trp_irish_messenger_pl|Kuriere
-trp_irish_deserter|Goidelic-Deserteur
-trp_irish_deserter_pl|Goidelic-Deserteure
+trp_irish_deserter|Goidelischer Deserteur
+trp_irish_deserter_pl|Goidelische Deserteure
 trp_irish_prison_guard|Gefängniswache
 trp_irish_prison_guard_pl|Gefängniswachen
 trp_irish_castle_guard|Burgwache
@@ -302,8 +302,8 @@ trp_forest_bandit|Bandit
 trp_forest_bandit_pl|Banditen
 trp_sea_raider|Plünderer
 trp_sea_raider_pl|Plünderer
-trp_desert_bandit|Räuber
-trp_desert_bandit_pl|Räuber
+trp_desert_bandit|Straßenräuber
+trp_desert_bandit_pl|Straßenräuber
 trp_steppe_bandit|Nordischer Wikinger
 trp_steppe_bandit_pl|Nordische Wikinger
 trp_taiga_bandit|Wikinger
@@ -312,7 +312,7 @@ trp_elite_viking|Dänischer Elite Wikinger
 trp_elite_viking_pl|Dänische Elite Wikinger
 trp_elite_viking_2|Svear Elite Wikinger
 trp_elite_viking_2_pl|Sviare Elite Wikinger
-trp_sea_raider_leader2|Schiffkapitän
+trp_sea_raider_leader2|Schiffskapitän
 trp_sea_raider_leader2_pl|Kapitäne
 trp_looter_leader2|Banditenführer
 trp_looter_leader2_pl|Banditenanführer
@@ -322,16 +322,16 @@ trp_slave_driver|Sklaventreiber
 trp_slave_driver_pl|Sklaventreiber
 trp_slave_hunter|Sklavenjäger
 trp_slave_hunter_pl|Sklavenjäger
-trp_slave_crusher|Veteran Slave Jäger
-trp_slave_crusher_pl|Veteranen Slave Jäger
+trp_slave_crusher|Veteran Sklaven Jäger
+trp_slave_crusher_pl|Veteranen Sklaven Jäger
 trp_slaver_chief|Sklavenaufseher
 trp_slaver_chief_pl|Sklavenaufseher
 trp_follower_woman|Lagerfrau
-trp_follower_woman_pl|Frauenlager
+trp_follower_woman_pl|Lagerfrauen
 trp_hunter_woman|Lagerbegleitung
 trp_hunter_woman_pl|Anhängerlager
-trp_fighter_woman|Frau des Soldaten
-trp_fighter_woman_pl|Frauen des Soldaten
+trp_fighter_woman|Soldatenfrau
+trp_fighter_woman_pl|Soldatenfrauen
 trp_sword_sister|Lagerverteidiger
 trp_sword_sister_pl|Lagerverteidiger
 trp_refugee|Flüchtling
@@ -358,10 +358,10 @@ trp_quarry_capataz|Vorarbeiter
 trp_quarry_capataz_pl|Vorarbeiter
 trp_saltmine_capataz|Vorarbeiter
 trp_saltmine_capataz_pl|Vorarbeiter
-trp_lumbercamp_capataz|Vorarbeiter der Holzlager
-trp_lumbercamp_capataz_pl|Vorarbeiter der Holzlagers
-trp_farmstead_boss|Bauernhof Reeve
-trp_farmstead_boss_pl|Bauernhof Reeves
+trp_lumbercamp_capataz|Vorarbeiter des Holzfällerlagers
+trp_lumbercamp_capataz_pl|Vorarbeiter der Holzfällerlager
+trp_farmstead_boss|Vogt des Bauernhofs
+trp_farmstead_boss_pl|Vögte der Bauernhöfe
 trp_bandit_lairmerchant|Banditenführer
 trp_bandit_lairmerchant_pl|Banditenanführer
 trp_abad|Abt
@@ -370,7 +370,7 @@ trp_monjes|Mönch
 trp_monjes_pl|Mönche
 trp_caravan_master|Karawanenmeister
 trp_caravan_master_pl|Karawanenmeister
-trp_kidnapped_girl|Entführte Mädchen
+trp_kidnapped_girl|Entführtes Mädchen
 trp_kidnapped_girl_pl|Entführte Mädchen
 trp_town_walker_1|Dorfbewohner
 trp_town_walker_1_pl|Dorfbewohner
@@ -508,66 +508,66 @@ trp_tavern_minstrel_4|Wandernder Barde
 trp_tavern_minstrel_4_pl|Minnesänger
 trp_tavern_minstrel_5|Wandernder Barde
 trp_tavern_minstrel_5_pl|Minnesänger
-trp_quastuosa_1|Glückliche Witwe
+trp_quastuosa_1|Freudenmädchen
 trp_quastuosa_1_pl|Bettler
-trp_quastuosa_2|Glückliche Witwe
+trp_quastuosa_2|Freudenmädchen
 trp_quastuosa_2_pl|Bettler
-trp_quastuosa_3|Glückliche Witwe
+trp_quastuosa_3|Freudenmädchen
 trp_quastuosa_3_pl|Bettler
-trp_quastuosa_4|Glückliche Witwe
+trp_quastuosa_4|Freudenmädchen
 trp_quastuosa_4_pl|Bettler
-trp_quastuosa_5|Glückliche Witwe
+trp_quastuosa_5|Freudenmädchen
 trp_quastuosa_5_pl|Bettler
-trp_quastuosa_6|Glückliche Witwe
+trp_quastuosa_6|Freudenmädchen
 trp_quastuosa_6_pl|Bettler
-trp_quastuosa_7|Glückliche Witwe
+trp_quastuosa_7|Freudenmädchen
 trp_quastuosa_7_pl|Bettler
-trp_quastuosa_end|Glückliche Witwe
+trp_quastuosa_end|Freudenmädchen
 trp_quastuosa_end_pl|Bettler
-trp_bardo_1|Dichter des Königreich
+trp_bardo_1|Dichter des Königreichs
 trp_bardo_1_pl|Dichter
-trp_bardo_2|Dichter des Königreich
+trp_bardo_2|Dichter des Königreichs
 trp_bardo_2_pl|Dichter
-trp_bardo_3|Dichter des Königreich
+trp_bardo_3|Dichter des Königreichs
 trp_bardo_3_pl|Dichter
-trp_bardo_4|Dichter des Königreich
+trp_bardo_4|Dichter des Königreichs
 trp_bardo_4_pl|Dichter
-trp_bardo_5|Sänger des Königreich
+trp_bardo_5|Sänger des Königreichs
 trp_bardo_5_pl|Owain
-trp_bardo_6|Sänger des Königreich
+trp_bardo_6|Sänger des Königreichs
 trp_bardo_6_pl|Sänger
-trp_bardo_7|Sänger des Königreich
+trp_bardo_7|Sänger des Königreichs
 trp_bardo_7_pl|Sänger
-trp_bardo_8|Dichter des Königreich
+trp_bardo_8|Dichter des Königreichs
 trp_bardo_8_pl|Dichter
-trp_bardo_9|Sänger des Königreich
+trp_bardo_9|Sänger des Königreichs
 trp_bardo_9_pl|Sänger
-trp_bardo_10|Sänger des Königreich
+trp_bardo_10|Sänger des Königreichs
 trp_bardo_10_pl|Sänger
-trp_bardo_11|Sänger des Königreich
+trp_bardo_11|Sänger des Königreichs
 trp_bardo_11_pl|Sänger
-trp_bardo_12|Sänger des Königreich
+trp_bardo_12|Sänger des Königreichs
 trp_bardo_12_pl|Sänger
-trp_bardo_13|Sänger des Königreich
+trp_bardo_13|Sänger des Königreichs
 trp_bardo_13_pl|Sänger
-trp_bardo_14|Sänger des Königreich
+trp_bardo_14|Sänger des Königreichs
 trp_bardo_14_pl|Sänger
-trp_bardo_15|Sänger des Königreich
+trp_bardo_15|Sänger des Königreichs
 trp_bardo_15_pl|Sänger
-trp_bardo_16|Sänger des Königreich
+trp_bardo_16|Sänger des Königreichs
 trp_bardo_16_pl|Sänger
-trp_bardo_17|Sänger des Königreich
+trp_bardo_17|Sänger des Königreichs
 trp_bardo_17_pl|Sänger
-trp_bardo_18|Sänger des Königreich
+trp_bardo_18|Sänger des Königreichs
 trp_bardo_18_pl|Sänger
-trp_bardo_19|Sänger des Königreich
+trp_bardo_19|Sänger des Königreichs
 trp_bardo_19_pl|Sänger
-trp_bardo_20|Sänger des Königreich
+trp_bardo_20|Sänger des Königreichs
 trp_bardo_20_pl|Sänger
-trp_bardo_21|Sänger des Königreich
+trp_bardo_21|Sänger des Königreichs
 trp_bardo_21_pl|Sänger
-trp_sacerdote_1|Christian Bischof
-trp_sacerdote_1_pl|Christian Bischof
+trp_sacerdote_1|Christlicher Bischof
+trp_sacerdote_1_pl|Christliche Bischöfe
 trp_sacerdote_2|Bischof Ealhheard
 trp_sacerdote_2_pl|Priester
 trp_paganop_1|Gothi
@@ -1144,9 +1144,9 @@ trp_town_1_seneschal|Nordischer Chronist
 trp_town_1_seneschal_pl|Chronist
 trp_town_2_seneschal|Britannischer Chronist
 trp_town_2_seneschal_pl|Chronist
-trp_town_3_seneschal|Goidelic Chronist
+trp_town_3_seneschal|Goidelischer Chronist
 trp_town_3_seneschal_pl|Chronist
-trp_town_4_seneschal|Angle Chronist
+trp_town_4_seneschal|Anglischer Chronist
 trp_town_4_seneschal_pl|Chronist
 trp_town_25_seneschal|Mael Bresail
 trp_castle_1_seneschal|Vogt der Feste
@@ -1269,35 +1269,35 @@ trp_town_26_arena_master|Turniermeister
 trp_town_27_arena_master|Turniermeister
 trp_town_28_arena_master|Turniermeister
 trp_town_29_arena_master|Turniermeister
-trp_town_1_armorer|Waffenmeister
-trp_town_2_armorer|Waffenmeister
-trp_town_3_armorer|Waffenmeister
-trp_town_4_armorer|Waffenmeister
-trp_town_5_armorer|Waffenmeister
-trp_town_6_armorer|Waffenmeister
-trp_town_7_armorer|Waffenmeister
-trp_town_8_armorer|Waffenmeister
-trp_town_9_armorer|Waffenmeister
-trp_town_10_armorer|Waffenmeister
-trp_town_11_armorer|Waffenmeister
-trp_town_12_armorer|Waffenmeister
-trp_town_13_armorer|Waffenmeister
-trp_town_14_armorer|Eadwine der Waffenmeister
+trp_town_1_armorer|Rüstungsschmied
+trp_town_2_armorer|Rüstungsschmied
+trp_town_3_armorer|Rüstungsschmied
+trp_town_4_armorer|Rüstungsschmied
+trp_town_5_armorer|Rüstungsschmied
+trp_town_6_armorer|Rüstungsschmied
+trp_town_7_armorer|Rüstungsschmied
+trp_town_8_armorer|Rüstungsschmied
+trp_town_9_armorer|Rüstungsschmied
+trp_town_10_armorer|Rüstungsschmied
+trp_town_11_armorer|Rüstungsschmied
+trp_town_12_armorer|Rüstungsschmied
+trp_town_13_armorer|Rüstungsschmied
+trp_town_14_armorer|Eadwine der Rüstungsschmied
 trp_town_15_armorer|Donnchadh der Rüstungsschmied
-trp_town_16_armorer|Paega der Waffenmeister
+trp_town_16_armorer|Paega der Rüstungsschmied
 trp_town_17_armorer|Lifris der Rüstungsschmied
 trp_town_18_armorer|Fearchair der Rüstungsschmied
-trp_town_19_armorer|Waffenmeister
-trp_town_20_armorer|Waffenmeister
-trp_town_21_armorer|Waffenmeister
-trp_town_22_armorer|Waffenmeister
-trp_town_23_armorer|Waffenmeister
-trp_town_24_armorer|Waffenmeister
-trp_town_25_armorer|Waffenmeister
-trp_town_26_armorer|Waffenmeister
-trp_town_27_armorer|Waffenmeister
-trp_town_28_armorer|Waffenmeister
-trp_town_29_armorer|Waffenmeister
+trp_town_19_armorer|Rüstungsschmied
+trp_town_20_armorer|Rüstungsschmied
+trp_town_21_armorer|Rüstungsschmied
+trp_town_22_armorer|Rüstungsschmied
+trp_town_23_armorer|Rüstungsschmied
+trp_town_24_armorer|Rüstungsschmied
+trp_town_25_armorer|Rüstungsschmied
+trp_town_26_armorer|Rüstungsschmied
+trp_town_27_armorer|Rüstungsschmied
+trp_town_28_armorer|Rüstungsschmied
+trp_town_29_armorer|Rüstungsschmied
 trp_town_30_armorer|Ingleri
 trp_town_1_weaponsmith|Waffenschmied
 trp_town_2_weaponsmith|Waffenschmied
@@ -1639,7 +1639,7 @@ trp_town_2_shipwright|Schiffsbauer
 trp_town_3_shipwright|Schiffsbauer
 trp_port_chief|Hafenmeister
 trp_port_chief_pl|Hafenmeister
-trp_town_5_shipwright|Kalle der Schiffbauer
+trp_town_5_shipwright|Kalle der Schiffsbauer
 trp_town_6_shipwright|Schiffsbauer
 trp_town_7_shipwright|Schiffsbauer
 trp_town_8_shipwright|Schiffsbauer
@@ -1695,8 +1695,8 @@ trp_town_26_master_craftsman|Handwerker
 trp_town_27_master_craftsman|Handwerker
 trp_town_28_master_craftsman|Handwerker
 trp_town_29_master_craftsman|Handwerker
-trp_local_merchant|Örtlicher Händler
-trp_local_merchant_pl|Örtliche Händler
+trp_local_merchant|Ortshändler
+trp_local_merchant_pl|Ortshändler
 trp_tax_rebel|Bauernrebell
 trp_tax_rebel_pl|Bauernrebellen
 trp_trainee_peasant|Bauer
@@ -1706,10 +1706,10 @@ trp_fugitive_pl|Nervöse Männer
 trp_belligerent_drunk|Streitlustiger Säufer
 trp_belligerent_drunk_pl|Streitlustige Säufer
 trp_hired_assassin|Reisender
-trp_hired_assassin_pl|Meuchelmörder
+trp_hired_assassin_pl|Auftragsmörder
 trp_fight_promoter|Grober Kerl
 trp_fight_promoter_pl|Grober Kerl
-trp_spy|Gewöhnliche Stadtmann
+trp_spy|Gewöhnlicher Städter
 trp_spy_pl|Gewöhnliche Städter
 trp_spy_partner|Unbeachtlicher Städter
 trp_spy_partner_pl|Unbeachtliche Städter
@@ -1851,8 +1851,8 @@ trp_desert_bandit_hero|König der Räuber
 trp_desert_bandit_hero_pl|Könige der Räuber
 trp_troll_bridge|Großer Mann
 trp_troll_bridge_pl|Großer Mann
-trp_elf_riddles|kleiner Mann
-trp_elf_riddles_pl|Kurze Mann
+trp_elf_riddles|Kleiner Mann
+trp_elf_riddles_pl|Kleiner Mann
 trp_silo_gallaecia|Silo von Gallaecia kommt
 trp_silo_gallaecia_pl|Silo von Gallaecia
 trp_petrus_didaz|Dux Petrus Didaz
@@ -1867,7 +1867,7 @@ trp_fisher|Fischer
 trp_fisher_pl|Fischer
 trp_thiaderd|Thiaderd
 trp_thiaderd_pl|Thiaderd
-trp_sea_raider_prisoner|Schiffkapitän
+trp_sea_raider_prisoner|Schiffskapitän
 trp_sea_raider_prisoner_pl|Kapitäne
 trp_doccinga_torturador|Folterer
 trp_doccinga_torturador_pl|Folterer
@@ -1949,47 +1949,47 @@ trp_mp_irish_peasant|Bauer
 trp_mp_irish_peasant_pl|Bauer
 trp_mp_scotch_peasant|Bauer
 trp_mp_scotch_peasant_pl|Bauer
-trp_mp_norse_infantry|Nordischer Infanterie
+trp_mp_norse_infantry|Nordische Infanterie
 trp_mp_norse_infantry_pl| 
 trp_mp_norse_archer|Nord-Bogenschütze
 trp_mp_norse_archer_pl| 
-trp_mp_norse_cavalry|Nordischer Kavallerie
+trp_mp_norse_cavalry|Nordische Kavallerie
 trp_mp_norse_cavalry_pl| 
 trp_mp_saxon_infantry|Sächsische Infanterie
 trp_mp_saxon_infantry_pl| 
 trp_mp_saxon_archer|Sächsischer Bogenschütze
 trp_mp_saxon_archer_pl| 
-trp_mp_saxon_cavalry|Sächsischer Kavallerie
+trp_mp_saxon_cavalry|Sächsische Kavallerie
 trp_mp_saxon_cavalry_pl| 
-trp_mp_angle_infantry|Angle Infanterie
+trp_mp_angle_infantry|Anglische Infanterie
 trp_mp_angle_infantry_pl| 
-trp_mp_angle_archer|Angle Bogenschütze
+trp_mp_angle_archer|Anglischer Bogenschütze
 trp_mp_angle_archer_pl| 
-trp_mp_angle_cavalry|Angle Kavallerie
+trp_mp_angle_cavalry|Anglische Kavallerie
 trp_mp_angle_cavalry_pl| 
-trp_mp_briton_infantry|Brittonic  Infanterie
+trp_mp_briton_infantry|Britannische Infanterie
 trp_mp_briton_infantry_pl| 
-trp_mp_briton_archer|Brittonic Bogenschütze
+trp_mp_briton_archer|Britannischer Bogenschütze
 trp_mp_briton_archer_pl| 
-trp_mp_briton_cavalry|Brittonic  Kavallerie
+trp_mp_briton_cavalry|Britannische Kavallerie
 trp_mp_briton_cavalry_pl| 
-trp_mp_irish_infantry|Goidelic Infanterie
+trp_mp_irish_infantry|Goidelische Infanterie
 trp_mp_irish_infantry_pl| 
-trp_mp_irish_archer|Goidelic Bogenschütze
+trp_mp_irish_archer|Goidelischer Bogenschütze
 trp_mp_irish_archer_pl| 
-trp_mp_irish_cavalry|Goidelic Kavallerie
+trp_mp_irish_cavalry|Goidelische Kavallerie
 trp_mp_irish_cavalry_pl| 
-trp_mp_scotch_infantry|Piktischer Infanterie
+trp_mp_scotch_infantry|Piktische Infanterie
 trp_mp_scotch_infantry_pl| 
 trp_mp_scotch_archer|Piktischer Bogenschütze
 trp_mp_scotch_archer_pl| 
-trp_mp_scotch_cavalry|Piktischer Kavallerie
+trp_mp_scotch_cavalry|Piktische Kavallerie
 trp_mp_scotch_cavalry_pl| 
-trp_norse_peasant_ai|Freigelassene Nordische (Leysingi)
-trp_norse_peasant_ai_pl|Freigelassene Nordische (Leysingja)
-trp_saxon_peasant_ai|Sächsische Bauern (Gebur)
+trp_norse_peasant_ai|Nordischer Freigelassener (Leysingi)
+trp_norse_peasant_ai_pl|Nordische Freigelassene (Leysingja)
+trp_saxon_peasant_ai|Sächsischer Bauer (Gebur)
 trp_saxon_peasant_ai_pl|Bauern (Geburas)
-trp_angle_peasant_ai|Angle-Bauer (Gebur)
+trp_angle_peasant_ai|Anglischer Bauer (Gebur)
 trp_angle_peasant_ai_pl|Bauern (Geburas)
 trp_briton_peasant_ai|Britischer Leibeigener (Aillt)
 trp_briton_peasant_ai_pl|Britische Leibeigene (Aillts)

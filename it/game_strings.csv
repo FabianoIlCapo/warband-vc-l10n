@@ -419,7 +419,7 @@ str_npc12_intro_response_2|Spiacente, ma ho altro da fare al momento.
 str_npc13_intro_response_2|Niente affatto. Le mie scuse.
 str_npc14_intro_response_2|No, e non posso dire ch'io muoia dalla voglia di fare la vostra conoscenza.
 str_npc15_intro_response_2|Vi sarei grato se vi faceste gli affari vostri, signore.
-str_npc16_intro_response_2|Io vado. Quando imparai a parlare, fammelo sapere.
+str_npc16_intro_response_2|Io vado. Quando impari a parlare, fammelo sapere.
 str_npc1_backstory_a|Comandante, sono il figlio più giovane dell'uomo conosciuto come il vecchio Romano. Come sapete, la mia famiglia è una leggenda da queste parti. Preserviamo la storia dei nostri antenati, che pattugliavano il Vallo di Adriano.
 str_npc2_backstory_a|Bramo un pò del vostro tempo, {reg59?Signora:Signore}. Ascoltare la mia storia. Sono importante per voi.
 str_npc3_backstory_a|Io... Mi dispiace, ma vi prego di capire. La mia vita è stata un inferno da quando sono diventata una cameriera nella casa dello jarl di Kennemer.
@@ -733,7 +733,7 @@ str_npc6_personalitymatch_speech_b|Devo dire che {s11} è una fonte di conforto 
 ; str_npc7_personalitymatch_speech_b|He preaches to me just like to anyone else, and told me that even if my body is covered by war tattoos, God can still see the good intentions within my heart. I am not sure I completely liked what he said, for I am a warrior, not a simple housemaid, but, still, I feel I can trust that priest and his teachings.
 ; str_npc8_personalitymatch_speech_b|We are both veterans, and, as such, can both easily perceive the many tactical flaws the warriors of this land commit during battle. Our shield wall is much stronger with him in it.
 ; str_npc9_personalitymatch_speech_b|Were she not a mere slave, I might ask for her hand. It is a pity that she is not a free, pure woman, but speaking with her is a pleasant way to pass time on the march.
-; str_npc10_personalitymatch_speech_b|Actually, I see that she is extremely devoted to you. Please, Dryhten, don't let it embarrass you! A devoted woman like that can be more valuable than a hundred warriors.
+str_npc10_personalitymatch_speech_b|In realtà, vedo che lei è estremamente devota a te. Per favore, Dryhten, non lasciare cha ti metta in imbarazzo! Una donna devota  come quella può essere più preziosa di un centinaio di guerrieri.
 ; str_npc11_personalitymatch_speech_b|She is clearly a survivor that has profound respect and obedience to you. This, of course, makes me extremely happy. If only all of our people were like her, someone who has overcome a troubled past in the house of the jarl of Kennemer. Those experiences, the difficult ones, are those that bring out the best in people, don't you think?
 str_npc12_personalitymatch_speech_b|Si rattrista molto a prendere la vita dei suoi uomini. Abbiamo parlato di un futuro più luminoso, del bisogno di unire i regni dell' Inghilterra in modo da porre fine a questo momento difficile.
 ; str_npc13_personalitymatch_speech_b|He has a warrior's heart, even though it requires much more to learn the art of war. Though he may not be as fast on his feet as some, he knows the wisdom of holding together in a disciplined battle-line. You showed good sense in bringing him into this shield wall.
@@ -775,8 +775,8 @@ str_npc15_rehire_speech|Salve, comandante! Non posso dire di essere del tutto di
 ; str_npc1_home_intro|Warlord, perhaps you didn't know this about Hadrian's Wall. Near here is a cave where I was born eighteen years ago. This is a special place that we should stop and visit, for it has long history. Romans, those legendary warriors, dwelt here.
 str_npc2_home_intro|Ribe! Lì è dove sono nato venti anni fa. Figlio di un re, eppure uno schiavo, ma il migliore skald di tutta la Danimarca.
 ; str_npc3_home_intro|Can you smell that? It is the smell of evil. It is the smell of Kennemer. How I hate that place! I spent the worst years of my life there. Just being around this site makes me nauseous.
-; str_npc4_home_intro|Perhaps you didn't know about Dun Onlaigh, a magnificent Dal Riata fortress.
-; str_npc5_home_intro|Oh, perhaps you didn't know this about Din Tagell, one of the mightiest forts of Cornubia. I served in the shield wall of its lord, as a dryhten, long before I was forced into exile.
+str_npc4_home_intro|Forse non conoscete Dun Onlaigh, una magnifica fortezza Dal Riata.
+str_npc5_home_intro|Oh, forse non conoscete  Din Tagell, una delle fortezze più potenti di Cornubia. Ho servito nel muro di scudi del suo Signore, come dryhten, alunga prima di essere stato costretto all'esilio.
 ; str_npc6_home_intro|Perhaps you don't know about Cantwareburh, in the kingdom of West Seaxe. This is the city where the ship, the Woden Ric, should have brought me, but the Viking attack near the coast of Friese changed all that. Changed my fate forever.
 str_npc7_home_intro|Prestare attenzione e stare attento. Ora siamo a Alban, nei pressi di Dun Taruo. nel regno di Alban che è il più potente nel nord.
 ; str_npc8_home_intro|We are in the kingdom of Friese, where Dorestad is the main town. Years ago, we Frisians were subjects of the Franks, but later, a Dane became king. Well, really, Frisians do not recognize these kings, but have to accept their power. We prefer to live.
@@ -785,7 +785,7 @@ str_npc9_home_intro|Ecco all'orizzonte, si trova la fortezza di Rendlaesham, sed
 str_npc11_home_intro|Quest'odore di sale e di sudore delle persone che lavorano sul mare. È il calore di casa... Tunsberg.
 str_npc12_home_intro|Forse non conoscete di Heidabyr, potrebbe interessarvi saperne di più.
 str_npc13_home_intro|A est, oltre le terre dei Norvegesi, vive il mio popolo, gli Sviar, un popolo di forti guerrieri. Il nostro destino è quello di governare tutti gli altri.
-; str_npc14_home_intro|Ah, Caiseal! Such a lovely spot, at the foot of the Eriu. The region of Mhumhain, or Munster, is certainly the most poetic and beautiful part of what Romans called Hibernia.
+str_npc14_home_intro|Ah, Caiseal! Un posto incantevole, ai piedi del Monte Eriu. La regione di Mhumhain, o di Munster, è certamente la parte più poetica e bella di quello che i Romani chiamavano Hibernia.
 str_npc15_home_intro|Vedete quel piccolo insediamento laggiù? Si tratta di Hordaland.
 str_npc16_home_intro|Dio mio! Qui siamo a Witan Ceaster. Ho vissuto qui vicino, in un villaggio. I miei genitori erano dei viaggiatori, non poteva prendersi cura di me e mi ha affidato ai monaci di Witan Ceaster.
 ; str_npc1_home_description|My name, Caio, has passed from generation to generation. The first who had it was an ancestor of mine, descended from a man named Virio, who was the grandson of a man who had served defending the wall.
@@ -805,12 +805,12 @@ str_npc16_home_intro|Dio mio! Qui siamo a Witan Ceaster. Ho vissuto qui vicino, 
 ; str_npc15_home_description|Hordaland is one of the small kingdoms in Northvegr. It is led by Eirik Konungr, who was my master. I know him well. He's a tough man, violent and loving nothing more than the independence of his kingdom. So he doesn't like the vow of Harald Tanglehair to unify Northvegr under one king.
 ; str_npc16_home_description|Witan Ceaster is the capital of the Saxons of West Seaxe. West Seaxe is now the most powerful kingdom in Britannia or Englaland, as our land is called. With Mierce weakened, West Seaxe is the only kingdom that can stop the Danish.
 ; str_npc1_home_description_2|Since then, it has passed from father to son. My father, the old Roman that you met, is called Caio. The name will not be lost, for all my brothers are also called Caio. My mother called us Caio Maior, Caio Secundo, and Caio Minor in order to distinguish us.
-; str_npc2_home_description_2|Someday I'll buy a farm near Ribe. I will marry two or three women and dedicate myself to making children. Or maybe not. I may soon get bored of it...
+str_npc2_home_description_2|Un giorno mi comprerò una fattoria vicino a Ribe. Vorrei sposare due o tre donne e dedicarmi a fare bambini. O forse no. Potrei annoiarmi...
 ; str_npc3_home_description_2|But now it seems that the Danish may be worse, in fact, than the Franks. Many Frisians have rebelled against their dominion. The Danish are people who take what they want, regardless of who is harmed, and they value their strength above our laws. I hate them! They made me a slave!
 str_npc4_home_description_2|La verità è che, per molti Gaelici, diventare Scozzesi era un modo per uscire dalla povertà, soprattutto in una società così chiusa come quella di Eriu. Abbiamo aderito ad una fratellanza e ci siamo adattati ai pericoli del mare. Saccheggi e rapine erano il nostro modo per sopravvivere. Non è molto diverso da quello che stanno facendo gli altri oggi, ma non siamo mai stati sanguinosi come i Norvegesi.
-; str_npc5_home_description_2|We only have the memories and history. Do you know that Din Tagell was the place where they say the man, Arthur, whom the bards sing about, was born?
+str_npc5_home_description_2|Abbiamo solo i ricordi e la storia. Lo sai che Din Tagell era il luogo dove dicono che l'uomo, chiamato Arthur, di cui cantano i bardi, è Nato?
 ; str_npc6_home_description_2|The Jutes conquered this land from the Britons after Rome left Britannia. Curiously, the Danish, who are the Jutes' relatives, or perhaps their descendants, are now their enemies and attack this land. I remember long afternoons with the Saxon scholar, an old man named Bedda, who informed me of this part of the world and prepared me for my trip.
-; str_npc7_home_description_2|The Picts are fine shepherds and hunters, but these Dal Riata are a clan of pirates, Scots. But I should not say that, since we are now fighting on the same side and for the king himself.
+str_npc7_home_description_2|I Pitti sono buoni pastori e cacciatori, ma questi Dal Riata sono un clan di pirati, Scots. Ma non dovrei dirlo, dal momento che ora stiamo combattendo dalla stessa parte e per il re in persona.
 ; str_npc8_home_description_2|Many of us prefer our own government, without the interference from either the Franks or Danish, but this is impossible as long as we are divided and unable to raise an army. Our aethelings, our noblemen, prefer to serve the Danish. Without an aetheling to lead us, the frilings, the freemen, are unable to organize. Perhaps our fate is to be dominated by other people forever.
 ; str_npc9_home_description_2|They harbor a great hatred against the rival kingdoms. Curiously enough, their territory is one of the few parts of Britannia where rainfall is sparse and the climate is dry. I am not really sure if you will ever want to fight their warriors for such a piece of land. I don't think it'd be worth it.
 ; str_npc10_home_description_2|The mouth of the river Fleet serves Lundenwic as a harbour for both trade and fishing. Merchants from all the nations of Europe are slowly flocking to Lundenwic in search of good commercial opportunities. And here, the old gods are still very well respected, but I should not say any more about that...
@@ -831,9 +831,9 @@ str_npc7_home_recap|Sono nato a Dun Taruo, nel Regno di Alban
 str_npc9_home_recap|Io vengo dal continente, il mio popolo sono i Franchi.
 str_npc10_home_recap|Sono un Sassone, non un anglo, vengo da Lundenwic.
 str_npc11_home_recap|Perchè, {reg59?mia bella:mio bello}? io vengo da Tunsberg, in Norvegia
-; str_npc12_home_recap|I am the younger son of a hersir in Odinsve. I traveled to Frankia and Rome in search of medical lore.
+str_npc12_home_recap|Io sono il figlio minore di un hersir in Odinsve. Ho viaggiato a Frankia e Roma alla ricerca di tradizioni e informazioni mediche.
 str_npc13_home_recap|Sono un Svia. La mia gente è destinata a regnare su tutto l'Oriente. I Danesi saranno distrutti rapidamente se i loro re brameranno ancora la nostra terra.
-; str_npc14_home_recap|Oh, from the most magnificent region of Mhumhain, in the southern part of Hibernia, land of bards and goddesses.
+str_npc14_home_recap|Oh, la più magnifica regione di Mhumhain, nella parte meridionale di Hibernia, terra di Bardi e Dee.
 ; str_npc15_home_recap|I come from Konstantinoupolis, the most beautiful and largest city in the world. The largest towns here are but small villages compared to Konstantinoupolis. Heck, one could practically fit in the Hagia Sofia, the main church there. You should travel there someday.
 str_npc16_home_recap|Ho vissuto a Witan ceaster per molti anni. Quella città riporta alla mia mente grandi ricordi, ma so che il mio posto non è là.
 str_npc1_honorific|Comandante
@@ -850,7 +850,7 @@ str_npc11_honorific|{reg59?mia bella:mio bello} -- Voglio dire comandante
 str_npc12_honorific|Comandante
 str_npc13_honorific|Comandante
 str_npc14_honorific|Capitano
-str_npc15_honorific|Startega
+str_npc15_honorific|Stratega
 str_npc16_honorific|{reg59?Signora:Signore}
 str_npc1_kingsupport_1|Questa è una grande idea, comandante. Tutti questi uomini e feudatari che ora governano, con le loro prigioni e forche e patiboli, le insegne, le frustate e le impiccagioni per ogni uomo che potrebbe essere costretto dal pianto dei suoi figli a rubare un pezzo di pane, o forse un cavallo. Questa terra merita qualcosa di meglio.
 str_npc2_kingsupport_1|Bene Comandante, vi offro il mio sostegno. Penso che darete a questo mondo il tipo di governo illuminato di cui da tanto tempo ha bisogno.
@@ -913,7 +913,7 @@ str_npc10_kingsupport_2b|Voi siete fuori di testa. Ci sono uomini e nobili valor
 str_npc11_kingsupport_2b|Io non voglio essere un Brytenwalda. Scordatevelo.
 str_npc12_kingsupport_2b|Basta signore, non voglio che vengano derise le nostre tradizioni.
 str_npc13_kingsupport_2b|In realtà, speravo in un pò di riposo dopo essere diventato re. Non voglio avere niente a che fare con il resto d'Europa!
-; str_npc14_kingsupport_2b|Hmm. I'm not sure about that. Cu Chulainn had a tragic and early death. I don't want to be linked to him.
+str_npc14_kingsupport_2b|Hmm. Non sono sicuro di questo. Cu Chulainn ebbe una morte tragica e precoce. Non voglio essere legata a lui.
 str_npc15_kingsupport_2b|{reg59?Regina:Re} dei deboli e dei poveri, forse. Basta con questi discorsi!
 ; str_npc16_kingsupport_2b|No disrespect, but I'm not as sure that's what I'd do. Perhaps God would not like that at all.
 ; str_npc1_kingsupport_3|If I could go about this land for a few weeks, I'd tell the common folk that you would give amnesty to their kinfolk like the Roman -- um, consuls, I think -- of old. Well, soon they would start talking of you as a rightful king, and that would pave your way to the throne. Shall I do that, warlord?
@@ -1469,14 +1469,14 @@ str_changed_my_mind_goodnatured|Però, state sostenendo bene le vostre ragioni, 
 str_changed_my_mind_upstanding|Tuttavia, avete sostenuto la vostra causa in modo eloquente. Vi sto ancora ascoltando, per ora.
 ; str_swadian_rebellion_pretender_intro|I am Thorgil of Ribe. I should be konungr of Danmark.
 ; str_vaegir_rebellion_pretender_intro|I am Dungal, son of Fergusa, of the Cenel nLoairn. I should be Ard Ri of Eriu!
-; str_khergit_rebellion_pretender_intro|I'm Oswine, the exiled ealdorman of Northhymbre.
+str_khergit_rebellion_pretender_intro|Io sono Oswine, dell'ealdorman esiliato da Northhymbre.
 str_nord_rebellion_pretender_intro|Sono Ceorl. Presto regnerò sul West Seaxe.
 str_rhodok_rebellion_pretender_intro|Sono Bill, figlio di Brude e prossimo re di Alban!
 str_sarranid_rebellion_pretender_intro|Ciao, straniero. Sono Cadwallon. Mi rivolgo a voi come l'ultimo erede dei re di Gwynedd.
 ; str_swadian_rebellion_pretender_story_1|My father saved our people while that bastard, King Horik, was raiding abroad. He didn't think about what would happen if he left this land without any soldiers to protect it! My father was the one who did it!
 ; str_vaegir_rebellion_pretender_story_1|I had been the heir to my father's crown for 30 years, but last year that old mummy decided he wanted a new young lady to 'refresh' his life, if you know what I mean.
 ; str_khergit_rebellion_pretender_story_1|The Danish razed my lands. Supplied by that coward of a king of East Engle, they rode up from the south. Figuring that they were bent on revenge against King Aelle, each lord protected only his fief rather than heed the king's summons. But the Danes wanted everything. With only my own retainers, I knew I could not prevent them from taking my inheritance.
-; str_nord_rebellion_pretender_story_1|My father was the king of Cent, the current king's brother. He honored his father, Aethelwulf, unlike his next brother, Aethelbald, who stole the throne and married his father's wife.
+str_nord_rebellion_pretender_story_1|Mio padre era il re di Cent, fratello del re attuale. Onorò il suo padre, Aethelwulf, a differenza dell'altro suo fratello , Aethelbald, che ha rubato il trono e sposato la moglie di suo padre.
 ; str_rhodok_rebellion_pretender_story_1|For the last fifteen years, I rode through this land with my boys giving protection to the villages just for a couple of coins and food. Just what we deserve.
 ; str_sarranid_rebellion_pretender_story_1|I am the namesake of my ancestor, who defeated Eadwine of Deria in the battle of Haethfelth Chase. After that, we were kicked from the throne, and my family had to live far from the crown... until now.
 ; str_swadian_rebellion_pretender_story_2|When the king came back from his adventure with tons of silver and those odd crosses, he was afraid of us. My father had inspired much loyalty among those who were here when the bandits attacked. That coward kicked us out of our own homes! Just a few months later my father committed suicide, unable to live with the dishonor. Since then, I have been living with people loyal to our cause, those who knew that the real leader of our people was my father.
@@ -1498,7 +1498,7 @@ str_sarranid_rebellion_pretender_intro|Ciao, straniero. Sono Cadwallon. Mi rivol
 ; str_rhodok_rebellion_monarch_response_1|He is nothing but a bandit. For the last few years, he has been extorting silver from my villages. He pretends to be the protector of those villages from 'bandits,' when it is they who are the bandits!
 ; str_sarranid_rebellion_monarch_response_1|It is true that we are going through tough times, but the people know it is because our merchants have been suffering under constant raids. Now that I know he is in my kingdom, I can say he is the one responsible for those attacks.
 ; str_swadian_rebellion_monarch_response_2|They can try to attack us, but they don't have enough men to take even one of my villages, ha! Take my advice. Ignore him. He will never be anything but a chatterbox.
-; str_vaegir_rebellion_monarch_response_2|Only if he came and knelt in front of me would I will be willing to forgive his faults and let him live somewhere far away from my legitimate son.
+str_vaegir_rebellion_monarch_response_2|Solo se quando verra e si inginocchierà davanti a me  sarò disposto a perdonare i suoi errori e lasciarlo vivere da qualche parte lontano dal mio figlio legittimo.
 ; str_khergit_rebellion_monarch_response_2|I will not tolerate any pretender to my crown. He and everyone who supports him will be arrested if they try anything unlawful. These are my people now, and I will protect them.
 ; str_nord_rebellion_monarch_response_2|I do not desire to bind his hands, but I have my mine full with the Danish and can't be on guard against a possible back stab. No one controls events, and the succession moves on. He never understood this.
 ; str_rhodok_rebellion_monarch_response_2|They are going to suffer for the pain they have caused my people. Not one of them will survive.
@@ -2347,7 +2347,7 @@ str_playername_come_to_plague_me_some_more_have_you|{playername}... Siete venuto
 str_ah_it_is_you_again|Ah. Siete ancora voi...
 str_well_playername|Beh, {playername}?
 str_flagon_of_mead|Corno di idromele
-; str_skin_of_kumis|skin of syrung
+str_skin_of_kumis|pelle di syrung
 str_mug_of_kvass|Boccale di birra
 str_cup_of_wine|bicchiere di vino
 str_you_intend_to_challenge_s13_to_force_him_to_retract_an_insult|Avete intenzione di sfidare {s13} per costringerlo a ritirare un insulto.
@@ -2785,8 +2785,8 @@ str_has_decided_that_an_attack_on_|ha deciso un attacco a
 str_this_would_be_better_worth_the_effort|Questo potrebbe compensare il nostro sforzo, prendendo in considerazione il suo valore, la sua distanza e il probabile numero di difensori.
 str_has_decided_to_defend_|ha deciso di difendere 
 ; str_before_going_offensive_we_should_protect_our_lands_if_there_is_any_threat_so_this_can_be_reason_marshal_choosed_defending_s4|Before taking the offensive, we should protect our lands against any threat. This can be the reason why the marshal chose to defend {s4}.
-; str_are_you_all_right|Ah -- you're awake. It's good to see that you can still walk. You're lucky, foreigner! Some god has watched over you. When they brought you here, you were more dead than alive.
-; str_you_are_awake|Ah -- you're awake. It's good to see that you can still walk. You're lucky, foreigner! Some god has watched over you. When they brought you here, you were more dead than alive.
+str_are_you_all_right|Ah..--sei sveglio. È bello vedere che pui ancora camminare. Sei fortunato, straniero! qualche Dio ha vegliato su te. Quando ti hanno portato qui, eri più morto che vivo.
+str_you_are_awake|Ah..--sei sveglio. È bello vedere che pui ancora camminare. Sei fortunato, straniero! qualche Dio ha vegliato su te. Quando ti hanno portato qui, eri più morto che vivo. 
 str_save_town_from_bandits|Salva {s9} dai banditi.
 str_you_fought_well_at_town_fight_survived|Hah! Ben fatto... Ho visto almeno tre nemici cadere a terra prima di voi. Continuate a lottare così, e vi farete una bella reputazione in questa terra.
 str_you_fought_normal_at_town_fight_survived|Ben fatto! Ho sentito che avete totalizzato uno o due vittime tra questi bastardi, e siete ancora in piedi. Non potete chiedere un migliore risultato in una battaglia simile...
@@ -2944,8 +2944,8 @@ str_ship_name_23|Saeulfr
 str_ship_names_end|Nome della nave e
 str_cant_set_sail|Non puoi salpare. Le tue navi non hanno abbastanza spazio per portare {reg3} uomini. 
 ; str_ship_tutorial_0|In this tutorial, you will learn how to control a ship. Take your time to learn how to command your crew, so you will be able keep a cool head in fast-developing naval battles.^^(Click * K * to continue.)
-; str_ship_tutorial_1|In a naval battle, it often helps to get an overview.^^(Click * BACKSPACE * to get an overview.)
-; str_ship_tutorial_2|You can look around by moving the mouse or get your perspective back on your ship by clicking * BACKSPACE * again.^^(Click * K * if you want to continue.)
+str_ship_tutorial_1|In una battaglia navale, è spesso utile per ottenere una panoramica.^^(Clicca * BACKSPACE * per ottenere una panoramica.)
+str_ship_tutorial_2|È possibile guardarsi intorno muovendo il mouse o ottenere la vostra prospettiva indietro sulla tua nave cliccando * BACKSPACE * di nuovo.^^(Clicca * K * se si desidera continuare.)
 ; str_ship_tutorial_3|If you want to make your ship move, you can give the crew the command to row. The more crew you have, the more speed you will gain through rowing.^^You can give commands to row forward, to row fast forward, to stay or to row backwards. Click the * UP * or the * DOWN * arrow key to switch between these commands.^^Your current command is represented by the arrows above and below the representation of your ship in the upper right corner of your display. Try to give different rowing commands!
 ; str_ship_tutorial_4|If you want to make your ship move, you can give the crew the command to row. The more crew you have, the more speed you will gain through rowing.^^You can give commands to row forward, to row fast forward, to stay or to row backwards. Click the * UP * or the * DOWN * arrow key to switch between these commands.^^Your current command is represented by the arrows above and below the representation of your ship in the upper right corner of your display. Try to give different rowing commands!^^(Click * K * if you want to continue.)
 ; str_ship_tutorial_5|If you want to direct your ship, you can give a command to the helmsmen. You can give commands to row straight, starboard, hard starboard, port or hard port. Click the * LEFT * or the * RIGHT * arrow key to switch between these commands.^^Your current command is represented by the arrows to the right and left of the representation of your ship in the upper right corner of your display. Try to give different helmsman commands!
@@ -2977,9 +2977,9 @@ str_choose_a_captain|Choose a troop class:
 ; str_your_men_break_off_the_siege_of_s10_to_follow_you|Your men break off the siege of {s10} to follow you.
 ; str_if_you_get_too_far_from_s10_your_siege_will_end|If you get too far from {s10}, your siege will end.
 str_the_s0_in_s4_has_been_completed|La {s0} a {s4} è stato completata.
-; str_s5_sends_word_that_your_betrothal_is_ended|{s5} sends word that your betrothal is ended!
+str_s5_sends_word_that_your_betrothal_is_ended|{s5} manda a dire che il vostro fidanzamento è finito!
 str_you_dont_have_enough_money_to_continue_training_troops_at_s10|Non hai abbastanza soldi per continuare l'addestramento delle truppe a {s10}. 
-; str_at_s10_has_promoted_reg5_reg6s8_to_s9s6_to_s7|at {s10} has promoted {reg5} {reg6?{s8} to {s9}:{s6} to {s7}}.
+str_at_s10_has_promoted_reg5_reg6s8_to_s9s6_to_s7|a {s10} ha promosso {reg5} {reg6?{s8} a {s9}:{s6} a {s7}}.
 str_good_news_our_foragers_found_much_meat|Buone notizie! I nostri raccoglitori hanno trovato molta carne.
 str_our_foragers_have_returned_after_getting_some_food|I nostri raccoglitori sono tornati dopo aver ottenuto qualcosa da mangiare nei villaggi vicini, ma gli abitanti del villaggio sono arrabbiato con noi.
 str_bad_news_our_foragers_didnt_find_food_today|Brutte notizie! I nostri raccoglitori non hanno trovato nulla da mangiare oggi.
@@ -3290,7 +3290,7 @@ str_set_goal_custom_hint|Avete scelto il proprio percorso.
 ; str_set_goal_raider_hint|Raid towns. Hunt down villagers.^No one will be safe from you.^Use fast ships to travel to distant lands^and your refuge to have a safe home.
 ; str_set_goal_warrior_hint|You wish to be known as a great warrior.^Fight in tournaments. Protect villagers.^Attack bandits and escort caravans.^You will find plenty of work in towns^and villages, but never forget that your^glory is born on the fields of battle.
 ; str_set_goal_lord_hint|The common life is not for you.^You wish to become a nobleman,^lead great armies and to be known^as lord and master of your own^lands.
-; str_set_goal_king_hint|There is no limit to your ambitions.^Fight for glory, power and gold.^You will make many enemies^and must be ready to face threats^from all four corners of the land!
+str_set_goal_king_hint|Non c'è alcun limite alle tue ambizioni.^Combattere per la gloria, potere e oro.^Ti farai molti nemici^e devi essere pronto ad affrontare minacce^da tutti i quattro angoli della terra!
 ; str_set_goal_expand_hint|A small fort on a hill is not enough^for you. You desire to be known as the^High King. Sharpen your sword and gather^your troops, for war is coming!
 ; str_view_goal_hint_renown|Renown: you desire fame above all.^Win battles and competitions. Complete^quests. As your renown grows, you will^be able to command more troops,^gain the respect of the nobility^and hire better mercenaries!^
 ; str_view_goal_hint_reputation|Reputation: be a hero or a villain.^Your actions in the world will influence^how people see you. It will influence your^relation with other factions and even your^chances of marriage.^

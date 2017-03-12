@@ -46,30 +46,30 @@ dlga_port_chief_info_main_1:port_chief_info_c_1|¿Qué necesito para saber si si
 dlga_port_chief_info_main_1:port_chief_info_d_1|¿Qué hace más rápido a un barco?
 dlga_port_chief_info_main_1:port_chief2|Eso es todo lo que quería saber. ¡Gracias!
 dlga_port_chief_info_a_1:port_chief_info_main|Puede ganar mucho dinero si comercia con bienes o esclavos a través del mar. Otros lo utilizan para asaltar asentamientos. Al final, ningún vikingo le respetará como líder si no tiene un buen barco.
-; dlga_port_chief_info_b_1:port_chief_info_main|Look at the sun at day. Rest at night. The better you are at finding your way, the faster you travel.
+dlga_port_chief_info_b_1:port_chief_info_main|Mira el sol en el día. Descansa por la noche. Entre mejor seas para encontrar tu camino, más rápido viajarás.
 dlga_port_chief_info_c_1:port_chief_info_c_2|Primero, necesita saber qué tipo de barco quiere. Si quiere comerciar, un Knorr puede ser una buena elección. Tienen mucho espacio para el cargamento, pero no son muy rápidos. El Snekkja, el Skei y el Busse son navíos de guerra rápidos y son capaces de cargar muchas tropas. El Karvi es algo intermedio. Si sólo quiere tener unos pocos hombres, un barco pequeño como un Byrding quizá le iría mejor.
-; dlga_port_chief_info_c_2:port_chief_info_main|The second important factor is the type of wood the ship is made from. Ships made out of oak wood are the best ships, but are also expensive. Beech is cheaper, but it rots faster.
-; dlga_port_chief_info_d_1:port_chief_info_main|The wind -- if you place your sails in a position to catch it best. If there is no wind at all, then your crew has to row. More rowers will make the ship faster. If you have more than one ship in your fleet, then your fleet will only be as fast as your slowest ship. A skilled Navigator can also make your fleet faster.
-; dlga_port_chief3:port_chief_travel|I want to travel to another port.
-; dlga_port_chief_travel:close_window|I'm sorry. There are currently no passenger ships in this port that can transport a marshal and his whole army.
-; dlga_port_chief_travel:close_window.1|I'm sorry. There are currently no passenger ships in this port that can transport your party and the trader with his whole cargo.
-; dlga_port_chief_travel:port_chief_travel_2|From here, one may travel to ports in Friese, Danmark, Northvegr and Englaland. Where do you want to go?
-; dlga_port_chief_travel:port_chief_travel_2.1|From here, one may travel to ports in Englaland and Eriuland. Where do you want to go?
-; dlga_port_chief_travel:close_window.2|I am sorry. There are currently no passenger ships in this port.
+dlga_port_chief_info_c_2:port_chief_info_main|El segundo factor importante es el tipo de madera del que esta hecho el barco. Los barcos hechos de madera de roble son los mejores barcos, pero también son caros. Haya es más barata, pero se pudre más rápido.
+dlga_port_chief_info_d_1:port_chief_info_main|El viento -- si coloca tus velas en una posición para agarrarlo mejor. Si no hay viento, entonces tu equipo tiene que remar. Más remeros harán al barco más rápido. Si tienes más de un barco en tu flota, entonces tu flota sólo será tan rápido como el barco más lento. Un experto navegante puede hacer a tu flota más rápida.
+dlga_port_chief3:port_chief_travel|Quiero viajar a otro puerto.
+dlga_port_chief_travel:close_window|Lo siento. Actualmente no hay barcos de pasajeros en este puerto que puede transportar un mariscal y su ejército entero.
+dlga_port_chief_travel:close_window.1|Lo siento. Actualmente no hay barcos de pasajeros en este puerto que puede transportar su grupo y el comerciante con su carga completa.
+dlga_port_chief_travel:port_chief_travel_2|Desde aquí, uno puede viajar a puertos de Friese, Danmark, Northvegr y Englaland. ¿A dónde quieres ir?
+dlga_port_chief_travel:port_chief_travel_2.1|Desde aquí, uno puede viajar a puertos en Englaland y Eriuland. ¿A dónde quieres ir?
+dlga_port_chief_travel:close_window.2|Lo siento. Actualmente no hay barcos de pasajeros en este puerto.
 dlga_port_chief_travel_2:port_chief_travel_3|{s1}
-; dlga_port_chief_travel_2:close_window|I changed my mind.
-; dlga_port_chief_travel_3:port_chief_travel_4|You want to travel to {s1}? {s2}
-; dlga_port_chief_travel_4:port_chief_travel_5|Let's start!
+dlga_port_chief_travel_2:close_window|Cambié de opinión
+dlga_port_chief_travel_3:port_chief_travel_4|¿Quieres viajar a {s1}? {s2}
+dlga_port_chief_travel_4:port_chief_travel_5|¡Vamos a empezar!
 dlga_port_chief_travel_4:port_chief2|{s1}
 dlga_port_chief_travel_4:close_window|{s1}
 dlga_port_chief_travel_5:close_window|¡Seguidme!
-; dlga_port_chief3:port_chief_pick_up_ship1|Is my ship ready yet?
-; dlga_port_chief_pick_up_ship1:port_chief2|My men and I are still working on it. Come back in {reg1} days.
-; dlga_port_chief_pick_up_ship1:port_chief_pick_up_ship2|The ship is ready! Do you want us to launch it?
-; dlga_port_chief_pick_up_ship2:port_chief_pick_up_ship3|Yes!
-; dlga_port_chief_pick_up_ship2:port_chief2|No, not yet.
-; dlga_port_chief_pick_up_ship3:port_chief2|Sorry, your sea-king skill isn't high enough to add an additional ship to your current fleet in this port.
-; dlga_port_chief_pick_up_ship3:close_window|Well, take a look at it and give it a name.
+dlga_port_chief3:port_chief_pick_up_ship1|¿Está listo mi barco?
+dlga_port_chief_pick_up_ship1:port_chief2|Mis hombres y yo todavía estamos trabajando en ello. Regrese en {reg1} días.
+dlga_port_chief_pick_up_ship1:port_chief_pick_up_ship2|¡El barco está listo! ¿Quieres lanzarlo?
+dlga_port_chief_pick_up_ship2:port_chief_pick_up_ship3|¡Sí!
+dlga_port_chief_pick_up_ship2:port_chief2|No, aún no.
+dlga_port_chief_pick_up_ship3:port_chief2|Lo sentimos, su habilidad Rey del Mar no es suficientemente alto como para añadir un barco adicional a su flota actual en este puerto.
+dlga_port_chief_pick_up_ship3:close_window|Bueno, echa un vistazo y dale un nombre.
 ; dlga_port_chief_pick_up_ship3:port_chief2.1|There is not enough room left in the port for another ship.
 ; dlga_port_chief3:port_chief_build_ship_main|I want you to build me a ship.
 ; dlga_port_chief_build_ship_main:port_chief_build_ship_main_1|What kind of ship do you want to have?
@@ -79,13 +79,13 @@ dlga_port_chief_travel_5:close_window|¡Seguidme!
 ; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.3|I'm interested in a double-sized warship. A Skeid, please.
 ; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.4|I have many warriors. Can you build a Busse for me?
 ; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.5|I need a good, all-around ship. I want a Karvi.
-; dlga_port_chief_build_ship_main_1:port_chief2|I changed my mind.
+dlga_port_chief_build_ship_main_1:port_chief2|Cambié de opinión
 ; dlga_port_chief_build_ship_main_2:port_chief_build_ship_main|Sorry, I'm not skilled enough. Only the Norse are able to build a {s11}.
 ; dlga_port_chief_build_ship_main_2:port_chief_info_main_3|What kind of wood would you like to use?
 ; dlga_port_chief_info_main_3:port_chief_build_ship_main_4|Oak wood. I want quality.
 ; dlga_port_chief_info_main_3:port_chief_build_ship_main_4.1|Pine would be fine.
 ; dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|I don't want to spend so much money. I want ash wood.
-; dlga_port_chief_info_main_3:port_chief2|I changed my mind.
+dlga_port_chief_info_main_3:port_chief2|Cambié de opinión
 ; dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|To build your {s11} out of {s12} wood I ask {reg11} peningas for my work. {s2}It will take {reg12} days to build this ship.
 ; dlga_port_chief_build_ship_main_5:port_chief_build_ship_main_6|Build this ship for me!
 ; dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_1|Err, does it look like I am a merchant? I don't have these things with me.
@@ -2056,7 +2056,7 @@ dlga_lair_cook_pretalk:lair_cook|¿Algo más?
 ; dlga_lair_captain_add_port_0:lair_captain_add_port_1|We will need 1,000 peningas, to pay staff and buy materials in order to build the jetties.
 ; dlga_lair_captain_add_port_0:lair_captain_pretalk|The Refuge is too far away from the shore. We can't do this.
 ; dlga_lair_captain_add_port_1:lair_captain_add_port_2|Do so. Here is the money.
-; dlga_lair_captain_add_port_1:lair_captain_pretalk|I changed my mind.
+dlga_lair_captain_add_port_1:lair_captain_pretalk|Cambié de opinión
 ; dlga_lair_captain_add_port_1:lair_captain_pretalk.1|I don't have enough money.
 ; dlga_lair_captain_add_port_2:lair_captain_pretalk|Very well. It won't take long to build the jetties. You will be able to disembark here soon.
 ; dlga_lair_captain:lairparty_action|I will donate 500 peningas to the families of my men.
@@ -6374,7 +6374,7 @@ dlga_smith_requested_repair_2:merchant_trade|No importa.
 ; dlga_item_improve_1:item_improve_2|Hmm, let me take a look... Your {s7} is {s8}. I think I will be able to make it {s9} for {reg1} peningas. {s10}
 ; dlga_item_improve_1:merchant_trade|Hmm, let me take a look... There is nothing I can do for your {s7}. I can't refine it.
 ; dlga_item_improve_2:item_improve_3|Agreed!
-; dlga_item_improve_2:merchant_trade|I changed my mind.
+dlga_item_improve_2:merchant_trade|Cambié de opinión
 ; dlga_item_improve_2:merchant_trade.1|I don't have enough money.
 ; dlga_item_improve_3:merchant_trade|Here you have your {s7} back. It's refined.
 ; dlga_town_merchant_talk:armorer_requested_repair_1|I want to refine one of my armor parts.

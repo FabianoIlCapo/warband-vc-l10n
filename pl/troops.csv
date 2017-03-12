@@ -58,22 +58,22 @@ trp_townsman|Mieszczanin
 trp_townsman_pl|Mieszczanie
 trp_watchman|Strażnik
 trp_watchman_pl|Strażnicy
-; trp_mercenary_cavalry|Frank Horseman
-; trp_mercenary_cavalry_pl|Frank Horsemen
+trp_mercenary_cavalry|Frankijski Jeździec
+trp_mercenary_cavalry_pl|Frankijski Jeździec
 trp_caravan_guard|Włócznik
 trp_caravan_guard_pl|Włócznik
 trp_mercenary_swordsman|Weteran
 trp_mercenary_swordsman_pl|Włócznik
 trp_regular_sailors|Marynarz
 trp_regular_sailors_pl|Marynarze
-; trp_mercenary_horseman|Aquitanian Skirmisher
-; trp_mercenary_horseman_pl|Aquitanian Skirmishers
-; trp_mercenary_leader|Old Captain
-; trp_mercenary_leader_pl|Old Captains
-; trp_hired_blade|Svear Warrior
-; trp_hired_blade_pl|Sviar Warriors
-; trp_mercenary_crossbowman|Finn Archer
-; trp_mercenary_crossbowman_pl|Finnas Archers
+trp_mercenary_horseman|Akwitański Harcownik
+trp_mercenary_horseman_pl|Akwitański Harcownik
+trp_mercenary_leader|Stary Kapitan
+trp_mercenary_leader_pl|Stary Kapitan
+trp_hired_blade|Szwedzki Wojownik
+trp_hired_blade_pl|Szwedzki Wojownik
+trp_mercenary_crossbowman|Fiński ‭‭‭‭‭‭‭‭‭‭‭Łucznik
+trp_mercenary_crossbowman_pl|Fiński ‭‭‭‭‭‭‭‭‭‭‭Łucznik
 trp_mercenaries_end|Wieśniak
 trp_mercenaries_end_pl|Wieśniacy
 ; trp_norse_slave|Norse Freedman (Leysingi)
@@ -578,48 +578,48 @@ trp_tavern_traveler_10_pl|Podróżnik
 ; trp_especiales_1_pl|especiales
 ; trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin
 ; trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin
-; trp_npc1|Caio
-; trp_npc1_pl|Caio
-; trp_npc2|Egil
-; trp_npc2_pl|Egil
-; trp_npc3|Brunhild
-; trp_npc3_pl|Brunhild
-; trp_npc4|Donnchadh
-; trp_npc4_pl|Donnchadh
-; trp_npc5|Morgant
-; trp_npc5_pl|Morgant
-; trp_npc6|Bodo
-; trp_npc6_pl|Bodo
-; trp_npc7|Dwywei
-; trp_npc7_pl|Dwywei
-; trp_npc8|Reginhard
-; trp_npc8_pl|Reginhard
-; trp_npc9|Clovis
-; trp_npc9_pl|Clovis
-; trp_npc10|Ceawlin
-; trp_npc10_pl|Ceawlin
-; trp_npc11|Solveig
-; trp_npc11_pl|Solveig
-; trp_npc12|Asbjorn
-; trp_npc12_pl|Asbjorn
-; trp_npc13|Helgi
-; trp_npc13_pl|Helgi
-; trp_npc14|Ailchu
-; trp_npc14_pl|Ailchu
+trp_npc1|Caio
+trp_npc1_pl|Caio
+trp_npc2|Egil
+trp_npc2_pl|Egil
+trp_npc3|Brunhilda
+trp_npc3_pl|Brunhilda
+trp_npc4|Donnchadh
+trp_npc4_pl|Donnchadh
+trp_npc5|Morgant
+trp_npc5_pl|Morgant
+trp_npc6|Bodo
+trp_npc6_pl|Bodo
+trp_npc7|Dwywei
+trp_npc7_pl|Dwywei
+trp_npc8|Reginhard
+trp_npc8_pl|Reginhard
+trp_npc9|Clovis
+trp_npc9_pl|Clovis
+trp_npc10|Ceawlin
+trp_npc10_pl|Ceawlin
+trp_npc11|Solveig
+trp_npc11_pl|Solveig
+trp_npc12|Asbjorn
+trp_npc12_pl|Asbjorn
+trp_npc13|Helga
+trp_npc13_pl|Helga
+trp_npc14|Ailchu
+trp_npc14_pl|Ailchu
 ; trp_npc15|Agathinos
 ; trp_npc15_pl|Agathinos
-; trp_npc16|Beda
-; trp_npc16_pl|Beda
-; trp_kingdom_1_lord|Konungr Horik Gottfredsson
-; trp_kingdom_1_lord_pl|Horik Gottfredsson
-; trp_kingdom_2_lord|Konungr Harald Halfdanarson
-; trp_kingdom_2_lord_pl|Harald Halfdanarson
-; trp_kingdom_3_lord|Konungr Gudrod Ragnarson
-; trp_kingdom_3_lord_pl|Gudrod Ragnarson
-; trp_kingdom_4_lord|Konungr Hrorek Hemmingsson
-; trp_kingdom_4_lord_pl|Hrorek Hemmingsson
-; trp_kingdom_5_lord|Brytenwalda Aethelred Aethelwulfing
-; trp_kingdom_5_lord_pl|Aethelred Aethelwulfing
+trp_npc16|Beda
+trp_npc16_pl|Beda
+trp_kingdom_1_lord|Król Horik Gottfredsson
+trp_kingdom_1_lord_pl|Horik Gottfredsson
+trp_kingdom_2_lord|Król Harald Halfdanarson
+trp_kingdom_2_lord_pl|Harald Halfdanarson
+trp_kingdom_3_lord|Król Gudrod Ragnarson
+trp_kingdom_3_lord_pl|Gudrod Ragnarson
+trp_kingdom_4_lord|Król Hrorek Hemmingsson
+trp_kingdom_4_lord_pl|Hrorek Hemmingsson
+trp_kingdom_5_lord|Bretwald Aethelred Aethelwulfing
+trp_kingdom_5_lord_pl|Aethelred Aethelwulfing
 ; trp_kingdom_6_lord|Cyning Eadmund Aethelberhting
 ; trp_kingdom_6_lord_pl|Eadmund Aethelberhting
 ; trp_kingdom_7_lord|Cyning Brugred Beorhtwulfing
@@ -1886,8 +1886,8 @@ trp_fisher|Rybak
 ; trp_sailors_pl|Woden Ric Sailors
 ; trp_mercenary_arqueros|Mercenary Archer
 ; trp_mercenary_arqueros_pl|Mercenary Archers
-; trp_bodo_falso|Bodo
-; trp_bodo_falso_pl|Bodo
+trp_bodo_falso|Bodo
+trp_bodo_falso_pl|Bodo
 ; trp_your_tutorialwife|Mother
 ; trp_your_tutorialwife_pl|Mother
 ; trp_your_motherold|Aged Mother
@@ -1999,35 +1999,35 @@ trp_pseudo_troop_03_pl|
 ; trp_scotch_peasant_ai_pl|Peasants (Bachlach)
 ; trp_fake_berserker|Berserkr
 ; trp_fake_berserker_pl|Berserkir
-; trp_copy_npc1|Caio
-; trp_copy_npc1_pl|Caio
-; trp_copy_npc2|Egil
-; trp_copy_npc2_pl|Egil
-; trp_copy_npc3|Brunhild
-; trp_copy_npc3_pl|Brunhild
-; trp_copy_npc4|Donnchadh
-; trp_copy_npc4_pl|Donnchadh
-; trp_copy_npc5|Morgant
-; trp_copy_npc5_pl|Morgant
-; trp_copy_npc6|Bodo
-; trp_copy_npc6_pl|Bodo
-; trp_copy_npc7|Dwywei
-; trp_copy_npc7_pl|Dwywei
-; trp_copy_npc8|Reginhard
-; trp_copy_npc8_pl|Reginhard
-; trp_copy_npc9|Clovis
-; trp_copy_npc9_pl|Clovis
-; trp_copy_npc10|Ceawlin
-; trp_copy_npc10_pl|Ceawlin
-; trp_copy_npc11|Solveig
-; trp_copy_npc11_pl|Solveig
-; trp_copy_npc12|Asbjorn
-; trp_copy_npc12_pl|Asbjorn
-; trp_copy_npc13|Helgi
-; trp_copy_npc13_pl|Helgi
-; trp_copy_npc14|Ailchu
-; trp_copy_npc14_pl|Ailchu
+trp_copy_npc1|Caio
+trp_copy_npc1_pl|Caio
+trp_copy_npc2|Egil
+trp_copy_npc2_pl|Egil
+trp_copy_npc3|Brunhilda
+trp_copy_npc3_pl|Brunhilda
+trp_copy_npc4|Donnchadh
+trp_copy_npc4_pl|Donnchadh
+trp_copy_npc5|Morgant
+trp_copy_npc5_pl|Morgant
+trp_copy_npc6|Bodo
+trp_copy_npc6_pl|Bodo
+trp_copy_npc7|Dwywei
+trp_copy_npc7_pl|Dwywei
+trp_copy_npc8|Reginhard
+trp_copy_npc8_pl|Reginhard
+trp_copy_npc9|Clovis
+trp_copy_npc9_pl|Clovis
+trp_copy_npc10|Ceawlin
+trp_copy_npc10_pl|Ceawlin
+trp_copy_npc11|Solveig
+trp_copy_npc11_pl|Solveig
+trp_copy_npc12|Asbjorn
+trp_copy_npc12_pl|Asbjorn
+trp_copy_npc13|Helga
+trp_copy_npc13_pl|Helga
+trp_copy_npc14|Ailchu
+trp_copy_npc14_pl|Ailchu
 ; trp_copy_npc15|Agathinos
 ; trp_copy_npc15_pl|Agathinos
-; trp_copy_npc16|Beda
-; trp_copy_npc16_pl|Beda
+trp_copy_npc16|Beda
+trp_copy_npc16_pl|Beda

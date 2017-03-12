@@ -163,7 +163,7 @@ qstr_{reg65?Madame:Sir}|{reg65?Señora:Señor}
 ; qstr_You_are_already_in_{|You are already in {s1}.
 ; qstr__and_your_troops| and your troops
 ; qstr_There_is_a_ship_that|There is a ship that can bring you{s3} to the port of {s1} for {reg1} peningas.
-; qstr_I_changed_my_mind.|I changed my mind.
+qstr_I_changed_my_mind.|Cambié de opinión
 ; qstr_For_a_ship_of_this_s|For a ship of this size, I don't have enough timber, tar and wool, so I need you to bring these extra items. 
 ; qstr___He_indicates_the_f|--He indicates the far side of the bay with his arm.--
 ; qstr_Now_you_must_join_th|Now you must join the fleet led by Sven Bull Neck and Harald Haraldsson, which soon leaves Ribe for Englaland. Your destiny once again leads you to other lands.
@@ -806,10 +806,10 @@ qstr_act_to_defend_our_la|actuar para defender nuestras tierras.
 qstr_take_more_time_to_ga|tomar más tiempo para formar un ejército.
 ; qstr_You_promised_to_help|You promised to help {s13} claim the throne of the {s14}.
 ; qstr_What_do_you_say_to_e|What do you say to entering the service of the {s9} as a mercenary captain? I have no doubt that you would be up to the task.
-; qstr_{s8}_asked_you_to_tr|{s8} asked you to track down a group of masterless men who looted his village, {s9}.
+qstr_{s8}_asked_you_to_tr|{s8} le pidió rastrear a un grupo de hombres sin amo que saqueó su aldea, {s9}.
 qstr_{s9}_asked_you_to_ta|{s9} os ha pedido que llevéis un mensaje a {s13}. {s13} supuestamente estaba en {s4} cuando se os asignó esta misión.
 ; qstr_{s9}_asked_you_to_tak|{s9} asked you to take a message to {s13} of the {s15}. {s13} was believed to be at {s4} when you were given this quest.
-; qstr_{s11}_asked_you_to_e|{s11} asked you to escort the Bishop from {s22} to {s14}.
+qstr_{s11}_asked_you_to_e|{s11} le pidió escoltar a Bishop desde {s22} a {s14}.
 ; qstr_{s11}_asked_you_to_r|{s11} asked you to raid a monastery at {s14}, near {s34}, and bring him {reg33} peningas.
 qstr_{s11}_asked_you_to_es|{s11} os ha pedido que escoltéis a su {s17} {s13} a {s14}.
 qstr_{s13}_asked_you_to_d|{s13} os ha pedido que os libréis de los bandidos que ocupan la aldea de {s15} y que luego regreséis para informarle.
@@ -839,7 +839,7 @@ qstr_Forgive_me_{playerna|Perdonadme, {playername}, pero debo insistir en que lo
 ; qstr_{s11}_asked_you_to_d|{s11} asked you to deliver a message to {s3}.
 ; qstr_Oh_{playername}_my_h|Oh, {playername}, my husband is too busy with the affairs of the state. Would you be so kind to bring me {reg25} {reg1?pieces:piece} of {s17}?
 ; qstr_Oh_{playername}_coul|Oh, {playername}, could you do me a little favor? I saw a trader the other day, selling some novelties out by the gate. Unfortunately, I can't spend money freely. Would you be so kind and bring me {reg25} {reg1?pieces:piece} of {s17}?
-; qstr_{s11}_asked_you_to_b|{s11} asked you to bring her {reg25} {reg1?pieces:piece} of {s17}.
+qstr_{s11}_asked_you_to_b|{s11} le pidió llevarle {reg25} {reg1?pieces:piece} de {s17}.
 ; qstr_Oh_{playername}_my_hu|Oh, {playername}, my husband, {s15}, is too busy with the affairs of the state, and I would like to have a surprise party set up in his honor. Would you be so kind as to bring me {reg25} {reg1?bottles:bottle} of {s17} and 2 pieces of cheese?
 ; qstr_Oh_{playername}_could|Oh, {playername}, could you do me a little favor? I have some of my lady friends here visiting, and I would like to have a small party in their honor. Unfortunately, I can't spend money freely. Would you be so kind and bring me {reg25} {reg1?bottles:bottle} of {s17} and 2 pieces of cheese?
 ; qstr_{s11}_asked_you_to_br|{s11} asked you to bring her {reg25} {reg1?bottles:bottle} of {s17} and 2 pieces of cheese.
@@ -991,13 +991,13 @@ qstr_village|La aldea
 ; qstr_{s9}_of_{s3}_asked_y|{s9} of {s3} asked you to deliver {reg5} units of {s6} to the mead hall in {s4} in 7 days.
 qstr_Escort_the_merchant_|Escoltad la caravana de mercaderes que se dirige hacia {s8}.
 qstr_Merchant_{s9}_of_{s4|El mercader {s9} de {s4} os ha pedido que deis caza a los bandidos problemáticos que merodean cerca de la ciudad.
-; qstr_The_mayor_of_{s4}_ga|The mayor of {s4} gave you {reg12} peningas to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that, you are to bring the girl back to {s4}.
+qstr_The_mayor_of_{s4}_ga|El alcalde de {s4} le dio {reg12} peningas para pagar el rescate de una chica secuestrada por bandidos. Usted debe encontrarse con los bandidos derca de {s3} y pagarles el rescate. Después de eso, debe llevar a la chica de vuelta a {s4}.
 ; qstr_The_mayor_of_{s4}_pr|The mayor of {s4} promised you {reg12} peningas if you can make sure that {s12} and {s13} no longer pose a threat to a peace settlement between the {s15} and the {s14}. In order to do that, you must either convince them or make sure they fall captive and remain so until a peace agreement is made.
 ; qstr_The_mayor_of_{s14}_h|The mayor of {s14} has asked you to deal with a group of bandits terrorising the streets of {s14}. They only come out at night, and only attack lone travellers on the streets.
 ; qstr_The_mayor_of_{s10}_a|The mayor of {s10} asked you to move a cattle herd to {s13}. You will earn {reg8} peningas in return.
 ; qstr_Yes_{playername}_I_h|Yes, {playername}, I have a delicate task to ask of you. I was in the possession of a wonderful musical instrument, a {s13}, which was made by one of the greatest artisans of yore, {s50} of... well, not really sure where he was from. Regardless, it looks like it was stolen from me by a local guard. He went into hiding, and no one can find him. He's probably hiding in one of the local villages nearby. If you return {s13} to me, I will reward you with {reg33} peningas.
 ; qstr_{s10}^{s11}|{s10}^{s11}
-; qstr_The_{s9}_of_{s3}_ask|The {s9} of {s3} asked you to recover a {s13} stolen from him.^^Look Into:^{s10}
+qstr_The_{s9}_of_{s3}_ask|El {s9} de {s3} le pidió recuperar un {s13} robado.^^Mire:^{s10}
 ; qstr_Yes_{playername}_one|Yes, {playername}, one of the merchants here is looking to expand, and he needs some stone for that. Unfortunately, with all the fighting around, bandits and all that, he was unable to procure the stone at the acceptable price. Perhaps, you can go to the nearest stone quarry and get {reg33} loads of stone?
 ; qstr_Yes_{playername}_one_|Yes, {playername}, one of the merchants here had an unusually high demand for salt lately, and he is running low. Unfortunately, with all the fighting around, bandits and all that, his last shipment never arrived, and he was unable to procure the salt at the acceptable price. Perhaps, you can go to the nearest salt mine and get {reg33} loads of salt for him?
 ; qstr_{s9}_of_{s3}_asked_yo|{s9} of {s3} asked you to bring {reg33} loads of {s33}.
@@ -1125,56 +1125,56 @@ qstr_Mind_your_manners_wi|Cuidad vuestros modales dentro de las murallas y no te
 ; qstr_Well_..._I_guess_thi|Well ... I guess things could be better. If things continue on in this way, I will think about leaving this shield wall.
 ; qstr_Not_happy_{playernam|Not happy, {playername}. Honestly, I think you should improve the morale of this shield wall, or you will have very serious problems soon.
 ; qstr_{s9}_told_me_that_I_|{s9} told me that I could find answers in {s3}. I need to ask one Thonkrik.
-; qstr_{reg1}.0|{reg1}.0
-; qstr_{reg1}.00{reg2}|{reg1}.00{reg2}
-; qstr_{reg1}.0{reg2}|{reg1}.0{reg2}
-; qstr_{reg1}.{reg2}|{reg1}.{reg2}
+qstr_{reg1}.0|{reg1}.0
+qstr_{reg1}.00{reg2}|{reg1}.00{reg2}
+qstr_{reg1}.0{reg2}|{reg1}.0{reg2}
+qstr_{reg1}.{reg2}|{reg1}.{reg2}
 qstr_{s1}_{s2}|{s1} {s2}
 qstr_Next_Page|Página Siguiente
-; qstr_Naval_Battle|Naval Battle
-; qstr_Coastal_Assault__Off|Coastal Assault (Offense)
-; qstr_Coastal_Assault__Def|Coastal Assault (Defense)
-; qstr_Players:|Players:
-; qstr_Invaders:|Invaders:
-; qstr_Invasion_difficulty_|Invasion difficulty (%):
-; qstr_Allow_Shield_Bash|Allow Shield Bash
-; qstr_Allow_Falling_from_H|Allow Falling from Horses
-; qstr_Allow_Shield_Wall_Bo|Allow Shield Wall Bonuses
-; qstr_Remove_Stray_Horses_|Remove Stray Horses after xxx Seconds (0=off)
-; qstr_Replace_All_Weapons_|Replace All Weapons with Deadly Bow
-; qstr_God_Mode|God Mode
-; qstr________Game_Descript|-------Game Description-------^
+qstr_Naval_Battle|Batalla naval
+qstr_Coastal_Assault__Off|Asalto Costero (Ofensa)
+qstr_Coastal_Assault__Def|Asalto Costero (Defensa)
+qstr_Players:|Jugadores:
+qstr_Invaders:|Invasores:
+qstr_Invasion_difficulty_|Dificultad de invasión (%):
+qstr_Allow_Shield_Bash|Permitir Golpe de Escudo
+qstr_Allow_Falling_from_H|Permitir Caída desde Caballos
+qstr_Allow_Shield_Wall_Bo|Permitir Bonificaciones de Golpe de Escudo
+qstr_Remove_Stray_Horses_|Eliminar los caballos extraviados después de xxx Segundos (0=apagado)
+qstr_Replace_All_Weapons_|Reemplazar Todas las Armas con Arco Mortal
+qstr_God_Mode|Modo Dios
+qstr________Game_Descript|-------Descripción del Juego-------^
 qstr_Game_Rules:^|Reglas del juego:^
 qstr_0|0
-; qstr_Players:_{reg1}|Players: {reg1}
-; qstr_Command_enemy_troops|Command enemy troops
-; qstr_Invaders|Invaders
-; qstr_Extra_silver_for_tro|Extra silver for troops: {reg2}
-; qstr_{s0}__{reg1}s_|{s0} ({reg1}s)
-; qstr_Thor_s_champion_has_|Thor's champion has been killed!
-; qstr_You_have_killed_the_|You have killed the champion and gained Thor's favour!
-; qstr_{s1}_has_killed_the_|{s1} has killed the Champion and gained Thor's favour!
-; qstr_Thor_has_chosen_{s1}|Thor has chosen {s1} as his new champion!
-; qstr_^^Congratulations!^^|^^Congratulations!^^You have survived the invasion!
-; qstr_New_enemies_are_comi|New enemies are coming!^Prepare yourself!
-; qstr_{reg0}:{reg1}{reg2}_|{reg0}:{reg1}{reg2} until the next enemy wave.
-; qstr_Enemies_left:_{reg1}|Enemies left: {reg1}
+qstr_Players:_{reg1}|Jugadores: {reg1}
+qstr_Command_enemy_troops|Comandar tropas enemigas
+qstr_Invaders|Invasores
+qstr_Extra_silver_for_tro|Plata extra para las tropas: {reg2}
+qstr_{s0}__{reg1}s_|{s0} ({reg1}s)
+qstr_Thor_s_champion_has_|¡El campeón de Thor ha sido asesinado!
+qstr_You_have_killed_the_|¡Has matado al campeón y ganado el favor de Thor!
+qstr_{s1}_has_killed_the_|¡{s1} ha matado al Campeón y ganado el favor de Thor!
+qstr_Thor_has_chosen_{s1}|¡Thor ha elegido a {s1} como su nuevo campeón!
+qstr_^^Congratulations!^^|^^¡Felicidades!^^¡Has sobrevivido a la invasión!
+qstr_New_enemies_are_comi|¡Vienen nuevos enemigos!^¡Prepárate!
+qstr_{reg0}:{reg1}{reg2}_|{reg0}:{reg1}{reg2} hasta la próxima ola de enemigos.
+qstr_Enemies_left:_{reg1}|Enemigos restantes: {reg1}
 qstr_Show_game_rules|Mostrar las reglas
-; qstr_Admin_tools_panel|Admin tools panel
-; qstr_Change_game_type|Change game type
-; qstr_All_Players|All Players
-; qstr_The|The
+qstr_Admin_tools_panel|Panel de herramientas de administrador
+qstr_Change_game_type|Cambiar tipo de juego
+qstr_All_Players|Todos los Jugadores
+qstr_The|El
 qstr_Candidate_#1:_{s1}|Candidato #1: {s1}
 qstr_Candidate_#2:_{s1}|Candidato #2: {s1}
-; qstr_{s3}_of_the_{s4}_wis|{s3} of the {s4} wishes to select a new marshal and invites his vassals for a counsel. {s1} and {s2} are the likely candidates.
-; qstr_Whom_do_you_wish_to_|Whom do you wish to support?
+qstr_{s3}_of_the_{s4}_wis|{s3} de los {s4} deseos para elegir un nuevo mariscal e invitar a sus vasallos a un consejo. {s1} t {s2} son los probables candidatos.
+qstr_Whom_do_you_wish_to_|¿A quién deseas apoyar?
 qstr_{s1}_gives_his_suppo|{s1} da su apoyo a {s2}.
 qstr_Number_of_Supporters|Número de partidarios: {reg0}
-; qstr_{s2}_has_heard_his_v|{s2} has heard his vassals' counsel. He selects {s1} as the marshal of the {s3}.
-; qstr_Strategy_Camera:_pre|Strategy Camera: press the Enter key.'
-; qstr_Orders|Orders
+qstr_{s2}_has_heard_his_v|{s2} ha escuchado el consejo de sus vasallos. Él elige a {s1} como el mariscal de {s3}.
+qstr_Strategy_Camera:_pre|Cámara Estratégica: presiona la tecla Enter.
+qstr_Orders|Órdenes
 qstr_Mount|Montar
-; qstr_Attack_Order|Attack Order
+qstr_Attack_Order|Orden de Ataque
 qstr_Retreat|Retirada
 qstr_Stand_Ground|Mantened posición
 qstr_Charge|Cargad
@@ -1197,7 +1197,7 @@ qstr_Number_of_men_left:_|Número de hombres restantes: {reg1}
 qstr_Opponents_Beaten:_{r|Oponentes vencidos: {reg1}
 qstr_Opponents_Remaining:|Oponentes en pie: {reg1}
 qstr_Remain_in_retirement|Permanecer en retiro.
-; qstr_Go_back_to_adventuri|Go back to adventuring.
+qstr_Go_back_to_adventuri|Vuelve a la aventura.
 qstr_You_have_retired_at_|Os habéis retirado a nivel {reg4} tras {reg5} días de aventuras.
 qstr_Effect_on_Score|Efecto en la puntuación
 qstr_Settlements_owned_by|Vuestros asentamientos: {reg0}
@@ -1299,7 +1299,7 @@ qstr_Fastest|Muy rápido
 ; qstr_Campaign_AI_affects_|Campaign AI affects many aspects of the game, like:^- size of bandit parties^- renown loss in battles^- chance of recruiting lords^- taxes^- how lords get reinforcements^- how lords respond to the player's requests
 ; qstr_Set_the_running_spee|Set the running speed of troops in battle.^^{s8}
 ; qstr_{s2}_{reg0}|{s2} {reg0}
-; qstr_The_player_may_recei|The player may receive specific, debilitating wounds in battle. Physicians in larger towns will treat these wounds for a price, after which they will heal within a few days. Any negative effects will then be removed. If wound is not treated after some time, it will change to a scar, and the negative effects will then be permanent.
+qstr_The_player_may_recei|El jugador puede recivir heridas específicas debilitantes en batalla. Los médicos de las mayores ciudades tratarán esas heridas por un precio, tras lo que le sanarán dentro de unos pocos días. Cualquier efecto negativo será entonces eliminado. Si la herida no es tratada tras algún tiempo, se hará cicatriz, y los efectos negativos serán entonces permanentes.
 ; qstr_Wounded_troops_take_|Wounded troops take damage from blood loss.^^{s8}
 ; qstr_From_now_on_spawn_33|From now on, spawn 33% less or 50% more bandits, raiders, etc.
 ; qstr_Sets_the_player_as_c|Sets the player as commander of the chosen division. This division will set up immediately left and behind the player on Hold and Follow commands (Wedge will put player on the point). Consider it for bodyguard divisions.
@@ -1388,7 +1388,7 @@ qstr_Hunter|Caballo de caza
 ; qstr_Allies_Wounded:|Allies Wounded:
 ; qstr_Story|Story
 ; qstr_Attributes/Skills|Attributes/Skills
-; qstr_Wounds|Wounds
+qstr_Wounds|Heridas
 ; qstr_Quest|Quest
 qstr_Party|Grupo
 ; qstr_Relations|Relations
@@ -1398,7 +1398,7 @@ qstr_Companions|Compañeros
 qstr_Factions|Facciones
 ; qstr_Known_Lords|Known Lords
 qstr_Courtship|Cortejo
-; qstr_Ships|Ships
+qstr_Ships|Barcos
 ; qstr_Level:_{reg4}_^Days_|Level: {reg4} ^Days of Adventuring: {reg5}.
 ; qstr_Settlements_Owned_by|Settlements Owned by You: {reg0}
 ; qstr_Hostile_Lords:_{reg0|Hostile Lords: {reg0}
@@ -3069,9 +3069,9 @@ qstr_There_has_been_an_al|Ha habido un incidente fronterizo: {s9}
 ; qstr_Camera_rotate_before_|Camera rotate before pan OFF.
 ; qstr_{s0}^^A_Battle_Comma|{s0}^^A Battle Command Display is often available by pressing the {s1} key.
 ; qstr_Strategy_Camera|Strategy Camera
-; qstr_Tactical_Controls|Tactical Controls
+qstr_Tactical_Controls|Controles tácticos
 ; qstr_Death_Camera|Death Camera
-; qstr_Division_Placement|Division Placement
+qstr_Division_Placement|Ubicación de separación
 ; qstr_Complex_Formations|Complex Formations
 ; qstr_Formations_turned_OF|Formations turned OFF in options menu
 ; qstr_Division_{reg1}_{s2}_g|Division {reg1} {s2} goes to its memorized position...
