@@ -64,7 +64,7 @@ qstr_Book_Read|Buch gelesen
 ; qstr_shrine_to_Norse_gods|shrine to Norse gods
 ; qstr_temple_to_Odin|temple to Odin
 ; qstr_People_of_{s24}_are_|People of {s24} are unhappy with your religious intolerance, and destroyed {s25}.
-qstr_You_have_{reg0}_days|Ihr habt {reg0} Tage, dieser Quest zu beenden.
+qstr_You_have_{reg0}_days|Ihr habt {reg0} Tage, um diese Aufgabe zu beenden.
 qstr_{s1}_is_scouted.|{s1} wird ausgespäht.
 qstr_{s1}_has_switched_fr|{s1} ist von {s2} zu {s3} gewechselt.
 ; qstr_The_merchants__rest_|The merchants' rest hall in {s1} adds to its prosperity.
@@ -73,7 +73,7 @@ qstr_{s1}_has_switched_fr|{s1} ist von {s2} zu {s3} gewechselt.
 ; qstr_Due_to_the_good_word|Due to the good word Christian clergymen spread about you, your relationship with the {s1} improves.
 ; qstr_Due_to_the_bad_word_|Due to the bad word Christian clergymen spread about you, your relationship with the {s1} declines.
 ; qstr_{s1}_has_become_host|{s1} has become hostile to you due to your mistreatment of Christian subjects.
-; qstr_Faction_became_hosti|Faction became hostile
+qstr_Faction_became_hosti|Fraktion wurde feindlich
 ; qstr_Due_to_the_good_word_|Due to the good word influential pagans spread about you, your relationship with the {s1} improves.
 ; qstr_Due_to_the_bad_word_i|Due to the bad word influential pagans spread about you, your relationship with the {s1} declines.
 qstr_{s1}_has_become_hosti|{s1} wurde euch gegenüber feindselig wegen schlechter Behandlung von heidnischen Untertanen.
@@ -113,8 +113,8 @@ qstr_The_weather_changed_to:_|Das Wetter änderte sich in: 'Starker Wind'
 qstr_The_weather_changed_to:__|Das Wetter änderte sich in: 'Stürmischer Wind'
 qstr_The_weather_changed_to:__S|Das Wetter änderte sich in: 'Sturm'
 ; qstr_The_operation_of_the|The operation of the slave market in {s33} reduces your reputation.
-; qstr_DEBUG_rebellion:_che|DEBUG rebellion: checking faction {s1} on day {reg1}
-; qstr_DEBUG_rebellion:_fac|DEBUG rebellion: faction {s1} reborn on day {reg1}
+qstr_DEBUG_rebellion:_che|DEBUG Aufstand: Prüfe Fraktion {s1} am Tag {reg1}
+qstr_DEBUG_rebellion:_fac|DEBUG Aufstand: Fraktion {s1} wiedergeboren am Tag {reg1}
 ; qstr__Possible_Rebellion_|(Possible Rebellion) Rumors say that {s14} is still alive.
 ; qstr__Possible_Rebellion__|(Possible Rebellion) Rumors say that {s14} is stockpiling weapons and is seeking support among the Franks.
 ; qstr__Possible_Rebellion__R|(Possible Rebellion) Rumors say that {s14} meets in secret with his faithful.
@@ -144,14 +144,14 @@ qstr_Scouts|Kundschafter
 qstr_Morale|Moral
 ; qstr_Each_day_of_the_sieg|Each day of the siege, you need to cover a number of expenses. You pay for rewards, digging latrines, cleaning stables, buying and bringing water and food, cooking, entertaining the troops...
 ; qstr_You_do_not_have_mone|You do not have money to cover the basic expenses of a siege. This greatly undermines morale.
-qstr_{reg65?my_Lady:my_Lo|{reg65?Meine Fürstin:Mein Fürst}
+qstr_{reg65?my_Lady:my_Lo|{reg65?meine Fürstin:mein Fürst}
 qstr_{reg65?My_Lady:My_Lo|{reg65?Meine Fürstin:Mein Fürst}
-qstr_{reg65?madame:sir}|{reg65?Meine Dame:Mein Herr}
+qstr_{reg65?madame:sir}|{reg65?meine Dame:mein Herr}
 qstr_{reg65?Madame:Sir}|{reg65?Meine Dame:Mein Herr}
 qstr_Dog|Hund
 ; qstr_Welcome_landlubber._|Welcome, landlubber. I am the shipwright here.
-; qstr_Welcome_{reg59?lady:|Welcome, {reg59?lady:lord} {playername}.
-; qstr_Welcome_{reg59?madam|Welcome, {reg59?madame:sir}.
+qstr_Welcome_{reg59?lady:|Willkommen, {reg59?Fürstin:Fürst} {playername}.
+qstr_Welcome_{reg59?madam|Willkommen, {reg59?meine Dame:mein Herr}.
 ; qstr_Welcome.|Welcome.
 ; qstr_Your_ship_is_in_a_ba|Your ship is in a bad condition. You should consider repairing it here in my shipyard.
 ; qstr_The_{s7}_is_the_most|The {s7} is the most glorious ship I have ever seen. It is a great honour, my {reg59?lady:lord}, to have her here in our port.
@@ -189,7 +189,7 @@ qstr_For_a_ship_of_this_s|Für ein Schiff dieser Größe habe ich nicht genug Ho
 ; qstr_You_need_to_rid_your|You need to rid yourself of arrogance. (Phlegmatic)
 qstr_I_am_always_willing_|Ich bin immer bereit zu lernen. Vielen Dank, Egil. (Melancholisch)
 ; qstr_I_think_it_s_clear_t|I think it's clear that Fate is more favorable to me than to you. (Choleric)
-; qstr_Silence!_You_shall_n|Silence! You shall not disrespect my authority! (Sanguine)
+qstr_Silence!_You_shall_n|Ruhe! Ihr sollt meine Autorität nicht missachten! (Sanguinisch)
 ; qstr_Yes_I_pretended_to_b|Yes, I pretended to be modest. Well, it's something that comes naturally to me, but arrogance is good for a leader. You should learn to be a bit arrogant when needed -- that is part of my advice -- and men should see your confidence. Your orders must be sharp, and anyone who does not follow them has to be punished. This is what I value in a leader, and I'm glad you listened. But enough talking.
 ; qstr_I_understand._Someon|I understand. Someone like you does not have my experience and my knowledge. It is important that you try to learn from me, {playername}. Try to be like me, someone whom people admire and respect. I would also suggest that you be the first into battle, setting an example for your men, and share silver with your men without greed. Those are my tips. Now I have things to do.
 ; qstr_Your_men_see_the_way|Your men see the way Egil treats you, and you lose authority.
@@ -228,7 +228,7 @@ qstr___He_seems_very_nerv|--Er scheint sehr nervös und ängstlich zu sein.--
 ; qstr_Please_calm_down._I_|Please calm down. I am not your enemy. Take a deep breath and tell me about my mother. (Phlegmatic)
 ; qstr_You_re_making_me_wor|You're making me worried... very worried... Please calm down and tell me about my mother. (Melancholic)
 ; qstr_Relax!_You_re_talkin|Relax! You're talking to a friend, and I can protect you from whoever would hurt you. (Choleric)
-qstr_Calm_down_and_tell_m|Beruhige Euch und erzähl mir von meiner Mutter! Ansonsten schwöre ich Euch, wird Eure Leiche mit die Antworten geben. (Sanguine)
+qstr_Calm_down_and_tell_m|Beruhige Euch und erzähl mir von meiner Mutter! Ansonsten schwöre ich Euch, wird Eure Leiche mit die Antworten geben. (Sanguinisch)
 ; qstr_Thank_you_for_being_|Thank you for being so understanding. I've had a hard day today. I'm better now. Listen, I have important things to say.
 ; qstr_Please_please_do_not|Please, please, do not be anxious! When Sven was anxious, he cut off the fingers of those who bothered him. Look, I'm better, and I'll tell you important things.
 ; qstr_Oh_well_yes_I_trust_|Oh, well, yes, I trust you. She told me to trust you. I'm going to tell you everything.
@@ -251,7 +251,7 @@ qstr___He_smiles_at_you._|--Er lächelt Euch an.--
 ; qstr_I_m_not_sure_I_want_|I'm not sure I want to hear what you are going to say. (Phlegmatic)
 ; qstr_You_are_worrying_me_|You are worrying me, Bodo. What do you have to say? Out with it already! (Melancholic)
 ; qstr_I_m_very_calm..._Tru|I'm very calm... Trust me, you wouldn't like to see me nervous. I have little patience. Speak, or I'll beat you up. (Choleric)
-; qstr_Whatever_you_have_to|Whatever you have to say, say it. I prepared myself for this moment a long time ago. (Sanguine)
+qstr_Whatever_you_have_to|Was auch immer Ihr zu sagen haben, sagt es. Ich habe mich vor langer Zeit auf diesen Moment vorbereitet. (Sanguinisch)
 ; qstr_I_understand_my_frie|I understand, my friend, but you must know... everything.
 ; qstr_Stay_calm_please._I_|Stay calm, please. I'll tell you everything.
 ; qstr_No_need_to_be_aggres|No need to be aggressive. You know my loyalty to my friends is unquestionable. Now, open your ears.
@@ -265,7 +265,7 @@ qstr___He_smiles_at_you._|--Er lächelt Euch an.--
 ; qstr_You_re_responsible_f|You're responsible for what happened. After Sven, you shall pay with your life. (Justice)
 ; qstr___He_sighs_with_anno|--He sighs with annoyance.--
 ; qstr___He_lowers_his_head|--He lowers his head, embarrassed. His hands fidget.--
-; qstr___He_strains_his_fac|--He strains his face and stares at you without blinking.--
+qstr___He_strains_his_fac|--Er verzieht das Gesicht und starrt euch ohne mit der Wimper zu zucken an--
 ; qstr_Info:|Info:
 ; qstr_Regarding_that_matte|Regarding that matter, I thought that the Woden Ric was safe, but I was wrong. (Wisdom)
 ; qstr_Note_Bodo:_Bodo_feel|Note Bodo: Bodo feels indirectly responsible for the death of the people of the Woden Ric.
@@ -296,7 +296,7 @@ qstr___He_smiles_at_you._|--Er lächelt Euch an.--
 ; qstr___Bodo_seems_overcom|--Bodo seems overcome with joy.--
 ; qstr_Note_Bodo:_With_your|Note Bodo: With your decision to deliver the letter of the king of Asturias to the Danish, Bodo felt betrayed. The Cantabrian has left your party and threatened you with death if you return to find him.
 ; qstr___His_face_goes_from|--His face goes from bewilderment to uncontrolled fury.--
-; qstr___Brunhild_comes_up_|--Brunhild comes up to you and hugs you tightly.--
+qstr___Brunhild_comes_up_|--Brunhild kommt auf Euch zu und gibt euch eine feste Umarmung--
 ; qstr___His_eyes_are_a_wel|--His eyes are a well of sorrow, and tears ply his cheeks.--
 ; qstr___Egil_bares_his_tee|--Egil bares his teeth. He seems angry.--
 ; qstr_Note_Reginhard:_Regi|Note Reginhard: Reginhard betrayed you at the Assembly, and you had to kill him in a holmgang decreed by the Assembly. In the end, you drove Egil out of your party, offended by his insolence and disrespect.
@@ -307,18 +307,18 @@ qstr_Your_men_think_that_y|Eure Männer glauben, dass Ihr ein starker Anführer 
 ; qstr_Note_Egil:_Reginhard_|Note Egil: Reginhard betrayed you at the Assembly, but you spared his life. However, Egil did not accept your decision, and you had to kill him in a holmgang by the laws of Thing.^In the end, you killed Reginhard, too, unable to forgive his betrayal.
 ; qstr_Note_Egil:_Reginhard_b|Note Egil: Reginhard betrayed you at the Assembly, but you spared his life. However, Egil did not accept your decision, and you had to kill him in a holmgang by the laws of Thing.^You forgave Reginhard of treason and let him remain in your company.
 ; qstr___Reginhard_gathers_|--Reginhard gathers his things and leaves.--
-; qstr_Your_men_think_that_yo|Your men think that you are a weak leader who can't punish treachery.
+qstr_Your_men_think_that_yo|Eure Männer denken, dass Ihr ein schwacher Anführer seid, der nicht in der Lage ist Verrat zu bestrafen.
 ; qstr___You_approach_Regin|--You approach Reginhard and slice deep into his neck with a knife. You watch how he collapses, losing blood, until his eyes are closed.--
 ; qstr_Your_men_think_that_you|Your men think that you are a strong leader who harshly punishes treachery.
 ; qstr___He_seems_happy_to_|--He seems happy to hear your words.--
 ; qstr_Your_men_think_that_you_|Your men think that you are a weak leader who allows betrayal.
 ; qstr___He_pushes_the_jar_|--He pushes the jar aside and drops his head.--
-; qstr___He_looks_at_you_wit|--He looks at you with tears in his eyes.--
+qstr___He_looks_at_you_wit|--Er schaut Euch mit Tränen in den Augen an--
 ; qstr_Reginhard_has_joined|Reginhard has joined you. He informs you that Thiaderd and his men are at the foot of the mountains due east of Dorestad. Thiaderd's group is strong. Perhaps you ought to be accompanied by a large group of men who support you.
 ; qstr_{s21}_seems_unhappy.|{s21} seems unhappy.
-; qstr_high|high
-; qstr_low|low
-; qstr_normal|normal
+qstr_high|groß
+qstr_low|klein
+qstr_normal|normal
 qstr_Christianity|Christentum
 ; qstr_Norse_gods|Norse gods
 ; qstr_The_subjects_of_our_|The subjects of our kingdom officially believe in {s4}. Collected records indicate {reg13} people have adopted our faith.
@@ -328,17 +328,17 @@ qstr_Christianity|Christentum
 ; qstr_the_{s11}_{s12}|the {s11}, {s12}
 ; qstr_We_are_quite_happy_n|We are quite happy not to be at war with anyone.
 qstr_We_are_at_war_with_{|Wir befinden uns mit {s12} im Krieg.
-; qstr___He_seems_pleased._|--He seems pleased.--
-; qstr___He_seems_upset.__|--He seems upset.--
-; qstr___He_seems_distresse|--He seems distressed.--
+qstr___He_seems_pleased._|--Er scheint zufrieden--
+qstr___He_seems_upset.__|--Er scheint verärgert--
+qstr___He_seems_distresse|--Er scheint bekümmert--
 ; qstr___He_looks_at_you_with|--He looks at you with his shoulders slumped. He looks dejected.--
 ; qstr___He_looks_with_grie|--He looks with grief.--
 ; qstr___He_spits_on_the_gr|--He spits on the ground, his features hard, sadness giving way to anger--
 ; qstr_Thiaderd_is_dead._Br|Thiaderd is dead. Bring the news to the jarl of {s3}.
-; qstr___He_looks_over_your|--He looks over your shoulder into the distance.--
-; qstr___He_puts_his_hand_on|--He puts his hand on your shoulder and smiles.--
-; qstr___He_turns_away_from|--He turns away from you with a grimace.--
-; qstr___He_nods._You_note_|--He nods. You note the concern in his eyes.--
+qstr___He_looks_over_your|--Er blickt über Eure Schulter in die Ferne--
+qstr___He_puts_his_hand_on|--Er legt seine Hand auf Eure Schulter und lächelt--
+qstr___He_turns_away_from|--Er wendet sich von Euch mit einer Grimasse ab--
+qstr___He_nods._You_note_|--Er nickt. Ihr bemerkt die Sorge in seinen Augen--
 qstr_{playername}_when_we|{playername}, als wir unseren langen Marsch begannen, waren nur wenige mutig genug, mich zu unterstützen. Und noch weniger waren bereit, ihr Leben für meine Sache zu riskieren. Doch Ihr zögertet nicht einen Moment, Euch auf meine Feinde zu werfen. Wir haben viel zusammen durchmacht, und es gab Zeiten, in denen ich nahe daran war, alle Hoffnung fahren zu lassen. Doch mit Gottes Hilfe haben wir alle Ungemach überwunden. Jetzt ist für mich die Zeit gekommen, von Euch zu scheiden und mitzunehmen, was rechtens mein ist. Von nun an werde ich die große Verantwortung tragen, {s3} zu regieren. Viele Herausforderungen liegen noch vor uns, und ich zähle zu ihrer Überwindung auf Eure Hilfe. Und natürlich werdet Ihr auf immer mein zuvörderster Vasall sein.
 qstr_Find_and_speak_with_|Findet und sprecht mit {s3} von {s4}, um ihm Euren Treueschwur zu leisten.
 ; qstr__We_will_of_course_n| We will of course need to wait until the realm is no longer on campaign.
@@ -409,7 +409,7 @@ qstr_Morrigan_has_joined_|Morrigan ist Eurer Gruppe beigetreten. Kehre zum Abt z
 ; qstr_Sour_milk_and_buttere|Sour milk and buttered bread? We will accept your poor hospitality, but I expected better from a man like you. (Sanguine)
 ; qstr___He_spits_out_what_|--He spits out what he was eating and throws away his skvr horn.--
 ; qstr___She_raises_her_han|--She raises her hands, calling for calm.--
-; qstr___He_applauds.__|--He applauds.--
+qstr___He_applauds.__|--Er applaudiert--
 ; qstr_Your_men_think_that_you_a|Your men think that you are a great leader.
 ; qstr_{s11}_thinks_that_yo|{s11} thinks that you are a weak leader.
 qstr_{s14}|{s14}
@@ -451,9 +451,9 @@ qstr_Your_men_are_getting_|Eure Männer sind es leid, immer die selben Geschicht
 ; qstr___He_looks_at_you_with_|--He looks at you with hate when you take his sword in your hand. Olvir's eyes shut, his lips utter a curse that does not reach your ears, and then, Olvir White Hair, brother of Sven Bull Neck, dies.--
 ; qstr_Sven_s_Bull_Neck_bro|Sven's Bull Neck brother, Olvir White Hair, has died at the Battle of Ulf's Farm. Egil thinks {s9} will use this to report you to the Assembly and demand blood compensation. Your companion has proposed for you go to visit {s11} again.
 ; qstr___The_prisoner_drink|--The prisoner drinks eagerly. He has an enormous thirst.--
-; qstr_You_weakling!|You weakling!
-; qstr_You_re_pathetic.|You're pathetic.
-; qstr_You_give_me_grief.|You give me grief.
+qstr_You_weakling!|Du Schwächling!
+qstr_You_re_pathetic.|Du bist erbärmlich.
+qstr_You_give_me_grief.|Ihr macht mir Kummer.
 ; qstr___He_is_relieved_by_|--He is relieved by your actions.--
 ; qstr___The_prisoner_looks|--The prisoner looks at you, confused, but he seems more relaxed.--
 ; qstr___The_prisoner_nods.|--The prisoner nods.--
@@ -469,22 +469,22 @@ qstr_Your_men_are_getting_|Eure Männer sind es leid, immer die selben Geschicht
 ; qstr___He_grabs_his_club_|--He grabs his club tightly and laughs.--
 ; qstr___He_makes_a_gesture|--He makes a gesture of disgust.--
 ; qstr_My_name_is_Olafr_and|My name is Olafr, and I'd like to meet your sister.
-; qstr_Sven_Bull_Neck_will_|Sven Bull Neck will kill you!
+qstr_Sven_Bull_Neck_will_|Sven Stiernacken wird Euch töten!
 qstr_You_re_an_asshole.|Ihr seid ein Arschloch.
-; qstr___He_looks_with_tire|--He looks with tired eyes.--
+qstr___He_looks_with_tire|--Er schaut mit müden Augen--
 ; qstr_Sven_Bull_Neck_order|Sven Bull Neck ordered me to disembark in Doccinga with several men and secure the site with a longphort. If all had gone well, our Lord Sigurd 'Snake in the Eye' would be sending another 100 men from Danmark, to help {s11} be crowned king. I know only a bit, but I think the jarl of Kennemer promised to send five hundred men on this summer's expedition in Englaland if he becomes king. However, this is no longer relevant. We failed, and Sigurd 'Snake in the Eye' will not sacrifice more men. He will need to help his brothers in Englaland. You can rest easy.
 qstr_{s3}^^{s4}|{s3}^^{s4}
 ; qstr_All_plans_of_{s9}_to|All plans of {s9} to be king have been ruined by your intervention. His ally, the Danish lord, {s11} 'Snake in the Eye,' will not send more troops because he is recruiting for reinforcements to Englaland. It seems Friese will be free from Viking attacks for some time, thanks to your effort. The paradox is that you now have to run away from the land that you have just helped save.
 qstr_I_know_nothing!|Ich weiß nichts!
-; qstr___He_forces_a_smile.|--He forces a smile.--
+qstr___He_forces_a_smile.|--Er zwingt sich zu einem Lächeln--
 ; qstr_Sven_Bull_Neck_has_t|Sven Bull Neck has things more important to do. Sigurd 'Snake in the Eye' called on him a few days ago from Danmark. If you want to know where he is, go and ask Sigurd himself. But I suggest you ask him more nicely than you asked me.
 ; qstr_Sigurd__Snake_in_the|Sigurd 'Snake in the Eye' called Sven Bull Neck to Danmark. It looks like the jarl has some new mission for him. It looks it would be good to travel to Danmark and ask for {s11} 'Snake in the Eye.' {s6} could be a nice place to start.
-; qstr_I_say_nothing_bastar|I say nothing, bastard!
+qstr_I_say_nothing_bastar|Ich sage nichts, Bastard!
 ; qstr___He_twists_his_mout|--He twists his mouth and looks at you with contempt.--
 ; qstr_Sigurd__Snake_in_the_|Sigurd 'Snake in the Eye' is Sven Bull Neck's jarl, and Sven is my hersir. Both of them are powerful men, great warriors, so stay away from them, or they will send you straight to hell.
-; qstr_Sven_Bull_Neck_and_{|Sven Bull Neck and {s11}, 'Snake in the Eye,' are famous warriors in Danmark. You'll have to be careful if you intend to fight them.
+qstr_Sven_Bull_Neck_and_{|Sven Stiernacken und {s11} "Schlangenauge," sind berühmte Krieger in Dänemark. Ihr müsst vorsichtig sein, wenn Ihr beabsichtigt, sie zu bekämpfen.
 qstr_Scum!|Abschaum!
-; qstr___He_tilts_his_head_|--He tilts his head and stares, pondering the answer.--
+qstr___He_tilts_his_head_|--Er neigt den Kopf und starrt über eine die Antwort grübelnd--
 ; qstr_You_wish_to_know_abo|You wish to know about the great Ragnar Lodbrok, from the Ynglingeaetten clan, descendants of Odin, eh? Well, he was a jarl feared by all Christians. He attacked Englaland and Frankia many times, and he is famous for his huge expeditions. He knew how to unite and lead men.
 ; qstr___He_looks_directly_|--He looks directly at you with emphatic blue eyes.--
 ; qstr_Ragnar_was_more_than|Ragnar was more than a man, and his sons, too -- he had many sons with his many wives, especially Lathgertha and Aslaug. Ivar the Boneless, Bjorn Ironside, Halfdan, Sigurd 'Snake in the Eye,' Ubbe, and others... He had more than ten sons and many daughters.^If you are so clever, you will avoid confronting them. You should even ask Sigurd's forgiveness for killing his men in Doccinga.
@@ -526,7 +526,7 @@ qstr_You_ragr_insult_my_c|Du, Ragr, beleidige nochmal meine Kinder, und ich schn
 qstr___The_monk_is_trembl|--Der Mönch zittert vor Angst .--
 ; qstr_My_God_{reg59?lady:s|My God, {reg59?lady:sir}! Do not kill me! The abbot forced me to falsify the property deed. He wants this land, but please do not say anything.
 ; qstr_You_would_threaten_a|You would threaten a holy man? For shame!
-; qstr___The_monk_lowers_hi|--The monk lowers his head, cowering.--
+qstr___The_monk_lowers_hi|--Auf dem Boden kauernd senkt der Mönch seinen Kopf--
 ; qstr_I_ll_go_to_hell_for_|I'll go to hell for perjury! The abbot forced me to falsify the property deed. He wants this land, but please do not say anything.
 qstr_{s2}^^{s3}|{s2}^^{s3}
 ; qstr_I_m_not_a_liar_{reg5|I'm not a liar, {reg59?lady:sir}. The document is correct.
@@ -537,7 +537,7 @@ qstr_{s13}_asked_you_to_g|{s13} bat Euch, {reg3} Stück Vieh zusammen zu treiben
 qstr_{s9}_wants_you_to_fo|{s9} will, dass Ihr Euch seiner Armee bis auf weitere Befehle anschließt.
 qstr_{s9}_asked_you_to_sc|{s9} bat Euch, {s13}, {s14} und {s15} auszuspähen, und dann Bericht zu erstatten.
 ; qstr___He_seems_impatient|--He seems impatient, even disappointed.--
-; qstr___He_spits_angry.__|--He spits, angry.--
+qstr___He_spits_angry.__|--Er spuckt wütend--
 ; qstr_It_seems_you_will_no|It seems you will not have the help of the king. You'll have to talk to {s11} 'Snake in the Eye' Ragnarsson directly.
 ; qstr_{s10}_won_t_support_|{s10} won't support you with Sigurd Ragnarsson.
 qstr_{s11}_supports_you_a|{s11} hat Euch seine Unterstützung zugesichert, während Ihr versucht Ragnars Schwert für ihn zu besorgen. 
@@ -545,10 +545,10 @@ qstr_{s11}_supports_you_a|{s11} hat Euch seine Unterstützung zugesichert, währ
 ; qstr___Bodo_grabs_your_ar|--Bodo grabs your arm to keep you from leaving his side and waits until the king is away before looking into your eyes and speaking.--
 ; qstr___He_seems_hurt_puts|--He seems hurt, puts a hand over his heart, and looks at your eyes.--
 ; qstr_Bodo_lied_about_the_|Bodo lied about the sword of King Ragnar. What he was carrying was a letter of alliance for West Seaxe that is now in the hands of {s11}.
-; qstr___The_king_seems_imp|--The king seems impatient.--
+qstr___The_king_seems_imp|--Der König scheint ungeduldig.--
 ; qstr___He_remains_thought|--He remains thoughtful a moment.--
-; qstr___He_looks_directly_i|--He looks directly into your eyes.--
-; qstr___He_sighs.__|--He sighs.--
+qstr___He_looks_directly_i|--Er schaut direkt in Eure Augen.--
+qstr___He_sighs.__|--Er seufzt.--
 ; qstr___His_hands_move_qui|--His hands move quickly as he explains his thoughts.--
 ; qstr_{s10}_needs_to_recov|{s10} needs to recover Bodo's letter in order to prevent its use by Sigurd 'Snake in the Eye' to get the Danmark jarls' favor in the Assembly. {s10} told you that a man of Sigurd's called Atli has the letter. However, Atli sailed from {s3} some time ago, and no one knows his fate. You should inquire with {s3} port master about this matter.
 ; qstr_{s10}_suggested_that|{s10} suggested that you talk to Ulf at his farmstead to convince him not to testify against you at the Assembly. In addition, {s10} said it would be a good idea to have good relations with the jarls of Danmark, so they would speak positively on your behalf at the Assembly (>15 relation points for neutral testimony, >30 for positive).
@@ -755,15 +755,15 @@ qstr_So_all_is_not_lost!_|Also ist nicht alles verloren! (Melancholisch)
 qstr___He_takes_a_deep_bre|--Er atmet tief ein.--
 qstr___He_smiles_pleased.|--Er lächelt, zufrieden.--
 ; qstr_The_time_to_meet_wit|The time to meet with the troops from the Kingdom of Asturias has arrived. Bodo's letter indicates that they will dock at {s3}, and {s11} wants you go there and meet with them. There is a traitor. Use him to gain favor with the Asturian troops and bring them to the side of the sons of Ragnar. But if you fail to convince them, {s11} wants them destroyed.^^But before you leave Englaland, you must go to {s3} and talk to the old captain at the port, as {s11} has gathered men and ships to help you in Douar-an-Enez.
-; qstr_The_king_wants_no_le|The king wants no letters. You have been sent to speak to his brother, {s11}.
+qstr_The_king_wants_no_le|Der König will keine Briefe. Ihr wurdet gesandt um mit seinem Bruder {s11} zu sprechen.
 ; qstr___He_takes_the_letter_|--He takes the letter from your hands, and you see his fingers are stained with ink. Aelfred reads the letter slowly, absorbing with interest all that it contains. After reading it, without saying anything, Aelfred calls Bodo and takes him aside a few meters, where they talk a long time. --
 ; qstr_Note_1:_You_gave_the_|Note 1: You gave the letter to West Seaxe. {s9} thanked you, and now you're helping him.
-; qstr___For_a_moment_he_sh|--For a moment, he shows surprise.--
+qstr___For_a_moment_he_sh|--Für einen Moment wirkt er überrascht--
 ; qstr___He_studies_you_slo|--He studies you slowly, like examining a horse.--
 ; qstr_{s9}_wants_you_to_fi|{s9} wants you to find and speak with {s3} of the {s4}, to give him your oath of homage. Then, he wants you to return for an assignment.
 ; qstr_{s11}_has_asked_you_|{s11} has asked you to go to the land of the Welsh. You are to conquer {s3} and keep it twenty days.
 ; qstr_The_time_to_meet_with|The time to meet with the troops from the Kingdom of Asturias has arrived. Bodo's letter indicates that they will dock at {s3}, and {s11} wants you go there and meet with them. There is a traitor. You have to expose him and destroy him diplomatically, without breaking relations with the Asturians.^^{s11} has gathered men and ships to help you in Douar-an-Enez. You must go to {s3} and talk to the old captain at the port.
-; qstr___He_snaps_his_finge|--He snaps his fingers.--
+qstr___He_snaps_his_finge|--Er schnippt mit seinen Fingern--
 ; qstr_You_must_enter_the_s|You must enter the service of {s11}, ready for the battle ahead.
 ; qstr___He_looks_at_you_co|--He looks at you condescendingly.--
 ; qstr___He_scratches_his_c|--He scratches his chin thoughtfully. He is a very thin young man of only twenty years, but already commands respect.--
@@ -774,12 +774,12 @@ qstr_{s13}_asked_you_to_gat|{s13} bat Euch, {reg3} Stück Vieh zusammen zu treib
 qstr___He_pats_your_back.|--Er tätschelt euch den Rücken.--
 ; qstr_You_must_enter_the_se|You must enter the service of {s11} and prepare for the battle ahead.
 qstr___Halfdan_laughs_lou|--Halfdan lacht laut auf.--
-; qstr___He_confidently_tou|--He confidently tousles your hair.--
+qstr___He_confidently_tou|--Er zerzaust zuversichtlich Euer Haar--
 qstr_{s13}_asked_you_to_gath|{s13} bat Euch, {reg3} Stück Vieh zusammen zu treiben und sie erst nach Readingum und dann zu ihm zu bringen.
 qstr___He_hugs_you_tightl|--Er umarmt euch, wie ein Bär.--
 ; qstr_You_ve_joined_your_ar|You've joined your army to that of {s11}, which is ready to march on the Saxons in Aescesdun. It seems that the fate of West Seaxe will be decided soon.
 ; qstr_{s9}_told_you_that_S|{s9} told you that Sven Bull Neck has gone to Readingum, where he has taken over. It's time to finish what started on the Woden Ric. Sven Bull Neck cannot escape again. Go to Readingum.
-; qstr_You_already_have_my_|You already have my permission to do this. Please do not keep bothering me with the same matter.
+qstr_You_already_have_my_|Ihr habt bereits meine Erlaubnis, dies zu tun. Bitte hört auf mich mit dieser Sache zu belästigen.
 qstr_You_are_an_enemy_of_|Sie sind ein Feind meines Königreiches.
 qstr_You_must_earn_my_tru|Wenn sie Männer in meinem Land rekrutieren möchten, müssen Sie mein Vertrauen verdienen. Unsere Beziehungen ist schlecht.
 qstr_I_don_t_know_if_I_tr|Ich weiß nicht, ob ich  Euch genug vertraue um Männer aus meinem Land Euch in die Schlacht zu folgen. Beweisen sie sich zuerst, dann kommen sie  wieder und Fragen. ^^ (150 oder mehr Beziehung)
@@ -792,7 +792,7 @@ qstr_Very_well_I_will_acc|Nun gut, Ich werde Euch wieder in meine Reihen aufnehm
 qstr_A_pardon_will_only_b|Eine Begnadigung ist nur möglich, wenn Ihr gewillt seid, mir {s17} zu überlassen. Stimmt Ihr meinen Bedingungen zu?
 qstr_No._There_is_no_chan|Nein. Zwischen uns kann kein Friede herrschenich bin nicht interessiert.
 qstr_I_may_be_able_to_hel|Ich kann Ihnen in einer heiklen Situation helfen können. Haben Sie {reg7} Peningas für mich?
-qstr_I_have_heard_of_your|Ich habe Ihre Misshandlung von meinen Untertanen, {Playername} gehört. Ich bin mir ziemlich sicher, dass Leute sich noch erinnern was Sie getan haben... ^ ^ aber das gehört alles der Vergangenheit an, also gib mir das Geld.  {reg7} Peningas?
+qstr_I_have_heard_of_your|Ich habe von Eurer Misshandlung meiner Untertanen Wind bekommen, {playername}. Ich bin mir ziemlich sicher, dass die Leute sich noch an das, was Ihr getan habt erinnern...^^Aber das gehört jetzt alles der Vergangenheit an, also gebt mir einfach das Geld. Habe ich {reg7} Pfennige gehört?
 ; qstr_{playername}_your_tr|{playername}, your treatment of my subjects was atrocious in the past, but such is war. I'm willing to help you in this matter. Hand me that purse with {reg7} peningas, and I'll take care of the business.
 ; qstr_{playername}_we_all_|{playername}, we all make mistakes in our lives, and while your treatment of my subjects was bad, I don't hold grudges. I will help you to restore people's believe in you as a just ruler. Allow me to take that purse with {reg7} peningas, and I'll take care of the business.
 qstr_Rumor_has_it_that_{s|Es wird gemunkelt, dass {s35} nur das Geld nahm und nicht einmal die Mühe hatte, sich mit Leuten zu unterhalten.
@@ -810,7 +810,7 @@ qstr_{s8}_asked_you_to_tr|{s8} bittet sie die Spur einer Gruppe von herrenlose M
 qstr_{s9}_asked_you_to_ta|{s9} bat Euch, eine Nachricht zu {s13} zu bringen. {s13} war vermutlich in {s4}, als Euch dieser Quest anbetraut wurde.
 qstr_{s9}_asked_you_to_tak|{s9} bat Euch, eine Nachricht von {s15} nach {s13} zu bringen. {s13} war vermutlich in {s4}, als Euch dieser Quest anbetraut wurde.
 qstr_{s11}_asked_you_to_e|{s11} bat Euch, seine {s17} {s13} nach {s14} zu eskortieren.
-qstr_{s11}_asked_you_to_r|{s11} fragt sie, plündert das Kloster {s14}, in der Nähe von {s34}, und bringt ihn {reg33} Pfennige.
+qstr_{s11}_asked_you_to_r|{s11} bat Euch, das Kloster bei {s14}, in der Nähe von {s34} zu plündern und ihm {reg33} Pfennige zu bringen.
 qstr_{s11}_asked_you_to_es|{s11} bat Euch, seine {s17} {s13} nach {s14} zu eskortieren.
 qstr_{s13}_asked_you_to_d|{s13} bat Euch, Euch der Banditen anzunehmen, die das Dorf {s15} besetzen und ihm dann Bericht zu erstatten.
 qstr_{s9}_asked_you_to_ra|{s9} bat Euch, {reg1} {s14} auszuheben und sie ihm zu bringen.
@@ -821,9 +821,9 @@ qstr_{s9}_has_asked_you_t|{s9} hat bat Euch, Euch mit einem Spion in {s13} zu tr
 qstr_{s11}_asked_you_to_f|{s11} bat Euch, dem Spion zu folgen, der {s12} verlassen wird. Ihr müsst darauf achten, nicht vom Spion entdeckt zu werden, da er sonst Verdacht schöpfen und umkehren könnte. Sobald der Spion sich mit seinem Komplizen trifft, müsst Ihr sie beide überfallen und nach {s11} zurückbringen.
 qstr_{s11}_asked_you_to_c|{s11} bat Euch, einen Fürst aus {s13}, egal welchen, gefangen zu nehmen, und ihn dann für sichere Verwahrung nach {s11} zurück zu schleifen.
 qstr_{s9}_asked_you_to_le|{s9} bat Euch, ihm Euren Gefährten {s3} für eine Woche zu leihen.
-qstr_{s9}_asked_you_to_col|{s9} bat Euch, die Summe von {reg4} Pfennige einzutreiben, die {s3} ihm schuldet. {s3} war in {s4}, als man Euch dieser Quest übertrug.
+qstr_{s9}_asked_you_to_col|{s9} bat Euch, die Summe von {reg4} Pfennigen einzutreiben, die {s3} ihm schuldet. {s3} war in {s4}, als man Euch diesen Auftrag übertrug.
 qstr_{s11}_gave_you_a_fak|{s11} gab Euch einen gefälschten Brief, um {s13} dazu zu bringen, seinen Vasall {s16} zu verbannen. Ihr sollt nach {s14} reisen, den Brief einem Eurer {s15} geben und in als Boten in die Stadt senden, im Glauben, seine Befehle seien echt.
-qstr_{s9}_has_requested_y|{s9} verlangte von Euch, ihm {reg1} {s3} als Gefangene zu bringen.
+qstr_{s9}_has_requested_y|{s9} hat Euch aufgefordert, ihm {reg1} {s3} als Gefangene zu bringen.
 qstr_Lend_your_experience|Verleiht Euren erfahrenen Wundarzt {s3} an {s1}.
 qstr_Oh_Dear!_We_have_bee|Oh, Lieber! Wir haben einen jungen bekommen!
 qstr_Oh_Dear!_We_have_rec|Oh, Lieber! Wir haben eine Mädchen bekommen!
@@ -832,14 +832,14 @@ qstr_Oh_Dear!_Twins_are_b|Oh, Lieber! Zwillinge sind uns geschenkt.
 qstr_I_m_thinking_of_a_na|Ich denke an einen Namen für das Kind. Wenn wir einen jungen haben, wird sein Name {Playername} sein, aber wenn wir ein Mädchen haben, wird ihr Name wie ich heißen.
 ; qstr_I_m_fine._I_will_not|I'm fine. I will not pay any attention to the banter of the servants. The child isn't the son of our swineherd.
 ; qstr_Time_flies_away_from|Time flies away from war, fear and the rigors of travel... In nine months, you will have a child.
-qstr_Then_take_it_with_my|Nehmt es, zusammen mit meiner ewigen Dankbarkeit. Ihr seid ein edler {reg59?woman:man}. Ich werde nie vergessen, dass Ihr mir in meiner Not zu Hilfe kamt.
+qstr_Then_take_it_with_my|Nehmt es, zusammen mit meiner ewigen Dankbarkeit. Ihr seid {reg59?eine edle Frau:ein edler Mann}. Ich werde nie vergessen, dass Ihr mir in meiner Not zu Hilfe kamt.
 qstr_Forgive_me_{playerna|Vergebt mir, {playername}, aber ich muss darauf bestehen, dass Ihr es annehmt. Das Geld bedeutet mir so wenig, und ich schulde Euch so viel. Hier, nehmt es, und lasst uns fürderhin nicht mehr davon sprechen.
-qstr_{playername}_what_a_|{playername}, was ein edler Mensch Ihr seid, doch ich kann Euch nicht erlauben, dies zu verweigern. Ich schulde Euch mehr, als Worte ausdrücken können, und ich bin sicher, Ihr könnt für dieses Geld besseren Nutzen finden als ich.
+qstr_{playername}_what_a_|{playername}, was für {reg59?eine edle Frau:ein edler Mann} Ihr seid, doch ich kann Euch nicht erlauben, dies zu verweigern. Ich schulde Euch mehr, als Worte ausdrücken können, und ich bin sicher, Ihr könnt für dieses Geld besseren Nutzen finden als ich.
 ; qstr_I_know_you_re_at_war|I know, you're at war with his kingdom, so you may have a problem giving him my message, or perhaps your bravery would desert you.
 qstr_{s11}_asked_you_to_d|{s11} bat Euch, eine Nachricht zu {s13} im Kerker von {s14} zu überbringen.
 ; qstr_Oh_{playername}_my_h|Oh, {playername}, my husband is too busy with the affairs of the state. Would you be so kind to bring me {reg25} {reg1?pieces:piece} of {s17}?
 ; qstr_Oh_{playername}_coul|Oh, {playername}, could you do me a little favor? I saw a trader the other day, selling some novelties out by the gate. Unfortunately, I can't spend money freely. Would you be so kind and bring me {reg25} {reg1?pieces:piece} of {s17}?
-qstr_{s11}_asked_you_to_b|{s11} a
+qstr_{s11}_asked_you_to_b|{s11} bat Euch, ihr {reg25} {reg1?Stücke:Stück} {s17} zu bringen.
 ; qstr_Oh_{playername}_my_hu|Oh, {playername}, my husband, {s15}, is too busy with the affairs of the state, and I would like to have a surprise party set up in his honor. Would you be so kind as to bring me {reg25} {reg1?bottles:bottle} of {s17} and 2 pieces of cheese?
 ; qstr_Oh_{playername}_could|Oh, {playername}, could you do me a little favor? I have some of my lady friends here visiting, and I would like to have a small party in their honor. Unfortunately, I can't spend money freely. Would you be so kind and bring me {reg25} {reg1?bottles:bottle} of {s17} and 2 pieces of cheese?
 ; qstr_{s11}_asked_you_to_br|{s11} asked you to bring her {reg25} {reg1?bottles:bottle} of {s17} and 2 pieces of cheese.
@@ -851,9 +851,9 @@ qstr_You_agreed_to_challe|Ihr willigt ein, {s13} zur Verteidigung von {s11}s Ehr
 qstr_{s5}__Persuasion_str|{s5} (Überzeugungskraft: {reg5})
 qstr_Persuasion_Attempt|Überzeugungsversuch
 ; qstr_I_think_your_dilemma|I think your dilemma can be solved for {reg22} peningas.
-qstr_Thank_you_for_the_wa|Danke für die Warnung. {reg22} Peningas werden mich alles vergessen lassen.
+qstr_Thank_you_for_the_wa|Danke für die Warnung. {reg22} Pfennige werden mich alles vergessen lassen.
 ; qstr_Pay_{reg22}_peningas|Pay {reg22} peningas for your rudeness or else...
-qstr_{reg22}_peningas_is_|{reg22} Peningas ist der Preis für mein Schweigen. Ansonsten...
+qstr_{reg22}_peningas_is_|{reg22} Pfennige ist der Preis für mein Schweigen. Ansonsten...
 ; qstr_I_understand_you_wer|I understand you were forced to do it, but I'm entitled to compensation, and I think {reg22} peningas will be acceptable. I would hate to tell on you, but I have no choice either.
 qstr_Prepare_to_die_you_i|Bereitet Euch darauf vor zu sterben, Ihr unverschämter Gauner!
 qstr_Ah_a_duel._Well_if_y|Ach, ein Duell. Nun, wenn Ihr darauf besteht, {playername}, werde ich Euch den Gefallen tun.
@@ -887,26 +887,26 @@ qstr_A_villager_from_{s7}|Ein Dorfbewohner aus {s7} bat Euch inständig, ihr Dor
 ; qstr_Hey_what_do_you_want|Hey, what do you want? We're drinking.
 ; qstr_Are_you_looking_for_|Are you looking for men who are willing to risk their skin for glory and wealth?
 ; qstr_There_is_food_and_dr|There is food and drink for all. Do you want to join in?
-qstr_You_chose_well_{reg5|Wohl gewählt, {mein Herr/meine Dame}. Meine Jungs wissen, wie man sein Wort hält und seinen Lohn verdient.
-qstr_Well_done_{reg59?mad|Gut gemacht, {mein Herr/meine Dame}. Lasst Geld und Wein weiter fließen, und Ihr braucht in Calradia niemanden zu fürchten.
-qstr_We_are_at_your_servi|Wir stehen zu Euren Diensten, {mein Herr/meine Dame}. Zeigt uns die, die eine Lektion brauchen, und wir übernehmen den Rest.
+qstr_You_chose_well_{reg5|Wohl gewählt, {reg59?meine Dame:mein Herr}. Meine Jungs wissen, wie man sein Wort hält und seinen Lohn verdient.
+qstr_Well_done_{reg59?mad|Gut gemacht, {reg59?meine Dame:mein Herr}. Lasst Geld und Wein weiter fließen, und Ihr braucht niemanden zu fürchten.
+qstr_We_are_at_your_servi|Wir stehen zu Euren Diensten, {reg59?meine Dame:mein Herr}. Zeigt uns die, die eine Lektion brauchen, und wir übernehmen den Rest.
 ; qstr_Oh..._well..._I_do_n|Oh... well... I do not know ... I'm probably fine. (Phlegmatic)
 ; qstr_Even_bad_dreams_spea|Even bad dreams speak to us. I like to listen. Perhaps learn something. (Melancholic)
 ; qstr_Yes_I_had_a_nightmar|Yes, I had a nightmare, but now I'm awake. All that matters is what's ahead. (Choleric)
-; qstr_All_is_well._Believe|All is well. Believe me, it was just a stupid nightmare! (Sanguine)
+qstr_All_is_well._Believe|Alles ist gut. Glaubt mir, es war nur ein dummer Alptraum! (Sanguinisch)
 qstr_No_need_to_get_shy!_|Kein Grund schüchtern zu sein! Wie dem auch sei, es ist gut Euch wieder auf den Beinen zu sehen, mein Freund.
 ; qstr_I_prefer_not_to_drea|I prefer not to dream. They bring too many memories and longings. Well, it's good to see you up and about, friend.
 ; qstr_Yes_we_are_finally_n|Yes, we are finally near Friese. There, after all these days, we will part, for my journey continues on towards West Seaxe. For now, it's good to see you up and about, friend.
-; qstr_I_agree_completely._|I agree completely. Fortunately, I usually do not remember my dreams when I wake. Well, it's good to see you up and about, friend.
-; qstr___She_has_aged_sever|--She has aged several years since her illness began. She's so frail that she looks like she would break if you touched her. This is not the woman you know; just a vague memory of her, but she's still your mother.--
+qstr_I_agree_completely._|Ich stimme zu. Glücklicherweise, erinnere ich mich normalerweise nicht an meine Träume wenn ich aufwache. Nun, es ist gut euch oben auf zu sehen, Freund.
+qstr___She_has_aged_sever|--sie ist seit Ausbruch ihrer Krankheit etliche Jahre gealtert. Sie ist so schwach, dass sie aussieht als ob sie brechen würde, sobald man sie berührt. Dies ist nur noch eine vage Erinnerung der Frau, die Ihr kanntet, aber sie ist immer noch Eure Mutter--
 qstr___She_smiles_and_look|--Sie lacht und sieht euch mit Liebe an--
-; qstr___She_looks_past_you|--She looks past you--
-; qstr___She_opens_her_eyes|--She opens her eyes, looks at you. Her hands shake--
-; qstr___She_shifts_her_gaz|--She shifts her gaze to the sea. She is crying.--
+qstr___She_looks_past_you|--Sie schaut an Euch vorbei--
+qstr___She_opens_her_eyes|--Sie öffnet die Augen und schaut Euch an. Ihre Hände zittern--
+qstr___She_shifts_her_gaz|--Sie richtet ihren Blick auf das Meer. Sie weint--
 ; qstr___He_smiles_and_show|--He smiles and shows you the rudder.--
-; qstr___He_stares_at_you_f|--He stares at you for a second, then lets out a chuckle.--
-qstr___He_nods.__|--Er nickt.--
-; qstr___You_notice_his_han|--You notice his hands shaking from nervousness.--
+qstr___He_stares_at_you_f|--Er starrt Euch für eine Sekunde an, dann entweicht ihm ein Kichern--
+qstr___He_nods.__|--Er nickt--
+qstr___You_notice_his_han|--Ihr bemerkt, dass seine Hände vor Nervosität zittern--
 ; qstr___Now_he_looks_scare|--Now he looks scared.--
 ; qstr___He_scratches_his_b|--He scratches his back and then smiles.--
 ; qstr___He_touches_the_hil|--He touches the hilt of his sword.--
@@ -925,7 +925,7 @@ qstr_You_are_now_a_pagan_|Ihr seid jetzt ein Heide, ein Anhänger von Odin und a
 ; qstr___You_look_at_the_te|--You look at the text. It is all very nice, with the letters nicely aligned, but, without accompanying illustrations, you do not understand anything.--^^
 ; qstr_Note_1:_You_chose_to|Note 1: You chose to give the land to the monastery near {s3}.
 ; qstr_Note_1:_You_chose_no|Note 1: You chose not to give the land to the monastery near {s3}.
-; qstr___The_abbot_opens_hi|--The abbot opens his eyes wide.--
+qstr___The_abbot_opens_hi|--Der Abt weitet seine Augen--
 ; qstr_Note:_You_returned__|Note: You returned 'The Cathach of Colum Cille' to Gleann Da Loch.
 qstr_The_abbot_of_Finian_|- Er sieht besorgt aus.
 ; qstr_So_you_re_{playernam|So you're {playername}. I've heard about you. Personally, I dislike the reports of your sinfulness, but I wasn't the one making the decision. Here is one thousand peningas. Now listen...
@@ -946,7 +946,7 @@ qstr_The_abbot_of_Finian_|- Er sieht besorgt aus.
 ; qstr___You_see_a_short_th|--You see a short, thin man with a strange face in front of you.--
 ; qstr___The_Swedish_Viking|--The Swedish Viking looks you up and down, studying you.--
 ; qstr___The_man_flattening|--The man, flattening the floor with his feet, suddenly turns towards you when you approach him. At first, he seems surprised, but quickly flashes a smile.--
-; qstr_I_was_just_leaving._|I was just leaving. (Phlegmatic)
+qstr_I_was_just_leaving._|Ich wollte gerade gehen. (Phlegmatisch)
 ; qstr_I_think_we_are_both_|I think we are both too old for games like this. (Melancholic)
 ; qstr_Heh_I_ve_played_game|Heh, I've played games with worse odds. Proceed. (Choleric)
 ; qstr_Very_well_but_if_I_s|Very well, but if I solve your riddle but do not like your answers, I'll take your soul. (Sanguine)
@@ -960,10 +960,10 @@ qstr_The_abbot_of_Finian_|- Er sieht besorgt aus.
 ; qstr_I_have_a_good_load_o|I have a good load of mineral available.
 ; qstr_I_have_loads_of_both|I have loads of both mineral and stone available.
 ; qstr_I_have_a_good_load_of|I have a good load of stone available.
-; qstr_I_have_some_soapston|I have some soapstone available.
-; qstr_I_have_loads_of_salt|I have loads of salt today.
+qstr_I_have_some_soapston|Ich habe etwas Speckstein anzubieten.
+qstr_I_have_loads_of_salt|Ich habe heute jede Menge Salz.
 ; qstr_Come_with_me._I_ll_s|Come with me. I'll show you what we've got.
-; qstr_I_have_some_salt.|I have some salt.
+qstr_I_have_some_salt.|Ich habe etwas Salz.
 ; qstr_I_have_plenty_of_tim|I have plenty of timber available.
 ; qstr_I_have_some_timber_a|I have some timber available.
 ; qstr_I_have_nice_cows_hug|I have nice cows, huge and fat, ready to sell in the town. I'd be happy to sell them right now.
@@ -971,7 +971,7 @@ qstr_The_abbot_of_Finian_|- Er sieht besorgt aus.
 ; qstr_I_have_a_few_food_it|I have a few food items for sale.
 ; qstr_I_am_the_reeve_of_th|I am the reeve of the fort of {s9}. I manage the affairs of the fort in your name, my {reg59?lady:lord}
 ; qstr_I_am_the_reeve_of_the|I am the reeve of the fort of {s9}. I manage the affairs of the castle in my lord's name.
-; qstr_Your_highness|Your highness
+qstr_Your_highness|Eure Hoheit
 ; qstr_May_I_remind_you_tha|May I remind you that the populace is paying normal taxes to you?
 ; qstr_May_I_remind_you_that|May I remind you that the populace is paying low taxes to you? They are exceptionally grateful to you.
 ; qstr_May_I_remind_you_that_|May I remind you that the populace is paying high taxes to you? Your name is being cursed on every corner and at every market stall.
@@ -1001,15 +1001,15 @@ qstr_The_{s9}_of_{s3}_ask|Der {s9} von {s3} hat Euch darum gebeten, ihm ein {s13
 ; qstr_Yes_{playername}_one|Yes, {playername}, one of the merchants here is looking to expand, and he needs some stone for that. Unfortunately, with all the fighting around, bandits and all that, he was unable to procure the stone at the acceptable price. Perhaps, you can go to the nearest stone quarry and get {reg33} loads of stone?
 ; qstr_Yes_{playername}_one_|Yes, {playername}, one of the merchants here had an unusually high demand for salt lately, and he is running low. Unfortunately, with all the fighting around, bandits and all that, his last shipment never arrived, and he was unable to procure the salt at the acceptable price. Perhaps, you can go to the nearest salt mine and get {reg33} loads of salt for him?
 ; qstr_{s9}_of_{s3}_asked_yo|{s9} of {s3} asked you to bring {reg33} loads of {s33}.
-; qstr___His_eyes_widen.__|--His eyes widen.--
+qstr___His_eyes_widen.__|--Seine Augen weiten sich--
 ; qstr_He_has_killed_many_p|He has killed many people, but he also killed my mother. I need to find him! (Phlegmatic)
 ; qstr_I_know_but_he_must_d|I know, but he must die! He is my mortal enemy now! Where is Sven, Thonkrik? (Melancholic)
 ; qstr_Sven_had_the_audacit|Sven had the audacity to attack my ship. He will pay dearly! Where is he? (Choleric)
 ; qstr_Sven_is_my_goal_now.|Sven is my goal now. Anyone who gets in my way is my enemy! Where is Sven? (Sanguine)
-; qstr___He_looks_frightene|--He looks frightened.--
+qstr___He_looks_frightene|--Er schaut verängstigt--
 ; qstr_Note_1:_Doccinga_fis|Note 1: Doccinga fishermen rescued you from the sea. Looks like you're the only survivor. Sven attacked your ship.
 ; qstr_{s9}_told_me_that_{s|{s9} told me that {s3}, jarl of {s1}, might know where Sven Bull Neck is.
-; qstr___He_rubs_his_hands_|--He rubs his hands nervously.--
+qstr___He_rubs_his_hands_|--Er reibt sich nervös die Hände--
 ; qstr___He_points_to_the_s|--He points to the sea, where you can distinguish three sails.--
 ; qstr___He_seems_nervous_n|--He seems nervous, not gesturing with hands.--
 ; qstr_Thonkrik_from_{s3}_t|Thonkrik from {s3} told you that {s9} might be allied with Sven Neck Bull in his attempt to capture the throne of Friese.
@@ -1060,7 +1060,7 @@ qstr_You_ll_get_nothing_w|Mit Drohungen werdet Ihr nichts erreichen.
 ; qstr_Interesting._Seems_I|Interesting. Seems I'm not talking to an idiot.
 ; qstr_From_this_moment_on_|From this moment on, you may recruit in this village.
 qstr_The_elder_of_the_vil|Der Dorfälteste von {s3} bat Euch, ihm {reg5} Bündel Weizen zu bringen.
-qstr_The_elder_of_the_vill|Der Dorfälteste von {s13} bat Euch, {reg5} Bauern für den Kampf gegen lokale Banditen auszubilden.
+qstr_The_elder_of_the_vill|Der Dorfälteste von {s3} bat Euch, {reg5} Frauen zu fangen und zu ihnen zu bringen (als Gefangene).
 ; qstr_I_see_your_problem_b|I see your problem, but wouldn't it be unfair to those women?
 ; qstr_Hmmm_why_can_t_your_|Hmmm, why can't your men marry women from a nearby village?
 ; qstr_Your_men_should_real|Your men should really learn how to control their, errr... instincts.
@@ -1086,18 +1086,18 @@ qstr_The_elder_of_the_vill|Der Dorfälteste von {s13} bat Euch, {reg5} Bauern f�
 ; qstr_My_dear_{reg59?lady:lord|My dear {reg59?lady:lord}, your persuasion and charisma are hard to resist. I would be delighted to pay you {reg25} peningas.
 ; qstr_The_leader_of_the_vi|The leader of the village of {s3} asked you to bring the runaway slave back to the village. Most probably, he is hiding in the area around the village.
 ; qstr_The_runaway_slave_is|The runaway slave is now forced to follow you. Bring him back to the leader of {s13}.
-qstr_The_elder_of_the_villa|Der Dorfälteste von {s3} bat Euch, ihm {reg5} Stück Vieh zu bringen.
-; qstr_The_elder_of_the_villag|The elder of the village of {s3} asked you to bring them {reg5} head of cattle.
-; qstr___She_looks_puzzled_|--She looks puzzled and surprised.--
-; qstr___She_smiles_happy_f|--She smiles, happy for your donation.--
+qstr_The_elder_of_the_villa|Der Dorfälteste von {s13} bat Euch, {reg5} Bauern für den Kampf gegen lokale Banditen auszubilden.
+qstr_The_elder_of_the_villag|Der Dorfälteste von {s3} bat Euch, ihm {reg5} Stück Vieh zu bringen.
+qstr___She_looks_puzzled_|--Sie schaut verwirrt und überrascht--
+qstr___She_smiles_happy_f|--Sie lächelt, glücklich über Eure Spende--
 qstr_{s16}_and_{s15}|{s16} und {s15}
 qstr_{s16}_{s15}|{s16}, {s15}
 qstr_I_can_smell_a_fat_pu|Ich kann einen fetten Geldbeutel drei Meilen gegen den Wind riechen. Ihr könntet wohl etwas Erleichterung gebrauchen, was?
-qstr_Why_it_be_another_tr|Hallo, noch ein Reisender, ein Zufallstreffen auf der Straße! Ich sollte Euch warnen, das Land hier ist ein bisschen zu gefährlich für gute Leute wie Euch. Doch für einen kleinen Obolus sorgen meine Jungs und ich dafür, dass Ihr schnell und sicher an Euer Ziel gelangt ...
+qstr_Why_it_be_another_tr|Hallo, noch ein Reisender, ein Zufallstreffen auf der Straße! Ich sollte Euch warnen, das Land hier ist ein bisschen zu gefährlich für {reg59?eine gute Frau:einen guten Kerl} wie Euch. Doch für einen kleinen Obolus sorgen meine Jungs und ich dafür, dass Ihr schnell und sicher an Euer Ziel gelangt ...
 qstr_Well_well._Look_at_t|Nun sieh mal einer an! Ihr spuckt am besten Euer Silber aus, Freundchen, oder meine Jungs und ich müssen's aus Euch rausholen.
 qstr_There_s_a_toll_for_p|Die Durchreise hier kostet Wegzoll, an uns abzutreten. Wenn es Euch also nichts ausmacht, nehmen wir es uns aus Eurem Geldbeutel ...
-qstr_Another_fool_come_to|Schon wieder so ein Narr, der sich in meine Waffe stürzen will, ha? Nun gut, kämpfen wir!
-qstr_We_re_not_afraid_of_|Wir haben keine Angst vor Euch, {Wicht/Schranze}. Zeit für ein paar Kopfnüsse!
+qstr_Another_fool_come_to|Schon wieder so {reg59?eine Närrin, die:ein Narr, der} sich in meine Waffe stürzen will, ha? Nun gut, kämpfen wir!
+qstr_We_re_not_afraid_of_|Wir haben keine Angst vor Euch, {reg59?Schranze:Wicht}. Zeit für ein paar Kopfnüsse!
 qstr_That_was_a_mistake._|Das war ein Fehler. Jetzt muss ich Euren Tod lang und schmerzhaft gestalten.
 qstr_Brave_words._Let_s_s|Tapfere Worte. Lasst sehen, wie Ihr sie mit Taten stützt, Hundsfott!
 ; qstr_Your_God_is_for_wimp|Your God is for wimps and weaklings! Across the rainbow bridge to Walhalla Odin's waiting for me!
@@ -1113,10 +1113,10 @@ qstr_I_see_no_reason_to_e|Ich sehe keinen Grund Dinge wie diese mit jemandem wie
 qstr_A_{s5}?_Well..._Yes_|{s5}? Nun ... ja, ich denke, schon. Welch eine sonderbare Frage.
 qstr_Eh?_No_it_most_certa|Häh? {s5}? Keineswegs! An Eurer Statt würde ich mein Augenlicht untersuchen lassen.
 ; qstr_This_is_the_{reg4?to|This is the {reg4?town:village} of {s5}, {reg59?madam:sir}.
-qstr_{s6}_Our_{reg4?town:|{s6} Unsere {reg4?Stadt:Siedlung} und die umliegenden Ländereien gehören selbstverständlich Euch, oh {Fürst/Fürstin}.
+qstr_{s6}_Our_{reg4?town:|{s6} Unsere {reg4?Stadt:Siedlung} und die umliegenden Ländereien gehören selbstverständlich Euch, oh {reg59?Fürstin:Fürst}.
 qstr_{s6}_Our_{reg4?town:v|{s6} Unser {reg4?Städtchen:Dorf} und die umgebenden Ländereien gehören {s7} von {s8}.
 qstr_{s3}_and_{s5}|{s3} und {s5}
-qstr_{reg20?We_mostly_pro|{reg20?Wir produzieren hauptsächlich {s5} hier: Wir produzieren in diesen Tagen nicht viel}. Wenn Ihr mehr erfahren möchtet, könnt Ihr mit unserem {reg4?Gildenmeister:Dorfältesten} sprechen. Er ist da drüben.
+qstr_{reg20?We_mostly_pro|{reg20?Wir produzieren hauptsächlich {s5} hier:Wir produzieren in diesen Tagen nicht viel}. Wenn Ihr mehr erfahren möchtet, könnt Ihr mit unserem {reg4?Gildenmeister:Dorfältesten} sprechen. Er ist da drüben.
 ; qstr_Mind_your_manners_wi|Mind your manners within the walls and we'll have no trouble.
 ; qstr_Bugger_off_stranger.|Bugger off, stranger. Can't you see I am busy watching that plump wench over there?
 ; qstr_Make_sure_to_keep_yo|Make sure to keep your hands in the open, and no funny business around merchants' booths.
@@ -1233,7 +1233,7 @@ qstr_F8___No_Formation|F8 - keine Formation
 qstr_Extended_Formations_|Weitere Formationen und Optionen von IA
 qstr_Disable_mod_formatio|Umb Formationen deaktivieren: 
 qstr_Put_player_in_divisi|Spieler in reihen teilen:
-; qstr_Army_rotates_to_face|Army rotates to face enemy center: 
+qstr_Army_rotates_to_face|Die Armee positioniert sich parallel zum Zentrum des Gegners: 
 qstr_Prevent_AI_from_taki|IA Die Verteidigung  verhindern:
 qstr_Anno_Domini_867|    im Jahre des Herrn 867
 qstr_We_are_in_the_ninth_|Wir befinden uns im neunten Jahrhundert.^Lange schon sind die Lichter Roms erloschen,^ausgehaucht durch den Zahn der Zeit.^Es werden noch Jahrhunderte vergehen,^bis das goldene Zeitalter der Ritter und^Prinzessinnen beginnt.^^Es ist eine brutale, dunkle und rücksichts-^lose Ära der rohen Kraft und des nackten^Überlebens, in der die Menschen jede Nacht^zu Bett gehen und dafür beten,^den nächsten Tag noch zu erleben.
@@ -1283,7 +1283,7 @@ qstr_At_Beginner_level_wh|Wenn Ihr auf dem Anfängerlevel in Dörfern um Erlaubn
 qstr_At_Beginner_level_im|Als Anfänger ist es einfacher, Truppen zu verbessern.
 qstr_At_Beginner_level_th|Als Anfänger, wird der Sold Eurer Truppen um 40% reduziert. Zusätzlich wird die Beute aus Klöstern sowie die Chance, ein Schiff zu kapern erhöht.
 qstr_Stamina_is_calculate|Die Ausdauer wird aus der Gesundheit und Athletik errechnet und beeinflusst den körpelichen Zustand im Kampf. Wenn die Ausdauer erschöpft ist, so ist laufen nicht möglich und der Schaden, welcher durch Waffen zugefügt wird, wird halbiert.^^{s8}
-qstr_Your_skill_points_wi|Eure Fertigkeitspunkte werden verschlechtert, wenn Ihr schwere Rüstung tragt. Diese Fertigkeit bringt bessere balance ins Spiel, wie ,dass leichte Truppen wichtiger werden. Andere Ausrüstung kann sich positiv auf Eure Fertigkeiten auswirken.^^{s8}
+qstr_Your_skill_points_wi|Eure Fertigkeitspunkte werden verschlechtert, wenn Ihr schwere Rüstung tragt. Diese Fertigkeit ändert die Balance des Spiels, so dass leichte Truppen wichtiger werden. Andere Ausrüstung kann sich positiv auf Eure Fertigkeiten auswirken.^^{s8}
 qstr_Your_army_needs_regu|Eure Armee muss von Zeit zu Zeit in Dörfern, Eurem Lager oder in Eurem Unterschlupf rasten. Mangel an Rast verschlechtert die Moral Eures Trupps, während Rasten die Moral verbessert. 
 qstr_Your_enemies_will_ca|Eure Feinde verursachen doppelten Schaden, während Ihr nur halben Schaden verursacht.
 qstr_Add_decapitation_to_|Füge Enthauptungen in Schlachten hinzu
@@ -1299,15 +1299,15 @@ qstr_Set_how_well_troops_|Stellt ein, wie gut Truppen kämpfen. Sie kämpfen am 
 qstr_Campaign_AI_affects_|Hat Auswirkungen auf viele Aspekte des Spiels, wie etwa:^- die Größe der Banditenbanden^ - den Ansehensverlust in Schlachten^- die Möglichkeit Edelmänner zu rekrutieren^-auf die Höhe von Steuereinnahmen^ - darauf, wie Edelmänner Verstärkungen erhalten^ - wie Edelmänner auf Anfragen des Spielers reagieren
 qstr_Set_the_running_spee|Stellt die Geschwindigkeit ein, mit welcher Truppen im Kampf laufen.^^{s8}
 qstr_{s2}_{reg0}|{s2} {reg0}
-qstr_The_player_may_recei|Der Spieler kann spezielle schwächende Wunden im Kampf erhalten. Ärzte in größeren Städten können diese für einen gewissen Preis heilen, wonach sie binnen ein paar Tagen auskuriert sind. Jegicher negativer Effekt wird dann entfernt. Wenn Wunden nicht versorgt werden, werden sie zu Narben und die negativen Effekte werden dauerhaft bleiben.
-qstr_Wounded_troops_take_|Verwundete Soldaten erleiden Schäden durch Blutverlust.^^{s8}
+qstr_The_player_may_recei|Der Spieler kann spezielle schwächende Wunden im Kampf erhalten. Ärzte in größeren Städten können diese für einen gewissen Preis heilen, wonach sie binnen einiger Tage auskuriert sind. Jeglicher negativer Effekt wird dann entfernt. Wenn Wunden nicht versorgt werden, werden sie zu Narben und die negativen Effekte bleiben dauerhaft erhalten.
+qstr_Wounded_troops_take_|Verwundete Soldaten erleiden Schaden durch Blutverlust.^^{s8}
 qstr_From_now_on_spawn_33|Es erscheinen 33% weniger oder 50% mehr Banditen, Räuber, etc. 
 qstr_Sets_the_player_as_c|Setzt den Spieler als Kommandant der gewählten Abteilung. Diese Abteilung wird sofort in Aufstellung gehen und hinter dem Spieler auf Halten und Folgen gesetzt (Keil setzt den Spieler an die Spitze). Zieht es für Leibwächter Divisionen in Betracht.
 qstr_Equipment_may_get_da|Ausrüstung kann, basierend auf ihrer Qualität und dem Waffentalent eurer Gruppe, im Kampf beschädigt werden. Waffen- und Rüstungsschmiede können diese jedoch gegen Bezahlung reparieren.^^{s8}
 qstr_Default|Voreinstellung
 qstr_Randomize|Zufällig anordnen
 qstr_Who_are_you?|Wer seid Ihr?
-qstr_Be_careful_with_your|Trefft Eure Wahl mit Bedacht.^Sie wird sich unter anderem auf Eure Attribute, Fertigkeiten und Gespräche auswirken.
+qstr_Be_careful_with_your|Trefft Eure Wahl mit Bedacht.^Sie wird sich unter anderem auf Eure Attribute,^Fertigkeiten und Gespräche auswirken.
 qstr_Bio:|Biografie:
 qstr_Gender:|Geschlecht:
 qstr_Height:|Höhe:
@@ -1368,7 +1368,7 @@ qstr_Level:|Stufe:
 qstr_Health:|Gesundheit:
 qstr_Renown:|Ansehen:
 qstr_Reputation:|Ruf:
-qstr_Right_to_Rule:|Recht zu herrschen
+qstr_Right_to_Rule:|Recht zu Herrschen:
 qstr_Money:|Geld:
 qstr_Scandinavian_Gods|Skandinavische Götter
 qstr_Can_read:|Beherrscht Lesen:
@@ -1410,7 +1410,7 @@ qstr_You_stop_to_rest.^He|Ihr rastet.^Hier könnt ihr die Vorräte eures Lagers 
 qstr_Send_Scouts:|Sendet Späher aus:
 qstr_^Sending_scouts_ahea|^Das Vorraussenden von Kundschaftern wird die Chance erhöhen Gegner zu entdecken. Jedoch bewegen sich diese offener, wodurch ihre Überlebenswahrscheinlichkeit sinkt.
 qstr_Thirty_men_are_neede|Dreissig Mann werden benötigt.
-qstr_Send_Foragers:|Entsende Wildbeuter
+qstr_Send_Foragers:|Sendet Sammler:
 qstr_^Send_men_to_forage_|^Sendet Männer aus um die Gegend nach essbarem abzusuchen, während Eure Armee marschiert. Sie werden alle 12 Stunden mit extra Verpflegung zurückkehren.
 qstr_Forty_men_are_needed|Vierzig Mann werden benötigt.
 qstr_Fortify_Camp:|Befestigt das Lager:
@@ -1447,7 +1447,7 @@ qstr_Gale^^The_sea_is_vio|Sturm^^Die See ist stürmisch. Die Segel sind vollstä
 qstr_Storm^^The_waves_tos|Sturm^^Die Wellen schleudern sich über die Schiffe, welche zu kentern drohen.
 qstr_Number_of_sailors:|Anzahl der Matrosen:
 qstr_{reg5}|{reg5}
-qstr_Speed_from_sailors:|Geschwindigkeit der Matrosen:
+qstr_Speed_from_sailors:|Tempo durch Matrosen:
 qstr_{reg6}%|{reg6}%
 qstr_Fleet|Flotte
 qstr_Followers_Camp|Anhänger-Camp
@@ -1458,10 +1458,10 @@ qstr_Mules|Esel
 qstr_Slave_Trader|Sklavenhändler
 qstr_Dismiss|Entlassen
 qstr_Kingdom_Report|Königreich-Bericht
-qstr_{reg59?Queen:King}:|{reg59?Queen:King}:
-qstr_{reg59?Queen:King}_s|{reg59?Queen:King} Städte:
-qstr_{reg59?Queen:King}_s_|{reg59?Queen:King} Burgen:
-qstr_{reg59?Queen:King}_s_V|{reg59?Queen:King} Dörfer:
+qstr_{reg59?Queen:King}:|{reg59?Königin:König}:
+qstr_{reg59?Queen:King}_s|{reg59?Königin:König}s Städte:
+qstr_{reg59?Queen:King}_s_|{reg59?Königin:König}s Burgen:
+qstr_{reg59?Queen:King}_s_V|{reg59?Königin:König}s Dörfer:
 qstr_Lords:|Lehnsherren:
 qstr_Caravans:|Karawanen:
 qstr_Kingdom_Towns:|Königreich-Städte:
@@ -1473,7 +1473,7 @@ qstr_Minister:|Gesandte:
 qstr_Tax_Enforcement:|Steuereintreibung:
 qstr_Yes__costs_3000_peni|Ja (Kosten: 3000 Pfennige/Woche)
 qstr_No__tax_revenue_lowe|Nein (Steuereinkommen zu niedrig)
-qstr_{reg59?Queen:King}_s_A|Armeegröße von {reg59?Queen:King}
+qstr_{reg59?Queen:King}_s_A|Armeegröße {reg59?der Königin:des Königs}:
 qstr_Royal_Decree|Königlicher Erlass
 qstr_Summary|Zusammenfassung
 qstr_Lords|Lehnsherren
@@ -1495,7 +1495,7 @@ qstr_High|Hoch
 qstr_What_name_would_you_|Welchen Namen möchtet Ihr Eurem Unterschlupf geben?
 qstr_Save_it_as:_{s5}.|Speichern unter: {s5}.
 qstr_You_head_into_town_t|Ihr betretet die Stadt um Gegenstände für Eure Armee auszuwählen...
-qstr_Peningas:_{reg0}|Pennys: {reg0}
+qstr_Peningas:_{reg0}|Pfennige: {reg0}
 qstr_Save_for_Wages:_|Sparen für Sold:
 qstr_Reset|Zurücksetzen
 qstr_Commit|Verpflichten
@@ -1533,7 +1533,7 @@ qstr_Bad|Schlecht
 qstr_Very_Bad|Sehr schlecht
 qstr_Dangerous|Gefährlich
 qstr_Repair:_{reg8}_penin|Repariere: {reg8} Pfennige
-qstr_Type:_{s7}^Wood:_{s6|Typ: {s7}^Holz: {s6}^Verfassung: {s1}^Geschwindigkeit: {reg1} Knoten^Crew: {reg6} Männer^Preis: {reg7} Pfennige^{s2}
+qstr_Type:_{s7}^Wood:_{s6|Typ: {s7}^Holz: {s6}^Zustand: {s1}^Geschwindigkeit: {reg1} Knoten^Crew: {reg6} Männer^Preis: {reg7} Pfennige^{s2}
 qstr_Repair_Ship|Repariere das Schiff
 qstr_Customize_Ship|Passe das Schiff an
 qstr_Sell_Ship|Verkaufe das Schiff
@@ -1672,7 +1672,7 @@ qstr_You_want_to_invite_{|Sie möchten {s9} einladen, da Sie eine Allianz anstre
 qstr_You_want_to_make_pea|Sie möchten Frieden mit {s9} schließen.
 qstr_You_want_to_declare_|Sie möchten {s9} den Krieg erklären. Jemanden den Krieg zu erklären, ohne eine schlechte Beziehung mit demjenigen zu haben, könnte zur Folge haben, dass auch andere Königreiche Euch dann misstrauisch gegenüberstehen. Besonders wenn Euer Königreich einen Waffenstillstand oder Allianz mit dem anderen Königreich pflegt.
 qstr_No_message_chosen.|Keine Nachricht ausgewählt.
-qstr_>_You_are_sending_a_|>Sie senden eine Nachricht an {s9}.^^>Distanz: {reg2} km.^^>Kosten für die Nachricht: {reg3} Pfennige.^^^> {s10}
+qstr_>_You_are_sending_a_|> Ihr sendet eine Nachricht an {s9}^^> Distanz: {reg2} km.^^> Kosten für die Nachricht: {reg3} Pfennige.^^^> {s10}
 qstr_You_have_not_chosen_|Ihr habt keine Nachricht zum senden ausgewählt.
 qstr_This_place_is_alread|Dieser Ort wird bereits von einem anderen Königreich belagert.
 qstr_You_have_good_relati|Ihr pflegt gute Beziehungen mit diesem Königreich. Eure Fürst wird es nicht angreifen.
@@ -1681,8 +1681,8 @@ qstr_You_need_to_improve_|Ihr müsst Eure Beziehung mit diesem Königreich verbe
 qstr_You_already_have_an_|Ihr habt bereits ein Bündnis mit diesem Königreich. Warten Sie, bis das aktuelle Bündnis abgeschlossen ist, bevor Sie Ihren Antrag senden.
 qstr_You_are_already_at_w|Sie sind mit diesem Königreich bereits im Krieg.
 qstr_You_do_not_have_the_n|Ihr habt nicht die benötigten Pfennige um den Boten zu bezahlen.
-qstr_This_is_a_hardcore_m|Dieser Kampf verläuft im Hardcore-Modus.^^Wiederauferstehung ist nur zu Beginn der Runde möglich.
-qstr_Please_wait.^Player_|Bitte warten.^Player erscheint alle wird möglich sein {reg11? übernächste {reg10} Runden: Runde}.
+qstr_This_is_a_hardcore_m|Dieser Kampf verläuft im Hardcore-Modus.^^Respawn ist nur zu Beginn der Runde möglich.
+qstr_Please_wait.^Player_|Bitte warten.^Spieler respawn wird {reg11?nach {reg10} Runden:nächste Runde} möglich sein.
 qstr_Send_message_to_othe|Sendet eine Nachricht an die anderen ADMINs:
 qstr_Broadcast_message_to|Sendet die Nachricht an alle Spieler:
 qstr_*ADMIN*:_{s0}|*ADMIN*: {s0}
@@ -1725,7 +1725,7 @@ qstr__You_can_select_a_cu|(Ihr könnt wählen Sie eine benutzerdefinierte Ziel o
 qstr_Let_me_choose!|Lasst mich wählen!
 qstr_{s0}:|{s0}:
 qstr_Army_size:|Größe der Armee:
-qstr_Marry_a_{reg59?lord:|Heiratet eine/n {reg59?lord:lady}:
+qstr_Marry_a_{reg59?lord:|Heiratet eine{reg59?n Herr: Dame}:
 qstr_Right_to_rule:|Recht zu herrschen:
 qstr_Wealth:|Reichtum:
 qstr__You_need_to_choose^|(Ihr müsst zuerst ein Ziel wählen!)
@@ -1791,7 +1791,7 @@ qstr_You_are_too_exhauste|Sie sind zu erschöpft für die Schlacht-Raserei.
 qstr_The_sound_of_your_si|Durch den Klang eurer Hörner fühlt Ihr Euch stärker!
 qstr_The_sound_of_the_ene|Der Klang der feindlichen Hörner macht Sie unsicher.
 qstr_You_are_no_longer_af|Ihr werdet nicht länger durch den Klang des Horns beeinflusst.
-qstr_{reg1}_ally_troops_w|{reg1} verbündete Truppen werden durch euer Horn beeinflusst!
+qstr_{reg1}_ally_troops_w|{reg1} verbündete Truppen wurden durch Euer Horn beeinflusst!
 qstr_No_ally_troops_were_|Keine verbündeten Truppen werden durch euer Horn beeinflusst.
 qstr_You_need_to_catch_yo|Sie müssen erst wieder zu Atem kommen bevor sie erneut ins Horn blasen können.
 qstr_Your_supplies_are_re|Unsere Vorräte sind aufgefüllt .
@@ -1807,7 +1807,7 @@ qstr_Admin_fixed_shields_|Admin hat die Schilder von allen Spielen repariert
 qstr_Player__{s1}__was_he|Spieler '{s1}' wurde von einem Admin geheilt
 qstr_Admin_refilled_ammo_o|Adim hat die Munition von Spieler '{s1}' aufgefüllt
 qstr_Admin_fixed_shield_o|Admin hat den Schild von Spieler '{s1}' repariert
-qstr_Admin_made_player__{|Admin machte Spieler '{s1}' {reg1?im:} sterblich
+qstr_Admin_made_player__{|Admin machte Spieler '{s1}' {reg1?un:}sterblich
 qstr_Teams_have_been_swit|Die Teams wurden vom Admin getauscht
 qstr_Player__{s1}__was_sw|Spieler '{s1}' wurde von Admin in das andere Team getauscht
 qstr_All_players_were_tur|Alle Spieler wurden vom Admin in Zuschauer verwandelt
@@ -1839,12 +1839,12 @@ qstr_wounded|verwundet
 qstr_{s0}^TOTAL:_{reg3}__|{s0}^GESAMT: {reg3} ({s2})
 qstr_^{s0}|^{s0}
 qstr_nothing|nichts
-qstr_{reg0}_village{reg1?|{reg0} Dorf{reg1?s:}
-qstr_{reg0}_fort{reg1?s:}|{reg0} Burg{reg1?s:}
-qstr_{reg0}_fort{reg1?s:}_|{reg0} Burg{reg1?s:} und {s0}
-qstr_{reg0}_town{reg1?s:}|{reg0} Stadt{reg1?s:}
-qstr_{reg0}_town{reg1?s:}_|{reg0} Stadt{reg1?s:} und {s0}
-qstr_{reg0}_town{reg1?s:}_{|{reg0} Stadt{reg1?s:}, {s0}
+qstr_{reg0}_village{reg1?|{reg0} {reg1?Dörfer:Dorf}
+qstr_{reg0}_fort{reg1?s:}|{reg0} Burg{reg1?en:}
+qstr_{reg0}_fort{reg1?s:}_|{reg0} Burg{reg1?en:} und {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0} {reg1?Städte:Stadt}
+qstr_{reg0}_town{reg1?s:}_|{reg0} {reg1?Städte:Stadt} und {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0} {reg1?Städte:Stadt}, {s0}
 qstr_Your_opponents_are_r|Eure Gegner sind bereit zum Kampf.
 qstr_Try_to_destroy_as_ma|Versucht, so viele Ziele wie möglich zu zerstören. Ihr habt zweieinhalb Minuten.
 qstr_Stay_behind_the_line|Bleibt hinter der Linie auf dem Boden und schießt auf die Ziele. Versucht, keinen Schuss zu vergeuden.
@@ -1853,7 +1853,7 @@ qstr_Garrison_Troops|Garnisonstruppen
 qstr_Camp_Troops|Lagertruppen
 qstr_Refuge_Troops|Schutztruppen
 qstr_Even_though_nearby_{|Obwohl sie in der Nähe sind, kommt {s1} nicht zu Hilfe.
-qstr_Battle_Advantage_=_{|Kampfvorteil = {reg0}.
+qstr_Battle_Advantage_=_{  = 'Kampfvorteil = {reg0}."
 qstr_{s9}_wants_you_to_re|{s9} will, dass Ihr seiner Armee weiter folgt, bis er neue Anweisungen ausgibt.
 qstr__Being_Raided_|(wird überfallen)
 qstr__Looted_|(geplündert)
@@ -1870,26 +1870,26 @@ qstr_A_great_host_of_enem|Eine große Heerschar von Feinden wurde in der Nähe g
 qstr_{s1}_has_been_besieg|{s1} wurde von {s2} von {s3} belagert.
 qstr__{s1}__{s11}:_{s14}|({s1}) {s11}: {s14}
 qstr_{s14}__{s21}_|{s14} ({s21})
-; qstr_Feast_concludes|Feast concludes
+qstr_Feast_concludes|Fest endet
 qstr_{s1}_is_the_new_mars|{s1} ist der neue Marschall von {s2}.
-qstr_You_gain_{reg12}_ren|Ihr gewinnt {reg12} Ruhm.
+qstr_You_gain_{reg12}_ren|Ihr gewinnt {reg12} Ansehen.
 qstr_You_lose_{reg12}_ren|Ihr verliert {reg12} Ansehen.
 qstr_Your_relation_with_{|Euer Verhältnis mit {s1} hat sich verbessert.
 qstr_Your_relation_with_{s|Euer Verhältnis mit {s1} hat sich verschlechtert.
 qstr_You_have_angered_the|Ihr habt sie verärgert.
 qstr_You_have_appeased_th|Ihr habt sie besänftigt.  
 qstr_You_gain_reputation.|Ihr gewinnt Ruf.
-qstr_You_lose_reputation.|Ihr verliert an Ehre.
+qstr_You_lose_reputation.|Ihr verliert Ruf.
 qstr_Now_your_reputation_|Jetzt ist Ihr Ruf {reg1}
 qstr_The_{s1}_has_declare|{s1} hat {s2} den Krieg erklärt.
 qstr_The_{s15}_complies_w|Der {s15} erfüllt seine Allianz mit dem {s17} durch einen Angriff auf die {s16}.
 qstr_The_{s1}_and_the_{s2|{s1} und {s2} haben miteinander Frieden geschlossen.
 qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?war:ist momentan} bei {s3}.
-qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?war:ist} auf dem Weg nach {s3} und {reg3?: im Moment} wohl in der Nähe von {s4}.
-qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?war:ist} auf dem Feld, und {reg4?sie:er} {reg3?war:sollte sein} in der Nähe von {s3}{reg3?: im Moment}.
+qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?war:ist} auf dem Weg nach {s3} und {reg4?sie:er} {reg3?war:sollte im Moment} in der Nähe von {s4}{reg3?: sein}.
+qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?war:ist} auf dem Feld, und {reg4?sie:er} {reg3?war:sollte im Moment} in der Nähe von {s3}{reg3?: sein}.
 qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?war:ist} Gefangener in {s3}.
 qstr_{s2}_{reg3?was:has_b|{s2} {reg3?wurde:wurde} von {reg4?ihren:seinen} Feinden gefangen genommen.
-qstr_I_don_t_know_where_{|Ich weiß nicht, wo {s2} {reg3 war: ist}.
+qstr_I_don_t_know_where_{|Ich weiß nicht, wo {s2} {reg3war:ist}.
 qstr_{s2}_is_attacking_th|{s2} wurden von den Saxen angegriffen.
 qstr_{s2}_is_defending_th|{s2} verteidigt das Königreich von Ragnars Sohn.
 qstr_You_now_owe_{reg2}_p|Ihr schuldet {s1} jetzt {reg2} Pfennige.
@@ -1919,10 +1919,10 @@ qstr_This_quest_has_been_su|Dieser Quest wurde erfolgreich beendet.
 qstr_This_quest_has_faile|Dieser Quest ist fehlgeschlagen. Sprecht mit {s59}, um die Situation zu erklären.
 qstr_This_quest_has_failed|Diese Quest ist fehlgeschlagen.
 qstr_At_the_time_quest_wa|Zur Zeit der Questvergabe:^{s1}
-qstr_The_{s5}_has_a_stren|Der {s5} hat eine Stärke von {} reg1 Männer insgesamt.
-qstr_According_to_the_las|Nach der letzten Zeit sah man {reg1?sie:ihn}, {s1}
-qstr_According_to_the_last|Nach der letzten Zeit gehört, dass Sie über {reg1?sie:ihn}, {s1}
-qstr_The_current_garrison|Die aktuelle Garnision besteht aus {reg5} Männern.^Es hat Nahrungsmittel für {reg6} Tage.
+qstr_The_{s5}_has_a_stren|Der {s5} hat eine Stärke von {reg1} Männern insgesamt.
+qstr_According_to_the_las|Nach dem letzten Mal, als Ihr {reg1?sie:ihn} gesehen habt, {s1}
+qstr_According_to_the_last|Nach dem Letzten, was Ihr über {reg1?sie:ihn} gehört habt, {s1}
+qstr_The_current_garrison|Die aktuelle Garnision besteht aus {reg5} Männern.^Es sollten Nahrungsvorräte für {reg6} Tage vorhanden sein.
 qstr_Very_Poor|Sehr arm
 qstr_Poor|Arm
 qstr_Average|Durchschnitt
@@ -1961,7 +1961,7 @@ qstr_A_brewery_increases_|Eine Brauerei erhöht den Wohlstand und die Loyalität
 qstr_The_prosperity_of_{s|Der Wohlstand von {s2} hat sich von {s3} zu {s4} geändert.
 qstr_{s4}_looks_upset.|{s4} sieht verärgert aus.
 qstr_your_party|Euer Trupp
-qstr_{reg0?One_of_your_pr|{reg0?Einer Eurer Gefangenen,:} {s1} von {s3} ist entflohen!
+qstr_{reg0?One_of_your_pr|{reg0?Einer Eurer Gefangenen, :}{s1} von {s3} ist entflohen!
 qstr_You_have_delivered_{|Ihr habt {reg3} Rinder nach {s1} geliefert.
 qstr_I_hear_that_there_wi|Ich hörte, dass in {s62} bald ein Turnier stattfindet.
 qstr_I_heard_that_one_can|Man sagt, man könne {s62} sehr billig in {s63} erstehen.
@@ -1985,7 +1985,7 @@ qstr_You_asked_me_to_come|Sie fragte mich, Sie hier auf {s33} zu kommen und zu t
 qstr_You_asked_me_to_come_|Sie bat mich, zu kommen und zu patrouillieren um {s33}. Also, hier bin ich, für Feinde suchen.
 qstr_Marshal_has_chosen_{|Marshall hat sich dafür entschieden {s13} Truppen zu erheben.
 qstr_Marshal_Levying_Troo|Marshall Erheben Truppen
-qstr_The_marshal_is_levyi|Der Marshall wird die Erhebung {reg0} Truppen aus dem Zentrum {s10}.
+qstr_The_marshal_is_levyi|Der Marschall erhebt {reg0} Truppen aus Eurem Zentrum {s10}.
 qstr_{s35}_of_the_{s34}|{s35} von {s34}
 qstr_{s37}_of_the_{s36}|{s37} von {s36}
 qstr_The_brewery_in_{s1}_|Die Brauerei in {s1} fügt seinen Wohlstand.
@@ -2003,7 +2003,7 @@ qstr_Meet_the_leader.|Trefft den Anführer.
 qstr_Buy_supplies.|Kauft Vorräte.
 qstr_Attack_the_bandits.|Greift die Banditen an.
 qstr_Wait_here_for_some_t|Hier für einige Zeit warten.
-qstr_{reg5?Continue_colle|{reg5?Treibt weiter Steuern ein:Treibt Steuern ein}, die {s1} zustehen.
+qstr_{reg5?Continue_colle|{reg5?Treibt weiter Steuern ein:Treibt Steuern ein}.
 qstr_Train_the_peasants.|Bildet die Bauern aus.
 qstr_Take_an_action.|Wählen Sie eine Aktion aus
 qstr_Leave...|Verlassen ...
@@ -2022,7 +2022,7 @@ qstr_Visit_your_farmstead|Besucht Euren Bauernhof.
 qstr_Attempt_to_visit_a_l|Versucht, eine Dame zu besuchen
 qstr_Trade_with_locals.|Geht zum Marktplatz.
 qstr_Travel_to_another_Po|Reist zu einem fernen Hafen.
-qstr_Manage_this_{reg0?to|Verwaltet diese {reg0?town:fort}.
+qstr_Manage_this_{reg0?to|Verwaltet diese {reg0?Stadt:Burg}.
 qstr_Move_your_court_here|Verlagert Euren Hof hierher.
 qstr_Manage_the_garrison.|Verwaltet die Garnison.
 qstr___{reg1}_peningas_pe|({reg1} Pfennige pro Nacht)
@@ -2037,15 +2037,15 @@ qstr_wedge|Keil
 qstr_square|Viereck
 qstr_up|auf
 qstr_Division_{reg1}_{s2}|Abteilung {reg1} {s2} bildet {s1}.
-qstr_Not_enough_troops_in|Nicht genügend Truppen in Abteilung {reg1} {s2} um zu bilden {s1}.
-qstr_Division_{reg1}_{s2}_|Abteilung {reg1} {s2} ist eine {s3} Abteilung und kann nicht bilden {s1}.
+qstr_Not_enough_troops_in|Nicht genügend Truppen in Abteilung {reg1} {s2} um {s1} zu bilden.
+qstr_Division_{reg1}_{s2}_|Abteilung {reg1} {s2} ist eine {s3} Abteilung und kann nicht {s1} bilden.
 qstr_{s1}:_infantry_forma|{s1}: Infanterie Formation aufgelöst.
 qstr_{s1}:_archer_formati|{s1}: Bogenschützen Formation aufgelöst.
 qstr_{s1}:_skirmisher_for|{s1}: Scharmützler Formation aufgelöst.
 qstr_{s1}:_cavalry_format|{s1}: Kavallerie Formation aufgelöst.
 qstr_{s1}:_formation_disa|{s1}: Formation aufgelöst.
 qstr_Cavalry_formation_di|Kavallerie Formation aufgelöst.
-qstr_The_placement_of_{s1|Die Platzierung von {s1} Abteilung {reg0} wurde gespeichert.
+qstr_The_placement_of_{s1|Die Platzierung der {s1} Abteilung {reg0} wurde gespeichert.
 qstr_The_placement_of_{s1}|Die Platzierung der {s1} Abteilung {reg0} wurde auf den Standardwert zurückgesetzt.
 qstr_Your_party_s_tactica|Taktisches Geschick Ihrer Gruppe begrenzt, wie weit Sie Ihre Truppen aufstellen können!
 qstr_...and_attack_enemy_|...und Angriff feindliche {s1} Abteilung!
@@ -2151,7 +2151,7 @@ qstr_Vile|Abscheulich
 qstr_Notorious|berüchtigt
 qstr_Unkind|unfreundlich
 qstr_Unknown|unbekannt
-qstr_Kind|Art
+qstr_Kind|Gütig
 qstr_Admirable|Bewundernswert
 qstr_Heroic|heroisch\n
 qstr_Inventory|Inventar
@@ -2159,8 +2159,8 @@ qstr_Show_stats|Statistik anzeigen
 qstr_Show_item_details__|Zeige Artikeldetails 
 qstr_Troop_detail|Truppen Deatils
 qstr_{s1}^|{s1}^
-qstr_{s1}Level:_{reg1}^|{S1} Level: {REG1} ^
-qstr_{s1}Hit_Points:_{reg|{S1} Trefferpunkte : {REG1}
+qstr_{s1}Level:_{reg1}^|{s1}Stufe: {reg1}^
+qstr_{s1}Hit_Points:_{reg|{s1}Trefferpunkte: {reg1}
 qstr_{s1}Atributes:_^___S|{S1} Attribute: ^ Stärke: ^
 qstr_{s2}^{reg1}^|{s2}^{reg1}^
 qstr_{s1}___Agility:|{s1} Beweglichkeit:
@@ -2214,17 +2214,17 @@ qstr_You_come_from_far_aw|Ihr kommt von weit her, mit dem Ziel den Norden Europa
 qstr_You_are_Scoto_Pict|Ihr seid ein Pikte,
 qstr_a_descendant_of_an_a|ein Nachfahre eines im Norden Britanniens alteingesessenen Volkes von unklarer Herkunft, oder der von gälischen Eindringlingen, deren Blut sich mit ihnen vermischte.
 qstr_You_are_Briton|Ihr seid ein Britannier,
-qstr_a_member_of_the_Celt|ein Mitglied des keltischen Volkes, welches Britannien, schon lange vor der römischen Invasion, bevölkerte.
+qstr_a_member_of_the_Celt|ein Mitglied des keltischen Volkes, welches Britannien lange vor der römischen Invasion bevölkerte.
 qstr_You_are_Goidel|Ihr seid ein Gäle,
 qstr_a_member_of_Celtic_p|ein Mitglied des keltischen Volkes, welches die Insel Eriu, Römer nennen sie auch Hibernia, bevölkert.
 qstr_You_are_Frisian.|Ihr seid ein Friese.
-qstr_You_come_from_the_di|Ihr kommt vom eingedeichten Land der Friesen am Nordrand Kontinentaleuropas.
+qstr_You_come_from_the_di|Ihr kommt aus dem eingedeichten Land der Friesen am Nordrand Kontinentaleuropas.
 qstr_You_are_a_Norseman|Ihr seid ein Nordmann,
 qstr_a_member_of_the_paga|ein Mitglied der heidnischen skandinavischen Völker, die die Küsten Europas heimsuchen.
 qstr_You_are_Anglo_Saxon|Ihr seid ein Angelsachse,
 qstr_a_descendant_of_a_Ge|ein Nachkomme eines germanischen Stammes, der vor langer Zeit in Sleswick an der Elbmündung beheimatet war, bevor er vor 400 Jahren nach Britannien übersetzte. 
 qstr_an_impoverished_nobl|eines verarmten Adeligen
-qstr_You_came_into_this_w|Eure Familie verlor bereits vor Eurer Geburt an Einfluss und bald darauf auch Ihre Ländereien. Lediglich das Haus in dem Ihr aufwuchst verblieb von den einstigen Besitzungen. Doch trotz Ihrer Nöte gaben eure Eltern Euch eine gute Ausbildung, die Euch von Kindheit an darauf vorbereite, als Vasall eines Königs zu dienen.
+qstr_You_came_into_this_w|Ihr kamt als {reg59?Tochter:Sohn} einer an Einfluss verlierenden Familie zur Welt und bald verlor sie auch Ihre Ländereien. Lediglich das Haus in dem Ihr aufwuchst verblieb von den einstigen Besitzungen. Doch trotz Ihrer Nöte gaben eure Eltern Euch eine gute Ausbildung, die Euch von Kindheit an darauf vorbereite, als Vasall eines Königs zu dienen.
 qstr_a_travelling_merchan|eines reisenden Händlers
 qstr_You_were_always_movi|Sie wurden immer von einem Ort zum anderen zu bewegen sucht einen Gewinn zu machen. Obwohl die Eltern als die meisten reicheren waren und gab Ihnen die beste Ausbildung konnte sie, fand man wenig Chancen Freunde auf der Straße zu machen. Wenn Sie einen Freund machen nicht gelungen zu sein, waren Sie für die Chance, immer froh, ihnen etwas zu verkaufen.
 qstr_a_craftsman|eines Handwerkers
@@ -2276,7 +2276,7 @@ qstr_You_start_as_leader_|Sie starten als Anführer einer Fraktion. Lang lebe de
 qstr_STAMINA_>_Realism_Fe|AUSDAUER > Realismus Funktion.
 qstr_This_feature_affects|Diese Funktion betrifft den Spieler und alle anderen Spielcharakter.^Die Ausdauer wird berechnet aus der Lebensenergie und der Athletik Fähigkeit und bestimmt die physische Belastbarkeit in der Schlacht. Wenn die Ausdauer verbraucht ist, ist man nicht mehr in der Lage zu rennen und der Waffenschaden wird halbiert. 
 qstr_ARMOR_PENALTY_>_Real|Rüstungsdurchdringung > Realismus Funktion
-qstr_This_feature_affects_|Eure Fertigkeitspunkte werden verschlechtert, wenn Ihr schwere Rüstung tragt. Diese Fertigkeit bringt bessere balance ins Spiel, wie ,dass leichte Truppen wichtiger werden.
+qstr_This_feature_affects_|Eure Fertigkeitspunkte werden verschlechtert, wenn Ihr schwere Rüstung tragt. Diese Fertigkeit ändert die Balance des Spiels, so dass leichte Truppen wichtiger werden.
 qstr_EASY_RECRUITMENT_>_B|EINFACHE REKRUTIERUNG > Beginner-Feature
 qstr_When_you_ask_permiss|Wenn Sie in den Dörfern rekrutieren, ist dies immer Kostenlos. Nicht empfohlen für Spieler, die gerne in Rollenspiele eintauchen.
 qstr_RESTING_MORALE_>_Rea|Erholende Moral > Realismus Funktion
@@ -2288,7 +2288,7 @@ qstr_Disable_the_3D_view_i|Deaktiviert die 3D-Ansicht in den Menüs um die Ladez
 qstr_SHIELD_BASH_>_Realis|Schildschlag > Realismus Funktion
 qstr_Player_and_AI_troops|Spieler und KI-Truppen werden in der Lage sein, Feinde mit ihren Schilden zu schlagen.
 qstr_...Anno_Domini_868..|...Anno Domini 868...
-qstr_My_name_is_Beda_the_|Mein Name ist Beda die Alte, und falls Ihr in diese Welt eintauchen wollt rate ich Euch gut zuzuhören...^^Britannien. Die Briten nennen es Ynys Prydein, die Gälen Alba und die Angeln und Sachsen gaben dem Land, dass sie eroberten den Namen Englaland. Diese Inseln sind reich und schön...und umstritten. Deshalb ist das Land zur Zeit im Krieg und respektiert nur das Gesetz der Schwerter und Speere. Reiche werden geboren und fallen, Könige sterben auf dem Schlachtfeld. Frauen verwitwen und Pferde tragen Männer anstatt Heu. Die Schreie der Krieger erfüllen die Luft und das Land liegt brach von den darüber hinweg rennenden Horden. Wie in vergangenen Zeiten des Streites erheben sich Feinde, tödlich und in Harnische gekleidet. Raben krächzen, Wölfe heulen, Speere klingen und Schilde antworten.^^Im Norden zerfällt das Reich der Angeln unter dem Ansturm der Dänen. Die Söhne des legendären Vikingerfürsts Ragnar, die neuen Herren dieses Landes, beherrschen nun Bernaccia, Deira und Elmet, ein Land, das als Northhymbre bekannt ist.^^Im Süden bereiten sich die Saxen von West Seaxe, angeführt von dem Brytenwalda Aethelred und seinem Bruder Aelfred auf den Krieg vor. Sie wissen genau, dass am anderen Ende des Meeres noch viele Weitere Dänen in den Vorbereitungen sind das Meer zu überqueren um Ruhm und Gold zu erlangen.^^ Die, durch jahrzehntelange Expansion an den entferntesten Rand ihres Gebiets gedrängten einheimischen Briten, werden nun von den Nordmännern an ihren Küsten bedroht. Sie kämpfen verzweifelt um nicht das Wenige zu verlieren, das ihnen geblieben ist und träumen von von einem König der sie vereint und die Invasoren aus dem Land jagt -- einem neuen König Arthur. Die Wirklichkeit ist, das ihre Erbfolgegesetze dafür sorgen, dass das Land der einzelnen Fürsten klein bleibt und es somit schwer ist sich zu vereinen. Nichtsdestotrotz hat Rhodri "der Große" von Gwynedd begonnen, seinen Anspruch auf den Rest von Wales zu erheben.^^In den Landen hoch im Norden haben norwegische Invasoren vor dreißig Jahren die alten gälischen und pictischen Adeligen in einem einzigen großen Kampf aus dem Land gejagt. Nach dieser Heimsuchung versuchte der Gäle Cinead McAlpin ein neues Königreich aus diesen zwei Völkern zu schmieden, doch sie hatten sich in die Berge zurückgezogen.^^Hinter dem Meer, in Irland, bezeichnet sich Aed "der fröhliche Krieger" mac Niall of Aileach als Großkönig in Temair, nachdem er seine Feinde überrannt hat. Sein Titel ist nie von der anderen Hälfte der Ui Neill akzeptiert worden, und die Kämpfe um das Land gehen munter weiter. Währenddessen haben sowohl dänische als auch norwegische Vikinger dutzende von Festungen entlang der Küsten erbaut. Sie nutzen die Flüsse um das gälische Hinterland zu plündern, doch sie sind viel zu unsicher, um sich dem Konflikt anzuschließen -- in jeder Hinsicht.^^^Die Welt ist im Chaos, und Chaos bedeutet Krieg.
+qstr_My_name_is_Beda_the_|Mein Name ist Beda die Alte, und falls Ihr in diese Welt eintauchen wollt rate ich Euch gut zuzuhören...^^Britannien. Die Briten nennen es Ynys Prydein, die Gälen Alba und die Angeln und Sachsen gaben dem Land, dass sie eroberten den Namen Englaland. Diese Inseln sind reich und schön...und umstritten. Deshalb ist das Land zur Zeit im Krieg und respektiert nur das Gesetz der Schwerter und Speere. Reiche werden geboren und fallen, Könige sterben auf dem Schlachtfeld. Frauen verwitwen und Pferde tragen Männer anstatt Heu. Die Schreie der Krieger erfüllen die Luft und das Land liegt brach von den darüber hinweg rennenden Horden. Wie in vergangenen Zeiten des Streites erheben sich Feinde, tödlich und in Harnische gekleidet. Raben krächzen, Wölfe heulen, Speere klingen und Schilde antworten.^^Im Norden zerfällt das Reich der Angeln unter dem Ansturm der Dänen. Die Söhne des legendären Vikingerfürsts Ragnar, die neuen Herren dieses Landes, beherrschen nun Bernaccia, Deira und Elmet, ein Land, das als Northhymbre bekannt ist.^^Im Süden bereiten sich die Saxen von West Seaxe, angeführt von dem Brytenwalda Aethelred und seinem Bruder Aelfred auf den Krieg vor. Sie wissen genau, dass am anderen Ende des Meeres noch viele Weitere Dänen in den Vorbereitungen sind das Meer zu überqueren um Ruhm und Gold zu erlangen.^^ Die, durch jahrzehntelange Expansion an den entferntesten Rand ihres Gebiets gedrängten einheimischen Briten, werden nun von den Nordmännern an ihren Küsten bedroht. Sie kämpfen verzweifelt um nicht das Wenige zu verlieren, das ihnen geblieben ist und träumen von von einem König der sie vereint und die Invasoren aus dem Land jagt -- einem neuen König Arthur. Die Wirklichkeit ist, das ihre Erbfolgegesetze dafür sorgen, dass das Land der einzelnen Fürsten klein bleibt und es somit schwer ist sich zu vereinen. Nichtsdestotrotz hat Rhodri 'der Große' von Gwynedd begonnen, seinen Anspruch auf den Rest von Wales zu erheben.^^In den Landen hoch im Norden haben norwegische Invasoren vor dreißig Jahren die alten gälischen und pictischen Adeligen in einem einzigen großen Kampf aus dem Land gejagt. Nach dieser Heimsuchung versuchte der Gäle Cinead McAlpin ein neues Königreich aus diesen zwei Völkern zu schmieden, doch sie hatten sich in die Berge zurückgezogen.^^Hinter dem Meer, in Irland, bezeichnet sich Aed 'der fröhliche Krieger' mac Niall of Aileach als Großkönig in Temair, nachdem er seine Feinde überrannt hat. Sein Titel ist nie von der anderen Hälfte der Ui Neill akzeptiert worden, und die Kämpfe um das Land gehen munter weiter. Währenddessen haben sowohl dänische als auch norwegische Vikinger dutzende von Festungen entlang der Küsten erbaut. Sie nutzen die Flüsse um das gälische Hinterland zu plündern, doch sie sind viel zu unsicher, um sich dem Konflikt anzuschließen -- in jeder Hinsicht.^^^Die Welt ist im Chaos, und Chaos bedeutet Krieg.
 qstr_BEDA_CHRONICLE^^{s2}|Beda Chronik^^{s2}^^ {s3}
 qstr_{s1}On_head.___{reg2|{s1}Am Kopf. (-{reg2} Intelligenz)^{s2}^^
 qstr_{s1}On_face.___{reg2|{s1}Im Gesicht. (-{reg2} Charisma)^{s2}^^
@@ -2305,8 +2305,8 @@ qstr_{s1}On_limbs.___{reg1|{s1}An den Gliedmaßen. (-{reg1} Beweglichkeit)^^
 qstr_Scars:^^none|Narben:^^keine
 qstr_Scars:^^{s1}These_in|Narben:^^{s1}Diese Verletzungen wurden permanent. Ihr könnt ab jetzt nicht mehr geheilt werden. 
 qstr_Lifetime_wounds:_{re|Lebenslange Wunden: {reg1} bisher.
-qstr_Current_party_size_l|Momentane Truppgrößenbegrenzung ist {reg5}.^Momentane Truppgröße Modifikatoren:^^Grundgröße: +10^Anführerschaft: {s2}{reg1}^Charisma: {s3}{reg2}^Ansehen: {s4}{reg3}^GESAMT: {reg5}
-qstr_^Religious_Differenc|^religiöse Differenzen: -{reg7}
+qstr_Current_party_size_l|Momentane Armeegrößenbegrenzung: {reg0}.^^Ansehen: {reg34}^Kombinierte Führungsstärke: {s2}{reg32}^Charisma: {s3}{reg33}^Lehen: {s6}{reg35}^Schiffe (nur auf See): {s7}{reg2}^^{playername} kann {reg36} Truppen vollständig verwalten.^{reg59?Sie:Er} hat momentan {reg37}.
+qstr_^Religious_Differenc|^Religiöse Differenzen: -{reg7}
 qstr_^No_food:___{reg7}|^Keine Lebensmittel: -{reg7}
 qstr_^Wage_debt:___{reg7}|^Geschuldeter Sold: -{reg7}
 ; qstr_Currently_falling_fr|Currently falling from: +
@@ -2321,7 +2321,7 @@ qstr_{s17}_^_{s18}|{s17} ^ {s18}
 qstr_{s15}_^_{s16}|{s15} ^ {s16}
 qstr_{s22}^^Friends:_^{s8|{s22}^^Freunde: ^{s8} ^^Feinde: ^{s6}^{s19}
 qstr_^^Your_estates_are:_|^^Ihre Ländereien sind: ^{s18}^{s19}
-; qstr_Mercenary_employed_b|Mercenary employed by the {s18}.^{s19}
+qstr_Mercenary_employed_b|Söldner angestellt am {s18}.^{s19}
 qstr_Report:_^^_{s19}|Bericht: ^^ {s19}
 qstr_On_loan|Leihweise,
 ; qstr_is_{s16}_your_choice|is {s16} your choice of companions, {s17} your style of leadership, and {s18} the general state of affairs. Morale is {reg0}
@@ -2360,7 +2360,7 @@ qstr_You_are_in_the_kingdom_|Ihr seid im Königreich Friesland.^^Friesland ist e
 qstr_You_are_in_the_kingdom_o|Ihr seid im Königreich WEST SEAXE.^^West Seaxe ist das westlichste Königreich der Saxen in Britannien. Vor einigen Jahrzehnten eroberte König Egbert Mierce und sicherte sich damit seine Macht über das Königreich Northhymbre. Er wurde dadurch zum Brytenwalda, oder Hochkönig von Britannien. Diese Machtfülle war von kurzer Dauer, doch die Expansion von West Seaxe nach Südengland war von Dauer. Die folgenden Jahre erlebte Egbert den Ansturm der Dänen auf West Seaxe. Die Invasoren wurden vernichtend von Egberts Sohn und Thronfolger, König Aethelwulf, geschlagen. Dieser Sieg zögerte weitere Handlungen der Dänen fünfzehn Jahre heraus, doch die Überfälle auf West Seaxe gingen weiter. Aethelwulf wurde von jedem seiner vier Söhne beerbt, einer nach dem anderen: Aethelbald, Aethelbert, Aethelred, der jetzige König, und Aelfred, derzeit Kleinkönig.
 qstr_You_are_in_the_kingdom_of|Ihr seid im Königreich EAST ENGLE.^^Das Königreich East Engle ist ein kleines, unabhängiges Reich im entferntesten Osten von Britannien und wurde früher als viele anderen Regionen von den Angeln besiedelt. Es wurde von der Dynastie der Wuffinger beherrscht, doch anschließend von denen von Mierce. Die Vikinger verwüsteten East Engle, wurden jedoch in späteren Jahren von den Saxen in zwei großen Schlachten besiegt. Danach folgte eine vergleichsweise friedliche Periode in der die Nordmänner nur ein einziges Mal angriffen.
 qstr_You_are_in_the_kingdom_of_|Ihr seid im Königreich MIERCE.^^Mierce ist eines der stärksten Königreiche der Angelsaxen, um den Fluss Trent und seine Zuflüsse gelegen. Ursprünglich sollte die Grenzregione, Midlands genannt, zwischen dem Gebiet der Angelsaxen und dem der keltischen Stämme, die sie nach westen vertrieben hatten, verlaufen. Von der Hauptstadt Tomtun aus beherschten die Könige von Mierce drei Jahrzehnte die Angelsäxischen Reiche. Diese Zeit ist als Miercische Vorherschaft bekannt. Jedoch wurde, durch die Eroberung von Northhymbre durch die große Heiden-Armee, die Machtstellung von Mierce in Frage gestellt.
-qstr_You_are_in_the_kingdom_of_N|Ihr seid im Königreich NORTHHYMBRE:^^Northhymbre ist das nördlichste angelsäxische Königreich. Es erstreckte sich einst vom Süden von Alban bis zum Norden des Flusses Humber. Ursprünglich war es ein Zusammenschluss der Königreiche Bernaccia und Deira, expandierte jedoch nach norden und westen und griff auf die Gebiete der keltischen Reiche über. Die Brüder Halfdan "Weißhemd" Ragnarsson und Ivar "der Knochenlose" eroberten Northhymbre und beriefen einen angelsäxischen Adeligen, Ecgberth, als Marionettenkönig.
+qstr_You_are_in_the_kingdom_of_N|Ihr seid im Königreich NORTHHYMBRE:^^Northhymbre ist das nördlichste angelsäxische Königreich. Es erstreckte sich einst vom Süden von Alban bis zum Norden des Flusses Humber. Ursprünglich war es ein Zusammenschluss der Königreiche Bernaccia und Deira, expandierte jedoch nach norden und westen und griff auf die Gebiete der keltischen Reiche über. Die Brüder Halfdan 'Weißhemd' Ragnarsson und Ivar "der Knochenlose" eroberten Northhymbre und beriefen einen angelsäxischen Adeligen, Ecgberth, als Marionettenkönig.
 qstr_You_are_in_the_kingdom_of_G|Ihr seid im Königreich GWYNEDD.^^Das Königreich Gwinedd ist einer der erfolgreichen Reiche das nach dem Fall des römischen Reiches und der Ankunft der Saxen entstanden ist. Im nordwesten von Wales gelegen wurden die Könige von Gwynedd als 'Könige der Briten' bezeichnet bevor sie ihre Macht in Bürgerkriegen und Invasionen verloren. Die Briten von Gwynedd sind sich noch immer ihrer römisch-britischen Minderheit bewusst und ihre Könige führen die alte römisch-imperiale Regel fort, das Christentum und Latein zu verbreiten. Römisches Wissen ist fast gänzlich vergessen und die Menschen aus Gwynedd tauschten es gegen eine militaristische Stämmegesellschaft. Das Königreich Gwynedd expandierte unter dem Streben Rhodri des Großen.
 qstr_You_are_in_the_kingdom_of_B|Ihr seid im Königreich BRYCHEINIOG.^^Brycheiniog ist ein kleines, unabhängiges Königreich in Südwales. Meist fungiert es als Puffer zwischen England im Osten und den mächtigen britischen Reichen im Westen. Das Königreich wurde im Grunde von irischen Räubern, sehr wahrscheinlich den Ui Liathain deren Macht groß in Wales war, bis sie von den Söhnen Cuneddas reduziert wurde, gegründet. Derzeit wird das Reich von einer Fehde mit ihren Nachbarn Glywyssing, in Atem gehalten.
 qstr_You_are_in_the_kingdom_of_A|Ihr seid im Königreich ALT CLUT.^^Alt Clut ist ein britisches Königreich nordwestlich der Angelsäxischen Reiche und südlich von Alban, entlang des Flusses Clyde. Es entstand nach dem Fall des Römischen Reiches um die Hauptstadt Alt Clut. Mit seinem hohen, befestigten Fels (Alt), wiederstand dieses Reich dem Angriff der Dal Riata und drei Angriffen der Picten. Ein Bündnis von Picten und Northumbriaern nahm Alt Clut schließlich nach mehrjähriger Belagerung ein. Trotzdem konnten die Männer von Alt Clut vor etwa 18 Jahren die pictische Stadt Dunblane niederbrennen.
@@ -2386,8 +2386,8 @@ qstr_Note:_You_re_close_t|Beachtet: Ihr seid in der Nähe einer feindlichen Sied
 qstr_{s16}^^_____________|{s16}^^-------------------^^Lager Info:^^^{s6}^^{s7}^^Umliegendes Gelände: {s2}^^Kundschafter: {s5}^^Plünderer: {s3}^^Befestigtes Lager: {s4}^^{s11}
 qstr_Camp_Info:^^^^Positi|Lager-Info:^^^^Position: {s2}^^Ihr segelt auf eurem Boot.^^^^Schiffsmanagement:^^Wenn Ihr in der Nähe einer Küste seid, könnt Ihr die nächste Anlegestelle suchen, mit einem rechten Mausklick auf Eure Gruppe.
 qstr_Camp_Info:^^^^Positio|Lagerinfo:^^^^Position: {s2}^^Ihr fahrt auf eurem Boot.^^^^^Schiffsmanagement:^^In einer Seeschlacht könnt ihr einen 'Haltet die Position'- oder 'Vorrücken'-Befehl an eure Schiffe geben, indem ihr Sie an die Truppklasse Neun gebt, wie ihr in einer Feldschlacht die Befehle an die Truppklasse gebt. Die ersten Truppen auf eurer Armeeliste werden zusammen mit euch auf dem Flaggschiff sein. Die übrigen Truppen sind in den folgenden Schiffen. Ihr könnt euer Flaggschiff in einem Hafen oder bei einer Rast auf See wechseln. Wenn Ihr in der Nähe einer Küste seid, könnt ihr auch eure Flotte aufteilen während einer Rast auf See oder einen Landeplatz suchen mit einem Rechtsklick auf eure Gruppe.
-qstr_Priests_in_followers|Priester in Gefolgsleute Partei: {REG1} ^ Chirurgie Bonus: {reg 2} (max 3)
-qstr_Women_in_followers__|Frauen im Tross: {reg1}^Wunden Behandlungs Bonus: {reg2} (max. 3)^^Hinweis: jeweils 10 Frauen (als Flüchtlinge, Lagerfrauen, Soldatenfrauen und Bauern) geben +1 Moral alle 72 Stunden. Maximal +10 Moral.
+qstr_Priests_in_followers|Priester im Tross: {reg1}^Chirurgiebonus: {reg2} (max 3)
+qstr_Women_in_followers__|Frauen im Tross: {reg1}^Wunden Behandlungs Bonus: {reg2} (max. 3)^^Hinweis: Jeweils 10 Frauen (als Flüchtlinge, Lagerfrauen, Soldatenfrauen und Bauern) geben +1 Moral alle 72 Stunden. Maximal +10 Moral.
 qstr_^^^^Followers:^^{s2}|^^^Anhänger:^^{s2}^^--------------^^{s3}
 qstr_{s5}_has_been_defeat|{s5} wurde besiegt!
 qstr_This_lord_is_a_priso|Dieser Lord ist ein Gefangener von {s10}
@@ -2398,15 +2398,15 @@ qstr_{s40}._His_love_inte|{s40}. Seine Liebes Interessen sind Berichten zufolge 
 ; qstr_His_love_interests_a|His love interests are reported to be {s37}.
 ; qstr_{s40}._His_love_inter|{s40}. His love interest is reported to be {s37}.
 ; qstr_His_love_interest_is|His love interest is reported to be {s37}.
-qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^Königreich: {s3}^Beziehung: {reg4}^Zentrum: {reg5}^{s5}^{s47}
+qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^Königreich: {s3}^Beziehung: {reg4}^Zentren: {reg5}^{s5}^{s47}
 qstr_Army_size:_{reg26}|Armeegröße: {reg26}
 ; qstr_{s40}._His_love_intere|{s40}. His love interest is {s39}.
 qstr_{s40}._He_is_betroth|{s40}. Er ist verlobt mit {s39}.
 qstr_{s1}^^{s2}_of_the_{s|{s1}^^{s2} des {S3}^Beziehung {reg3}^letzter Besuch vor {reg4} Tagen
 qstr_{reg2}_warriors_acco|{reg2} Krieger begleiten den König.
 qstr_{s2}^^{reg2}_warrior|{s2}^^{reg2} Krieger dienen verschiedenen Fürsten des Reiches.
-qstr_{s2}^^{reg2}_warriors|{s2}^^{reg2} Krieger Garnison unserer Städte.
-qstr_{s2}^^{reg2}_warriors_|{s2}^^{reg2} Krieger Garnison unserer Festungen.
+qstr_{s2}^^{reg2}_warriors|{s2}^^{reg2} Krieger bewachen unsere Städte.
+qstr_{s2}^^{reg2}_warriors_|{s2}^^{reg2} Krieger bewachen unsere Festungen.
 qstr_Kingdom_Armies_Repor|Königreich Armeen Bericht:^Land Abgabe nicht inbegriffen^^^{s2}
 qstr_{s10}Current_fleet:{|{s10}aktuelle Flotte:{s0}^^
 qstr_{s10}Refuge:{s0}^^|{s10}Unterschlupf:{s0}^^
@@ -2414,14 +2414,14 @@ qstr_{s10}Port_of_{s9}:{s|{s10}Hafen von {s9}:{s0}^^
 qstr_{s10}Landed_ships_ne|{s10}gelandete Schiffe neben {s9}:{s0}^^
 qstr_You_don_t_own_any_sh|Ihr besitzt keine Schiffe.
 qstr_Your_ships_with_ship|Ihre Schiffe mit Schiffstyp, Name, Aktueller Zustand und Art des Holzes:^^{s10}
-qstr_Rents_and_taxes_from|Mieten und Steuern von der {reg59?Königin:Könige} der Betriebe: {reg0} Pennys.
-qstr_{s2}^Taxes_from_king|{s2}^Steuern von Reichsfürsten: {reg0} Pennys.
-qstr_{s2}^^Kingdom_Total_|{s2}^^Königreich Gesamteinkommen: {reg0} Pennys.
-qstr_Payroll_for_the_{reg|Lohn-und Gehaltsabrechnung für die {reg59? Königin:König} der Armee: {reg1} Pennys.
-qstr_{s3}^Payroll_for_gar|{s3}^Personalabrechnung Garnisonen: {reg1} Pennys.
-qstr_{s3}^^Kingdom_Total_|{s3}^^Gesamtausgaben Königreich: {reg1} Pennys.
-qstr_Kingdom_Economy_Repo|Königreich Wirtschaftsbericht:^^Einkommen:^steuerliche Verluste sind variabel^^{s2}^^^Kosten:^diese Werte können variieren aufgrund von Veranstaltungen oder außerordentlichen Kosten.^^{s3}^^^das Ergebnis der Konten des Reiches ist: {reg0} Pennys
-qstr_{s4}^^{s2}^Relation:|{s4}^^{s2}^Beziehung: {s3}^Wohlstand: {s50}^Mieten: {reg0}^Tarife: {reg1}
+qstr_Rents_and_taxes_from|Mieten und Steuern der Besitztümer {reg59?der Königin:des Königs}: {reg0} Pfennige.
+qstr_{s2}^Taxes_from_king|{s2}^Steuern von Reichsfürsten: {reg0} Pfennige.
+qstr_{s2}^^Kingdom_Total_|{s2}^^Gesamteinkommen Königreich: {reg0} Pfennige.
+qstr_Payroll_for_the_{reg|Soldliste der Armee {reg59?der Königin:des Königs}: {reg1} Pfennige.
+qstr_{s3}^Payroll_for_gar|{s3}^Personalabrechnung Garnisonen: {reg1} Pfennige.
+qstr_{s3}^^Kingdom_Total_|{s3}^^Gesamtausgaben Königreich: {reg1} Pfennige.
+qstr_Kingdom_Economy_Repo|Königreich Wirtschaftsbericht:^^Einkommen:^Steuerliche Verluste sind variabel^^{s2}^^^^Kosten:^Diese Werte können variieren aufgrund von Veranstaltungen oder außerordentlichen Kosten.^^{s3}^^^^Das Ergebnis der Reichskonten ist: {reg0} Pfennige
+qstr_{s4}^^{s2}^Relation:|{s4}^^{s2}^Beziehung: {s3}^Wohlstand: {s50}^Mieten: {reg0}^Zölle: {reg1}
 qstr_{s5}^^{s2}^Relation:|{s5}^^{s2}^Beziehung: {s3}^Wohlstand: {s50}^Mieten: {reg0}
 qstr_{s2}^No_information.|{s2}^keine Informationen. Dieses Dorf wurde von Banditen besetzt.
 qstr_{s6}^^{s2}|{s6}^^{s2}
@@ -2441,7 +2441,7 @@ qstr_My_name_is_Beda_the_O|Ich bin Beda der Alte, und dies sind meine Aufzeichnu
 qstr_They_weren_t_good_ti|Es waren keine guten Zeiten. Anno Domini 861 starb mein Meister, Bischof Swithunus. Bevor er starb, erzählte er mir, dass das Ende der Zeit kommen würde.^^In 865, wird Cent von einer heidnischen Armee angegriffen. Männer aus Cent schaffen es, sie zu besänftigen, aber unter dem Vorwand des Friedens und der Verlockung des Geldes, und die Eindringlinge plünderten das Land trotzdem.^^Noch im selben Jahr in Ost Angeln, machte eine große heidnische Armee Winterquartier. Im folgenden Sommer reitet König Eadmund schnell dorthin, begierig darauf sie zu sehen. Dies war kein Stoßtrupp; Es wurde bekannt als die große heidnische Armee. Tausende von Männern, angeführt von den Söhnen von Ragnar, waren gekommen, um zu bleiben.^^867, das Ende der Zeit begann, wie Swithunus es vorausgesagt hatte. Die große Heidnische Armee hat die Mündung des Flusses Humbre Eoferwic überquert. Sie eroberten die Stadt, und es gab ein riesiges Schlachten von Northumbrians. Beide Könige, Osbert und Aella, wurden getötet. So, jetzt herrschen die Dänen im Norden, sie haben uns ihre Gesetze und heidnischen Wege auferlegt... Wo ist Gott, wenn man ihn braucht?^^Im Süden, wurde die Friesische Küste von Wikingern verwüstet. Handelsschiffe flohen Richtung Norden, um den Schutz von West Sussex zu suchen.^^In Irland und Wales, wurden die Heiden jeden Tag immer mächtiger. Viele sagten, dass die Dal Riata und das Land der Pikten bald nicht mehr wäre...
 qstr_BEDA_CHRONICLE^^{s2}^|BEDA Chronik^^{s2}^^{s3}
 qstr_The_news_coming_from|Die Neuigkeiten aus dem Norden waren verstörend. Ragnars Söhne haben Truppen gesammelt um auf Marcia vorzurücken. Es war eine große Armee; nichtsdestotrotz werden die Verstärkungen aus Dänemark erwartet. Möge Gott uns beschützen. 
-qstr_Some_merchants_repor|Einige Großhändler berichten, dass Sigurd 'Schlange im Auge', der Sohn von Ragnar in Dänemark, Krieger auf Hunderten von Booten bringt. Ich hörte einige Berater des Königs im Regent Ceaster sagen, dass die Dänen alle Königreiche von England zerstören wollen.^^Die einzigen guten Nachrichten, die ich gehört habe, waren, als ein Bote uns informiert hat, dass einige von Jarl Sigurd gesandte Dänen, um Friesen anzugreifen, in Doccinga besiegt wurden.^^Das war das erste Mal, dass ich den Namen hörte von {Playername}, der die Verteidigung von Doccinga geführt hatte.^^Ich wusste dann, dass {reg59? sie:er} eine wichtige Figur in meinem Leben sein würde.
+qstr_Some_merchants_repor|Einige Großhändler berichten, dass Sigurd 'Schlange im Auge', der Sohn von Ragnar in Dänemark, Krieger auf Hunderten von Booten bringt. Ich hörte einige Berater des Königs im Regent Ceaster sagen, dass die Dänen alle Königreiche von England zerstören wollen.^^Die einzigen guten Nachrichten, die ich gehört habe, waren, als ein Bote uns informiert hat, dass einige von Jarl Sigurd gesandte Dänen, um Friesen anzugreifen, in Doccinga besiegt wurden.^^Das war das erste Mal, dass ich den Namen hörte von {Playername}, der die Verteidigung von Doccinga geführt hatte.^^Ich wusste dann, dass {reg59?sie:er} eine wichtige Figur in meinem Leben sein würde.
 qstr_There_was_a_man_call|Es gab einen Mann genannt Egbert, oder ich sollte lieber einen König, Egbert Cyning sagen, weil er König von Northumbria war. Aber er war ein Marionettenkönig, der von den Wikingern gewählt ist, weil er ein schwacher Mann war, den sie im Griff behalten konnten. War das das Schicksal das uns auch erwartete?
 qstr_In_Anno_Domini_868_t|In Anno Domini 868 haben die Wikinger Snotingaham eingenommen. Es gab Angst, viel Angst, aber West Sussex und Mercia haben ihre Kräfte zusammen geschlossen. Aelfred von West Sussex, dem Bruder des Königs, ist mit Ealswith, Tochter von Aethelred Mucel, Aldermann von Gaini, und von Eadburh von der königlichen Linie des Königs von Mercia verheiratet gewesen.^^Die zwei Reiche haben die fyrd zum Krieg gerufen. West Sussex, marschierte aus dem Süden auf Snotingaham zu, und Mercia, hat sich ihnen unterwegs angeschlossen. Vielleicht konnten sie schließlich den Vormarsch, der Söhne von Ragnar, aufhalten?^^
 qstr_I_still_dream_of_Dou|Ich träume immernoch von Douar-an-Enez sobald ich meine Augen schließe. Kein Mann Gottes sollte solche Träume haben - es war, als wäre der Teufel aus dem Gefängniss entkommen und hätte die Welt übernommen. 
@@ -2481,9 +2481,9 @@ qstr_^^Welcome_to_Viking_|^^Willkommen bei Viking Conquest Reforged Edition^^^^{
 qstr_In_the_storyline_you|In der Abenteuer-Kampagne starten Sie als Held mit einem ungewissen Schicksal.^Bitte lesen Sie im folgenden aufmerksam, da sich das Spielverhalten im Detail von dem des Sandkastenmodus unterscheidet.
 ; qstr_The_story_follows_it|The story follows its own development path and the decisions you make may affect the world around you in addition to standard game mechanics. This means you won't be able to freely join any kingdom or serve any king, except when allowed to do so.^The behavior of the kingdoms, especially those important to story and in history, will follow the chronology of historical events as much as possible. As a result, these kingdoms may not be destroyed if they were not defeated historically.^Moreover, you won't be able to get rid of your companions, grant them fiefs, or make them vassals, as long as you're playing the storyline. As many of your companions are important to many missions, it is critical that they remain a part of your war band.^^It took many months to build and research Viking Conquest storyline, using historical sources, sagas, and deep love for Viking world. We do hope that you enjoy it as much as we did.
 qstr_The_trainer_{s11}.|Der Ausbilder {s11}.
-qstr_The_supply_box_will_|Die Versorgungskiste wird wieder verfügbar sein {reg1?nach {reg0} rounds:next Runde}.
+qstr_The_supply_box_will_|Die Versorgungskiste wird {reg1?nach {reg0} Runden:nächste Runde} wieder verfügbar sein.
 qstr_Head_armor_cannot_be|Kopf Rüstungen können nicht zusammen mit Kapuzen genutzt werden und werden abgelegt für {s0}.
-; qstr_You_can_t_sleep._You|You can't sleep. You can hear the constant crunch of the boat hull, smell sea brine, and feel the breeze caressing your face, but your eyes are closed and refuse to open. And your mind keeps dreaming, remembering other times, a past life that feels far away and that you remember less every day, even though not many months have passed since your departure.^^Now, the future is uncertain. Your journey has brought you to the Frisian Sea hoping to find news about an old sorcerer who takes care of all ills, because your mother is sick. For her you left everything behind, a world you knew like the back of your hand, and paid for passage on a north boat, a paunchy merchantman. It's slow and clumsy, but its captain has promised to take you to the remote part of Friese where the sorcerer lives.^^Your mother travels with you; nobody else has joined you. Her illness progresses, and there are days when she no longer recognizes you, but she appears to be completely sound at other times. Every morning you wake up not knowing which day it will be: will you be able to converse with her or will you have to tie her to a post so she does not fall overboard?^^You need to wake up, though your eyes oppose you and your mind boils with fever...^^One more effort. Your eyelids obey...
+qstr_You_can_t_sleep._You|Ihr könnt nicht schlafen. Ihr hört das konstante knirschen des Schiffsrumpfs, verspürt den Geruch des Meeres und die Brise in eurem Gesicht, aber Eure Augen sind geschlossen vor Müdigkeit. Wie im Traum kommen Euch Erinnerungen an frühere Zeiten, Eurer früheres Leben, das weit entfernt scheint, und an dass Ihr euch mit jedem Tag weniger erinnern könnt, obwohl nur wenige Monate seit Eurer Abreise vergangen sind.^^Die Zukunft liegt im dunkeln. Eure Reise brachte Euch in die friesische See. Da Eure Mutter krank ist, bracht Ihr in der Hoffnung auf, einen alten Zauberer zu finden, der alle Krankheiten zu heilen vermag. Für Sie habt Ihr alles zurückgelassen, eine Welt die Ihr kanntet wie Eure Westentasche, und buchtet eine Passage auf dem Schiff eines beleibten Handelsfahrers. Das Schiff ist langsam und schwerfällig, aber sein Kapitän hat versprochen, Euch sicher zu den abgelegenen Teil Frieslands zu bringen, in dem der Zauberer lebt.^^Eure Mutter ist bei euch, aber sonst hat sich Euch niemand angeschlossen. Ihre Krankheit schreitet fort, und es gibt Tage, an denen sie Euch nicht mehr erkennt, aber an anderen Tagen scheint sie völlig gesund zu sein. Jeden Morgen wacht Ihr auf, ohne zu wissen welcher wie sie sich an diesem Tag verhält. Werdet Ihr in der Lage sein, Euch mit ihr zu unterhalten, oder müsst Ihr sie am Mast festbinden, damit sie nicht über Bord fällt?^^Ihr müsst aufwachen, Euch gegen die schweren Augen und Euren fibrigen Geist behaupten...^^Noch eine letzte Anstrengung. Eure Lieder öffnen sich...
 qstr_You_can_t_have_more_|Ihr könnt nicht mehr als zwei aktive Truppen quartiere haben.
 ; qstr_The_night_falls_whil|The night falls while the ship, the Woden Ric, crosses the ocean. There is a good wind and the Woden Ric enjoys good sailing away from the site of the battle where it stopped in the morning. The Frisian coast is near by the time you fall asleep.^The ship sails during the night while the shift rotates at the rudder. If all goes well, landfall will occur the next day, and you'll be a little closer to your destination.^If all goes well... if only your nights were not filled with nightmares of ships consumed by fire and drowned men floating on bloody water. You are trapped in this way, costing you escape even to the world of dreams, when a hand shakes you, and a voice calls loudly near your ear.^You open your eyes and see the taciturn face of the captain illuminated by the light of dawn.  You see his lips moving frantically and gradually begin to understand his words...^^
 qstr_Back_to_the_beginnin|Zurück zum Anfang ...
@@ -2503,7 +2503,7 @@ qstr_You_don_t_have_the_m|Ihr habt nicht genügend Geld um Eure Männer dafür z
 qstr_After_you_buy_the_ma|Nachdem Ihr die Materialien gekauft habt, bauen Eure Männer einen dauerhaften Schutz für Euch.
 qstr_Player_renown_is_inc|Spieler Ruhm wird um 100 erhöht.
 qstr_Player_reputation_is|Spielerehre wurde um 1 erhöht und beträgt nun {reg7}.
-qstr_Player_reputation_is_|Spielerehre wurde um 1 verringert und beträgt nun {reg7}.
+qstr_Player_reputation_is_|Spielerehre wurde um 5 verringert und beträgt nun {reg7}.
 qstr_Reseted.|Zurückgesetzt.
 ; qstr_The_time_to_meet_with_|The time to meet with the troops from the Kingdom of Asturias has arrived. Bodo's letter indicates that they will dock at {s3}, and {s11} wants you go there and meet with them. There is a traitor named Silo. Use him to gain favor with the Asturian troops and bring them to the side of the sons of Ragnar. If you fail to convince them, {s11} wants them destroyed.^^But before you leave Englaland, you must go to {s3} and talk to the old captain at the port, as {s11} has gathered men and ships to help you in Douar-an-Enez.
 ; qstr_The_time_to_meet_with_t|The time to meet with the troops from the Kingdom of Asturias has arrived. Bodo's letter indicates that they will dock at {s3}, and {s11} wants you go there and meet with them. There is a traitor named Silo. You have to expose him and destroy him diplomatically, without breaking relations with the Asturians.^^{s11} has gathered men and ships to help you in Douar-an-Enez. You must go to {s3} and talk to the old captain at the port.
@@ -2546,7 +2546,7 @@ qstr_^^Ally_Casualties:{s|^^Verluste Verbündete:{s0}
 qstr_{s1}_of_the_{s3}_man|{s1} von {s3} schaffte es, zu fliehen.
 qstr_Your_party_lost_{reg|Eure Armee verliert {reg1} Moral.
 qstr_Your_party_gained_{r|Eure Armee gewinnt {reg1} Moral.
-qstr_TEST:_Loot_value_bef|TEST: Beute Wert vor: {reg1} und nachher: {reg2}
+qstr_TEST:_Loot_value_bef|TEST: Beute Wert vorher: {reg1} und nachher: {reg2}
 qstr_Your_party_gained_{re|Eure Armee hat für die Beute, die Ihr geteilt habt, {reg1} Moral gewonnen.
 qstr_Your_party_lost_{reg1|Eure Armee verlor {reg1} Moral, da Eure Truppen denken, dass Ihr zu viel Beute für Euch behalten habt.
 qstr_Some_of_your_tendons|Einige Eurer Sehnen trugen im Gefecht Verletzungen davon. Eure Stärke wird um 1 reduziert.
@@ -2568,16 +2568,16 @@ qstr__You_are_greeted_by_m| Ihr werdet von Männern loyal zu {s7} begrüßt.
 qstr_You_make_sure_they_s|Ihr stellt sicher, dass sie sehen wie ihr Fürst {s11} durch Eure Armee gefangen gehalten wird.
 qstr_The_{reg6?town_s:for|Die Nahrungsvorräte der {reg6?Stadt:Burg} sollten noch für weitere {reg3} Tage reichen.
 qstr_The_{reg6?town_s:fort|Die Nahrungsvorräte der {reg6?Stadt:Burg} sind erschöpft, und die Verteidiger hungern.
-; qstr_>>Your_men_are_build|>>Your men are building checkpoints and small camps around {s4} to prevent anyone from going in or out.^^
-; qstr_>>Your_perimeter_con|>>Your perimeter control is ready. You have set a perimeter for surveillance around {s4}. No one can enter or leave without the knowledge of your men.^This will be beneficial especially when you have to negotiate the surrender of the castle with its commander.^^
+qstr_>>Your_men_are_build|>>Eure Männer errichten Wachposten und kleine Lager um {s4} um zu verhindern, dass jemand gehen, oder hineingelangen kann.^^
+qstr_>>Your_perimeter_con|>>Eurer Belagerungsring ist bereit und kontrolliert nun die Umgebung. Niemand kann {s4} betreten oder verlassen, ohne das Eure Männer dies bemerken.^Dies wird Euch besonders bei Übergabeverhandlungen mit dem Kommandanten der Burg zugute kommen.^^
 qstr_>>Your_men_are_ready|>> Eure Männer sind bereit zum Angriff. ^ ^
 ; qstr_>>As_a_disciplined_a|>>As a disciplined army, your men have made latrines, pipelines, and a pond for their weekly bath. A healthy camp prevents disease.^^
 ; qstr_>>Your_men_have_fini|>>Your men have finished building mantlets. Now you can use them to protect your soldiers in the vanguard attack, and your main force for the final charge.^^
 ; qstr_>>Your_men_have_finis|>>Your men have finished making scaling equipment.^^
 ; qstr_>>Your_attempt_to_fi|>>Your attempt to find a traitor in the settlement has failed.^^
 ; qstr_>>You_have_found_a_t|>>You have found a traitor within {s7} that has supported your efforts to conquer it. This will make it more receptive to surrendering.^^
-; qstr_>>Your_attempt_to_ha|>>Your attempt to have your men infiltrate {s4} has failed.^^
-; qstr_>>Your_men_have_succ|>>Your men have succeeded in infiltrating {s4} and damaging the enemy.^^
+qstr_>>Your_attempt_to_ha|>>Der Versuch euer Männer {s4} zu infiltrieren, ist fehlgeschlagen.^^
+qstr_>>Your_men_have_succ|>>Eure Männer haben {s4} erfolgreich infiltriert und sabotieren den Feind.^^
 ; qstr_>>You_ve_managed_to_|>>You've managed to pillage the crops and farms nearby.^^
 qstr_>>You_have_sent_men_|>> Ihr habt Männer ausgesendet um einen Verräter in {s4} zu finden. ^^
 ; qstr_>>You_have_found_a_tr|>>You have found a traitor within {s4} that has supported your efforts to conquer it. This will render it more receptive to surrendering.^^
@@ -2598,16 +2598,16 @@ qstr_You_need_to_have_more_t|Ihr baucht mehr als 80 Männer um dies zu tun.
 ; qstr_>>It_s_summer_and_ho|>>It's summer and hot -- maybe too hot -- but, at that moment, you do not feel anything. As always before a battle, you set aside time for a few inevitable memories of the past... Then you close your mind and ready it for battle, preparing for even the worst case -- death.^^
 ; qstr_>>You_look_at_{s4}._Y|>>You look at {s4}. Your men are silent while waiting for your order to charge towards death. Your muscles are tense, hot for battle, your mind cold and adrenaline fills your veins^A man breathes deeply. 'Do you smell that?' he asks, 'That is the scent of glory.' 'Are you ready to seize it?'^^
 ; qstr_>>Your_men_have_finish|>>Your men have finished building the mantlets. Now you can use them to protect your soldiers in the vanguard attack, and your main force for the final charge.^^
-; qstr_>>Your_men_are_buildi|>>Your men are building mantlets.^^
-; qstr_>>Your_men_have_finishe|>>Your men have finished building the ladders.^^
-; qstr_>>Your_men_are_buildin|>>Your men are building assault ladders.^^
+qstr_>>Your_men_are_buildi|>>Eure Männer bauen Schutzwände.^^
+qstr_>>Your_men_have_finishe|>>Eure Männer haben den Bau der Sturmleitern abgeschlossen.^^
+qstr_>>Your_men_are_buildin|>>Eure Männer bauen Sturmleitern. ^ ^
 qstr_{s4}_lost_between_40|{s4} hat zwischen 40 und 50% seiner Nahrungsmittelreserven verloren.
 qstr_{s4}_lost_between_50|{s4} hat zwischen 50 und 60% seiner Nahrungsmittelreserven verloren.
 qstr_{s4}_lost_between_30|{s4} hat zwischen 30 und 40% seiner Nahrungsmittelreserven verloren.
 qstr_{s4}_lost_between_10|{s4} hat zwischen 10 und 20% seiner Nahrungsmittelreserven verloren.
-; qstr_{s4}_have_between_10|{s4} have between 10 and 30% of its garrison sick for a few days.
-; qstr_It_should_have_food_|It should have food stocks for {reg6} days.^The garrison has {reg5} men.
-; qstr_^^The_following_armi|^^The following armies are currently inside:
+qstr_{s4}_have_between_10|Zwischen 10 und 30% der Garnison von {s4} sind für einige Tage krank.
+qstr_It_should_have_food_|Es hätte Nahrungsmittelvorräte für {reg6} Tage.^Die Garnison hat {reg5} Männer.
+qstr_^^The_following_armi|^^Die folgenden Armeen sind derzeit stationiert:
 qstr_^{s3}_with_{reg1}_tr|^{s3} mit {reg1} Truppen.
 ; qstr_^^Commander_this_tow|^^Commander, this town is one big rock. Many before us have fled the place before a single blow was exchanged, so we must keep morale up among the men. The path to the main gate is formidably narrow and steep, but if we set up the camp and build a battering ram, we can break down the wall at the back entrance of the town. When the wall is down, we can charge in without losing breath. The steps up to the town center are fewer there.
 ; qstr_^^Alt_Clut_the_rock_|^^Alt Clut, the rock high over the Clyde. This is the mightiest fortress of the northern Britons. Nobody has ever taken it by siege in your day. Controlling the mouth of the Clyde, it was where King Riderch Hael fought the Bernicians and the Picts.
@@ -2620,21 +2620,21 @@ qstr_You_ve_been_driven_a|Man hat Euch von den Mauern fortgetrieben. Jetzt strö
 qstr_You_ve_breached_the_|Ihr habt die Stadtmauern durchbrochen, doch die trotzigen Verteidiger stellen sich nun Euch in den Straßen entgegen! Ihr müsst sie loswerden, bevor Ihr das Herz der Stadt angreifen könnt.
 qstr_The_town_centre_is_y|Das Stadtzentrum ist Euer, aber die verbleibenden Verteidiger haben sich in die Burg zurückgezogen. Sie muss fallen, bevor der Sieg wahrlich Euer ist.
 qstr_The_remaining_defend|Die übrig gebliebenen Verteidiger haben sich zu einem letzten Gefecht in die Burg zurückgezogen. Ihr müsst eindringen und jeden noch verbleibenden Widerstand zerschmettern.
-qstr_However_since_you_ar|Doch da Ihr keiner der eingeschworenen Gefolgsleute von {s9} seid, wird er Euch nicht als {Fürst/Fürstin} dieser {reg8?Stadt:Burg} erkennen.
+qstr_However_since_you_ar|Doch da Ihr {reg59?keine eingeschworene Gefolgsfrau:kein eingeschworener Gefolgsmann} von {s9} seid, wird er Euch nicht als {reg59?Fürstin:Fürst} dieser {reg8?Stadt:Burg} anerkennen.
 qstr_The_enemy_has_been_f|Der Feind wurde zum Rückzug gezwungen. Der Angriff ist vorbei, doch die Belagerung hält an.
-qstr_As_you_approach_you_|Als Ihr Euch nähert, werdet Ihr von den Burgwachen entdeckt, die Euch willkommen heißen und die Tore für {ihren König/ihre Königin} öffnen.
-qstr_As_you_approach_you_a|Als Ihr Euch nähert, werdet Ihr von den Burgwachen entdeckt, die Euch willkommen heißen und die Tore für {ihren Fürst/ihre Fürstin} öffnen.
+qstr_As_you_approach_you_|Als Ihr Euch nähert, werdet Ihr von den Burgwachen entdeckt, die Euch willkommen heißen und die Tore für {reg59?Ihre Königin:Ihren König} öffnen.
+qstr_As_you_approach_you_a|Als Ihr Euch nähert, werdet Ihr von den Burgwachen entdeckt, die Euch willkommen heißen und die Tore für {reg59?Ihre Fürstin:Ihren Fürst}  öffnen.
 qstr_^Christians_aren_t_w|^Christen sind hier nicht willkommen.
 qstr_^Christians_are_acce|^Christen werden hier akzeptiert.
 qstr_^Christians_are_in_t|^Christen sind hier die Mehrheit.
 qstr_^Christians_are_domi|^Die meisten Leute hier sind Christen.
 qstr_^This_village_is_a_b|^Dieses Dorf ist ein Bollwerk Eures Glaubens.
-; qstr_^Rumor_has_it_that_C|^Rumor has it that Christian faith is nothing more than a veil, and the population continues to worship pagan gods...
+qstr_^Rumor_has_it_that_C|^Es wird gemunkelt, dass der christliche Glaube nur vorgetäuscht wird, und die Bevölkerung weiterhin den alten Göttern huldigt...
 qstr_^Pagans_aren_t_welco|^Heiden sind hier nicht willkommen.
 qstr_^Pagans_are_accepted|^Heiden werden hier akzeptiert.
 qstr_^Pagans_are_in_the_m|^Heiden sind hier die Mehrheit.
 qstr_^Pagans_are_dominant|^Die meisten Leute hier sind Heiden.
-; qstr_^Rumor_has_it_that_o|^Rumor has it that old pagan gods are being forgotten in favour of Christendom.
+qstr_^Rumor_has_it_that_o|^Es wird gemunkelt, dass die alten Götter, zugunsten der Christenheit, in Vergessenheit geraten.
 qstr_This_village_and_the|Das Dorf und die umliegenden Ländereien gehören Euch.
 qstr_You_remember_that_th|Ihr erinnert Euch, dass dieses Dorf und die umliegenden Ländereien {s7} gehören.
 qstr_These_lands_belong_t|Diese Länder gehören zu niemandem.
@@ -2649,16 +2649,16 @@ qstr_The_{s17}_has_no_imp|{s17} hat keine Verbesserungen.
 qstr_The_{s17}_has_the_fo|{s17} hat die folgenden Verbesserungen:{s18}.
 ; qstr___Christian_riots_co| (Christian riots could cause: {reg33} relations drop)
 ; qstr___Pagan_riots_could_| (Pagan riots could cause: {reg33} relations drop)
-; qstr_Your_enemies_beat_yo|Your enemies beat you down and leave you for dead.
+qstr_Your_enemies_beat_yo|Eure Feinde schlagen euch nieder und lassen euch zum sterben zurück.
 qstr_You_have_fallen._You|Ihr seid gefallen. Die Banditen fleddern Euch gründlich und verschwinden dann in der Nacht. Ihr habt Euch am Leben gelassen ... gerade so.
 qstr_Luckily_some_of_your|Glücklicherweise kommen einige Eurer Gefährten auf der Suche nach Euch des Weges und finden Euch am Straßenrand liegend. Rasch bringen sie Euch in Sicherheit und verarzten Eure Wunden.
 qstr_Luckily_some_passing|Glücklicherweise kommen einige Städter des Weges, sehen Euch am Straßenrand liegen, und erkennen, dass Ihr mehr als ein lumpiger Bettler seid. Sie tragen Euch zur nächsten Herberge und verarzten Eure Wunden.
-; qstr_Going_through_the_ba|Going through the bandits' purses, you discover a dirty torn piece of vellum with the word 'kill' and a portion of your name still visible. Turning the vellum over, you see the scribbles 'Meet me in {s3}.'
+qstr_Going_through_the_ba|Beim durchsuchen der Banditen entdeckt Ihr ein schmutziges und zerrissenes Stück Pergament, auf dem das Wort "Töte" und ein Teil Eures Namens noch lesbar sind. Auf der Rückseite steht eine Kritzelei: "Trefft mich in {s3}."
 qstr_Your_efforts_prove_s|Ihre Bemühungen erweisen sich als erfolgreich und einige Menschen haben ihre Meinung geändert.
 qstr_Your_efforts_to_conv|Eure Bemühungen Menschen zu konvertieren, sind kläglich gescheitert.
 qstr_You_fail_to_steal_an|Euer Viehdiebstahl schlägt fehl.
 qstr_You_drive_away_{reg1|Ihr treibt {reg17} Stück Vieh aus der Dorfherde fort.
-; qstr_People_aren_t_very_h|People aren't very happy with your presence in their home.
+qstr_People_aren_t_very_h|Die Einheimischen sind nicht sehr glücklich mit Eurer Anwesenheit.
 qstr_^This_town_is_a_bast|^Diese Stadt ist ein Bollwerk Eures Glaubens.
 qstr__As_you_reach_the_sett| Als Ihr die Siedlung erreicht, werdet Ihr von Euren Männern begrüßt.^{s15}
 qstr_{s11}^{s15}|{s11}^{s15}
@@ -2675,29 +2675,29 @@ qstr_A_fat_cow_is_awarded|Eine fette Kuh wird Euch für Euren Sieg verliehen.
 ; qstr_You_are_given_a_beau|You are given a beautiful shirt of mail adorned with a pelt, as befits a mighty warlord.
 qstr_They_give_you_a_fine|Sie geben Euch ein feines Schwert, eines Adligen würdig.
 qstr_They_appreciate_your|Sie würdigen Eure Teilnahme am Turnier und legen einen Lorbeerkranz auf Euren Kopf.
-qstr_Moreover_you_earn_{r|Außerdem gewinnt Ihr {reg8} Pfennige aus den Wetten, in denen Ihr schlauerweise auf Euch selbst gewettet habt ...
+qstr_Moreover_you_earn_{r|Außerdem gewinnt Ihr {reg8} Pfennige aus den Wetten, bei denen Ihr schlauerweise auf Euch selbst gesetzt habt...
 qstr_Victory_is_yours!_Yo|Der Sieg ist Eurer! Ihr habt diesen Nahkampf gewonnen, aber nun müsst Ihr Euch auf die nächste Runde vorbereiten.
 qstr_You_have_been_bested|Aus diesem Nahkampf seid Ihr nicht als Sieger hervorgegangen, aber der Zeremonienmeister erklärt eine ehrenvolle Anerkennung Eurer Fähigkeiten und Tapferkeit und erlaubt Euch, an der nächsten Runde teilzunehmen.
 qstr_You_were_beaten._The|Ihr wurdet geschlagen. Ihr Erfolg hat die Bauern ermutigt, aber die Lektion, die Ihr ihnen erteilen wolltet, ist wohl noch nicht so recht durchgedrungen ...
 qstr_After_beating_your_l|Nachdem Ihr Euren letzten Gegner geschlagen hab, erklärt Ihr den Bauern, wie sie sich gegen einen solchen Angriff besser verteidigen können. Hoffentlich nehmen sie sich diese Erfahrung zu Herzen und werden beim nächsten Mal vorbereitet sein.
 qstr_The_bandits_are_brok|Die Banditen sind geschlagen! Die wenigen bei Leben und Bewusstsein gebliebenen ergreifen in Todesfurcht vor den Bauern und ihrem neuen Champion das Hasenpanier.
-; qstr_Can_t_merge_both_fle|Can't merge both fleets because your sea-king skill isn't high enough.
+qstr_Can_t_merge_both_fle|Die Flotten können nicht vereint werden, weil Eure Fähigkeit "König der Meere" nicht hoch genug ist.
 qstr_Can_t_merge_both_flee|Kann beide Flotten nicht zusammenlegen, da das Flottenlimit von 7 Schiffen sonst überschritten wird.
 qstr_Fleets_merged.|Flotten zusammenlegt.
 qstr_The_trader_you_are_e|Der Händler, den Sie eskortieren, möchte keine Fähre benutzen.
 qstr_The_ferry_station_is|Die Fährstation ist zu klein und kann keinen Marschall mit seiner ganzen Armee transportieren.
 qstr_You_can_t_enter_the_|Ihr könnt den Hafen nicht betreten, weil sie in dieser Stadt nicht willkommen sind.
-; qstr_You_can_t_enter_the_p|You can't enter the port because you are not welcome in this town. Moreover, this town can't be attacked from its sea side.
-; qstr_You_can_t_enter_the_po|You can't enter the port. You already have a fleet in the port and your sea-king skill isn't high enough to merge both fleets.
-qstr_You_can_t_enter_the_por|Ihr könnt den Hafen nicht betreten. Ihr habt bereits eine Flotte im Hafen und beide Flotten können nicht zusammengeführt werden, da dies das Limit von sieben Schiffen in der Flotte überschreiten würde.
+qstr_You_can_t_enter_the_p|Ihr könnt den Hafen nicht anlaufen, da Ihr in dieser Stadt nicht willkommen seid. Darüber hinaus kann diese Stadt von der Seeseite angegriffen werden.
+qstr_You_can_t_enter_the_po|Ich könnt den Hafen nicht anlaufen. Ihr habt bereits eine Flotte im Hafen und Eure Fertigkeit "König der Meere" ist nicht hoch genug, um beide Flotten zu vereinen.
+qstr_You_can_t_enter_the_por|Ihr könnt den Hafen nicht anlaufen. Ihr habt bereits eine Flotte im Hafen und beide Flotten können nicht zusammengeführt werden, da dies das Limit von sieben Schiffen in der Flotte überschreiten würde.
 qstr_You_already_have_a_f|Ihr habt bereits eine Flotte im Hafen. Möchtet Ihr beide Flotten zusammenführen?
 qstr_Number_of_Sailors:_{|Anzahl der Matrosen: {reg5}^Geschwindigkeit durch Matrosen: {reg6}
 qstr_Unfortunately_{reg3?|Leider {reg3?seid Ihr:ist {s1}} nicht in der Lage, irgendwelche Handelswaren zu finden, die einen Gewinn bringen würden.
-qstr_^Buying_{s4}_here_an|^Kaufte man {s4} hier und veräußerte es in {s5}, so brächte es einen Profit von {reg6} Pfennige pro Stück ein.{s3}
-qstr_{reg3?You_find:{s1}_|{reg3?Ihr findet:{s1} findet} das Folgende heraus:^{s3}
-qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1} {s1} gewann {reg0} an Erfahrung.
-qstr_{s2}^{s1}_earned_an_|{s2}^{s1} gewann zusätzliche {reg0} Erfahrung.
-qstr_^You_earned_{reg0}_e|^Ihr gewannt {reg0} an Erfahrung.{s2}
+qstr_^Buying_{s4}_here_an|^{s4} hier zu kaufen und in {s5} zu veräußern, würde einen Gewinn von {reg6} Pfennigen pro Stück einbringen.{s3}
+qstr_{reg3?You_find:{s1}_|{reg3?Ihr:{s1}} findet folgendes heraus:^{s3}
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1} {s1} hat {reg0} Erfahrung gewonnen.
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1} hat {reg0} zusätzliche Erfahrung gewonnen.
+qstr_^You_earned_{reg0}_e|^Ihr habt {reg0} Erfahrung gewonnen.{s2}
 qstr_The_training_didn_t_|Diese Übung verlief gar nicht gut.
 qstr_The_training_didn_t_g|Diese Übung verlief nicht so gut.
 qstr_The_training_went_qu|Diese Übung verlief recht gut.
@@ -2712,7 +2712,7 @@ qstr_{s13}_ordered_you_to|{s13} befahl Euch, Euch dem Angriff gegen {s14} anzusc
 qstr_There_has_been_an_al|Es hat bei {s9} einen vermeintlichen Grenzzwischenfall gegeben.
 qstr_There_has_been_an_all|Nach einem angeblichen Grenzzwischenfall: Die Leute von {s4} erwägen Krieg gegen {s3}.
 ; qstr_Border_incident:_Wor|Border incident: Word reaches you that {s9}. Though you don't know whether or not the rumors are true, you do know one thing -- this seemingly minor incident has raised passions among the people of the {s4}, making it easier for them to go to war against the {s3}...
-; qstr_The_great_lords_of_y|The great lords of your kingdom plan to gather at the great hall of {s15} in {s10} for a feast
+qstr_The_great_lords_of_y|Die großen Herren deines Reiches planen, sich im großen Saal von {s15} in {s10} für ein Festmahl zu versammeln.
 qstr_^{s64}^|^{s64}^
 ; qstr_^^Note_that_as_long_|^^Note that as long as you remain marshal, the lords of the realm will be expecting you to lead them on campaign. So, if you are awaiting a feast, either for a wedding or for other purposes, you may wish to resign the marshalship by speaking to your liege.
 ; qstr_Strange..._You_ve_be|Strange... You've been asleep, but you can't remember any nightmares. What you remember clearly are Viking warriors boarding the Woden Ric, plunging their weapons into the bodies of the captain and sailors, and Bodo, the Cantabrian, defending himself like a lion until cornered. You hear his words in your consciousness, '{playername}! Fight! I am yet with you!'^^You remember the death -- your death -- when your enemies fell upon you. You still feel the wooden floor of the boat smash into your cheek before you could hardly breathe a goodbye to the world. Your eyes met your mother's, just before the end, as a huge Viking, dressed in iron -- could he be Sven? -- cracked her head with his spear and threw her body to the side.^^You crawled, leaving a trail of blood, preferring to give your body to the fish, but you remember no more.^^Are you dead? But if you're dead, why do you feel the sore muscles of your body, or the heat from a nearby fire? How is it that you can clench your hands, open your eyes and distinguish the beams of a roof over you?^^And if you're alive, who has saved you, why and how?
@@ -2725,7 +2725,7 @@ qstr_The_gothi_has_sacrif|Der Schamane hat hat Tiere geopfert, um die Götter in
 qstr_You_are_now_a_pagan_a|Ihr seid jetzt ein Heide, ein Anhänger von Odin und anderen den nordischen Göttern.
 qstr_The_majority_of_your|Der Großteil Eurer Truppen ist Heidnisch und unterstützt Eure Aktionen.
 qstr_The_majority_of_your_|Der Großteil Eurer Truppen ist Christlich und hasst Eure Aktionen.
-qstr_In_the_arms_of_the_d|In den Armen des toten Abts finden Eure Männer: "Der Schlachtruf von Colum Cille."
+qstr_In_the_arms_of_the_d|In den Armen des toten Abts finden Eure Männer: 'Der Schlachtruf von Colum Cille.'
 qstr_The_majority_of_your_t|Der Großteil Eurer Truppen sind Christlich und unterstützen Eure Aktionen.
 qstr_The_majority_of_your_tr|Der Großteil Eurer Truppen sind Heidnisch und hassen Eure Aktionen.
 qstr_{s3}_is_in_danger._S|{s3} ist in Gefahr. Rettet das Dorf vor Sven Stiernackens Angriff, bevor das Dorf zerstört wird! Ihr benötigt eine gute Menge an Truppen, um den Wikinger-Angriff abzuwehren!
@@ -2746,13 +2746,13 @@ qstr_Return_when_you_have_|Kommt zurück, wenn Ihr 30 Mann oder weniger in Eurer
 qstr_You_think_of_Thora_w|Ihr denkt an Thora, die Euch jeden Abend besucht, eine schöne Frau, die Euch viele Kinder schenken könnte.
 qstr_You_think_of_Thora_wh|Ihr denkt an Thora, die Egil jeden Abend besucht. Sie ist eine schöne Frau, die von ihrem Vater beschützt wird. Sie muss sich um nichts anderes sorgen, als zufrieden zu sein.
 qstr_You_think_of_Thora_a|Ihr denkt an Thora, eine schöne Frau, die von ihrem Vater beschützt wird. Sie muss sich um nichts anderes sorgen, als zufrieden zu sein.
-; qstr_One_of_the_greatest_|One of the greatest battles known between West Seaxe and the Danes was fought here. You have memories of that day, because you took part in it.
+qstr_One_of_the_greatest_|Hier wurde eine der größten bekannten Schlachten zwischen Wessex und Dänen geschlagen. Ihr habt Erinnerungen an diesen Tag, weil Ihr daran teilnahmt.
 qstr_This_place_destroyed|Dieser Ort, zerstört von euren Männern ist nichts weiter als Asche und Schutt.
 qstr_Garrison:_{reg5}__li|Garnison: {reg5} (Grenzwert: {reg0})^^ Eure Männer, den Unterschlupf oder Burgen und Städte bemannen zu lassen, ermöglicht es ihnen, weg von den Gefahren der Straße und des Kampfes zu Rasten, und reduziert ihre Unterhaltskosten.
 qstr_You_need_to_hire_a_c|Sie müssen zuerst einen Koch mieten.
 qstr_It_is_night_and_your|Es ist Nacht, und Euer Unterschlupf wirkt ruhig, mit einigen Männern die Wache halten, während andere schlafen.
 qstr_Your_garrison_size_e|Eure Garnisonsgröße überschreitet die maximal zulässige Anzahl von Soldaten, die in Eurem Unterschlupf stationiert werden können. Das erzeugt Unzufriedenheit bei den Männern und Desertion!
-qstr_Garrison_limit:_{reg|Garnisions Limit: {reg0}
+qstr_Garrison_limit:_{reg|Garnisonslimit: {reg0}
 qstr_The_ramshackle_priso|Das baufällige Gefängnis in Eurem Unterschlupf ist nicht sehr sicher. Euer Hauptmann empfiehlt Euch Adelige hier nicht festzuhalten!
 qstr_You_do_not_have_enoug|Ihr habt nicht genug Geld, um Männer dafür zu bezahlen Euren Unterschlupf zu zerstören.
 qstr_Refuge_demolished!|Unterschlupf abgerissen!
@@ -2830,9 +2830,9 @@ qstr_Your_men_kill_all_th|Eure Männer töten alle Räuber.
 qstr_At_night_some_of_you|In der Nacht machen sich einige Eurer Männer mit Freudenmädchen davon.
 ; qstr_Your_enemies_appreci|Your enemies appreciate your pity. Perhaps this will help you when you negotiate their surrender.
 ; qstr_You_know_that_in_the|You know that in the coming days, dozens of children, women and elderly will die before your eyes, languishing from hunger.
-; qstr_Your_officer_seems_u|Your officer seems upset.
+qstr_Your_officer_seems_u|Euer Offizier scheint verärgert.
 qstr_Your_men_think_that_you_are_a_v|Eure Männer glauben, dass Ihr ein sehr starker Anführer seid.
-; qstr_Your_officer_seems_h|Your officer seems happy.
+qstr_Your_officer_seems_h|Euer Offizier scheint glücklich.
 ; qstr_The_wife_is_pregnant|The wife is pregnant, and the officer asks for a high compensation. To avoid rumors and problems, you pay.
 ; qstr_{s1}_of_the_{s2}.|{s1} of the {s2}.
 ; qstr_A_messenger_approach|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. Your proposal has been accepted and {s10} has been released from captivity.'
@@ -2865,7 +2865,7 @@ qstr_Your_men_think_that_you_are_a_v|Eure Männer glauben, dass Ihr ein sehr sta
 ; qstr_A_messenger_approaches_galloping._He_stops_in_f|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} was very offended by your desire to provoke a war and promises to send messengers everywhere to publicize your villainy.^^From now on, you are at war with {s2}'
 ; qstr_A_messenger_approaches_galloping._He_stops_in_fr|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} was very offended by your war declaration. He called you treacherous rat and said you would pay dearly.^^From now on, you are at war with {s2}'
 ; qstr_The_other_man_is_not|The other man is not very happy and criticizes you when you leave, generating unfavorable rumors.
-; qstr_Neither_man_is_happy|Neither man is happy or unhappy. You seem to have found a balance.
+qstr_Neither_man_is_happy|Keiner der Männer ist glücklich oder unglücklich. Ihr scheint eine Balance gefunden zu haben.
 ; qstr_The_two_men_are_not_|The two men are not very happy and criticize you when you leave, generating unfavorable rumors.
 ; qstr_People_in_{s4}_think|People in {s4} think that you will not guarantee their families' protection against those who abuse their power under your favor. Rumors spread that you are a bad {reg59?lady:lord}.
 ; qstr_People_in_{s4}_think_|People in {s4} think that you will not guarantee their families' protection because the messenger will not be punished. Rumors spread that you are unjust.
@@ -2876,10 +2876,10 @@ qstr_Your_men_think_that_you_are_a_v|Eure Männer glauben, dass Ihr ein sehr sta
 ; qstr_Farmers_in_{s4}_are_|Farmers in {s4} are concerned about their daughters as you favor the powerful who take advantage of their weakness.
 ; qstr_Farmers_in_{s4}_are_r|Farmers in {s4} are reassured when you pay, while the local leader is happy not to be punished.
 ; qstr_The_outcome_of_the_t|The outcome of the trial has seriously shaken the people of {s4} and has called into question your authority.
-; qstr_Your_men_think_you_re|Your men think you're a weak leader who is easily manipulated.
+qstr_Your_men_think_you_re|Eure Männer denken, dass Ihr ein schwacher Anführer seid, der leicht manipuliert werden kann.
 ; qstr_Your_men_seem_uncomf|Your men seem uncomfortable, and some of them leave you. You should try to improve morale of the rest soon.
 ; qstr_Your_men_seem_uncomfo|Your men seem uncomfortable, but no one says a word. It looks like you got a little more respect, but should strive to improve their morale.
-; qstr_Your_men_seem_uncomfor|Your men seem uncomfortable. You should try to improve morale of the rest soon.
+qstr_Your_men_seem_uncomfor|Eure Männer scheinen ungehalten. Ihr solltet bald versuchen, ihre Moral mit einer Rast zu verbessern.
 ; qstr_Eventually_the_man_d|Eventually the man dies in torment while your soldiers try to force him to pay his taxes. His last words were, 'Boys, beyond, where you are, I am coming.' The city is shocked by his death, and many people complain about you in {s4}.
 ; qstr_The_man_seems_calmed|The man seems calmed by your words. You see in his eyes an infinite sadness, but he promises to pay his taxes in the memory of his boys.
 ; qstr_Your_renown_with_you|Your renown with your warriors suffers, as does your money bag, but the people of {s4} seem happy with the money you have given them.
@@ -2926,7 +2926,7 @@ qstr_Your_men_think_that_you_are_a_v|Eure Männer glauben, dass Ihr ein sehr sta
 ; qstr_{s4}_is_a_Christian_set|{s4} is a Christian settlement, and the murder of the missionary and his followers shocks the population. They are terrified of you.
 ; qstr_{s4}_is_a_pagan_settlem|{s4} is a pagan settlement, and the murder of the missionary and his followers is supported. Soon after, you find out that the missionary is canonized as Saint Cuthberh.
 ; qstr_The_missionary_and_h|The missionary and his followers leave {s4}, escorted by your men, without much fuss.
-; qstr_Your_men_appreciate_|Your men appreciate your concern for their families.
+qstr_Your_men_appreciate_|Eure Männer schätzen Euer Interesse für ihre Familien.
 ; qstr_Your_men_are_unhappy|Your men are unhappy that you don't take care of their widows.
 ; qstr_Your_men_are_unhappy_|Your men are unhappy that you don't take care of their widows, but understand you are strapped at the moment.
 qstr_Your_men_are_upset_t|Eure Männer befürchten, dass Ihr Euch nicht um ihre Witwen sorgen wirst sobald sie gefallen sind.
@@ -2955,7 +2955,7 @@ qstr_Your_fame_grows_high|Eurer Ansehen wächst durch das Bardenlied.
 ; qstr_The_man_accepts_the_|The man accepts the money and stops circulating rumors.
 ; qstr_A_new_rumor_that_you|A new rumor that you're a murderer and a tyrant spreads among the population after the death of the merchant!
 ; qstr_The_animal_runs_free|The animal runs free without looking back.
-; qstr_You_increase_your_me|You increase your meat reserves.
+qstr_You_increase_your_me|Ihr erhöhen Eure Fleisch-Reserven.
 qstr_Three_veterans_join_|Drei Veteranen treten Eurer Armee bei.
 ; qstr_The_veterans_leave_d|The veterans leave, defaming your name.
 qstr_Among_the_bodies_you|Zwischen den Körpern finden Eure Männer 1000 Pfennige.
@@ -3023,9 +3023,9 @@ qstr_However_on_this_day_y|Jedoch, habt ihr an diesem Tag viel erreicht und wurd
 ; qstr_{reg1}_lords_will_los|{reg1} lords will lose track of you. They must embark at the next port and then come find you.
 qstr_You_need_to_get_the_p|Ihr benötigt die Erlaubnis des örtlichen Lehnsherren um hier zu rekrutieren.
 qstr_a_lone_boar|Ein einsamer Eber
-qstr_a_herd_of_{reg6}_boa|Eine Herde von {reg6} Wildschweinen
-; qstr_a_herd_of_{reg6}_wil|a herd of {reg6} wild animals
-; qstr_You_successfully_hun|You successfully hunted {reg6} boar.
+qstr_a_herd_of_{reg6}_boa|eine Herde von {reg6} Wildschweinen
+qstr_a_herd_of_{reg6}_wil|eine Herde von {reg6} wilden Tieren
+qstr_You_successfully_hun|Ihr habt erfolgreich {reg6} Eber gejagt.
 ; qstr_You_have_lost_track_|You have lost track of the animals.
 ; qstr_Choose_a_Goal^^^^{s1|Choose a Goal^^^^{s1}
 qstr_Congratulations!^^^^|Herzlichen Glückwunsch!^^^^{s1}
@@ -3074,9 +3074,9 @@ qstr_Death_Camera|Todes Kamera
 qstr_Division_Placement|Platzierung der Truppenabteilungen
 qstr_Complex_Formations|Komplexe Formationen
 qstr_Formations_turned_OF|Formationen im Optionsmenü AUSGESCHALTEN
-qstr_Division_{reg1}_{s2}_g|Abteilung {reg1} {s2} nimmt diese Position ein...
-qstr_Division_{reg1}_{s2}_f|Abteilung {reg1} {s2} bildet Linie.
-qstr_Division_{reg1}_{s2}_fo|Abteilung {reg1} {s2} bildet {reg0} Linien.
+qstr_Division_{reg1}_{s2}_g|Abteilung {reg1} {s2} nimmt ihre gespeicherte Position ein...
+qstr_Division_{reg1}_{s2}_f|Abteilung {reg1} {s2} bildet Linie (gespeichert).
+qstr_Division_{reg1}_{s2}_fo|Abteilung {reg1} {s2} bildet {reg0} Linien (gespeichert).
 qstr_ENEMY_LORD_FOUND!|GEGNERISCHER FÜRST GEFUNDEN!
 qstr_{s1}_is_shouting_out|{s1} ruft seinen Kriegsschrei!
 qstr_{s1}_is_starting_a_s|{s1} startet einen Schild-Spott!
@@ -3089,12 +3089,12 @@ qstr_{s0}^^{s1}|{s0}^^{s1}
 qstr_The_old_captain_is_t|Der alte Kapitän ist zuviel für Euch. Ihr fallt in eine Pfütze von Blut, und eure Vision verblasst langsam...
 qstr_The_old_captain_is_to|Der alte Kapitän ist zuviel für Euch. Ihr liegt zerschlagen und Verwundet zu seinen Füßen. Nur die Gnade des alten Helden hält ihn davon ab, Euch zu töten.
 qstr_You_have_beaten_the_|Ihr habt den alten Kapitän geschlagen, so beginnt Eure Reise zu einer Legende.
-qstr_Today_is_a_good_day_|Heute ist ein guter Tag zum sterben, nicht wahr? "
+qstr_Today_is_a_good_day_|Heute ist ein guter Tag zum sterben, nicht wahr?'
 qstr_The_battle_against_t|Der Kampf gegen die Banditen war hart, aber Ihr habt gesiegt. Beim aufnehmen der Überreste aus einem Loch, das sie zwischen den Felsen gruben, findet Ihr ein Vermögen in Geld.
 qstr_You_have_killed_all_|Ihr habt die Wikinger getötet und die Sklaven befreit. Dadurch erhaltet Ihr Ruhm und ansehen.
 qstr_You_look_up_and_see_|Ihr schaut und seht, dass dieses Dorf bereits von den Wikingern geplündert wurde, und jetzt seid Ihr ihre neue Beute.
 qstr_After_a_hard_battle_|Nach einem schweren Gefecht, habt Ihr die Wikinger, welche versuchten Euch aufzulauern, besiegt. Nun gehören ihre Reichtümer euch, aber Ihr seid besonders froh darüber, ein paar Teile eines Kettenhemdes zu sehen.
-qstr_If_you_want_to_cross|Wenn Ihr die Brücke überqueren wollt, müsst Ihr den Troll bezahlen!"
+qstr_If_you_want_to_cross|Wenn Ihr die Brücke überqueren wollt, müsst Ihr den Troll bezahlen!'
 qstr_The_troll_is_dead_at|Der Troll liegt tot zu Euren Füßen, sodass Ihr den Schatz von den erpressten Reisenden und ihrer Gruppe erhaltet.
 qstr_Come_closer_closer_c|Komm näher, komm näher, ich bin jede Nacht hier. So lange bin ich alleine gewesen. Kommen und gewinne einen Preis!
 ; qstr_The_voice_continues_|The voice continues, 'Oh, I cannot be discourteous. Finally, someone is here to see me, someone who really wants to play games and win awards.'
@@ -3103,7 +3103,7 @@ qstr_Come_closer_closer_c|Komm näher, komm näher, ich bin jede Nacht hier. So 
 qstr_Do_you_want_to_stop_|Möchtet Ihr Eure Arbeit niederlegen und Euren Lohn aufgeben?
 qstr_Your_own_life_seems_|Euer eigenes Leben scheint nicht mehr so schlimm als Ihr diese armen Menschen seht, die sich in ein frühes Grab arbeiten, nur für das Brot das zum überleben reicht.
 qstr_The_rattle_of_spikes|Das Rasseln der Spikes auf dem Stein ist ohrenbetäubend. Unten sehen Sie die Leute, die hart unter dem Kommando eines Vorarbeiters arbeiten.\n
-; qstr_Bodo_has_received_to|Bodo has received too many blows to continue fighting.
+qstr_Bodo_has_received_to|Bodo hat zu viele Schläge abbekommen um den Kampf fortsetzen zu können.
 ; qstr_Bodo_spots_you_shake|Bodo spots you, shakes his head, and silently indicates that there are still enemies about.
 qstr_Bandits_strike_at_yo|Banditen schlagen auf Euch wutentbrannt ein und Ihr fallt in eine Blutlache. Sie denken, dass Ihr tot seid...
 qstr_The_bandits_and_slav|Die Banditen und Leibeignen sind erledigt. Nehmt überlebende Gefangen und verlasst das Schlachtfeld.^^Wenn Ihr gehen wollt drückt TAB.
@@ -3117,7 +3117,7 @@ qstr_As_you_advance_you_f|Als Ihr weiter kommt, bemerkt Ihr einen Lichtschein im
 qstr_You_feel_the_tension|Ihr fühlt die Spannung mit jedem Schritt, den Ihr macht.
 ; qstr_The_mouth_of_a_rock_|The mouth of a rock opens before you. All around is cold stone, and you behold graven marks in a language you do not know. What surprises and treasures are hidden here?
 ; qstr_You_are_overwhelmed_|You are overwhelmed by the enormity of time. The men who built this are long gone. We are dust and our life is so ephemeral... Who could live forever?
-qstr_On_the_right_you_see|Auf der rechten Seite seht Ihr eine Inschrift an der Wand, die lautet: "Livia pulchra est, Marcus dixit."
+qstr_On_the_right_you_see|Auf der rechten Seite seht Ihr eine Inschrift an der Wand, die lautet: 'Livia pulchra est, Marcus dixit.'
 ; qstr_It_s_cold_and_smells|It's cold and smells old, taking you back to another time... a time when Rome ruled the world, and men knew how to construct huge stone buildings of several stories.^^The pools, old recreation rooms, changing rooms... everything is covered in dust and brambles, all is abandoned.
 ; qstr_Refugees_and_deserte|Refugees and deserters have made this place their home. They are protected under the mantle of the last Druid and the blood of their sacrifices.
 ; qstr_Not_far_away_on_top_|Not far away, on top of the hills, you see several stone circles of the ancients. You imagine you can feel magic at this site, as if a bit of the old religion of the Celts still struggles to survive.
@@ -3129,19 +3129,19 @@ qstr_Camp_Conversation|Lager Gespräche
 qstr_You_can_click___T___|Ihr könnt 'T' drücken um zum kriechen umzuschalten.
 qstr_Everybody_back_on_th|Alle zurück auf das Schiff! Beeilung!
 qstr_Sea_Info_Tutorial|See Tutorial
-qstr_A_huskarl_shouts__Me|Ein Huskarl ruft, "Männer! Hört! Haltet die Linie, und wir werden gewinnen! Diejenigen, die da kommen sind nur Wikinger. Wir sind dänische Krieger!"
-qstr_A_huskarl_shouts__Th|Ein Huskarl ruft, "Thor! Höre unseren Schlachtruf und bereite die Walküren vor! Heute Abend speisen wir in Ihren Hallen!"
-qstr_Harald_calls_out__Co|Harald ruft: "Kommt schon! Beeilt Euch! Wir haben nicht den ganzen Tag. Schaut Euch die bereiten Sklaven an und trefft mich!"
+qstr_A_huskarl_shouts__Me|Ein Huskarl ruft, 'Männer! Hört! Haltet die Linie, und wir werden gewinnen! Diejenigen, die da kommen sind nur Wikinger. Wir sind dänische Krieger!'
+qstr_A_huskarl_shouts__Th|Ein Huskarl ruft, 'Thor! Höre unseren Schlachtruf und bereite die Walküren vor! Heute Abend speisen wir in Ihren Hallen!'
+qstr_Harald_calls_out__Co|Harald ruft: 'Kommt schon! Beeilt Euch! Wir haben nicht den ganzen Tag. Schaut Euch die bereiten Sklaven an und trefft mich!'
 qstr_The_stranger_shouts_|Der Fremde schreit, 'Heil! Mein Name ist Olvir, bekannt als Weißes Haar. Ihr seid also auf der Suche nach meinem Bruder Sven, bekannt als Stier Nacken. Nun, kümmert mich nicht. Ich bin im Auftrag von Sigurd Ragnarsson gekommen, um Eure Mutter gegen den Mann namens Bodo auszutauschen.'
-qstr_The_stranger_shouts__|Der Fremde schreit, "Heil! Mein Name ist Olvir, bekannt als weißes Haar. Ihr seid also auf der Suche nach meinem Bruder Sven, bekannt als Stier Nacken. Nun, kümmert mich nicht. Ich bin im Auftrag von Sigurd Ragnarsson gekommen, um Euch eure Mutter zu geben."
-qstr_Egil_yells__Heill_Ol|Egil schreit, "Heil Olvir weißes Haar! Ich habe von Euch und Euren Vereinbarungen mit Loki gehört. Lasst meines Freundes {reg59?ihr:seine} Mutter sich uns anschließen bevor wir das Gespräch fortsetzen."
-qstr_Olvir_shouts:__Sure_|Olvir schreit: "Sicher, Egil, des Königs Bastard, ich habe auch von Euch gehört, und ich sehe, dass Ihr der Mund von {Playername} geworden seid, dem Verräter der Kennemer. {reg59?Sie:Er} ist frei, um unseren Gefangenen zu sprechen. Ich werde ihn zu Euch schicken."
+qstr_The_stranger_shouts__|Der Fremde schreit, 'Heil! Mein Name ist Olvir, bekannt als weißes Haar. Ihr seid also auf der Suche nach meinem Bruder Sven, bekannt als Stier Nacken. Nun, kümmert mich nicht. Ich bin im Auftrag von Sigurd Ragnarsson gekommen, um Euch eure Mutter zu geben.'
+qstr_Egil_yells__Heill_Ol|Egil schreit, 'Heil Olvir Weißhaar! Ich habe von Euch und Euren Absprachen mit Loki gehört. Lasst die Mutter {reg59?meiner Freundin:meines Freundes} sich uns anschließen, bevor wir das Gespräch fortsetzen.'
+qstr_Olvir_shouts:__Sure_|Olvir schreit: 'Sicher, Egil, des Königs Bastard, ich habe auch von Euch gehört, und ich sehe, dass Ihr der Mund von {Playername} geworden seid, dem Verräter der Kennemer. {reg59?Sie:Er} ist frei, um unseren Gefangenen zu sprechen. Ich werde ihn zu Euch schicken.'
 qstr_Mission:_Speak_to_yo|Mission: Sprich mit Eurer Mutter.
-qstr_Suddenly_Olvir_shout|Olvir schreit plötzlich: "Männer. Schildmauer. Jetzt! Für Ragnar! Für Sigurd! Für Odin! Tod unseren Feinden!
+qstr_Suddenly_Olvir_shout|Olvir schreit plötzlich: 'Männer. Schildmauer. Jetzt! Für Ragnar! Für Sigurd! Für Odin! Tod unseren Feinden!
 qstr_The_old_hero_is_too_|Der alte Held ist zuviel für Euch. Ihr fallt in eine Pfütze von Blut, und eure Vision verblasst langsam...
 qstr_The_old_hero_is_too_m|Der alte Held ist zuviel für Euch. Ihr liegt zerschlagen und Verwundet zu seinen Füßen. Nur die Gnade des alten Helden hält ihn davon ab, Euch zu töten.
 qstr_You_have_beaten_the_o|Ihr habt den alten Held geschlagen, so beginnt Eure Reise zu einer Legende.
-qstr_Beda_cries_out__Oh_m|Beda schreit auf: "Oh mein Gott! Oh mein Gott! Ich hörte ein Geräusch! Ihr habt mich verfolgt! Svens Männer haben mich verfolgt! Gott schütze uns! "
+qstr_Beda_cries_out__Oh_m|Beda schreit auf: 'Oh mein Gott! Oh mein Gott! Ich hörte ein Geräusch! Ihr habt mich verfolgt! Svens Männer haben mich verfolgt! Gott schütze uns!'
 qstr_Something_is_moving_|Etwas bewegt sich im Unterholz...
 ; qstr_Reginhard_shouts__Al|Reginhard shouts, 'All I wanted was a farm, a wife and children. I did not want your death, but I do not want to die either. Sorry, {playername}. Sorry to have to kill you.'
 ; qstr_Egil_shouts__You_ll_|Egil shouts, 'You'll die to defend the bastard traitor, Reginhard. You have chosen this poor course, so I will take command of your men after your death and take them on a path of glory that they would never have known with you.'
@@ -3163,12 +3163,12 @@ qstr_Readingum_previously|Readingum, zuvor ein sächsisches Dorf, ist heute im B
 ; qstr_Aelfred_shouts__Dane|Aelfred shouts, 'Danes bring violence, fear and their pagan gods. They come to plunder this land -- your land -- and will not hesitate to kill our families if we allow them.'
 ; qstr_Aelfred_shouts__You_|Aelfred shouts, 'You're the only thing standing in their way. You're the wall that defends Wessex. If you fall, Wessex dies. Men of Wessex and Cent, God is with us! He protects us! Can we fail God? Can we fail our families?'
 qstr_Ut_Ut_Ut!_Ut_Ut_Ut!_|Ut Ut Ut! Ut Ut Ut! Ut Ut Ut! Ut Ut Ut! Ut Ut Ut! Ut Ut Ut!
-qstr_Aelfred_shouts__Ut_U|Aelfred Schreit, "Ut Ut Ut!"
+qstr_Aelfred_shouts__Ut_U|Aelfred Schreit, 'Ut Ut Ut!'
 ; qstr_Halfdan_shouts__Brot|Halfdan shouts, 'Brothers! Warriors! Odin watches you, Thor is among us, and Loki has gone to confuse our enemies! They, the Saxons, are afraid. They know that we will go after them, defeat them and kill many, as we did here in Readingum!'
 ; qstr_Halfdan_shouts__You_|Halfdan shouts, 'You know me, and I will know you. We fought together, and we will continue doing it. Today we depart for Aescesdun to attack the Saxons. If you fight as ever, if our time is come, then the Saxons will be broken and Wessex will be ours.'
 ; qstr_Halfdan_shouts__Thin|Halfdan shouts, 'Think of the riches that await you in slaves and everlasting fame. My father, Ragnar, would be proud of you, as I am. We are Danish. We are Scyldings. Today, brethren, mark a new rune of glory! Are you with me? Are you ready for glory?'
 qstr_Knyjum_knyjum_konung|Knyjum, knyjum, konungs lidar, hardla, hardla boanda menn! Knyjum! Knyjum! Knyjum!
-qstr_Halfdan_shouts__Knyj|Halfdan Schreit, "Knyjum! Knyjum! Knyjum!"
+qstr_Halfdan_shouts__Knyj|Halfdan Schreit, 'Knyjum! Knyjum! Knyjum!'
 ; qstr_The_Asturians_have_t|The Asturians have taken the village, and you see many of them around. Douar-an-Enez sits on a cliff, and you suppose that the men you seek will be there.
 ; qstr_Aelfred_says__{playe|Aelfred says, '{playername}, listen to me. We have a problem. The messengers I send my brother always come back with the same answer. He is still in his prayers and has ordered his guard that nobody disturb him.'
 ; qstr_Aelfred_continues__I|Aelfred continues, 'I think he does not know that the Danish are about to gain the height advantage. If that happens, we will all be killed. His guards are very protective and do not let anyone pass, but if we wait, we die. I will order an attack on the Danish... I think that's what we have to do, you know? I need you to go with me. If we stay here, we die.'

@@ -21,8 +21,8 @@ str_hold_fire|Feuer Stoppen
 str_blunt_hold_fire|Ohne Schneide/ Feuer Stoppen
 str_tutorial_ammo_refilled|Munition aufgefüllt.
 str_tutorial_failed|Dieses mal wurdet Ihr besiegt, jedoch keine Sorge. Folgt den Anweisungen sorgfältig und Ihr werdet das Nächste mal besser sein.  Drückt die TAB-Taste um zum Menü zurück zu kehren wo Ihr dieses Tutorial erneut starten könnt.
-str_tutorialmq_1_msg_1|In diesem Tutorial werden Sie lernen die Grundlagen der Bewegung, Interaktion und kämpfe. ^ ^ Im Viking Conquest, können Sie per Maus steuern, wo Sie hinschauen und mit W, A, S,D-Tasten können sie sich bewegen. Ihre erste Aufgabe ist... ^ ^ Ziel: Gehen Sie in die Mitte des Bootes.
-str_tutorialmq_1_msg_2|Gut gemacht. Als nächstes lernen wir Interaktion mit Objekten und Personen. In Ihrer Nähe ist ein Mann namens Bodo. Um herauszufinden, wer die Person ist, gehen Sie in Richtung zu ihm, bis der Name erscheint. Um mit Bodo zu sprechen, sobald Sie ihn gefunden haben, drücken Sie die F-Taste. ^ ^ Die F-Taste zur Interaktion mit Personen und Szene-Requisiten und Sie können auch offene Türen und Truhen, Elemente und vieles mehr verwenden. ^ ^ Ziel: Sprecht mit Bodo.
+str_tutorialmq_1_msg_1|In diesem Tutorial werdet Ihr die Bewegungsgrundlagen, Interaktion mit anderen Personen und das Kämpfen lernen.^^In Viking Conquest, können Ihr per Maus Eure Blickrichtung steuern, und Euch mit den Tasten W, A, S und D bewegen. Eure erste Aufgabe ist...^^Ziel: Geht in die Mitte des Bootes.
+str_tutorialmq_1_msg_2|Gut gemacht. Als nächstes lernt Ihr die Interaktion mit Objekten und Personen. In Eurer Nähe ist ein Mann namens Bodo. Um herauszufinden, wer eine Person ist, geht auf Sie zu, bis dessen Name erscheint. Sobald Ihr Bodo gefunden habt, drückt die Taste F, um mit ihm zu sprechen.^^Nutzt die F-Taste zur Interaktion mit Personen und Objekten. Türen und Truhen werden so geöffnet, Gegenstände aufgehoben und vieles mehr.^^Ziel: Sprecht mit Bodo.
 str_tutorialmq_1_msg_3|Ausgezeichnet. Als nächstes werden Sie mit Waffen angreifen. ^ ^ Sie können ihr Waffen die sie Ausgerüstet haben auch durch Scrollen nach vorne mit dem Rad Ihrer Maus oder durch Drücken einer der ersten vier Zahlen auf Ihrem Ziffernblock. ^ ^ Sie können Angreifen mit der linken Maustaste. Drücken Sie und halten Sie die Taste zum Angriff bereit, dann lassen Sie die Taste los. Wenn Sie für eine kurze zeit vor dem Loslassen der linken Maustaste gedrückt haltet, wird Ihr Angriff stärker sein. ^ ^ Mit Bild Pfeil nach unten oder verwenden Sie die Tastatur und dass Schild rauszuholen oder wegzustecken. ^ ^ Tor: Sprecht mit Veteran, einige Kampf zu üben.
 str_tutorialmq_1_msg_4|Schöne Arbeit! Sie kennen die grundlegenden Konzepte, von Viking Conquest um zu spielen. sprechen Sie mit den NPCs, kämpfe mit den Seeleuten oder endgültig,  wenn Sie bereit sind, sprechen Sie mit den Kapitän Ihr Abenteuer geht weiter.
 str_finished|(Abgeschlossen)
@@ -135,26 +135,26 @@ str_relation_plus_70_ns|{s60} ist euch gegenüber zärtlich.
 str_relation_plus_80_ns|{s60} ist loyal zu Ihnen.
 str_relation_plus_90_ns|{s60} ist euch gegenüber hingebungsvoll.
 str_relation_reg1| Beziehung: {reg1}
-str_center_relation_mnus_100|^Die Bevölkerung hasst euch mit inbrunst.
+str_center_relation_mnus_100|^Die Bevölkerung hasst Euch mit inbrunst.
 str_center_relation_mnus_90|^Die Bevölkerung ist verzehrt vor Rachsucht.
-str_center_relation_mnus_80|^Die Bevölkerung hasst euch sehr.
-str_center_relation_mnus_70|^Die Bevölkerung hasst euch.
-str_center_relation_mnus_60|^Die Bevölkerung ist euch gegenüber hasserfüllt.
-str_center_relation_mnus_50|^Die Bevölkerung ist euch gegenüber äußerst abweisend.
-str_center_relation_mnus_40|^Die Bevölkerung ist euch gegenüber sehr abweisend
-str_center_relation_mnus_30|^Die Bevölkerung ist euch gegenüber abweisend.
-str_center_relation_mnus_20|^Die Bevölkerung ist gegen euch.
-str_center_relation_mnus_10|^Die Bevölkerung stimmt nicht mit euch überein.
-str_center_relation_plus_0|^Die Bevölkerung ist  neutral.
-str_center_relation_plus_10|^Die Bevölkerung akzeptiert euch.
+str_center_relation_mnus_80|^Die Bevölkerung hasst Euch sehr.
+str_center_relation_mnus_70|^Die Bevölkerung hasst Euch.
+str_center_relation_mnus_60|^Die Bevölkerung ist Euch gegenüber hasserfüllt.
+str_center_relation_mnus_50|^Die Bevölkerung ist Euch gegenüber äußerst abweisend.
+str_center_relation_mnus_40|^Die Bevölkerung ist Euch gegenüber sehr abweisend
+str_center_relation_mnus_30|^Die Bevölkerung ist Euch gegenüber abweisend.
+str_center_relation_mnus_20|^Die Bevölkerung ist gegen Euch.
+str_center_relation_mnus_10|^Die Bevölkerung stimmt nicht mit Euch überein.
+str_center_relation_plus_0|^Die Bevölkerung ist neutral.
+str_center_relation_plus_10|^Die Bevölkerung akzeptiert Euch.
 str_center_relation_plus_20|^Die Bevölkerung ist kooperativ.
-str_center_relation_plus_30|^Die Bevölkerung unterstützt euch etwas.
-str_center_relation_plus_40|^Die Bevölkerung unterstützt euch.
-str_center_relation_plus_50|^Die Bevölkerung unterstützt euch sehr.
-str_center_relation_plus_60|^Die Bevölkerung ist zu euch loyal.
-str_center_relation_plus_70|^Die Bevölkerung ist euch gegenüber sehr loyal.
-str_center_relation_plus_80|^Die Bevölkerung ist euch ergeben.
-str_center_relation_plus_90|^Die Bevölkerung ist euch sehr ergeben.
+str_center_relation_plus_30|^Die Bevölkerung unterstützt Euch etwas.
+str_center_relation_plus_40|^Die Bevölkerung unterstützt Euch.
+str_center_relation_plus_50|^Die Bevölkerung unterstützt Euch sehr.
+str_center_relation_plus_60|^Die Bevölkerung ist zu Euch loyal.
+str_center_relation_plus_70|^Die Bevölkerung ist Euch gegenüber sehr loyal.
+str_center_relation_plus_80|^Die Bevölkerung ist Euch ergeben.
+str_center_relation_plus_90|^Die Bevölkerung ist Euch sehr ergeben.
 str_town_prosperity_0|^Die Armut der Stadt {s60} ist unerträglich.
 str_town_prosperity_10|^Die Stadt {s60} ist verlassen und elend.
 str_town_prosperity_20|^Die Stadt {s60} sieht wie ein erbärmlicher, desolater Platz aus.
@@ -472,8 +472,8 @@ str_npc1_backstory_later|Was denkt Ihr? Ein guter Spurensucher ist immer wichtig
 str_npc2_backstory_later|Habe ich Euch jemals erzählt, dass ich solche Leute nicht ausstehen kann, die mir saure Milch servieren, wenn in dessen Vorratskammern Met versteckt ist?
 str_npc3_backstory_later|Leben in Kennemer war furchtbar für mich. Ist es das, warum ihr hier seid, {reg59?madame:sir}? Um mich zu mißbrauchen wie jede andere Person, die in mein Leben trat, seit ich versklavt wurde?
 str_npc4_backstory_later|Ich ging zurück in die Heimat meiner Vorfahren, um meine Ländereien zu inspizieren. Aber wir hatten eine Heuschreckenplage und schwere Regenfälle und andere Dinge, also bin ich wieder hier, auf der Suche nach Arbeit.
-str_npc5_backstory_later|Ich wanderte durch dieses kriegsgeschundene Land auf der Suche nach einem Anführer der es wert wäre, ihm zu folgen. Würdiger als der König, dessen ich mich schäme, ihm einst gehorcht zu haben."$
-str_npc6_backstory_later|Ich war unstet, habe aber jetzt die Rettung. Vielleicht kann ich im Krieg, den ich über alles liebe, meine Sünde vergessen. "$
+str_npc5_backstory_later|Ich wanderte durch dieses kriegsgeschundene Land auf der Suche nach einem Anführer der es wert wäre, ihm zu folgen. Würdiger als der König, dessen ich mich schäme, ihm einst gehorcht zu haben.
+str_npc6_backstory_later|Ich war unstet, habe aber jetzt die Rettung. Vielleicht kann ich im Krieg, den ich über alles liebe, meine Sünde vergessen...
 str_npc7_backstory_later|Ich bin auf der Suche nach Arbeit als Spurenleser gewesen, aber es war nicht einfach. Briten und Sachsen sind meist Kranke, Lausige und Unwissende, und es ist nicht leicht, mit solchen Leuten zu arbeiten. Nicht, dass wir Pikten viel besser sind ... Jedenfalls bin ich bei weitem eine Ausnahme, wie Sie schon wahrgenommen haben müssen.
 str_npc8_backstory_later|Ich bin auf der Suche nach einem Kriegsherrn in dessen Schildwall ich kämpfen kann. Ich fühle mich nur inmitten meiner Kampfgenossen lebendig und das hilft mir die Familie zu vergessen, die ich vor ein paar Jahren verloren habe.
 str_npc9_backstory_later|Ich bot mein Schwert schon einigen Gebietern hier in der Gegend an, doch meistens schickten sie mich auf Botengänge, ließen mich Bauern ausbilden, oder hatten andere Arbeiten, die für einen Ehrenmann nicht taugen.
@@ -558,7 +558,7 @@ str_npc7_signup_response_1|Ihr seid willkommen.
 str_npc8_signup_response_1|ok, hier sind Eure Sachen. Der Weg vor uns ruft.
 str_npc9_signup_response_1|Nun, es sollte nicht sein. Ich werde mit ihnen reden.
 str_npc10_signup_response_1|Guter Mann, aber Vorsicht! Du wirst keinen Briten in meine Schildwand bringen.
-str_npc11_signup_response_1|Sehr gut, Ihrt seid engagiert, aber hört auf zu mich "{reg59?meine hübsche:stattlich}" zu nennen.
+str_npc11_signup_response_1|Sehr gut, Ihr seid engagiert, aber hört auf zu mich '{reg59?meine Hübsche:mein Hübscher}' zu nennen.
 str_npc12_signup_response_1|Dann Seid willkommen in meiner Schildwand, Loeknir.
 str_npc13_signup_response_1|Gut. Ich bin glücklich jemanden wie euch einzustellen.
 str_npc14_signup_response_1|Gut. Macht Euch bereit und wir machen uns bald auf den Weg.
@@ -698,7 +698,7 @@ str_npc3_personalityclash2_speech_b|Nach unserem letzten Sieg fledderte ich die 
 str_npc4_personalityclash2_speech_b|Ich bin adligen Geblüts, und sie von niederster Geburt. Sie muss lernen, wo ihr Stand ist.
 str_npc5_personalityclash2_speech_b|Als die Beute nach dem letzten Gefecht aufgehäuft wurde, fand ich im Gepäck des Feindes einen sehr ansehnlichen Kochtopf. Oft hatte ich gewünscht, solch einen Topf zu finden, um Eintöpfe zu bereiten, wie sie mein Volk zur Magenwärmung in den Wintermonaten isst. Aber {s11} schnappt sich den Topf und sagt mir, ich dürfe ihn nicht mit heidnischer Kost 'verseuchen', und dass er rechtens ihr gehört. Ich überließ ihr den Topf, aber in Zukunft werde ich solcherlei Respektlosigkeit nicht mehr dulden.
 str_npc6_personalityclash2_speech_b|Mein Fürst -- solche Überheblichkeit wird der Himmel nicht dulden, und ich fürchte, wir werden alle den Preis zahlen müssen.
-str_npc7_personalityclash2_speech_b|Er beharrt auch darauf, dass ich ihn anstelle seines lächerlichen Namens als "mein Herr" ansprechen sollte. Ich sage euch eines Tages, wenn ich meinen eigene Trupp von Kriegern habe, werde ich ihn jagen und ihn fragen, wie viel besser ein Krieger ist, der mit meiner Axt in seinem Schädel begraben ist.
+str_npc7_personalityclash2_speech_b|Er beharrt auch darauf, dass ich ihn anstelle seines lächerlichen Namens als 'mein Herr' ansprechen sollte. Ich sage euch eines Tages, wenn ich meinen eigene Trupp von Kriegern habe, werde ich ihn jagen und ihn fragen, wie viel besser ein Krieger ist, der mit meiner Axt in seinem Schädel begraben ist.
 str_npc8_personalityclash2_speech_b|Als wir unsere Waffen nach dem letzten Gefecht reinigten, bemerkte ich ihr gegenüber, dass sie ein hübsches Mädchen sei, und ich sie gerne mit einem meiner Krieger verheiraten würde, nachdem ich meine Ländereien wieder erhalten habe. Ich hielt das für ein sehr großzügiges Angebot, denn eine von ihrem Vater enterbte Frau wird kaum mit Heiratsangeboten überschüttet werden. Aber statt mir zu danken, drehte sie mir einfach wortlos den Rücken zu. Nur aus reinem Respekt für Eure Anführerschaft habe ich ihr nicht sofort Manieren beigebracht.
 str_npc9_personalityclash2_speech_b|Ich schätze, dass er bereit ist, sein Leben in der Schlacht zu riskieren, aber das allein macht keinen Krieger aus. Er ist nicht von edler Geburt. Er kann mit uns als Hilfskraft nützlich sein, aber er sollte nicht versuchen, den Ruhm der Besseren zu stehlen.
 str_npc10_personalityclash2_speech_b|Im letzten Gefecht rief er mir Befehle zu: 'Vorwärts, zurück, haltet die Reihe.' Als ich ihm beschied, er möge sich um seinen eigenen Kram kümmern, wollte er mich auspeitschen lassen. Hauptmann, der Mann hat bald einen Armbrustbolzen in der Brust, wenn ich das so sagen darf.
@@ -958,7 +958,7 @@ str_npc7_intel_mission|Hauptmann – als ich meine ehemalige Heimat in {s17} ver
 str_npc8_intel_mission|Solltet Ihr Interesse an den Vorgängen in {s18} haben – ein früherer Schildgenosse von mir hat sich auf einer Farm nahe {s17} zur Ruhe gesetzt. Er hält noch Kontakt mit einer Reihe anderer alter Krieger. Ich könnte ihn für ein paar Tage besuchen und mehr darüber herausfinden, was dort vor sich geht.
 str_npc9_intel_mission|{Herr/Herrin} – schon seit geraumer Zeit habe ich nicht mehr die Wonnen von {s17} gekostet, wo vornehme Leute wie ich es gewohnt sind, sich der Gastfreundschaft des mächtigsten und großzügigsten Fürsten zu erfreuen. Wünschtet Ihr es, so könnte ich mich vielleicht dorthin begeben, und Euch etwas über die Sorgen wissen lassen, die auf den Gemütern der großen Räte der {s18} lasten.
 str_npc10_intel_mission|Hauptmann – Ich habe mir gedacht, dass sich meine alten Gefährten in der Garnison von {s17} sicherlich freuen würden, mich zu sehen. Es sind gute Leute, die ihre Stadt niemals betrügen würden, aber genau wie ich hegen sie keine besondere Hochachtung für die Blaublüter, die sie befehligen, und könnten daher gewillt sein, uns das eine oder andere politische Gerücht mitzuteilen. Der Adel führt ständig Streitereien über kleine Angelegenheiten, aber meine Kumpel könnten wissen, ob tatsächlich etwas im Busch ist.
-str_npc11_intel_mission|{Junge/Mädel} – Es ist schon eine ganze Weile her, seit ich meine Verwandtschaft in {s17} das letzte Mal besuchte. Sie sind immer recht nett zu mir gewesen, und haben mir auch über magere Jahre hinweg geholfen, also würde ich gerne meinen jetzigen Reichtum mit ihnen teilen. Außerdem habe ich oft genug Ware von den Getreidehändlern in Praven gekauft, so dass sie mir vertrauen. Ich könnte sie wohl überzeugen, ein paar Einzelheiten über die Ereignisse in {s18} herauszurücken, falls Euch das interessieren würde.
+str_npc11_intel_mission|{reg59?Meine hübsche:Mein hübscher}, es ist schon eine ganze Weile her, seit ich meine Verwandtschaft in {s17} das letzte Mal besuchte.\n\nSie gehörten zu den wenigen, die mich über Jahre hinweg unterstützt haben, also möchte ich mit ihnen einen Teil meines neu erlangten Reichtums und Bekundungen unserer Verbundenheit teilen. Dann werden sie sicherlich ihrerseits ein paar Einzelheiten über die Ereignisse über {s18} herauszurücken, falls Euch das interessieren würde.
 str_npc12_intel_mission|Wenn Ihr es gestattet, Hauptmann, so würde ich gerne einen meiner Schüler besuchen, der nun in den Diensten des Fürsten von {s17} steht. Ich hatte große Pläne für ihn, aber mir ist zu Ohren gekommen, dass er seit kurzem Lähmungen mit Zuckermelonen zu heilen versucht, da deren kalte Essenz seiner Ansicht nach enorm viel Galle bindet. Dies ist ein Hohn für die medizinische Zunft, und ich muss schnell zu ihm reisen, um ihn zu korrigieren. Während ich vor Ort bin, könnte ich ihn über die neuesten Trends bei den {s17} befragen, was für Euch von Interesse sein könnte.
 str_npc13_intel_mission|Oh Heldenhafter! Mit Eurer Erlaubnis würde ich gerne den Tälern nahe {s17} einen Besuch abstatten. Ich bemühe mich, meine alten Weidegründe nicht zu besuchen, aber ich muss gestehen, dass an mir eine gewisse Neugier nagt, wie es einer hübschen Schafshirtin ergeht, mit der ich bekannt war. Auf dem Weg könnte ich versuchen, in der Burg vorbeizuschauen. Es fiele mir Charmebolzen wohl nicht allzu schwer, mich in die Halle des Fürsten zu schmeicheln, und dort könnte ich die neuesten Nachrichten von den {s18} für Euch in Erfahrung bringen.
 str_npc14_intel_mission|Hauptmann ... Wie Ihr vielleicht wisst, so half ich bei der Ausbildung der Garnison von {s17}. Einer ihrer Angehörigen hat mich neulich kontaktiert, und dabei durchblicken lassen, dass er, wenn ich ihn besuchen würde, mir Informationen über die Ereignisse bei den {s18} geben könnte. Ich bin dazu bereit, wenn Ihr mich entbehren könnt. Es ist zwar eine große Schande, ein Verräter zu sein, aber es ist nichts falsch daran, sich nicht einen zunutze zu machen.
@@ -1837,7 +1837,7 @@ str_fatherinlaw|Schwiegervater
 str_sisterinlaw|Schwägerin
 str_brotherinlaw|Schwager
 str_print_party_members_entered|print Trupp members entered
-str_num_companion_stacks_=_reg10="Anzahl der Begleitermasse = {reg10}"
+str_num_companion_stacks_=_reg10= 'Anzahl der Begleitermasse = {reg10}"
 str_someone|jemand
 str_i_take_what_work_i_can_sirmadame_i_carry_water_or_help_the_merchants_with_their_loads_or_help_build_things_if_theres_things_to_be_built|Ich nehme jede Arbeit an, {mein Herr/meine Dame}. Ich schleppe Wasser oder helfe den Kaufleuten mit ihren Lasten oder helfe bei Bauarbeiten.
 str_im_not_doing_anything_sirmadame_theres_no_work_to_be_had_around_here_these_days|Ich bin gerade nicht beschäftigt, {mein Herr/meine Dame}. Zurzeit gibt es hier keine Arbeit.
@@ -2786,7 +2786,7 @@ str_this_would_be_better_worth_the_effort|Diese hier wäre in Anbetracht ihres W
 str_has_decided_to_defend_|Richtig. Ich nehme an, ich sollte vorsichtiger sein.
 str_before_going_offensive_we_should_protect_our_lands_if_there_is_any_threat_so_this_can_be_reason_marshal_choosed_defending_s4|Bevor wir in die Offensive gehen sollten wir unsere Lande vor jeglichem Feind schützen. Dies kann die Ursache für die Entscheidung des Marschalls sein,  {s4} zu verteidigen.
 str_are_you_all_right|Nun … Lasst mich meinen Vorschlag erläutern
-str_you_are_awake|Ah – Ihr seid wach. Gut zu sehen, dass Ihr noch laufen könnt. Ihr könnt von Glück sagen, dass wir des Weges kamen. Ich unterhielt mich mit der Wache, als wir Kampfeslärm hörten und sofort an den Ort des Geschehens eilten. Wir konnten zwar nicht verhindern, dass man Euch niederschlug, aber wenigstens hat man Euch nicht die Gurgel aufgeschlitzt … Nun … Vielleicht könnt Ihr mir helfen …
+str_you_are_awake|Ah -- Ihr seid wach. Gut zu sehen, dass Ihr noch laufen könnt. Ihr könnt Euch glücklich schätzen, Fremder. Die Götter haben über euch gewacht. Als sie Euch zu mir brachten, ward Ihr mehr tot als lebendig.
 str_save_town_from_bandits|Rettet {s9} vor Banditen.
 str_you_fought_well_at_town_fight_survived|Hah! Gut gemacht – ich sah mindestens drei Gegner zu Boden gehen, bevor es Euch selbst erwischte. Kämpft weiter so und Ihr werdet Euch in diesen Landen einen ordentlichen Namen machen.
 str_you_fought_normal_at_town_fight_survived|Gut gemacht! Ich habe gehört, dass Ihr einen der beiden Bastarde erwischt habt … und Ihr lebt noch. Besser kann ein Kampf doch gar nicht ausgehen …

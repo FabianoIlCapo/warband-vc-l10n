@@ -108,7 +108,7 @@ mno_pre_join_help_defenders|Correr para o auxílio de s1 {}.
 mno_pre_join_leave|Não se envolver.
 menu_join_battle|Você está ajudando os {s2} contra os s1 {}. Vocês tem {reg10} guerreiros aptos pra batalha, contra {reg11} do inimigo.
 mno_join_attack|{s7} o inimigo.
-; mno_join_order_attack|Order your troops to join your allies while you stay back.
+mno_join_order_attack|Ordenar suas tropas para juntar-se com seus aliados enquanto você fica na retaguarda.
 mno_join_leave|Partir.
 menu_join_order_attack|{s4} ^ ^ Seus mortos ou feridos: {s8} ^ ^ Mortos ou feridos dos aliados: {s9} ^ ^ Inimigos mortos ou feridos: {s10}
 menu_zendar|Você entra na cidade de Zendar.
@@ -278,7 +278,7 @@ menu_castle_taken_by_friends|Nada para ver aqui.
 ; mno_keep_plunder|Conquer and plunder the {reg2?town:fort}.
 ; mno_keep_plunder_2|Conquer and plunder the {reg2?town:fort}.
 ; mno_saqueo_normal|Plunder the {reg2?town:fort} and leave.
-; mno_saqueo_total|Devastate the place and leave.
+mno_saqueo_total|Devastar o lugar e sair.
 ; menu_castle_taken_plunder|The {reg2?town:fort} is plundered. You have collected {reg7} peningas.
 ; menu_castle_taken_native|{s3} has fallen to your troops, and you now have full control of the {reg2?town:fort}. {reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
 ; menu_castle_taken_keepplunder|{s3} has fallen to your troops, and you now have full control of the {reg2?town:fort}. Your troops run through the streets getting as much stuff as they can carry. The {reg2?town:fort} is plundered. You have collected {reg7} peningas. {reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
@@ -329,7 +329,7 @@ mno_village_leave|Sair...
 ; mno_village_force_convert|Try to convert the peasants forcefully.
 ; mno_village_take_food|Force peasants to give you supplies.
 mno_village_steal_cattle|Roubar gado.
-; mno_enslave_villagers|Enslave the villagers.
+mno_enslave_villagers|Escravizar os aldeões.
 mno_village_loot|Pilhar e queimar essa vila.
 menu_recruit_volunteers|{s18}
 ; mno_continue_not_enough_gold|I don't have enough money.
@@ -384,7 +384,7 @@ mno_village_raid_leave|Deixar a vila em paz.
 ; menu_village_raid_villagers_toslaves|Do you want to hunt the villagers down like animals and make them slaves?
 ; mno_villagers_slaves|Take all villagers prisoner!
 ; menu_village_loot_no_resist|The villagers here are few and frightened, and they quickly scatter and run before you, but your men manage to catch some of them. The village is at your mercy.
-; mno_village_enslave|Enslave the villagers.
+mno_village_enslave|Escravizar os aldeões.
 mno_take_supplies1|Pegar os suprimentos.
 ; menu_village_loot_no_resist_population_flee|Most villagers ran away when they saw your army. The village is at your mercy.
 ; mno_village_lootflee|Plunder the village, then raze it.
