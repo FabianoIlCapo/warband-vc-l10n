@@ -30,7 +30,7 @@ p_town_28|Cruaghan
 p_town_29|Temair
 p_castle_1|Caer Ligualid
 p_castle_2|Mame Ceaster
-p_castle_3|Donne Ceaster 
+p_castle_3|Donne Ceaster
 p_castle_4|Middelsburh
 p_castle_5|Denisesburna
 p_castle_6|Ad Gefrin
@@ -239,8 +239,8 @@ p_village_118|Bal Scuin East
 p_village_119|Bal Scuin West
 p_village_120|Witan Ham North
 p_village_121|Witan Ham South
-p_village_122|Tref Bodmine East
-p_village_123|Tref Bodmine West
+p_village_122|Tref Bosvenegh East
+p_village_123|Tref Bosvenegh West
 p_village_124|Bal Cainnighn North
 p_village_125|Bal Cainnighn South
 p_village_126|Bal Rigmonaid North
@@ -281,8 +281,8 @@ p_mega_danishrmy|Great Summer Army
 p_battle_stones|Stone Row
 p_farmland_special|Farmland
 p_roman_fort|Roman Fort
-p_troll_bridge|The Trolls Bridge
-p_circle_mystic1|Circle Mystic
+p_troll_bridge|The Troll's Bridge
+p_circle_mystic1|Mystic Circle
 p_celidon_forest|Ancient Stones
 p_hidden_valley|Strange Ruins
 p_quarry1|Quarry
@@ -306,11 +306,11 @@ p_farmsteadsp6|Farmstead
 p_farmsteadsp7|Farmstead
 p_farmsteadsp8|Farmstead
 p_farmsteadsp9|Farmstead
-p_hadrian_wall1|Hadrian Wall
-p_bjorn_camp|Bjorn's camp
-p_snotingaham_siege|Snotingaham under siege
+p_hadrian_wall1|Hadrian's Wall
+p_bjorn_camp|Bjorn's Camp
+p_snotingaham_siege|Snotingaham under Siege
 p_odin_cave|Odin's Cave
-p_stonemonumento|stonemonumento
+p_stonemonumento|Monument of Stones
 p_forestbattle|Forest Battle
 p_the_thing|The Assembly
 p_dhorak_keep|Dhorak Keep
@@ -320,7 +320,7 @@ p_training_ground_2|Training Village
 p_training_ground_3|Training Field
 p_training_ground_4|Training Lake
 p_training_ground_5|Training Camp
-p_monasterio1|Ad Candida Casam
+p_monasterio1|Ad Candidam Casam
 p_monasterio2|Willibrord
 p_monasterio3|Dommoc
 p_monasterio4|Lindisfarne
@@ -363,34 +363,40 @@ p_ferry_1b|ferry station
 p_ferry_2b|ferry station
 p_ferry_3b|ferry station
 p_ferry_4b|ferry station
-p_looter_spawn_point|their hideout
-p_looter_spawn_point2|their hideout
-p_looter_spawn_point3|their hideout
-p_steppe_bandit_spawn_point|their longphort
-p_taiga_bandit_spawn_point|their longphort
-p_forest_bandit_spawn_point|their den
-p_forest_bandit_spawn_point2|their den
-p_forest_bandit_spawn_point4|their den
-p_mountain_bandit_spawn_point|their camp
-p_mountain_bandit_spawn_point3|their camp
-p_sea_raider_spawn_point_1|their camp
-p_sea_raider_spawn_point_2|their longphort
-p_sea_raider_spawn_point_3|their longphort
-p_desert_bandit_spawn_point|their camp
-p_frank_looters_sp_1|their camp
-p_frank_looters_sp_2|their camp
-p_pagan_spawn_1|the countryside
-p_pagan_spawn_2|the countryside
-p_pagan_spawn_3|the countryside
-p_pagan_spawn_4|the countryside
-p_ship_raider_spawn_point_1|the channel
-p_ship_raider_spawn_point_2|the area
-p_ship_raider_spawn_point_3|the area
-p_ship_raider_spawn_point_4|the area
-p_ship_raider_spawn_point_5|the area
-p_ship_raider_spawn_point_6|the area
+p_wales_spawn_point|the coast
+p_fortiu_spawn_point|the coast
+p_sussex_spawn_point|South Seaxe
+p_clyde_coast_spawn_point|the river
+p_limerick_spawn_point|the coast
+p_norway_spawn_point|the mountains
+p_northumbria_spawn_point|the countryside
+p_mierce_spawn_point|the countryside
+p_crafu_spawn_point|the countryside
+p_alban_spawn_point|the countryside
+p_aileach_spawn_point|the countryside
+p_engla_coast_spawn_point|the coast
+p_cornish_coast_spawn_point|the coast
+p_leinster_spawn_point|the countryside
+p_frisia_spawn_point|the countryside
+p_denmark_spawn_point|the countryside
+p_caitness_priest_spawn_point|the countryside
+p_northumbria_priest_spawn_point|the countryside
+p_norway_priest_spawn_point|the countryside
+p_denmark_priest_spawn_point|the countryside
+p_channel_spawn_point|the channel
+p_bight_spawn_point|the Southern Bight
+p_irish_sea_spawn_point|the Irish Sea
+p_forth_firth_spawn_point|the Firth of Forth
+p_skagerrak_spawn_point|the Skagerrak
+p_firth_clyde_spawn_point|the Firth of Clyde
 p_landing_point|landing point
 p_the_fleet|The Fleet
 p_transporter|Transporter
-p_troop_camp_1|Troop camp
-p_troop_camp_2|Troop camp
+p_troop_camp_1|Troop Quarters
+p_troop_camp_2|Troop Quarters
+p_paganholysites1|Odin's Hof
+p_paganholysites2|Thor's Hof
+p_oldpagan_hut|Old Pagan's Hut
+p_morrigan_lair|Morrigan's Lair
+p_bresail_farm|Mael Bresail's Farm
+p_bresail_fort|Mael Bresail's Fort
