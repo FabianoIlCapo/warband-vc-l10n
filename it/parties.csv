@@ -30,7 +30,7 @@ p_town_28|Cruaghan
 p_town_29|Temair
 p_castle_1|Caer Ligualid
 p_castle_2|Mame Ceaster
-p_castle_3|Donne Ceaster 
+p_castle_3|Donne Ceaster
 p_castle_4|Middelsburh
 p_castle_5|Denisesburna
 p_castle_6|Ad Gefrin
@@ -239,8 +239,8 @@ p_village_118|Bal Scuin Est
 p_village_119|Bal Scuin Ovest
 p_village_120|Witan Ham Nord
 p_village_121|Witan Ham Sud
-p_village_122|Tref Bodmine Est
-p_village_123|Tref Bodmine Ovest
+; p_village_122|Tref Bosvenegh East
+; p_village_123|Tref Bosvenegh West
 p_village_124|Bal Cainnighn Nord
 p_village_125|Bal Cainnighn Sud
 p_village_126|Bal Rigmonaid Nord
@@ -282,7 +282,7 @@ p_battle_stones|Fila di Pietre
 p_farmland_special|Podere
 p_roman_fort|Forte Romano
 p_troll_bridge|Ponte del Troll
-p_circle_mystic1|Cicolo Mistico
+p_circle_mystic1|Circolo Mistico
 p_celidon_forest|Antiche Rovine
 p_hidden_valley|Strane Rovine
 p_quarry1|Cava
@@ -320,7 +320,7 @@ p_training_ground_2|Villaggio d'addestramento
 p_training_ground_3|Campo d'addestramento
 p_training_ground_4|Lago d'addestramento
 p_training_ground_5|Campo d'addestramento
-p_monasterio1|Ad Candida Casam
+; p_monasterio1|Ad Candidam Casam
 p_monasterio2|Willibrord
 p_monasterio3|Dommoc
 p_monasterio4|Lindisfarne
@@ -363,34 +363,40 @@ p_ferry_1b|stazione traghetti
 p_ferry_2b|stazione traghetti
 p_ferry_3b|stazione traghetti
 p_ferry_4b|stazione traghetti
-p_looter_spawn_point|loro nascondiglio
-p_looter_spawn_point2|loro nascondiglio
-p_looter_spawn_point3|loro nascondiglio
-p_steppe_bandit_spawn_point|Loro Approdo
-p_taiga_bandit_spawn_point|Loro Approdo
-p_forest_bandit_spawn_point|loro covo
-p_forest_bandit_spawn_point2|loro covo
-p_forest_bandit_spawn_point4|loro covo
-p_mountain_bandit_spawn_point|loro campo
-p_mountain_bandit_spawn_point3|loro campo
-p_sea_raider_spawn_point_1|loro campo
-p_sea_raider_spawn_point_2|Loro Approdo
-p_sea_raider_spawn_point_3|Loro Approdo
-p_desert_bandit_spawn_point|loro campo
-p_frank_looters_sp_1|loro campo
-p_frank_looters_sp_2|loro campo
-p_pagan_spawn_1|La campagna
-p_pagan_spawn_2|La campagna
-p_pagan_spawn_3|La campagna
-p_pagan_spawn_4|La campagna
-p_ship_raider_spawn_point_1|Il canale
-p_ship_raider_spawn_point_2|l'area
-p_ship_raider_spawn_point_3|l'area
-p_ship_raider_spawn_point_4|l'area
-p_ship_raider_spawn_point_5|l'area
-p_ship_raider_spawn_point_6|l'area
+p_wales_spawn_point|Razziatori della costa
+p_fortiu_spawn_point|Razziatori della costa
+; p_sussex_spawn_point|South Seaxe
+p_clyde_coast_spawn_point|Il fiume
+p_limerick_spawn_point|Razziatori della costa
+p_norway_spawn_point|Le montagne
+p_northumbria_spawn_point|La campagna
+p_mierce_spawn_point|La campagna
+p_crafu_spawn_point|La campagna
+p_alban_spawn_point|La campagna
+p_aileach_spawn_point|La campagna
+p_engla_coast_spawn_point|Razziatori della costa
+p_cornish_coast_spawn_point|Razziatori della costa
+p_leinster_spawn_point|La campagna
+p_frisia_spawn_point|La campagna
+p_denmark_spawn_point|La campagna
+p_caitness_priest_spawn_point|La campagna
+p_northumbria_priest_spawn_point|La campagna
+p_norway_priest_spawn_point|La campagna
+p_denmark_priest_spawn_point|La campagna
+p_channel_spawn_point|Il canale
+p_bight_spawn_point|Il canale
+p_irish_sea_spawn_point|Mare d'Irlanda
+; p_forth_firth_spawn_point|the Firth of Forth
+; p_skagerrak_spawn_point|the Skagerrak
+; p_firth_clyde_spawn_point|the Firth of Clyde
 p_landing_point|Punto di approdo
 p_the_fleet|La Flotta
 p_transporter|Trasportatore
-p_troop_camp_1|Alloggi delle truppe
-p_troop_camp_2|Alloggi delle truppe
+p_troop_camp_1|Alloggi delle Truppe
+p_troop_camp_2|Alloggi delle Truppe
+; p_paganholysites1|Odin's Hof
+; p_paganholysites2|Thor's Hof
+; p_oldpagan_hut|Old Pagan's Hut
+; p_morrigan_lair|Morrigan's Lair
+; p_bresail_farm|Mael Bresail's Farm
+; p_bresail_fort|Mael Bresail's Fort

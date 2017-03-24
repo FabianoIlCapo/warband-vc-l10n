@@ -1110,8 +1110,6 @@ qstr_Your_Odin_knows_noth|Il tuo Odino non serve a nulla, ma costringere la gent
 qstr_I_see_no_reason_to_e|Non vedo alcun motivo anche per discutere di cose del genere con te!
 qstr_Plain|Pianura.
 qstr_Please_note_that_thi|Si prega di notare che questa raffinatezza gli permette di causare più danni, ma la rende anche più lenta.
-qstr_A_{s5}?_Well..._Yes_|Un {s5}? Beh... Si, penso di Si. Che strana domanda.
-qstr_Eh?_No_it_most_certa|Eh? No, certamente non è un {s5}. Se fossi in voi metterei in dubbio le mie convinzioni.
 qstr_This_is_the_{reg4?to|{reg4?Questa è la città:Questo è il villaggio} di {s5}, {reg59?signora:signore}.
 qstr_{s6}_Our_{reg4?town:|{s6} {reg4?La nostra città:Il nostro villaggio} e le terre circostanti appartengono a voi, naturalmente, {reg59?mia signora:mio signore}.
 qstr_{s6}_Our_{reg4?town:v|{s6} {reg4?La nostra città:Il nostro villaggio} e le terre circostanti appartengono a {s7} del {s8}.
@@ -1494,25 +1492,13 @@ qstr_Tired|Stanco
 qstr_High|Alto
 qstr_What_name_would_you_|Che nome vuoi dare al tuo rifugio?
 qstr_Save_it_as:_{s5}.|Salva come: {s5}.
-qstr_You_head_into_town_t|Ti dirigi in città per scegliere gli oggetti per la vostra festa...
-qstr_Peningas:_{reg0}|Peningas: {reg0}
-qstr_Save_for_Wages:_|Risparmia per i Salari:
-qstr_Reset|Esci
-qstr_Commit|Impegna
-qstr_Melee_Weapons:|Armi da Mischia:
-qstr_Ranged_Weapons:|Armi a Distanza:
-qstr_Armor:|Armatura:
-qstr_Horses:|Cavalli:
-qstr_You_toss_the_offendi|Getta l'oggetto incriminato alle tue spalle!
-qstr_You_make_your_big_pu|Hai fatto un'ottimo acquisto!
 qstr_From_Troop:_|Da parte delle Truppe:
 qstr_{s1}_or_{s2}|{s1} o {s2}
 qstr__Click_on_a_unit_for|(Clicca su una unità per i dettagli)
 qstr_{reg2}|{reg2}
-qstr_Do_you_want_to_save_|Vuoi salvare i tuoi progressi di Campagna Viking Conquest?
+qstr_On_several_occasions|In molte occasioni della tua vita, hai visto le strane lettere latine. Hai imparato velocemente a leggere. Forse, col tempo, potreti anche imparare a scrivere!^^Questo richiederà di stare una settimana al monastero. Volete ancora di imparare a leggere?
 qstr_Yes.|Si.
 qstr_No.|No.
-qstr_On_several_occasions|In molte occasioni della tua vita, hai visto le strane lettere latine. Hai imparato velocemente a leggere. Forse, col tempo, potreti anche imparare a scrivere!^^Questo richiederà di stare una settimana al monastero. Volete ancora di imparare a leggere?
 qstr_No_one_here_wants_to|Nessuno qui vuole unirsi alla tua Compagnia.
 qstr_One_{s3}_is_willing_|Uno {s3} è disposto a seguirti.
 qstr_{reg5}_{s3}_are_will|{reg5} {s3} sono disposti a seguirti.
@@ -1719,7 +1705,6 @@ qstr_Green|Verde
 qstr_Blue|Blu
 qstr_{reg11}_{reg12}_{reg|{reg11}, {reg12}, {reg13}
 qstr_Head_of_cattle_to_ta|Capi di bestiame da prendere (max {reg22}):
-qstr_Cattle_is_{reg33}_va|I capi di bestiame sono {reg33}, il loro valore è {reg34}
 qstr_Create_a_new_goal:|Crea un nuovo obiettivo:
 qstr__You_can_select_a_cu|(È possibile selezionare un obiettivo personalizzato o uno dei^modelli sottostanti per una ricompensa!)
 qstr_Let_me_choose!|Lasciami Scegliere!
@@ -1743,7 +1728,6 @@ qstr_Wealth|Ricchezza
 qstr_{s3}^_______________|{s3}^-------------------------------^
 qstr_{s1}^{s2}^|{s1}^{s2}^
 qstr_^{s1}|^{s1}
-qstr_{s30}XXXXXXXXXX^|{s30}XXXXXXXXXX^
 qstr_Port_of_{s1}|Porto di {s1}
 qstr_vWindDirection|vWindDirection
 qstr_Refill_Supplies|Ricarica Provviste
@@ -2014,9 +1998,7 @@ qstr_Stroll_through_town.|Passeggia attraverso la città.
 qstr_Meet_the_mayor.|Incontra il Sindaco.
 qstr_Mead_hall__hire_men_|Sala Idromele (Assolda uomini).
 qstr_Visit_the_mead_hall.|Visita la sala di idromele.
-qstr_Speak_with_the_merch|Parla con i mercanti.
 qstr_Visit_the_training_g|Visitare i campi di allenamento.
-qstr_Never:_Enter_the_pri|Mai: Entra nella prigione.
 qstr_Tour_the_grounds.|Visitare la piazza del forte.
 qstr_Visit_your_farmstead|Visitare la tua fattoria.
 qstr_Attempt_to_visit_a_l|Tentare di far visita a una signora.
@@ -2092,10 +2074,6 @@ qstr_Power_Throw_skill.|Abilità Lancio Potente.
 qstr_Power_Draw_skill.|Abilità Tiro potente.
 qstr_Riding_skill.|Abilità Cavalcare.
 qstr_{s2}_needs_{reg1}_mo|{s2} necessità di  {reg1} in più {s1}
-qstr_You_do_not_have_the_m|Non hai i soldi necessari a pagare il {s0}.
-; qstr_You_place_the_{s0}_t|You place the {s0} that {s1} had been using in your baggage.
-; qstr_You_dump_a_{s2}_in_o|You dump a {s2} in order to keep the {s0} that {s1} had been using.
-qstr_Unable_to_Equip_Item|Non puoi equipaggiare questo
 qstr_You_need_five_tool_k|Hai bisogno di cinque scatole di atrezzi per migliorare il tuo rifugio!
 qstr_You_need_five_timber|Hai bisogno di cinque pacchi di legno per migliorare il tuo rifugio!
 qstr_To_hire_workers_you_|Per assumere lavoratori è necessario selezionarli dalla lista. Se l'elenco è vuoto, potrebbe essere necessario aumentare la tua fama o migliorare il tuo rifugio permettendogli di venire a offrire i propri servizi.
@@ -2192,7 +2170,6 @@ qstr_You_have_lost_the_tra|Hai perso i commercianti perchè ti sei imbarcato sen
 qstr_vWaveInfo|vWaveInfo
 qstr_vWaveOrigin|vWaveOrigin
 qstr_vTimer|vTimer
-qstr_Wank_ERROR!|Grave ERRORE!
 qstr_SHIP_{reg8}_ERROR:_g|NAVE {reg8} ERROR: gtbws differente!
 qstr_You_are_an_elder._Yo|Tu sei un anziano. Hai avuto molte esperienze nei tuoi anni di vita. Potresti non essere più così forte e agile come prima, ma certamente sei più saggio.
 qstr_You_are_an_adult._Yo|Sei un adulto. Sei in un'età nella quale una quantità ragionevole di esperienza e di salute si incontrano.
@@ -2351,8 +2328,6 @@ qstr_You_don_t_have_enough|Non hai abbastanza denaro! I lavoratori che devono co
 qstr_You_need_to_have_mor|È necessario avere più di trenta uomini per iniziare il lavoro.
 qstr_Your_men_await_your_|I tuoi uomini attendono il tuo ordine per iniziare a costruire il rifugio. C'è abbastanza materiale raccolto fino ad ora, e ciò che manca può essere acquistato nei villaggi vicini^^Costo totale:.. 1000 denari^Tempo necessario: 6 ore.
 qstr_{s2}^^_{s3}|{s2}^^ {s3}
-qstr_Camping_allows_your_|Il Campo permette ai tuoi uomini di riposare per riprendersi dal duro viaggio. Inoltre consente di sfamarsi e Aumentare le scorte di Cibo. Questo e particolarmente utile durante una campagna in territorio nemico, dove  e difficile comprare rifornimenti.
-qstr_Traveling_by_sea_exh|Viaggiando in mare gli uomini si stancano molto. Permetti ai tuoi guerrieri di riposare, ciò contribuirà a rendere il viaggio più sopportabile.
 ; qstr_You_are_in_the_kingd|You are in the kingdom of DANMARK.^^Danmark is an important Norse state in the Viking Age. The Danes not only maintain their independence against the powerful Frankish empire but also attack and plunder towns, churches and monasteries throughout Western Europe. Danish Vikings are excellent merchants who trade with most of their known world. A strong central authority has been established in Jutland, and the Danes now look beyond their own territory for land, trade and plunder. While the men are out at sea, the women manage the farms.
 ; qstr_You_are_in_the_kingdo|You are in the kingdom of NORTHVEGR.^^In Northvegr, mountainous terrain and fjords form strong natural boundaries. Communities remain independent of each other, and thirty small kingdoms exist in this land. The most powerful leaders of the petty kingdoms have entered a major power struggle. The sea is the easiest way to communicate between the Norwegian kingdoms and the outside world, and the people have become traders and explorers as well as plunderers. The lack of suitable farming land forces Norwegians to colonize the sparsely populated islands to the west. Norwegians carried out the early Viking raids on Britain and Ireland, but later the Danes joined in.
 ; qstr_You_are_in_the_kingdom|You are in the kingdom of LAITHLIND.^^Laithlind is the Norse-dominated part of Scotland and the Northern Islands, conquered by the Vikings three decades ago. This kingdom has become an operating base for Norwegian expansion in the British Isles. On the other hand, internal strife between the various strongmen is common.
@@ -2488,17 +2463,11 @@ qstr_You_can_t_have_more_|Non puoi avere più di due quarti di truppe attive.
 ; qstr_The_night_falls_whil|The night falls while the ship, the Woden Ric, crosses the ocean. There is a good wind and the Woden Ric enjoys good sailing away from the site of the battle where it stopped in the morning. The Frisian coast is near by the time you fall asleep.^The ship sails during the night while the shift rotates at the rudder. If all goes well, landfall will occur the next day, and you'll be a little closer to your destination.^If all goes well... if only your nights were not filled with nightmares of ships consumed by fire and drowned men floating on bloody water. You are trapped in this way, costing you escape even to the world of dreams, when a hand shakes you, and a voice calls loudly near your ear.^You open your eyes and see the taciturn face of the captain illuminated by the light of dawn.  You see his lips moving frantically and gradually begin to understand his words...^^
 qstr_Back_to_the_beginnin|Indietro fino all'inizio...
 qstr_View_next_segment...|Guarda la prossima parte...
-qstr_{s11}_{s12}|{s11} {s12},
-qstr_These_Christian_troo|Queste truppe cristiane potrebbero causare alcuni problemi al morale della compagnia:{s11}
-qstr_These_pagan_troops_c|Queste truppe pagane potrebbero causare alcuni problemi al morale della compagnia:{s11}
-qstr_Current_party_morale_|Il livello del Morale della Compagnia è  {reg5}.^Modificatori del Morale della Compagnia:^^Morale base: +{reg6}^Dimensione della Compagnia: {s2}{reg1}^Mancanza di riposo: {s3}{reg2}^Varietà di cibo: {s4}{reg3}{s5}{s6}^Eventi recenti: {s7}{reg4}^{s13}^^TOTALE:  {reg5}^^^
 qstr_Selected_faction_is:|La fazione selezionata è: {s10}^^{s9}
 qstr_You_are_currently_re|Al momento stai leggendo {s8}.
 qstr_You_are_not_reading_|Non stai leggendo libri.
 qstr_{s5}_and_{s6}|{s5} e {s6}
 qstr_Your_estates_are:_{s|I tuoi possedimenti sono: {s8}.^{s9}
-qstr_Current_party_size_li|L'attuale limite di dimensione della Compagnia è {reg0}.^Gli attuali modificatori della dimensione della Compagnia sono:^^Dimensione di base: {s5}{reg31}^ leadership combinata: {s2}{reg32}^Carisma: {s3}{reg33}^Fama: {s4}{reg34}^TOTALE: {reg0}
-; qstr_Your_relations_with_t|Your relations with the kingdoms are:^{s2}
 qstr_You_don_t_have_the_m|Non hai i soldi per pagare i tuoi uomini che stanno fortificando il campo. Fanno il lavoro, ma sono arrabbiati.
 qstr_After_you_buy_the_ma|Dopo aver acquistato i materiali, i tuoi uomini ti costruiscono un rifugio permanente.
 qstr_Player_renown_is_inc|La fama del personaggio è cresciuta di 100.
@@ -2620,6 +2589,9 @@ qstr_You_ve_been_driven_a|Le tue forze sono state respinte dalle mura. Ora gli a
 qstr_You_ve_breached_the_|Hai occupato le mura della città, ma gli ostinati difensori continuano a resistere nelle strade! Dovrai vedertela con loro prima di poter attaccare la roccaforte nel cuore della città.
 qstr_The_town_centre_is_y|Il centro città è tuo, ma i rimanenti difensori hanno ripiegato nel castello. Devono cadere prima che tu possa completare la tua vittoria.
 qstr_The_remaining_defend|I rimanenti difensori si sono ritirati nel castello come loro ultima difesa. Devi andare là dentro e schiacciare ogni rimanente resistenza.
+qstr_{s10}^^|{s10}^^
+; qstr_{s10}You_may_decide_|{s10}You may decide to forbid your troops from harming the {reg2?town:fort}, if you want to conquer it for your faction, but your troops may lose morale. 
+; qstr_{s10}You_can_allow_s|{s10}You can allow some plundering and keep the {reg2?town:fort}. 
 qstr_However_since_you_ar|Comunque, dato che tu non sei {reg59?seguace:seguace} di {s9}, non c'è possibilità che lui voglia renderti {reg59?la signora:il signore} di {reg8?questa città:questo forte}.
 qstr_The_enemy_has_been_f|Il nemico è stato costretto alla ritirata. L'assalto è finito, ma l'assedio continua.
 qstr_As_you_approach_you_|Come ti avvicini, le guardie del forte ti avvistano, ti danno il benvenuto e aprono i cancelli per {reg59?la loro Regina:il loro Re}.
@@ -2691,7 +2663,6 @@ qstr_You_can_t_enter_the_p|Non puoi entrare al porto poichè non sei il benvenut
 qstr_You_can_t_enter_the_po|Non puoi entrare nel porto. Hai già una flotta nel porto e la tua abilità di re-del-mare non è abbastanza alta per unire le due flotte.
 qstr_You_can_t_enter_the_por|Non puoi entrare nel porto e non puoi unire le flotte, perchè ciò causerebbe il superamento del limite di sette navi.
 qstr_You_already_have_a_f|Hai già una flotta nel porto. Vuoi unire le due flotte?
-qstr_Number_of_Sailors:_{|Numero di marinai: {reg5}^Velocità dei marinai: {reg6}
 qstr_Unfortunately_{reg3?|Sfortunatamente, {reg3?non sei:{s1} non è} in grado di trovare le merci di scambio che avrebbero dovuto portare ad un profitto.
 qstr_^Buying_{s4}_here_an|^Comprando {s4} qui e vendendo questo a {s5} dovresti avere un profitto di {reg6} denari per oggetto.{s3}
 qstr_{reg3?You_find:{s1}_|{reg3?Trovi:{s1} trova} questo:^{s3}
@@ -2741,6 +2712,7 @@ qstr_Thiaderd_is_dead._Yo|Thiaderd è morto. Hai completato la tua missione.
 qstr_Note_2:_You_chose_to_|Nota 2: Hai scelto di rispettare la vita della moglie del figlio di Thiaderd.
 qstr_Note_2:_You_chose_to_l|Nota 2: Hai scelto di lasciare in vita la moglie  e il figlio di Thiaderd.
 qstr_You_need_room_for_at|Hai bisogno di arruolare almeno un altro uomo nella tua compagnia prima di continuare!
+; qstr_^^In_the_middle_of_t|^^In the middle of the fort, you see some prisoners prepared for sale. Could your mother be among them?
 ; qstr_Note_2:_In_Sven_s_hi|Note 2: In Sven's hideout, you found Bodo, one of the travelers from the Woden Ric. Thanks to Bodo, you learn the fate of Woden Ric after the Viking attack. Your mother is still alive, thanks to the item Bodo gave her, but the item made her very valuable to the Vikings.
 qstr_Return_when_you_have_|Ritorna quando si disporrai di trenta o meno uomini nela tua compagnia.
 qstr_You_think_of_Thora_w|Pensi a Thora, a cui fai visita ogni notte, una bella donna che potrebbe dare al mondo molti bambini.
@@ -3006,9 +2978,6 @@ qstr_Temporary_quarters_a|Gli alloggiamenti temporanei non sono un buon posto pe
 ; qstr_Your_studies_in_poet|Your studies in poetry and rhetoric have been productive. This newly acquired skill in oratory will increase your leadership in battle as you urge on your men in combat. (Use key T to evoke a war cry)
 ; qstr_The_exhausting_athle|The exhausting athletics regimen you have applied to your troops makes them faster and more maneuverable in battle. They show their new confidence by taunting their enemies. (Use key T to evoke a shield taunt)
 ; qstr_Your_incessant_conce|Your incessant concern about the maintenance of your men's shields and armors makes it harder for the enemy to wound them. They show their new confidence by beating their shields. (Use key T to evoke a shield taunt)
-qstr_{s10}Current_fleet:^|{s10}Flotta corrente:^{s0}^^
-qstr_{s10}Port_of_{s9}:^{|{s10}Porto di {s9}:^{s0}^^
-qstr_{s10}Landed_ships_nex|{s10}Navi sbarcate vicino a {s9}:^{s0}^^
 ; qstr_On_this_day_the_fore|On this day, the foreman couldn't even pay the wages, so he paid with produced goods instead.
 qstr_However_on_this_day_|Tuttavia, in questo giorno avete imparato qualcosa dal vostro lavoro.
 ; qstr_However_on_this_day_y|However, on this day you achieved a lot and were paid double.

@@ -239,8 +239,8 @@ p_village_118|Bal Scuin Osten
 p_village_119|Bal Scuin West
 p_village_120|Regent Ham Nord
 p_village_121|Regent Ham Süd
-p_village_122|Tref Bodmine Osten
-p_village_123|Tref Bodmine West
+p_village_122|Tref Bosvenegh Ost
+p_village_123|Tref Bosvenegh West
 p_village_124|Bal Cainnighn Nord
 p_village_125|Bal Cainnighn Süd
 p_village_126|Bal Rigmonaid Nord
@@ -281,7 +281,7 @@ p_mega_danishrmy|Große Sommer Armee
 p_battle_stones|Stein Zeile
 p_farmland_special|Ackerland
 p_roman_fort|Römische Festung
-p_troll_bridge|Die Trollen Brücke
+p_troll_bridge|Des Trolls Brücke
 p_circle_mystic1|Mystischer Kreis
 p_celidon_forest|Alte Steine
 p_hidden_valley|Seltsame Ruinen
@@ -306,11 +306,11 @@ p_farmsteadsp6|Bauernhof
 p_farmsteadsp7|Bauernhof
 p_farmsteadsp8|Bauernhof
 p_farmsteadsp9|Bauernhof
-p_hadrian_wall1|Hadrianswall
+p_hadrian_wall1|Hadrian's Wall
 p_bjorn_camp|Bjorns Lager
-p_snotingaham_siege|Snotingaham im Belagerungszustand
+p_snotingaham_siege|Snotingaham unter Belagerung
 p_odin_cave|Odins Höhle
-p_stonemonumento|Stein Denkmal
+p_stonemonumento|Steindenkmal
 p_forestbattle|Waldschlacht
 p_the_thing|Die Versammlung
 p_dhorak_keep|Dhorak Bergfried
@@ -320,7 +320,7 @@ p_training_ground_2|Trainings Dorf
 p_training_ground_3|Trainingsfeld
 p_training_ground_4|Training See
 p_training_ground_5|Trainingslager
-p_monasterio1|Ad Candida Casam
+p_monasterio1|Ad Candidam Casam
 p_monasterio2|Willibrord
 p_monasterio3|Dommoc
 p_monasterio4|Lindisfarne
@@ -363,34 +363,40 @@ p_ferry_1b|Fährhaus
 p_ferry_2b|Fährhaus
 p_ferry_3b|Fährhaus
 p_ferry_4b|Fährhaus
-p_looter_spawn_point|ihr Versteck
-p_looter_spawn_point2|ihr Versteck
-p_looter_spawn_point3|ihr Versteck
-p_steppe_bandit_spawn_point|deren Longphort
-p_taiga_bandit_spawn_point|deren Longphort
-p_forest_bandit_spawn_point|Ihre Höhle
-p_forest_bandit_spawn_point2|Ihre Höhle
-p_forest_bandit_spawn_point4|Ihre Höhle
-p_mountain_bandit_spawn_point|Ihr Lager
-p_mountain_bandit_spawn_point3|Ihr Lager
-p_sea_raider_spawn_point_1|Ihr Lager
-p_sea_raider_spawn_point_2|deren Longphort
-p_sea_raider_spawn_point_3|deren Longphort
-p_desert_bandit_spawn_point|Ihr Lager
-p_frank_looters_sp_1|Ihr Lager
-p_frank_looters_sp_2|Ihr Lager
-p_pagan_spawn_1|die Landschaft
-p_pagan_spawn_2|die Landschaft
-p_pagan_spawn_3|die Landschaft
-p_pagan_spawn_4|die Landschaft
-p_ship_raider_spawn_point_1|Der Kanal
-p_ship_raider_spawn_point_2|Das Gebiet
-p_ship_raider_spawn_point_3|Das Gebiet
-p_ship_raider_spawn_point_4|Das Gebiet
-p_ship_raider_spawn_point_5|Das Gebiet
-p_ship_raider_spawn_point_6|Das Gebiet
+p_wales_spawn_point|Die Küste
+p_fortiu_spawn_point|Die Küste
+p_sussex_spawn_point|South Seaxe
+p_clyde_coast_spawn_point|Der Fluss
+p_limerick_spawn_point|Die Küste
+p_norway_spawn_point|Die Berge
+p_northumbria_spawn_point|die Landschaft
+p_mierce_spawn_point|die Landschaft
+p_crafu_spawn_point|die Landschaft
+p_alban_spawn_point|die Landschaft
+p_aileach_spawn_point|die Landschaft
+p_engla_coast_spawn_point|Die Küste
+p_cornish_coast_spawn_point|Die Küste
+p_leinster_spawn_point|die Landschaft
+p_frisia_spawn_point|die Landschaft
+p_denmark_spawn_point|die Landschaft
+p_caitness_priest_spawn_point|die Landschaft
+p_northumbria_priest_spawn_point|die Landschaft
+p_norway_priest_spawn_point|die Landschaft
+p_denmark_priest_spawn_point|die Landschaft
+p_channel_spawn_point|Der Kanal
+p_bight_spawn_point|Die südliche Bucht
+p_irish_sea_spawn_point|Die irische See
+p_forth_firth_spawn_point|Abhainn Dhubh
+p_skagerrak_spawn_point|Der Skagerrak
+p_firth_clyde_spawn_point|Der Firth of Clyde
 p_landing_point|Landestelle
 p_the_fleet|Die Flotte
 p_transporter|Transporter
 p_troop_camp_1|Truppenlager
 p_troop_camp_2|Truppenlager
+p_paganholysites1|Odins Hof
+p_paganholysites2|Thors Hof
+p_oldpagan_hut|Hütte des alten Heiden
+p_morrigan_lair|Morrigans Höhle
+p_bresail_farm|Mael Bresails Bauernhof
+p_bresail_fort|Mael Bresails Feste

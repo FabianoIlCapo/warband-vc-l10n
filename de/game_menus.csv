@@ -1,5 +1,4 @@
 menu_start_game_0|Willkommen bei Viking Conquest.
-menu_start_phase_2|{s1}
 mno_continue_i|Fortfahren...
 mno_continue_cheat|Tutorial überspringen.
 mno_go_back_dot|Zurück.
@@ -10,24 +9,12 @@ mno_continue|Fortfahren...
 menu_reports|Charakter-Ansehen: {reg5}^Ehrenwertung: {reg6}^Truppenmoral: {reg8}^Truppengrößenbeschränkung: {reg7}^
 mno_resume_travelling|Weiterreisen.
 menu_start_phase_2x|Zurück
-menu_start_phase_22|{s1}
 mno_town_4|Fortsetzen
-menu_custom_battle_scene|(NO TRANS)
 menu_custom_battle_end|Die Schlacht ist vorüber. {s1} Eure Seite tötete {reg5} Feinde und verlor {reg6} Soldaten in diesem Gefecht. Ihr selbst konntet {reg7} Männer niederstrecken.
 menu_start_game_2|Willkommen bei Viking Conquest.
 menu_start_game_1|Willkommen bei Viking Conquest.
 menu_start_game_11|Verlassen?
 menu_start_game_4|Sie haben einige Entscheidungen getroffen. Sie können sie nach dem Spielbeginn nicht mehr ändern. Möchten Sie die Einstellungen beibehalten und fortfahren?
-menu_past_life_explanation|{s3}
-mno_view_next|{s5}
-menu_morale_report_obsolete|{s1}
-mno_continue_rep|Fortfahren...
-menu_courtship_relations|{s1}
-menu_lord_relations|{s1}
-menu_companion_report|{s7}{s1}
-menu_character_report|{s9}
-menu_party_size_report|{s1}
-menu_faction_relations_report|{s1}
 menu_camp|Ihr schlagt ein Lager auf. Was wollt Ihr tun?
 mno_camp_action|Aktion vornehmen.
 mno_camp_wait_here|Einige Zeit hier warten.
@@ -51,14 +38,6 @@ mno_camp_recruit_prisoners_half|Nehmt die Hälfte.
 mno_camp_recruit_prisoners_reject|Weist sie zurück.
 menu_camp_no_prisoners|Ihr habt keine Gefangenen zum Rekrutieren.
 menu_camp_action_read_book|Wählt ein Buch zum Lesen aus:
-mno_action_read_book_1|{s1}.
-mno_action_read_book_2|{s1}.
-mno_action_read_book_3|{s1}.
-mno_action_read_book_4|{s1}.
-mno_action_read_book_5|{s1}.
-mno_action_read_book_6|{s1}.
-mno_action_read_book_7|{s1}.
-menu_camp_action_read_book_start|{s1}
 menu_retirement_verify|Ihr lebt nun bereits {reg0} Tage als Abenteurer. Euer momentanes Glück ist {reg1}. Seid Ihr sicher, in den Ruhestand gehen zu wollen?
 mno_retire_yes|Ja.
 mno_retire_no|Nein.
@@ -99,9 +78,6 @@ mno_order_attack_continue|Befehlt Euren Soldaten, weiter anzugreifen.
 mno_order_retreat|Ruft Eure Soldaten zurück.
 menu_battle_debrief|{s11}^^Eure Verluste:{s8}{s10}^^Feindliche Verluste:{s9}^^{s3}
 menu_total_victory|Ihr solltet dies eigentlich nicht lesen ... {s9}
-menu_enemy_slipped_away|{s17}
-menu_permanent_damage|{s0}
-mno_s0|{s0}
 menu_pre_join|Ihr werdet Zeuge eines Gefechts zwischen {s2} und {s1}. Ihr entscheidet Euch dazu ...
 mno_pre_join_help_attackers|Einzugreifen und den {s2} zu helfen.
 mno_pre_join_help_defenders|Den {s1} zu Hilfe zu kommen.
@@ -134,7 +110,7 @@ mno_leave_sm|Verlassen.
 menu_lumber_camp|Sie erreichen ein Holzfällerlager. Von überall erschallt der Lärm von Äxten und Sägen. Ein paar freie Männer bei der Arbeit.
 mno_enter_lc|Weiter.
 mno_leave_lc|Verlassen.
-menu_farmstead_special|Sie kommen in eine Farm, eine von so vielen Höfen, die Lebensmittel und Vermögen erzeugen, so dass sie hier billiger sind.^{s10}
+menu_farmstead_special|Ihr erreicht einen Bauernhof. Bauernhöfe sind Quelle der meisten Güter und Nahrungsmittel, so dass sie hier billiger zu bekommen sind.^^{s10}
 mno_take_cattlefs|Nehmen Sie ein paar Stück Vieh.
 mno_enter_fs|Weiter.
 mno_leave_fs|Verlassen.
@@ -147,7 +123,6 @@ mno_leave_ce|Verlassen.
 menu_hidden_valley|Sie sind auf einem seltsamen Platz, der wie einige römische Einstürze wirkt. Während deine Männer das Lager errichten, widmest du dich zum Erforschen...
 mno_enter_hv|Untersuchen.
 mno_leave_hv|Verlassen.
-menu_dhorak_keep|Ihr kommt in den Bergfried Dhorak.
 menu_join_siege_outside|{s1} wird belagert von {s2}.
 mno_approach_besiegers|Nähert Euch dem Lager der Belagerer.
 mno_pass_through_siege|Geht durch die Belagerungslinien und tretet in {s1} ein.
@@ -168,7 +143,6 @@ mno_guard_leave|Verlassen.
 menu_castle_entry_granted|Nach kurzer Wartezeit öffnen die Wachen die Tore und gewähren Euch und Eurem Trupp Einlass.
 menu_castle_entry_denied|Der Herr dieser Burg hat Euch den Zutritt verwehrt, und der Wachsergeant teilt Euch mit, dass seine Männer schießen werden, wenn Ihr näher kommt.
 menu_castle_meeting|Mit wem wollt Ihr Euch treffen?
-mno_guard_meet_s5|{s5}.
 mno_forget_it|Vergiss es.
 menu_castle_meeting_selected|Eure Bitte um ein Treffen wird im Inneren weitergegeben, und schließlich erscheint {s6} im Burghof, um mit Euch zu sprechen.
 menu_port_attack|Ihr greift den Hafen von {s1} an. Ihr verfügt über {reg10} Truppen, welche bereit sind in die Schlacht gegen des Feindes {reg11} Truppen zu ziehen.
@@ -263,7 +237,6 @@ menu_poner_escaleras_mantlets|Eure Vorhut rückt mit Leitern, mobilen Schutzwän
 mno_back_behind_esc2|Eure Männer sind auf den Feind getroffen. Nun ist es an Euch...
 menu_informacion_ciudad|Ein Fährtensucher erscheint vor Ihnen: '{s11}^{s12}{s1}{s5}{s17}'
 mno_regreso_luchain|Danke. Ihre Informationen sind wichtig!
-menu_castle_besiege_inner_battle|{s1}
 menu_build_mantles2|Die Schutzwände helfen dabei Eure Männer zu schützen sobald diese die Wälle mit Leitern und anderem Equipment stürmen. Sie retten jede Menge Leben. Als das Truppenmitglied mit der höchsten Baufertigkeit ({reg2}), {reg3?Schätzt Ihr: schätzt{s3}} das es {reg4} Stunden dauern wird, ausreichend Schutzwände zu bauen.
 mno_build_mantles|So sei es.
 menu_construct_ladders|Als das Truppmitglied mit der höchsten Baumeisterfertigkeit ({reg2}), {reg3?schätzt Ihr:schätzt {s3}}, dass es {reg4} Stunden dauern wird, ausreichend Sturmleitern zu bauen.
@@ -272,11 +245,9 @@ menu_construct_siege_tower|Als das Truppmitglied mit der höchsten Baumeisterfer
 mno_build_siege_tower_cont|Beginnt mit dem Bau.
 menu_castle_attack_walls_simulate|{s4}^^Eure Verluste:{s8}^^Feindliche Verluste waren: {s10}
 menu_castle_attack_walls_with_allies_simulate|{s4}^^Eure Verluste: {s8}^^Verluste Verbündete: {s9}^^Feindliche Verluste: {s10}
-menu_castle_taken_by_friends|Hier gibt es nichts zu sehen.
-menu_castle_taken|Der Kampf um {s60} ist nahezu geschlagen. Eure Truppen warten ungeduldig darauf mit dem Plündern von {reg2?town:fort} zu beginnen.{s10}^ Ihr könnt Euch dafür entscheiden Euren Truppen zu verbieten {reg2?town:fort} schaden zu zufügen, solltet Ihr es für Eure Fraktion erobern wollen, jedoch könnten Eure Truppen an Moral einbüßen. Ihr könnt auch das Plündern erlauben und  {reg2?town:fort} behalten, oder Ihr füllt lediglich ein wenig Euren Geldbeutel und überlasst den geplünderten Ort Euren Feinden. Schlussendlich könnt Ihr Euch auch dafür entscheiden den Platzt völlig zu verwüsten um soviel zu erbeuten wie möglich, die Einwohner zu versklaven und ihn völlig wertlos für seinen Herren zu machen.
+menu_castle_taken|Der Kampf um {s60} ist nahezu geschlagen. Eure Truppen warten ungeduldig darauf mit dem Plündern der/des {reg2?town:fort} zu beginnen.{s10}^ Ihr könnt Euch dafür entscheiden Euren Truppen zu verbieten Verwüstung anzurichten, solltet Ihr es für Eure Fraktion erobern wollen, jedoch könnten Eure Truppen an Moral einbüßen. Ihr könnt auch das Plündern erlauben und  das Lehen behalten, oder Ihr füllt lediglich ein wenig Euren Geldbeutel und überlasst den geplünderten Ort Euren Feinden. Schlussendlich könnt Ihr Euch auch dafür entscheiden den Platzt völlig zu verwüsten um soviel zu erbeuten wie möglich, die Einwohner zu versklaven und ihn völlig wertlos für seinen Herren zu machen.
 mno_saqueo_noallowed|Erobert {reg2?town:fort}, verbiet jedoch das Plündern.
 mno_keep_plunder|Erobert und Plündert {reg2?town:fort}.
-mno_keep_plunder_2|Erobert und Plündert {reg2?town:fort}.
 mno_saqueo_normal|Plündert {reg2?town:fort} und lasst es zurück.
 mno_saqueo_total|Verwüstet den Platzt vollkommen und lasst ihn hinter Euch.
 menu_castle_taken_plunder|{reg2?town:fort} wurde geplündert. Ihr konntet {reg7} Pfennige erbeuten.
@@ -286,9 +257,7 @@ menu_castle_taken_2|{s3} ist Euren Soldaten in die Hände gefallen, und nun habt
 mno_castle_taken_claim|Fordert, dass {s3} Euch übergeben wird.
 mno_castle_taken_claim_2|Verlangt, dass {s3} Eurem Ehepartner zugewiesen wird.
 mno_castle_taken_no_claim|Verlangt keine Belohnung.
-menu_saqueo_loot_continue|Dieses Dorf wurde geplündert.
-menu_requested_castle_granted_to_player|Ihr erhaltet eine Nachricht von Eurem Fürsten, {s3}.^^ {reg4?Sie:Er} hat beschlossen, Euch {s2}{reg3? und das anliegende Dorf {s4}:} zu übertragen, einschließlich allen anfallenden Einkommen und Titeln, um es in {reg4?seinem:ihrem} Namen so lange zu verwalten, wie Ihr Euren Treueschwur haltet ...
-menu_requested_castle_granted_to_player_husband|Ihr erhaltet eine Nachricht von Eurem Fürsten, {s3}.^^ {reg4?Sie:Er} hat beschlossen, Eurem Gatten, {s7}, {s2}{reg3? und das anliegende Dorf {s4}:} zu übertragen.
+menu_saqueo_loot_continue|Dieses Dorf wurde von euch geplündert.
 menu_requested_castle_granted_to_another|Ihr erhaltet Eine Nachricht von Eurem Monarchen, {s3}.^^'Ich war höchst erfreut, von Eurer Tapferkeit bei der Einnahme von {s2} zu hören. Euer Sieg hat Licht in all unsere Herzen gebracht. Ihr batet mich auch, Euch die Burg zu übereignen, doch das ist ein Gefallen, den ich Euch leider nicht gewähren kann, da Ihr schon beträchtliche Ländereien in meinem Reich innehabt. Stattdessen übersende ich Euch {reg6} Pfennige, um die Kosten Eures Feldzuges zu tragen, doch {s2} gebe ich {s5}.'
 mno_accept_decision|Nehmt die Entscheidung an.
 mno_leave_faction|Ihr wurdet hintergangen! Schwört von Eurem Eid ab!
@@ -298,9 +267,6 @@ menu_leave_faction|Die Zurücknahme Eures Schwurs ist eine sehr schwerwiegende H
 mno_leave_faction_give_back|Schwört ab und gebt Eure Besitztümer auf.
 mno_leave_faction_hold|Brecht Euren Treueschwur und regiert Eure Ländereien, einschließlich {s2}, in Eurem eigenen Namen.
 mno_leave_faction_cancel|Haltet die Treue und nehmt die Entscheidung an.
-menu_give_center_to_player|Euer Fürst bietet Euch weitere Lehen an! {s1} lässt vermelden, dass er Euch als Dank für Eure treuen Dienste {s2} gewährt, was Euren Besitz bereichert. Wie lautet Eure Antwort?
-mno_give_center_to_player_accept|Nehmt das Angebot an.
-mno_give_center_to_player_reject|Lehnt das Angebot ab!  Ihr seid nicht daran interessiert {s2} zu halten.
 menu_give_center_to_player_2|Mit einer kurzen Zeremonie seid Ihr nun offiziell zum neuen Fürsten von {s2}{reg3? und dem anliegenden {s4}:} bestallt worden. Diese Ländereien werden einen schönen Teil Eures Lehens abgeben. Nun könnt Ihr die Pacht und Einkünfte von Euren persönlichen Besitztümern dort einstreichen, Soldaten aus der Bevölkerung rekrutieren, und das Land nach Eurem Gutdünken verwalten. Allerdings erwartet man auch von Euch, Euren Lehnsherrn und Eure Untertanen vor Unbillen zu bewahren, sowie Recht und Ordnung aufrecht zu erhalten.
 menu_oath_fulfilled|Ihr hattet einen Kontrakt mit {s1}, ihm für eine bestimmte Zeit lang zu dienen. Euer Kontrakt ist nun abgelaufen. Was wollt Ihr tun?
 mno_renew_oath|Verlängert Euren Kontrakt mit {s1} für einen weiteren Monat.
@@ -309,7 +275,6 @@ menu_siege_started_defender|{s1} greift die Mauern von {s2} an. Ihr habt {reg10}
 mno_siege_defender_join_battle|Euch in den Kampf zu werfen.
 mno_siege_defender_troops_join_battle|Befehlt Euren Männern, sich ohne Euch ins Gefecht zu stürzen.
 menu_siege_join_defense|{s4}^^Eure Verluste: {s8}^^Verluste Verbündete: {s9}^^Feindliche Verluste: {s10}
-menu_enter_your_own_castle|{s10}
 menu_village|{s10} {s12}^{s11}^{s6}{s7}^^{s15}
 mno_village_manage|Verwaltet dieses Dorf.
 mno_recruit_volunteers|Rekrutiert Freiwillige.
@@ -331,14 +296,12 @@ mno_village_take_food|Zwingt die Bauern, Euch Vorräte zu geben.
 mno_village_steal_cattle|Stehlt Vieh.
 mno_enslave_villagers|Versklavt die Dorfbewohner. 
 mno_village_loot|Plündert das Dorf und macht es dann dem Erdboden gleich.
-menu_recruit_volunteers|{s18}
 mno_continue_not_enough_gold|Ich habe nicht genug Geld ...
 mno_recruit_them|Rekrutieren ({reg6} Pfennige).
 menu_village_hunt_down_fugitive_defeated|Ein heftiger Schlag des Flüchtigen schickt Euch zu Boden, Euer Sichtfeld schwindet, und es wird dunkel. Die Zeit verstreicht. Als Ihr Eure Augen wieder öffnet, entdeckt Ihr, dass Ihr blutig und zerschlagen seid, doch glücklicherweise scheint keine der Wunden ernsthafter Natur zu sein.
 menu_village_confront_contact_defeated|Ein heftiger Schlag des Dörflers schickt Euch zu Boden, Euer Sichtfeld schwindet, und es wird dunkel. Die Zeit verstreicht. Als Ihr Eure Augen wieder öffnet, findet Ihr Euch selbst blutig und zerschlagen vor, doch glücklicherweise scheint keine der Wunden ernsthafter Natur zu sein.
 menu_village_hunt_lover_defeated|Ein schwerer Schlag aus dem Nichts streckt euch zu Boden. Die Welt um Euch herum dreht sich und Euch wird schwarz vor Augen. Die Zeit vergeht. Als Ihr Eure Augen wieder öffnet findet Ihr Euch blutend und zerschlagen am Boden liegend wieder, aber zum Glück scheinen Eure Wunden nicht tödlich zu sein.
 menu_village_hunt_music_defeated|Ein heftiger Schlag des boshaften Wächters schickt Euch zu Boden, Euer Sichtfeld schwindet, und es wird dunkel. Die Zeit verstreicht. Als Ihr Eure Augen wieder öffnet, findet Ihr Euch selbst blutig und zerschlagen vor, doch glücklicherweise scheint keine der Wunden ernsthafter Natur zu sein.
-menu_village_infest_bandits_result|{s9}
 menu_village_infestation_removed|In einer Heldenlieder inspirierenden Schlacht vertreibt Ihr und Eure Männer die Banditen aus dem Dorf, und bringt ihm wieder Frieden und Sicherheit. Die Dörfler haben nach dieser schweren Prüfung nur noch wenig in ihrem Besitz, aber sie bieten Euch alles an, was sie finden können.
 mno_village_bandits_defeated_accept|Nehmt es; es steht Euch zu.
 mno_village_bandits_defeated_cont|Weist das Angebot zurück; sie brauchen es dringender als Ihr.
@@ -364,15 +327,12 @@ mno_remove_slaves|Weiter.
 menu_center_improve|{s19} Als das Truppmitglied mit der höchsten Baumeisterfertigkeit ({reg2}), {reg3?seid Ihr der Ansicht: ist {s3} der Ansicht}, dass der {s4}-Bau Euch {reg5} Pfennige kosten und {reg6} Tage dauern wird.
 mno_improve_cont|Weiter nach {s15}.
 mno_improve_not_enough_gold|Ich habe nicht genug Geld dafür.
-menu_town_bandits_failed|{s4} {s5}
 menu_town_bandits_succeeded|Die Banditen fallen wie Weizen vor der Sense! Bald steht Ihr allein auf der Straße, während die meisten Eurer Angreifer bewusstlos, tot oder im Sterben vor Euch liegen. Beim Durchsuchen der Leichen findet Ihr einen Geldbeutel, der einem früheren Opfer dieser Schurken gehört haben muss. Oder vielleicht erhielten sie ihn von jemandem, der Euch ein passendes Ende bereiten wollte. {s33}
 mno_reveal|Versucht herauszufinden wer Euch Tod sehen will.
 menu_village_force_convert_confirm|Es wird 5 Stunden in Anspruch nehmen das Dorf zu durchsuchen, all diese Ketzer aus ihren Löcher zu treiben und sie zum widerrufen ihres falschen glauben zu veranlassen.
 mno_village_force_convert_confirm|Weiter.
-menu_village_force_convert1|{s1}
 menu_village_steal_cattle_confirm|Als das Truppmitglied mit der höchsten Plünder-Fertigkeit ({reg2}), {reg3?seid Ihr der Ansicht:ist {s1} der Ansicht}, dass Ihr bis zu {reg4} Stück Vieh aus dem Dorf stehlen könnt.
 mno_village_steal_cattle_confirm|Weiter.
-menu_village_steal_cattle|{s1}
 menu_village_take_food_confirm|Es wird sich als schwierig erweisen, die Bauern zur Überlassung ihrer kostbaren Vorräte zu zwingen. Ihr glaubt, Ihr braucht mindestens eine Stunde.
 mno_village_take_food_confirm|So sei es.
 menu_village_take_food|Die Dörfler bringen Euch widerwillig, was sie für Euch haben.
@@ -396,7 +356,6 @@ menu_village_loot_continue|Wollt Ihr das Dorf weiter plündern?
 mno_lootvillage_yes|Ja.
 mno_lootvillage_no|Nein.
 menu_close|Nichts.
-menu_town|{s30}
 mno_castle_castle|Geht zur Halle des Fürsten{s1}.
 mno_castle_castle_door|Zur Fürstenhalle.
 mno_join_tournament|Macht beim Turnier mit.
@@ -423,7 +382,7 @@ mno_travel|Reist zu einem anderen Hafen.
 mno_travel_door|Rüsten Sie Ihre Truppen aus.
 mno_walled_center_manage|Verwaltet diese {reg0?Stadt:Burg}.
 mno_walled_center_move_court|Verlagert Euren Hof hierher.
-mno_castle_station_troops|Stationiert eine Garnison hier ...
+mno_castle_station_troops|Verwaltet die Garnison.
 mno_castle_wait|Wartet hier eine Weile{s1}.
 mno_castle_wait_door|Bett.
 mno_town_alley|Fragt nach potentiellen Rekruten.
@@ -472,7 +431,6 @@ mno_collect_later|Treibt die Steuern später ein.
 menu_collect_taxes_complete|Ihr habt {reg3} Pfennige an Steuern von {s3} eingetrieben. {s19} erwartet, dass Ihr ihm das Geld bringt.
 menu_collect_taxes_rebels_killed|Euer schnelles Handeln und Euer starker Arm haben die Revolte erfolgreich niedergeschlagen. Sicherlich wird jeder, der sich gegen Euch auflehnen will, sich hiernach eines Besseren besinnen.
 menu_collect_taxes_failed|Ihr konntet nur {reg3} Pfennige aus Steuern aus {s3} eintreiben, bevor die Revolte losbrach. {s1} wird nicht glücklich sein, aber ein paar Silberstücke werden ihn zufriedener stellen als leere Hände ...
-menu_monasterio_saqueado|Das Blut der Mönche sinkt zu Boden und ihre Körper füttern die Krähen. Ein leichter Sieg, ein großer Lohn... jedoch habt Ihr Euch neue Feinde unter den Christen gemacht.
 menu_collect_taxes_revolt_warning|Die Bewohner von {s3} sind über Eure Forderungen entrüstet und sehen sie als niedrigste Erpressung an. Sie werden sehr unruhig und könnten Euch zur Gefahr werden, wenn Ihr sie weiter unter Druck setzt.
 mno_continue_collecting_taxes|Beachtet sie nicht und fahrt fort.
 mno_halve_taxes|Stimmt zu, Euren Steuersatz um die Hälfte zu verringern. ({s1} könnte verärgert sein)
@@ -482,10 +440,8 @@ mno_make_preparation|Bildet sie aus.
 mno_train_later|Treibt die Steuern später ein.
 menu_train_peasants_against_bandits_ready|Ihr zeigt den Bauern die Grundlagen von Soldatenhandwerk, Disziplin und Gehorsam. Ihr seid der Ansicht, dass {reg0} von ihnen die Ausbildung komplett absorbiert {reg1?haben:hat} und bereit für Übungen {reg1?sind:ist} .
 mno_peasant_start_practice|Beginnt den Übungskampf.
-menu_train_peasants_against_bandits_training_result|{s0}
 menu_train_peasants_against_bandits_attack|Als Ihr Euch für die Fortführung der Ausbildung bereit macht, kommt ein Wächter aus dem Dorf unter Alarmgeschrei herbei gerannt. Die Banditen wurden am Horizont gesichtet, beim scharfen Ritt nach {s3}. Der Älteste bittet Euch inständig, sie mit Eurer neu ausgebildeten Miliz anzugreifen.
 mno_peasants_against_bandits_attack_resist|Macht Euch bereit zum Kampf!
-menu_train_peasants_against_bandits_attack_result|{s9}
 menu_train_peasants_against_bandits_success|Die Banditen sind geschlagen! Die wenigen noch übrig gebliebenen nehmen aus Furcht vor den Bauern und ihrem neuen Helden die Beine in die Hand. Die Dörfler nennen nach dieser Tortur nur noch wenig ihr Eigen, bieten Euch aber aus Dankbarkeit alles an, was sie haben.
 menu_loot_options|Die Schlacht ist geschlagen. Was wünscht ihr mit der Beute zu tun?
 mno_loot_0|Verteilt die Beute so wie für gewöhnlich.
@@ -501,11 +457,6 @@ mno_back|Zurück
 menu_port_encounter|Sie segeln im Hafen von {s2} ein. {s3}
 mno_attack|Attacke.
 mno_merge|Vereinigt die Flotten.
-menu_camp_on_sea|Ihr haltet Eure Schiffe mitten am Meer an. Was wünscht Ihr zu tun?^^{s1}
-mno_epic_sea_battle|B. Epische Seeschlacht!
-mno_d_day1|C. D-Day! (200 Schiffe)
-mno_testdrive2|Mega-Seeschlacht... Wählen Sie Feind 0
-mno_see_ships|Begutachtet Eure Schiffe. (WIP)
 menu_center_reports|Stadt: {s1}^Pachteinkünfte: {reg1} Peningas^Zolleinkünfte: {reg2} Peningas^Nahrungsvorräte: für {reg3} Tage
 mno_to_price_and_productions|Preise und Produktion einsehen.
 menu_price_and_production|Produktion:^(Note: base/modified by raw materials/modified by materials plus prosperity)^{s1}^^Preisfaktoren:^{s2}
@@ -567,19 +518,16 @@ mno_camp_train_ranged_details_4|40 Schritt.
 mno_camp_train_ranged_details_5|50 Schritt.
 mno_camp_train_ranged_details_6|60 Schritt.
 mno_camp_train_ranged_details_7|70 Schritt.
-menu_training_ground_description|{s0}
 menu_training_ground_training_result|{s7}{s2}
 menu_marshal_selection_candidate_ask|{s15} bald wird er einen Befehlshaber für {s23} wählen. Einige Herren haben deinen Namen als möglichen Kandidat ausgewählt.
 mno_marshal_candidate_accept|Lasst {s15} wissen, dass Ihr gewillt seid, als Marschall zu dienen.
 mno_marshal_candidate_reject|Teilt allen mit, dass ihr in diesen Tagen zu beschäftigt seid.
-menu_captivity_avoid_wilderness|Plötzlich wird die Welt schwarz um Euch. Viele Stunden später kommt Ihr wieder zu Euch und findet Euch an der selben Stelle wieder, wo Ihr fielt. Eure Feinde müssen Euch tot geglaubt und liegen gelassen haben. Doch scheint es, dass keine Eurer Wunden tödlich waren, und obzwar Ihr Euch garstig fühlt, entdeckt Ihr, dass Ihr noch laufen könnt. Ihr erhebt Euch und macht Euch auf die Suche nach anderen Überlebenden aus eurer Gruppe.
 menu_captivity_start_wilderness|Stub
 menu_captivity_start_wilderness_surrender|Stub
 menu_captivity_start_wilderness_defeat|Eure Feinde nehmen Euch gefangen.
 menu_captivity_start_castle_surrender|Stub
 menu_captivity_start_castle_defeat|Stub
 menu_captivity_start_under_siege_defeat|Eure Feinde nehmen Euch gefangen.
-menu_captivity_wilderness_taken_prisoner|{s2}
 mno_continue1|Fortfahren...
 menu_captivity_wilderness_check|stub
 menu_captivity_end_wilderness_escape|Nach leidvollen Tagen der Verschleppung bietet sich Euch eine Gelegenheit, und Ihr flieht vor Euren Peinigern!
@@ -603,8 +551,6 @@ menu_invite_player_to_faction_accepted|Um ein Vasall zu werden, müsst Ihr {s3} 
 menu_question_peace_offer|Ihr erhaltet ein Friedensangebot^^Die {s1} bieten Euch ein Friedensabkommen an. Wie lautet Eure Antwort?
 mno_peace_offer_accept|Annehmen
 mno_peace_offer_reject|Zurückweisen
-menu_notification_truce_expired|Waffenruhe endet^^Die Waffenruhe zwischen {s1} und {s2} ist erloschen.
-menu_notification_feast_quest_expired|{s10}
 menu_notification_sortie_possible|Feind gesichtet: Feinde wurden vor den Mauern von {s4} gesichtet, und {s5} und andere bereiten sich auf einen Ausfall vor. Ihr könnt Euch ihnen anschließen, wenn Ihr wünscht.
 menu_notification_casus_belli_expired|Das Königreich antwortet nicht, ^^ {s1} hat nicht auf die Provokation reagiert {s2} und {s3} erleiden einen Verlust Von Ansehen gegen ihre {reg4?her:his} kriegerischen Untergebenen... ^
 menu_notification_lord_defects|$Treuebruch: {s4} hat sich von den {s5} abgewendet und sich einschließlich {reg4?ihrer:seiner} Lehen den {s7} angeschlossen.$
@@ -630,10 +576,8 @@ mno_appoint_npc15|Ernennt {s10}
 mno_appoint_npc16|Ernennt {s10}
 mno_appoint_default|Ernennt einen prominenten Bürger aus der Gegend ...
 menu_minister_confirm|{s9}befindet sich an Eurem Hof in {s12}. Ihr solltet ihn oft um Rat ersuchen, damit sich ungelöste Probleme nicht unnötig anhäufen und am Ende Eure Autorität unterwandern …
-menu_notification_court_lost|{s12}
 menu_notification_player_faction_deactive|Ihr besitzt keine Ländereien mehr.
 menu_notification_player_wedding_day|{s8} wünscht Euch zu informieren, dass die Vorbereitungen für Eure Hochzeit in {s10} abgeschlossen sind, und dass man Eure unverzügliche Gegenwart erwartet.
-menu_notification_player_kingdom_holds_feast|{s11}
 menu_notification_center_under_siege|{s1} wurde durch {s2} von {s3} belagert! ^^ Der Ort war umgeben von Krieger, ihre Krieger haben Waffenhergestellt und hoffen darauf, dem Feind standzuhalten.
 menu_notification_village_raided|Feinde haben ein Lehen verheert^^{s1} wurde von {s2} von {s3} überfallen!
 menu_notification_village_raid_started|Euer Dorf wird angegriffen!^^{s2} von {s3} verheert {s1}.
@@ -660,17 +604,14 @@ menu_comprar_cattle2|Hier sind {reg5} Rinder, jedes für {reg6} Pfennige. Wie vi
 mno_cattle_okc|Eins.
 mno_cattle_ok2c|Fünf.
 mno_cattle_ok3c|Vergesst es.
-menu_notification_player_feast_in_progress|Festmahl in Vorbereitung^^Eure Gemahlin hat mit den Vorbereitungen für ein Festmahl in Eurer Halle in {s11} begonnen.
 menu_notification_lady_requests_visit|Eine ältere Frau nähert sich Eurer Gruppe und übergibt einem der Männer einen mit einfachem Wachs versiegelten Brief. Er ist an Euch adressiert. Als Ihr das S?egel brecht, seht Ihr, dass der Brief von {s15} stammt. Im Brief steht: ‚Ich habe Euren letzten Besuch so sehr genossen. {s14}. Ich bin momentan in {s10}.{s12}
 mno_continuewo|Befehlen Sie der Frau Ihre Herrin zu informieren, dass Sie bald kommen werden.
 mno_continuewo2|Befehlen Sie der Frau Ihre Herrin zu informieren, dass Sie verhindert sind.
-menu_garden|{s12}
 mno_nurse|Gehen Sie mit der Krankenschwester.
 mno_nurse2|Wartet bei der Quelle
 menu_kill_local_merchant_begin|Ihr entdeckt Euer Opfer und folgt ihm, wobei Ihr beobachtet, wie er in einer dunklen Gasse um die Ecke geht. Dies ist sicherlich Eure beste Gelegenheit, ihn anzugreifen.
 menu_debug_alert_from_s65|DEBUG-Alarm: {s65}
 menu_auto_return_to_map|Stutzen
-menu_bandit_lair|{s3}
 mno_continue_1l|Greifen Sie das Versteck an...
 mno_trade_withbanditsl|Beute an Banditen verkaufen.
 mno_leave_no_attackl|Verlassen ...
@@ -680,9 +621,6 @@ menu_notification_player_faction_political_issue_resolved|Nach Beratung mit den 
 menu_notification_player_faction_political_issue_resolved_for_player|Nach Rücksprache mit den Adeligen des Reichs, hat {s10} beschlossen {s11} an Euch zu übergeben. Sie mögen diese Ehre ablehnen, doch wird dies wahrscheinlich bedeuten, dass Sie vorerst keine andere Belohnung bekommen werden, {s12}.
 mno_accept|Ehre annehmen
 mno_decline|Ehre ablehnen
-menu_start_phase_3|{s1}
-menu_start_phase_4|{s11}
-menu_lost_tavern_duel|{s11}
 menu_establish_court|Dein Gericht muss in {s4} Saniert werden es erfordert aber ein paar Waren. Es ist Eisenwaren und etwas Silber. Außerdem wird es ein bisschen Zeit brauchen, dass sich deine Anhänger hier niederlassen können. Willst du fortzusetzen?
 mno_establish|Machen Sie {s4} zu Ihrem Hof
 menu_notification_relieved_as_marshal|{s4} hat dir berichtet, dass deine dienste als Doge nicht mehr benötigt werden. du willst für deine tapferen Anstrengungen der Verteidigung des Königreichs, während der letzten {reg4} Tage belohnt zu werden, {reg8? sie:er} bietet dir eine Belohnung von {reg5} Pennys an.
@@ -707,9 +645,9 @@ mno_convertir_norsegho|Konvertieren, um nordische Götter zu folgen.
 mno_camp_wait_hereho|Einige Zeit hier warten.
 mno_pillage_hofho|Plündern Sie den Schrein.
 mno_leaveho|Verlassen.
-menu_saquear_monasterio|Blut und Beute. Sie senden die Skurpelosesten Männer zu {s3}, um alle die in weg stehen zu töten, und die Reichtümer zu stehlen. Feuer und Tod breitet sich aus. Die Beute der Plünderung befördert Pennys in {reg3}. ^^ {s4} ^
+menu_saquear_monasterio|Blut und Beute. Ihr sendet die skrupelloseren Eurer Männer nach {s3}, um Alle auf ihrem Weg zu töten und die Reichen zu plündern. Feuer und Tod beherrscht den Ort. Die Beute beläuft sich auf Waren im Wert von {reg3} Pfennigen.^^{!}{s4}.
 mno_backho|Verlassen Sie den Ort.
-menu_saquear_paganholysite|Blut und Beute. Sie senden die Skurpelosesten Männer zu {s3}, um alle die in weg stehen zu töten, und die Reichtümer zu stehlen. Feuer und Tod breitet sich aus. Dir Beute der Plünderung befördert Pennys in {reg3}. ^^ {s7} ^^ {s4} ^
+menu_saquear_paganholysite|Blut und Beute. Ihr sendet die skrupelloseren Eurer Männer nach {s3}, um Alle auf ihrem Weg zu töten und die Reichen zu plündern. Feuer und Tod beherrscht den Ort. Die Beute beläuft sich auf Waren im Wert von {reg3} Pfennigen.^^{s7}^^{!}{s4}.
 mno_backpa|Verlassen Sie den Ort.
 menu_refugee_recruit_troops12|Hier sind ein paar Witwen und Waisen, die interessiert sind sich Euch anzuschließen und sich ein neues Leben mit Euren Soldaten aufzubauen.
 mno_acept_themmo|Heuert Sie an. (20 Pfennige)
@@ -806,7 +744,6 @@ menu_thiaderd_muerto|Der Kampf war hart. Thiaderds Männer kämpften wie Löwen,
 mno_choice_01_1ath|Weiter
 menu_thiaderd_battle|Der Kampf ist unvermeidbar. Thiaderd ist beim Anblick von Reginhard wütend geworden und befiehlt seinen Männern anzugreifen.
 mno_choice_01_thiaderd|Zum Kampf!
-menu_camp_thiaderd|{s5}
 mno_talk_to_thiaderd|Redet zu Euren Männern.
 mno_kill_thiader_fam|Tötet alle, raubt und brennt das Lager nieder.
 mno_loot_thiader_fam|Das Versteck plündern, aber die Bewohner verschonen.
@@ -816,7 +753,7 @@ mno_encounter_savefarmth|Weiterziehen.
 menu_frisa_beach|Der Meereswind Streicht dein Gesicht. Du Hörst über dir Möwen Pipsen und dass Meersalz stärkt dich. Aus der Ferne, sehen sie ein Boot das an der Insel ist. Es ist das Schiff wovon Thonkrik sprach... dass es mein Schiff ist.
 mno_enterbea|Laufen Sie zum Strand hinunter.
 mno_leavebea|Kommen Sie später zurück.
-menu_sven_lair|Am Ufer eines Flusses, kannst du erkennen dass da ein Wikinger ist. Du hast Die Höhle von Sven gefunden! ^Es ein guter Ort, mit einem kleinen Ladeplatz, leicht zu Verteidigen. Hinter den Zaun kannst du einige Krieger erkennen, Die Krieger laufen zwischen die Hütte und den Zaun. Du weiß aber nicht wie viele es sind, ohne nicht gesehen zu werden darf ich nicht riskieren näher ran zu gehen, aber es scheint dass einige in der Mitte der Festung Gefangene verkauft werden. Könnte deine Mutter zwischen ihnen sein?
+menu_sven_lair|Am Ufer eines Flusses bemerkt ihr ein Wikingerlager. Ihr habt das Versteck von Sven gefunden!^Es ist ein guter Platz, mit einem kleinen Hafen und leicht zu verteidigen. Hinter der Mauer, zwischen den Hütten, könnt Ihr Krieger sehen. Ihr könnt sie nicht zählen ohne gesehen zu werden, doch es scheinen einige Dutzend dort drinnen zu sein.{!}{s4}
 mno_talk_to_fort_leader|Fordert ein Treffen mit dem Anführer der Burg.
 mno_enter_to_buy_prisoners|Geht in die Burg und kauft Gefangene.
 mno_initial_attack|Überraschungsangriff.
@@ -833,6 +770,8 @@ mno_destroy_itv|Bah. ich befehle meinen Männer es zu plündern und zu zerstöre
 menu_sven_lair_final|Das Schicksal spielt mit euch. Zuerst drehte sich alles um den Tod eurer Mutter. Teilweise von Rache, doch auch vom Wunsch zu überleben getrieben wolltet ihr nur Sven Stiernacken finden und töten. Nun, nachdem ihr erfahren habt, dass eure Mutter noch lebt und in der Hand des Feindes ist, ist euer nächstes Ziel sie zu retten.
 mno_travel_sv|Gehen Sie.
 menu_svenlair_victory_conquista|Nach einem harten Kampf haben Eure Männer die Wikinger besiegt, welche das Versteck bewchten. Nun müssen Sie entscheiden, was damit geschieht.
+mno_take_itsl|Dies ist ein guter Ort. Ich befehle meinen Männern in zu säubern.
+mno_destroy_itsl|Bah. ich befehle meinen Männer es zu plündern und zu zerstören.
 menu_farmstead_sigurd|Ein Schotterweg führt zu einem großen Zaun, hinter dem mehrere Häuser gebaut wurden. Der Ort scheint wohlhabend, und das Zuhause eine reichen Mannes zu sein.^Von dort, wo Ihr euch befindet, könnet Ihr einige Menschen sehen, die ihren Beschäftigungen nachgehen. Alles scheint ruhig.
 mno_enter_to_farmstead|Gehen Sie zum Bauernhof.
 mno_encounter_savefarm|Weiterziehen.
@@ -856,7 +795,6 @@ menu_meeting_ragnarssons|Mehrere Männer sind gekommen um Sie vor den Toren von 
 mno_talk_to_siegemen|Redet mit Ihnen.
 menu_primer_barco|Ihr habt euer erstes Schiff erhalten. Ein Schiff macht es euch nicht einfach nur möglich, die See zu bereisen. Es macht euch reich, wenn ihr an Überseehandel interessiert seid. Es macht aus euch einen gefürchteten Mann wenn ihr Überfälle auf die Siedlungen an den Küsten durchführt. Es macht aus euch einen Herrscher, wenn ihr fremde Länder erobert. Die Männer des Nordens sagen, es bringt euch sogar bis ins nächste Leben.^^Natürlich ist die Seefahrt auch gefährlich. Die See ist wie ein offenes Grab, das unter dem Rumpf euch und eure Männer erwartet. Die Stürme des Winters werden dem Schiff schaden, doch ruhiges Wetter ist nicht viel besser, denn es lässt eure Männer zanken. Um eure Mannschaft nicht zu überfordern ist es ratsam, die Nacht an Land zu verbringen.^^Ein Schiff ist ein wertvoller Besitz. Der Besitzer sollte stets ein Auge darauf haben.^^Kommt hierher zurück, wenn ihr wieder segeln wollt...
 mno_choice_01_1bar|Weiter
-menu_lugar_destruido|{s4}.
 mno_lugar_des|Gehen Sie.
 menu_banquete_moral_refuge|Du befiehlst deinen Männern, die Waffen draußen zu lassen um die Halle zu betreten und dem Rang nach mit dir zu tafeln, während die Jungfrauen euch gebratenes Fleisch und Met servieren. ^^Du verschwendest viel Pennys um die Männer glücklich zu machen. Alle Haben viel Blut vergossen, sie haben dir geholfen deine Herrschaften zu erobern, sie sind deine treusten Anhänger.^^Die Nacht rückt näher, viele sind betrunken; sie schreien und singen Kriegslieder. Einige kotzen, während andere konkurrieren, um die Aufmerksamkeit der Mädchen auf sich zu lenken. Hinter deinem Rücken lobt ein Barde deine Macht und erinnert sich an deine Heldentaten.^^Du zeigst dich als ein authentischer Kriegsfürst, ein Schäfer der Männer.
 mno_banquete_okr|Sie drinken, lachen und schreien als sie herbeikommen.
@@ -877,6 +815,7 @@ mno_lair_inspect_door|Gehen Sie zum Platz.
 mno_mylair_station_troops|Verwalten Sie die Garnison.
 mno_demoler_lair|Brechen Sie Ihre Zuflucht ab.
 mno_lair_wait|Hier für einige Zeit warten.
+mno_see_ships|Zeigt die Schiffe.
 mno_embarkre|An Bord gehen.
 mno_lair_leave|Verlassen ...
 mno_lair_leave_door|Verlasst den Bereich.
@@ -903,7 +842,6 @@ mno_permitir2|Lassen Sie sie Egil begraben.
 mno_permitir3|Erlauben Sie Ihren Männern nicht Egil zu begraben. Überlassen Sie seine Leiche den Raben!
 menu_egil_duel|Egil kommt Ihnen näher. Die Männer versammeln sich um Euch. Es heißt nun Sie oder er...
 mno_fight_egilrebdu|Kämpfen.
-menu_backfrom_frankia|{s4}
 mno_choice_01_1frankia|Weiter
 menu_cueva_odin|Der Geruch des Meeres ist durchdringend in diesem Gebiet und das Geräusch der Wellen, die sich an den Klippen brechen hallt in eurem Kopf wie Donner. Dort ist ein Pfad, sehr eng, am Ende des Strandes wo ihr die Spuren von Männern ausmachen könnt. Es ist ein beschwerlicher Weg, den ihr nur alleine gehen könnt. So befehlt ihr euren Truppen zu warten währen ihr dies untersucht.
 mno_enterod|Nähern Sie sich.
@@ -915,7 +853,6 @@ mno_duel_orm|Werfen Sie sich in den Kampf.
 menu_orm_duel_win|Orm's des Schwarzen Leiche liegt zu euren Füßen. Eure Arme sind wund vom Blocken seiner brutalen Attacken und euer Kopf zeigt euch noch einmal die aussichtsloseren Momente des Kampfes. Ihr denkt an die Wut Orm's und seine scheinbare Unempfindlichkeit gegen Schmerzen. Es gibt keinen Zweifel an eurem Glück, ihr habt gerade einen Kampf mit einem Berserker überlebt!
 menu_viking_duel_win|Das Duell ist vorbei, und Ihr habt {s1} besiegt. Die Skalden werden Euren Sieg preisen, und der Ruhm Eurer Taten wird sich durch Erzählungen verbreiten.
 menu_viking_duel_lose|{s1} war ein zu begabter Gegner für Euch. Ihr seid geschlagen. Während der Ruhm von {s1} durch den Sieg über Euch, dank den Liedern der Skalden, wächst, wird man sich an Euch nur als den Geschlagenen erinnern.
-menu_duel_troop_rebelion|{s4}
 mno_duel_rebelion|Nehmen Sie die Herausforderung an.
 menu_duel_rebelion_enemyback|Erschrocken von Eure Wildheit, Euer Gegner weigert sich letztendlich Euch gegenüber zu treten. Er zieht sich zurück, während Eure Truppen ihn für seine Feigheit aufziehen.
 menu_duel_rebelion_win|Das Duell ist vorbei. Euer Gegner liegt wegen Eures augezeichneten Umgangs mit den Waffen am Boden. Ihr hofft, dass dies als Warnung für andere Rivalen dient. Nun muss nur noch die Zuversicht und Moral Eurer Männer wiederhergestellt werden.
@@ -976,12 +913,11 @@ mno_enter_ambush|Besucht den Weiler.
 menu_boar_grove|Sie erreichen einen Hain in den Wäldern. {s4}
 mno_enter_hut|Nähern Sie sich der Hütte.
 mno_enter_hut2|Nähern Sie sich der Hütte.
-menu_aescesdun_camp|Die sächsische Armee hat sich zu diesem Punkt zurückgezogen um sich neu zu gruppieren nach der Niederlage bei Readingum. Sie haben ein Lager auf einem Berg errichtet wo sie jeden Tag Nachschub an Männern erhalten. Es ist eine gute Position sich zu regenerieren und gleichzeitig die Dänen abzuhalten, ihren westlichen Vormasch nach West Seaxe fortzuführen.^^Diese Seite wird Aescesdun genannt.^^{s4}
+menu_aescesdun_camp|Die sächsische Armee hat sich zu diesem Punkt zurückgezogen um sich neu zu gruppieren nach der Niederlage bei Readingum. Sie haben ein Lager auf einem Berg errichtet wo sie jeden Tag Nachschub an Männern erhalten. Es ist eine gute Position sich zu regenerieren und gleichzeitig die Dänen abzuhalten, ihren westlichen Vormasch nach West Seaxe fortzuführen.^^Diese Seite wird Aescesdun genannt.^^{!}{s4}
 mno_enter_aescendun|Gehen Sie zum Lager.
 menu_aescesdun_empty|Das Lager ist fast leer, nur sehr wenige Menschen, die nach dem Vormarsch der großen Armee in die Schlacht noch übrig sind, verweilen hier.
-menu_readingum_camp|Ragnar's Söhne haben ein befestigtes Lager in einem sächsischen Dorf errichtet, Readingum genannt. Es ist gut geschützt mit einem Graben und es gibt noch Reste der vorherigen Schlacht mit den Sachsen, die versuchten die Dänen zu vertreiben. Eine gute Position um zu verteidigen und das Umland zu schützen.^^{s4}
+menu_readingum_camp|Ragnar's Söhne haben ein befestigtes Lager in einem sächsischen Dorf errichtet, Readingum genannt. Es ist gut geschützt mit einem Graben und es gibt noch Reste der vorherigen Schlacht mit den Sachsen, die versuchten die Dänen zu vertreiben. Eine gute Position um zu verteidigen und das Umland zu schützen.^^{!}{s4}
 mno_enter_readingum|Gehen Sie zum Lager.
-menu_the_speech_l|{s4}
 mno_the_speech|Begleiten Sie sie.
 menu_thetravel_danisharmy_l|Die dänische Armee, die Armee des großen Sommers, hat Aescendum erreicht.^^König Aethelred teilte seine Armee in zwei Teile: Eine, geführt von ihm selbst und die andere in Händen seines Bruders Aelfred dem jungen. Jede Abteilung nimmt eine Seite der antiken Straße, den Grattweg.^^Während die Wikinger aufmarschieren, entscheidet Aethelred vor der Schlacht zu beten und weigert sich fortzufahren bis das Ritual abgeschlossen ist. Doch die Dänen nähern sich schnell, auch ihre Armee hat sich zweigeteilt...
 mno_choice_01_3ddarm|Die Schlacht von Aescesdun.
@@ -999,7 +935,7 @@ mno_follw_yes|Verdammt.
 menu_followers_remove|Sind Sie sicher, dass Sie Ihre Anhänger entlassen möchten? Dadurch werden sie Ihrer Armee nicht mehr folgen. Dies kann eine starke negative Auswirkung auf die Moral Ihrer Männer haben.
 mno_remove_yes|Ja.
 mno_remove_no|Nein.
-menu_sven_bullneck_readingum|Diese Seite hat gute Verteidigungsanlagen und Gräben, und es sind noch Trümmer von der vergangenen Schlacht da, als die Sachsen versuchten, die Dänen zu vertreiben. Es ist eine gute Position zum Verteidigen.^^{s4}
+menu_sven_bullneck_readingum|Diese Seite hat gute Verteidigungsanlagen und Gräben, und es sind noch Trümmer von der vergangenen Schlacht da, als die Sachsen versuchten, die Dänen zu vertreiben. Es ist eine gute Position zum Verteidigen.^^{!}{s4}
 mno_talk_to_leadermen|Reden Sie mit ihm.
 mno_enter_to_talk_sven|Nähern Sie sich Readingum.
 mno_svenreadingum_attack|Sturmangriff!
@@ -1017,11 +953,9 @@ menu_first_attack_morrigan|Ihr wisst, durch die Richtungsangabe von Caliacas, da
 mno_morrigan_ambush|Kämpfe!
 menu_morrigan_leave|Eure Männer laufen zum Ruf der Hörner. Der Nebel um euch scheint zu verblassen, oder vielmehr, jetzt, da ihr ruhiger seid, könnt ihr besser durch ihn hindurch sehen. Euer Feind ist fort, doch hinterließ merkwürdiger Weise keine Leichen. Die Schwerter eurer Männer haben ihnen keine Verluste beigebracht.^^Die Hörner klingen jetzt näher und Männer kommen an eurem Platz an. Es sind nur wenige, weniger als die Hörner es vermuten ließen. Einer der Männer bringt ihren Anführer zu euch.
 mno_campeones_primerencuentro|Redet mit Ihnen.
-menu_morrigan_lair_attack|{s4}
 mno_morrigan_ambush2n|Kämpfe!
 mno_enter_morriganlairch|Den Champions nähern.
 mno_leaveslmorrigan|Verlassen.
-menu_bresail_farm_visit|{s4}
 mno_enter_maelbresail|Weiter.
 mno_enter_maelbresailhall|Lauft!
 mno_mailbresail_attack|Kämpfe!
@@ -1066,7 +1000,6 @@ mno_choice_06_2f|Senden Sie Boten um sie auszuzahlen (500 Pfennige).
 mno_choice_06_3f|Nichts tun.
 menu_encuentro_avituallamiento|Ihr entsenden einige Männer zum Schutz und gegen die Feinde, die euren Nachschub blockieren. Die Männer versuchen sie in die Ecke zu treiben und damit zu zwingen bis zum Ende zu kämpfen. Es gibt einige Verluste, doch eure Männer gewinnen den Kampf und sichern den Nachschub.^^ Eure Verluste: {s8}^^Verluste der Feinde: {s10}
 mno_back_to_siegeg2|Gut gemacht.
-menu_encuentro_avituallamiento2|{s4}
 mno_back_to_siegeg3|Sehr gut.
 menu_event_siege_07|Unser Späher haben herausgefunden, das der Feind das Trinkwasser mit toten Tierkadavern verseucht hat. Wollt Ihr Wasser von den Händlern kaufen und sie bitten, das Wasser über unsere Versorgungsroute anzuliefern? 
 mno_choice_07_1g|Ja (600 Pfennige).
@@ -1179,25 +1112,15 @@ menu_messenger_system2|Ein Bote erscheint, auf einem Pferd galoppierend. Er brem
 mno_finish_m|Pech.
 menu_messenger_system_res_failure|Ein Bote erscheint, auf einem Pferd galoppierend. Er bremst vor euch, atmet tief ein und ruft:^^'Mein Herr sandte mich um zu berichten, dass euer Bote tot neben der Straße gefunde wurde. Wir bedauern zu berichten, dass er nie sein Ziel erreichte. Wir werden für jedwede weitere Nachricht zu eurer Verfügung stehen. Ihr wisst ja, wo ihr uns finden könnt.'
 mno_finish_m2|Pech.
-menu_messenger_system_res|{s4}
 mno_Continue_msse|Habt Dank für Eure Hilfe.
-menu_messenger_system_follow|{s4}
 mno_Continue_mess2|Gut.
-menu_messenger_system_gotoplace|{s4}
 mno_Continue_mess3|Gut.
-menu_messenger_system_patrolarea|{s4}
 mno_Continue_mess4|Gut.
-menu_messenger_system_besiegeplace|{s4}
 mno_Continue_mess5|Gut.
-menu_messenger_system_insult|{s4}
 mno_Continue_mess6|Habt Dank für Eure Hilfe.
-menu_messenger_system_sendgift|{s4}
 mno_Continue_mess7|Habt Dank für Eure Hilfe.
-menu_messenger_system_sugalliance|{s4}
 mno_Continue_messeng1|Habt Dank für Eure Hilfe.
-menu_messenger_system_suggestpeace|{s3}
 mno_Continue_messeng2|Habt Dank für Eure Hilfe.
-menu_messenger_system_declarewar|{s3}
 mno_Continue_messeng3|Ich habe mein Krieg.
 menu_random_juice_events|Ereignisse
 mno_leave_jui|Verlassen.
@@ -1322,7 +1245,6 @@ menu_event_01_normal|Das Geräusch eines galoppierenden Pferdes durchdringt den 
 mno_choice_01_1nor|Entsendet Männer um nach Wertsachen zu suchen. Falls Überlebende gefunden werden, tötet sie.
 mno_choice_01_2nor|Entsendet Männer zum Untersuchen. Falls Überlebende gefunden werden, rekrutiert sie.
 mno_choice_01_3nor|Nichts tun.
-menu_event_02_normal|{s4}
 mno_choice_11_msgnor|Weiter
 menu_event_03_normal|Sie haben gehört, dass eine Barde ein Lied über Ihre noblen Taten komponiert hat.
 mno_choice_03_1nor|Ausgezeichnete Nachrichten!
@@ -1430,10 +1352,8 @@ menu_event_30_normal|Am Wegrand findet Ihr eine kranke Frau. Ihre Haut hat einen
 mno_choice_30_1nor|Gebt ihr 1000 Pfennige um einen gute Arzt anzuheuern.
 mno_choice_30_2nor|Als bester Arzt, {reg3?you order:{s3} orders} einen Aderlass.
 mno_choice_30_3nor|Ignoriert sie. Ihre Erkrankung könnte ansteckend sein.
-menu_season_change|{s1}
 menu_troop_camp|Ein kleines Lager wurde für eure Krieger gebaut, du willst diesen Ort für einen Moment verlassen.^^(Wählt die Truppen mit denen ihr diesen Ort verlassen wollt und drückt den Bestätigen Knopf.)
 mno_station_troops|Begutachten Sie die Truppen.
-menu_player_trait|{s3}
 menu_start_beda_final|ENDE
 menu_ship_capture|Ihnen ist es gelungen in den Besitz eines gegnerischen Schiffes zu kommen. Es ist ein {s2}, aber nach diesem Kampf ist die '{s1}' in schlechter Verfassung. Wollt Ihr das Schiff trotzdem Eurer Flotte hinzufügen?
 mno_capture|Fügt das Schiff eurer Flotte hinzu.
@@ -1442,7 +1362,6 @@ mno_continuesdb|Ja.
 menu_start_sea_travel|Sie starten eine Seereise.
 menu_mutiny_start|Die Moral einiger Krieger is niedrig. Sie starten eine Meuterei.
 menu_mutiny_end|Nach der Meuterei scheint sich die Lage zu beruhigen.
-menu_print_ships|Ihre Schiffe mit Schiffstyp, Name, Qualität und Holzart: ^ {s10}
 menu_work_start|Nach kurzer Zeit werden Eure Arme müde von der eintönigen Arbeit, aber wie verinbart werdet Ihr den ganzen Tag arbeiten.
 menu_work_end|Zufrieden schaut Ihr zurück auf den Tag voll mit ehrlicher Arbeit, aber dann seht Ihr auf Euren Lohn und denkt, dass ein Leben mit ehrlichem Tagewerk ein ärmliches Leben ist.^^{s7}
 menu_landing_point_encounter_as_marshal|Sie sind der Marschall. Sie haben vor von Bord zu gehen. {s1} {s2}^^Möchten Sie jetzt von Bord gehen oder noch warten?
@@ -1451,12 +1370,7 @@ mno_disembark_nolp|Warte.
 menu_landet_ships_encounter_as_marshal|Sie sind der Marschall. Sie haben vor an Bord zu gehen. {s1} {s2}^^Möchten Sie jetzt an Bord gehen oder noch warten?
 mno_reembark_yesls|An Bord gehen.
 mno_reembark_nols|Warten.
-menu_recruit_volunteers_town|{s18}
 menu_hunting|Ihr seid auf {s1} gestoßen. Was möchtet Ihr tun?
 mno_hunt_go|Gehen sie auf die Jagd.
-menu_after_hunt|{s1}
 menu_slave_hideout|Sie haben ein Versteck gefunden. Was möchten Sie tun?
-menu_set_goal_trigger_new_game|{s1}
-menu_set_goal_message_complete_goal|{s1}
 mno_new_goal|Wählen Sie ein neues Ziel.
-menu_auto_start_presentation|{s1}

@@ -30,7 +30,7 @@ p_town_28|Cidade de CRUAGHAN
 p_town_29|Cidade de TEMAIR
 p_castle_1|Castelo de Caer Ligualid
 p_castle_2|Castelo de Mame Ceaster
-p_castle_3|Castelo de Donne Ceaster 
+p_castle_3|Castelo de Donne Ceaster
 p_castle_4|Castelo de Middelsburh
 p_castle_5|Castelo de Denisesburna
 p_castle_6|Castelo de Anúncio Gefrin
@@ -239,8 +239,8 @@ p_village_118|Vila de Bal Scuin Leste
 p_village_119|Vila de Bal Scuin Oeste
 p_village_120|Vila de Witan Ham Norte
 p_village_121|Vila de Witan Ham Sul
-; p_village_122|Tref Bodmine East
-; p_village_123|Tref Bodmine West
+p_village_122|Vila de Tref Bosvenegh Leste
+p_village_123|Vila de Tref Bosvenegh Oeste
 p_village_124|Vila de Bal Cainnighn Norte
 p_village_125|Vila de Bal Cainnighn Sul
 p_village_126|Vila de Bal Rigmonaid Norte
@@ -281,7 +281,7 @@ p_mega_danishrmy|Grande Exército do Verão
 p_battle_stones|Fileira de Pedras
 p_farmland_special|Terras agrícolas
 p_roman_fort|Forte Romano
-p_troll_bridge|A Ponte de Trolls
+; p_troll_bridge|The Troll's Bridge
 p_circle_mystic1|Círculo Místico
 p_celidon_forest|Pedras Antigas
 p_hidden_valley|Estranhas Ruínas
@@ -306,11 +306,11 @@ p_farmsteadsp6|Chácara
 p_farmsteadsp7|Chácara
 p_farmsteadsp8|Chácara
 p_farmsteadsp9|Chácara
-p_hadrian_wall1|Muralha de Adriano
-p_bjorn_camp|Acampamento de Bjorn
-p_snotingaham_siege|Snotingaham sob cerco
+; p_hadrian_wall1|Hadrian's Wall
+; p_bjorn_camp|Bjorn's Camp
+; p_snotingaham_siege|Snotingaham under Siege
 p_odin_cave|Caverna de Odin
-p_stonemonumento|monumento de pedra
+; p_stonemonumento|Monument of Stones
 p_forestbattle|Batalha da Floresta
 p_the_thing|A Assembly
 p_dhorak_keep|Forte Dhorak
@@ -320,7 +320,7 @@ p_training_ground_2|Vila de Treinamento
 p_training_ground_3|Campo de Treinamento
 p_training_ground_4|Lago de Treinamento
 p_training_ground_5|Acampamento de Treino
-p_monasterio1|Mosteiro Ad Candida Casam
+; p_monasterio1|Ad Candidam Casam
 p_monasterio2|Mosteiro Willibrord
 p_monasterio3|Mosteiro Dommoc
 p_monasterio4|Mosteiro Lindisfarne
@@ -363,34 +363,40 @@ p_ferry_1b|Estação de balsa
 p_ferry_2b|Estação de balsa
 p_ferry_3b|Estação de balsa
 p_ferry_4b|Estação de balsa
-; p_looter_spawn_point|their hideout
-; p_looter_spawn_point2|their hideout
-; p_looter_spawn_point3|their hideout
-; p_steppe_bandit_spawn_point|their longphort
-; p_taiga_bandit_spawn_point|their longphort
-; p_forest_bandit_spawn_point|their den
-; p_forest_bandit_spawn_point2|their den
-; p_forest_bandit_spawn_point4|their den
-; p_mountain_bandit_spawn_point|their camp
-; p_mountain_bandit_spawn_point3|their camp
-; p_sea_raider_spawn_point_1|their camp
-; p_sea_raider_spawn_point_2|their longphort
-; p_sea_raider_spawn_point_3|their longphort
-; p_desert_bandit_spawn_point|their camp
-; p_frank_looters_sp_1|their camp
-; p_frank_looters_sp_2|their camp
-p_pagan_spawn_1|A zona rural
-p_pagan_spawn_2|A zona rural
-p_pagan_spawn_3|A zona rural
-p_pagan_spawn_4|A zona rural
-p_ship_raider_spawn_point_1|O canal
-; p_ship_raider_spawn_point_2|the area
-; p_ship_raider_spawn_point_3|the area
-; p_ship_raider_spawn_point_4|the area
-; p_ship_raider_spawn_point_5|the area
-; p_ship_raider_spawn_point_6|the area
+p_wales_spawn_point|a costa
+p_fortiu_spawn_point|a costa
+p_sussex_spawn_point|Seaxe Sul
+p_clyde_coast_spawn_point|O rio
+p_limerick_spawn_point|a costa
+p_norway_spawn_point|As montanhas
+p_northumbria_spawn_point|A zona rural
+p_mierce_spawn_point|A zona rural
+p_crafu_spawn_point|A zona rural
+p_alban_spawn_point|A zona rural
+p_aileach_spawn_point|A zona rural
+p_engla_coast_spawn_point|a costa
+p_cornish_coast_spawn_point|a costa
+p_leinster_spawn_point|A zona rural
+p_frisia_spawn_point|A zona rural
+p_denmark_spawn_point|A zona rural
+p_caitness_priest_spawn_point|A zona rural
+p_northumbria_priest_spawn_point|A zona rural
+p_norway_priest_spawn_point|A zona rural
+p_denmark_priest_spawn_point|A zona rural
+p_channel_spawn_point|O canal
+p_bight_spawn_point|A Baía Sul
+p_irish_sea_spawn_point|Mar da Irlanda
+; p_forth_firth_spawn_point|the Firth of Forth
+p_skagerrak_spawn_point|O Skagerrak
+; p_firth_clyde_spawn_point|the Firth of Clyde
 p_landing_point|Ponto de Desembarque
 p_the_fleet|A Frota
 p_transporter|Transportador
-; p_troop_camp_1|Troop camp
-; p_troop_camp_2|Troop camp
+p_troop_camp_1|Quartel  de Tropa
+p_troop_camp_2|Quartel  de Tropa
+p_paganholysites1|Templo de Odin
+p_paganholysites2|Templo de Thor
+p_oldpagan_hut|Cabana do Velho Pagão
+p_morrigan_lair|Refúfio de Morrigan
+p_bresail_farm|Fazenda de Mael Bresail
+p_bresail_fort|Forte de Mael Bresail

@@ -1110,8 +1110,6 @@ qstr_village|Vila
 ; qstr_I_see_no_reason_to_e|I see no reason to even discuss things like that with someone like you!
 ; qstr_Plain|Plain
 ; qstr_Please_note_that_thi|Please note that this refinement makes the weapon cause more damage but also makes it slower.
-; qstr_A_{s5}?_Well..._Yes_|A {s5}? Well... Yes, I suppose it is. What a strange thing to ask.
-; qstr_Eh?_No_it_most_certa|Eh? No, it most certainly is not a {s5}. I'd start questioning my eyesight if I were you.
 ; qstr_This_is_the_{reg4?to|This is the {reg4?town:village} of {s5}, {reg59?madam:sir}.
 ; qstr_{s6}_Our_{reg4?town:|{s6} Our {reg4?town:village} and the surrounding lands belong to you of course, my {reg59?lady:lord}.
 ; qstr_{s6}_Our_{reg4?town:v|{s6} Our {reg4?town:village} and the surrounding lands belong to {s7} of the {s8}.
@@ -1494,25 +1492,13 @@ qstr_Tired|Cansado
 qstr_High|Alta
 qstr_What_name_would_you_|Que nome você gostaria de dar para o seu Refúgio?
 qstr_Save_it_as:_{s5}.|Salve-o como: {s5}.
-qstr_You_head_into_town_t|Você se dirige até a cidade para selecionar itens para suas tropas...
-qstr_Peningas:_{reg0}|Peningas: {reg0}
-qstr_Save_for_Wages:_|Economizar para Salários: 
-qstr_Reset|Redefinir
-qstr_Commit|Cometer
-; qstr_Melee_Weapons:|Melee Weapons:
-; qstr_Ranged_Weapons:|Ranged Weapons:
-qstr_Armor:|Armadura:
-qstr_Horses:|Cavalos:
-qstr_You_toss_the_offendi|Você joga o item ofensor de volta!
-qstr_You_make_your_big_pu|Você faz sua grande aquisição!
 qstr_From_Troop:_|Da tropa: 
 qstr_{s1}_or_{s2}|{s1} ou {s2}
 qstr__Click_on_a_unit_for|(Clique em uma unidade para detalhes)
 qstr_{reg2}|{reg2}
-qstr_Do_you_want_to_save_|Você quer SALVAR seu progresso na Campanha de Viking Conquest?
+qstr_On_several_occasions|Em várias ocasiões ao longo de sua vida, você tem visto as estranhas letras Latinas. Você rapidamente aprende a ler. Talvez, com o tempo, você também aprenda a escrever! ^ ^ isso exigirá que você permaneça uma semana no mosteiro. Você ainda quer aprender a ler?
 qstr_Yes.|Sim.
 qstr_No.|Não.
-qstr_On_several_occasions|Em várias ocasiões ao longo de sua vida, você tem visto as estranhas letras Latinas. Você rapidamente aprende a ler. Talvez, com o tempo, você também aprenda a escrever! ^ ^ isso exigirá que você permaneça uma semana no mosteiro. Você ainda quer aprender a ler?
 qstr_No_one_here_wants_to|Ninguém aqui quer se juntar às suas tropas.
 qstr_One_{s3}_is_willing_|Um {s3} está disposto a segui-lo.
 qstr_{reg5}_{s3}_are_will|{reg5} {s3} estão dispostos a segui-lo.
@@ -1719,7 +1705,6 @@ qstr_Green|Verde
 qstr_Blue|Azul
 qstr_{reg11}_{reg12}_{reg|{reg11}, {reg12}, {reg13}
 qstr_Head_of_cattle_to_ta|Cabeças de gado a levar (max {reg22}):
-qstr_Cattle_is_{reg33}_va|Gado é {reg33}, o valor é {reg34}
 qstr_Create_a_new_goal:|Criar uma nova meta:
 qstr__You_can_select_a_cu|(Você pode selecionar uma meta personalizada ou um ^ dos modelos abaixo para uma recompensa!)
 qstr_Let_me_choose!|Deixe-me escolher!
@@ -1743,7 +1728,6 @@ qstr_Wealth|Riqueza
 qstr_{s3}^_______________|{s3}^-------------------------------^
 qstr_{s1}^{s2}^|{s1} ^ {s2} ^
 qstr_^{s1}|^{s1}
-qstr_{s30}XXXXXXXXXX^|{s30} XXXXXXXXXX ^
 qstr_Port_of_{s1}|Porto de {s1}
 qstr_vWindDirection|vDireção do Vento
 qstr_Refill_Supplies|Reabastecer Suprimentos
@@ -2014,9 +1998,7 @@ qstr_Stroll_through_town.|Passear pela cidade.
 qstr_Meet_the_mayor.|Encontrar o prefeito.
 qstr_Mead_hall__hire_men_|Salão de Hidromel (contratar homens).
 qstr_Visit_the_mead_hall.|Visitar o Salão de Hidromel.
-qstr_Speak_with_the_merch|Falar com o comerciante.
 qstr_Visit_the_training_g|Visitar os campos de treinamento.
-qstr_Never:_Enter_the_pri|Nunca: Entre na prisão
 qstr_Tour_the_grounds.|Visitar o terreno.
 qstr_Visit_your_farmstead|Visitar sua chácara.
 qstr_Attempt_to_visit_a_l|Tentar visitar uma Lady.
@@ -2092,10 +2074,6 @@ qstr_Sail_from_port.|Velejar a partir do Porto.
 ; qstr_Power_Draw_skill.|Power Draw skill.
 ; qstr_Riding_skill.|Riding skill.
 ; qstr_{s2}_needs_{reg1}_mo|{s2} needs {reg1} more {s1}
-; qstr_You_do_not_have_the_m|You do not have the money to buy the {s0}.
-; qstr_You_place_the_{s0}_t|You place the {s0} that {s1} had been using in your baggage.
-; qstr_You_dump_a_{s2}_in_o|You dump a {s2} in order to keep the {s0} that {s1} had been using.
-; qstr_Unable_to_Equip_Item|Unable to Equip Item
 ; qstr_You_need_five_tool_k|You need five tool kits to improve your refuge!
 ; qstr_You_need_five_timber|You need five timber pallets to improve your refuge!
 ; qstr_To_hire_workers_you_|To hire workers, you need to select them from the list. If the list is empty, you may need to increase your renown or improve your refuge for them to come and offer their services.
@@ -2192,7 +2170,6 @@ qstr_You_have_lost_the_tra|Você perdeu os comerciantes porque você embarcou se
 qstr_vWaveInfo|v Info de Onda
 qstr_vWaveOrigin|vOrigem de Onda
 qstr_vTimer|vTemporizador
-qstr_Wank_ERROR!|ERRO de wank!
 qstr_SHIP_{reg8}_ERROR:_g|ERRO de NAVIO {reg8}: gtbws não é o mesmo!
 qstr_You_are_an_elder._Yo|Você é um ancião. Você pode contar muitos anos a respeito de suas experiências de vida. Você pode não ser tão forte e ágil como antes, mas certamente é mais sábio.
 qstr_You_are_an_adult._Yo|Você é um adulto. Você está em uma idade onde uma razoável quantidade de experiência e saúde se encontram.
@@ -2351,8 +2328,6 @@ qstr_You_don_t_have_enough|Você não tem dinheiro suficiente! Os trabalhadores 
 qstr_You_need_to_have_mor|Você precisa ter mais de trinta homens para iniciar este trabalho.
 qstr_Your_men_await_your_|Seus homens aguardam suas ordens pra começarem a construir o refúgio. Há material coletado o suficiente até agora, e o que possa estar faltando pode ser comprado em Vilas próximas.^^Custo Total: 1000 Peningas.^Tempo necessário: 6 horas.
 qstr_{s2}^^_{s3}|{s2} ^^ {s3}
-qstr_Camping_allows_your_|Acampar permite que seus homens descansem por um tempo e se recuperem da dura vida das viagens. Também permite que você forrageie, aumentando seus suprimentos de comida. Isto é particularmente útil quando se está em campanha em território inimigo, onde é difícil comprar suprimentos.
-qstr_Traveling_by_sea_exh|Viagem por mar exausta os homens completamente. Permitir a seus guerreiros algum tempo de descanso ajudará a tornar a viagem mais suportável.
 qstr_You_are_in_the_kingd|Você está no Reino de DANMARK. ^ ^ Danmark é um importante estado Nórdico na era Viking. Os Daneses não só mantém sua independência contra o poderoso Império Franco como também atacam e saqueiam cidades, igrejas e mosteiros em toda a Europa Ocidental. Vikings Daneses são excelentes comerciantes que negociam com a maior parte de seu mundo conhecido. Uma forte autoridade central foi estabelecida na Jutlândia, e os daneses agora olham para além de seu próprio território, por terra, comércio e saques. Enquanto os homens estão no mar, as mulheres gerenciam as fazendas.
 qstr_You_are_in_the_kingdo|Você está no Reino de NORTHVEGR. ^ ^ em Northvegr, terreno montanhoso e fiordes formam fortes fronteiras naturais. Comunidades permanecem independentes umas das outras, e trinta pequenos Reinos existem nesta terra. Os mais poderosos líderes dos pequenos Reinos entraram numa luta de grande esforço. O mar é a maneira mais fácil de comunicação entre os os reinos noruegueses e o mundo além-mar, e as pessoas se tornaram comerciantes e exploradores, bem como saqueadores. A falta de terras para cultivo adequado, força noruegueses a colonizar as ilhas pouco povoadas, a oeste. Noruegueses realizados os primeiros ataques de Viking na Bretanha e Irlanda, mas mais tarde os daneses se juntaram.
 qstr_You_are_in_the_kingdom|Você está no Reino de LAITHLIND. ^ ^ Laithlind é a parte nórdico-dominada da Escócia e as ilhas do Norte, conquistada pelos Vikings há três décadas. Este Reino tornou-se uma base operacional para a expansão norueguesa nas Ilhas Britânicas. Por outro lado, conflitos internos entre os vários homens fortes é comum.
@@ -2488,17 +2463,11 @@ qstr_{s5}_has_been_defeat|{s5} foi derrotado!
 ; qstr_The_night_falls_whil|The night falls while the ship, the Woden Ric, crosses the ocean. There is a good wind and the Woden Ric enjoys good sailing away from the site of the battle where it stopped in the morning. The Frisian coast is near by the time you fall asleep.^The ship sails during the night while the shift rotates at the rudder. If all goes well, landfall will occur the next day, and you'll be a little closer to your destination.^If all goes well... if only your nights were not filled with nightmares of ships consumed by fire and drowned men floating on bloody water. You are trapped in this way, costing you escape even to the world of dreams, when a hand shakes you, and a voice calls loudly near your ear.^You open your eyes and see the taciturn face of the captain illuminated by the light of dawn.  You see his lips moving frantically and gradually begin to understand his words...^^
 ; qstr_Back_to_the_beginnin|Back to the beginning...
 ; qstr_View_next_segment...|View next segment...
-qstr_{s11}_{s12}|{s11} {s12},
-qstr_These_Christian_troo|Estas tropas cristãs podem causar alguns problemas com a moral de sua Tropa: {s11}
-qstr_These_pagan_troops_c|Estas tropas pagãs podem causar alguns problemas com a moral de sua Tropa: {s11}
-; qstr_Current_party_morale_|Current party morale is {reg5}.^Current party morale modifiers are:^^Base morale:  +{reg6}^Party size penalty: {s2}{reg1}^Lack of rest: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^Recent events: {s7}{reg4}^{s13}^^TOTAL:  {reg5}^^^
 ; qstr_Selected_faction_is:|Selected faction is: {s10}^^{s9}
 ; qstr_You_are_currently_re|You are currently reading {s8}.
 ; qstr_You_are_not_reading_|You are not reading any books.
 ; qstr_{s5}_and_{s6}|{s5} and {s6}
 ; qstr_Your_estates_are:_{s|Your estates are: {s8}.^{s9}
-; qstr_Current_party_size_li|Current party size limit is {reg0}.^Current party size modifiers are:^^Base size: {s5}{reg31}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Renown: {s4}{reg34}^TOTAL:  {reg0}
-; qstr_Your_relations_with_t|Your relations with the kingdoms are:^{s2}
 ; qstr_You_don_t_have_the_m|You don't have the money to pay your men to fortify the camp. They do the job, but angrily.
 ; qstr_After_you_buy_the_ma|After you buy the materials, your men build a permanent shelter for you.
 ; qstr_Player_renown_is_inc|Player renown is increased by 100.
@@ -2620,6 +2589,9 @@ qstr_Villagers|Habitantes
 ; qstr_You_ve_breached_the_|You've breached the town walls, but the stubborn defenders continue to resist you in the streets! You'll have to deal with them before you can attack the keep at the heart of the town.
 ; qstr_The_town_centre_is_y|The town centre is yours, but the remaining defenders have retreated to the castle. It must fall before you can complete your victory.
 ; qstr_The_remaining_defend|The remaining defenders have retreated to the castle as a last defense. You must go in and crush any remaining resistance.
+; qstr_{s10}^^|{s10}^^
+; qstr_{s10}You_may_decide_|{s10}You may decide to forbid your troops from harming the {reg2?town:fort}, if you want to conquer it for your faction, but your troops may lose morale. 
+; qstr_{s10}You_can_allow_s|{s10}You can allow some plundering and keep the {reg2?town:fort}. 
 ; qstr_However_since_you_ar|However, since you are not a sworn {reg59?follower:man} of {s9}, there is no chance he would recognize you as the {reg59?lady:lord} of this {reg8?town:fort}.
 ; qstr_The_enemy_has_been_f|The enemy has been forced to retreat. The assault is over, but the siege continues.
 ; qstr_As_you_approach_you_|As you approach, you are spotted by the fort guards, who welcome you and open the gates for their {reg59?queen:king}.
@@ -2691,7 +2663,6 @@ qstr_{s10}_{s14}^{s11}{s1|{s10} {s14}^{s11}{s12}{s13}
 ; qstr_You_can_t_enter_the_po|You can't enter the port. You already have a fleet in the port and your sea-king skill isn't high enough to merge both fleets.
 ; qstr_You_can_t_enter_the_por|You can't enter the port. You already have a fleet in the port and you can't merge both fleets because this would exceed the fleet limit of seven ships.
 ; qstr_You_already_have_a_f|You already have a fleet in the port. Do you want to merge both fleets?
-; qstr_Number_of_Sailors:_{|Number of Sailors: {reg5}^Speed from Sailors: {reg6}
 ; qstr_Unfortunately_{reg3?|Unfortunately, {reg3?You are:{s1} is} unable to find any trade goods that would bring a profit.
 ; qstr_^Buying_{s4}_here_an|^Buying {s4} here and selling it at {s5} would bring a profit of {reg6} peningas per item.{s3}
 ; qstr_{reg3?You_find:{s1}_|{reg3?You find:{s1} finds} out the following:^{s3}
@@ -2741,6 +2712,7 @@ qstr_Your_enemies_take_yo|Seus inimigos levam você como um prisioneiro.
 ; qstr_Note_2:_You_chose_to_|Note 2: You chose to respect the life of Thiaderd's wife and son.
 ; qstr_Note_2:_You_chose_to_l|Note 2: You chose to leave Thiaderd's wife and son alive.
 ; qstr_You_need_room_for_at|You need room for at least one more member in your army to continue!
+; qstr_^^In_the_middle_of_t|^^In the middle of the fort, you see some prisoners prepared for sale. Could your mother be among them?
 ; qstr_Note_2:_In_Sven_s_hi|Note 2: In Sven's hideout, you found Bodo, one of the travelers from the Woden Ric. Thanks to Bodo, you learn the fate of Woden Ric after the Viking attack. Your mother is still alive, thanks to the item Bodo gave her, but the item made her very valuable to the Vikings.
 ; qstr_Return_when_you_have_|Return when you have thirty or fewer men in your party.
 ; qstr_You_think_of_Thora_w|You think of Thora, who visits you every night, a beautiful woman who could give you many children.
@@ -3006,9 +2978,6 @@ qstr_Your_enemies_take_yo|Seus inimigos levam você como um prisioneiro.
 ; qstr_Your_studies_in_poet|Your studies in poetry and rhetoric have been productive. This newly acquired skill in oratory will increase your leadership in battle as you urge on your men in combat. (Use key T to evoke a war cry)
 ; qstr_The_exhausting_athle|The exhausting athletics regimen you have applied to your troops makes them faster and more maneuverable in battle. They show their new confidence by taunting their enemies. (Use key T to evoke a shield taunt)
 ; qstr_Your_incessant_conce|Your incessant concern about the maintenance of your men's shields and armors makes it harder for the enemy to wound them. They show their new confidence by beating their shields. (Use key T to evoke a shield taunt)
-; qstr_{s10}Current_fleet:^|{s10}Current fleet:^{s0}^^
-; qstr_{s10}Port_of_{s9}:^{|{s10}Port of {s9}:^{s0}^^
-; qstr_{s10}Landed_ships_nex|{s10}Landed ships next to {s9}:^{s0}^^
 ; qstr_On_this_day_the_fore|On this day, the foreman couldn't even pay the wages, so he paid with produced goods instead.
 ; qstr_However_on_this_day_|However, on this day you learned something from your work.
 ; qstr_However_on_this_day_y|However, on this day you achieved a lot and were paid double.
