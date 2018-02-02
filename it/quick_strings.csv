@@ -115,12 +115,14 @@ qstr_The_weather_changed_to:__S|Il tempo è cambiato in 'Tempesta'
 qstr_The_operation_of_the|Le operazioni del mercante di schiavi a {s33} riducono la tua reputazione.
 ; qstr_DEBUG_rebellion:_che|DEBUG rebellion: checking faction {s1} on day {reg1}
 ; qstr_DEBUG_rebellion:_fac|DEBUG rebellion: faction {s1} reborn on day {reg1}
-qstr__Possible_Rebellion_|(Possibile ribellione) Voci dicono che {s14} è ancora vivo.
-qstr__Possible_Rebellion__|(Possibile ribellione) Voci dicono che {s14} stia accumulando scorte di armi e che cerchi supporto dai Franchi.
-qstr__Possible_Rebellion__R|(Possibile ribellione) Voci dicono che {s14} si riunisce in segreto con i suoi fedeli.
-qstr__Possible_Rebellion__Ru|(Possibile ribellione) Voci dicono che la gente favorisca il ripristino di {s14}.
-qstr__Possible_Rebellion__Rum|(Possibile ribellione) Voci dicono che {s14} stia radunando un'armata per reclamare il trono.
-qstr__Possible_Rebellion__Rumo|(Possibile ribellione) Voci dicono che {s14} stia accumulando scorte di armi.
+; qstr__Possible_Rebellion_|(Possible Rebellion) Rumors say that {s14} recruits from your kingdom despite your leadership.
+; qstr__Possible_Rebellion__|(Possible Rebellion) Rumors say that {s14} will surely attempt to restore his kingdom.
+qstr__Possible_Rebellion__R|(Possibile ribellione) Voci dicono che {s14} è ancora vivo.
+qstr__Possible_Rebellion__Ru|(Possibile ribellione) Voci dicono che {s14} stia accumulando scorte di armi e che cerchi supporto dai Franchi.
+qstr__Possible_Rebellion__Rum|(Possibile ribellione) Voci dicono che {s14} si riunisce in segreto con i suoi fedeli.
+qstr__Possible_Rebellion__Rumo|(Possibile ribellione) Voci dicono che la gente favorisca il ripristino di {s14}.
+qstr__Possible_Rebellion__Rumor|(Possibile ribellione) Voci dicono che {s14} stia radunando un'armata per reclamare il trono.
+qstr__Possible_Rebellion__Rumors|(Possibile ribellione) Voci dicono che {s14} stia accumulando scorte di armi.
 qstr__| 
 qstr_Congratulations!_You|Congratulazioni! Sei riuscito a imprigionare sette o più signori a {s13}.. Sei veramente un maestro delle prigioni.
 qstr_Dungeon_master_Achie|Achievement maestro delle prigioni
@@ -435,6 +437,7 @@ qstr___She_spits_near_the|--Sputa vicino ai piedi di Orm.--
 ; qstr_Orm_the_Black_has_pr|Orm the Black has promised to kill Ulf to get his farm and his daughter. So you no longer have to worry about Ulf testifying against you at the Assembly.
 ; qstr_Note_5:_You_chose_th|Note 5: You chose that Orm Svarti kill Ulf to get the farm and Thora.
 qstr_Your_men_are_getting|I tuoi uomini sono stanco di ascoltare sempre gli stessi sermoni. Forse è il momento di lasciarli liberi per un pò.
+qstr_The_priest_at_{s3}_a|Il prete a {s3} ti ha chiesto di portargli {reg33} corni di idromele da bere.
 qstr_Your_men_are_getting_|I tuoi uomini sono stanco di ascoltare sempre gli stessi sermoni sugli dei. Forse è il momento di lasciarli liberi per un pò.
 qstr___She_smiles_and_loo|--Sorride e ti guarda provocante.--
 qstr___He_jumps_with_joy.|--Salta di gioia. Infine, si ferma e fa un respiro profondo.--
@@ -1228,6 +1231,25 @@ qstr_F5___Shield_Wall|F5 - Muro di Scudi
 qstr_F6___Wedge|F6 - Cuneo
 qstr_F7___Square|F7 - Quadrato
 qstr_F8___No_Formation|F8 - Nessuno Schieramento
+; qstr_F1___Movement_orders|F1 - Movement orders
+; qstr_F2___Formation_order|F2 - Formation orders
+; qstr_F3___Fire_orders|F3 - Fire orders
+; qstr_Ranks|Ranks
+; qstr_Five_Rows|Five Rows
+; qstr_Shield_Wall|Shield Wall
+; qstr_Four_Rows|Four Rows
+; qstr_Wedge|Wedge
+; qstr_Three_Rows|Three Rows
+; qstr_Square|Square
+; qstr_Two_Rows|Two Rows
+; qstr_No_Formation|No Formation
+; qstr_Single_Line|Single Line
+; qstr_Memorize_div._placem|Memorize div. placement
+; qstr_Default_division_pla|Default division placement
+; qstr_____Y^Cancel|    Y^Cancel
+; qstr_____X^__Trait|    X^  Trait
+; qstr_____B^_Horse|    B^ Horse
+; qstr_____A^_Creep|    A^ Creep
 qstr_Extended_Formations_|Schieramenti Avanzati e Opzioni AI
 qstr_Disable_mod_formatio|Disabilita schieramenti:
 qstr_Put_player_in_divisi|Mettere il giocatore in formazione:
@@ -1724,7 +1746,6 @@ qstr_New_Goal|Nuovo Obbiettivo
 qstr_Current_Goal:_{s1}|Obbiettivo Attuale: {s1}
 qstr_Troops:|Truppe:
 qstr_Marry:|Matrimonio:
-qstr_Wealth|Ricchezza
 qstr_{s3}^_______________|{s3}^-------------------------------^
 qstr_{s1}^{s2}^|{s1}^{s2}^
 qstr_^{s1}|^{s1}
@@ -2123,7 +2144,6 @@ qstr_Occupation:_Cook^Ini|Occupazione: Cuoco^Costo iniziale: 350^Costo settimana
 qstr_The_{s1}_and_the_{s2}|I {s1} e i {s2} hanno stipulato un'alleanza.
 qstr_The_{s15}_complies_wi|I {s15} Rispettando la loro alleanza, attaccano i {s16}.
 qstr_Player_bonus_for_dec|Bonus Giocatore per decap: {reg1}
-qstr_INFO:___Changing_mov|INFO: Modifica la velocità di movimento del {reg1}%
 qstr_Ruthless|Spietato
 qstr_Vile|Vile
 qstr_Notorious|Famigerato
@@ -2365,7 +2385,7 @@ qstr_Priests_in_followers|Sacerdoti nella compagnia:{reg1}^Chirurgia Bonus: {reg
 ; qstr_Women_in_followers__|Women in followers' party: {reg1}^Wound Treatment Bonus: {reg2} (max 3)^^Note: Every 10 women (as refugees, camp women, soldiers' wives and peasants) will give +1 morale each 72 hours. Maximum +10 morale points.
 qstr_^^^^Followers:^^{s2}|^^^Seguaci:^^{s2}^^--------------^^{s3}
 qstr_{s5}_has_been_defeat|{s5} è stato sconfitto!
-qstr_This_lord_is_a_priso|Questo signore è prigioniero di {s10}
+; qstr_This_lord_is_a_priso|This lord is a prisoner of {s10}.^
 qstr_Christian_Lord|Signore Cristiano
 qstr_Pagan_Lord|Signore Pagano
 qstr_{s37}__his_betrothed|{s37} (la sua fidanzata)
@@ -2373,10 +2393,12 @@ qstr_{s40}._His_love_inte|{s40}. Il suo interesse amoroso è verso {s37}.
 qstr_His_love_interests_a|I suoi interessi amorosi sono verso {s37}.
 qstr_{s40}._His_love_inter|{s40}. I suoi interessi amorosi sono verso {s37}.
 qstr_His_love_interest_is|Il suo interesse amoroso è verso {s37}.
-qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^Regno: {s3}^Relazioni: {reg4}^Propietà: {reg5}^{s5}^{s47}
+; qstr_{s1}^{s4}^Kingdom:_{|{s1}^{s4}^Kingdom: {s3}^Relation: {reg4}^Centers: {reg5}^{s5}{s47}
+qstr_This_lord_is_a_prison|Questo signore è prigioniero di {s10}
 qstr_Army_size:_{reg26}|Esercito: {reg26}
 qstr_{s40}._His_love_intere|{s40}. Il suo interesse amoroso è verso {s39}.
 qstr_{s40}._He_is_betroth|{s40}. è fidanzata con {s39}.
+qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^Regno: {s3}^Relazioni: {reg4}^Propietà: {reg5}^{s5}^{s47}
 qstr_{s1}^^{s2}_of_the_{s|{s1}^{s2} del  {s3}^Relazione {reg3}^Ultima visita {reg4} giorni fa
 qstr_{reg2}_warriors_acco|{reg2} guerrieri accompagnano il re.
 qstr_{s2}^^{reg2}_warrior|{s2}^^{reg2} guerrieri servono i vari signori del regno.
@@ -3013,10 +3035,8 @@ qstr_You_suffer_a_serious_i|Hai subito un grave infortunio al corpo. (-1 forza)
 qstr_Your_weapon_was_dama|La tua arma è danneggiata!
 qstr_Your_weapon_broke!|La tua arma è rotta!
 qstr_Your_{s1}_was_damage|La tua {s1} è danneggiata!
-qstr_Speed_100%|Velocità 100%
-qstr_Speed_400%|Velocità 400%
-qstr_Speed_0_for_AI_agent|Velocità 0 per gli agenti dell'AI
 qstr_{s33}_changes_weapon|{s33} cambia armi
+qstr_You_call_your_horse.|Chiami il tuo cavallo...
 qstr_We_lost_a_quarter_of|Abbiamo perso un quarto delle truppe in poco tempo.Ora hanno paura.
 qstr_Half_of_our_army_has|Metà delle nostre truppe sono morte in poco tempo. Le restanti sono prese dal panico!
 qstr_The_enemy_lost_a_qua|Hanno perso un quarto delle truppe in poco tempo.Ora hanno paura.
@@ -3024,7 +3044,6 @@ qstr_Half_of_the_enemy_ar|Metà delle loro truppe sono morte in poco tempo. Le r
 qstr_You_fall_and_your_tr|Sei caduto e le tue truppe si fanno prendere dal panico!
 qstr_Our_side_lost_a_lead|La nostra squadra ha perso il proprio capo. Ora sono nel panico!
 qstr_The_enemy_lost_a_lea|Il nemico ha perso il proprio capo. Ora sono nel panico!
-qstr_You_call_your_horse.|Chiami il tuo cavallo...
 qstr__{reg3}| {reg3}
 qstr_You_have_fallen.__Pr|Sei caduto. (Premi tab per uscire)
 ; qstr_Scout_report:_We_ve_|Scout report: We've reached an ancient monument -- rows of stones -- but the real obstacle is the enemy lined up beyond the brook.^^You reply: Rows of stones, you say? Let us make them tombstones for the enemy, then!
@@ -3095,7 +3114,6 @@ qstr_You_feel_the_tension|Avverti la tensione crescente ad ogni passo che fai.
 ; qstr_Your_mission_is_to_a|Your mission is to ambush the enemy when they come for water supplies. If you feel lost at some point, press the K key to remember these goals.
 qstr_Someone_wants_to_tal|Qualcuno vuole parlare con te. Trova {s4}  nel campo.
 qstr_Camp_Conversation|Conversazione nel Campo
-qstr_You_can_click___T___|Premi il tasto "T" per muoverti furtivamente.
 qstr_Everybody_back_on_th|Tornate tutti sulla nave! In fretta!
 qstr_Sea_Info_Tutorial|Tutorial per il Mare
 ; qstr_A_huskarl_shouts__Me|A huskarl shouts, 'Men! Listen! Hold the line, and we will win! Those who come are only Vikings. We are Danish warriors!'

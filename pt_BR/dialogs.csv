@@ -2954,7 +2954,7 @@ dlga_lord_internal_politics_plyr_request_support:lord_pretalk.4|Hmm... Isso é p
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.5|Eu o supotaria com prazer.
 dlga_lord_recruit_1_relation:lord_pretalk|Estou cansado de tratar de políticas. Talvez mais tarde.
 dlga_lord_recruit_1_relation:lord_recruit_pretender|Você ergueu o estandarte da rebelião para {s16}. Você veio pleitear a causa {reg3dela:dele}. 
-dlga_lord_recruit_pretender:lord_recruit_3_dilemma_1|Sim
+; dlga_lord_recruit_pretender:lord_recruit_3_dilemma_1|I have.
 dlga_lord_recruit_pretender:lord_recruit_1_relation|Não, não é isso. Tenho algo mais a dicutir.
 dlga_lord_recruit_2:lord_recruit_2_philosophy|O que você acha, em termos gerais, sobre reis, lordes, e política?
 ; dlga_lord_recruit_2:lord_spouse_leave_faction|My husband, I believe that you should rethink your allegiance to {s11}
@@ -5719,7 +5719,8 @@ dlga_village_elder_buy_cattle_2:village_elder_pretalk|Esqueça.
 ; dlga_village_elder_buy_cattle_complete:village_elder_pretalk|I will tell the herders to round up the animals and bring them to you, {reg59?madam:sir}. I am sure you will be satisfied with your purchase.
 ; dlga_village_elder_recruit2_b:village_elder_talk|Forget it! Why would I help an enemy of the kingdom?
 ; dlga_village_elder_recruit2_b:village_elder_talk.1|Forget it! In this community, you are not welcome.
-; dlga_village_elder_recruit2_b:village_elder_recruit6|Sure. You are welcome!
+; dlga_village_elder_recruit2_b:village_elder_recruit6|Unfortunately, I know of no one that may be interested.
+; dlga_village_elder_recruit2_b:village_elder_recruit6.1|Sure. You are welcome!
 ; dlga_village_elder_recruit2_b:village_elder_recruit2_1|You do not look like anyone special. A wanderer like many others, with promises and words, but nothing more. Why should I help you find recruits?
 ; dlga_village_elder_recruit2_b:village_elder_recruit2_1.1|I know you're someone feared. I'm not sure many men would want to join you.
 ; dlga_village_elder_recruit2_b:village_elder_recruit2|What I can say...

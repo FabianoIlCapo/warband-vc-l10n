@@ -115,12 +115,14 @@ qstr_{s1}|{s1}
 ; qstr_The_operation_of_the|The operation of the slave market in {s33} reduces your reputation.
 ; qstr_DEBUG_rebellion:_che|DEBUG rebellion: checking faction {s1} on day {reg1}
 ; qstr_DEBUG_rebellion:_fac|DEBUG rebellion: faction {s1} reborn on day {reg1}
-; qstr__Possible_Rebellion_|(Possible Rebellion) Rumors say that {s14} is still alive.
-; qstr__Possible_Rebellion__|(Possible Rebellion) Rumors say that {s14} is stockpiling weapons and is seeking support among the Franks.
-; qstr__Possible_Rebellion__R|(Possible Rebellion) Rumors say that {s14} meets in secret with his faithful.
-; qstr__Possible_Rebellion__Ru|(Possible Rebellion) Rumors say that people favor the restoration of {s14}.
-; qstr__Possible_Rebellion__Rum|(Possible Rebellion) Rumors say that {s14} is gathering an army to regain his throne.
-; qstr__Possible_Rebellion__Rumo|(Possible Rebellion) Rumors say that {s14} is stockpiling weapons.
+; qstr__Possible_Rebellion_|(Possible Rebellion) Rumors say that {s14} recruits from your kingdom despite your leadership.
+; qstr__Possible_Rebellion__|(Possible Rebellion) Rumors say that {s14} will surely attempt to restore his kingdom.
+; qstr__Possible_Rebellion__R|(Possible Rebellion) Rumors say that {s14} is still alive.
+; qstr__Possible_Rebellion__Ru|(Possible Rebellion) Rumors say that {s14} is stockpiling weapons and is seeking support among the Franks.
+; qstr__Possible_Rebellion__Rum|(Possible Rebellion) Rumors say that {s14} meets in secret with his faithful.
+; qstr__Possible_Rebellion__Rumo|(Possible Rebellion) Rumors say that people favor the restoration of {s14}.
+; qstr__Possible_Rebellion__Rumor|(Possible Rebellion) Rumors say that {s14} is gathering an army to regain his throne.
+; qstr__Possible_Rebellion__Rumors|(Possible Rebellion) Rumors say that {s14} is stockpiling weapons.
 qstr__| 
 ; qstr_Congratulations!_You|Congratulations! You've managed to imprison seven or more lords at {s13}. You really are a true dungeon master.
 ; qstr_Dungeon_master_Achie|Dungeon master Achievement
@@ -435,6 +437,7 @@ qstr_{s14}|{s14}
 ; qstr_Orm_the_Black_has_pr|Orm the Black has promised to kill Ulf to get his farm and his daughter. So you no longer have to worry about Ulf testifying against you at the Assembly.
 ; qstr_Note_5:_You_chose_th|Note 5: You chose that Orm Svarti kill Ulf to get the farm and Thora.
 ; qstr_Your_men_are_getting|Your men are getting tired of listening to the same old sermons. Perhaps it's time to let it go for a while.
+; qstr_The_priest_at_{s3}_a|The priest at {s3} asked you to bring him {reg33} drinking horns of mead.
 ; qstr_Your_men_are_getting_|Your men are getting tired of listening to the same old stories about the gods. Perhaps it's time to let it go for a while.
 ; qstr___She_smiles_and_loo|--She smiles and looks at you provocatively.--
 ; qstr___He_jumps_with_joy.|--He jumps with joy. Finally, he stops and takes a deep breath.--
@@ -1228,6 +1231,25 @@ qstr_TOTAL_SCORE:_{reg0}|SCORE TOTAL : {reg0}
 ; qstr_F6___Wedge|F6 - Wedge
 ; qstr_F7___Square|F7 - Square
 ; qstr_F8___No_Formation|F8 - No Formation
+; qstr_F1___Movement_orders|F1 - Movement orders
+; qstr_F2___Formation_order|F2 - Formation orders
+; qstr_F3___Fire_orders|F3 - Fire orders
+; qstr_Ranks|Ranks
+; qstr_Five_Rows|Five Rows
+; qstr_Shield_Wall|Shield Wall
+; qstr_Four_Rows|Four Rows
+; qstr_Wedge|Wedge
+; qstr_Three_Rows|Three Rows
+; qstr_Square|Square
+; qstr_Two_Rows|Two Rows
+; qstr_No_Formation|No Formation
+; qstr_Single_Line|Single Line
+; qstr_Memorize_div._placem|Memorize div. placement
+; qstr_Default_division_pla|Default division placement
+; qstr_____Y^Cancel|    Y^Cancel
+; qstr_____X^__Trait|    X^  Trait
+; qstr_____B^_Horse|    B^ Horse
+; qstr_____A^_Creep|    A^ Creep
 ; qstr_Extended_Formations_|Extended Formations and AI Options
 ; qstr_Disable_mod_formatio|Disable mod formations: 
 ; qstr_Put_player_in_divisi|Put player in division: 
@@ -1724,7 +1746,6 @@ qstr_No|Non
 ; qstr_Current_Goal:_{s1}|Current Goal: {s1}
 qstr_Troops:|Troupes :
 ; qstr_Marry:|Marry:
-; qstr_Wealth|Wealth
 ; qstr_{s3}^_______________|{s3}^-------------------------------^
 ; qstr_{s1}^{s2}^|{s1}^{s2}^
 ; qstr_^{s1}|^{s1}
@@ -2123,7 +2144,6 @@ qstr_Move_your_court_here|Déplacer votre cour ici
 ; qstr_The_{s1}_and_the_{s2}|The {s1} and the {s2} have entered into an alliance with each other.
 ; qstr_The_{s15}_complies_wi|The {s15} complies with the new alliance by attacking the {s16}.
 ; qstr_Player_bonus_for_dec|Player bonus for decap: {reg1}
-; qstr_INFO:___Changing_mov|INFO:   Changing movement speed to {reg1}%
 ; qstr_Ruthless|Ruthless
 ; qstr_Vile|Vile
 ; qstr_Notorious|Notorious
@@ -2365,7 +2385,7 @@ qstr_Vengeful|Atroces
 ; qstr_Women_in_followers__|Women in followers' party: {reg1}^Wound Treatment Bonus: {reg2} (max 3)^^Note: Every 10 women (as refugees, camp women, soldiers' wives and peasants) will give +1 morale each 72 hours. Maximum +10 morale points.
 ; qstr_^^^^Followers:^^{s2}|^^^^Followers:^^{s2}^^--------------^^{s3}
 qstr_{s5}_has_been_defeat|Le {s5} a été vaincu !
-; qstr_This_lord_is_a_priso|This lord is a prisoner of {s10}
+; qstr_This_lord_is_a_priso|This lord is a prisoner of {s10}.^
 ; qstr_Christian_Lord|Christian Lord
 ; qstr_Pagan_Lord|Pagan Lord
 ; qstr_{s37}__his_betrothed|{s37} (his betrothed)
@@ -2373,10 +2393,12 @@ qstr_{s5}_has_been_defeat|Le {s5} a été vaincu !
 ; qstr_His_love_interests_a|His love interests are reported to be {s37}.
 ; qstr_{s40}._His_love_inter|{s40}. His love interest is reported to be {s37}.
 ; qstr_His_love_interest_is|His love interest is reported to be {s37}.
-; qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^Kingdom: {s3}^Relation: {reg4}^Centers: {reg5}^{s5}^{s47}
+; qstr_{s1}^{s4}^Kingdom:_{|{s1}^{s4}^Kingdom: {s3}^Relation: {reg4}^Centers: {reg5}^{s5}{s47}
+; qstr_This_lord_is_a_prison|This lord is a prisoner of {s10}
 ; qstr_Army_size:_{reg26}|Army size: {reg26}
 ; qstr_{s40}._His_love_intere|{s40}. His love interest is {s39}.
 ; qstr_{s40}._He_is_betroth|{s40}. He is betrothed to {s39}.
+; qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^Kingdom: {s3}^Relation: {reg4}^Centers: {reg5}^{s5}^{s47}
 ; qstr_{s1}^^{s2}_of_the_{s|{s1}^^{s2} of the {s3}^Relation {reg3}^Last visit {reg4} days ago
 ; qstr_{reg2}_warriors_acco|{reg2} warriors accompany the king.
 ; qstr_{s2}^^{reg2}_warrior|{s2}^^{reg2} warriors serve various lords of the kingdom.
@@ -3013,10 +3035,8 @@ qstr_There_has_been_an_al|Il y a eu un incident frontalier : {s9}
 ; qstr_Your_weapon_was_dama|Your weapon was damaged!
 ; qstr_Your_weapon_broke!|Your weapon broke!
 ; qstr_Your_{s1}_was_damage|Your {s1} was damaged!
-; qstr_Speed_100%|Speed 100%
-; qstr_Speed_400%|Speed 400%
-; qstr_Speed_0_for_AI_agent|Speed 0 for AI agents
 ; qstr_{s33}_changes_weapon|{s33} changes weapons
+; qstr_You_call_your_horse.|You call your horse...
 ; qstr_We_lost_a_quarter_of|We lost a quarter of our troops in a very short time. The hearts of our troops are filled with fear.
 ; qstr_Half_of_our_army_has|Half of our army has fallen within a very short time. The troops panic!
 ; qstr_The_enemy_lost_a_qua|The enemy lost a quarter of his troops in a very short time. The hearts of his troops are filled with fear.
@@ -3024,7 +3044,6 @@ qstr_There_has_been_an_al|Il y a eu un incident frontalier : {s9}
 ; qstr_You_fall_and_your_tr|You fall and your troops panic!
 ; qstr_Our_side_lost_a_lead|Our side lost a leader. Our troops panic!
 ; qstr_The_enemy_lost_a_lea|The enemy lost a leader. Their troops panic!
-; qstr_You_call_your_horse.|You call your horse...
 ; qstr__{reg3}| {reg3}
 ; qstr_You_have_fallen.__Pr|You have fallen. (Press tab key to leave)
 ; qstr_Scout_report:_We_ve_|Scout report: We've reached an ancient monument -- rows of stones -- but the real obstacle is the enemy lined up beyond the brook.^^You reply: Rows of stones, you say? Let us make them tombstones for the enemy, then!
@@ -3095,7 +3114,6 @@ qstr_There_has_been_an_al|Il y a eu un incident frontalier : {s9}
 ; qstr_Your_mission_is_to_a|Your mission is to ambush the enemy when they come for water supplies. If you feel lost at some point, press the K key to remember these goals.
 ; qstr_Someone_wants_to_tal|Someone wants to talk to you. Find {s4} in the camp.
 ; qstr_Camp_Conversation|Camp Conversation
-; qstr_You_can_click___T___|You can click ' T ' to toggle creeping.
 ; qstr_Everybody_back_on_th|Everybody back on the ship! Hurry!
 ; qstr_Sea_Info_Tutorial|Sea Info Tutorial
 ; qstr_A_huskarl_shouts__Me|A huskarl shouts, 'Men! Listen! Hold the line, and we will win! Those who come are only Vikings. We are Danish warriors!'

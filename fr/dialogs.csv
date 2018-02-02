@@ -2954,7 +2954,7 @@ dlga_lord_internal_politics_plyr_request_support:lord_pretalk.4|Hum, étant donn
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.5|Je vous soutiendrai avec plaisir. 
 dlga_lord_recruit_1_relation:lord_pretalk|J'en ai assez de parler de politique, peut-être plus tard.
 dlga_lord_recruit_1_relation:lord_recruit_pretender|Vous avez relevé l'étandard de la rébellion au nom de {s16}. Vous êtes là pour plaider sa cause ?
-dlga_lord_recruit_pretender:lord_recruit_3_dilemma_1|En effet.
+; dlga_lord_recruit_pretender:lord_recruit_3_dilemma_1|I have.
 dlga_lord_recruit_pretender:lord_recruit_1_relation|Non pas du tout, je suis ici pour discuter d'autre chose.
 dlga_lord_recruit_2:lord_recruit_2_philosophy|Que pensez-vous, en termes généraux, des rois, des seigneurs et de la politique ?
 ; dlga_lord_recruit_2:lord_spouse_leave_faction|My husband, I believe that you should rethink your allegiance to {s11}
@@ -5719,7 +5719,8 @@ dlga_village_elder_buy_cattle_2:village_elder_pretalk|Non, je retire ma mise
 ; dlga_village_elder_buy_cattle_complete:village_elder_pretalk|I will tell the herders to round up the animals and bring them to you, {reg59?madam:sir}. I am sure you will be satisfied with your purchase.
 ; dlga_village_elder_recruit2_b:village_elder_talk|Forget it! Why would I help an enemy of the kingdom?
 ; dlga_village_elder_recruit2_b:village_elder_talk.1|Forget it! In this community, you are not welcome.
-; dlga_village_elder_recruit2_b:village_elder_recruit6|Sure. You are welcome!
+; dlga_village_elder_recruit2_b:village_elder_recruit6|Unfortunately, I know of no one that may be interested.
+; dlga_village_elder_recruit2_b:village_elder_recruit6.1|Sure. You are welcome!
 ; dlga_village_elder_recruit2_b:village_elder_recruit2_1|You do not look like anyone special. A wanderer like many others, with promises and words, but nothing more. Why should I help you find recruits?
 ; dlga_village_elder_recruit2_b:village_elder_recruit2_1.1|I know you're someone feared. I'm not sure many men would want to join you.
 ; dlga_village_elder_recruit2_b:village_elder_recruit2|What I can say...

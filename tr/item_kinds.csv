@@ -1,91 +1,91 @@
-itm_no_item|OBJET INVALIDE
-itm_no_item_pl|OBJET INVALIDE
-itm_tutorial_spear|Épieu
-itm_tutorial_spear_pl|Épieu
-itm_tutorial_club|Gourdins
-itm_tutorial_club_pl|Gourdins
+; itm_no_item|INVALID ITEM
+; itm_no_item_pl|INVALID ITEM
+itm_tutorial_spear|Mızrak
+itm_tutorial_spear_pl|Mızrak
+itm_tutorial_club|Sopa
+itm_tutorial_club_pl|Sopa
 ; itm_tutorial_battle_axe|Long Battle Axe
 ; itm_tutorial_battle_axe_pl|Long Battle Axe
-itm_tutorial_arrows|Flèches
-itm_tutorial_arrows_pl|Flèches
-itm_tutorial_bolts|Carreaux
-itm_tutorial_bolts_pl|Carreaux
-itm_tutorial_short_bow|Arc long
-itm_tutorial_short_bow_pl|Arc long
-itm_tutorial_crossbow|Arbalète
-itm_tutorial_crossbow_pl|Arbalète
-itm_tutorial_throwing_daggers|Javelots
-itm_tutorial_throwing_daggers_pl|Javelots
+itm_tutorial_arrows|Ok
+itm_tutorial_arrows_pl|Ok
+; itm_tutorial_bolts|Bolts
+; itm_tutorial_bolts_pl|Bolts
+; itm_tutorial_short_bow|Long Bow
+; itm_tutorial_short_bow_pl|Long Bow
+itm_tutorial_crossbow|Arbalet
+itm_tutorial_crossbow_pl|Arbalet
+; itm_tutorial_throwing_daggers|Javelins
+; itm_tutorial_throwing_daggers_pl|Javelins
 ; itm_tutorial_saddle_horse|Saddle Pony
 ; itm_tutorial_saddle_horse_pl|Saddle Pony
-itm_tutorial_shield|Bouclier cerclé
-itm_tutorial_shield_pl|Bouclier cerclé
-itm_tutorial_staff_no_attack|Bâton
-itm_tutorial_staff_no_attack_pl|Bâton
-itm_tutorial_staff|Bâton
-itm_tutorial_staff_pl|Bâton
+; itm_tutorial_shield|Round Shield
+; itm_tutorial_shield_pl|Round Shield
+; itm_tutorial_staff_no_attack|Staff
+; itm_tutorial_staff_no_attack_pl|Staff
+; itm_tutorial_staff|Staff
+; itm_tutorial_staff_pl|Staff
 ; itm_tutorial_sword|Common Sword
 ; itm_tutorial_sword_pl|Common Sword
-itm_tutorial_axe|Haches à deux mains
-itm_tutorial_axe_pl|Haches à deux mains
+; itm_tutorial_axe|Axe
+; itm_tutorial_axe_pl|Axe
 ; itm_tutorial_dagger|Seax
 ; itm_tutorial_dagger_pl|Seax
-itm_horse_meat|Viandes de cheval
-itm_horse_meat_pl|Viandes de cheval
+; itm_horse_meat|Horse Meat
+; itm_horse_meat_pl|Horse Meat
 ; itm_practice_sword|Common Sword
 ; itm_practice_sword_pl|Common Sword
 ; itm_heavy_practice_sword|Goidelic Champion Sword
 ; itm_heavy_practice_sword_pl|Goidelic Champion Sword
 ; itm_practice_dagger|Seax
 ; itm_practice_dagger_pl|Seax
-itm_practice_axe|Haches à deux mains
-itm_practice_axe_pl|Haches à deux mains
+; itm_practice_axe|Axe
+; itm_practice_axe_pl|Axe
 ; itm_arena_axe|Short Axe
 ; itm_arena_axe_pl|Short Axe
 ; itm_arena_sword|Common Sword
 ; itm_arena_sword_pl|Common Sword
 ; itm_arena_sword_two_handed|Goidelic Champion Sword
 ; itm_arena_sword_two_handed_pl|Goidelic Champion Sword
-itm_arena_lance|Épieu
-itm_arena_lance_pl|Épieu
-itm_practice_staff|Bâton
-itm_practice_staff_pl|Bâton
-itm_practice_lance|Épieu
-itm_practice_lance_pl|Épieu
-itm_practice_shield|Boucliers d'entraînement
-itm_practice_shield_pl|Boucliers d'entraînement
-itm_practice_bow|Arc long
-itm_practice_bow_pl|Arc long
+itm_arena_lance|Mızrak
+itm_arena_lance_pl|Mızrak
+; itm_practice_staff|Staff
+; itm_practice_staff_pl|Staff
+itm_practice_lance|Mızrak
+itm_practice_lance_pl|Mızrak
+; itm_practice_shield|Practice Shield
+; itm_practice_shield_pl|Practice Shield
+; itm_practice_bow|Long Bow
+; itm_practice_bow_pl|Long Bow
 ; itm_practice_crossbow|Sling
 ; itm_practice_crossbow_pl|Sling
-itm_practice_javelin|Javelots
-itm_practice_javelin_pl|Javelots
-itm_practice_javelin_melee|Javelines
-itm_practice_javelin_melee_pl|Javelines
-itm_practice_throwing_daggers|Javelots
-itm_practice_throwing_daggers_pl|Javelots
-itm_practice_throwing_daggers_100_amount|Javelots
-itm_practice_throwing_daggers_100_amount_pl|Javelots
+; itm_practice_javelin|Javelins
+; itm_practice_javelin_pl|Javelins
+; itm_practice_javelin_melee|Javelin
+; itm_practice_javelin_melee_pl|Javelin
+; itm_practice_throwing_daggers|Javelins
+; itm_practice_throwing_daggers_pl|Javelins
+; itm_practice_throwing_daggers_100_amount|Javelins
+; itm_practice_throwing_daggers_100_amount_pl|Javelins
 ; itm_practice_horse|Saddle Pony
 ; itm_practice_horse_pl|Saddle Pony
-itm_practice_arrows|Flèches
-itm_practice_arrows_pl|Flèches
+itm_practice_arrows|Ok
+itm_practice_arrows_pl|Ok
 ; itm_practice_bolts|Sling Rocks
 ; itm_practice_bolts_pl|Sling Rocks
-itm_practice_arrows_10_amount|Flèches
-itm_practice_arrows_10_amount_pl|Flèches
-itm_practice_arrows_100_amount|Flèches
-itm_practice_arrows_100_amount_pl|Flèches
-itm_practice_bolts_9_amount|Carreaux d'entraînement
-itm_practice_bolts_9_amount_pl|Carreaux d'entraînement
+itm_practice_arrows_10_amount|Ok
+itm_practice_arrows_10_amount_pl|Ok
+itm_practice_arrows_100_amount|Ok
+itm_practice_arrows_100_amount_pl|Ok
+; itm_practice_bolts_9_amount|Practice Bolts
+; itm_practice_bolts_9_amount_pl|Practice Bolts
 ; itm_practice_boots|Boots
 ; itm_practice_boots_pl|Boots
-itm_red_tourney_armor|Tunique
-itm_red_tourney_armor_pl|Tunique
-itm_blue_tourney_armor|Tunique
-itm_blue_tourney_armor_pl|Tunique
-itm_green_tourney_armor|Tunique
-itm_green_tourney_armor_pl|Tunique
+; itm_red_tourney_armor|Red Tunic
+; itm_red_tourney_armor_pl|Red Tunic
+; itm_blue_tourney_armor|Blue Tunic
+; itm_blue_tourney_armor_pl|Blue Tunic
+; itm_green_tourney_armor|Green Tunic
+; itm_green_tourney_armor_pl|Green Tunic
 ; itm_gold_tourney_armor|White Tunic
 ; itm_gold_tourney_armor_pl|White Tunic
 ; itm_red_tourney_helmet|Cap
@@ -106,22 +106,22 @@ itm_green_tourney_armor_pl|Tunique
 ; itm_arena_shield_yellow_pl|Light Round Shield
 ; itm_arena_armor_white|White Tunic
 ; itm_arena_armor_white_pl|White Tunic
-itm_arena_armor_red|Tunique
-itm_arena_armor_red_pl|Tunique
-itm_arena_armor_blue|Tunique
-itm_arena_armor_blue_pl|Tunique
-itm_arena_armor_green|Tunique
-itm_arena_armor_green_pl|Tunique
+; itm_arena_armor_red|Red Tunic
+; itm_arena_armor_red_pl|Red Tunic
+; itm_arena_armor_blue|Blue Tunic
+; itm_arena_armor_blue_pl|Blue Tunic
+; itm_arena_armor_green|Green Tunic
+; itm_arena_armor_green_pl|Green Tunic
 ; itm_arena_armor_yellow|Yellow Tunic
 ; itm_arena_armor_yellow_pl|Yellow Tunic
 ; itm_arena_tunic_white|White Tunic
 ; itm_arena_tunic_white_pl|White Tunic
-itm_arena_tunic_red|Tunique
-itm_arena_tunic_red_pl|Tunique
-itm_arena_tunic_blue|Tunique
-itm_arena_tunic_blue_pl|Tunique
-itm_arena_tunic_green|Tunique
-itm_arena_tunic_green_pl|Tunique
+; itm_arena_tunic_red|Red Tunic
+; itm_arena_tunic_red_pl|Red Tunic
+; itm_arena_tunic_blue|Blue Tunic
+; itm_arena_tunic_blue_pl|Blue Tunic
+; itm_arena_tunic_green|Green Tunic
+; itm_arena_tunic_green_pl|Green Tunic
 ; itm_arena_tunic_yellow|Yellow Tunic
 ; itm_arena_tunic_yellow_pl|Yellow Tunic
 ; itm_arena_helmet_red|Helm with Nasal
@@ -162,8 +162,8 @@ itm_arena_tunic_green_pl|Tunique
 ; itm_arena_turban_yellow_pl|Cap
 ; itm_book_tactics|History of the Peloponnesian War, of Thucydides
 ; itm_book_tactics_pl|History of the Peloponnesian War, of Thucydides
-itm_book_persuasion|Rhetorica ad herennium
-itm_book_persuasion_pl|Rhetorica ad herennium
+; itm_book_persuasion|Rhetorica ad Herennium
+; itm_book_persuasion_pl|Rhetorica ad Herennium
 ; itm_book_leadership|The Life of Alexander the Great
 ; itm_book_leadership_pl|The Life of Alexander the Great
 ; itm_book_intelligence|Paedeia
@@ -184,92 +184,92 @@ itm_book_persuasion_pl|Rhetorica ad herennium
 ; itm_relic_pl|The Cathach of Colum Cille
 ; itm_mead|Mead
 ; itm_mead_pl|Mead
-itm_salt|Sel
-itm_salt_pl|Sel
+; itm_salt|Salt
+; itm_salt_pl|Salt
 ; itm_tar|Tar
 ; itm_tar_pl|Tar
 ; itm_jewelry|Jewellery
 ; itm_jewelry_pl|Jewellery
-itm_raw_flax|Bottes de lin
-itm_raw_flax_pl|Bottes de lin
-itm_linen|Étoffes de lin
-itm_linen_pl|Étoffes de lin
-itm_wool|Laine
-itm_wool_pl|Laine
-itm_vc_wool_cloth|Lainage
-itm_vc_wool_cloth_pl|Lainage
+; itm_raw_flax|Flax Bundle
+; itm_raw_flax_pl|Flax Bundle
+; itm_linen|Linen
+; itm_linen_pl|Linen
+; itm_wool|Wool
+; itm_wool_pl|Wool
+; itm_vc_wool_cloth|Wool Cloth
+; itm_vc_wool_cloth_pl|Wool Cloth
 ; itm_amber|Amber
 ; itm_amber_pl|Amber
 ; itm_ivory|Walrus Ivory
 ; itm_ivory_pl|Walrus Ivory
 ; itm_silver|Silver
 ; itm_silver_pl|Silver
-itm_iron|Fer
-itm_iron_pl|Fer
+; itm_iron|Iron
+; itm_iron_pl|Iron
 ; itm_stone|Stone
 ; itm_stone_pl|Stone
-itm_tools|Outils
-itm_tools_pl|Outils
-itm_vc_raw_leather|Peaux
-itm_vc_raw_leather_pl|Peaux
+; itm_tools|Tools
+; itm_tools_pl|Tools
+; itm_vc_raw_leather|Hides
+; itm_vc_raw_leather_pl|Hides
 ; itm_timber|Timber
 ; itm_timber_pl|Timber
 ; itm_soapstone|Soapstone
 ; itm_soapstone_pl|Soapstone
-itm_vc_furs|Fourrures
-itm_vc_furs_pl|Fourrures
-itm_wine|Vins
-itm_wine_pl|Vins
-itm_ale|Bières
-itm_ale_pl|Bières
-itm_smoked_fish|Poissons fumés
-itm_smoked_fish_pl|Poissons fumés
-itm_cheese|Fromages
-itm_cheese_pl|Fromages
-itm_vc_honey|Miel
-itm_vc_honey_pl|Miel
-itm_sausages|Saucisses
-itm_sausages_pl|Saucisses
+; itm_vc_furs|Furs
+; itm_vc_furs_pl|Furs
+; itm_wine|Wine
+; itm_wine_pl|Wine
+; itm_ale|Ale
+; itm_ale_pl|Ale
+; itm_smoked_fish|Smoked Fish
+; itm_smoked_fish_pl|Smoked Fish
+; itm_cheese|Cheese
+; itm_cheese_pl|Cheese
+; itm_vc_honey|Honey
+; itm_vc_honey_pl|Honey
+; itm_sausages|Sausages
+; itm_sausages_pl|Sausages
 ; itm_cabbages|Vegetables
 ; itm_cabbages_pl|Vegetables
-itm_dried_meat|Viandes séchées
-itm_dried_meat_pl|Viandes séchées
-itm_apples|Fruits
-itm_apples_pl|Fruits
+; itm_dried_meat|Dried Meat
+; itm_dried_meat_pl|Dried Meat
+; itm_apples|Fruit
+; itm_apples_pl|Fruit
 ; itm_barley|Barley
 ; itm_barley_pl|Barley
 ; itm_venison|Boar Meat
 ; itm_venison_pl|Boar Meat
 ; itm_grain|Wheat
 ; itm_grain_pl|Wheat
-itm_cattle_meat|Bœufs
-itm_cattle_meat_pl|Bœufs
-itm_bread|Pains
-itm_bread_pl|Pains
-itm_chicken|Poulets
-itm_chicken_pl|Poulets
-itm_pork|Porcs
-itm_pork_pl|Porcs
-itm_butter|Beurres
-itm_butter_pl|Beurres
-itm_siege_supply|Provisions
-itm_siege_supply_pl|Provisions
-itm_quest_wine|Vins
-itm_quest_wine_pl|Vins
-itm_quest_ale|Bières
-itm_quest_ale_pl|Bières
-itm_common_horse|Cheval
-itm_common_horse_pl|Cheval
-itm_common_horse2|Cheval
-itm_common_horse2_pl|Cheval
+; itm_cattle_meat|Beef
+; itm_cattle_meat_pl|Beef
+; itm_bread|Bread
+; itm_bread_pl|Bread
+; itm_chicken|Chicken
+; itm_chicken_pl|Chicken
+; itm_pork|Pork
+; itm_pork_pl|Pork
+; itm_butter|Butter
+; itm_butter_pl|Butter
+; itm_siege_supply|Supplies
+; itm_siege_supply_pl|Supplies
+; itm_quest_wine|Wine
+; itm_quest_wine_pl|Wine
+; itm_quest_ale|Ale
+; itm_quest_ale_pl|Ale
+; itm_common_horse|Horse
+; itm_common_horse_pl|Horse
+; itm_common_horse2|Horse
+; itm_common_horse2_pl|Horse
 ; itm_common_pony|Pony
 ; itm_common_pony_pl|Pony
 ; itm_common_pony2|Pony
 ; itm_common_pony2_pl|Pony
-itm_wild_horse|Cheval
-itm_wild_horse_pl|Cheval
-itm_wild_horse2|Cheval
-itm_wild_horse2_pl|Cheval
+; itm_wild_horse|Horse
+; itm_wild_horse_pl|Horse
+; itm_wild_horse2|Horse
+; itm_wild_horse2_pl|Horse
 ; itm_wild_pony|Pony
 ; itm_wild_pony_pl|Pony
 ; itm_wild_pony2|Pony
@@ -278,94 +278,94 @@ itm_wild_horse2_pl|Cheval
 ; itm_cow1_pl|Cow
 ; itm_cow2|Cow
 ; itm_cow2_pl|Cow
-itm_arrows|Flèches
-itm_arrows_pl|Flèches
+itm_arrows|Ok
+itm_arrows_pl|Ok
 ; itm_khergit_arrows|Piercing Arrows
 ; itm_khergit_arrows_pl|Piercing Arrows
-itm_barbed_arrows|Flèches acérées
-itm_barbed_arrows_pl|Flèches acérées
-itm_bodkin_arrows|Flèches pointes aiguilles
-itm_bodkin_arrows_pl|Flèches pointes aiguilles
-itm_bolts|Carreaux
-itm_bolts_pl|Carreaux
+; itm_barbed_arrows|Barbed Arrows
+; itm_barbed_arrows_pl|Barbed Arrows
+; itm_bodkin_arrows|Bodkin Arrows
+; itm_bodkin_arrows_pl|Bodkin Arrows
+; itm_bolts|Bolts
+; itm_bolts_pl|Bolts
 ; itm_bolts2|Piercing Bolts
 ; itm_bolts2_pl|Piercing Bolts
 ; itm_bolts3|Barbed Bolts
 ; itm_bolts3_pl|Barbed Bolts
 ; itm_bolts4|Bodkin Bolts
 ; itm_bolts4_pl|Bodkin Bolts
-itm_pilgrim_disguise|Déguisement de pèlerin
-itm_pilgrim_disguise_pl|Déguisement de pèlerin
-itm_pilgrim_hood|Capuchon de pèlerin
-itm_pilgrim_hood_pl|Capuchon de pèlerin
-itm_leather_gloves|Gants en cuir
-itm_leather_gloves_pl|Gants en cuir
+; itm_pilgrim_disguise|Pilgrim Disguise
+; itm_pilgrim_disguise_pl|Pilgrim Disguise
+; itm_pilgrim_hood|Pilgrim Hood
+; itm_pilgrim_hood_pl|Pilgrim Hood
+; itm_leather_gloves|Leather Gloves
+; itm_leather_gloves_pl|Leather Gloves
 ; itm_carbatinae_1|Leather Shoes
 ; itm_carbatinae_1_pl|Leather Shoes
-itm_carbatinae_2|Chausses
-itm_carbatinae_2_pl|Chausses
+; itm_carbatinae_2|Wrapping Boots
+; itm_carbatinae_2_pl|Wrapping Boots
 ; itm_carbatinae_3|Leather Shoes
 ; itm_carbatinae_3_pl|Leather Shoes
 ; itm_carbatinae_4|Leather Shoes
 ; itm_carbatinae_4_pl|Leather Shoes
-itm_carbatinae_5|Chausses
-itm_carbatinae_5_pl|Chausses
+; itm_carbatinae_5|Wrapping Boots
+; itm_carbatinae_5_pl|Wrapping Boots
 ; itm_carbatinae_6|Leather Shoes
 ; itm_carbatinae_6_pl|Leather Shoes
-itm_carbatinae_7|Chausses
-itm_carbatinae_7_pl|Chausses
+; itm_carbatinae_7|Wrapping Boots
+; itm_carbatinae_7_pl|Wrapping Boots
 ; itm_carbatinae_8|Leather Shoes
 ; itm_carbatinae_8_pl|Leather Shoes
-itm_carbatinae_9|Chausses
-itm_carbatinae_9_pl|Chausses
+; itm_carbatinae_9|Wrapping Boots
+; itm_carbatinae_9_pl|Wrapping Boots
 ; itm_carbatinae_10|Leather Shoes
 ; itm_carbatinae_10_pl|Leather Shoes
-itm_carbatinae_vc1|Suières
-itm_carbatinae_vc1_pl|Suières
-itm_carbatinae_vc2|Suières
-itm_carbatinae_vc2_pl|Suières
-itm_carbatinae_vc3|Suières
-itm_carbatinae_vc3_pl|Suières
+; itm_carbatinae_vc1|Ankle Boots
+; itm_carbatinae_vc1_pl|Ankle Boots
+; itm_carbatinae_vc2|Ankle Boots
+; itm_carbatinae_vc2_pl|Ankle Boots
+; itm_carbatinae_vc3|Ankle Boots
+; itm_carbatinae_vc3_pl|Ankle Boots
 ; itm_carbatinae_vc4|Quality Wrapping Boots
 ; itm_carbatinae_vc4_pl|Quality Wrapping Boots
-itm_carbatinae_vc5|Suières
-itm_carbatinae_vc5_pl|Suières
-itm_carbatinae_vc6|Suières
-itm_carbatinae_vc6_pl|Suières
+; itm_carbatinae_vc5|Ankle Boots
+; itm_carbatinae_vc5_pl|Ankle Boots
+; itm_carbatinae_vc6|Ankle Boots
+; itm_carbatinae_vc6_pl|Ankle Boots
 ; itm_carbatinae_1s|Leather Shoes
 ; itm_carbatinae_1s_pl|Leather Shoes
-itm_carbatinae_2s|Chausses
-itm_carbatinae_2s_pl|Chausses
-itm_carbatinae_3s|Chausses
-itm_carbatinae_3s_pl|Chausses
+; itm_carbatinae_2s|Wrapping Boots
+; itm_carbatinae_2s_pl|Wrapping Boots
+; itm_carbatinae_3s|Wrapping Boots
+; itm_carbatinae_3s_pl|Wrapping Boots
 ; itm_carbatinae_4s|Rawhide Shoes
 ; itm_carbatinae_4s_pl|Rawhide Shoes
 ; itm_carbatinae_5s|Rawhide Shoes
 ; itm_carbatinae_5s_pl|Rawhide Shoes
-itm_carbatinae_6s|Suières
-itm_carbatinae_6s_pl|Suières
+; itm_carbatinae_6s|Ankle Boots
+; itm_carbatinae_6s_pl|Ankle Boots
 ; itm_carbatinae_vc1s|Quality Wrapping Boots
 ; itm_carbatinae_vc1s_pl|Quality Wrapping Boots
-itm_carbatinae_vc2s|Suières
-itm_carbatinae_vc2s_pl|Suières
+; itm_carbatinae_vc2s|Ankle Boots
+; itm_carbatinae_vc2s_pl|Ankle Boots
 ; itm_carbatinae_vc3s|Quality Wrapping Boots
 ; itm_carbatinae_vc3s_pl|Quality Wrapping Boots
-itm_carbatinae_vc4s|Chausses
-itm_carbatinae_vc4s_pl|Chausses
-itm_carbatinae_1v|Suières
-itm_carbatinae_1v_pl|Suières
-itm_carbatinae_2v|Chausses
-itm_carbatinae_2v_pl|Chausses
-itm_carbatinae_3v|Chausses
-itm_carbatinae_3v_pl|Chausses
+; itm_carbatinae_vc4s|Wrapping Boots
+; itm_carbatinae_vc4s_pl|Wrapping Boots
+; itm_carbatinae_1v|Ankle Boots
+; itm_carbatinae_1v_pl|Ankle Boots
+; itm_carbatinae_2v|Wrapping Boots
+; itm_carbatinae_2v_pl|Wrapping Boots
+; itm_carbatinae_3v|Wrapping Boots
+; itm_carbatinae_3v_pl|Wrapping Boots
 ; itm_carbatinae_4v|Quality Wrapping Boots
 ; itm_carbatinae_4v_pl|Quality Wrapping Boots
 ; itm_carbatinae_5v|Rawhide Shoes
 ; itm_carbatinae_5v_pl|Rawhide Shoes
-itm_carbatinae_6v|Chausses
-itm_carbatinae_6v_pl|Chausses
-itm_carbatinae_vc1v|Suières
-itm_carbatinae_vc1v_pl|Suières
+; itm_carbatinae_6v|Wrapping Boots
+; itm_carbatinae_6v_pl|Wrapping Boots
+; itm_carbatinae_vc1v|Ankle Boots
+; itm_carbatinae_vc1v_pl|Ankle Boots
 ; itm_carbatinae_vc2v|Quality Wrapping Boots
 ; itm_carbatinae_vc2v_pl|Quality Wrapping Boots
 ; itm_carbatinae_11q|Leather Shoes
@@ -754,18 +754,18 @@ itm_carbatinae_vc1v_pl|Suières
 ; itm_pict_richlong_tunic2_pl|Rich Dress
 ; itm_pict_richlong_tunic3|Rich Dress
 ; itm_pict_richlong_tunic3_pl|Rich Dress
-itm_pict_long_tunic1|Robe
-itm_pict_long_tunic1_pl|Robe
-itm_pict_long_tunic2|Robe
-itm_pict_long_tunic2_pl|Robe
-itm_pict_long_tunic3|Robe
-itm_pict_long_tunic3_pl|Robe
-itm_pict_long_tunic4|Robe
-itm_pict_long_tunic4_pl|Robe
-itm_pict_long_tunic5|Robe
-itm_pict_long_tunic5_pl|Robe
-itm_pict_long_tunic6|Robe
-itm_pict_long_tunic6_pl|Robe
+; itm_pict_long_tunic1|Dress
+; itm_pict_long_tunic1_pl|Dress
+; itm_pict_long_tunic2|Dress
+; itm_pict_long_tunic2_pl|Dress
+; itm_pict_long_tunic3|Dress
+; itm_pict_long_tunic3_pl|Dress
+; itm_pict_long_tunic4|Dress
+; itm_pict_long_tunic4_pl|Dress
+; itm_pict_long_tunic5|Dress
+; itm_pict_long_tunic5_pl|Dress
+; itm_pict_long_tunic6|Dress
+; itm_pict_long_tunic6_pl|Dress
 ; itm_woman_norse1|Norse Dress
 ; itm_woman_norse1_pl|Norse Dress
 ; itm_woman_norse2|Norse Dress
@@ -1160,12 +1160,12 @@ itm_pict_long_tunic6_pl|Robe
 ; itm_orm_byrnie_pl|Orm's Lorica
 ; itm_lamellar_armor|Scale Lorica
 ; itm_lamellar_armor_pl|Scale Lorica
-itm_burlap_tunic|Tunique toile de jute
-itm_burlap_tunic_pl|Tunique toile de jute
-itm_hood_01|Capuchon
-itm_hood_01_pl|Capuchon
-itm_hood_02|Capuchon
-itm_hood_02_pl|Capuchon
+; itm_burlap_tunic|Burlap Tunic
+; itm_burlap_tunic_pl|Burlap Tunic
+; itm_hood_01|Hood
+; itm_hood_01_pl|Hood
+; itm_hood_02|Hood
+; itm_hood_02_pl|Hood
 ; itm_phrygian1|Phrygian
 ; itm_phrygian1_pl|Phrygian
 ; itm_phrygian2|Phrygian
@@ -1522,10 +1522,10 @@ itm_hood_02_pl|Capuchon
 ; itm_sarranid_horseman_helmet_pl|No head
 ; itm_saco_enlacabeza|Sack
 ; itm_saco_enlacabeza_pl|Sack
-itm_wooden_stick|Bâton en bois
-itm_wooden_stick_pl|Bâton en bois
-itm_club_hard|Gourdins
-itm_club_hard_pl|Gourdins
+; itm_wooden_stick|Wooden Stick
+; itm_wooden_stick_pl|Wooden Stick
+itm_club_hard|Sopa
+itm_club_hard_pl|Sopa
 ; itm_club_troll|Troll's Axe
 ; itm_club_troll_pl|Troll's Axe
 ; itm_knife|Hunting Knife
@@ -1572,50 +1572,50 @@ itm_club_hard_pl|Gourdins
 ; itm_ragnar_seax_pl|Ragnar's Langseax
 ; itm_elf_seax|Elf's Langseax
 ; itm_elf_seax_pl|Elf's Langseax
-itm_spatha|Épée
-itm_spatha_pl|Épée
-itm_spatha_2|Épée
-itm_spatha_2_pl|Épée
-itm_spatha_3|Épée
-itm_spatha_3_pl|Épée
-itm_spatha_4|Épée
-itm_spatha_4_pl|Épée
-itm_spatha_5|Épée
-itm_spatha_5_pl|Épée
-itm_spatha_6|Épée
-itm_spatha_6_pl|Épée
-itm_spatha_7|Épée
-itm_spatha_7_pl|Épée
-itm_spatha_8|Épée
-itm_spatha_8_pl|Épée
-itm_sword|Épée
-itm_sword_pl|Épée
-itm_sword_2|Épée
-itm_sword_2_pl|Épée
-itm_sword_3|Épée
-itm_sword_3_pl|Épée
-itm_sword_4|Épée
-itm_sword_4_pl|Épée
-itm_sword_5|Épée courte
-itm_sword_5_pl|Épée courte
-itm_sword_6|Épée courte
-itm_sword_6_pl|Épée courte
-itm_sword_7|Épée courte
-itm_sword_7_pl|Épée courte
-itm_sword_8|Épée courte
-itm_sword_8_pl|Épée courte
-itm_new_sword1|Épée courte
-itm_new_sword1_pl|Épée courte
-itm_new_sword2|Épée courte
-itm_new_sword2_pl|Épée courte
-itm_new_sword3|Épée courte
-itm_new_sword3_pl|Épée courte
-itm_new_sword4|Épée courte
-itm_new_sword4_pl|Épée courte
-itm_new_sword5|Épée courte
-itm_new_sword5_pl|Épée courte
-itm_new_sword6|Épée
-itm_new_sword6_pl|Épée
+; itm_spatha|Sword
+; itm_spatha_pl|Sword
+; itm_spatha_2|Sword
+; itm_spatha_2_pl|Sword
+; itm_spatha_3|Sword
+; itm_spatha_3_pl|Sword
+; itm_spatha_4|Sword
+; itm_spatha_4_pl|Sword
+; itm_spatha_5|Sword
+; itm_spatha_5_pl|Sword
+; itm_spatha_6|Sword
+; itm_spatha_6_pl|Sword
+; itm_spatha_7|Sword
+; itm_spatha_7_pl|Sword
+; itm_spatha_8|Sword
+; itm_spatha_8_pl|Sword
+; itm_sword|Sword
+; itm_sword_pl|Sword
+; itm_sword_2|Sword
+; itm_sword_2_pl|Sword
+; itm_sword_3|Sword
+; itm_sword_3_pl|Sword
+; itm_sword_4|Sword
+; itm_sword_4_pl|Sword
+; itm_sword_5|Short Sword
+; itm_sword_5_pl|Short Sword
+; itm_sword_6|Short Sword
+; itm_sword_6_pl|Short Sword
+; itm_sword_7|Short Sword
+; itm_sword_7_pl|Short Sword
+; itm_sword_8|Short Sword
+; itm_sword_8_pl|Short Sword
+; itm_new_sword1|Short Sword
+; itm_new_sword1_pl|Short Sword
+; itm_new_sword2|Short Sword
+; itm_new_sword2_pl|Short Sword
+; itm_new_sword3|Short Sword
+; itm_new_sword3_pl|Short Sword
+; itm_new_sword4|Short Sword
+; itm_new_sword4_pl|Short Sword
+; itm_new_sword5|Short Sword
+; itm_new_sword5_pl|Short Sword
+; itm_new_sword6|Sword
+; itm_new_sword6_pl|Sword
 ; itm_noble_sword|Rich Sword
 ; itm_noble_sword_pl|Rich Sword
 ; itm_noble_sword_2|Ulfberth Sword
@@ -1708,18 +1708,18 @@ itm_new_sword6_pl|Épée
 ; itm_sword_premium2_pl|Draguandil
 ; itm_sword_premium3|Blynjubitr
 ; itm_sword_premium3_pl|Blynjubitr
-itm_hatchet|Haches à deux mains
-itm_hatchet_pl|Haches à deux mains
-itm_axe|Haches à deux mains
-itm_axe_pl|Haches à deux mains
+; itm_hatchet|Axe
+; itm_hatchet_pl|Axe
+; itm_axe|Axe
+; itm_axe_pl|Axe
 ; itm_axe_2|Short Axe
 ; itm_axe_2_pl|Short Axe
 ; itm_hand_axe|Short Axe
 ; itm_hand_axe_pl|Short Axe
-itm_axe_3|Hache longue
-itm_axe_3_pl|Hache longue
-itm_axe_4|Hache longue
-itm_axe_4_pl|Hache longue
+; itm_axe_3|Long Axe
+; itm_axe_3_pl|Long Axe
+; itm_axe_4|Long Axe
+; itm_axe_4_pl|Long Axe
 ; itm_one_handed_war_axe_a|Short Battle Axe
 ; itm_one_handed_war_axe_a_pl|Short Battle Axe
 ; itm_one_handed_war_axe_b|Short Battle Axe
@@ -1734,14 +1734,14 @@ itm_axe_4_pl|Hache longue
 ; itm_one_handed_war_axe_f_pl|Long Battle Axe
 ; itm_axe_5|Long Hand Axe
 ; itm_axe_5_pl|Long Hand Axe
-itm_axe_6|Cognée
-itm_axe_6_pl|Cognée
+; itm_axe_6|Hand Axe
+; itm_axe_6_pl|Hand Axe
 ; itm_axe_7|Short Hand Axe
 ; itm_axe_7_pl|Short Hand Axe
 ; itm_axe_8|Short Hand Axe
 ; itm_axe_8_pl|Short Hand Axe
-itm_axe_9|Cognée
-itm_axe_9_pl|Cognée
+; itm_axe_9|Hand Axe
+; itm_axe_9_pl|Hand Axe
 ; itm_axe_10|Big Hand Axe
 ; itm_axe_10_pl|Big Hand Axe
 ; itm_pictish_hatchet|Goidelic Axe
@@ -1784,12 +1784,12 @@ itm_axe_9_pl|Cognée
 ; itm_long_axe_b_pl|Woodcutter
 ; itm_frankish_axe|Frankish Battle Axe
 ; itm_frankish_axe_pl|Frankish Battle Axe
-itm_staff|Bâton
-itm_staff_pl|Bâton
+; itm_staff|Staff
+; itm_staff_pl|Staff
 ; itm_quarter_staff|Short Staff
 ; itm_quarter_staff_pl|Short Staff
-itm_pitch_fork|Fourche à foin
-itm_pitch_fork_pl|Fourche à foin
+; itm_pitch_fork|Pitch Fork
+; itm_pitch_fork_pl|Pitch Fork
 ; itm_battle_fork|Shepherd's Crook
 ; itm_battle_fork_pl|Shepherd's Crook
 ; itm_light_spear1|Light Spear
@@ -1800,12 +1800,12 @@ itm_pitch_fork_pl|Fourche à foin
 ; itm_light_spear3_pl|Light Spear
 ; itm_light_spear4|Light Spear
 ; itm_light_spear4_pl|Light Spear
-itm_war_spear1|Épieux de guerre
-itm_war_spear1_pl|Épieux de guerre
-itm_war_spear2|Épieux de guerre
-itm_war_spear2_pl|Épieux de guerre
-itm_war_spear3|Épieux de guerre
-itm_war_spear3_pl|Épieux de guerre
+; itm_war_spear1|War Spear
+; itm_war_spear1_pl|War Spear
+; itm_war_spear2|War Spear
+; itm_war_spear2_pl|War Spear
+; itm_war_spear3|War Spear
+; itm_war_spear3_pl|War Spear
 ; itm_heavy_spear1|Heavy Spear
 ; itm_heavy_spear1_pl|Heavy Spear
 ; itm_heavy_spear2|Heavy Spear
@@ -1836,24 +1836,24 @@ itm_war_spear3_pl|Épieux de guerre
 ; itm_horn_pl|Horn
 ; itm_horn_multi|Horn
 ; itm_horn_multi_pl|Horn
-itm_wooden_shield|Bouclier cerclé
-itm_wooden_shield_pl|Bouclier cerclé
-itm_viking_shield_round_06|Bouclier cerclé
-itm_viking_shield_round_06_pl|Bouclier cerclé
-itm_viking_shield_round_07|Bouclier cerclé
-itm_viking_shield_round_07_pl|Bouclier cerclé
-itm_viking_shield_round_10|Bouclier cerclé
-itm_viking_shield_round_10_pl|Bouclier cerclé
-itm_viking_shield_round_11|Bouclier cerclé
-itm_viking_shield_round_11_pl|Bouclier cerclé
-itm_viking_shield_round_08|Bouclier cerclé
-itm_viking_shield_round_08_pl|Bouclier cerclé
-itm_viking_shield_round_09|Bouclier cerclé
-itm_viking_shield_round_09_pl|Bouclier cerclé
-itm_viking_shield_round_12|Bouclier cerclé
-itm_viking_shield_round_12_pl|Bouclier cerclé
-itm_viking_shield_round_13|Bouclier cerclé
-itm_viking_shield_round_13_pl|Bouclier cerclé
+; itm_wooden_shield|Round Shield
+; itm_wooden_shield_pl|Round Shield
+; itm_viking_shield_round_06|Round Shield
+; itm_viking_shield_round_06_pl|Round Shield
+; itm_viking_shield_round_07|Round Shield
+; itm_viking_shield_round_07_pl|Round Shield
+; itm_viking_shield_round_10|Round Shield
+; itm_viking_shield_round_10_pl|Round Shield
+; itm_viking_shield_round_11|Round Shield
+; itm_viking_shield_round_11_pl|Round Shield
+; itm_viking_shield_round_08|Round Shield
+; itm_viking_shield_round_08_pl|Round Shield
+; itm_viking_shield_round_09|Round Shield
+; itm_viking_shield_round_09_pl|Round Shield
+; itm_viking_shield_round_12|Round Shield
+; itm_viking_shield_round_12_pl|Round Shield
+; itm_viking_shield_round_13|Round Shield
+; itm_viking_shield_round_13_pl|Round Shield
 ; itm_viking_shield_round_01|Rawhide Shield
 ; itm_viking_shield_round_01_pl|Rawhide Shield
 ; itm_viking_shield_round_02|Rawhide Shield
@@ -1900,30 +1900,30 @@ itm_viking_shield_round_13_pl|Bouclier cerclé
 ; itm_shield_8_pl|Berserkr Shield
 ; itm_shield_9|Berserkr Shield
 ; itm_shield_9_pl|Berserkr Shield
-itm_shield_10|Bouclier cerclé
-itm_shield_10_pl|Bouclier cerclé
+; itm_shield_10|Round Shield
+; itm_shield_10_pl|Round Shield
 ; itm_shield_11|Rawhide Shield
 ; itm_shield_11_pl|Rawhide Shield
 ; itm_shield_12|Svear Shield
 ; itm_shield_12_pl|Svear Shield
-itm_shield_13|Bouclier cerclé
-itm_shield_13_pl|Bouclier cerclé
-itm_shield_14|Bouclier cerclé
-itm_shield_14_pl|Bouclier cerclé
+; itm_shield_13|Round Shield
+; itm_shield_13_pl|Round Shield
+; itm_shield_14|Round Shield
+; itm_shield_14_pl|Round Shield
 ; itm_shield_15|Rawhide Shield
 ; itm_shield_15_pl|Rawhide Shield
 ; itm_shield_16|Rawhide Shield
 ; itm_shield_16_pl|Rawhide Shield
-itm_shield_17|Bouclier cerclé
-itm_shield_17_pl|Bouclier cerclé
-itm_shield_18|Bouclier cerclé
-itm_shield_18_pl|Bouclier cerclé
+; itm_shield_17|Round Shield
+; itm_shield_17_pl|Round Shield
+; itm_shield_18|Round Shield
+; itm_shield_18_pl|Round Shield
 ; itm_shield_19|Danish Shield
 ; itm_shield_19_pl|Danish Shield
 ; itm_shield_20|Northmathr Shield
 ; itm_shield_20_pl|Northmathr Shield
-itm_shield_21|Bouclier cerclé
-itm_shield_21_pl|Bouclier cerclé
+; itm_shield_21|Round Shield
+; itm_shield_21_pl|Round Shield
 ; itm_gael_bigroundshield_01|Gael Round Shield
 ; itm_gael_bigroundshield_01_pl|Gael Round Shield
 ; itm_gael_bigroundshield_02|Gael Round Shield
@@ -2032,10 +2032,10 @@ itm_shield_21_pl|Bouclier cerclé
 ; itm_darts_pl|Simple Javelins
 ; itm_darts_melee|Simple Javelins
 ; itm_darts_melee_pl|Simple Javelins
-itm_javelin|Javelots
-itm_javelin_pl|Javelots
-itm_javelin_melee|Javelines
-itm_javelin_melee_pl|Javelines
+; itm_javelin|Javelins
+; itm_javelin_pl|Javelins
+; itm_javelin_melee|Javelin
+; itm_javelin_melee_pl|Javelin
 ; itm_javelin_skirmishes|Skirmish Javelins
 ; itm_javelin_skirmishes_pl|Skirmish Javelins
 ; itm_javelin_skirmishes_melee|Skirmish Javelin
@@ -2048,18 +2048,18 @@ itm_javelin_melee_pl|Javelines
 ; itm_javelin_jinetes_pl|Horsemen Javelins
 ; itm_javelin_jinetes_melee|Horseman Javelin
 ; itm_javelin_jinetes_melee_pl|Horseman Javelin
-itm_throwing_spears|Framées
-itm_throwing_spears_pl|Framées
-itm_throwing_spear_melee|Framées
-itm_throwing_spear_melee_pl|Framées
-itm_throwing_spears2|Framées
-itm_throwing_spears2_pl|Framées
-itm_throwing_spear2_melee|Framées
-itm_throwing_spear2_melee_pl|Framées
-itm_stones|Pierres
-itm_stones_pl|Pierres
-itm_long_bow|Arc long
-itm_long_bow_pl|Arc long
+; itm_throwing_spears|Throwing Spears
+; itm_throwing_spears_pl|Throwing Spears
+; itm_throwing_spear_melee|Throwing Spear
+; itm_throwing_spear_melee_pl|Throwing Spear
+; itm_throwing_spears2|Throwing Spears
+; itm_throwing_spears2_pl|Throwing Spears
+; itm_throwing_spear2_melee|Throwing Spear
+; itm_throwing_spear2_melee_pl|Throwing Spear
+; itm_stones|Stones
+; itm_stones_pl|Stones
+; itm_long_bow|Long Bow
+; itm_long_bow_pl|Long Bow
 ; itm_long_bow2|Elite Long Bow
 ; itm_long_bow2_pl|Elite Long Bow
 ; itm_long_bow3|Featured Long Bow
@@ -2090,14 +2090,14 @@ itm_long_bow_pl|Arc long
 ; itm_fustibalus_military_pl|Military Fustibalus
 ; itm_torch|Torches
 ; itm_torch_pl|Torches
-itm_lyre|Lyre
-itm_lyre_pl|Lyre
-itm_lute|Luth
-itm_lute_pl|Luth
+; itm_lyre|Lyre
+; itm_lyre_pl|Lyre
+; itm_lute|Lute
+; itm_lute_pl|Lute
 ; itm_instruments_end|Instruments End
 ; itm_instruments_end_pl|Instruments End
-itm_court_dress|Robe de Courtisane
-itm_court_dress_pl|Robe de Courtisane
+; itm_court_dress|Court Dress
+; itm_court_dress_pl|Court Dress
 ; itm_stones_siege|Siege Stones
 ; itm_stones_siege_pl|Siege Stones
 ; itm_trophy_a|Battle Trophy
@@ -2110,24 +2110,24 @@ itm_court_dress_pl|Robe de Courtisane
 ; itm_iniauhorn_pl|Iniau Horn
 ; itm_tunic_with_green_cape|Tunic
 ; itm_tunic_with_green_cape_pl|Tunic
-itm_keys|Trousseau de clés
-itm_keys_pl|Trousseau de clés
-itm_bride_dress|Robe de mariée
-itm_bride_dress_pl|Robe de mariée
-itm_bride_crown|Couronne de fleurs
-itm_bride_crown_pl|Couronne de fleurs
-itm_bride_shoes|Chaussures de mariée
-itm_bride_shoes_pl|Chaussures de mariée
-itm_practice_bow_2|Arc long
-itm_practice_bow_2_pl|Arc long
-itm_practice_arrows_2|Flèches
-itm_practice_arrows_2_pl|Flèches
+; itm_keys|Ring of Keys
+; itm_keys_pl|Ring of Keys
+; itm_bride_dress|Bride Dress
+; itm_bride_dress_pl|Bride Dress
+; itm_bride_crown|Crown of Flowers
+; itm_bride_crown_pl|Crown of Flowers
+; itm_bride_shoes|Bride Shoes
+; itm_bride_shoes_pl|Bride Shoes
+; itm_practice_bow_2|Long Bow
+; itm_practice_bow_2_pl|Long Bow
+itm_practice_arrows_2|Ok
+itm_practice_arrows_2_pl|Ok
 ; itm_steel_bolts|Siege Stones
 ; itm_steel_bolts_pl|Siege Stones
-itm_heraldic_mail_with_tunic_b|Chainse
-itm_heraldic_mail_with_tunic_b_pl|Chainse
-itm_heraldic_mail_with_tabard|Chainse
-itm_heraldic_mail_with_tabard_pl|Chainse
+; itm_heraldic_mail_with_tunic_b|Shirt
+; itm_heraldic_mail_with_tunic_b_pl|Shirt
+; itm_heraldic_mail_with_tabard|Shirt
+; itm_heraldic_mail_with_tabard_pl|Shirt
 ; itm_thors_helmet|Thor's Helmet
 ; itm_thors_helmet_pl|Thor's Helmet
 ; itm_thors_armor|Thor's Armor
@@ -2140,28 +2140,28 @@ itm_heraldic_mail_with_tabard_pl|Chainse
 ; itm_deadly_bow_pl|Deadly Bow
 ; itm_deadly_arrows|Deadly Arrows
 ; itm_deadly_arrows_pl|Deadly Arrows
-itm_honey|Miel
-itm_honey_pl|Miel
-itm_raw_leather|Peaux
-itm_raw_leather_pl|Peaux
-itm_furs|Fourrures
-itm_furs_pl|Fourrures
-itm_wool_cloth|Lainage
-itm_wool_cloth_pl|Lainage
-itm_oil|Huile
-itm_oil_pl|Huile
-itm_velvet|Velours
-itm_velvet_pl|Velours
-itm_work_axe|Haches à deux mains
-itm_work_axe_pl|Haches à deux mains
-itm_work_pickaxe|Rivelaine
-itm_work_pickaxe_pl|Rivelaine
+; itm_honey|Honey
+; itm_honey_pl|Honey
+; itm_raw_leather|Hides
+; itm_raw_leather_pl|Hides
+; itm_furs|Furs
+; itm_furs_pl|Furs
+; itm_wool_cloth|Wool Cloth
+; itm_wool_cloth_pl|Wool Cloth
+; itm_oil|Oil
+; itm_oil_pl|Oil
+; itm_velvet|Velvet
+; itm_velvet_pl|Velvet
+; itm_work_axe|Axe
+; itm_work_axe_pl|Axe
+; itm_work_pickaxe|Pickaxe
+; itm_work_pickaxe_pl|Pickaxe
 ; itm_work_pitchfork|Pitchfork
 ; itm_work_pitchfork_pl|Pitchfork
 ; itm_work_basket|Basket
 ; itm_work_basket_pl|Basket
-itm_torch2|Torche
-itm_torch2_pl|Torche
+; itm_torch2|Torch
+; itm_torch2_pl|Torch
 ; itm_animal_boar|Boar
 ; itm_animal_boar_pl|Boar
 ; itm_animal_pig|Pig
@@ -2178,8 +2178,8 @@ itm_torch2_pl|Torche
 ; itm_dog_companion_horse_pl|Dog
 ; itm_magic_broom|Strange broom
 ; itm_magic_broom_pl|Strange broom
-itm_stones_mp|Pierres
-itm_stones_mp_pl|Pierres
+; itm_stones_mp|Stones
+; itm_stones_mp_pl|Stones
 ; itm_invisible_armor|Kejserens nye Klaeder
 ; itm_invisible_armor_pl|Kejserens nye Klaeder
 ; itm_dog_bite|Bite
@@ -2218,20 +2218,20 @@ itm_stones_mp_pl|Pierres
 ; itm_thors_javelins_pl|Thor's Javelins
 ; itm_decap_head|No head
 ; itm_decap_head_pl|No head
-itm_work_axe_mp|Haches à deux mains
-itm_work_axe_mp_pl|Haches à deux mains
-itm_pickaxe_mp|Rivelaine
-itm_pickaxe_mp_pl|Rivelaine
+; itm_work_axe_mp|Axe
+; itm_work_axe_mp_pl|Axe
+; itm_pickaxe_mp|Pickaxe
+; itm_pickaxe_mp_pl|Pickaxe
 ; itm_seax_1_mp|Old Seax
 ; itm_seax_1_mp_pl|Old Seax
 ; itm_spear_1_mp|Old Spear
 ; itm_spear_1_mp_pl|Old Spear
 ; itm_crossbow_mp|Pictish Crossbow
 ; itm_crossbow_mp_pl|Pictish Crossbow
-itm_bolts_mp|Carreaux
-itm_bolts_mp_pl|Carreaux
-itm_items_end|Fin des objets
-itm_items_end_pl|Fin des objets
+; itm_bolts_mp|Bolts
+; itm_bolts_mp_pl|Bolts
+; itm_items_end|Items End
+; itm_items_end_pl|Items End
 ; itm_noswing_club_troll|Troll's Axe
 ; itm_noswing_club_troll_pl|Troll's Axe
 ; itm_noswing_knife|Hunting Knife
@@ -2278,50 +2278,50 @@ itm_items_end_pl|Fin des objets
 ; itm_noswing_ragnar_seax_pl|Ragnar's Langseax
 ; itm_noswing_elf_seax|Elf's Langseax
 ; itm_noswing_elf_seax_pl|Elf's Langseax
-itm_noswing_spatha|Épée
-itm_noswing_spatha_pl|Épée
-itm_noswing_spatha_2|Épée
-itm_noswing_spatha_2_pl|Épée
-itm_noswing_spatha_3|Épée
-itm_noswing_spatha_3_pl|Épée
-itm_noswing_spatha_4|Épée
-itm_noswing_spatha_4_pl|Épée
-itm_noswing_spatha_5|Épée
-itm_noswing_spatha_5_pl|Épée
-itm_noswing_spatha_6|Épée
-itm_noswing_spatha_6_pl|Épée
-itm_noswing_spatha_7|Épée
-itm_noswing_spatha_7_pl|Épée
-itm_noswing_spatha_8|Épée
-itm_noswing_spatha_8_pl|Épée
-itm_noswing_sword|Épée
-itm_noswing_sword_pl|Épée
-itm_noswing_sword_2|Épée
-itm_noswing_sword_2_pl|Épée
-itm_noswing_sword_3|Épée
-itm_noswing_sword_3_pl|Épée
-itm_noswing_sword_4|Épée
-itm_noswing_sword_4_pl|Épée
-itm_noswing_sword_5|Épée courte
-itm_noswing_sword_5_pl|Épée courte
-itm_noswing_sword_6|Épée courte
-itm_noswing_sword_6_pl|Épée courte
-itm_noswing_sword_7|Épée courte
-itm_noswing_sword_7_pl|Épée courte
-itm_noswing_sword_8|Épée courte
-itm_noswing_sword_8_pl|Épée courte
-itm_noswing_new_sword1|Épée courte
-itm_noswing_new_sword1_pl|Épée courte
-itm_noswing_new_sword2|Épée courte
-itm_noswing_new_sword2_pl|Épée courte
-itm_noswing_new_sword3|Épée courte
-itm_noswing_new_sword3_pl|Épée courte
-itm_noswing_new_sword4|Épée courte
-itm_noswing_new_sword4_pl|Épée courte
-itm_noswing_new_sword5|Épée courte
-itm_noswing_new_sword5_pl|Épée courte
-itm_noswing_new_sword6|Épée
-itm_noswing_new_sword6_pl|Épée
+; itm_noswing_spatha|Sword
+; itm_noswing_spatha_pl|Sword
+; itm_noswing_spatha_2|Sword
+; itm_noswing_spatha_2_pl|Sword
+; itm_noswing_spatha_3|Sword
+; itm_noswing_spatha_3_pl|Sword
+; itm_noswing_spatha_4|Sword
+; itm_noswing_spatha_4_pl|Sword
+; itm_noswing_spatha_5|Sword
+; itm_noswing_spatha_5_pl|Sword
+; itm_noswing_spatha_6|Sword
+; itm_noswing_spatha_6_pl|Sword
+; itm_noswing_spatha_7|Sword
+; itm_noswing_spatha_7_pl|Sword
+; itm_noswing_spatha_8|Sword
+; itm_noswing_spatha_8_pl|Sword
+; itm_noswing_sword|Sword
+; itm_noswing_sword_pl|Sword
+; itm_noswing_sword_2|Sword
+; itm_noswing_sword_2_pl|Sword
+; itm_noswing_sword_3|Sword
+; itm_noswing_sword_3_pl|Sword
+; itm_noswing_sword_4|Sword
+; itm_noswing_sword_4_pl|Sword
+; itm_noswing_sword_5|Short Sword
+; itm_noswing_sword_5_pl|Short Sword
+; itm_noswing_sword_6|Short Sword
+; itm_noswing_sword_6_pl|Short Sword
+; itm_noswing_sword_7|Short Sword
+; itm_noswing_sword_7_pl|Short Sword
+; itm_noswing_sword_8|Short Sword
+; itm_noswing_sword_8_pl|Short Sword
+; itm_noswing_new_sword1|Short Sword
+; itm_noswing_new_sword1_pl|Short Sword
+; itm_noswing_new_sword2|Short Sword
+; itm_noswing_new_sword2_pl|Short Sword
+; itm_noswing_new_sword3|Short Sword
+; itm_noswing_new_sword3_pl|Short Sword
+; itm_noswing_new_sword4|Short Sword
+; itm_noswing_new_sword4_pl|Short Sword
+; itm_noswing_new_sword5|Short Sword
+; itm_noswing_new_sword5_pl|Short Sword
+; itm_noswing_new_sword6|Sword
+; itm_noswing_new_sword6_pl|Sword
 ; itm_noswing_noble_sword|Rich Sword
 ; itm_noswing_noble_sword_pl|Rich Sword
 ; itm_noswing_noble_sword_2|Ulfberth Sword
@@ -2428,12 +2428,12 @@ itm_noswing_new_sword6_pl|Épée
 ; itm_noswing_one_handed_war_axe_f_pl|Long Battle Axe
 ; itm_noswing_frankish_axe|Frankish Battle Axe
 ; itm_noswing_frankish_axe_pl|Frankish Battle Axe
-itm_noswing_staff|Bâton
-itm_noswing_staff_pl|Bâton
+; itm_noswing_staff|Staff
+; itm_noswing_staff_pl|Staff
 ; itm_noswing_quarter_staff|Short Staff
 ; itm_noswing_quarter_staff_pl|Short Staff
-itm_noswing_pitch_fork|Fourche à foin
-itm_noswing_pitch_fork_pl|Fourche à foin
+; itm_noswing_pitch_fork|Pitch Fork
+; itm_noswing_pitch_fork_pl|Pitch Fork
 ; itm_noswing_battle_fork|Shepherd's Crook
 ; itm_noswing_battle_fork_pl|Shepherd's Crook
 ; itm_noswing_light_spear1|Light Spear
@@ -2444,12 +2444,12 @@ itm_noswing_pitch_fork_pl|Fourche à foin
 ; itm_noswing_light_spear3_pl|Light Spear
 ; itm_noswing_light_spear4|Light Spear
 ; itm_noswing_light_spear4_pl|Light Spear
-itm_noswing_war_spear1|Épieux de guerre
-itm_noswing_war_spear1_pl|Épieux de guerre
-itm_noswing_war_spear2|Épieux de guerre
-itm_noswing_war_spear2_pl|Épieux de guerre
-itm_noswing_war_spear3|Épieux de guerre
-itm_noswing_war_spear3_pl|Épieux de guerre
+; itm_noswing_war_spear1|War Spear
+; itm_noswing_war_spear1_pl|War Spear
+; itm_noswing_war_spear2|War Spear
+; itm_noswing_war_spear2_pl|War Spear
+; itm_noswing_war_spear3|War Spear
+; itm_noswing_war_spear3_pl|War Spear
 ; itm_noswing_heavy_spear1|Heavy Spear
 ; itm_noswing_heavy_spear1_pl|Heavy Spear
 ; itm_noswing_heavy_spear2|Heavy Spear
@@ -2478,18 +2478,18 @@ itm_noswing_war_spear3_pl|Épieux de guerre
 ; itm_noswing_standard_dragon_pl|Dragon Standard
 ; itm_noswing_darts_melee|Simple Javelins
 ; itm_noswing_darts_melee_pl|Simple Javelins
-itm_noswing_javelin_melee|Javelines
-itm_noswing_javelin_melee_pl|Javelines
+; itm_noswing_javelin_melee|Javelin
+; itm_noswing_javelin_melee_pl|Javelin
 ; itm_noswing_javelin_skirmishes_melee|Skirmish Javelin
 ; itm_noswing_javelin_skirmishes_melee_pl|Skirmish Javelin
 ; itm_noswing_javelin_skirmishesel_melee|Heavy Javelin
 ; itm_noswing_javelin_skirmishesel_melee_pl|Heavy Javelin
 ; itm_noswing_javelin_jinetes_melee|Horseman Javelin
 ; itm_noswing_javelin_jinetes_melee_pl|Horseman Javelin
-itm_noswing_throwing_spear_melee|Framées
-itm_noswing_throwing_spear_melee_pl|Framées
-itm_noswing_throwing_spear2_melee|Framées
-itm_noswing_throwing_spear2_melee_pl|Framées
+; itm_noswing_throwing_spear_melee|Throwing Spear
+; itm_noswing_throwing_spear_melee_pl|Throwing Spear
+; itm_noswing_throwing_spear2_melee|Throwing Spear
+; itm_noswing_throwing_spear2_melee_pl|Throwing Spear
 ; itm_noswing_torch|Torches
 ; itm_noswing_torch_pl|Torches
 ; itm_noswing_work_pitchfork|Pitchfork

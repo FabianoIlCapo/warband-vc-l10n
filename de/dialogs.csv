@@ -2954,7 +2954,7 @@ dlga_lord_internal_politics_plyr_request_support:lord_pretalk.4|Hmm... Das ist z
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.5|Ich würde Euch mit Freuden unterstützen. 
 dlga_lord_recruit_1_relation:lord_pretalk|Ich bin es etwas leid, über Politik zu sprechen. Vielleicht ein anderes Mal.
 dlga_lord_recruit_1_relation:lord_recruit_pretender|Ihr habt im Namen von {s16} die Standarte der Rebellion erhoben. Seid Ihr gekommen, um für {reg3?ihre:seine} Sache zu plädieren?
-dlga_lord_recruit_pretender:lord_recruit_3_dilemma_1|In der Tat.
+; dlga_lord_recruit_pretender:lord_recruit_3_dilemma_1|I have.
 dlga_lord_recruit_pretender:lord_recruit_1_relation|Nein, ich möchte mit Euch über etwas anderes sprechen.
 dlga_lord_recruit_2:lord_recruit_2_philosophy|Was haltet Ihr im Allgemeinen von Königen, Fürsten und Politik?
 dlga_lord_recruit_2:lord_spouse_leave_faction|Mein Gemahl, ich glaube, Ihr solltet euren Treueschwur an {s11} überdenken.
@@ -5719,7 +5719,8 @@ dlga_village_elder_buy_cattle_2:village_elder_pretalk|Vergiss es.
 dlga_village_elder_buy_cattle_complete:village_elder_pretalk|{mein Herr/meine Dame}, ich werde den Hirten auftragen, die Tiere zusammen zu treiben, und sie Euch zu bringen. Ich bin sicher, dass Ihr mit Eurem Kauf zufrieden sein werdet.
 dlga_village_elder_recruit2_b:village_elder_talk|Vergesst es! Warum sollte ich einem Feind des Königreichs helfen?
 dlga_village_elder_recruit2_b:village_elder_talk.1|Vergesst es! In dieser Gemeinschaft seid ihr nicht willkommen.
-dlga_village_elder_recruit2_b:village_elder_recruit6|Sicher. Bitte!
+; dlga_village_elder_recruit2_b:village_elder_recruit6|Unfortunately, I know of no one that may be interested.
+dlga_village_elder_recruit2_b:village_elder_recruit6.1|Sicher. Bitte!
 dlga_village_elder_recruit2_b:village_elder_recruit2_1|Ihr seht nicht sehr besonders aus. Ein Wandervogel wie viele andere, mit Versprechungen und Wörtern, aber nichts mehr. Warum sollte ich euch helfen Leute zu rekrutieren?
 dlga_village_elder_recruit2_b:village_elder_recruit2_1.1|Ich weiß, ihr seid gefürchtet. Ich glaube nicht, dass euch viele Männer folgen würden.
 dlga_village_elder_recruit2_b:village_elder_recruit2|Was ich sagen kann...
