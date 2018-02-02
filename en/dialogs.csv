@@ -2954,7 +2954,7 @@ dlga_lord_internal_politics_plyr_request_support:lord_pretalk.4|Hmm... That is t
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.5|I would support you with pleasure. 
 dlga_lord_recruit_1_relation:lord_pretalk|I am a bit weary of talking politics. Perhaps at a later date
 dlga_lord_recruit_1_relation:lord_recruit_pretender|You have raised the standard of rebellion on behalf of {s16}. Have you come to plead {reg3?her:his} case?
-dlga_lord_recruit_pretender:lord_recruit_3_dilemma_1|I have
+dlga_lord_recruit_pretender:lord_recruit_3_dilemma_1|I have.
 dlga_lord_recruit_pretender:lord_recruit_1_relation|No, that's not it. There's another issue I wish to discuss.
 dlga_lord_recruit_2:lord_recruit_2_philosophy|What do you think, in general terms, about kings, lords, and politics?
 dlga_lord_recruit_2:lord_spouse_leave_faction|My husband, I believe that you should rethink your allegiance to {s11}
@@ -5719,7 +5719,8 @@ dlga_village_elder_buy_cattle_2:village_elder_pretalk|Forget it.
 dlga_village_elder_buy_cattle_complete:village_elder_pretalk|I will tell the herders to round up the animals and bring them to you, {reg59?madam:sir}. I am sure you will be satisfied with your purchase.
 dlga_village_elder_recruit2_b:village_elder_talk|Forget it! Why would I help an enemy of the kingdom?
 dlga_village_elder_recruit2_b:village_elder_talk.1|Forget it! In this community, you are not welcome.
-dlga_village_elder_recruit2_b:village_elder_recruit6|Sure. You are welcome!
+dlga_village_elder_recruit2_b:village_elder_recruit6|Unfortunately, I know of no one that may be interested.
+dlga_village_elder_recruit2_b:village_elder_recruit6.1|Sure. You are welcome!
 dlga_village_elder_recruit2_b:village_elder_recruit2_1|You do not look like anyone special. A wanderer like many others, with promises and words, but nothing more. Why should I help you find recruits?
 dlga_village_elder_recruit2_b:village_elder_recruit2_1.1|I know you're someone feared. I'm not sure many men would want to join you.
 dlga_village_elder_recruit2_b:village_elder_recruit2|What I can say...
