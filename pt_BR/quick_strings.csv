@@ -48,17 +48,17 @@ qstr_{s33}|{s33}
 ; qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?have:has} escaped from your party during the night.
 ; qstr_{s1}_of_the_{s3}_has|{s1} of the {s3} has been released from captivity.
 ; qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits at night.
-; qstr_{s1}_has_won_the_tou|{s1} has won the tournament at {s2}.
-; qstr_You_pay_for_accommod|You pay for accommodation.
-; qstr__Your_tactics_skill_| Your tactics skill has increased by 1.
-; qstr__Your_persuasion_ski| Your persuasion skill has increased by 1.
-; qstr__Your_leadership_ski| Your leadership skill has increased by 1.
-; qstr__Your_intelligence_h| Your intelligence has increased by 1.
-; qstr__Your_trade_skill_ha| Your trade skill has increased by 1.
-; qstr__Your_weapon_master_| Your weapon master skill has increased by 1.
-; qstr__Your_engineer_skill| Your engineer skill has increased by 1.
-; qstr_You_have_finished_re|You have finished reading {s1}.{s2}
-; qstr_Book_Read|Book Read
+qstr_{s1}_has_won_the_tou|{s1} venceu o torneio em {s2}.
+qstr_You_pay_for_accommod|Você pagou pelo alojamento.
+qstr__Your_tactics_skill_|Sua habilidade em táticas aumentou em 1 ponto.
+qstr__Your_persuasion_ski|Sua habilidade em persuasão aumentou em 1 ponto.
+qstr__Your_leadership_ski|Sua habilidade em liderança aumentou em 1 ponto.
+qstr__Your_intelligence_h|Sua inteligência aumentou em 1 ponto.
+qstr__Your_trade_skill_ha|Sua habilidade em comércio aumentou em 1 ponto.
+qstr__Your_weapon_master_|Sua habilidade como mestre das armas aumentou em 1 ponto.
+qstr__Your_engineer_skill|Sua habilidade em engenharia aumentou em 1 ponto.
+qstr_You_have_finished_re|Você terminou de ler {s1}.{s2}
+qstr_Book_Read|Livro lido
 ; qstr_Christian_monastery|Christian monastery
 ; qstr_Christian_church|Christian church
 ; qstr_shrine_to_Norse_gods|shrine to Norse gods
@@ -146,8 +146,8 @@ qstr_Morale|Moral
 ; qstr_You_do_not_have_mone|You do not have money to cover the basic expenses of a siege. This greatly undermines morale.
 ; qstr_{reg65?my_Lady:my_Lo|{reg65?my Lady:my Lord}
 ; qstr_{reg65?My_Lady:My_Lo|{reg65?My Lady:My Lord}
-; qstr_{reg65?madame:sir}|{reg65?madame:sir}
-; qstr_{reg65?Madame:Sir}|{reg65?Madame:Sir}
+qstr_{reg65?madame:sir}|{reg65?madame:senhor}
+qstr_{reg65?Madame:Sir}|{reg65?Madame:Senhor}
 qstr_Dog|Cão
 ; qstr_Welcome_landlubber._|Welcome, landlubber. I am the shipwright here.
 ; qstr_Welcome_{reg59?lady:|Welcome, {reg59?lady:lord} {playername}.
@@ -201,7 +201,7 @@ qstr_I_changed_my_mind.|Eu mudei de idéia.
 ; qstr__Relation:_{reg0}| Relation: {reg0}
 ; qstr_{s12}I_want_to_plund|{s12}I want to plunder and retain {s1} for myself. {s2}
 ; qstr__no_fiefs_|(no fiefs)
-; qstr__fiefs:_{s0}_|(fiefs: {s0})
+qstr__fiefs:_{s0}_|(feudos: {s0})
 ; qstr___The_child_looks_at|--The child looks at you with funny eyes and laughs.--
 ; qstr_My_mother_told_me_no|My mother told me not to talk to strangers. Bye!
 ; qstr_Running_is_fun!_I_ca|Running is fun! I can run faster than you can! Do you want to race me?
@@ -214,11 +214,11 @@ qstr_I_changed_my_mind.|Eu mudei de idéia.
 ; qstr_don_t_|don't 
 ; qstr_Note_4:_{s9}_has_sen|Note 4: {s9} has sent men to kill you. They ambushed you by the river, and although you have survived their attack, you sleep less calmly now.
 ; qstr___A_large_group_of_S|--A large group of Saxons gets in your way. Their leader steps forward and raises a hand.--
-; qstr_we_have_made_very_li|we have made very little progress so far
+qstr_we_have_made_very_li|fizemos pouquíssimo progresso até agora
 ; qstr_we_have_succeeded_in|we have succeeded in gaining some ground, but we still have a long way to go
-; qstr_we_have_become_a_sig|we have become a significant force, and we have an even chance of victory
-; qstr_we_are_winning_the_w|we are winning the war, but our enemies are still holding on.
-; qstr_we_are_on_the_verge_|we are on the verge of victory. The remaining enemies pose no threat, but we still need to hunt them down.
+qstr_we_have_become_a_sig|nós nos tornamos uma força considerável, e temos uma chance razoável de vencer
+qstr_we_are_winning_the_w|estamos vencendo a guerra, mas nossos inimigos ainda resistem.
+qstr_we_are_on_the_verge_|estamos muito perto da vitória. Os inimigos restantes não representam ameaça, mas ainda precisamos caçá-los.
 ; qstr_Warlord|Warlord
 ; qstr_Note_5:_You_fell_in_|Note 5: You fell in love with Morrigan.
 ; qstr_{s21}_seems_happy._{|{s21} seems happy. {s21} looks pleased.
@@ -327,7 +327,7 @@ qstr_Christianity|Cristianismo
 ; qstr_the_{s11}_and_{s12}|the {s11} and {s12}
 ; qstr_the_{s11}_{s12}|the {s11}, {s12}
 ; qstr_We_are_quite_happy_n|We are quite happy not to be at war with anyone.
-; qstr_We_are_at_war_with_{|We are at war with {s12}.
+qstr_We_are_at_war_with_{|Estamos em guerra com {s12}.
 ; qstr___He_seems_pleased._|--He seems pleased.--
 ; qstr___He_seems_upset.__|--He seems upset.--
 ; qstr___He_seems_distresse|--He seems distressed.--
@@ -364,7 +364,7 @@ qstr_{s1}_Rebels|{s1} Rebeldes
 ; qstr_I_am_{s4}_the_ruler_|I am {s4}, the ruler of the {s6}
 ; qstr_I_am_{s4}_a_vassal_o|I am {s4}, a vassal of the {s6}
 qstr_{s7}_and_{s8}|{s7} e {s8}
-; qstr_{s9}{reg5?_and_the_l|{s9}{reg5? and the lord of {s8}.:.
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? e o senhor de {s8}.:.
 ; qstr_My_name_is_{s4}_and_|My name is {s4}, and I come from {s8}. I am looking for adventure and glory on the battlefield.
 ; qstr___The_ugly_face_of_a|--The ugly face of a smiling man appears before you.--
 ; qstr_Fergus_Mael_Bresail_|Fergus, Mael Bresail's man at the farm, told you that the feast was prepared for twenty-five people. You must bring more companions.
@@ -534,7 +534,7 @@ qstr_{s2}^^{s3}|{s2} ^^ {s3}
 ; qstr_Many_men_prefer_Thor|Many men prefer Thor to Odin, but I prefer Loki, he is the smartest of all the gods, but please don't tell anyone.
 ; qstr_Glad_and_Gyllir_Gler|Glad and Gyllir, Gler and Skeidbrimir, Sillfrintopp and Sinir, Gisl and Falhofnir, Gulltopp and Lettfeti. On these horses, the Aesir ride every day, when they go to court at the ashes of Yggdrasil.
 ; qstr_{s13}_asked_you_to_g|{s13} asked you to gather {reg3} head of cattle and deliver them back to him.
-; qstr_{s9}_wants_you_to_fo|{s9} wants you to follow his army until further notice.
+qstr_{s9}_wants_you_to_fo|{s9} quer que você siga o exército dele até segunda ordem.
 ; qstr_{s9}_asked_you_to_sc|{s9} asked you to scout {s13}, {s14} and {s15}, and then report back.
 ; qstr___He_seems_impatient|--He seems impatient, even disappointed.--
 ; qstr___He_spits_angry.__|--He spits, angry.--
@@ -787,9 +787,9 @@ qstr_{s2}^^{s3}|{s2} ^^ {s3}
 ; qstr_Well_I_ve_come_to_kn|Well, I've come to know you, and it pleases me to allow it. Therefore, I hereby give notice that, if a man wants to join you, he will be free to do so, provided, as ever, that he is free of commitments to another lord.
 ; qstr_you|you
 ; qstr_You_are_challenging_|You are challenging me to a duel? How droll! As you wish, {playername}, it will be good sport to bash your head in.
-; qstr_{s16}_and_{s17}|{s16} and {s17}
+qstr_{s16}_and_{s17}|{s16} e {s17}
 ; qstr_Very_well_I_will_acc|Very well, I will accept you back into my ranks, if you're ready to swear your solemn oath once more.
-; qstr_A_pardon_will_only_b|A pardon will only be possible if you are willing to cede {s17} to me. Do you agree my terms?
+qstr_A_pardon_will_only_b|Um perdão só será possível se você se dispuser a me ceder {s17}. Concorda com meus termos?
 ; qstr_No._There_is_no_chan|No. There is no chance of peace between us. I am not interested.
 ; qstr_I_may_be_able_to_hel|I may be able to help you with such a delicate situation. Do you have {reg7} peningas on you?
 ; qstr_I_have_heard_of_your|I have heard of your mistreatment of my subjects, {playername}. I'm pretty sure people still remember what you did to them...^^But that's all in the past now, so just hand me the money. Did I hear {reg7} peningas?
@@ -800,30 +800,30 @@ qstr_{s2}^^{s3}|{s2} ^^ {s3}
 qstr_{s34}|{s34}
 ; qstr_Your_efforts_to_brib|Your efforts to bribe local population were unsuccessful.
 ; qstr_Our_marshal_{s1}|Our marshal, {s1}
-; qstr_We_are_not_at_war_wi|We are not at war with anyone.
+qstr_We_are_not_at_war_wi|Não estamos em guerra com ninguém.
 ; qstr_go_on_the_offensive_|go on the offensive now.
 ; qstr_act_to_defend_our_la|act to defend our lands.
 ; qstr_take_more_time_to_ga|take more time to gather the army.
 ; qstr_You_promised_to_help|You promised to help {s13} claim the throne of the {s14}.
 ; qstr_What_do_you_say_to_e|What do you say to entering the service of the {s9} as a mercenary captain? I have no doubt that you would be up to the task.
 ; qstr_{s8}_asked_you_to_tr|{s8} asked you to track down a group of masterless men who looted his village, {s9}.
-; qstr_{s9}_asked_you_to_ta|{s9} asked you to take a message to {s13}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s9}_asked_you_to_ta|{s9} lhe pediu para levar uma mensagem a {s13}. {s13} supostamente estava em {s4} quando esta missão foi dada a você.
 ; qstr_{s9}_asked_you_to_tak|{s9} asked you to take a message to {s13} of the {s15}. {s13} was believed to be at {s4} when you were given this quest.
-; qstr_{s11}_asked_you_to_e|{s11} asked you to escort the Bishop from {s22} to {s14}.
+qstr_{s11}_asked_you_to_e|{s11} lhe pediu para escoltar o Bispo de {s22} para {s14}.
 ; qstr_{s11}_asked_you_to_r|{s11} asked you to raid a monastery at {s14}, near {s34}, and bring him {reg33} peningas.
 ; qstr_{s11}_asked_you_to_es|{s11} asked you to escort his {s17} {s13} to {s14}.
 ; qstr_{s13}_asked_you_to_d|{s13} asked you to deal with the bandits who are occupying the village of {s15} and then report back to him.
 ; qstr_{s9}_asked_you_to_ra|{s9} asked you to raise {reg1} {s14} and bring them to him.
-; qstr_{s9}_asked_you_to_co|{s9} asked you to collect taxes from {s3}. He offered to leave you one-fifth of all the money you collect there.
+qstr_{s9}_asked_you_to_co|{s9} lhe pediu para coletar impostos de {s3}. Ele ofereceu deixar você ficar com um quinto de todo o dinheiro arrecadado lá.
 ; qstr_{s9}_asked_you_to_hu|{s9} asked you to hunt down a fugitive named {s4}. He is currently believed to be in {s3}.
-; qstr_{s9}_asked_you_to_as|{s9} asked you to assassinate a local merchant at {s3}.
-; qstr_{s9}_has_asked_you_t|{s9} has asked you to meet with a spy in {s13}.
+qstr_{s9}_asked_you_to_as|{s9} lhe pediu pra assassinar um mercador local em {s3}.
+qstr_{s9}_has_asked_you_t|{s9} lhe pediu para se encontrar com um espião em {s13}.
 ; qstr_{s11}_asked_you_to_f|{s11} asked you to follow the spy that will leave {s12}. Be careful not to let the spy see you on the way, or he may get suspicious and turn back. Once the spy meets with his accomplice, you are to capture them and bring them back to {s11}.
 ; qstr_{s11}_asked_you_to_c|{s11} asked you to capture a lord from the {s13}, any lord, and then drag your victim back to {s11} for safekeeping.
 ; qstr_{s9}_asked_you_to_le|{s9} asked you to lend your companion {s3} to him for a week.
 ; qstr_{s9}_asked_you_to_col|{s9} asked you to collect the debt of {reg4} peningas {s3} owes to him. {s3} was at {s4} when you were given this quest.
 ; qstr_{s11}_gave_you_a_fak|{s11} gave you a fake letter to fool {s13} into banishing his vassal {s16}. You are to go near {s14}, give the letter to one of your {s15} and send him into the town as a messenger, believing his orders to be genuine.
-; qstr_{s9}_has_requested_y|{s9} has requested you to bring him {reg1} {s3} as prisoners.
+qstr_{s9}_has_requested_y|{s9} lhe pediu para trazer {reg1} {s3} como prisioneiros.
 ; qstr_Lend_your_experience|Lend your experienced surgeon {s3} to {s1}.
 ; qstr_Oh_Dear!_We_have_bee|Oh, Dear! We have been given a boy!
 ; qstr_Oh_Dear!_We_have_rec|Oh, Dear! We have received a girl!
@@ -833,7 +833,7 @@ qstr_{s34}|{s34}
 ; qstr_I_m_fine._I_will_not|I'm fine. I will not pay any attention to the banter of the servants. The child isn't the son of our swineherd.
 ; qstr_Time_flies_away_from|Time flies away from war, fear and the rigors of travel... In nine months, you will have a child.
 ; qstr_Then_take_it_with_my|Then take it, with my eternal thanks. You are a noble {reg59?woman:man}. I will never forget that you helped me in my time of need.
-; qstr_Forgive_me_{playerna|Forgive me, {playername}, but I must insist you accept it. The money means little to me, and I owe you so much. Here, take it, and let us speak no more of this.
+qstr_Forgive_me_{playerna|Perdão, {playername}, mas devo insistir que você aceite. O dinheiro significa pouco para mim, e devo tanto a você. Tome, pegue-o, e não falemos mais sobre isso.
 ; qstr_{playername}_what_a_|{playername}, what a dear {reg59?woman:man} you are, but I will not allow you to refuse this. I owe you far more than I can say, and I am sure you can put this money to far better use than I.
 ; qstr_I_know_you_re_at_war|I know, you're at war with his kingdom, so you may have a problem giving him my message, or perhaps your bravery would desert you.
 ; qstr_{s11}_asked_you_to_d|{s11} asked you to deliver a message to {s3}.
@@ -846,10 +846,10 @@ qstr_{s34}|{s34}
 ; qstr_{s11}_asked_you_to_re|{s11} asked you to rescue her {s17}, {s13}, from {s14} by switching clothes and taking his place in prison.
 ; qstr_{s11}_asked_you_to_res|{s11} asked you to rescue her {s17}, {s13}, from {s14}.
 ; qstr_{s12}_asked_you_to_d|{s12} asked you to deliver a message to {s13}, who is imprisoned at {s14}.
-; qstr_You_agreed_to_challe|You agreed to challenge {s13} to defend {s11}'s honour.
+qstr_You_agreed_to_challe|Você concordou em desafiar {s13} para defender a honra de {s11}.
 ; qstr_{s11}_asked_you_to_di|{s11} asked you to discretely eliminate her 'ghost' ex-lover, who is believed to be in {s33}.
 ; qstr_{s5}__Persuasion_str|{s5} (Persuasion strength: {reg5})
-; qstr_Persuasion_Attempt|Persuasion Attempt
+qstr_Persuasion_Attempt|Tentativa de Persuasão
 ; qstr_I_think_your_dilemma|I think your dilemma can be solved for {reg22} peningas.
 ; qstr_Thank_you_for_the_wa|Thank you for the warning. {reg22} peningas will make me forget everything.
 ; qstr_Pay_{reg22}_peningas|Pay {reg22} peningas for your rudeness or else...
@@ -989,7 +989,7 @@ qstr_town|Cidade
 qstr_village|Vila
 ; qstr_The_mayor_of_{s13}_h|The mayor of {s13} has asked you to deal with looters in the surrounding countryside.
 ; qstr_{s9}_of_{s3}_asked_y|{s9} of {s3} asked you to deliver {reg5} units of {s6} to the mead hall in {s4} in 7 days.
-; qstr_Escort_the_merchant_|Escort the merchant caravan to the town of {s8}.
+qstr_Escort_the_merchant_|Escolte a Caravana para a cidade de {s8}.
 ; qstr_Merchant_{s9}_of_{s4|Merchant {s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of the town.
 ; qstr_The_mayor_of_{s4}_ga|The mayor of {s4} gave you {reg12} peningas to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that, you are to bring the girl back to {s4}.
 ; qstr_The_mayor_of_{s4}_pr|The mayor of {s4} promised you {reg12} peningas if you can make sure that {s12} and {s13} no longer pose a threat to a peace settlement between the {s15} and the {s14}. In order to do that, you must either convince them or make sure they fall captive and remain so until a peace agreement is made.
@@ -1031,7 +1031,7 @@ qstr_village|Vila
 ; qstr_Caliacas_told_you_th|Caliacas told you that the evil attacking them is an ancient demon called Morrigan, the Raven Goddess, who leads a bunch of beasts. You've discovered that you're not the only hero destined to defeat Morrigan, and have to meet the other two in the burnt hut of the old man who worshiped the old gods.
 ; qstr_It_seems_that_there_|It seems that there is no problem in the village. It was all a false alarm. Now you just have to wait for the messenger from the two champions.
 ; qstr_{s40}_s_Levy|{s40}'s Levy
-; qstr_He_is_not_commanding|He is not commanding any men at the moment.
+qstr_He_is_not_commanding|Ele não está comandando homens no momento.
 ; qstr_He_currently_command|He currently commands {reg0} men{reg1?, of which around {reg1} are wounded:}.
 ; qstr_{s33}_lost_1_point_o|{s33} lost 1 point of leadership
 ; qstr_{s33}_lost_1_point_of|{s33} lost 1 point of charisma
@@ -1090,7 +1090,7 @@ qstr_village|Vila
 ; qstr_The_elder_of_the_villag|The elder of the village of {s3} asked you to bring them {reg5} head of cattle.
 ; qstr___She_looks_puzzled_|--She looks puzzled and surprised.--
 ; qstr___She_smiles_happy_f|--She smiles, happy for your donation.--
-; qstr_{s16}_and_{s15}|{s16} and {s15}
+qstr_{s16}_and_{s15}|{s16} e {s15}
 ; qstr_{s16}_{s15}|{s16}, {s15}
 ; qstr_I_can_smell_a_fat_pu|I can smell a fat purse a mile away. Methinks yours could do with some lightening, eh?
 ; qstr_Why_it_be_another_tr|Why, it be another traveller, chance met upon the road! I should warn you, country here's a mite dangerous for a good {reg59?woman:fellow} like you. But for a small donation my boys and I'll make sure you get rightways to your destination, eh?
@@ -1098,7 +1098,7 @@ qstr_village|Vila
 ; qstr_There_s_a_toll_for_p|There's a toll for passin' through this land, payable to us, so if you don't mind we'll just be collectin' our due from your purse...
 ; qstr_Another_fool_come_to|Another fool come to throw {reg59?her:him}self on my weapon, eh? Fine, let's fight!
 ; qstr_We_re_not_afraid_of_|We're not afraid of you, {reg59?wench:sirrah}. Time to break some heads!
-; qstr_That_was_a_mistake._|That was a mistake. Now I'm going to have to make your death long and painful.
+qstr_That_was_a_mistake._|Isso foi um grande erro. Agora terei de tornar sua morte longa e dolorosa.
 ; qstr_Brave_words._Let_s_s|Brave words. Let's see you back them up with deeds, cur!
 ; qstr_Your_God_is_for_wimp|Your God is for wimps and weaklings! Across the rainbow bridge to Walhalla Odin's waiting for me!
 ; qstr_I_ve_been_pondering_|I've been pondering the Christian religion for a while now. Perhaps it's time for me to experience fully what it means to be a true Christian. However, I can hardly be baptized while wearing chains!
@@ -1113,7 +1113,7 @@ qstr_village|Vila
 ; qstr_This_is_the_{reg4?to|This is the {reg4?town:village} of {s5}, {reg59?madam:sir}.
 ; qstr_{s6}_Our_{reg4?town:|{s6} Our {reg4?town:village} and the surrounding lands belong to you of course, my {reg59?lady:lord}.
 ; qstr_{s6}_Our_{reg4?town:v|{s6} Our {reg4?town:village} and the surrounding lands belong to {s7} of the {s8}.
-; qstr_{s3}_and_{s5}|{s3} and {s5}
+qstr_{s3}_and_{s5}|{s3} e {s5}
 ; qstr_{reg20?We_mostly_pro|{reg20?We mostly produce {s5} here:We don't produce much here these days}. If you would like to learn more, you can speak with our {reg4?mayor:village elder}. He is nearby, right over there.
 qstr_Mind_your_manners_wi|Comporte-se dentro desses muros e não teremos problemas.
 ; qstr_Bugger_off_stranger.|Bugger off, stranger. Can't you see I am busy watching that plump wench over there?
@@ -2402,8 +2402,8 @@ qstr_{s5}_has_been_defeat|{s5} foi derrotado!
 ; qstr_{s6}^^{s2}|{s6}^^{s2}
 ; qstr_{s6}^^{s2}^Relation:|{s6}^^{s2}^Relation: {s3}^Prosperity: {s50}^Rents: {reg0}
 ; qstr_Kingdom_Centers_Repo|Kingdom Centers Report:^^^--Towns-- {s4}^^^^--Forts-- {s5}^^^^--Villages--{s6}^^
-; qstr_Appoint_next_marshal|Appoint next marshal
-; qstr_Award_{s12}_as_fief|Award {s12} as fief
+qstr_Appoint_next_marshal|Indicar próximo general
+qstr_Award_{s12}_as_fief|Conceder {s12} como feudo
 ; qstr_Kingdom_Global_Info:|Kingdom Global Info:^^{s10}^^{s9}
 ; qstr_From_this_area_you_c|From this area, you can give the following kingdom orders:
 ; qstr_>_Order_the_army_to_|> Order the army to gather.^^> Order all resources to be focused on the defense of the kingdom.^^> Order the landed levy to be called out. This is done only in situations of common peril or high campaign, as the levy requires all free and most capable men of fighting age to join.
@@ -2461,12 +2461,12 @@ qstr_{s5}_has_been_defeat|{s5} foi derrotado!
 ; qstr_You_can_t_sleep._You|You can't sleep. You can hear the constant crunch of the boat hull, smell sea brine, and feel the breeze caressing your face, but your eyes are closed and refuse to open. And your mind keeps dreaming, remembering other times, a past life that feels far away and that you remember less every day, even though not many months have passed since your departure.^^Now, the future is uncertain. Your journey has brought you to the Frisian Sea hoping to find news about an old sorcerer who takes care of all ills, because your mother is sick. For her you left everything behind, a world you knew like the back of your hand, and paid for passage on a north boat, a paunchy merchantman. It's slow and clumsy, but its captain has promised to take you to the remote part of Friese where the sorcerer lives.^^Your mother travels with you; nobody else has joined you. Her illness progresses, and there are days when she no longer recognizes you, but she appears to be completely sound at other times. Every morning you wake up not knowing which day it will be: will you be able to converse with her or will you have to tie her to a post so she does not fall overboard?^^You need to wake up, though your eyes oppose you and your mind boils with fever...^^One more effort. Your eyelids obey...
 ; qstr_You_can_t_have_more_|You can't have more than two active troop quarters.
 ; qstr_The_night_falls_whil|The night falls while the ship, the Woden Ric, crosses the ocean. There is a good wind and the Woden Ric enjoys good sailing away from the site of the battle where it stopped in the morning. The Frisian coast is near by the time you fall asleep.^The ship sails during the night while the shift rotates at the rudder. If all goes well, landfall will occur the next day, and you'll be a little closer to your destination.^If all goes well... if only your nights were not filled with nightmares of ships consumed by fire and drowned men floating on bloody water. You are trapped in this way, costing you escape even to the world of dreams, when a hand shakes you, and a voice calls loudly near your ear.^You open your eyes and see the taciturn face of the captain illuminated by the light of dawn.  You see his lips moving frantically and gradually begin to understand his words...^^
-; qstr_Back_to_the_beginnin|Back to the beginning...
-; qstr_View_next_segment...|View next segment...
-; qstr_Selected_faction_is:|Selected faction is: {s10}^^{s9}
-; qstr_You_are_currently_re|You are currently reading {s8}.
-; qstr_You_are_not_reading_|You are not reading any books.
-; qstr_{s5}_and_{s6}|{s5} and {s6}
+qstr_Back_to_the_beginnin|De volta ao começo...
+qstr_View_next_segment...|Ver próximo segmento...
+qstr_Selected_faction_is:|A fação selecionada é: {s10}^^{s9}
+qstr_You_are_currently_re|Você está lendo {s8}.
+qstr_You_are_not_reading_|Você não está lendo nenhum livro.
+qstr_{s5}_and_{s6}|{s5} e {s6}
 ; qstr_Your_estates_are:_{s|Your estates are: {s8}.^{s9}
 ; qstr_You_don_t_have_the_m|You don't have the money to pay your men to fortify the camp. They do the job, but angrily.
 ; qstr_After_you_buy_the_ma|After you buy the materials, your men build a permanent shelter for you.
@@ -2484,16 +2484,16 @@ qstr_{s5}_has_been_defeat|{s5} foi derrotado!
 ; qstr_Go_to_talk_to_Aelfre|Go to talk to Aelfred (Wessex side) or Halfdan (Danish side).
 ; qstr_off|off
 ; qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} {reg2?accept:accepts} the offer. Cost: {reg0} peningas.
-; qstr_No_one_accepts_the_o|No one accepts the offer.
-; qstr_You_start_reading_{s|You start reading {s2}. After a few pages, you feel you could learn a lot from this book. You decide to keep it close by and read whenever you have the time.
-; qstr_You_flip_through_the|You flip through the pages of {s2}, but you find the text confusing and difficult to follow. Try as you might, it soon gives you a headache, and you're forced to give up the attempt.
+qstr_No_one_accepts_the_o|Ninguém aceita a oferta.
+qstr_You_start_reading_{s|Você começa a ler {s2}. Passadas algumas páginas, você percebe que pode aprender bastante com este livro. Você decide mantê-lo por perto para ler sempre que tiver tempo.
+qstr_You_flip_through_the|Você folheia {s2}, mas percebe que o texto é confuso e difícil de compreender. Por mais que tente ler, você acaba ficando com uma dor de cabeça e desiste da tentativa.
 qstr_Villagers|Habitantes
 ; qstr_Ambush!_The_enemy_ha|Ambush! The enemy has maneuvered to gain a good position, and you fell into an ambush.^^Being ambushed puts you in a poor and disorganized defensive position, and your men will have morale problems and reduced ability to cause damage to your enemies.^^
 ; qstr_You_have_encountered|You have encountered {s1}.^^The warlord encourages his men with a rousing speech. Your enemies have very high morale.^^
 ; qstr_You_have_encountered_|You have encountered {s1}.^^The warlord gathers his men to pray and invoke the protection of their god. Your enemies have high morale.^^
 ; qstr_You_have_encountered_{|You have encountered {s1}.^^Before we were prepared, we were surprised by enemy missile troops. They caused some casualties.^^
-; qstr_You_have_encountered_{s|You have encountered {s1}.
-; qstr_You_have_engaged_{s1|You have engaged {s1} while they were raiding {s3}.
+qstr_You_have_encountered_{s|Você encontrou {s1}.
+qstr_You_have_engaged_{s1|Você travou combate com {s1} enquanto saqueavam {s3}.
 ; qstr_You_were_caught_by_{|You were caught by {s1} while your forces were raiding {s3}.
 ; qstr_{s2}^^You_overhear_o|{s2}^^You overhear one of your more experienced men grumbling about the lack of a battle plan, and you make a mental note to find someone that can make one.^^
 ; qstr_Your_men_feel_uneasy|Your men feel uneasy about attacking innocents.
@@ -2506,26 +2506,26 @@ qstr_Villagers|Habitantes
 ; qstr_Board|Board
 ; qstr_You_need_to_have_50_|You need to have 50 or more men in order to use the commander panel.
 ; qstr_{reg45}_will_be_lost|{reg45} will be lost.
-; qstr_You_were_victorious!|You were victorious!
+qstr_You_were_victorious!|Você venceu!
 ; qstr_The_battle_was_lost.|The battle was lost. Your forces were utterly crushed.
 ; qstr_Your_companions_carr|Your companions carry you away from the fighting.
-; qstr_You_have_defeated_th|You have defeated the enemy.
-; qstr_You_have_retreated_f|You have retreated from the fight.
-; qstr_^^Ally_Casualties:{s|^^Ally Casualties:{s0}
+qstr_You_have_defeated_th|Você derrotou o inimigo.
+qstr_You_have_retreated_f|Você bateu em retirada.
+qstr_^^Ally_Casualties:{s|^^Baixas de aliados:{s0}
 ; qstr_{s1}_of_the_{s3}_man|{s1} of the {s3} managed to escape.
 ; qstr_Your_party_lost_{reg|Your party lost {reg1} morale.
 ; qstr_Your_party_gained_{r|Your party gained {reg1} morale.
 ; qstr_TEST:_Loot_value_bef|TEST: Loot value before: {reg1} and after: {reg2}
 ; qstr_Your_party_gained_{re|Your party gained {reg1} morale for the loot you shared.
 ; qstr_Your_party_lost_{reg1|Your party lost {reg1} morale, because your troops think you keep too much loot for yourself.
-; qstr_Some_of_your_tendons|Some of your tendons have been damaged in the battle. You lose 1 strength.
+qstr_Some_of_your_tendons|Você lesionou alguns tendões durante a batalha e perdeu 1 ponto de força.
 ; qstr_The_wound_you_took_w|The wound you took was pretty nasty and will cause you to limp slightly even after it heals. You lose 1 agility.
 ; qstr_You_have_trouble_thi|You have trouble thinking straight after the battle, perhaps from a particularly hard hit to your head, and frequent headaches now plague your existence. Your intelligence is reduced by 1.
-; qstr_Perhaps_I_m_getting_|Perhaps I'm getting unlucky...
+qstr_Perhaps_I_m_getting_|Talvez eu esteja sem sorte...
 ; qstr_Retirement_is_starti|Retirement is starting to sound better and better.
-; qstr_No_matter!_I_will_pe|No matter! I will persevere!
-; qstr_What_did_I_do_to_des|What did I do to deserve this?
-; qstr_I_suppose_it_ll_make|I suppose it'll make for a good story, at least...
+qstr_No_matter!_I_will_pe|Não importa! Vou persistir!
+qstr_What_did_I_do_to_des|O que fiz para merecer isso?
+qstr_I_suppose_it_ll_make|Pelo menos isso vai dar em uma boa história...
 ; qstr_Player_retreats_from|Player retreats from battle.
 ; qstr_You_have_{reg22}_hea|You have {reg22} head of cattle grazing here.
 ; qstr_{s8}_of_the_{s9}|{s8} of the {s9}
@@ -2584,7 +2584,7 @@ qstr_Villagers|Habitantes
 ; qstr_^^Dun_Taruo_the_fort|^^Dun Taruo, the fortress of the bull. This place seems like the work of giants, and for centuries, the Picts have known its reputation.
 ; qstr_^^The_seat_of_the_br|^^The seat of the brave Goutodin warriors. From here, they launched their attacks against the Bernicians, and their heroic end will never be forgotten. You can almost smell their courage from here, even though Goutodin disappeared long ago.
 ; qstr_^^This_place_is_just|^^This place is just waiting for you to conquer it.
-; qstr_As_a_last_defensive_|As a last defensive effort, you retreat to the main hall of the keep. You and your remaining soldiers will put up a desperate fight here. If you are defeated, there's no other place to fall back to.
+qstr_As_a_last_defensive_|Em uma última investida defensiva, você se retira para o salão principal da fortaleza. Você e seus soldados restantes travarão uma luta desesperada aqui. Se forem derrotados, não haverá outro lugar para onde recuar.
 ; qstr_You_ve_been_driven_a|You've been driven away from the walls. Now the attackers are pouring into the streets. If you can defeat them, you can perhaps turn the tide and save the day.
 ; qstr_You_ve_breached_the_|You've breached the town walls, but the stubborn defenders continue to resist you in the streets! You'll have to deal with them before you can attack the keep at the heart of the town.
 ; qstr_The_town_centre_is_y|The town centre is yours, but the remaining defenders have retreated to the castle. It must fall before you can complete your victory.
@@ -2593,7 +2593,7 @@ qstr_Villagers|Habitantes
 ; qstr_{s10}You_may_decide_|{s10}You may decide to forbid your troops from harming the {reg2?town:fort}, if you want to conquer it for your faction, but your troops may lose morale. 
 ; qstr_{s10}You_can_allow_s|{s10}You can allow some plundering and keep the {reg2?town:fort}. 
 ; qstr_However_since_you_ar|However, since you are not a sworn {reg59?follower:man} of {s9}, there is no chance he would recognize you as the {reg59?lady:lord} of this {reg8?town:fort}.
-; qstr_The_enemy_has_been_f|The enemy has been forced to retreat. The assault is over, but the siege continues.
+qstr_The_enemy_has_been_f|O inimigo foi forçado a recuar. A luta terminou, mas o cerco continua.
 ; qstr_As_you_approach_you_|As you approach, you are spotted by the fort guards, who welcome you and open the gates for their {reg59?queen:king}.
 ; qstr_As_you_approach_you_a|As you approach, you are spotted by the fort guards, who welcome you and open the gates for their {reg59?lady:lord}.
 ; qstr_^Christians_aren_t_w|^Christians aren't welcome here.
@@ -2616,7 +2616,7 @@ qstr_Villagers|Habitantes
 ; qstr_{s10}_{s12}^{s11}{s6|{s10} {s12}^{s11}{s6}{s7}{s15}
 ; qstr_No_one_here_seems_to|No one here seems to be willing to join your party.
 ; qstr_Try_as_you_might_you|Try as you might, you could not defeat the bandits. Infuriated, they raze the village to the ground to punish the peasants, and then leave the burning wasteland behind to find greener pastures to plunder.
-; qstr_castle|castle
+qstr_castle|castelo
 ; qstr_The_{s17}_has_no_imp|The {s17} has no improvements.
 ; qstr_The_{s17}_has_the_fo|The {s17} has the following improvements: {s18}.
 ; qstr___Christian_riots_co| (Christian riots could cause: {reg33} relations drop)
@@ -2628,7 +2628,7 @@ qstr_Villagers|Habitantes
 ; qstr_Going_through_the_ba|Going through the bandits' purses, you discover a dirty torn piece of vellum with the word 'kill' and a portion of your name still visible. Turning the vellum over, you see the scribbles 'Meet me in {s3}.'
 ; qstr_Your_efforts_prove_s|Your efforts prove successful, and some people have changed their beliefs.
 ; qstr_Your_efforts_to_conv|Your efforts to convert people have failed miserably.
-; qstr_You_fail_to_steal_an|You fail to steal any cattle.
+qstr_You_fail_to_steal_an|Você não conseguiu roubar gado.
 ; qstr_You_drive_away_{reg1|You drive away {reg17} head of cattle from the village's herd.
 ; qstr_People_aren_t_very_h|People aren't very happy with your presence in their home.
 ; qstr_^This_town_is_a_bast|^This town is a bastion of your faith.
@@ -2639,8 +2639,8 @@ qstr_Villagers|Habitantes
 ; qstr_You_are_greeted_by_m|You are greeted by men loyal to you.^{s15}
 ; qstr_You_are_greeted_by_me|You are greeted by men loyal to {s7}.^{s15}
 ; qstr__This_town_seems_to_| This town seems to belong to no one.^{s15}
-; qstr__You_have_successful| You have successfully sneaked in.
-; qstr_{s13}_A_tournament_w|{s13} A tournament will be held here soon.
+qstr__You_have_successful|Você conseguiu entrar furtivamente.
+qstr_{s13}_A_tournament_w|{s13} Haverá um torneio aqui em breve.
 qstr_{s10}_{s14}^{s11}{s1|{s10} {s14}^{s11}{s12}{s13}
 ; qstr_An_expensive_horse_i|An expensive horse is awarded to you for your victory.
 ; qstr_A_fat_cow_is_awarded|A fat cow is awarded to you for your victory.
@@ -2648,7 +2648,7 @@ qstr_{s10}_{s14}^{s11}{s1|{s10} {s14}^{s11}{s12}{s13}
 ; qstr_They_give_you_a_fine|They give you a fine sword, worthy of a noble.
 ; qstr_They_appreciate_your|They appreciate your participation in the competition and place a wreath of laurel on your head.
 ; qstr_Moreover_you_earn_{r|Moreover, you earn {reg8} peningas from the clever bets you placed on yourself...
-; qstr_Victory_is_yours!_Yo|Victory is yours! You have won this melee, but now you must prepare yourself for the next round. 
+qstr_Victory_is_yours!_Yo|A vitória é sua! Você venceu este combate, mas agora deve se preparar para a próxima partida.
 ; qstr_You_have_been_bested|You have been bested in this melee, but the master of ceremonies gives special recognition to your skill and bravery, allowing you to take part in the next round. 
 ; qstr_You_were_beaten._The|You were beaten. The peasants are heartened by their success, but the lesson you wanted to teach them probably didn't get through...
 ; qstr_After_beating_your_l|After beating your last opponent, you explain to the peasants how to defend themselves better against such an attack. You hope that they will take the experience to heart and be better prepared next time.
@@ -2677,8 +2677,8 @@ qstr_{s10}_{s14}^{s11}{s1|{s10} {s14}^{s11}{s12}{s13}
 ; qstr_You_fall_on_the_grou|You fall on the ground with multiple injuries. Each time your heart beats more slowly and your vision fades away... This battle was too much for you, and death rides to meet you.^^While life escapes, you hope that someone will just remember that there was once someone special called {playername}.
 ; qstr_After_losing_the_sea|After losing the sea battle, you manage to escape with one of your ships.
 qstr_Your_enemies_take_yo|Seus inimigos levam você como um prisioneiro.
-; qstr_{s13}_asked_you_to_r|{s13} asked you to report to him with at least {reg13} troops.
-; qstr_{s13}_ordered_you_to|{s13} ordered you to join the assault against {s14}.
+qstr_{s13}_asked_you_to_r|{s13} pediu que você se apresentasse a ele com pelo menos {reg13} tropas.
+qstr_{s13}_ordered_you_to|{s13} ordenou que você se junte ao ataque a {s14}.
 ; qstr_Kingdom_Fails_to_Res|Kingdom Fails to Respond: The {s1} has not responded to the {s2}'s provocations, and {s3} suffers a loss of face among {reg4?her:his} more bellicose subjects...
 ; qstr_There_has_been_an_al|There has been an alleged border incident: {s9}
 ; qstr_There_has_been_an_all|There has been an alleged border incident: the people of the {s4} are considering war against the {s3}.

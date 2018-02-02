@@ -585,7 +585,7 @@ dlga_start:village_farmer_talk|Meu {reg59? senhora: Senhor}, somos apenas pobres
 dlga_village_farmer_talk:farmer_bandit_information|Estou caçando um grupo de bandidos com a seguinte descrição... Você os viu?
 dlga_village_farmer_talk:close_window|Veremos o quão pobre você é depois de eu tomar o que você tem!
 dlga_village_farmer_talk:close_window.1|Continue, então. Adeus.
-; dlga_start:sea_king_talk|Ahoy! I'm a lord from {s1}, but my only fief is the sea. What do you want?
+dlga_start:sea_king_talk|Ahoy! Sou lorde  de {s1}, mas o meu só feudo é o sea. O que você quer? 
 ; dlga_start:sea_king_talk.1|Ahoy there! I'm a lord from {s1}, but my only fief is the sea. Seeing how that is, I reckon you're tresspassing on it!
 ; dlga_start:sea_king_talk.2|Ahoy there! I'm a lord from {s1}, but my only fief is the sea. Seeing how that is, I reckon you're tresspassing on it!
 dlga_sea_king_talk:close_window|Prepare sua equipe! Vamos lutar!
@@ -954,28 +954,28 @@ dlga_bodo_carta12:bodo_carta13.2|Bem, vamos falar sobre a carta mais tarde.
 dlga_bodo_carta13:bodo_carta14|Bem, nós dizemos ao Rei Horik que a carta foi destruída durante a luta com Atli Eiriksson. Ele terá que se preocupar com Sigurd 'Cobra no olho' usá-la na Assembleia. Isto irá garantir o seu apoio para sua causa.
 dlga_bodo_carta14:close_window|Não quero perder mais tempo, mas sair desta caverna.
 dlga_brunhild_avisa:companion_brunhild_conv|Sigurd 'Cobra no olho' foi no salão do jarl de Kennemer hidromel em mais de uma ocasião. Ele não é apenas um homem qualquer, meu {reg59? senhora: Senhor}! Você sabe que o jarl de Kennemer é um homem duro, mas ele tremia antes de Sigurd. Sigurd não diz muita coisa, ele nunca sorri, e seus olhos de serpente enfiam-te como se ele estivesse tentando ler seus pensamentos. Eu era apenas um escravo, mas ouvi coisas. As pessoas dizem que ele é o mais perigoso dos filhos de Ragnar, um homem que iria matá-lo só para tossir nas proximidades ou para estar em seu caminho no dia errado.
-; dlga_companion_brunhild_conv:companion_brunhild_conv3|The beautiful Brunhild is right, {playername}. From what I know, Sigurd Ragnarsson is the kind of man that one should avoid. Unfortunately, he blocks our way...
-; dlga_companion_brunhild_conv3:companion_brunhild_conv4|I don't believe it is so bad. You can't trust the jarl of Kennemer, since he is an accomplished actor who uses every possible tool to try to manipulate others. If he saw an advantage in passing as timid before Sigurd, he would've done that. I would be very careful with him, as he's a man who smiles when you face him, and stabs you with a dagger when you turn. With Sigurd, at least, you always know where he is coming from.
-; dlga_companion_brunhild_conv4:companion_brunhild_conv5|Reginhard is talking without knowing him. I've heard things and seen things. Maybe Reginhard was too busy drinking or betraying someone. Sigurd is spiteful, never forgiving -- and never forgetting...
-; dlga_companion_brunhild_conv5:companion_brunhild_conv6|You have the gall, woman, to call me a drunk and traitor to my face! You know nothing about me! Watch your words, or you will have to watch your back.
-; dlga_companion_brunhild_conv6:companion_brunhild_conv71|Brunhild! Reginhard has had a hard life. Don't use what happened to Thiaderd against him.
-; dlga_companion_brunhild_conv6:companion_brunhild_conv72|Reginhard! Overcome your regrets and your past and never threaten a member of this party.
-; dlga_companion_brunhild_conv6:companion_brunhild_conv73|Am I with grown people or children? Silence both you, now! Bodo, what do you think?
-; dlga_companion_brunhild_conv6:companion_brunhild_conv73.1|Bodo, can you give me some advice about Sigurd?
-; dlga_companion_brunhild_conv71:companion_brunhild_conv73|I'm sorry, my {reg59?lady:lord}. I'm sorry, Reginhard. I let my temper get the best of me.
-; dlga_companion_brunhild_conv72:companion_brunhild_conv73|Yes, I see how things work now. I withdraw my threats, but she should watch her words.
-; dlga_companion_brunhild_conv73:companion_brunhild_conv74|We are at crossroads. Sigurd 'Snake in the Eye' has what we need, and your mother's life is in danger. In my opinion, we should go and talk to him, even if it costs us our lives. We have no choice...
-; dlga_companion_brunhild_conv74:companion_brunhild_conv75|Maybe there is another way. There is a powerful man who hates Sigurd: King Horik Gottfredsson of Danmark, Sigurd's king.
-; dlga_companion_brunhild_conv75:companion_brunhild_conv76|Why does his king hate him, Brunhild?
-; dlga_companion_brunhild_conv75:companion_brunhild_conv8|Imagine what you propose. If you were to speak to King Horik, what would you say?
-; dlga_companion_brunhild_conv76:companion_brunhild_conv8|Well, I know only what I've heard. They are enemies. Maybe Sigurd wants to be king himself.
-; dlga_companion_brunhild_conv8:companion_brunhild_conv9|Sigurd would be stupid, then. King Horik could banish him, make him an outcast, and strip him of his lands by denouncing him for the slightest infraction at the Thing.
-; dlga_companion_brunhild_conv9:companion_brunhild_conv10|My knowledge is limited, but perhaps Sigurd is as powerful as the king himself. Or maybe King Horik doesn't want more wars in Danmark, after getting his throne after a long war with the other jarls.
-; dlga_companion_brunhild_conv10:companion_brunhild_conv111|Reginhard, what is this 'thing' you speak of?
-; dlga_companion_brunhild_conv10:companion_brunhild_conv112|Speak with Sigurd or tell King Horik? We have a difficult decision to make.
-; dlga_companion_brunhild_conv111:companion_brunhild_conv112|The Thing or the Assembly is a meeting of free men where disputes are solved and political decisions are made.
-; dlga_companion_brunhild_conv112:companion_brunhild_conv12|I think we should get the protection and support of King Horik. This will give us an advantage when talking to Sigurd and will force him to respect our lives. If King Horik helps us, you can legally claim your mother back.
-; dlga_companion_brunhild_conv12:companion_brunhild_conv13|Do not go straight to Sigurd 'Snake in the Eye' now. It may cause the death of your mother, and perhaps you will lose track of Sven Bull Neck forever. Why not see whether King Horik will support us?
+dlga_companion_brunhild_conv:companion_brunhild_conv3|O lindo Brunhild está certo, {playername}. Pelo que sei, Sigurd Ragnarsson é o tipo de homem que se deve evitar. Infelizmente, ele bloqueia nosso caminho ...
+dlga_companion_brunhild_conv3:companion_brunhild_conv4|Não acredito que seja tão ruim. Você não pode confiar no jarl de Kennemer, pois ele é um ator realizado que usa todas as ferramentas possíveis para tentar manipular os outros. Se ele visse uma vantagem de passar tão tímido antes de Sigurd, ele teria feito isso. Eu terei muito cuidado com ele, como ele é um homem que sorri quando você encarasse ele e apunhalada com uma adaga quando você se virar. Com Sigurd, pelo menos, você sempre sabe de onde ele vem.
+dlga_companion_brunhild_conv4:companion_brunhild_conv5|Reginhard está falando sem conhecê-lo. Ouvi coisas e vi coisas. Talvez Reginhard estivesse ocupado demais bebendo ou traindo alguém. Sigurd é rancoroso, nunca perdoa - e nunca se esqueça ...
+dlga_companion_brunhild_conv5:companion_brunhild_conv6|Você tem a farsa, mulher, para me chamar de bebedor e traidor na minha cara! Você não sabe nada sobre mim! Assista suas palavras, ou você terá que observar suas costas.
+dlga_companion_brunhild_conv6:companion_brunhild_conv71|Brunhild! Reginhard teve uma vida difícil. Não use o que aconteceu com Thiaderd contra ele.
+dlga_companion_brunhild_conv6:companion_brunhild_conv72|Reginhard! Supera seus arrependimentos e seu passado e nunca ameace um membro desta festa.
+dlga_companion_brunhild_conv6:companion_brunhild_conv73|Eu estou com pessoas crescidas ou crianças? Silêncio tanto você, agora! Bodo, o que você acha? 
+dlga_companion_brunhild_conv6:companion_brunhild_conv73.1|Bodo, você pode me dar alguns conselhos sobre Sigurd?
+dlga_companion_brunhild_conv71:companion_brunhild_conv73|Me desculpe, minha {reg59?lady:lord}. Desculpe, Reginhard. Eu deixo minha paciência obter o melhor de mim.
+dlga_companion_brunhild_conv72:companion_brunhild_conv73|Sim, vejo como as coisas funcionam agora. Eu retiro minhas ameaças, mas ela deve observar suas palavras.
+dlga_companion_brunhild_conv73:companion_brunhild_conv74|Estamos na encruzilhada. Sigurd 'Cobra em meu olho' tem o que precisamos, e a vida da sua mãe está em perigo. Na minha opinião, devemos ir falar com ele, mesmo que nos custe nossas vidas. Nós não temos escolha...
+dlga_companion_brunhild_conv74:companion_brunhild_conv75|Talvez haja outra maneira. Há um homem poderoso que odeia a Sigurd: o rei Horik Gottfredsson de Danmark, o rei de Sigurd.
+dlga_companion_brunhild_conv75:companion_brunhild_conv76|Por que o rei o odeio, Brunhild?
+dlga_companion_brunhild_conv75:companion_brunhild_conv8|Imagine o que você propõe. Se você fosse falar com o rei Horik, o que você diria?
+dlga_companion_brunhild_conv76:companion_brunhild_conv8|Bem, eu sei apenas o que eu ouvi. Eles são inimigos. Talvez Sigurd quer ser o próprio rei.
+dlga_companion_brunhild_conv8:companion_brunhild_conv9|Sigurd seria estúpido, então. O rei Horik poderia bani-lo, fazê-lo um pária e tirá-lo de suas terras denunciando-o pela menor infração na Coisa.
+dlga_companion_brunhild_conv9:companion_brunhild_conv10|Meu conhecimento é limitado, mas talvez Sigurd seja tão poderoso quanto o próprio rei. Ou talvez o Rei Horik não queira mais guerras no Danmark, depois de ter seu trono depois de uma longa guerra com os outros jarls.
+dlga_companion_brunhild_conv10:companion_brunhild_conv111|Reginhard, o que é essa "coisa" de que você fala?
+dlga_companion_brunhild_conv10:companion_brunhild_conv112|Fale com Sigurd ou conte ao Rei Horik? Temos uma decisão difícil de tomar.
+dlga_companion_brunhild_conv111:companion_brunhild_conv112|A 'Thing' ou a Assembleia é uma reunião de homens livres em que disputas são resolvidas e decisões políticas são tomadas.
+dlga_companion_brunhild_conv112:companion_brunhild_conv12|Eu acho que devemos obter a proteção e apoio do Rei Horik. Isso nos dará uma vantagem ao falar com Sigurd e o forçará a respeitar nossas vidas. Se o Rei Horik nos ajudar, você pode legalmente reivindicar sua mãe de volta.
+dlga_companion_brunhild_conv12:companion_brunhild_conv13|Não vá direto para Sigurd 'Serpente no Olho' agora. Isso pode causar a morte de sua mãe, e talvez você perca a trilha de Sven Pescoço de Touro para sempre. Por que não vemos se o Rei Horik nos apoiará?
 ; dlga_companion_brunhild_conv13:companion_brunhild_conv14|If I had to choose between going straight to Sigurd and getting myself killed or going to Horik and getting your mother killed, I wouldn't know what to say. You got me out of the hole where I was, so I'm fine with your choice whatever it is.
 ; dlga_companion_brunhild_conv14:close_window|I need to think about it. Thank you, all. We have to continue our travels.
 ; dlga_companion_questions_bodo1:companion_recruit_backstory_responsebodo|Sven Bull Neck came here after the attack. He left some of his men here with us, the prisoners. I also saw him sending ships on a mission to attack Friese. Then he went north. I think something or someone called him there. Rather, I have heard his men say this, but not everything they say is true.
@@ -1153,7 +1153,7 @@ dlga_companion_recruit_signup_confirm:close_window|Ótimo! Me de alguns momentos
 dlga_start:companion_rehire.1|É bom ver que está viv{o/a}, {s5}! {s6}, e eu não sabia se você tinha sido capturad{o/a}, ou mort{o/a}, ou fugido. Eu tenho andado por ai desde aquele dia, procurando por você. Devo preparar meu equipamento e acompanhá-l{o/a}?
 dlga_start:companion_prison_break_chains|Eu vim para te tirar daqui.
 dlga_companion_prison_break_chains:close_window|Agradecer aos céus que você veio! No entanto, eu não vou em qualquer lugar com estas correntes nas minhas pernas. Você precisará obter a chave longe a guarda de alguma forma.
-; dlga_start:close_window.41|I look forward to traveling with you.
+dlga_start:close_window.41|Estou ansioso para viajar com você.
 dlga_start:companion_was_dismissed|É bom ver você, {s21}! Para dizer a verdade, eu esperava encontrar com você.
 ; dlga_companion_was_dismissed:companion_rehire|{s5}. Would you want me to rejoin your shield wall?
 dlga_companion_rehire:companion_recruit_signup_confirm|Bem-vindo novamente, meu amigo!

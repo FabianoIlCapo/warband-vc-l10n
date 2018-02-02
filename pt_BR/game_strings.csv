@@ -71,11 +71,11 @@ str_attack_walls_failure|Seus soldados caem em ondas enquanto atacam os muros, e
 str_order_attack_success|Seus homens lutam bravamente e derrotam o inimigo.
 str_order_attack_failure|Você observa a batalha em desespero enquanto o inimigo aniquila boa parte de seus soldados, fazendo com que o resto fuja.
 str_order_attack_continue|Apesar de uma extensa escaramuça, suas tropas não foram capazes de obter uma vitória decisiva.
-; str_join_order_attack_success|Your men fight well alongside your allies, sharing in the glory as your enemies are beaten.
+str_join_order_attack_success|Seus homens lutam bem ao lado de seus aliados, compartilhando a glória enquanto seus inimigos são espancados.
 str_join_order_attack_failure|Você observa a batalha em desespero enquanto o inimigo aniquila boa parte de seus soldados, fazendo com que o resto fuja.
-; str_join_order_attack_continue|Despite an extended skirmish, neither your troops nor your allies were able to win a decisive victory over the enemy.
+str_join_order_attack_continue|Apesar de uma escaramuça prolongada, nem suas tropas nem seus aliados conseguiram ganhar uma vitória decisiva sobre o inimigo.
 ; str_siege_defender_order_attack_success|The men of the garrison hold their walls with skill and courage, breaking the enemy assault and skillfully turning a seemingly sure defeat into a full-fledged victory.
-; str_siege_defender_order_attack_failure|The assault quickly turns into a bloodbath. Valiant efforts are for naught; the overmatched garrison cannot hold the walls, and the enemy puts every last defender to the sword.
+str_siege_defender_order_attack_failure|A investida rapidamente se torna um banho de sangue. Todos os esforços são em vão; a guarnição, sobrepujada, não consegue defender os muros, e o inimigo passa os últimos defensores ao fio da espada.
 str_siege_defender_order_attack_continue|Repetidas e sangrentas tentativas nos muros falham em obter uma vitória decisiva devido aos muitos inimigos defensores. O cerco continua.
 ; str_hero_taken_prisoner|{s1} of the {s3} has been taken prisoner by the {s2}.
 ; str_hero_freed|{s1} of the {s3} has been freed from captivity by the {s2}.
@@ -485,15 +485,15 @@ str_npc10_backstory_a|É uma longa história, mas se conseguir uma bebida, ficar
 ; str_npc15_backstory_later|The years in Northvegr were not easy. I used to construct pretty stone buildings in Konstantinoupolis, but in Northvegr, everything was made from wood. Eventually, I discovered that wood can also be beautiful. The Varangians have their own style for their dwellings that bears an intimate relationship to their boats.
 ; str_npc16_backstory_later|My mission still goes on. Every day, I bring more sheep to the flock of Christ.
 ; str_npc1_backstory_response_1|I appreciate him giving me a skilled tracker.
-; str_npc2_backstory_response_1|Well, perhaps I could offer you work. Can you fight?
+str_npc2_backstory_response_1|Bem, talvez eu possa lhe oferecer um trabalho. Sabe lutar?
 ; str_npc3_backstory_response_1|Well, I take pity on you, and your healing abilities could be useful.
 ; str_npc4_backstory_response_1|No Picts in my shield wall, and I might be able to hire an extra hand.
-; str_npc5_backstory_response_1|That's the spirit! I might be able to offer you something.
+str_npc5_backstory_response_1|É assim que se fala! Talvez eu possa lhe oferecer algo.
 ; str_npc6_backstory_response_1|You must join us. Our way should remain united.
-; str_npc7_backstory_response_1|Hmm... Are you by any chance looking for work?
+str_npc7_backstory_response_1|Hmm... Por acaso você está à procura de trabalho?
 ; str_npc8_backstory_response_1|I can offer you opportunities and a future.
 ; str_npc9_backstory_response_1|Perhaps you would like to join my shield wall for a while.
-; str_npc10_backstory_response_1|If you're looking for work, I can use experienced fighters.
+str_npc10_backstory_response_1|Se está à procura de trabalho, aceito guerreiros experientes.
 ; str_npc11_backstory_response_1|So you wish to join for luck? Why... of course! Plenty of luck to go around!
 ; str_npc12_backstory_response_1|A doctor, eh? Yes, you are welcome.
 ; str_npc13_backstory_response_1|I might be able to use you in my shield wall.
@@ -1535,7 +1535,7 @@ str_lord_derogatory_result|levar-nos-á a ruína
 ; str_multi_scene_1|Saxon Village
 str_multi_scene_2|Castelo de Din Tagell
 str_multi_scene_3|Castelo de Dun Taruo
-; str_multi_scene_4|Hadrian's Wall
+str_multi_scene_4|Muralha Hadrian
 str_multi_scene_5|Ad Candida Casam
 ; str_multi_scene_6|Hilltop Village
 str_multi_scene_7|Castelo de Din Arth
@@ -1551,7 +1551,7 @@ str_multi_scene_10|Forte Romano
 ; str_multi_scene_17|Abbercurnig
 ; str_multi_scene_18|Rival Strongholds
 ; str_multi_scene_19|Broch
-; str_multi_scene_inv_1|Hadrian's Wall
+str_multi_scene_inv_1|Muralha Hadrian
 ; str_multi_scene_inv_2|Saxon Fort
 str_multi_scene_inv_3|Castelo de Din Bych
 ; str_multi_scene_inv_4|Mynyw Fort
@@ -1702,7 +1702,7 @@ str_dead|Mortos
 ; str_raise_ladder|Raise Ladder
 ; str_drop_ladder|Drop Ladder
 str_cancel|Cancelar
-; str_continue|Continue
+str_continue|Continuar
 str_done|Feito
 str_back|Voltar
 ; str_start_map|Start Map
@@ -2581,7 +2581,7 @@ str_castle|Fort
 ; str_who_do_you_wish_to_give_it_to|Whom do you wish to give it to?
 ; str_sire_my_lady_we_have_taken_s1_s2|{reg59?My Lady:Sire}, we have taken {s1}. {s2}
 ; str_s12i_want_to_have_s1_for_myself|{s12}I want to have {s1} for myself. {s2}
-; str_fiefs_s0|(fiefs: {s0})
+str_fiefs_s0|(feudos: {s0})
 ; str_production_setting_buy_from_market|We are buying raw materials from the market.
 ; str_production_setting_buy_from_inventory|We are only using the raw materials in our inventory.
 ; str_production_setting_produce_to_inventory|We are putting our output into the inventory.

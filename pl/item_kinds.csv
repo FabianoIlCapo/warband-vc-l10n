@@ -28,14 +28,14 @@ itm_tutorial_sword|Zwyczajny miecz
 itm_tutorial_sword_pl|Zwyczajny miecz
 itm_tutorial_axe|Topór
 itm_tutorial_axe_pl|Topór
-itm_tutorial_dagger|Nóż
-itm_tutorial_dagger_pl|Nóż
+itm_tutorial_dagger|Saks
+itm_tutorial_dagger_pl|Saks
 itm_horse_meat|Końskie mięso
 itm_horse_meat_pl|Końskie mięso
 itm_practice_sword|Zwyczajny miecz
 itm_practice_sword_pl|Zwyczajny miecz
-itm_heavy_practice_sword| 
-itm_heavy_practice_sword_pl| 
+; itm_heavy_practice_sword|Goidelic Champion Sword
+; itm_heavy_practice_sword_pl|Goidelic Champion Sword
 itm_practice_dagger|Nóż
 itm_practice_dagger_pl|Nóż
 itm_practice_axe|Topór
@@ -44,8 +44,8 @@ itm_arena_axe|Krótki topór
 itm_arena_axe_pl|Krótki topór
 itm_arena_sword|Zwyczajny miecz
 itm_arena_sword_pl|Zwyczajny miecz
-itm_arena_sword_two_handed| 
-itm_arena_sword_two_handed_pl| 
+; itm_arena_sword_two_handed|Goidelic Champion Sword
+; itm_arena_sword_two_handed_pl|Goidelic Champion Sword
 itm_arena_lance|Włócznia
 itm_arena_lance_pl|Włócznia
 itm_practice_staff|Laga
@@ -160,8 +160,8 @@ itm_arena_turban_green|Czapka
 itm_arena_turban_green_pl|Czapka
 itm_arena_turban_yellow|Czapka
 itm_arena_turban_yellow_pl|Czapka
-; itm_book_tactics|History of the Peloponnesian War, of Thucydides
-; itm_book_tactics_pl|History of the Peloponnesian War, of Thucydides
+itm_book_tactics|Historia Wojny Peloponeskiej Tykudydesa
+itm_book_tactics_pl|Historia Wojny Peloponeskiej Tykudydesa
 itm_book_persuasion|Retoryka do Herenniusza
 itm_book_persuasion_pl|Retoryka do Herenniusza
 itm_book_leadership|Życie Aleksandra WIelkiego
@@ -188,8 +188,8 @@ itm_salt|Sól
 itm_salt_pl|Sól
 itm_tar|Smoła
 itm_tar_pl|Smoła
-; itm_jewelry|Jewellery
-; itm_jewelry_pl|Jewellery
+itm_jewelry|Biżuteria
+itm_jewelry_pl|Biżuteria
 itm_raw_flax|Paczka lnu
 itm_raw_flax_pl|Paczka lnu
 itm_linen|Płótno
@@ -198,10 +198,10 @@ itm_wool|Wełna
 itm_wool_pl|Wełna
 itm_vc_wool_cloth|Tkanina wełniana
 itm_vc_wool_cloth_pl|Tkanina wełniana
-; itm_amber|Amber
-; itm_amber_pl|Amber
-; itm_ivory|Walrus Ivory
-; itm_ivory_pl|Walrus Ivory
+itm_amber|Bursztyn
+itm_amber_pl|Bursztyn
+itm_ivory|Kieł Morsa
+itm_ivory_pl|Kieł Morsa
 itm_silver|Srebro
 itm_silver_pl|Srebro
 itm_iron|Żelazo
@@ -300,26 +300,26 @@ itm_pilgrim_hood|Kaptur pielgrzyma
 itm_pilgrim_hood_pl|Kaptur pielgrzyma
 itm_leather_gloves|Skórzane rękawice
 itm_leather_gloves_pl|Skórzane rękawice
-; itm_carbatinae_1|Leather Shoes
-; itm_carbatinae_1_pl|Leather Shoes
+itm_carbatinae_1|Skórzane buty
+itm_carbatinae_1_pl|Skórzane buty
 itm_carbatinae_2|Płócienne buty
 itm_carbatinae_2_pl|Płócienne buty
-; itm_carbatinae_3|Leather Shoes
-; itm_carbatinae_3_pl|Leather Shoes
-; itm_carbatinae_4|Leather Shoes
-; itm_carbatinae_4_pl|Leather Shoes
+itm_carbatinae_3|Skórzane buty
+itm_carbatinae_3_pl|Skórzane buty
+itm_carbatinae_4|Skórzane buty
+itm_carbatinae_4_pl|Skórzane buty
 itm_carbatinae_5|Płócienne buty
 itm_carbatinae_5_pl|Płócienne buty
-; itm_carbatinae_6|Leather Shoes
-; itm_carbatinae_6_pl|Leather Shoes
+itm_carbatinae_6|Skórzane buty
+itm_carbatinae_6_pl|Skórzane buty
 itm_carbatinae_7|Płócienne buty
 itm_carbatinae_7_pl|Płócienne buty
-; itm_carbatinae_8|Leather Shoes
-; itm_carbatinae_8_pl|Leather Shoes
+itm_carbatinae_8|Skórzane buty
+itm_carbatinae_8_pl|Skórzane buty
 itm_carbatinae_9|Płócienne buty
 itm_carbatinae_9_pl|Płócienne buty
-; itm_carbatinae_10|Leather Shoes
-; itm_carbatinae_10_pl|Leather Shoes
+itm_carbatinae_10|Skórzane buty
+itm_carbatinae_10_pl|Skórzane buty
 itm_carbatinae_vc1|Buty za kostkę
 itm_carbatinae_vc1_pl|Buty za kostkę
 itm_carbatinae_vc2|Buty za kostkę
@@ -332,16 +332,16 @@ itm_carbatinae_vc5|Buty za kostkę
 itm_carbatinae_vc5_pl|Buty za kostkę
 itm_carbatinae_vc6|Buty za kostkę
 itm_carbatinae_vc6_pl|Buty za kostkę
-; itm_carbatinae_1s|Leather Shoes
-; itm_carbatinae_1s_pl|Leather Shoes
+itm_carbatinae_1s|Skórzane buty
+itm_carbatinae_1s_pl|Skórzane buty
 itm_carbatinae_2s|Płócienne buty
 itm_carbatinae_2s_pl|Płócienne buty
 itm_carbatinae_3s|Płócienne buty
 itm_carbatinae_3s_pl|Płócienne buty
-; itm_carbatinae_4s|Rawhide Shoes
-; itm_carbatinae_4s_pl|Rawhide Shoes
-; itm_carbatinae_5s|Rawhide Shoes
-; itm_carbatinae_5s_pl|Rawhide Shoes
+itm_carbatinae_4s|Buty z nieopalonej skóry
+itm_carbatinae_4s_pl|Buty z nieopalonej skóry
+itm_carbatinae_5s|Buty z nieopalonej skóry
+itm_carbatinae_5s_pl|Buty z nieopalonej skóry
 itm_carbatinae_6s|Buty za kostkę
 itm_carbatinae_6s_pl|Buty za kostkę
 ; itm_carbatinae_vc1s|Quality Wrapping Boots
@@ -360,18 +360,18 @@ itm_carbatinae_3v|Płócienne buty
 itm_carbatinae_3v_pl|Płócienne buty
 ; itm_carbatinae_4v|Quality Wrapping Boots
 ; itm_carbatinae_4v_pl|Quality Wrapping Boots
-; itm_carbatinae_5v|Rawhide Shoes
-; itm_carbatinae_5v_pl|Rawhide Shoes
+itm_carbatinae_5v|Buty z nieopalonej skóry
+itm_carbatinae_5v_pl|Buty z nieopalonej skóry
 itm_carbatinae_6v|Płócienne buty
 itm_carbatinae_6v_pl|Płócienne buty
 itm_carbatinae_vc1v|Buty za kostkę
 itm_carbatinae_vc1v_pl|Buty za kostkę
 ; itm_carbatinae_vc2v|Quality Wrapping Boots
 ; itm_carbatinae_vc2v_pl|Quality Wrapping Boots
-; itm_carbatinae_11q|Leather Shoes
-; itm_carbatinae_11q_pl|Leather Shoes
-; itm_carbatinae_12q|Leather Shoes
-; itm_carbatinae_12q_pl|Leather Shoes
+itm_carbatinae_11q|Skórzane buty
+itm_carbatinae_11q_pl|Skórzane buty
+itm_carbatinae_12q|Skórzane buty
+itm_carbatinae_12q_pl|Skórzane buty
 ; itm_carbatinae_11qs|Quality Wrapping Boots
 ; itm_carbatinae_11qs_pl|Quality Wrapping Boots
 ; itm_carbatinae_12qs|Quality Wrapping Boots
@@ -384,12 +384,12 @@ itm_carbatinae_vc1v_pl|Buty za kostkę
 ; itm_carbatinae_14qv_pl|Quality Wrapping Boots
 ; itm_bare_foot_man|Cheap Shoes
 ; itm_bare_foot_man_pl|Cheap Shoes
-; itm_just_man_boots_medium|Rawhide Shoes
-; itm_just_man_boots_medium_pl|Rawhide Shoes
+itm_just_man_boots_medium|Buty z nieopalonej skóry
+itm_just_man_boots_medium_pl|Buty z nieopalonej skóry
 ; itm_just_man_boots_light|Light Ankle Boots
 ; itm_just_man_boots_light_pl|Light Ankle Boots
-; itm_just_man_shoes|Leather Shoes
-; itm_just_man_shoes_pl|Leather Shoes
+itm_just_man_shoes|Skórzane buty
+itm_just_man_shoes_pl|Skórzane buty
 ; itm_just_man_boots_dark|Light Ankle Boots
 ; itm_just_man_boots_dark_pl|Light Ankle Boots
 ; itm_gaelshoes_1|Goidelic Shoes

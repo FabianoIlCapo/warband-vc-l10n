@@ -1,4 +1,4 @@
-dlga_start:blocked_agent|Esta persona perece ocupada. Quizá debería continuar...
+dlga_start:blocked_agent|Esta persona perece ocupada. Tal vez debería seguir adelante...
 dlga_blocked_agent:close_window|Perdón. No pretendía molestarle.
 dlga_blocked_agent:close_window.1|[Irse sin más]
 dlga_dog_talk_2:close_window|¡Ven aquí!
@@ -64,179 +64,179 @@ dlga_port_chief_pick_up_ship2:port_chief_pick_up_ship3|¡Sí!
 dlga_port_chief_pick_up_ship2:port_chief2|No, aún no.
 dlga_port_chief_pick_up_ship3:port_chief2|Lo sentimos, su habilidad Rey del Mar no es suficientemente alto como para añadir un barco adicional a su flota actual en este puerto.
 dlga_port_chief_pick_up_ship3:close_window|Bueno, echa un vistazo y dale un nombre.
-; dlga_port_chief_pick_up_ship3:port_chief2.1|There is not enough room left in the port for another ship.
-; dlga_port_chief3:port_chief_build_ship_main|I want you to build me a ship.
-; dlga_port_chief_build_ship_main:port_chief_build_ship_main_1|What kind of ship do you want to have?
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2|I just need a little Byrding.
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.1|I want a Knorr for trading.
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.2|A good attack Snekkja!
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.3|I'm interested in a double-sized warship. A Skeid, please.
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.4|I have many warriors. Can you build a Busse for me?
-; dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.5|I need a good, all-around ship. I want a Karvi.
+dlga_port_chief_pick_up_ship3:port_chief2.1|No hay espacio suficiente en el puerto para otro barco.
+dlga_port_chief3:port_chief_build_ship_main|Quiero que me construyas un barco.
+dlga_port_chief_build_ship_main:port_chief_build_ship_main_1|¿Qué tipo de barco quieres tener?
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2|Solo necesito un pequeño Byrding.
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.1|Quiero un Knorr para intercambiar.
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.2|¡Un buen ataque, Snekkja!
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.3|Estoy interesado en un buque de guerra del doble de tamaño. Un Skeid, por favor.
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.4|Tengo muchos guerreros. ¿Podéis construir un Busse para mí?
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.5|Necesito un buen, enorme barco. Quiero un Karvi.
 dlga_port_chief_build_ship_main_1:port_chief2|Cambié de opinión
-; dlga_port_chief_build_ship_main_2:port_chief_build_ship_main|Sorry, I'm not skilled enough. Only the Norse are able to build a {s11}.
-; dlga_port_chief_build_ship_main_2:port_chief_info_main_3|What kind of wood would you like to use?
-; dlga_port_chief_info_main_3:port_chief_build_ship_main_4|Oak wood. I want quality.
-; dlga_port_chief_info_main_3:port_chief_build_ship_main_4.1|Pine would be fine.
-; dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|I don't want to spend so much money. I want ash wood.
+dlga_port_chief_build_ship_main_2:port_chief_build_ship_main|Perdón, no soy lo suficientemente hábil. Sólo los nórdicos son capaces de construir un {s11}.
+dlga_port_chief_build_ship_main_2:port_chief_info_main_3|¿Qué tipo de madera os gustaría utilizar?
+dlga_port_chief_info_main_3:port_chief_build_ship_main_4|Madera de roble. Quiero calidad.
+dlga_port_chief_info_main_3:port_chief_build_ship_main_4.1|La madera de pino está bien.
+dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|No quiero gastar mucho dinero. Quiero madera de fresno.
 dlga_port_chief_info_main_3:port_chief2|Cambié de opinión
-; dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|To build your {s11} out of {s12} wood I ask {reg11} peningas for my work. {s2}It will take {reg12} days to build this ship.
-; dlga_port_chief_build_ship_main_5:port_chief_build_ship_main_6|Build this ship for me!
-; dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_1|Err, does it look like I am a merchant? I don't have these things with me.
-; dlga_port_chief_build_ship_missing_1:port_chief2|Sorry, but I can't finish your ship without these materials. Buy them and come back once you have everything ready.
-; dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_2|I don't have enough peningas right now.
-; dlga_port_chief_build_ship_missing_2:port_chief2|Sorry, but I need to feed my family and pay the workers. When you get the money, then come back and see me.
-; dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_3|I will consider this and may come back later.
-; dlga_port_chief_build_ship_missing_3:port_chief2|Take your time, but trust me. My ships are worth every pening.
-; dlga_port_chief_build_ship_main_6:port_chief2|Very well! Come back in {reg12} days.
-; dlga_port_chief3:close_window|Nothing, for now. Farewell.
-; dlga_port_chief_fleet1:port_chief_fleet2|{s2}^^Heill, {playername}. I see you have made a name for yourself in this land. It makes me happy to think that my business with you has helped in this. That should deserve a line or two in any saga about you! The fleet of Sven and Harald is across the bay. It numbers fifty boats, many of them war ships, totalling over 800 men. Have you finished your affairs in Danmark? Are you ready to leave? I warrant you won't be back soon!
-; dlga_port_chief_fleet2:the_fleetmt1|Yes, let's get started. Let's board my men.
-; dlga_the_fleetmt1:close_window|Well, good luck Vinr. Although you can see many boats here, most of the fleet is anchored over in the bay, outside the city. Join them as soon as you feel ready!
-; dlga_port_chief_fleet2:port_chief2|No, I need to finish some things. I will be back.
-; dlga_port_chief_catach:port_chief_catach2|{s2}^^Well, give me the book, and I will tell you what you asked about.
-; dlga_port_chief_catach2:port_chief_catach31|Here, take it. Now, Sven's hideout?
-; dlga_port_chief_catach2:port_chief_catach32|Unfortunately, I lost the book. Would you take money instead?
-; dlga_port_chief_catach32:port_chief_catach4|My client will not be happy, and people will know you're not reliable. My client would've paid me 10,000 peningas for the book. Do you have that kind of money?
-; dlga_port_chief_catach4:port_chief_catach5|I've got the money. Here, take it, and tell me where Sven is!
-; dlga_port_chief_catach4:port_chief2|Unfortunately, no. I will be back as soon as I have it.
-; dlga_port_chief_catach5:port_chief_catach5_1|Oh my, you're a rich {reg59?woman:man}! The hideout is here, in Danmark, southeast of Ribe, up the river. Far thu vel.
+dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|Para construir vuestro {s11} sin madera de {s12} pido {reg11} peningas por mi trabajo. {s2} Costará {reg12} días construir el barco.
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_main_6|¡Construid este barco para mí!
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_1|Err, ¿le parezco un mercader? No tengo esas cosas conmigo.
+dlga_port_chief_build_ship_missing_1:port_chief2|Lo siento, pero no puedo terminar vuestro barco sin esos materiales. Compradlos y volved cuando lo tengáis todo listo.
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_2|No tengo suficientes peningas ahora mismo.
+dlga_port_chief_build_ship_missing_2:port_chief2|Lo siento, pero tengo que alimentar a mi familia y pagar a los trabajadores. Cuanto tengáis el dinero, volved a verme.
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_3|Lo consideraré y quizá vuelva más tarde.
+dlga_port_chief_build_ship_missing_3:port_chief2|Tomaos vuestro tiempo, pero confiad en mí. Mis barcos valen cada pening.
+dlga_port_chief_build_ship_main_6:port_chief2|¡Muy bien! Volved en {reg12} días.
+dlga_port_chief3:close_window|Por ahora, nada. Adiós.
+dlga_port_chief_fleet1:port_chief_fleet2|{s2}^^Heill, {nombre de jugador}. veo que os habéis hecho un nombre por estas tierras. Me hace feliz pensar que mi negocio con vos ha ayudado en ello. ¡Eso debería merecer una o dos líneas en cualquier saga sobre vos! La flota de Sven y Harald está al otro lado de la bahía. Cuenta cincuenta barcos, muchos de ellos buques de guerra, un total de más de 800 hombres. ¿Habéis terminado vuestros asuntos en Danmark? ¿Estáis listo para partir? ¡Os garantizo que no volveréis pronto!
+dlga_port_chief_fleet2:the_fleetmt1|Sí, empecemos. Embarquemos a mis hombres.
+dlga_the_fleetmt1:close_window|Bien, buena suerte, Vinr. Aunque podéis ver muchos botes aquí, la mayor parte de la flota está anclada en la bahía, fuera de la ciudad. ¡Oníos a ella tan pronto como os sintáis preparado!
+dlga_port_chief_fleet2:port_chief2|No, necesito terminar algunas cosas. Volveré.
+dlga_port_chief_catach:port_chief_catach2|{s2}^^Bien, entregadme el libro, y os diré sobre qué preguntásteis.
+dlga_port_chief_catach2:port_chief_catach31|Cogedlo. Ahora, ¿la guarida de Sven?
+dlga_port_chief_catach2:port_chief_catach32|Por desgracia, perdí el libro. ¿Aceptaréis dinero en su lugar?
+dlga_port_chief_catach32:port_chief_catach4|Mi cliente no estará contento, y la gente sabrá que no sois de fiar. Mi cliente me habría pagado 10,000 peningas por el libro. ¿Tenéis vos ese dinero?
+dlga_port_chief_catach4:port_chief_catach5|Tengo el dinero. Cogedlo, ¡y decidme dónde está Sven!
+dlga_port_chief_catach4:port_chief2|Por desgracia, no. Volveré tan pronto como lo consiga.
+dlga_port_chief_catach5:port_chief_catach5_1|¡Dios mío, sois un {reg59?woman:man} rico! La guarida está aquí, en Danmark, al sureste de Ribe, río arriba. Far thu vel.
 dlga_port_chief_catach5_1:port_chief2|Gracias.
-; dlga_port_chief_catach31:port_chief_catach31_1|Well, thank you. The hideout is here, in Danmark, southeast of Ribe, up the river. Far thu vel.
+dlga_port_chief_catach31:port_chief_catach31_1|Bien, gracias. La guarida está aquí, en Danmark, al sureste de Ribe, río arriba. Far thu vel.
 dlga_port_chief_catach31_1:port_chief2|Gracias.
-; dlga_port_chief_svenlair:port_chief_svenlair2|{s2}^^Why so loud, friend? Nobody in port needs to know what we are talking about. I see someone has told you about me. That's fine. It's how businesses thrive.^^Well, you want to know the location. It is not hard to get, but it has a cost, of course, and not a cheap one. Bull Neck Sven is a dangerous man.
-; dlga_port_chief_svenlair2:port_chief_svenlair3|{s2}^^Listen carefully. Fortunately, I need someone like you. I need you to become, hmm, a 'raider' of sort, and go to Eriuland. I have a client who wants a book kept in a monastery there as a relic. The monastery is called Gleann Da Loch. The name of the book is the 'The Cathach of Colum Cille.' I am really only interested in the book. Anything else you take is yours. Bring me that book, and you will know where Sven Bull Neck is hiding.
-; dlga_port_chief_svenlair3:port_chief_svenlair31|Sounds good! I'll bring you the book. I will see you soon.
-; dlga_port_chief_svenlair3:port_chief_svenlair32|I neither plunder monasteries nor kill monks.
-; dlga_port_chief_svenlair3:port_chief_svenlair33|I prefer to forget about that book and offer peningas for the information.
-; dlga_port_chief_svenlair31:close_window|Well, I'll be here. I suggest you repair and provision your ship. The trip to Eriuland is long. And bring enough men, for the Eriu war enough on each other to have become quite good at it. Far thu vel.
-; dlga_port_chief_svenlair32:close_window|Then buy the book. I do not care how you get it. Just bring it. And I suggest you repair and provision your ship. The trip to Eriuland is long. And bring enough men, for the Godelic war enough on each other to have become quite good at it. Far thu vel.
-; dlga_port_chief_svenlair33:port_chief_svenlair4|Well, isn't that an interesting option? My client offers me 10,000 peningas for the book. Do you have that kind of money?
-; dlga_port_chief_svenlair4:port_chief_svenlair5|I've got the money. Take it, and tell me where Sven is hiding.
-; dlga_port_chief_svenlair4:port_chief_svenlair31|Unfortunately, not that kind of money. I'll bring the book. I will see you soon.
-; dlga_port_chief_svenlair5:port_chief_svenlair5_1|Oh, my, you're a rich man! The hideout is here, in Danmark, southeast of Ribe, up the river. Far thu vel.
+dlga_port_chief_svenlair:port_chief_svenlair2|{s2}^^¿Por qué tan alto, amigo? Nadie en el puerto necesita saber de qué estamos hablando. Veo que alguien os ha hablado de mí. Eso está bien. Es cómo prosperan los negocios.^^Bien, queréis saber la ubicación. No es difícil de conseguir, pero tiene un precio, por supuesto, y no uno barato. Sven Cuello de Toro es un hombre peligroso.
+dlga_port_chief_svenlair2:port_chief_svenlair3|{s2}^^Escuchad con atención. Por suerte, Necesito a alguien como vos. Necesito que os convirtáis en, hmm, un tipo de «saqueador», y vayáis a Eriuland. Tengo un cliente que quiere guardar un libro en un monasterio de allí como una reliquia. El monasterio se llama Gleann Da Loch. El nombre del libro es «El Cathach de Colum Cille.» En realidad yo sólo estoy interesado en el libro. Cualquier otra cosa que encontréis es vuestra. Traedme ese libro, y sabréis dónde se esconde Sven Cuello de Toro.
+dlga_port_chief_svenlair3:port_chief_svenlair31|¡Suena bien! Os traeré el libro. Os veré pronto.
+dlga_port_chief_svenlair3:port_chief_svenlair32|Yo no saqueo monasterios ni mato monjes.
+dlga_port_chief_svenlair3:port_chief_svenlair33|Prefiero olvidarme de ese libro y ofrecer peningas por la información.
+dlga_port_chief_svenlair31:close_window|Bien, estaré aquí. Os sugiero que reparéis y aprovisioéis vuestra nave. El viaje a Eriuland es largo. Y traed suficientes hombres, suficientes para la guerra de Eriu para haberse hecho bastante bueno en eso. Far thu vel.
+dlga_port_chief_svenlair32:close_window|Después comprad el libro. No me importa que lo cojáis. Sólo traedlo. Y os sugiero que reparéis y aprovisionéis vuestra nave. El viaje a Eriuland es largo. Y traed suficientes hombres, suficientes para la guerra de Godelic para haberse hecho bastante bueno en eso. Far thu vel.
+dlga_port_chief_svenlair33:port_chief_svenlair4|Bien, ¿no es esa una opción interesante? Mi cliente me ofrece 10,000 peningas por el libro. ¿Tenéis esa cantidad?
+dlga_port_chief_svenlair4:port_chief_svenlair5|Tengo el dinero. Cogedlo, y decidme dónde se esconde Sven.
+dlga_port_chief_svenlair4:port_chief_svenlair31|Por desgracia, no tanto dinero. Traeré el libro. Os veré pronto.
+dlga_port_chief_svenlair5:port_chief_svenlair5_1|¡Oh, dios mío, sois un hombre rico! La guarida está aquí, en Danmark, al sureste de Ribe, río arriba. Far thu vel.
 dlga_port_chief_svenlair5_1:port_chief2|Gracias.
-; dlga_port_chief_bodoletter1:port_chief_bodoletter2|{s2}^^Why do you always talk so loudly? Well, you know me, I'm a good source of information, but everything has a price.
-; dlga_port_chief_bodoletter2:port_chief_bodoletter3|{s2}^^Listen carefully. This info is especially valuable. We are talking about the number two man in Danmark, Sigurd 'Snake in the Eye.' How about 12,000 peningas? Do you have this kind of money? If not, perhaps you could do me a little favor instead. I have a client who needs to move some furs to Dubh Linn, in Eriuland. Why wouldn't you take the furs for me? In return, I will give you the information.
-; dlga_port_chief_bodoletter3:port_chief_bodoletter_pieles|Well, deal. I will take the skins for you.
-; dlga_port_chief_bodoletter3:port_chief_bodoletter4|Oh, I've got the money. Here it is. Where is he now?
-; dlga_port_chief_bodoletter3:port_chief_bodoletter7|But we're old friends, man. For old business associates, would you not offer a discount?
-; dlga_port_chief_bodoletter3:port_chief_bodoletter3_1|Unfortunately, no. I'll return soon with the money.
-; dlga_port_chief_bodoletter_pieles:close_window|Glad to hear that. Go to Dubh Linn and deliver the furs to a man named Hogni. He is the merchant there. You will find him easily. I would suggest carrying other goods, to sell in those distant lands. Once you return here with the receipt, you will get your information.
-; dlga_port_chief_bodoletter3_1:port_chief2|Then come back when you have the money. I have no time for beggars.
-; dlga_port_chief_bodoletter4:port_chief_bodoletter5|Aren't you a rich man! Well, Atli Eiriksson is in Northvegr. At least, that's what one of his men told a whore here. Apparently, Atli carries something important that needs to be hidden...for now. He is hiding in a cave on the north coast of Northvegr, near Hordaland. Far thu vel.
+dlga_port_chief_bodoletter1:port_chief_bodoletter2|{s2}^^¿Por qué siempre habláis tan alto? Bien, me conocéis, soy una buena fuente de información, pero todo tiene un precio.
+dlga_port_chief_bodoletter2:port_chief_bodoletter3|{s2}^^Escuchad atentamente. Esta información es especialmente valiosa. Hablamos del hombre número dos en Danmark, Sigurd «Serpiente en el Ojo.» ¿Qué tal 12,000 peningas? ¿Tenéis esa cantidad? Si no, tal vez podáis hacerme un pequeño favor en su lugar. Tengo un cliente que necesita llevar algunas pieles a Dubh Linn, en Eriuland. ¿Por qué no lleváis las pieles por mí? A cambio, os daré la información.
+dlga_port_chief_bodoletter3:port_chief_bodoletter_pieles|Bien, trato hecho. Llevaré las pieles por vos.
+dlga_port_chief_bodoletter3:port_chief_bodoletter4|Oh, tengo el dinero. Aquí está. ¿Dónde está él ahora?
+dlga_port_chief_bodoletter3:port_chief_bodoletter7|Pero somos viejos amigos, hombre. Para viejos socios comerciales, ¿no ofrecerías un descuento?
+dlga_port_chief_bodoletter3:port_chief_bodoletter3_1|Por desgracia, no. Volveré pronto con el dinero.
+dlga_port_chief_bodoletter_pieles:close_window|Me alegra oír eso. Id a Dubh Linn y entregad las pieles a un hombre llamado Hogni. Él es el mercader allí. Le encontraréis fácilmente. Sugeriría llevar otros bienes, para vender en esas tierras lejanas. Una vez regreséis aquí con el recibo, obtendréis vuestra información.
+dlga_port_chief_bodoletter3_1:port_chief2|Entonces volved cuando tengáis el dinero. No tengo tiempo para mendigos.
+dlga_port_chief_bodoletter4:port_chief_bodoletter5|¡No sois un hombre rico! Bien, Atli Eiriksson está en Northvegr. Al menos, eso es lo que uno de sus hombres le dijo a una puta aquí. Al parecer, Atli lleva algo importante que necesita ser escondido... por ahora. Se oculta en una cueva en la costa norte de Northvegr, cerca de Hordaland. Far thu vel.
 dlga_port_chief_bodoletter5:port_chief2|Gracias.
-; dlga_port_chief_bodoletter7:port_chief_bodoletter8|Hmm, well, just this one time, but do not tell anyone, I have my reputation to uphold. Eight thousand peningas, and this info is yours. Got the money?
-; dlga_port_chief_bodoletter8:port_chief_bodoletter9|Yes, I sure do. Take it. Where is he?
-; dlga_port_chief_bodoletter8:port_chief_bodoletter3_1|Unfortunately, no. I'll return soon with the money.
-; dlga_port_chief_bodoletter9:port_chief_bodoletter5|Well, but remember, no more discounts. Well, Atli Eiriksson is in Northvegr. At least, that's what one of his men told a whore here. Apparently, Atli carries something important that needs to be hidden...for now. He has gone to hide in a cave on the north coast of Northvegr, near Hordaland. Far thu vel.
-; dlga_port_chief_pieles:port_chief_bodoletter5|I like doing business with you. Well, Atli Eiriksson is in Northvegr. At least, that's what one of his men told a whore here. Apparently, Atli carries something important that needs to be hidden...for now. He has gone to hide in a cave on the north coast of Northvegr, near Hordaland. Far thu vel.
-; dlga_start:port_prisoners|Who are you?
-; dlga_port_prisoners:port_prisoners_2|Are you looking for a slave trader? {s9} wouldn't prosper without my slaves, so if you have any prisoners of war, I'd be willing to buy them.
-; dlga_port_prisoners_2:port_prisoners_3|I've brought some prisoners.
+dlga_port_chief_bodoletter7:port_chief_bodoletter8|Hmm, bien, sólo esta vez, pero no se lo digáis a nadie, tengo una reputación que mantener. Ocho mil peningas, y esta información es vuestra. ¿Conseguísteis el dinero?
+dlga_port_chief_bodoletter8:port_chief_bodoletter9|Sí, estoy seguro. Cogedlo. ¿Dónde está él?
+dlga_port_chief_bodoletter8:port_chief_bodoletter3_1|Por desgracia, no. Volveré pronto con el dinero.
+dlga_port_chief_bodoletter9:port_chief_bodoletter5|Bien, pero recordad, no más descuentos. Bien, Atli Eiriksson está en Northvegr. Al menos, eso es lo que uno de sus hombres le dijo a una puta aquí. Al parecer, Atli lleva algo importante que necesita ser escondido... por ahora. Ha ido a esconderse en una cueva en la costa norte de Northvegr, cerca de Hordaland. Far thu vel.
+dlga_port_chief_pieles:port_chief_bodoletter5|Me gusta hacer negocios con vos. Bien, Atli Eiriksson está en Northvegr. Al menos, eso es lo que uno de sus hombres le dijo a una puta aquí. Al parecer, Atli lleva algo importante que deve ser escondido... por ahora. Ha ido a esconderse a una cueva en la costa norte de Northvegr, cerca de Hordaland. Far thu vel.
+dlga_start:port_prisoners|¿Quién sois?
+dlga_port_prisoners:port_prisoners_2|¿Estáis buscando un comerciante de esclavos? {s9} no prosperaría sin mis esclavos, así que si tenéis prisioneros de guerra, estaré encantado de comprarlos.
+dlga_port_prisoners_2:port_prisoners_3|He traído algunos prisioneros.
 dlga_port_prisoners_2:close_window|Adiós.
-; dlga_port_prisoners_3:port_prisoners_4|Nice to hear. Let's go.
+dlga_port_prisoners_3:port_prisoners_4|Me alegra oírlo. Vamos.
 dlga_port_prisoners_4:close_window|Ha sido un placer hacer negocios con vos...
-; dlga_start:port_r_2|Greetings. I'm a veteran captain who monitors activity at the port of {s9}. If you are interested in hiring unemployed sailors, let me know.
+dlga_start:port_r_2|Saludos. Soy un capitán veterano que monitorea la actividad en el puerto de {s9}. Si estáis interesado en contratar marineros desempleados, hacédmelo saber.
 dlga_port_crew_talk:port_r_2|¿Hay algo más que pueda hacer por vos?
-; dlga_port_r_2:port_recruitsl|I want to recruit sailors.
-; dlga_port_recruitsl:port_crew_talk|There are no available sailors in the port at this time. Come back later, {reg59?madam:sir}.
-; dlga_port_recruitsl:port_crew_talk.1|I don't think anyone would be interested, {reg59?madam:sir}. You need to have more room in your party.
-; dlga_port_recruitsl:port_recruits2|I can think of {reg5} who I suspect would jump at the chance if you could pay 40 peningas {reg7?each for their equipment:for his equipment}. Does that suit you?
-; dlga_port_recruits2:port_crew_talk|Tell {reg7?them:him} to get ready.
+dlga_port_r_2:port_recruitsl|Quiero reclutar marineros.
+dlga_port_recruitsl:port_crew_talk|No hay marineros disponibles en el puerto en este momento. Volved más tarde, {reg59?madam:sir}.
+dlga_port_recruitsl:port_crew_talk.1|No creo que alguien esté interesado, {reg59?madam:sir}. Necesitáis tener más espacio en vuestro grupo.
+dlga_port_recruitsl:port_recruits2|Puedo pensar que {reg5} saltaría a la oportunidad si pudiérais pagar 40 peningas {reg7?each por su equipamiento:por su equipamiento}. ¿Eso os va bien?
+dlga_port_recruits2:port_crew_talk|Decidle a {reg7?them:him} que se prepare.
 dlga_port_recruits2:port_crew_talk.1|No, ahora no.
-; dlga_port_r_2:port_crew_fleetpr|My name is {playername}...
-; dlga_port_crew_fleetpr:close_window|Sorry, I'm busy preparing the boats and supplies for a fleet. If you do not need sailors, please leave me alone and come back later.
-; dlga_port_r_2:port_crew_fleet1|My name is {playername}. Aetheling Aelfred sent me.
-; dlga_port_r_2:port_crew_fleet1.1|My name is {playername}. Jarl Rathbarth send me.
-; dlga_port_crew_fleet1:port_crew_fleet2|^^Greetings, {playername}. I was notified about your arrival. You are in charge of a fleet bound for Frankia. There are men, guides and boats waiting for you to join them out of port.
-; dlga_port_crew_fleet2:the_fleetcrew1|Yes, the time has come. Douar-an-Enez awaits me.
-; dlga_the_fleetcrew1:close_window|I was told it would be weeks, even months out, so good luck. Your fleet is waiting for you at the exit of the port. Take your boat and go with them.
-; dlga_port_crew_fleet2:close_window|No, I need to finish some things. I will be back.
-; dlga_port_r_2:close_window|I want to go. Farewell.
-; dlga_start:close_window.5|Why are you bothering me? I'm busy! I have no time for people like you. Come back another day. Or better yet, don't.^^--It seems that Sigurd is not willing to receive you now. You'll need to look for another way to find out information about Sven.--
-; dlga_start:kinghorik_quest_danmarkprot|This is a good place away from prying ears. Now, talk.
-; dlga_start:kinghorik_quest_revenge4|This is a good place away from prying ears. Now, talk.
-; dlga_start:kinghorik_quest_thething1|Heill, {playername}.
-; dlga_start:svenbn_hunting1_1|Heill, {playername}, vinr. Thanks to you, today we have won this battle! West Seaxe is now ours! But I guess you care more about Sven Bull Neck's location, right? Well, he got away, but not far. He has taken Readingum and has made a stronghold there, but my men have followed. I have put a hersir in my confidence, Arnvid, in charge of the mission. Meet him at Readingum. His men are at your disposal if you decide to assault the place.
-; dlga_start:svenbn_hunting1_1.1|Salve, {playername}! The Danish are on the run and have lost many jarls in this battle. Although there are still many of them left, we have achieved an important victory, and they will not be so bold in the future.^^I have some news for you. Sven Bull Neck has fled back to Readingum and has fortified himself in there. My men, led by a man named Eadric, have followed him. They will be at your disposal when you arrive. The moment is yours! Go to Readingum and settle your accounts with Sven Bull Neck.
-; dlga_start:close_window.6|Sorry, this is not a good time to talk.
-; dlga_start:close_window.7|Sorry, this is not a good time to talk.
-; dlga_start:close_window.8|Sorry, this is not a good time to talk.
-; dlga_start:close_window.9|Sorry, this is not a good time to talk.
-; dlga_start:close_window.10|Sorry, this is not a good time to talk.
-; dlga_start:close_window.11|What do you want? I do not have time for you! Get yourself a priest!
-; dlga_start:close_window.12|Mael Bresail wants to talk to you.
-; dlga_start:close_window.13|Sorry, this is not a good time to talk.
-; dlga_start:conversation_companioncamp|--You find your companion in his usual part of the camp.--
-; dlga_start:close_window.14|I'm busy right now, {playername}. We'll talk later.
-; dlga_start:close_window.15|{reg59?Lady:Sir}, everything is in order in the camp.
-; dlga_conversation_companioncamp:beda_conversationcamp1|My {reg59?lady:lord}, sometimes I think, as we travel along the northern lands, what a dismal world we live in. I have read many books, but none of them talks about the violence and many dangers that we go through daily. 
-; dlga_beda_conversationcamp1:beda_conversationcamp2|Well, I think the Danish are the hordes of Gog and Magog that will come at the last hour of the world and that the Kingdom of West Seaxe is the last human kingdom trying to fight the inevitable before the Second Coming.
-; dlga_beda_conversationcamp2:beda_conversationcamp3|Err...can you explain that Gog and Magog thing?
-; dlga_beda_conversationcamp2:close_window|Very interesting, but I don't have time for this right now.
-; dlga_beda_conversationcamp3:beda_conversationcamp4|Oh, well, the Bible mentions Gog as a leader of the horde coming from the land of Magog in the far north. In Ezekiel's prophecy, Gog leads a great army of skilled warriors from many different nations. They will attack the nation of men chosen by God, and there will be a great battle that will affect the whole world. I think that this is what is happening now, with all these pagans advancing over Englaland.
-; dlga_beda_conversationcamp4:beda_conversationcamp6|We need to focus on the here and now. When the End comes, I assure you we won't miss it.
-; dlga_beda_conversationcamp4:close_window|You worry too much, and I do not have time for this.
-; dlga_beda_conversationcamp6:close_window|Yes, that's true. I tend to worry too much about things. I will enjoy the day.
-; dlga_conversation_companioncamp:egil_conversationcamp1|{playername}, I like you, but sometimes I think you're too naive as a leader. Allow me to give you some advice.
-; dlga_egil_conversationcamp1:egil_conversationcamp2|I don't want to offend you, but I think you should take advantage of my experience. As you know, I grew up in the court of the king. I spend a lot of time in Ribe, where I meet the greatest warlords and their commanders.
-; dlga_egil_conversationcamp2:close_window|I do not need your lessons.
-; dlga_conversation_companioncamp:donnachdh_conversationcamp1|Salve warlord, you should know that I'm from Eriu and descend directly from ancient warriors. Even my mother came from the old clan that the hero Cu Chulainn belonged to.
-; dlga_donnachdh_conversationcamp1:donnachdh_conversationcamp2|Eriu is divided into small clans that are grouped under the ones that are more powerful. These form kingdoms, for ages five in number. It is very important for each clan to show its power, and they often fight small wars. We mostly fight against neighboring clans, where rivalry tends to flourish, but many times larger clans lead others to wars between kingdoms, because the most important men of the island aspire to the throne of Tara. Being the master of Tara means you are the high king, Ard Ruire, of all Eriu, and that brings much glory for your clan.
-; dlga_donnachdh_conversationcamp2:donnachdh_conversationcamp3|So many rivalries make things easy for the Vikings.
-; dlga_donnachdh_conversationcamp2:donnachdh_conversationcamp3_2|So many wars produce very tough warriors.
-; dlga_donnachdh_conversationcamp2:donnachdh_conversationcamp3_3|Someone should unite all the clans.
-; dlga_donnachdh_conversationcamp2:close_window|I'm interested very little in this.
-; dlga_donnachdh_conversationcamp3:donnachdh_conversationcamp4|I admit that the Vikings have managed to become strong in some parts of the island, but they are as divided as we are. In fact, I dare say that they are already part of the way we do things in Eriu. It is not uncommon to see Vikings fighting alongside Goidels against other Vikings. The kings of Eriu have taken to hiring them as mercenaries, and Vikings often serve rival clans who face each other.
-; dlga_donnachdh_conversationcamp3_2:donnachdh_conversationcamp4|Yes, that's true. War eliminates the weakest and forces men to learn how fight. It is definitely a good place to get warriors for your army. On the other hand, if you let yourself be entangled by Goidelic politics or you try to become king of Tara, you will realize that the island has certain political traditions and that nothing you do will ever change Eriu.
-; dlga_donnachdh_conversationcamp3_3:donnachdh_conversationcamp4|All men and clans covet the throne of Tara, but really hardly anyone is capable of sitting in it. Those who try tend to have short lives, but always another man and another clan come along, and the cycle continues. If the throne of Tara is ever yours, may you enjoy it as long as possible. Your clan will be famous and respected, but your life will be very short.
-; dlga_donnachdh_conversationcamp4:close_window|Surely, Eriu, or Hibernia, as the Romans called it, is a different land. Forget everything you know, Eriu is different!
-; dlga_conversation_companioncamp:donnachdh_dwywei_conv1|Every time I give an order in your name, Dwywei questions my authority among your men. Now she is gathering with some warriors to mutter against me. I do not understand this hate, as we both are from the same kingdom.
-; dlga_donnachdh_dwywei_conv1:donnachdh_dwywei_conv2|The Scots of Dal Riata are bloody traitors. They came from Eriu to take our western lands. Some years ago, we lost our beloved king Bridei fighting against the Norsemen, and most of the Pictish nobility died with him. Then Cinaed mac Ailpin, the king of Dal Riata, disputed the Pictish crown with the surviving members of the seven royal houses of the Picts.
-; dlga_donnachdh_dwywei_conv2:donnachdh_dwywei_conv3|-- She grits her teeth --^^Cinaed defeated us in battle and later met all claimants to the Pictish crown at Scone. They feasted while mead and ale flowed freely. What happened next is known as Mac Ailpin's treason: 'the Conqueror' killed all our nobles and became the only claimant for the Pictish Crown. Now his successor, the king of Alban, rules over both the Picts and the Scots. Who can trust in this traitor's race? Me? No!
-; dlga_donnachdh_dwywei_conv3:donnachdh_dwywei_conv4|Stupid and stubborn Picts...
-; dlga_donnachdh_dwywei_conv4:donnachdh_dwywei_conv5|Forget this old enmity. Now you have a common enemy. Together you must face the Norsemen.
-; dlga_donnachdh_dwywei_conv4:donnachdh_dwywei_conv6|I understand your concern about the Scots, but Donnachdh has proven to be a man of honor.
-; dlga_donnachdh_dwywei_conv4:donnachdh_dwywei_conv7|Is this how Scots are? Then I hate them, too. Dirty traitors!
-; dlga_donnachdh_dwywei_conv5:close_window|As you wish.
-; dlga_donnachdh_dwywei_conv6:close_window|I understand that Donnachdh is not guilty of what happened. I'll try being nicer to him.
-; dlga_donnachdh_dwywei_conv7:close_window|I hope, for your sake, that you are kidding, but I don't find you so funny.
-; dlga_conversation_companioncamp:morgant_conversationcamp1|{reg59?My lady:Sir}, in Cornubia men with guts are a dying breed. In the past, we were a proud people, and our holdings stretched across southern Britannia. Then the Saxons came, and we lost the land.
-; dlga_morgant_conversationcamp1:morgant_conversationcamp2|Now the sea brings the Danish, as previously it did the Angles and the Saxons. Now, the Saxons fear losing this land they took from us to the Danish. Isn't fate ironic?
-; dlga_morgant_conversationcamp2:morgant_conversationcamp3|Sure, but don't bother me about Saxons. They will lose what they stole.
-; dlga_morgant_conversationcamp2:morgant_conversationcamp3_2|The Saxons are strong. They will resist the Danish.
-; dlga_morgant_conversationcamp2:close_window|I have very little interest in this.
-; dlga_morgant_conversationcamp3:morgant_conversationcamp4|It is possible. Maybe God has a sense of humor or our prayers have brought the Danish to punish the Saxons. But who cares? Britannia is lost to the Britons.
-; dlga_morgant_conversationcamp3_2:morgant_conversationcamp4|You mean we were weak? I think not! It is true that we were disunited and unlucky with our kings, but Arthur showed that it was possible to defeat the Saxons. We can only regret that there was no one to pick up his legacy. Britannia is now lost for us.
-; dlga_morgant_conversationcamp4:morgant_conversationcamp5|Britannia will be returned to the Britons. I swear I will do it.
-; dlga_morgant_conversationcamp4:morgant_conversationcamp5_1|Forget the past and focus on the present.
-; dlga_morgant_conversationcamp5:close_window|I appreciate your words, but both of us know that, even if you conquer the whole island, Britannia of today has nothing in common with Britannia of yore. It will not be the same.
-; dlga_morgant_conversationcamp5_1:close_window|Yes, you're right. There is little sense in mourning the past. Let us return to the present.
-; dlga_conversation_companioncamp:dwywei_conversationcamp1|{playername}, my parents were important people in Pictland, and their grandparents before them, and all my ancestors. They were descendants on the maternal side -- the one that matters to Picts -- of royal blood.
-; dlga_dwywei_conversationcamp1:dwywei_conversationcamp2|However, there have been many changes in the kingdom known as Alban. Our people are mixing with our old enemies, the Goidels of Dal Riata, and my family was disgraced. I tried to recover our prestige as a warrior, but since the Picts embraced Christ, women have been excluded from this profession more and more each day. Ultimately, I failed, and my family paid with their lives for my failure.
-; dlga_dwywei_conversationcamp2:dwywei_conversationcamp3|I do not normally talk about this, but I would like to say I have found a new family while traveling with you. This helps me to ease the burden of my past. For years, I hated the current kings of Alban. Now I don't care any more. My failure and the new laws of our land brought about the end of my family. I just pray that you don't judge me harshly for my past.
-; dlga_dwywei_conversationcamp3:dwywei_conversationcamp4|What happened is in the past. You are very important to me.
-; dlga_dwywei_conversationcamp3:dwywei_conversationcamp4_2|Thanks for sharing your story with me. I'm glad you found peace with yourself.
-; dlga_dwywei_conversationcamp3:close_window|You caused the death of your family, and you do not want to be judged harshly? Nonsense!
-; dlga_dwywei_conversationcamp4:close_window|--She looks down shyly--^^You are also very important to me. Oh, well, I have things to do.
-; dlga_dwywei_conversationcamp4_2:close_window|Thank you for your understanding.
-; dlga_conversation_companioncamp:dwyweiromance_conversationcamp1|{playername}, although you see me fight hard in battles, mark my body with war paint, and scream while I stab our enemies...
-; dlga_dwyweiromance_conversationcamp1:dwyweiromance_conversationcamp3|You know I'm a shy person, right?
-; dlga_dwyweiromance_conversationcamp3:dwyweiromance_conversationcamp4|I did not know that.
-; dlga_dwyweiromance_conversationcamp3:dwyweiromance_conversationcamp4_2|Yes, I know.
-; dlga_dwyweiromance_conversationcamp3:close_window|I have little time now to hear about this. We'll talk later.
-; dlga_dwyweiromance_conversationcamp4:close_window|Oh, I see. Well, well, I... we'll talk another day...
-; dlga_dwyweiromance_conversationcamp4_2:close_window|What I mean is that I can say things, but I want you to know that I admire and appreciate you very much. Well, I do not want to talk more about this. It is cumbersome. We'll talk another day.
-; dlga_conversation_companioncamp:dwyweiromance2_conversationcamp1|I need to talk to you, {playername}. It is a very serious issue for me, but I will raise it only once.
-; dlga_dwyweiromance2_conversationcamp1:dwyweiromance2_conversationcamp3|You know I'm interested in you, appreciate you and like you. I think you feel the same way when you look at me, but I'm not sure. Can it be...?
-; dlga_dwyweiromance2_conversationcamp3:dwyweiromance2_conversationcamp4|Yes, Dwywei, I like you a lot.
-; dlga_dwyweiromance2_conversationcamp3:dwyweiromance2_conversationcamp4_2|Sorry, but I'm not interested in you.
-; dlga_dwyweiromance2_conversationcamp4:dwyweiromance2_conversationcamp5|I am happy to hear you say that! I guess this means we're together, yes?
-; dlga_dwyweiromance2_conversationcamp4_2:close_window|I'm sorry, I'm sorry, I feel embarrassed. I thought... I was wrong. Sorry, I will not bother you any more. Now, I have things to do.
-; dlga_dwyweiromance2_conversationcamp5:dwyweiromance2_conversationcamp6|Yes, Dwywei, you are my woman now.
-; dlga_dwyweiromance2_conversationcamp5:dwyweiromance2_conversationcamp7|No. It was just a joke. I'm not interested in you at all.
-; dlga_dwyweiromance2_conversationcamp6:close_window|I am so happy! I love you. I am going to put my things in your tent!
+dlga_port_r_2:port_crew_fleetpr|Mi nombre es {playername}...
+dlga_port_crew_fleetpr:close_window|Lo siento, estoy ocupado preparando los barcos y suministros para una flota. Si no necesitáis marineros, dejadme en paz y volved más tarde, por favor.
+dlga_port_r_2:port_crew_fleet1|Mi nombre es {playername}. Me ha enviado Aetheling Aelfred.
+dlga_port_r_2:port_crew_fleet1.1|Mi nombre es {playername}. Me ha enviado Jarl Rathbarth.
+dlga_port_crew_fleet1:port_crew_fleet2|^^Saludos, {playername}. Me avisaron de vuestra llegada. Estáis al cargo de una flota con destino a Frankia. Hay hombres, guías y barcos esperando que os unáis a ellos fuera del puerto.
+dlga_port_crew_fleet2:the_fleetcrew1|Sí, ha llegado el momento. Douar-an-Enez me espera.
+dlga_the_fleetcrew1:close_window|Me dijeron que pasarían semanas, incluso meses, así que buena suerte. Vuestra flota os espera en la salida del puerto. Tomad vuestro bote e id con ellos.
+dlga_port_crew_fleet2:close_window|No, necesito terminar algunas cosas. Volveré.
+dlga_port_r_2:close_window|Quiero ir. Adiós.
+dlga_start:close_window.5|¿Por qé me estáis molestando? ¡Estoy ocupado! No tengo tiempo para gente como vos. Volved otro día. O mejor aún, no lo hagáis.^^--Parece que Sigurd no está dispuesto a recibiros ahora. Tendréis que buscar otra forma de encontrar información sobre Sven.--
+dlga_start:kinghorik_quest_danmarkprot|Este es un buen lugar lejos de oídos indiscretos. Ahora, hablad.
+dlga_start:kinghorik_quest_revenge4|Este es un buen lugar lejos de oídos indiscretos. Ahora, hablad.
+dlga_start:kinghorik_quest_thething1|Heill, {playername}.
+dlga_start:svenbn_hunting1_1|Heill, {playername}, vinr. ¡Gracias a vos, hoy hemos ganado esta batalla! ¡Seaxe occidental es ahora nuestra! Pero supongo que os importa más la ubicación de Sven Cuello de Toro, ¿verdad? Bueno, él escapó, pero no muy lejos. Ha tomado Readingum y ha hecho una fortaleza allí, pero mis hombres le han seguido. He puesto un hersir en mi confianza, Arnvid, a cargo de la misión. Reuníos con él en Readingum. Sus hombres están a vuestra disposición si decide atacar el lugar.
+dlga_start:svenbn_hunting1_1.1|¡Salve, {playername}! Los daneses están huyendo y han perdido muchos jarls en esta batalla. Aunque todavía quedan muchos de ellos, hemos logrado una victoria importante, y no serán tan audaces en el futuro.^^tengo algunas noticias para vos. Sven Cuello de Toro ha huido a Readingum y se ha fortalecido allí. Mis hombres, liderados por un hombre llamado Eadric, le han seguido. Estarán a vuestra disposición cuando llegue. ¡Es vuestro momento! Id a Readingum y saldad vuestras cuentas con Sven Cuello de Toro.
+dlga_start:close_window.6|Lo siento, este no es un buen momento para hablar.
+dlga_start:close_window.7|Lo siento, este no es un buen momento para hablar.
+dlga_start:close_window.8|Lo siento, este no es un buen momento para hablar.
+dlga_start:close_window.9|Lo siento, este no es un buen momento para hablar.
+dlga_start:close_window.10|Lo siento, este no es un buen momento para hablar.
+dlga_start:close_window.11|¿Qué queréis? ¡No tengo tiempo para vos! ¡Conseguid un sacerdote!
+dlga_start:close_window.12|Mael Bresail desea hablar con vos.
+dlga_start:close_window.13|Lo siento, este no es un buen momento para hablar.
+dlga_start:conversation_companioncamp|--Encuentra a su compañero en su lugar habitual del campamento.--
+dlga_start:close_window.14|Ahora mismo estoy ocupado, {playername}. Hablaremos más tarde.
+dlga_start:close_window.15|{reg59?Lady:Sir}, todo está en orden en el campamento.
+dlga_conversation_companioncamp:beda_conversationcamp1|Mi {reg59?lady:lord}, a veces pienso, mientras viajamos por las tierras del norte, en el triste mundo en el que vivimos. He leído muchos libros, pero ninguno de ellos habla sobre la violencia y los muchos peligros que atravesamos a diario. 
+dlga_beda_conversationcamp1:beda_conversationcamp2|Bien, Creo que los daneses son las hordas de Gog y Magog que vendrán en la última hora del mundo y que el Reino de Seaxe Occidental es el último reino humano que intenta luchar contra lo inevitable antes de la Segunda Venida.
+dlga_beda_conversationcamp2:beda_conversationcamp3|Eh... ¿podéis explicar eso de Gog y Magog?
+dlga_beda_conversationcamp2:close_window|Muy interesante, pero ahora mismo no tengo tiempo para esto.
+dlga_beda_conversationcamp3:beda_conversationcamp4|Oh, bien , la Biblia menciona a Gog como un líder de la horda que viene de la tierra de Magog en el lejano norte. En la profecía de Ezequiel, Gog dirige un gran ejército de hábiles guerreros de diferentes naciones. Atacarán a la nación de hombres elegidos por Dios, y habrá una gran batalla que afectará al mundo entero. Creo que esto es lo que está sucediendo ahora, con todos estos paganos avanzando sobre Englaland.
+dlga_beda_conversationcamp4:beda_conversationcamp6|Necesitamos enfocarnos en el aquí y ahora. Cuando llegue el final, te aseguro que no nos lo perderemos.
+dlga_beda_conversationcamp4:close_window|Os preocupáis demasiado, y no tengo tiempo para esto.
+dlga_beda_conversationcamp6:close_window|Sí, es cierto. Tiendo a preocuparme demasiado por las cosas. Disfrutaré el día.
+dlga_conversation_companioncamp:egil_conversationcamp1|{playername}, me gustáis, pero a veces creo que sois demasiado ingenuo como líder. Permitidme daros un consejo.
+dlga_egil_conversationcamp1:egil_conversationcamp2|No quiero ofenderos, pero creo que deberíais aprovechar mi experiencia. Como sabéis, crecí en la corte del rey. Pasé mucho tiempo en Ribe, donde conozco a los mejores señores de la guerra y sus comandantes.
+dlga_egil_conversationcamp2:close_window|No necesito vuestras lecciones.
+dlga_conversation_companioncamp:donnachdh_conversationcamp1|Salve, señor de la guerra, deberíais saber que soy de Eriu y desciendo directamente de antiguos guerreros. Incluso mi madre vino del antiguo clan al que pertenecía el héroe Cu Chulainn.
+dlga_donnachdh_conversationcamp1:donnachdh_conversationcamp2|Eriu se divide en pequeños clanes que se agrupan bajo los que son más poderosos. Estos forman cinco reinos, durante generaciones. Es muy importante que cada clan muestre su poder y, a menudo, lucha en pequeñas guerras. Principalmente luchamos contra los clanes vecinos, donde la rivalidad tiende a florecer, pero muchas veces los clanes más grandes llevan a otros a guerras entre reinos, porque los hombres más importantes de la isla aspiran al trono de Tara. Ser el amo de Tara significa que eres el gran rey, Ard Ruire, de todos los Eriu, y eso trae mucha gloria a tu clan.
+dlga_donnachdh_conversationcamp2:donnachdh_conversationcamp3|Tantas rivalidades hacen las cosas más fáciles para los vikingos.
+dlga_donnachdh_conversationcamp2:donnachdh_conversationcamp3_2|Tantas guerras producen guerreros muy duros.
+dlga_donnachdh_conversationcamp2:donnachdh_conversationcamp3_3|Alguien debería unir a todos los clanes.
+dlga_donnachdh_conversationcamp2:close_window|Estoy muy poco interesado en esto.
+dlga_donnachdh_conversationcamp3:donnachdh_conversationcamp4|Admito que los vikingos han logrado fortalecerse en algunas partes de la isla, pero están tan divididos como nosotros. De hecho, me atrevo a decir que ya son parte de la forma en la que hacemos las cosas en Eriu. No es raro ver a los vikingos luchando junto a Goidels contra otros vikingos. Los reyes de Eriu han comenzado a contratarles como mercenarios, y los vikingos a menudo sirven a clanes rivales que se enfrentan entre sí.
+dlga_donnachdh_conversationcamp3_2:donnachdh_conversationcamp4|Sí, eso es cierto. La guerra elimina al más débil y obliga a los hombres a aprender cómo luchar. Definitivamente es un buen lugar para conseguir guerreros para vuestro ejército. On the other hand, si os dejáis enredar por la política g de Goidelic o tratáis de convertiros en rey de Tara, os daréis cuenta de que la isla tiene ciertas tradiciones políticas y que nada delo que hagáis cambiará Eriu.
+dlga_donnachdh_conversationcamp3_3:donnachdh_conversationcamp4|Todos los hombres y clanes codician el trono de Tara, pero realmente casi nadie es capaz de sentarse en él. Aquellos que lo intentan tienden a tener vidas cortas, pero siempre viene otro hombre y otro clan, y el ciclo continúa. Si el trono de Tara es vuestro alguna vez, podéis disfrutarlo durante el mayor tiempo posible. Vuestro clan será famoso y respetado, pero vuestra vida será muy corta.
+dlga_donnachdh_conversationcamp4:close_window|Seguramente, Eriu, o Hibernia, como lo llamaron los romanos, es un país diferente. Olvidad todo lo que sabéis, ¡Eriu es diferente!
+dlga_conversation_companioncamp:donnachdh_dwywei_conv1|Cada vez que doy una orden a vuestro nombre, Dwywei cuestiona mi autoridad entre vuestros hombres. Ahora ella se está reuniendo con algunos guerreros para murmullar contra mí. No entiendo este odio, ya que ambos somos del mismo reino.
+dlga_donnachdh_dwywei_conv1:donnachdh_dwywei_conv2|Los escoceses de Dal Riata son traidores sangrientos. Vinieron de Eriu para tomar nuestras tierras occidentales. Hace algunos años, perdimos a nuestro amado Rey Bridei luchando contra los escandinavos, y la mayor parte de la nobleza picta murió con él. Entonces Cinaed mac Ailpin, el rey de Dal Riata, disputado la corona picta con los miembros sobrevivientes de las siete casas reales de los pictos.
+dlga_donnachdh_dwywei_conv2:donnachdh_dwywei_conv3|-- Ella aprieta los dientes --^^Cinaed nos derrotó en la batalla y después se reunió con todos los demandantes de la corona de los pictos en Scone. Se dieron un banquete mientras el aguamiel y la cerveza corrían libremente. ¿Qué pasó después de la traición de Mac Ailpin?: «el Conquistador» mató a todos nuestros nobles y se convirtió en el único demandante de la Corona picta. Ahora su sucesor, el rey de Alban, gobierna sobre los pictos y los escoceses. ¿Quién puede confiar en la raza de este traidor? ¿No? ¡No!
+dlga_donnachdh_dwywei_conv3:donnachdh_dwywei_conv4|Estúpidos y testarudos pictos...
+dlga_donnachdh_dwywei_conv4:donnachdh_dwywei_conv5|Olvidad esta vieja enemistad. Ahora tenéis un enemigo común. Deben enfrentarse a los escandinavos unidos.
+dlga_donnachdh_dwywei_conv4:donnachdh_dwywei_conv6|Entiendo vuestra preocupación por los escoceses, pero Donnachdh ha demostrado ser un hombre de honor.
+dlga_donnachdh_dwywei_conv4:donnachdh_dwywei_conv7|¿Son así los escoceses? Entonces también les odio. ¡Sucios traidores!
+dlga_donnachdh_dwywei_conv5:close_window|Como deseéis
+dlga_donnachdh_dwywei_conv6:close_window|Entiendo que Donnachdh no es culpable de lo que sucedió. Trataré de ser más amable con él.
+dlga_donnachdh_dwywei_conv7:close_window|Espero, por vuestro bien, que estéis bromeando, pero no os encuentro tan gracioso.
+dlga_conversation_companioncamp:morgant_conversationcamp1|{reg59?My lady:Sir}, en Cornubia, los hombres con agallas son una raza en extinción. En el pasado, éramos gente orgullosa, y nuestras propiedades se extendían por el sur de Britannia. Luego vinieron los sajones y perdimos la tierra.
+dlga_morgant_conversationcamp1:morgant_conversationcamp2|Ahora el mar trae a los daneses, como anteriormente hizo con los alglos y los sajones. Ahora, los sajones temen perder esta tierra contra los daneses. ¿No es irónico el destino?
+dlga_morgant_conversationcamp2:morgant_conversationcamp3|Claro, pero no me molestes con los sajones. Ellos perderán lo que robaron.
+dlga_morgant_conversationcamp2:morgant_conversationcamp3_2|Los sajones son fuertes. Resistirán contra los daneses.
+dlga_morgant_conversationcamp2:close_window|Tengo muy poco interés en esto.
+dlga_morgant_conversationcamp3:morgant_conversationcamp4|Es posible. Tal vez Dios tiene sentido del humor o nuestras oraciones han llevado a los daneses a castigar a los sajones. ¿Pero a quién le importa? Britannia está perdida para los británicos.
+dlga_morgant_conversationcamp3_2:morgant_conversationcamp4|¿Queréis decir que fuimos débiles? ¡Yo creo que no! Es cierto que fuimos desunidos y desafortunados con nuestros reyes, pero Arturo demostró que era posible vencer a los sajones. Solo podemos lamentar que no haya nadie para recoger su legado. Britannia está ahora perdida para nosotros.
+dlga_morgant_conversationcamp4:morgant_conversationcamp5|Britannia será devuelta a los británicos. Juro que lo haré.
+dlga_morgant_conversationcamp4:morgant_conversationcamp5_1|Olvidad el pasado y concentráos en el presente.
+dlga_morgant_conversationcamp5:close_window|Aprecio vuestras palabras, pero ambos sabemos que, incluso si conquistáis toda la isla, la Britannia de hoy no tiene nada en común con la Britannia de antaño. No será lo mismo.
+dlga_morgant_conversationcamp5_1:close_window|Sí, tenéis razón. No tiene sentido llorar por el pasado. Volvamos al presente.
+dlga_conversation_companioncamp:dwywei_conversationcamp1|{playername}, mis padres fueron personas importantes en Pictland, y sus abuelos antes que ellos, y todos mis antepasados. Eran descendientes por el lado materno -- el que le importa a los pictos -- de sangre real.
+dlga_dwywei_conversationcamp1:dwywei_conversationcamp2|Sin embargo, ha habido muchos cambios en el reino conocido como Alban. Nuestra gente se está mezclando con nuestros viejos enemigos, los Goidels de Dal Riata, y mi familia fue deshonrada. Traté de recuperar nuestro prestigio como guerrero, pero desde que los pictos abrazaron a Cristo, las mujeres han sido excluidas de esta profesión cada día más. Al final, fallé, y mi familia pagó con sus vidas por mi fracaso.
+dlga_dwywei_conversationcamp2:dwywei_conversationcamp3|Normalmente no hablo de esto, pero me gustaría decir que he encontrado una nueva familia cuando viajo con vos. Esto me ayuda a aliviar la carga de mi pasado. Durante años, odié a los reyes actuales de Alban. Ya no me importa. Mi fracaso y las nuevas leyes de nuestra tierra provocaron el fin de mi familia. Solo pido que no me juzguéis duramente por mi pasado.
+dlga_dwywei_conversationcamp3:dwywei_conversationcamp4|Lo que pasó quedó en el pasado. Vos sois muy importante para mí.
+dlga_dwywei_conversationcamp3:dwywei_conversationcamp4_2|Gracias por compartir vuestra historia conmigo. Me alegra que hayáis encontrado paz con vos mismo.
+dlga_dwywei_conversationcamp3:close_window|¿Causasteis la muerte de vuestra familia y no queréis que os juzguen con dureza? ¡Tonterías!
+dlga_dwywei_conversationcamp4:close_window|--Ella baja la mirada tímidamente--^^Tú también eres muy importante para mí. Oh, bueno, tengo cosas que hacer.
+dlga_dwywei_conversationcamp4_2:close_window|Gracias por vuestra comprensión.
+dlga_conversation_companioncamp:dwyweiromance_conversationcamp1|{playername}, aunque me veis pelear duro en las batallas, marcar mi cuerpo con pintura de guerra y gritar mientras apuñalo a nuestros enemigos...
+dlga_dwyweiromance_conversationcamp1:dwyweiromance_conversationcamp3|Sabéis que soy una persona tímida, ¿verdad?
+dlga_dwyweiromance_conversationcamp3:dwyweiromance_conversationcamp4|No lo sabía.
+dlga_dwyweiromance_conversationcamp3:dwyweiromance_conversationcamp4_2|Sí, lo sé.
+dlga_dwyweiromance_conversationcamp3:close_window|Tengo poco tiempo para hablar de esto. Hablaremos más tarde.
+dlga_dwyweiromance_conversationcamp4:close_window|Oh, ya veo. Bien, bien, yo... Hablaremos otro día...
+dlga_dwyweiromance_conversationcamp4_2:close_window|Lo que quiero decir es que puedo decir cosas, pero quiero que sepáis que os admiro y aprecio mucho. Bien, no quiero hablar más de esto. Es incómodo. Hablaremos otro día.
+dlga_conversation_companioncamp:dwyweiromance2_conversationcamp1|Necesito hablar con vos, {playername}. Es un problema muy serio para mí, pero lo plantearé solo una vez.
+dlga_dwyweiromance2_conversationcamp1:dwyweiromance2_conversationcamp3|Sabéis que estoy interesado en vos, os aprecio y me gustáis. Creo que sentís lo mismo cuando me miráis, pero no estoy segura. ¿Puede ser...?
+dlga_dwyweiromance2_conversationcamp3:dwyweiromance2_conversationcamp4|Sí, Dwywei, me gustáis mucho.
+dlga_dwyweiromance2_conversationcamp3:dwyweiromance2_conversationcamp4_2|Lo siento, pero no estoy interesado en vos.
+dlga_dwyweiromance2_conversationcamp4:dwyweiromance2_conversationcamp5|¡Me alegra oíros decir eso! Supongo que esto significa que estamos juntos, ¿no?
+dlga_dwyweiromance2_conversationcamp4_2:close_window|Lo siento, lo siento, me siento avergonzado. Creí... Estaba equivocada. Lo siento, no os molestaré más. Ahora, tengo cosas que hacer.
+dlga_dwyweiromance2_conversationcamp5:dwyweiromance2_conversationcamp6|Sí, Dwywei, sois mi mujer ahora.
+dlga_dwyweiromance2_conversationcamp5:dwyweiromance2_conversationcamp7|No. Sólo ha sido una broma. No estoy interesado en vos en absoluto.
+dlga_dwyweiromance2_conversationcamp6:close_window|¡Soy muy feliz! Os amo. ¡Voy a poner mis cosas en vuestra tienda!
 ; dlga_dwyweiromance2_conversationcamp7:close_window|A joke? You're a jerk! What kind of person kids about things like that? Leave me alone. I do not want to see you any more.
 ; dlga_conversation_companioncamp:reginhard1_conversationcamp1|My friend, some of your men are muttering because the food is disgusting. Do you want their names?
 ; dlga_reginhard1_conversationcamp1:reginhard1_conversationcamp2|I really appreciate your concern, Reginhard.
@@ -342,11 +342,11 @@ dlga_helgi_conversationcamp2:helgi_conversationcamp4|Os escucho.
 ; dlga_conversation_companioncamp:helgiromance2_conversationcamp1|I need to talk, {playername}. It is a very serious issue for me, but I will only raise it once.
 ; dlga_helgiromance2_conversationcamp1:helgiromance2_conversationcamp3|You know, I'm interested in you, appreciate you and like you. I think you feel the same way when you look at me, but I'm not sure.
 ; dlga_helgiromance2_conversationcamp3:helgiromance2_conversationcamp4|Yes, Helgi, I like you a lot.
-; dlga_helgiromance2_conversationcamp3:helgiromance2_conversationcamp4_2|Sorry, but I'm not interested in you.
+dlga_helgiromance2_conversationcamp3:helgiromance2_conversationcamp4_2|Lo siento, pero no estoy interesado en vos.
 ; dlga_helgiromance2_conversationcamp4:helgiromance2_conversationcamp5|I am happy to hear you say that! After Helgi's death, I did not think I could fall in love again, but here we are. I think we will be fine.
 ; dlga_helgiromance2_conversationcamp4_2:close_window|I'm sorry! I'm sorry! I feel embarrassed. I thought... I was wrong. Sorry, I will not bother you any more about this. I have better things to do.
 ; dlga_helgiromance2_conversationcamp5:helgiromance2_conversationcamp6|Yes, we can be together, but please stop mentioning Helgi.
-; dlga_helgiromance2_conversationcamp5:helgiromance2_conversationcamp7|No. It was just a joke. I'm not interested in you at all.
+dlga_helgiromance2_conversationcamp5:helgiromance2_conversationcamp7|No. Sólo ha sido una broma. No estoy interesado en vos en absoluto.
 ; dlga_helgiromance2_conversationcamp6:close_window|I am so happy. I love you. Let me go and move my things to your tent!
 ; dlga_helgiromance2_conversationcamp7:close_window|Save your stupid jokes for yourself, you bitch! Get lost!
 ; dlga_conversation_companioncamp:agathinos_conversationcamp1|Salve {playername}! My friend and I were just talking about you. We were discussing whether you're just a warlord or if you have ambitions of being Brytenwalda. Oh, sorry to be rude. Here, please meet Heraclio.
@@ -858,7 +858,7 @@ dlga_member_fief_grant_1:member_fief_grant_2|¿Qué feudo tenéis en mente?
 ; dlga_start:sigurd_quest_revenge10|You send me to my death, my friend, but I do not blame you. I understand that you want to rescue your mother. I regret only two things: failing my king and leaving his letter in the hands of his enemies and not having obtained your fidelity when I had the chance.
 ; dlga_start:close_window.35|So, scum, did you think that you could turn against the Danish and not pay? It's time for someone else to take legitimate direction of this party. It is time for me, Egil, to take possession of this letter and bring it to my father, King Horik. I spent so long at your side, just to discover that you are a treacherous rat. After everything that has happened... Well, I have long doubted your skills to command an army. Now, you are going to die. This is my moment of glory.
 ; dlga_start:close_window.36|My {reg59?lady:lord}, you must hurry to join the king. Follow me.
-; dlga_start:close_window.37|Sorry, this is not a good time to talk.
+dlga_start:close_window.37|Lo siento, este no es un buen momento para hablar.
 ; dlga_start:brunhild_avisa|My {reg59?lady:lord}, Sven's hideout was a dangerous place, but we managed to ransom Bodo. I understand you want to find your mother, but let me tell you when I was in the court of the jarl of Kennemer, I heard horrible things about Sigurd...
 ; dlga_start:companions_despuesduelo1|My {reg59?lady:lord}, we want you to know that no one blames you for what happened in the duel, and everyone still fully supports you.
 dlga_start:close_window.38|¡Bien, {señor/señora}! Por favor, no os molestéis en tratar de levantaros del suelo, ya que tendría que volver a tumbaros. Tomaré vuestro silencio por una disculpa. Que tengáis buen día.
@@ -1575,7 +1575,7 @@ dlga_maelbresail_men3_1:close_window|Muy bien.
 ; dlga_seneschal_quest_irish:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Goidels are independent people who accept with difficulty the leadership of others. Well, I will add your story in my history book and proclaim you Ard Ruire of the Goidels. In recognition of your accomplishment, I give you the treasure of the Goidels.
 ; dlga_seneschal_quest_saxon:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Angles and Saxons are distrustful people. Well, I will add your story in my history book and proclaim you Brytenwalda, ruler over all Englaland. In recognition of your accomplishment, I give you the treasure of the Angles and Saxons.
 ; dlga_seneschal_quest_2f:close_window|Thank you so much for the award and for helping my fame and prestige grow. Farewell, chronicler!
-; dlga_seneschal_quest_1:seneschal_quest_2|Who are you?
+dlga_seneschal_quest_1:seneschal_quest_2|¿Quién sois?
 ; dlga_seneschal_quest_1:seneschal_quest_2.1|What about you, Briton?
 ; dlga_seneschal_quest_1:seneschal_quest_2.2|Goidelic and chronicler? Is this a joke?
 ; dlga_seneschal_quest_1:seneschal_quest_2.3|What do you do?
@@ -3918,7 +3918,7 @@ dlga_prison_guard_talk:prison_guard_visit_prison|Quiero hablar con un prisionero
 ; dlga_prison_guard_talk:prison_guard_release|I order you to release the prisoners.
 ; dlga_prison_guard_release:prison_guard_release1|You're the king, your order is my command, but our lord may take offence to that. Who do you wish to release?
 dlga_prison_guard_release1:prison_guard_talk|No importa.
-; dlga_prison_guard_release2:prison_guard_talk|As you wish.
+dlga_prison_guard_release2:prison_guard_talk|Como deseéis
 dlga_prison_guard_ask_prisoners:prison_guard_talk|Por ahora, {s50} {reg1?están:está} aquí en la cárcel.
 ; dlga_prison_guard_visit_prison:close_window|Of course, {reg59?madam:sir}. Go in.
 dlga_prison_guard_visit_prison:prison_guard_visit_prison_2|Necesitáis permiso del señor para hablar con los prisioneros.

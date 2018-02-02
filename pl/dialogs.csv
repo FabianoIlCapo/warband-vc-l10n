@@ -5,9 +5,9 @@ dlga_blocked_agent:close_window.1|[Po prostu odejdź]
 dlga_dog_talk_2:close_window.1|Naprzód, {s1}, naprzód!
 dlga_dog_talk_2:close_window.2|{s1}, stać!
 dlga_dog_talk_2:dog_talk_pretrain|Tutaj, ma coś dla ciebie...
-; dlga_dog_talk_2:close_window.3|I'll call you...
+dlga_dog_talk_2:close_window.3|Nazwę cię...
 dlga_dog_talk_2:close_window.4|Zły pies! Odejdź! Nie chcę cię tu więcej!
-; dlga_dog_talk_2:close_window.5|Drop it!
+dlga_dog_talk_2:close_window.5|Rzuć to!
 ; dlga_start:dog_talk_recruit|   
 dlga_dog_talk_recruit:dog_talk_1|Tutaj, masz kiełbasę!
 dlga_dog_talk_recruit:close_window|Dobry pies!
@@ -15,17 +15,17 @@ dlga_dog_talk_recruit:close_window|Dobry pies!
 dlga_dog_talk_pretrain:dog_talk_train|Tutaj, ma coś dla ciebie...
 dlga_dog_talk_train:dog_talk_pretrain|Nie wydlądasz zdrowo. Masz {s7}!
 dlga_dog_talk_train:dog_talk_pretrain.1|Masz, to {s7} cię wzmocni!
-; dlga_dog_talk_train:dog_talk_pretrain.2|I want you to be tougher. Here is some {s7}. It's good for you!
+dlga_dog_talk_train:dog_talk_pretrain.2|Chcę żebyś był twardszy. Masz tu trochę {s7}. To będzie dla Ciebie dobre
 dlga_dog_talk_train:dog_talk_pretrain.3|Jesteś zbyt chudy. Tutaj, masz trochę {s7}!
-; dlga_dog_talk_train:dog_talk_pretrain.4|You could be faster, my friend. Here is some {s7} for you!
+dlga_dog_talk_train:dog_talk_pretrain.4|Mógłbyś być szybszy, przyjacielu. Masz tutaj trochę {s7}
 dlga_dog_talk_train:dog_talk_pretrain.5|Masz tu trochę {s7} na ząb!
 dlga_dog_talk_train:dog_talk_1|Nie mam już dla ciebie jedzenia.
 dlga_dog_talk_train:dog_talk_1.1|To wszystko na dziś.
 ; dlga_start:close_window.1|You should go down to your mother and drop off something she can use on her way to Walhalla.
 ; dlga_start:close_window.2|I'm waiting for somebody who is coming with a girl. Have you seen them?
-; dlga_start:close_window.3|Ah, you are {playername}. Thonkrik told me you would come here. Get on the ship. My men and I will show you how easily she sails.
+dlga_start:close_window.3|Ah, to ty jesteś {playername}. Thonkrik mówił mi że tu przybędziesz. Wskakuj na statek. Moi żołnierze i ja pokażemy ci jak się pływa.
 ; dlga_start:port_chief_travel|Heill! Are you looking to travel to another town?
-; dlga_start:close_window.4|Please wait for everybody to board the ship.
+dlga_start:close_window.4|Poczekaj aż każdy wejdzie na statek.
 dlga_port_chief2:port_chief3|Czego ci trzeba?
 ; dlga_port_chief3:port_chief_fleet1|Greetings. I have come to join the fleet of Sven Bull Neck and Harald Haraldsson that will travel to Englaland.
 ; dlga_port_chief3:port_chief_bodoletter1|A man named Atli Eiriksson left this port some time ago. Do you know where he was going?
@@ -37,12 +37,12 @@ dlga_port_chief3:port_chief_buy_ship|Chcę kupić okręt.
 dlga_port_chief_buy_ship:close_window|Za mną!
 dlga_port_chief3:port_chief_info_main|mam kilka pytań na temat łodzi i podróży morskiej.
 dlga_port_chief_info_main:port_chief_info_main_1|Co chciałbyś wiedzieć?
-; dlga_port_chief_info_main_1:port_chief_info_a_1|Why do people go to sea?
-; dlga_port_chief_info_main_1:port_chief_info_b_1|How do I find my way at sea?
-; dlga_port_chief_info_main_1:port_chief_info_c_1|What do I need to know if I want to buy a ship?
-; dlga_port_chief_info_main_1:port_chief_info_d_1|What makes a ship fast?
+dlga_port_chief_info_main_1:port_chief_info_a_1|Dlaczego ludzie wyruszają w morze?
+dlga_port_chief_info_main_1:port_chief_info_b_1|Jak mam się odnaleźć na morzu?
+dlga_port_chief_info_main_1:port_chief_info_c_1|Co muszę wiedzieć jeśli chcę kupić łódź?
+dlga_port_chief_info_main_1:port_chief_info_d_1|Co daje łodzi prędkość?
 dlga_port_chief_info_main_1:port_chief2|To wszystko co chciałem wiedzieć. Dzięki!
-; dlga_port_chief_info_a_1:port_chief_info_main|You can earn a lot of money if you trade goods or slaves across the sea. Others use it for raiding settlements. Finally, no Viking will respect you as a leader if you don't have a good ship.
+dlga_port_chief_info_a_1:port_chief_info_main|Możesz zyskać fortunę handlując dobrami lub niewolnikami przez morze. Inni używają go do najeżdżania na wsie. Żaden wiking nie uzna cię za przywódcę, jeśli nie będziesz miał dobrego statku.
 ; dlga_port_chief_info_b_1:port_chief_info_main|Look at the sun at day. Rest at night. The better you are at finding your way, the faster you travel.
 ; dlga_port_chief_info_c_1:port_chief_info_c_2|First, you need to know what type of ship you want. If you want to trade, then a Knorr may be a good choice. They have much room for cargo, but they are not very fast. The Snekkja, the Skei and the Busse are fast warships and are able to carry many troops. The Karvi is something in-between. If you only have a few men, then a small ship like a Byrding would perhaps suit you better.
 ; dlga_port_chief_info_c_2:port_chief_info_main|The second important factor is the type of wood the ship is made from. Ships made out of oak wood are the best ships, but are also expensive. Beech is cheaper, but it rots faster.
@@ -54,12 +54,12 @@ dlga_port_chief3:port_chief_travel|Chcę popłynąć do innego portu.
 ; dlga_port_chief_travel:port_chief_travel_2.1|From here, one may travel to ports in Englaland and Eriuland. Where do you want to go?
 ; dlga_port_chief_travel:close_window.2|I am sorry. There are currently no passenger ships in this port.
 dlga_port_chief_travel_2:close_window|Zmieniłem zdanie.
-; dlga_port_chief_travel_3:port_chief_travel_4|You want to travel to {s1}? {s2}
+dlga_port_chief_travel_3:port_chief_travel_4|Czy chcesz wyruszyć do {s1}? {s2}
 dlga_port_chief_travel_4:port_chief_travel_5|Zaczynajmy!
 dlga_port_chief_travel_5:close_window|Za mną!
 dlga_port_chief3:port_chief_pick_up_ship1|Czy moja łódź jest już gotowa?
-; dlga_port_chief_pick_up_ship1:port_chief2|My men and I are still working on it. Come back in {reg1} days.
-; dlga_port_chief_pick_up_ship1:port_chief_pick_up_ship2|The ship is ready! Do you want us to launch it?
+dlga_port_chief_pick_up_ship1:port_chief2|Moi ludzie i ja wciąż nad tym pracują. Wróć za {reg1} dni.
+dlga_port_chief_pick_up_ship1:port_chief_pick_up_ship2|Statek jest gotów! Chcesz odpłynąć?
 dlga_port_chief_pick_up_ship2:port_chief_pick_up_ship3|Tak!
 dlga_port_chief_pick_up_ship2:port_chief2|Nie, jeszcze nie.
 ; dlga_port_chief_pick_up_ship3:port_chief2|Sorry, your sea-king skill isn't high enough to add an additional ship to your current fleet in this port.
@@ -2936,7 +2936,7 @@ dlga_jarlbjornnegtruce_3:lord_pretalk|Bardzo dobrze.
 ; dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_pretalk.1|I support my husband, {s4}
 ; dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_support_acknowledge|I would support you, {s4}
 ; dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_support_same_acknowledge|I would support your choice, {s4}
-dlga_lord_internal_politics_plyr_choose_candidate_select:lord_pretalk|Nie ważne
+dlga_lord_internal_politics_plyr_choose_candidate_select:lord_pretalk|Nieważne
 ; dlga_lord_internal_politics_support_acknowledge:lord_pretalk|That is most gracious of you, but I do not seek the honor, and I decline your support.
 ; dlga_lord_internal_politics_support_acknowledge:lord_pretalk.1|I do not trust you, and I do not need your support.
 ; dlga_lord_internal_politics_support_acknowledge:lord_pretalk.2|That is most gracious of you
@@ -2963,7 +2963,7 @@ dlga_lord_internal_politics_plyr_choose_candidate_select:lord_pretalk|Nie ważne
 ; dlga_lord_spouse_leave_faction:lord_spouse_leave_faction_2.2|Yes -- as a liege, {s9} is a great disappointment. What do you suggest we do?
 ; dlga_lord_spouse_leave_faction_2:lord_spouse_leave_faction_husband_king|I believe you should be king, my husband!
 ; dlga_lord_spouse_leave_faction_2:lord_spouse_leave_faction_proclaim_queen|I am the rightful queen of the Northlands
-dlga_lord_spouse_leave_faction_2:lord_pretalk|Nie ważne
+dlga_lord_spouse_leave_faction_2:lord_pretalk|Nieważne
 ; dlga_lord_spouse_leave_faction_husband_king:lord_pretalk|Perhaps someday, my wife -- but before I declare myself king, I should like for one of us to hold a fortress which could serve as our court before we declare ourselves publically.
 ; dlga_lord_spouse_leave_faction_proclaim_queen:lord_pretalk|While I do not contest your claim, my wife, I should like for one of us to hold a fortress which could serve as our court before we declare ourselves publically.
 ; dlga_lord_spouse_leave_faction_proclaim_queen_confirm:close_window|I am ready now, my husband. Let us go forth to seek our throne.
@@ -2978,7 +2978,7 @@ dlga_lord_spouse_leave_faction_2:lord_pretalk|Nie ważne
 ; dlga_lord_recruit_2:lord_recruit_3_a|Do you remember what I had told you earlier?
 ; dlga_lord_recruit_2:lord_recruit_quarrel_describe|I have heard that you have quarreled with {s16}
 ; dlga_lord_recruit_quarrel_describe:lord_recruit_2|It is no secret. {s14}
-dlga_lord_recruit_2:lord_pretalk|Nie ważne
+dlga_lord_recruit_2:lord_pretalk|Nieważne
 ; dlga_lord_recruit_2_discontent_b:lord_recruit_3|Sometimes, I do worry about the state of the realm.
 ; dlga_lord_recruit_hesitant:lord_recruit_hesitant_persuade|Can't I persuade you to say a little more?
 ; dlga_lord_recruit_hesitant:lord_pretalk|Ah. Very good.

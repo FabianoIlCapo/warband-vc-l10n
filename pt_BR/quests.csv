@@ -21,11 +21,11 @@ qst_capture_enemy_hero|Capturar um Lorde de {s13}
 qst_lend_companion|Emprestar seu Companheiro {s3} para {s9}
 qst_lend_companion_text|{s9} lhe pediu que empreste seu Companheiro {s3} para ele por uma semana.
 qst_collect_debt|Coletar o Débito que {s3} Tem com {S9}
-; qst_collect_debt_text|{s9} asked you to collect the debt of {reg4} peningas {s3} owes to him.
+qst_collect_debt_text|{s9} lhe pediu para coletar o Débito de {reg4} peningas que {s3} deve para ele.
 qst_incriminate_loyal_commander|Incriminar o Comandante de {s13}, {s16}
 qst_meet_spy_in_enemy_town|Encontrar-se com Espião em {s13}
 qst_capture_prisoners|Trazer {reg1} Prisioneiros para {s3}
-; qst_capture_prisoners_text|{s9} wanted you to bring him {reg1} {s3} as prisoners.
+qst_capture_prisoners_text|{s9} lhe pediu para trazer {reg1} {s3} como prisioneiros.
 qst_lend_surgeon|Emprestar Seu Cirurgião {s3} para {s1}
 ; qst_lend_surgeon_text|Lend your experienced surgeon {s3} to {s1}.
 qst_follow_army|Seguir o Exército de {s9}
@@ -42,9 +42,9 @@ qst_duel_avenge_insult|Desafiar {s13} para Um Duelo
 qst_move_cattle_herd|Mover o Rebanho para {s13}
 ; qst_move_cattle_herd_text|The mayor of {s10} asked you to move a cattle herd to {s13}.
 qst_escort_merchant_caravan|Escoltar Caravana para {s8}
-; qst_escort_merchant_caravan_text|Escort the merchant caravan to the town of {s8}.
+qst_escort_merchant_caravan_text|Escolte a Caravana para a cidade de {s8}.
 qst_deliver_wine|Entregar {reg5} Unidades de {s6} para {s4}
-; qst_deliver_wine_text|{s9} of {s3} asked you to deliver {reg5} units of {s6} to the tavern in {s4} in 7 days.
+qst_deliver_wine_text|{s9} de {s3} lhe pediu para enviar {reg5} unidades de {s6} para a taverna em {s4} dentro de 7 dias.
 qst_troublesome_bandits|Caçar Bandidos Problemáticos
 ; qst_troublesome_bandits_text|{s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of the town.
 qst_kidnapped_girl|Resgatar Garota dos Bandidos
@@ -74,11 +74,11 @@ qst_consult_with_minister|Consultar Com Ministro
 qst_organize_feast|Organizar Festa
 ; qst_organize_feast_text|Bring goods for a feast to your spouse {s11}, currently at {s12}.
 qst_resolve_dispute|Resolver Disputa
-; qst_resolve_dispute_text|Resolve the dispute between {s11} and {s12}.
+qst_resolve_dispute_text|Resolva a disputa entre {s11} e {s12}
 qst_offer_gift|Adquirir Presente
 ; qst_offer_gift_text|Give {s10} a gift to provide to {reg4?her:his} {s11}, {s12}.
 qst_denounce_lord|Denunciar Lorde
-; qst_denounce_lord_text|Denounce {s11} in public.
+qst_denounce_lord_text|Denuncie {s11} em público.
 qst_intrigue_against_lord|Criar Intriga Contra Lorde
 ; qst_intrigue_against_lord_text|Criticize {s11} in private.
 qst_track_down_bandits|Localizar Bandidos
@@ -92,60 +92,60 @@ qst_cause_provocation|Fazer Um Reino Provocar o Outro à Guerra
 qst_rescue_prisoner|Salvar ou Resgatar um Prisioneiro
 qst_destroy_bandit_lair|Destruir Covil dos Bandidos
 ; qst_destroy_bandit_lair_text|{s9} of {s4} asked you to discover the {s6} in the area and destroy it.
-; qst_kennemer_jarl|The Revenge: Talk to the Jarl of Kennemer
-; qst_kennemer_jarl_missions|The Revenge: Working for a Jarl
-; qst_kennemer_mission_1|Jarl Mission: Judgment in the Monastery
+qst_kennemer_jarl|A Vingança: Fale com o Jarl de Kennemer
+qst_kennemer_jarl_missions|A Vingança: Trabalhando para um Jarl
+qst_kennemer_mission_1|Missão Jarl: Julgamento no Mosteiro
 ; qst_kennemer_mission_2|Jarl Mission: Thiaderd Must Die
-; qst_kennemer_mission_3|Jarl Mission: To Kill a King
+qst_kennemer_mission_3|Missão Jarl: Para matar um Rei
 ; qst_reginhard_donations|Reginhard's Petition: A Donation for War Victims
-; qst_recruit_an_army|Jarl Mission: Recruiting Warriors
+qst_recruit_an_army|Missão Jarl: Recrutando Guerreiros
 ; qst_doccinga_assault|Viking Attack: Save Doccinga from Sven's Assault
-; qst_doccinga_interrogation|Viking Attack: Interrogating a Viking
-; qst_getting_ship|Viking Attack: A Boat and a Girl
+qst_doccinga_interrogation|Ataque Viking: Interrogando um Viking
+qst_getting_ship|Ataque Viking: Um barco e uma garota
 ; qst_notes_companions|Notes on Your Companions
-; qst_notes_global|Your Book Notes
+qst_notes_global|Notas do seu livro
 ; qst_notes_frisa|Notes on Friese
 ; qst_notes_danmork|Notes on Danmark
 ; qst_notes_englaland|Notes on Englaland
-; qst_sven_lair|The Revenge: The Wolf's Den
-; qst_danmork_protection|The Revenge: Under the Wing of a King
+qst_sven_lair|A Vingança: A Toca do Lobo
+qst_danmork_protection|A Vingança: Sob as Asas de um Rei
 ; qst_revenge_sigurd|The Revenge: Ask Sigurd 'Snake in the Eye'
-; qst_collect_smen|Sigurd Mission: Recruiting an Army for Sigurd
-; qst_bodo_letter|The Revenge: A Most Important Letter
+qst_collect_smen|Missão Sigurd: Recrutando um exército para Sigurd
+qst_bodo_letter|A Vingança: A carta mais importante
 ; qst_the_holmgang|The Holmgang: Killing a Hirdman
-; qst_the_fleet|The Revenge: Invading Englaland
-; qst_sven_traitor|The Revenge: Sven the Traitor
+qst_the_fleet|A Vingança: Invadindo Englaland
+qst_sven_traitor|A Vingança: Sven o Traidor
 ; qst_wessex_foragers|The Siege: Saxon Foragers
-; qst_the_messengersn|The Siege: The Messenger
-; qst_the_alliance|The Revenge: The Alliance
-; qst_welsh_and_pictish|The Conqueror: Serving a Cause
+qst_the_messengersn|O Cerco: O Mensageiro
+qst_the_alliance|A Vingança: A Aliança
+qst_welsh_and_pictish|O Conquistador: Servindo uma Causa
 ; qst_cathach_colum|Being a Viking: 'The Cathach of Colum Cille'
 ; qst_entregando_pieles|Being a Viking: Trading in Furs
-; qst_revenge_exchange|The Revenge: The Farm
+qst_revenge_exchange|A Vingança: A Fazenda
 ; qst_ulf_testigo|The Revenge: Wooing Farmers and Jarls
 ; qst_the_thing|The Revenge: The Assembly
 ; qst_douar_an_enez|The Revenge: Douar-an-Enez
 ; qst_aescesdun|The Battle: Aescesdun
 ; qst_svenbn_final|The Revenge: Sven Bull Neck
 ; qst_old_roman|Hadrian's Wall: Saving the Starving
-; qst_vc_menu|Viking Conquest menu system.
+qst_vc_menu|Viking Conquest sistema de menu.
 ; qst_vc_wounds|Viking Conquest wound system.
 ; qst_sea_battle_spawn|a spawning system.
 ; qst_team_0_ships|a spawning system.
 ; qst_team_1_ships|a spawning system.
-; qst_blank_quest_2|Escort Bishop to {s14}.
-; qst_blank_quest_2_text|{s11} asked you to escort the Bishop from {s22} to {s14}.
+qst_blank_quest_2|Escolte o Bispo para {s14}.
+qst_blank_quest_2_text|{s11} lhe pediu para escoltar o Bispo de {s22} para {s14}.
 ; qst_blank_quest_3|Raid Monastery at {s14}
 ; qst_blank_quest_3_text|{s11} asked you to raid Monastery at {s14}, near {s34}, and bring him {reg33} peningas.
-; qst_blank_quest_4|Find and destroy a group of masterless men
+qst_blank_quest_4|Encontre e destrua um grupo de homens sem mestre
 ; qst_blank_quest_4_text|{s8} asked you to track down a group of masterless men who looted his village, {s9}.
-; qst_blank_quest_6|Capture and bring {reg5} women to {s3}
+qst_blank_quest_6|Capture e leve {reg5} mulheres para {s3}
 ; qst_blank_quest_6_text|The local leader of the village of {s3} asked you to bring {reg5} women to the village (as prisoners).
 ; qst_blank_quest_7|Return Runaway Slave to {s3}
 ; qst_blank_quest_7_text|The leader of the village of {s3} asked you to bring a runaway slave back to the village.
 ; qst_blank_quest_9|Bring {reg33} Horns of Mead to {s3}
 ; qst_blank_quest_9_text|The priest at {s3} asked you to bring him {reg33} drinking horns of mead.
-; qst_blank_quest_10|Recover a {s13} Stolen from {s9} of {s3}
+qst_blank_quest_10|Recupera um {s13} roubado de {s9} para {s3}
 ; qst_blank_quest_10_text|The {s9} of {s3} asked you to recover a {s13} stolen from him.^^Look Into:^{s10}
 ; qst_blank_quest_11|Bring {reg33} Loads of {s33} to {s3}
 ; qst_blank_quest_11_text|The {s9} of {s3} asked you to bring {reg33} loads of {s33} to him.

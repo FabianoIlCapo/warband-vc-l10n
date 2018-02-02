@@ -18,7 +18,7 @@ menu_start_game_4|Hai fatto delle scelte. Non sarà possibile cambiare le tue pr
 menu_camp|Sei nell'accampamento. Cosa vuoi fare?
 mno_camp_action|Fai un'azione.
 mno_camp_wait_here|Aspetta qui per un po' di tempo.
-menu_camp_action_rest|Il Campo permette ai tuoi uomini di riposare per riprendersi dal duro viaggio. Inoltre consente di sfamarsi e Aumentare le scorte di Cibo. Questo è particolarmente utile durante una campagna in territorio nemico, dove è difficile comprare rifornimenti.
+menu_camp_action_rest|Il Campo permette ai tuoi uomini di riposare per riprendersi dal duro viaggio. Inoltre consente di sfamarsi ed aumentare le scorte di cibo. Questo è particolarmente utile durante una campagna in territorio nemico, dove è difficile comprare rifornimenti.
 menu_build_refuge_new|I tuoi uomini attendono il tuo ordine per iniziare a costruire il rifugio. Hai già raccolto materiali sufficenti e ciò che manca può essere acquistato nei villaggi vicini^^Costo totale:.. 1000 denari.^Tempo necessario: 6 ore.
 mno_refuge_here|Avvia i lavori.
 menu_camp_cheat|Seleziona un trucco:
@@ -227,9 +227,9 @@ menu_campos_cercanos2|{reg59?Lady:Sir}, coltivazioni e fattorie sono state bruci
 mno_back_behind_c|Ben fatto, il cibo è sempre benvenuto.
 menu_campos_cercanos2_c|{reg59?Lady:Sir}, coltivazioni e fattorie sono stati bruciate. Il grano è ancora verde, ma commestibile. Abbiamo trovatto cibo in abbondanza.
 mno_back_behind_cc|Ben fatto, il cibo è sempre benvenuto.
-menu_campos_cercanos3|{reg59?Lady:Sir}, abbiamo bruciato i campi, ma visto che la stagione del raccolto è già passata, non c'era grano rimasto. Comunque, i fattori hanno lasciato alcuni dei loro bestiami indietro.
+menu_campos_cercanos3|{reg59?Mia signora:Mio Signore}, abbiamo bruciato i campi, ma visto che la stagione del raccolto è già passata, non c'era grano rimasto. Comunque, i fattori hanno lasciato alcuni dei loro bestiami indietro.
 mno_back_behind_bc|Il cibo è sempre benvenuto.
-menu_campos_cercanos4|Abbiamo avuto dei problemi. I campi sono stati bruciati, ma i fattori ci hanno respinti con il supporto di alcuni membri della guarnigione.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_campos_cercanos4|Abbiamo avuto dei problemi. I campi sono stati bruciati, ma i fattori ci hanno respinti con il supporto di alcuni membri della guarnigione.^^Le tue perdite: {s8}^^Perdite nemiche: {s10}
 mno_back_behind_ac|Notizie terribili!
 menu_poner_escaleras|La tua avanguardia avanza, portando scale, pale e altre attrezzature d'assedio utili... Un gruppo di uomini armati con armi a distanza va avanti, attirando i proiettili del nemico. Il tuo cuore batte nella sua gabbia ossea. In qualche modo, tutte le battaglie sembrano essere la prima.^Il brivido, terrore e sudore ci sono, sempre. I tuoi uomini formano un muro di scudi per proteggere se stessi...^^Le tue vittime: {s8}^^Le vittime nemiche: {s10}
 mno_back_behind_esc1|I tuoi uomini hanno incontrato il nemico. E' il tuo turno...
@@ -245,7 +245,7 @@ menu_construct_siege_tower|Come membro della compagnia con la più alta abilità
 mno_build_siege_tower_cont|Comincia a costruire.
 menu_castle_attack_walls_simulate|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico: {s10}
 menu_castle_attack_walls_with_allies_simulate|{s4}^^Le tue perdite: {s8}^^Le perdite alleate: {s9}^^Le perdite del nemico: {s10}
-; menu_castle_taken|The battle for {s60} is almost over. Your troops are eager to start plundering the {reg2?town:fort}. {s10}You may want to just fill your purse a bit and leave the plundered place for the enemy. Finally, you could also decide to devastate the place completely in order to gain as much loot as possible, enslave the inhabitants, and make it worthless for its owner.
+menu_castle_taken|La battaglia per {s60} è quasi finita. Le tue truppe sono desiderose di iniziare a saccheggiare il {reg2?città:forte}. {s10}Puoi decidere di riempire solo un po' la borsa e lasciare il posto saccheggiato al nemico. Infine, potresti anche decidere di devastare il luogo completamente al fine di ottenere quanto più bottino possibile, rendere schiavi gli abitanti, e rendere inutile per il suo proprietario.
 mno_saqueo_noallowed|Conquista {reg2?la città:il forte}, ma vieta il saccheggio.
 mno_keep_plunder|Conquista e saccheggia {reg2?la città:il forte}.
 mno_saqueo_normal|Saccheggia {reg2?la città:il forte} e vattene.
@@ -257,8 +257,8 @@ menu_castle_taken_2|{s3} è caduto per mano delle tue truppe, e adesso hai il co
 mno_castle_taken_claim|Chiedi che {s3} ti venga assegnato.
 mno_castle_taken_claim_2|Richiedi che {s3} sia assegnato {reg59?tuo marito:tua moglie}.
 mno_castle_taken_no_claim|Non chiedere ricompense.
-; menu_saqueo_loot_continue|This settlement has not recovered from being looted by you.
-; menu_requested_castle_granted_to_another|You receive a message from your monarch, {s3}.^^'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour that I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {reg6} peningas to cover the expenses of your campaign, but {s2} I give to {s5}.' 
+menu_saqueo_loot_continue|Questo insediamento non si è ripreso dalla tua ultima razzia.
+menu_requested_castle_granted_to_another|Ricevi un messaggio dal tuo monarca, {s3}.^^ 'Sono stato informato delle tue eroiche gesta e mi compiaccio vedendo che hai ottenuto la conquista di {s2}. La tua vittoria è una gioia per i nostri cuori. Hai chiesto che ti venga assegnata la proprietà del castello ma è un favore che non posso accordare, in quanto già possiedi rilevanti tenute nel mio regno. Ti ho inviato invece {reg6} denari per coprire le spese della tua campagna, ma {s2} sarà assegnato a {s5}.'
 mno_accept_decision|Accetta la decisione.
 mno_leave_faction|Decidi che è inaccettabile! Sciogli il giuramento di fedeltà!
 ; menu_requested_castle_granted_to_another_female|You receive a message from your monarch, {s3}.^^'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give ownership of the castle to your husband, but that is a favour that I fear I cannot grant, as he already holds significant estates in my realm. Instead I have sent you {reg6} peningas to cover the expenses of your campaign, but {s2} I give to {s5}.' 
@@ -322,7 +322,7 @@ mno_center_build_library|Costruisci uno scriptorium.
 mno_center_build_slavemarket|Costruisci un mercato di schiavi.
 mno_center_kill_slavemarket|Rimuovi il mercato di schiavi.
 mno_center_build_brewery|Costruisci un birrificio.
-; menu_remove_slaves|Do you wish to remove the slave traders and forbid them from conducting their ungodly business within the boundaries of your town? Keep in mind this will reduce the tariffs of the town and its prosperity temporarily.
+menu_remove_slaves|Desideri rimuovere i commercianti di schiavi e vietare loro di condurre i loro loschi affari entro il confine della tua città? Tieni a mente che questo ridurrà le tariffe della città e la sua prosperità temporaneamente.
 mno_remove_slaves|Procedi.
 menu_center_improve|{s19} Come membro della Compagnia con le più alte abilità ingegneristiche ({reg2}), {reg3?calcoli:{s3} calcola} che la costruzione di {s4} costerà {reg5} denari e richiederà {reg6} giorni.
 mno_improve_cont|Procedi{s15}.
@@ -800,7 +800,7 @@ menu_banquete_moral_refuge|Ordini ai tuoi uomini di lasciare le loro armi fuori 
 mno_banquete_okr|Bevi, ridi e gridi in maniera sfacciata.
 mno_banquete_ok2r|Rimani sobrio, gusti la bevanda, ma non bevi più del necessario.
 mno_banquete_ok3r|Chiama i suoi uomini e dona loro anelli e bracciali (2000 denari).
-; menu_player_lair_menus|You are at {s10}, your very own refuge, a hidden retreat free from enemies, where you can hide when things go badly, rest from your travels, or save your most personal of treasures. ^^{s11}^^{s13}
+menu_player_lair_menus|Ti trovi a {s10}, il tuo rifugio personale, un nascondiglio segreto libero da nemici, dove ti puoi nascondere quando le cose vanno male, riposarti dopo i tuoi viaggi o conservare i tuoi tesori più preziosi. ^^{s11}^^{s13}
 mno_banquete_refugemead|I miei uomini meritano un banchetto al mio rifugio.
 mno_guarida_rename|Rinomina il tuo rifugio.
 mno_lair_interior|Vai alla sala del rifugio.

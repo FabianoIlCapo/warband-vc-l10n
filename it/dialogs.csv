@@ -1,11 +1,11 @@
 dlga_start:blocked_agent|Questa persona sembra occupata. Forse dovrei andarmene...
-; dlga_blocked_agent:close_window|I'm sorry. I didn't mean to disturb you.
-; dlga_blocked_agent:close_window.1|[Just Leave]
-; dlga_dog_talk_2:close_window|Heel!
+dlga_blocked_agent:close_window|Mi dispiace. Non intendevo disturbarvi.
+dlga_blocked_agent:close_window.1|[Allontanati]
+dlga_dog_talk_2:close_window|Zampa!
 dlga_dog_talk_2:close_window.1|Vai, {s1}, vai!
 dlga_dog_talk_2:close_window.2|{s1}, resta!
 dlga_dog_talk_2:dog_talk_pretrain|Ecco, ho qualcosa per te...
-dlga_dog_talk_2:close_window.3|Ti chiamerò io...
+dlga_dog_talk_2:close_window.3|Ti chiamerò...
 dlga_dog_talk_2:close_window.4|Cane cattivo! Vattene! Non ti voglio più!
 dlga_dog_talk_2:close_window.5|Buttala!
 dlga_start:dog_talk_recruit|  
@@ -13,21 +13,21 @@ dlga_dog_talk_recruit:dog_talk_1|Ecco, tieni una salsiccia!
 dlga_dog_talk_recruit:close_window|Bravo cane!
 dlga_dog_talk_recruit:close_window.1|Via!
 dlga_dog_talk_pretrain:dog_talk_train|Qui, ho qualcosa per te ...
-dlga_dog_talk_train:dog_talk_pretrain|Non sembri sano. Qui, hanno un {s7}!
+dlga_dog_talk_train:dog_talk_pretrain|Non sembri in forma. Tieni, prendi un {s7}!
 dlga_dog_talk_train:dog_talk_pretrain.1|Ecco, questo {s7} ti renderà più forte!
-dlga_dog_talk_train:dog_talk_pretrain.2|Voglio che tu sia più forte. Ecco alcuni {s7}. Và bene!
-dlga_dog_talk_train:dog_talk_pretrain.3|Sei troppo magro. Qui, hanno dei {s7}!
-dlga_dog_talk_train:dog_talk_pretrain.4|Puoi essere più veloce, amico mio. Ecco alcuni {s7} per te!
+dlga_dog_talk_train:dog_talk_pretrain.2|Ti voglio più forte. Ecco un po' di {s7}. Ti fa bene!
+dlga_dog_talk_train:dog_talk_pretrain.3|Sei troppo magro. Ecco, prendi del {s7}!
+dlga_dog_talk_train:dog_talk_pretrain.4|Puoi essere più veloce, amico mio. Ecco un po' di {s7} per te!
 dlga_dog_talk_train:dog_talk_pretrain.5|Ecco dei {s7} per i vostri denti!
 dlga_dog_talk_train:dog_talk_1|Non ho più cibo per voi.
 dlga_dog_talk_train:dog_talk_1.1|Per oggi questo è tutto.
 dlga_start:close_window.1|Dovresti andare giù da tua madre e lasciarle qualcosa che lei possa usare sulla sua strada verso il Walhalla.
-dlga_start:close_window.2|Sto aspettando qualcuno che è venuto con una ragazza. Li hai visti?
-dlga_start:close_window.3|Ah, sei {playername}. Thonkrik mi ha detto che saresti venuto qui. Sali sulla nave. I miei uomini ti mostreranno come è facile navigare.
+dlga_start:close_window.2|Sto aspettando qualcuno che dovrebbe venire con una ragazza. Li hai visti?
+dlga_start:close_window.3|Ah, sei {playername}. Thonkrik mi ha detto che saresti venuto qui. Sali sulla nave. I miei uomini ti mostreranno come naviga bene.
 dlga_start:port_chief_travel|Heill! Stai cercando di andare in un'altra città?
 dlga_start:close_window.4|Si prega di aspettare tutti a bordo della nave.
-dlga_port_chief2:port_chief3|Che cosa avete bisogno?
-dlga_port_chief3:port_chief_fleet1|Salve. Sono venuto per far parte della flotta di Sven Bull Neck e Harald Haraldsson che andrà in Inghilterra
+dlga_port_chief2:port_chief3|Di cosa avete bisogno?
+dlga_port_chief3:port_chief_fleet1|Salve. Sono venuto per far parte della flotta di Sven Bull Neck e Harald Haraldsson che andrà in Inghilterra.
 dlga_port_chief3:port_chief_bodoletter1|Un uomo chiamato Atli Eiriksson ha lasciato questo porto un pò di tempo fa. Sa dove stava andando?
 dlga_port_chief3:port_chief_pieles|Ho dato le pelli a Hogni, ora tocca a te. Dove si trova Atli Eiriksson?
 dlga_port_chief3:port_chief_catach|Ero a Gleann Da Loch e ho portato 'The Cathach di Colum Cille.'
@@ -35,9 +35,9 @@ dlga_port_chief3:port_chief_catach32|Purtroppo, Gleann Da Loch è troppo lontano
 dlga_port_chief3:port_chief_svenlair|Sai quello che voglio. Dove si trova il nascondiglio di Sven Bull Neck?
 dlga_port_chief3:port_chief_buy_ship|Voglio comprare una nave.
 dlga_port_chief_buy_ship:close_window|Seguimi!
-dlga_port_chief3:port_chief_info_main|Ho alcune domande su navi e viaggi in mare.
+dlga_port_chief3:port_chief_info_main|Ho alcune domande sulle navi e sui viaggi in mare.
 dlga_port_chief_info_main:port_chief_info_main_1|Cosa volete sapere?
-dlga_port_chief_info_main_1:port_chief_info_a_1|Perché la gente va al mare?
+dlga_port_chief_info_main_1:port_chief_info_a_1|Perché la gente va in mare?
 dlga_port_chief_info_main_1:port_chief_info_b_1|Come mi oriento in mare?
 dlga_port_chief_info_main_1:port_chief_info_c_1|Che cosa serve per comprare una nave?
 dlga_port_chief_info_main_1:port_chief_info_d_1|Cosa rende una nave veloce?
@@ -1057,8 +1057,8 @@ dlga_bodo_choiceside9:bodo_choiceside10|{s2}^^Mi preoccupa tutto questo. Pensavo
 dlga_bodo_choiceside10:bodo_choiceside111|Non ho dubbi, Bodo. Andremo insieme dal re del West Seaxe.
 dlga_bodo_choiceside10:bodo_choiceside112|Ho deciso di dare la lettera a Rathbarth e il resto ai figli di Ragnar.
 dlga_bodo_choiceside111:bodo_choiceside13|{s2}^^Lo sapevo che non mi avresti tradito. Beh, dobbiamo andare dal re del West Seaxe il più presto possibile!
-; dlga_bodo_choiceside112:bodo_choiceside14|--His face goes from bewilderment to uncontrolled fury.--^^What? Traitor! I trusted you, I considered you a friend, a brother. Not only have you failed me, but you're encouraging our enemies. After all we've been through, Sigurd and Sven triumph. Well, I will not stay idle. Farewell, {playername}, and hope we do not meet again... for your sake.
-; dlga_bodo_choiceside112:bodo_choiceside14.1|{s2}^^What? Traitor! I trusted you. We have our differences and do not always get along, but I thought you'd honor your word. Not only have you failed me, but you're encouraging our enemies. After all we've been through, Sigurd and Sven triumph. Well, I will not stay idle. Farewell, {playername}, and hope we do not meet again... for your sake.
+dlga_bodo_choiceside112:bodo_choiceside14|-- Il suo volto passa dallo stupore alla furia incontrollata. --^^Cosa? Traditore! Mi fidavo di te, ti consideravo un amico, un fratello. Non solo mi hai deluso, ma stai anche sostenendo i nostri nemici. Dopo tutto ciò che abbiamo passato assieme, trionfo di Sigurd e Sven.^Beh, non me ne starò a guardare. Addio, {playername}, e spera di non incontrarci mai più... per il tuo bene.
+dlga_bodo_choiceside112:bodo_choiceside14.1|{s2}^^Cosa? Traditore! Mi fidavo di te, ti consideravo un amico, un fratello. Non solo mi hai deluso, ma stai anche sostenendo i nostri nemici. Dopo tutto ciò che abbiamo passato assieme, trionfo di Sigurd e Sven.^Beh, non me ne starò a guardare. Addio, {playername}, e spera di non incontrarci mai più... per il tuo bene.
 dlga_bodo_choiceside13:bodo_choiceside131|Come ho già detto, i Norn tessono trame a volontà.
 dlga_bodo_choiceside13:bodo_choiceside131.1|Credo che questo sia un addio. Andrò dalla mia famiglia, in Odinsve. Forse in futuro ci rivedremo. Rispetto la tua decisione, ti lascio senza rancore.
 dlga_bodo_choiceside131:bodo_choiceside132|Bene... Bene, sono con voi.
@@ -1074,13 +1074,13 @@ dlga_bodo_danishcamp1:bodo_danishcamp2|I figli di Ragnar si trovano in una situa
 dlga_bodo_danishcamp2:bodo_danishcamp3|Se poniamo fine all'invasione Danese. L'alleanza non sarebbe più necessaria, giusto?
 dlga_bodo_danishcamp2:bodo_danishcamp3_2|Molto bene, ti ascolto.
 dlga_bodo_danishcamp3:bodo_danishcamp3_2|Sì, in parte, ma gli attacchi Danesi e Vichinghi hanno radici più profonde di questo assedio. Lasciate che vi spieghi.
-; dlga_bodo_danishcamp3_2:bodo_danishcamp4|If you remember, {playername}, my king wants to put a stop to all the Vikings raids and safeguard his kingdom. Even if the Saxons may now force the sons of Ragnar locked in Snotingaham to surrender or kill them, there would still be other sons of Ragnar and other Danish men whose greed knows no limits. Perhaps the Saxons will get a few years of peace, adopt again old enmities with the Mercians, and forget about their alliance with the Franks and Asturians. Even so, the Danish would remain in Northhymbre, and Vikings would still infest the seas. After a few years, another leader would raise an army and would start this raiding and piracy all over again.
+dlga_bodo_danishcamp3_2:bodo_danishcamp4|Se ricordi, {playername}, il mio re vuole mettere fine a tutte le irruzioni dei Vichinghi e salvaguardare il suo regno. Anche se i Sassoni potrebbero ora uccidere i figli di Ragnar chiusi in Snotingaham o costringerli ad arrendersi, ci sarebbero ancora altri figli di Ragnar e altri uomini Danesi la cui golosità non conosce limiti.^Forse i Sassoni otterranno qualche anno di pace, riprenderanno antiche ostilità con i Merciani, e dimenticheranno la loro alleanza coi Franchi e gli Asturiani. Anche così, i Danesi rimarrebbero in Northumbria, e i Vichinghi infesterebbero ancora i mari.^Dopo qualche anno, un altro comandante formerebbe un esercito e ricomincerebbe daccapo con queste scorribande e piraterie.
 dlga_bodo_danishcamp4:bodo_danishcamp5_1|Penso che la vera paura è che i Sassoni potrebbero farlo anche senza l'aiuto del'Asturia.
 dlga_bodo_danishcamp4:bodo_danishcamp6|Credo tu stia esagerando. Gaed a wyrd swa hio scel!
 dlga_bodo_danishcamp4:bodo_danishcamp5_2|I Sassoni potrebbero attaccare Northhymbre e buttare fuori i Danesi.
 dlga_bodo_danishcamp4:bodo_danishcamp5_3|Penso che i Danesi possano sconfiggere i Sassoni a Snotingaham e poi proseguire verso sud.
 dlga_bodo_danishcamp4:bodo_danishcamp6.1|Dove vuoi arrivare, Bodo?
-; dlga_bodo_danishcamp5_1:bodo_danishcamp6|You are clever, and you know me better than I thought, {playername}. My mission over the years has been to create and strengthen this alliance. Certainly, it affects me if that breaks. However, I want you to understand the full seriousness of this situation. I do not think I would exaggerate to call this a historical moment.
+dlga_bodo_danishcamp5_1:bodo_danishcamp6|Sei scaltro, e mi conosci meglio di quanto pensassi, {playername}. La mia missione nel corso degli anni è stata quella di creare e rinforzare quest'alleanza. Certamente, mi riguarderebbe vederla rompersi. Comunque, voglio che tu capisca la piena serietà di questa situazione. Non credo di esagerare definendo questo un momento storico.
 dlga_bodo_danishcamp5_2:bodo_danishcamp6|Sei stato in Danimarca con me. Credi davvero alle tue parole? I Danesi possono inviare più uomini il prossimo anno, e l'anno dopo ancora.
 dlga_bodo_danishcamp5_3:bodo_danishcamp6|Sì, questo potrebbe accadere... I Danesi sono persone che sanno affrontare le difficoltà che gli si parano davanti.
 dlga_bodo_danishcamp6:bodo_danishcamp7|Ti chiedo di non consegnare ancora le mie lettere diplomatiche ai Sassoni. Prima, dobbiamo risolvere questa situazione d'assedio, evitando il combattimento se possibile, perchè potrebbe compromettere la mia missione.
@@ -1093,30 +1093,30 @@ dlga_bodo_danishcamp8_1:bodo_danishcamp8|Sì, lo penso anch'io, ma volevo parlar
 dlga_bodo_danishcamp8_2:bodo_danishcamp8|Quando verrà il momento, parleremo di questo problema. Non adesso.
 dlga_bodo_danishcamp8:close_window|Beh, non voglio tratterti a lungo. Vai a vedere Bjorn Ironside Ragnarsson.
 dlga_companions_despuesduelo1:companions_despuesduelo2|Ciò che è successo era inevitabile, amico mio. O io o tu.
-; dlga_companions_despuesduelo2:companions_despuesduelo3|I understand the weight you carry on your shoulders, because I just experienced the same, after the massacre on the Woden Ric. I know no words can soothe you, but nobody expected Reginhard's betrayal. None of this is your fault.
+dlga_companions_despuesduelo2:companions_despuesduelo3|Comprendo il peso che porti sulle tue spalle, perché ci sono appena passato anche io, dopo il massacro sul Woden Ric. So bene che non ci sono parole che possano confortarti, ma nessuno si aspettava il tradimento di Reginhard. Di nulla di ciò che è accaduto è colpa tua.
 dlga_companions_despuesduelo3:companions_despuesduelo3_1|Grazie per le tue parole, ma non preoccuparti. Sto bene.
 dlga_companions_despuesduelo3:companions_despuesduelo3_2|Meritava di morire, non mi dispiace.
 dlga_companions_despuesduelo3:companions_despuesduelo3_3|L'ho ucciso... Non credo riuscirò mai a perdonarmelo. Sono una persona terribile.
 dlga_companions_despuesduelo3_2:companions_despuesduelo3_1|Sembra che non dovrò preoccuparmi per te; sei una persona senza sentimenti.
 dlga_companions_despuesduelo3_3:companions_despuesduelo3_4|Questo non è necessario. Pensavo fossi una persona forte, con forza d'animo.
 dlga_companions_despuesduelo3_4:companions_despuesduelo3_1|{s2}^^Ignoralo. Non sa quanto può essere difficile.
-; dlga_companions_despuesduelo3_1:companions_despuesduelo4|{s2}^^My God, my God, I... I'm guilty, and I don't understand why you've forgiven me. I let Sigurd lie to me. I thought it was an opportunity to be happy with a house and a wife. So I blamed you for the death of Thiaderd, but the fault is really mine. I started it all when I betrayed him to the jarl of Kennemer. Everything I do, I do wrong, and now Egil is dead because of me. I deserve to die. Please kill me.
-; dlga_companions_despuesduelo3_1:companions_despuesduelo5|{s2}^^I do not understand all the tears. Reginhard betrayed us. I trusted him. Everybody trusted him. I thought he was a good guy, and what he did was spy for Sigurd. He sold us out for a house and a woman. Reginhard was a piece of shit and deserved his death.
+dlga_companions_despuesduelo3_1:companions_despuesduelo4|{s2}^^Mio Dio, mio Dio, io... io sono colpevole, e non capisco perché mi hai perdonato. Ho lasciato che Sigurd mi mentisse. Ho creduto fosse un'opportunità per vivere felice con una casa ed una moglie. Così ti ho maledetto per la morte di Thiaderd, ma la colpa è solamente mia.^Ho cominciato tutto quando lo tradii per il jarl di Kennemer. Tutto ciò che faccio è male ed ora Egil è morto per causa mia. Mi merito di morire. Ti prego, uccidimi.
+dlga_companions_despuesduelo3_1:companions_despuesduelo5|{s2}^^Non capisco tutte queste lacrime. Reginhard ci ha traditi. Mi sono fidato di lui. Tutti ci siamo fidati di lui. Pensavo fosse un tipo a posto, e quello che faceva era spiare per Sigurd.^^Ci ha venduti per una casa ed una donna. Reginhard era un pezzo di merda e si è meritato la sua morte.
 dlga_companions_despuesduelo3_1:companions_despuesduelo5.1|Reginhard ci ha traditi. Mi fidavo di lui. Tutti si fidavano di lui, ma era una spia di Sigurd.
 dlga_companions_despuesduelo5:companions_despuesduelo5_1|Hai ragione, Reginhard era un pezzo di merda, meritava di morire.
 dlga_companions_despuesduelo5:companions_despuesduelo5_2|No, era un uomo disperato che aveva perso tutto.
 dlga_companions_despuesduelo5:companions_despuesduelo5_3|Il pezzo di merda sei tu, ti voglio fuori dela mia compagnia. Torna da tuo padre.
 dlga_companions_despuesduelo5_1:close_window|Sono contento che la pensiamo allo stesso modo. Per un attimo, ho dubitato della capacità di guidarci. Stiamo viaggiando in luoghi pericolosi e abbiamo bisogno che tu stia bene. Ora possiamo proseguire per la nostra strada.
 dlga_companions_despuesduelo5_2:close_window|Disperato o no, era un traditore. Non vale la pena di spendere un'altra parola. Continuiamo per la nostra strada.
-; dlga_companions_despuesduelo5_3:close_window|{s2}^^Oh, to be sure, you won't! This is the best news I could have heard! I leave your pathetic little company to return to a true leader, a king, my father, Horik. I now leave you, save for my hope that they kill you in Englaland.
+dlga_companions_despuesduelo5_3:close_window|{s2}^^Oh, stanne certo, non lo farai! Questa è la notizia migliore che avessi potuto udire! Lascio tornare la tua piccola patetica compagnia da un vero capo, un re, mio padre, Horik. Ora vi lascio, salvi, in mia speranza che vi uccidano in Inghilterra.
 dlga_companions_despuesduelo4:companions_despuesduelo4_1|Sei colpevole, Reginhard. Ti risparmierò la vita, ma non ti voglio più vedere.
 dlga_companions_despuesduelo4:companions_despuesduelo4_2|Sì, sei colpevole, esaudirò il tuo desiderio, morirai. --Uccidi Reginhard--.
 dlga_companions_despuesduelo4:companions_despuesduelo4_3|Sigurd ti ha ingannato. Non è colpa tua. Ti perdono.--.
-; dlga_companions_despuesduelo4_1:close_window|Thank you for respecting my life. I understand your decision. If I may say so, you're a Soguligr, someone worth giving material to in the sagas. I hope someday in the future we can meet as friends, forget the bad and remember all the good from the time we spent together.^^{s2}
-; dlga_companions_despuesduelo4_3:close_window|{s2}^^Thank you for respecting my life and forgiving me. This will never happen again. I will be faithful to you above all men. My life belongs to you. If I may say so, you're a Soguligr, someone worth giving material to in the sagas.
+dlga_companions_despuesduelo4_1:close_window|Grazie per aver rispettato la mia vita. Capisco la tua decisione. Sei, per così dire, un Soguligr, qualcuno di degno a cui dare del materiale nei racconti.^^Spero che un giorno possiamo incontrarci da amici, dimenticare il brutto e ricordare tutto il buono del tempo che abbiamo trascorso insieme.^^{s2}
+dlga_companions_despuesduelo4_3:close_window|{s2}^^Grazie per aver rispettato la mia vita e avermi perdonato. Non succederà mai più. Ti sarò fedele al di sopra di ogni altro uomo. La mia vita ti appartiene. Sei, per così dire, un Soguligr, qualcuno degno di ricevere del materiale, nei racconti.
 dlga_companion_reginhard4x:companion_reginhard43|Sono una persona di fiducia, come puoi vedere. Ora dimmi, dov'è Thiaderd con i suoi uomini?
-; dlga_companion_reginhard41:companion_reginhard4|{s2}^^I betrayed them, so I'm here drowning my sorrows in mead. They were my brothers, my friend. I sold one of my brothers to the jarl of Kennemer for money! I sold Thiedold, our leader's brother. Now they want to kill me, and I am awaiting my death as a betrayer. Damn that day I fell for the jarl! Damned jarl!
-; dlga_companion_reginhard42:companion_reginhard4|Thiaderd? Don't you know him? I cannot describe in words what kind of a person he is. The men would die for him, it is true. The Danish are afraid because they know that someday Thiaderd will raise an army of Frisians and throw them out of our land.
+dlga_companion_reginhard41:companion_reginhard4|{s2}^^Li ho traditi, così sono qui ad affogare le mie sofferenze nell'idromele.^^Erano miei fratelli, amico mio. Ho venduto uno dei miei fratelli al jarl di Kennemer per denaro! Ho venduto Thiedold, il fratello del nostro capo. Ora vogliono uccidermi, e io attendo la mia morte come traditore.^^Maledetto il giorno in cui il jarl mi ingannò! Maledetto jarl!
+dlga_companion_reginhard42:companion_reginhard4|Thiaderd? Non lo consoci? Non riesco a descrivere a parole che tipo di persona sia. Gli uomini morirebbero per lui, è vero.^I Danesi hanno paura perché sanno che un giorno Thiaderd radunerà un esercito di Frisoni e li caccerà fuori dalla loro terra.
 dlga_companion_reginhard43:companion_reginhard5|Perché? Questo è un segreto che non voglio rivelare.
 dlga_companion_reginhard5:companion_reginhard51|Beh, desidero unirmi a loro. Sono un ribelle!
 dlga_companion_reginhard5:companion_reginhard52|Ho una proposta d'affari per Thiaderd. Pagherò 300 denari per sapere dov'è.
@@ -1125,15 +1125,15 @@ dlga_companion_reginhard5:companion_reginhard53|Se mi parli di Thiaderd, sicuram
 dlga_companion_reginhard5:close_window|Beh, ho capito. Tornerò con più soldi -- 300 denari, per esempio.
 dlga_companion_reginhard51:companion_reginhard5|Non accettano chiunque lo affermi.
 dlga_companion_reginhard52:companion_recruit_backstory_response2|Beh, mi sembrate una brava persona. Prenderò i soldi e mi unirò a voi, perché ho bisogno anch'io di parlare con lui. Thiaderd è un uomo che apprezza la forza, quindi vi suggerisco di portare i vostri uomini.
-; dlga_companion_reginhard53:companion_recruit_backstory_response2|{s2}^^Thank you, {playername}. You are right. I need to talk to them. I will join you. Thiaderd's hideout is in the mountains in the east. Let me show you the way.
-; dlga_companion_reginhard54:companion_recruit_backstory_response2|{s2}^^You may be a joker, {playername}, but you are right. No secrets between us! Also, I need to talk to them and tell them that the jarl lied to me. I would rather die than continue here. I will join you. Thiaderd's hideout is in the mountains in the East. Let me show you the way.
+dlga_companion_reginhard53:companion_recruit_backstory_response2|{s2}^^Grazie, {playername}. Hai ragione. Devo parlare con loro. Mi unirò a te. Il nascondiglio di Thiaderd si trova tra i monti ad est. Lascia che ti mostri la strada.
+dlga_companion_reginhard54:companion_recruit_backstory_response2|{s2}^^Sarai anche un burlone, {playername}, ma hai ragione. Nessun segreto tra di noi! Inoltre, devo parlare con loro e dire che il jarl mi ha mentito. Preferirei morire piuttosto che continuare qui.^Mi unirò a te. Il nascondiglio di Thiaderd si trova tra i monti ad est. Lascia che ti mostri la strada.
 dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest|Sei il benvenutro! Andiamo.
 dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest.1|Credo che abbiamo bisogno di una guida al nascondiglio, ma  potrebbe abbandonarci là.
 dlga_companion_recruit_backstory_response:companion_egilrefuse|Il mio rapporto con il Re Horik è... delicato. Verrai com me ma ciò potrebbe causarti dei problemi..
-; dlga_companion_egilrefuse:companion_egilrefuse2|No, you misunderstand me. I serve King Horik, and when you talked to the king, I asked him to let me go with you. I need to make a name and gain reputation, and you need someone who can back you up with the king.
+dlga_companion_egilrefuse:companion_egilrefuse2|No, mi hai frainteso. Io servo Re Horik, e quando tu hai parlto con il re, gli ho chiesto di lasciarmi venire con te.^Ho bisogno di farmi un nome ed una reputazione, e tu hai bisogno di qualcuno che ti copra le spalle con il re.
 dlga_companion_egilrefuse2:companion_egilrefuse3|No, non c'è spazio per te nella mia compagnia.
 dlga_companion_egilrefuse2:companion_recruit_signup|Bene, combattiamo?
-; dlga_companion_egilrefuse3:companion_egilrefuse4|I see you do not understand anything, and that makes everything more difficult. King Horik wants me to go with you, and he is the king in these lands. You must obey his wishes. While you're in Danmark, I'll be with you. If anything happens to me, you'll have trouble with King Horik.
+dlga_companion_egilrefuse3:companion_egilrefuse4|Vedo che non capisci proprio niente, e ciò rende tutto più difficile. Re Horik vuole che io venga con te, ed è il re di queste terre. Devi assecondare i suoi desideri.^^Mentre ti trovi in Danimarca, io sarò con te. Se mi succede qualcosa, avrai dei guai da Re Horik.
 dlga_companion_egilrefuse4:companion_recruit_signup|Vedo. Vuole avere una spia tra i miei uomini. Spero che tu sappia almeno combattere.
 dlga_companion_recruit_signup_responsebrunhild:companion_recruit_payment|Tuo padre ti vuole il più lontano possibile dallo Jarl, capisco il perché. Benvenuto.
 dlga_companion_recruit_signup_responsebrunhild:close_window|Sfortunatamente, non posso avere altre braccia al mio servizio ora.
@@ -1292,9 +1292,9 @@ dlga_center_captured_lord_advice:center_captured_lord_advice_2.2|{s66}, potreste
 dlga_center_captured_lord_advice_2:minister_issues|Come desiderate, {reg59?mia signora:sire}. {reg6?Io sarò:{reg7?Voi sarete:{s11} sarà}} {reg3?la nuova signora:il nuovo signore} di {s1}.
 dlga_center_captured_lord_advice_2:close_window|Hmmm. Così sia, {playername}. Ho valutato il vostro consiglio. {reg6?Io sarò:{reg7?Voi sarete:{s11}}} {reg3?la nuova signora:il nuovo signore} di {s1}.
 dlga_event_triggered:reginhard_calm1|Mio Dio, Mio Dio, è morto. Abbiamo ucciso Thiaderd.
-; dlga_event_triggered:reginhard_mission3_1|All right, {playername}, you've seen who the jarl is, and you know what he did. He only wants one thing -- the power -- and now he's using you to take it, as before he used me to reach my Thiaderd. For him, we are expendable tools, and the jarl of Kennemer will finish you off when you're either not useful or become dangerous, as he did with me.
-; dlga_event_triggered:reginhard_postdoccingaca|The jarl of Kennemer is an ambitious and dangerous man, I admire your fortitude to bite him and help save Doccinga despite the consequences this has had. You are a good person.^^Friese can be hostile land for us now, but I'm sure we'll find our destiny elsewhere.
-; dlga_event_triggered:egil_mensajerey|{reg59?My lady:Sir}, I have taken the liberty of sending a message to King Horik. I think it will be best if we have the support of some of the king's men, especially if you have any intention of killing Sven.^Well, I have not spent much time with you, but I think this could lead to a battle. I hope you will look well upon the initiative I took to invite the king's men to join us.
+dlga_event_triggered:reginhard_mission3_1|Benissimo, {playername}, hai visto chi è il jarl, e tu sai ciò che ha fatto. Lui vuole solo una cosa -- il potere -- ed ora ti sta usando per prenderselo, come in precedenza ha usato me per arrivare al mio Thiaderd.^^Per lui siamo solo attrezzi sacrificabili ed il jarl di Kennemer ti farà fuori quando diventerai inutile o pericoloso, come ha fatto con me.
+dlga_event_triggered:reginhard_postdoccingaca|Il jarl di Kennemer è un uomo ambizioso e pericoloso, io ammiro il coraggio che hai dimostrato nel dargli fastidio e nell'aiutare a salvare Doccinga, nonostante le conseguenze che ciò ha comportato. Sei una brava persona.^^Ora la Frisia può essere una terra ostile per noi, ma sono certo che il destino tornerà a sorriderci da qualche altra parte.
+dlga_event_triggered:egil_mensajerey|{reg59?Mia signora:Mio signore}, mi sono preso la libertà di inviare un messaggio a Re Horik. Credo che sarà meglio avere il supporto di qualche uomo del re, specialmente se avete intenzione di uccidere Sven.^Beh, non ho trascorso molto tempo con voi, ma credo che questo condurrà ad una battaglia. Spero che gradirete l'iniziativa che ho attuato di invitare gli uomini del re ad unirsi a noi.
 dlga_egil_mensajerey:egil_mensajerey1|Si, penso sia una buona idea, Egil. Grazie.
 dlga_egil_mensajerey:egil_mensajerey2|No, non voglio che tu prenda iniziative senza chiedermelo in anticipo. Capito?
 dlga_egil_mensajerey:egil_mensajerey3|Egil, chiedi a me prima di prendere una decisione. non possiamo rischiare di fare errori.
@@ -1306,7 +1306,7 @@ dlga_reginhard_calm2:reginhard_calm3|{s2} Si, lui non mi ha ascoltato. Lo jarl m
 dlga_reginhard_calm3:reginhard_calm4|Cos'è l'Aquila di Sangue?
 dlga_reginhard_calm3:reginhard_calm42|È morto da guerriero. È tempo di andare avanti. lo jarl di Kennemer ci aspetta.
 dlga_reginhard_calm3:reginhard_calm43|È morto come un guerriero, ma tu vivi come codardo. Vai a dare la notizia allo Jarl e lascia la sua compagnia.
-; dlga_reginhard_calm4:reginhard_calm3|The Danish call it Blodugr Orn. They cut away all of the ribs from the spine, and then they rip out the living lungs to flap like eagle's wings.^It is horrible! I hope you never see it.
+dlga_reginhard_calm4:reginhard_calm3|I Danesi lo chiamano Blodugr Orn. Tagliano via tutte le costole dalla spina dorsale e dopo estraggono i polmoni in modo che sventolino come le ali di un'aquila.^È orribile! Spero che tu non lo debba mai vedere.
 dlga_reginhard_calm42:reginhard_calm_finalcon|{s4}Allora tu lavori per lo jarl di Kennemer... Alla fine,lui ha ottenuto ciò che voleva. Wyrd bid ful araed. Uno solo non può combattere il fato. Thiaderd è merto, e ora tu sei la mia nuova famiglia.
 dlga_reginhard_calm43:reginhard_calm_finalcon|{s4}Si,sono un codardo,ma tu non sei meglio di me. Tu mi hai usato per catturarlo. Thiarderd era un brav'uomo. La sua unica colpa è stata quella di ribellarsi contro i danesi e combattere per la libertà. Dio mi perdoni! Io accetto il mio fato! Parla con il tuo jarl. Dopo,quando me lo dirai,andrò via dal tuo gruppo. Gaed a wyrd swa hio scel!
 dlga_reginhard_calm_finalcon:reginhard_calm_finalcon2|Gaed a wyrd swa hio scel!
@@ -1356,10 +1356,10 @@ dlga_companion_political_grievance_response:close_window|La vostra opinione è n
 dlga_event_triggered:companion_rejoin_response|Bene, {s21}, alla fine ti ho trovato. Sono andata a diffondere la parola della tua rivendicazione e ora sono pronta a riunirmi alla Compagnia.
 dlga_event_triggered:companion_rejoin_response.1|Bene, {s21}, alla fine ti ho trovato! {s11}. Il resto del mio rapporto te lo presenterò per iscritto.
 dlga_event_triggered:companion_embassy_results|Bene, {s21}, alla fine ti ho trovato. Sono tornato dalla mia missione a {s31}. Nell'insieme, direi, {s14}.
-; dlga_companion_embassy_results:companion_rejoin_response|In this letter, {s12} addresses you as {reg59?Lady:Lord} of the {s4}, which implies some sort of recognition that you are a sovereign and independent monarch.
+dlga_companion_embassy_results:companion_rejoin_response|In questa lettera, {s12} si rivolge a te come {reg59?Signora:Signore} di {s4}, il che sottintende una sorta di riconoscimento che tu sia un monarca indipendete ed autonomo.
 dlga_companion_embassy_results:companion_rejoin_response.1|In questa lettera, {s12} si rivolge a te come {reg59?Signora:Signore} di {s4}, il che implica il riconoscimento in qualità di monarca indipendente.
-; dlga_companion_embassy_results:companion_rejoin_response.2|In his letter, {s12} merely refers to you as {playername}. {reg65?She:He} refused to acknowledge that you hold court in a former fief. This does not constitute recognition of your right to rule.
-; dlga_companion_embassy_results:companion_rejoin_response.3|In his letter, {s12} merely refers to you as {playername}, omitting any title. This does not constitute recognition of your right to rule. {reg65?She:He} seemed nonplussed that you do not hold court anywhere.
+dlga_companion_embassy_results:companion_rejoin_response.2|In questa lettera, {s12} si rivolge a te semplicemente come {playername}. {reg65?Ella:Egli} si rifiuta di riconoscere che hai avuto degli ammiratori in un feudo precedente. Questo non costituisce alcun riconoscimento al tuo diritto a regnare.
+dlga_companion_embassy_results:companion_rejoin_response.3|In questa lettera, {s12} si rivolge a te semplicemente come {playername}, omettendo qualsiasi titolo. Questo non costituisce alcun riconoscimento al tuo diritto a regnare. {reg65?Ella:Egli} sembra stupefatt{reg65?a:o} che tu non riceva degli ammiratori da nessuna parte.
 dlga_companion_embassy_results:companion_rejoin_response.4|In questa lettera, {s12} si rivolge a te semplicemente come {playername}, omettendo qualsiasi titolo. Questo non costituisce alcun riconoscimento al tuo diritto a regnare.
 dlga_companion_embassy_results:companion_rejoin_response.5|{s12} dice che l'attuale tregua deve ritenersi sufficiente.
 dlga_companion_embassy_results:companion_truce_confirm|{s12} dice che è disposto a prendere in considerazione una tregua.
@@ -1543,11 +1543,11 @@ dlga_eormenred_historia:lord_pretalk|Mi dispiace, ma io ti conosco appena. Non m
 dlga_eormenred_historia:eormenred_talk1|Cosa? --Sgrana gli occhi-- Sì, ma... Non avrete intenzione di viaggiare verso nord in Alban? Non dovresti andare, {playername}. Quando ero giovane ci andai con un folto gruppo di guerrieri al mio fianco, la mia beadupreat. Ti andrebbe di ascoltare la mia storia?
 dlga_eormenred_talk1:eormenred_historia1|Certamente. Mi interessa.
 dlga_eormenred_talk1:lord_pretalk|No grazie. Ho altri affari che mi attendono.
-; dlga_eormenred_historia1:eormenred_historia2|Picts are strange, weird people. --He whispers.-- Some young warriors paint their bodies and become dangerous bandits. Pictish villages are dirty and hidden between the high peaks and dense forests that cover their land. I remember that from several years ago, when I took a war band of young warriors there to plunder and pillage.
-; dlga_eormenred_historia2:eormenred_historia3|After days of travel, we spotted a village spread about a strange construction. Today, I know it was a Broch, a fortress erected by the ancients. The Picts found the ruins, repaired them, and built their homes under its protection. We felt a sudden surge of happiness. There was booty, cattle and women. -- He smiles. -- The doors and gates were wide open. They were not expecting us, we all thought. We started howling like wolves, excited by the prospect of battle. We prepared our spears and swords, gathered our shields and ran, certain that our victory was going to be as easy as it would be profitable. We were young, passionate, and anxious to show our worth. What would you have done?
+dlga_eormenred_historia1:eormenred_historia2|I Pitti sono gente strana, gente pazza.^--Sospira.-- Alcuni giovani guerrieri si dipingono il corpo e diventano pericolosi banditi. I villaggi Pitti sono sporchi e rintanati tra le alte vette e le dense foreste che coprono la loro terra. Me lo ricordo da parecchi anni fa, quando feci parte di una giovane banda di combattenti là, a saccheggiare e depredare.
+dlga_eormenred_historia2:eormenred_historia3|Dopo giorni di viaggio, avvistammo un villaggio sparso attorno ad una strana costruzione. Oggi so che quello era un Broch, una fortezza eretta dagli antichi.^I Pitti trovarono le rovine, le ristrutturarono e costruirono le loro case sotto la sua protezione.^^Sentimmo subito una grande ondata di felicità. C'erano bottino, bestiame e donne. --Sorride.-- Le porte ed i cancelli erano spalancati. Non ci aspettavano, pensammo tutti. Cominciammo ad ululare come lupi, eccitati al pensiero della battaglia.^^Preparammo le nostre lance e le spade, unimmo gli scudi e corremmo, certi che la nostra vittoria sarebbe stata tanto facile quanto redditizia. Eravamo giovani, impetuosi e ansiosi di mostrare quello di cui eravamo capaci. Tu che avresti fatto?
 dlga_eormenred_historia3:eormenred_historia4|Mm... Troppo semplice. Avreste dovuto sospettare una trappola, ma vi prego di continuate,
 dlga_eormenred_historia3:lord_pretalk|Che storia triste! Vi siete comportati come un gruppo di reclute inesperte.
-; dlga_eormenred_historia4:eormenred_historia5|Yes, I know you are right, but back then we all were exceedingly impetuous. --He beats his chest.-- As for them, well, they were expecting us long before we even knew their village existed. They had archers, by Woden! ...beg pardon, by God! and an awful lot of arrows. Their Isenscur, or rain of arrows, was death to my men. One for one, arrow by arrow. Only I survived, for in fact they knew who I was... I was captured and forced to do their queen's bidding. When she tired of me, they ransomed me for a treasure worth many gold coins. My father gladly paid it when they sent him my left ear inside a finely wrought leather pouch. Hear me! Forget Pictland!
+dlga_eormenred_historia4:eormenred_historia5|Sì, adesso so che hai ragione tu, ma allora eravamo tutti troppo impetuosi. --Si batte il petto.-- ^^Quanto a loro, beh, ci stavano aspettando da ancor prima che noi sapessimo della loro esistenza. Avevano gli arcieri, per Woden! ...chiedo perdono, per Dio! Ed una terribile valanga di frecce. La loro Isenscur, o pioggia di frecce, fu la morte per i miei uomini. Uno per uno, freccia dopo freccia.^^Solo io sopravvissi, e difatti sapevano chi io fossi... Mi catturarono e mi obbligarono a servire la loro regina. Quando si stancò di me, mi riscattarono per un tesoro che valeva parecchie monete d'oro. Mio padre lo pagò felicemente quando gli spedirono il mio orecchio sinistro dentro un sacchetto di pelle finemente lavorato.^^Dammi retta! Dimentica la Pittavia!
 dlga_eormenred_historia5:lord_pretalk|Grazie, mio signore. Ho imparato molto dalla tua storia, non intromettersi mai negli affari dei Pitti.
 dlga_eormenred_historia5:lord_pretalk.1|Che storia triste! I tuoi uomini si sono comportati come un gruppo di reclute inesperte -- guidate da un capo idiota.
 dlga_start:close_window.50|Ora morirai!
@@ -1555,7 +1555,7 @@ dlga_start:close_window.51|Ora morirai!
 dlga_mother_prisoner_saco:mother_prisoner_saco2|Madre? State bene?
 dlga_mother_prisoner_saco:mother_prisoner_saco3|(Rimuovi il sacco)
 dlga_mother_prisoner_saco3:mother_prisoner_saco4|(Delicatamente, togli il sacco dalla testa di tua madre)
-; dlga_mother_prisoner_saco4:close_window|{s2}^^Perhaps you thought we were just going to give you your mother? After what you've done -- destroying our plans in Doccinga, insulting my jarl at his own home -- Sigurd Ragnarsson wants you dead.
+dlga_mother_prisoner_saco4:close_window|{s2}^^Pensavi forse che ti avremmo semplicemente ridato tua madre? Dopo ciò che hai fatto -- facendo saltare il nostro piano a Doccinga, insultando il mio jarl nella sua dimora -- Sigurd Ragnarsson ti vuole morto.
 dlga_start:maelbresail_men1|Benvenuto, {playername}. Il mio signore, Mael Bresail, mi ha detto che saresti venuto.
 dlga_maelbresail_men1:maelbresail_men2|Dov'è il tuo signore?
 dlga_maelbresail_men1:maelbresail_men3|Sono pronto per il symbel. Attendo solo Mael Bresail.
@@ -1570,10 +1570,10 @@ dlga_seneschal_quest_1:seneschal_quest_norse|Sono pronto a diventare konungr dei
 dlga_seneschal_quest_1:seneschal_quest_briton|Sono pronto a diventare Vrenhin Lloegr, sovrano dei britanni.
 dlga_seneschal_quest_1:seneschal_quest_irish|Sono pronto a diventare Ard Ruire, alto Re dei Gaeli.
 dlga_seneschal_quest_1:seneschal_quest_saxon|Sono pronto a diventare un Brytenwalda, Signore di tutti i popoli Inglesi.
-; dlga_seneschal_quest_norse:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Norse value their freedom of action. Well, I will add your story in my history book and proclaim you Konungr of the Norse. In recognition of your accomplishment, I give you the treasure of the Norse.
-; dlga_seneschal_quest_briton:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Britons are tough people. Well, I will add your story in my history book and proclaim you Vrenhin Lloegr, ruler of the Britons. In recognition of your accomplishment, I give you the treasure of the Britons.
-; dlga_seneschal_quest_irish:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Goidels are independent people who accept with difficulty the leadership of others. Well, I will add your story in my history book and proclaim you Ard Ruire of the Goidels. In recognition of your accomplishment, I give you the treasure of the Goidels.
-; dlga_seneschal_quest_saxon:seneschal_quest_2f|You have done it, my {reg59?lady:lord}! I am very surprised, because the Angles and Saxons are distrustful people. Well, I will add your story in my history book and proclaim you Brytenwalda, ruler over all Englaland. In recognition of your accomplishment, I give you the treasure of the Angles and Saxons.
+dlga_seneschal_quest_norse:seneschal_quest_2f|Ce l'avete fatta, {reg59?mia signora:mio signore}! Sono davvero stupefatto, perché i Norreni tengono molto alla loro libertà d'azione. Bene, aggiungerò la vostra vicenda nel mio libro di storia e vi proclamerò Konungr del Norse. Come riconoscimento del vostro successo, vi conferisco il tesoro del Norse.
+dlga_seneschal_quest_briton:seneschal_quest_2f|Ce l'avete fatta, {reg59?mia signora:mio signore}! Sono davvero stupefatto, perché i Bretoni sono gente tosta. Bene, aggiungerò la vostra vicenda nel mio libro di storia e vi proclamerò Vrenhin Lloegr, sovrano dei Bretoni. Come riconoscimento del vostro successo, vi conferisco il tesoro dei Bretoni.
+dlga_seneschal_quest_irish:seneschal_quest_2f|Ce l'avete fatta, {reg59?mia signora:mio signore}! Sono davvero stupefatto, perché i Gaelici sono persone indipendenti che accettano malvolentieri di essere comandanti da altri. Bene, aggiungerò la vostra vicenda nel mio libro di storia e vi proclamerò Ard Ruire dei Gaelici. Come riconoscimento del vostro successo, vi conferisco il tesoro dei Gaelici.
+dlga_seneschal_quest_saxon:seneschal_quest_2f|Ce l'avete fatta, {reg59?mia signora:mio signore}! Sono davvero stupefatto, perché gli Angli ed i Sassoni sono gente diffidente. Bene, aggiungerò la vostra vicenda nel mio libro di storia e vi proclamerò Brytenwalda, sovrano dell'intera Inghilterra. Come riconoscimento del vostro successo, vi conferisco il tesoro degli Angli e dei Sassoni.
 dlga_seneschal_quest_2f:close_window|Grazie mille per il premio, per aver aumentato il mio prestigio e la mia fama. Addio, cronista!
 dlga_seneschal_quest_1:seneschal_quest_2|Chi sei tu?
 dlga_seneschal_quest_1:seneschal_quest_2.1|Dimmi di te, Britanno?
@@ -1586,17 +1586,17 @@ dlga_seneschal_quest_3:close_window|Molto bene. Addio.
 dlga_seneschal_quest_4:seneschal_quest_5|Per prima cosa, devi essere la persona più importante in questa parte del mondo. Ciò significa spodestare la persona che attualmente detiene tale posizione e unificanre sotto di te tutto questo territorio. Vuoi raccogliere questa sfida?
 dlga_seneschal_quest_5:seneschal_quest_6|Sicuro.
 dlga_seneschal_quest_5:close_window|No. Addio.
-; dlga_seneschal_quest_6:seneschal_quest_7|Surely, you are bold to take on the challenge of uniting all the small kingdoms and conflicting jarls of the Norse under your command.^For me to be your chronicler and give you the title of Konungr of the Norse, you must unify the territory of these towns under your kingdom: Ribe, Tunsberg and Dorestad.^^Good luck. Return when you have subjugated these territories, and I will proclaim that you are the most powerful {reg59?queen:king} among the Norse.
-; dlga_seneschal_quest_6:seneschal_quest_7.1|Surely, you are bold to take on the challenge of uniting all the small kingdoms and conflicting lords of the Britons under your command.^For me to be your chronicler and give you the title of Vrenhin Lloegr, the king of the Britons, you must unify the territory of these towns under your kingdom: Ynys Mon, Bosvenegh and Caer Dyf.^^Good luck. Return when you have subjugated these territories, and I will proclaim that you are the most powerful {reg59?queen:king} among the Britons.
-; dlga_seneschal_quest_6:seneschal_quest_7.2|Surely, you are bold to take on the challenge of uniting all the small kingdoms and conflicting lords of the Goidels under your command.^For me to be your chronicler and give you the title of Ard Ruire, the high king of Eriu, you must unify the territory of these towns under your kingdom: Aileach, Cruaghan and Temair.^^Good luck. Return when you have subjugated these territories, and I will proclaim that you are the most powerful {reg59?queen:king} of Eriu.
-; dlga_seneschal_quest_6:seneschal_quest_7.3|Surely, you are bold to take on the challenge of uniting all the small kingdoms and conflicting lords of the Angles and Saxons under your command.^For me to be your chronicler and give you the title of Brytenwalda, ruler over all Englaland, you must unify the territory of these towns under your kingdom: Lundenwic, Witan Ceaster and Jorvik.^^Good luck. Return when you have subjugated these territories, and I will proclaim that you are the most powerful {reg59?queen:king} of Englaland.
+dlga_seneschal_quest_6:seneschal_quest_7|Siete senza dubbio audace ad intraprendere la sfida di unificare tutti i piccoli regni ed gli scontrosi jarl del Norse sotto al vostro comando.^Quanto a me, per essere il vostro cronista e conferirvi il titolo di Konungr del Norse, dovete riunire i territori di queste città sotto al vostro dominio: Ribe, Tunsberg e Dorestad.^^Buona fortuna. Tornate quando avrete soggiogato questi territori, ed io vi proclamerò più potente {reg59?regina:re} tra tutti i Norse.
+dlga_seneschal_quest_6:seneschal_quest_7.1|Siete senza dubbio audace ad intraprendere la sfida di unificare tutti i piccoli regni ed gli scontrosi signori di Britannia sotto al vostro comando.^Quanto a me, per essere il vostro cronista e conferirvi il titolo di Vrenhin Lloegr, {reg59?regina:re} dei Britanni, dovete riunire i territori di queste città sotto al vostro dominio: Ynys Mon, Bosvenegh and Caer Dyf.^^Buona fortuna. Tornate quando avrete soggiogato questi territori, ed io vi proclamerò più potente {reg59?regina:re} tra tutti i Britanni.
+dlga_seneschal_quest_6:seneschal_quest_7.2|Siete senza dubbio audace ad intraprendere la sfida di unificare tutti i piccoli regni ed gli scontrosi signori Gaelici sotto al vostro comando.^Quanto a me, per essere il vostro cronista e conferirvi il titolo di Ard Ruire, somm{reg59?a regina:o re} di Eriu, dovete riunire i territori di queste città sotto al vostro dominio: Aileach, Cruaghan and Temair.^^Buona fortuna. Tornate quando avrete soggiogato questi territori, ed io vi proclamerò più potente {reg59?regina:re} di Eriu.
+dlga_seneschal_quest_6:seneschal_quest_7.3|Siete senza dubbio audace ad intraprendere la sfida di unificare tutti i piccoli regni ed gli scontrosi signori Angli e Sassoni sotto al vostro comando.^Quanto a me, per essere il vostro cronista e conferirvi il titolo di Brytenwalda, sovran{reg59?a:o} dell'intera Inghilterra dovete riunire i territori di queste città sotto al vostro dominio: Lundenwic, Witan Ceaster and Jorvik.^^Buona fortuna. Tornate quando avrete soggiogato questi territori, ed io vi proclamerò più potente {reg59?regina:re} d'Inghilterra.
 dlga_seneschal_quest_7:close_window|Molto bene. Devo comprare inchiostro e pergamena, tornerò presto.
 dlga_start:maelbresail_pactofinal|{playername}, quando sei scappato dalla mia trappola, sono venuto a nascondermi qui. Adesso mi hai trovato e mi sono accorto che contrariamente alle apparenze, sei un uomo pieno di risorse.
 dlga_start:maelbresail_aftermorrigan1|Benvenuto, {playername}. L'abate di Finian mi ha informato che hai eliminato i principali nemici del mio signore. Suppongo che le nostre ricompense siano state per te un modo accettabile per arricchirti.
 dlga_start:maelbresail_dialog1|Si?
 dlga_maelbresail_dialog1:maelbresail_dialog2|Sono {playername}. Mi è stato detto che si desideravi incontrarmi...
 dlga_maelbresail_dialog1:close_window|[Non sai niente]
-; dlga_maelbresail_dialog2:maelbresail_dialog3|Ah, {playername}! The abbot spoke wonders about you and your diligence in solving my problems. I wanted to meet you personally in order to put a face to my hero.^^--He smiles widely--^^Also, I look forward to hearing news about the matter we have pending.
+dlga_maelbresail_dialog2:maelbresail_dialog3|Ah, {playername}! L'abate mi ha parlato meravigliosamente di voi e della vostra diligenza nel risolvere i miei problemi. Ho voluto incontrarvi di persona per dare un volto al{reg59?a mia eroina: mio eroe}.^^--Sorride ampiamente--^^Inoltre, non vedo l'ora di udire novità riguardo alla nostra questione in sospeso.
 dlga_maelbresail_dialog3:maelbresail_dialog4_1|È un piacere conoscerti, mio signore. I tuoi nemici sono in una fattoria nei pressi di Dinas Bran.
 dlga_maelbresail_dialog3:maelbresail_dialog4|I nipoti di Flaithbertach sono in una fattoria nei pressi di Dinas Bran, mio signore.
 dlga_maelbresail_dialog3:maelbresail_dialog4.1|I nipoti di Flaithbertach sono in una fattoria nei pressi di Dinas Bran.
@@ -1618,22 +1618,22 @@ dlga_maelbresail_aftermorrigan4:maelbresail_aftermorrigan5|Ha detto di essere l'
 dlga_maelbresail_aftermorrigan4:maelbresail_aftermorrigan5_2|È morta prima che potessi parlarci.
 dlga_maelbresail_aftermorrigan5:maelbresail_aftermorrigan6|Lavoro per Aed mac Niall, Ard Ruire di Eriu, mi ha mandato a uccidere gli ultimi membri dei Flaithbertach al fine di eliminare potenziali rivali per il trono.
 dlga_maelbresail_aftermorrigan5_2:maelbresail_aftermorrigan6|Non mentirmi! So quando stai mentendo. I Liars non hanno un posto al mio fianco, ma sulla forca!
-; dlga_maelbresail_aftermorrigan6:maelbresail_aftermorrigan7|You've done a huge favor to Eriu, if you're not aware of it. This island is populated by numerous clans, but each feels entitled to rule over others. The social system is a pyramid -- the weaker subject to the stronger, but all led by the high king, the Ard Ruire. However, the elements of this system constantly mutate, and clan alliances break according to changing interests. In sum, it is very difficult to rule this land.
-; dlga_maelbresail_aftermorrigan7:maelbresail_aftermorrigan8|I believe Aed mac Niall is a good leader, as he favors my interests, and therefore yours. However, Flaithbertach was a man beloved by the Ui-Neill, and his death caused much discomfort. His children could easily have taken up arms with many northern clans. As an internal war within the Kingdom of Aileach would only favor our rivals, the Southern Ui Neill, in their desire to secure once again the throne at Tara. Ard Ruire Aed is strong leader, uniquely able to keep the Vikings at bay. Do you understand?
+dlga_maelbresail_aftermorrigan6:maelbresail_aftermorrigan7|Avete reso un grande favore a Eriu, se non ve ne siete accort{reg59?a:o}. Quest'isola è popolata da numerosi clan, ma ognuno di essi si sente in diritto di governare su tutti gli altri. Il sistema sociale è piramidale --il debole è sottoposto al forte, ma tutti comandati dal sommo re, l'Ard Ruire. Comunque, gli elementi di questo sistema cono in costante mutamento, e le allenze tra i clan si rompono in base agli interessi che cambiano. In breve, è molto difficile governare su queste terre.
+dlga_maelbresail_aftermorrigan7:maelbresail_aftermorrigan8|Io credo che Aed mac Niall sia un buon capo, favorisce i miei interessi, e di conseguenza i vostri.^Comunque, Flaithbertach era un uomo adorato dagli Ui Neill e la sua morte ha provocato parecchio sconforto. I suoi bambini potrebbero tranquillamente aver mosso guerra contro vari clan nordici, visto che uno scontro interno al Regno di Aileach favorirebbe solo i nostri rivali, gli Ui Neill del Sud, nel loro desiderio di assicurare ancora una volta il trono a Tara.^^Ard Ruire Aed è un capo forte, unico nella sua capcità di mantenere i Vichinghi sulla baia. Mi capisci?
 dlga_maelbresail_aftermorrigan8:maelbresail_aftermorrigan9_1|Non dovete giustificare le vostre azioni con me.
 dlga_maelbresail_aftermorrigan8:maelbresail_aftermorrigan9_2|Odio la politica.
 dlga_maelbresail_aftermorrigan8:maelbresail_aftermorrigan10|Sicuro.
 dlga_maelbresail_aftermorrigan9_1:maelbresail_aftermorrigan10|Giustificrmi? No, sono felice di farlo.
 dlga_maelbresail_aftermorrigan9_2:maelbresail_aftermorrigan10|La politica è ciò che muove il mondo, ma è un gioco dove si vince o si muore.
-; dlga_maelbresail_aftermorrigan10:maelbresail_aftermorrigan11|Everything I've done has been for the benefit of Eriu. If I had directly attacked Flaithbertach's children, they would have become martyrs, and certain northern clans could have taken up arms under that pretext. You, however, were not among my people, so nobody can associate me. You and the abbot of Finian just killing with some other malefactors. We have not seen one another many times. Now it is your name that is famous for killing the children of Flaithbertach.
+dlga_maelbresail_aftermorrigan10:maelbresail_aftermorrigan11|Tutto ciò che ho fatto fu esclusivamente a beneficio di Eriu. Se avessi attaccato direttamente i biambini di Flaithbertach, sarebbero diventati dei martiri e certi clan nordici avrebbero potuto ribellarsi con un simile pretesto.^^Voi, in ogni caso, non facevate parte della mia gente, quindi nessuno potrà collegare me, voi e l'abate del Finniano solo per le uccisioni con qualche altro criminale. Non ci siamo visti a vicenda per molte volte. Adesso è il tuo nome ad essere famoso per l'uccisione dei bambini di Flaithbertach.
 dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12|Quindi tu mi rifiuti? Dopo tutto quello che ho fatto?
 dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12_2|Voglio più soldi, dirò a tutti in cosa siete coinvolto.
 dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12_3|Traditore! Le tue mani resteranno pulite mentre io sarò odiato da tutti i signori! (Intelligenza)
 dlga_maelbresail_aftermorrigan11:maelbresail_aftermorrigan12_4|Beh, Morrigna è ancora viva.
-; dlga_maelbresail_aftermorrigan12:maelbresail_aftermorrigan13|I never promised you anything I haven't paid. This arrangement was important to Eriu. Now, at least, I help you leave this island. Here many will hate you for killing Flaithbertach's children. I don't abandon any who has served me well, no matter how mercenary. I could reward you with 50,000 peningas. This should help you in your new life far from here.
+dlga_maelbresail_aftermorrigan12:maelbresail_aftermorrigan13|Non ho mai promesso qualcosa che non ho pagato. Questa disposizione è stata importante per Eriu. Ora, almeno, vi aiuto a lasciare l'isola. Qui molti vi odieranno per aver ucciso i figli di Flaithbertach. Io non abbandono nessuno che mi ha servito bene, non importa se come mercenario. Potrei ricompensarvi con 50.000 peningas. Questo dovrebbe aiutarvi nella vostra nuova vita lontano da qui.
 dlga_maelbresail_aftermorrigan12_2:maelbresail_aftermorrigan13|Beh, capisco. Credo di poter pagare il tuo silenzio. Che ne dici di 100.000 denari? Questo dovrebbe aiutarti a ricostruirti una vita lontano da qui
-; dlga_maelbresail_aftermorrigan12_3:maelbresail_aftermorrigan13|You're smarter than you act. I cannot lie. This much is true: many a lord has put you on his list of enemies, but it was for the good of Eriu. However, I desire to give you enough gold for your exile from Eriu. Seventy thousand peningas should be sufficient to start a new life far from here.
-; dlga_maelbresail_aftermorrigan12_4:maelbresail_aftermorrigan13|Aah... I understand you're worried and will try to use anything to scare me. I know Morrigan is no longer a threat. You must leave Eriu as soon as possible, but this does not mean I not care about your welfare. I'll give you 30.000 peningas. This should be sufficient to start a new life far from here.
+dlga_maelbresail_aftermorrigan12_3:maelbresail_aftermorrigan13|Tu sei più in gamba. Non posso mentire. Questo è decisamente vero: molti Signori ti ha messo sulla loro lista di nemici, ma era per il bene di Eriu. Tuttavia, ho deciso di darti abbastanza oro per il tuo esilio da Eriu. Settantamila peningas dovrebbero essere sufficienti per iniziare una nuova vita lontano da qui.
+dlga_maelbresail_aftermorrigan12_4:maelbresail_aftermorrigan13|Aah... Capisco che sei preoccupato e cercherà di usare qualsiasi cosa per farmi paura. So che Morrigan non è più una minaccia. Devi lasciare Eriu al più presto possibile, ma questo non significa che non mi interessa il tuo benessere. Ti darò 30.000 peningas. Questo dovrebbe essere sufficiente per iniziare una nuova vita lontano da qui.
 dlga_maelbresail_aftermorrigan13:maelbresail_aftermorrigan14|Immagino di non avere scelta. Prenderò i soldi e lascierò l'isola.
 dlga_maelbresail_aftermorrigan13:maelbresail_aftermorrigan14.1|Dammi i soldi; poi deciderò cosa fare.
 dlga_maelbresail_aftermorrigan13:maelbresail_aftermorrigan15|Tenetevi i vostri soldi. Voglio che tu cancelli il mio nome da questa storia.
@@ -1645,11 +1645,11 @@ dlga_maelbresail_pactofina2:maelbresail_pactofina3_2|D'accordo, ma scambierò i 
 dlga_maelbresail_pactofina2:maelbresail_pactofina3_3|Non credo. Il sangue viene pagato col sangue. Non vivrai un altro giorno.
 dlga_maelbresail_pactofina3_1:maelbresail_pactofina5|No! La mia famiglia esige vendetta dalle loro tombe. Tutto ciò non può terminare senza il sangue!^^Ti ricordi di me, Mael Bresail? Ti ricordi di me, ratto? Sono venuta per ucciderti!
 dlga_maelbresail_pactofina3_2:maelbresail_pactofina5|No! La mia famiglia esige vendetta dalle loro tombe. Tutto ciò non può terminare senza il sangue!^^Ti ricordi di me, Mael Bresail? Ti ricordi di me, ratto? Sono venuta per ucciderti!
-; dlga_maelbresail_pactofina3_1:maelbresail_pactofina3_6|Here's your money. If ever we meet again, I do not know you. Our business is done. No more fear; no more death. May gold seal our pact, and may God witness our oaths.
+dlga_maelbresail_pactofina3_1:maelbresail_pactofina3_6|Ecco i vostri soldi. Se mai ci incontreremo di nuovo, non so voi. Il nostro affare è fatto. Niente più paura; niente più morte. Possa l'oro sigillare il nostro patto, e che Dio testimoni il nostro giuramento.
 ; dlga_maelbresail_pactofina3_2:maelbresail_pactofina3_6|That seems fair. I shall speak highly of you to my king, and he will love you more than he loves his favorite vassal. If ever we meet again, I do not know you. Our business is done. No more fear; no more death. May God witness our oaths.
 dlga_maelbresail_pactofina3_6:maelbresail_pactofina3_7|Lo giuro. La nostra ostilità è sepolta.
 dlga_maelbresail_pactofina3_7:close_window|Lo giuro su mia madre. Vai in pace. Ora sei un uomo ricco.
-; dlga_maelbresail_pactofina3_3:maelbresail_pactofina4|I see you're a warrior unable to see for the glints from steel, so steel shall you receive. Here. Now. Of the two, only one will leave. Men, to me!
+dlga_maelbresail_pactofina3_3:maelbresail_pactofina4|Vedo che sei un combattente incapace di vedere il bagliore della spada , allora è l'acciaio che riceverai. Qui. Adesso. Tra i due, solo uno uscirà vivo. Uomini, a me!
 dlga_maelbresail_pactofina4:maelbresail_pactofina5|Ti ricordi di me, ratto? Sono venuta per ucciderti, per vendicare la mia famiglia!
 dlga_maelbresail_pactofina4:maelbresail_pactofina5_2|È ora che tornate dal Creatore!
 dlga_maelbresail_pactofina5:close_window|--Terrorizzato--^^Tu? Ma... Uccideteli, ucciderli tutti!
@@ -4171,37 +4171,37 @@ dlga_tavernkeeper_pretalk:tavernkeeper_talk|Nient'altro?
 ; dlga_tavernkeeper_talk:tavernkeeper_deliver_wine_lost|I was told to deliver to you {reg9} units of {s4}, but I lost the cargo on the way.
 ; dlga_tavernkeeper_deliver_wine_lost:tavernkeeper_pretalk|What? I have been waiting for that {s4} for weeks, and now you tell me that you lost it? You may rest assured that I will let {s1} know about this.
 dlga_tavernkeeper_talk:tavernkeeper_messenger_system1|Voglio inviare un messaggio.
-; dlga_tavernkeeper_messenger_system1:tavernkeeper_messenger_system2|We can do that. Who do you want to sent it to? I've heard the following are nearby:
-; dlga_tavernkeeper_messenger_system2:tavernkeeper_pretalk|No, none of those. Later, perhaps.
-; dlga_tavernkeeper_messenger_system3:tavernkeeper_messenger_system4|Very well. What is the message?
-; dlga_tavernkeeper_messenger_system4:close_window|It is this...
-; dlga_tavernkeeper_talk:tavernkeeper_buy_drinks|I'd like to buy every man who comes in here tonight a jar of your best mead.
-; dlga_tavernkeeper_buy_drinks:tavernkeeper_buy_drinks_2|Of course, {reg59?my lady:my lord}. I reckon {reg5} peningas should be enough for that. What should I tell the lads?
+dlga_tavernkeeper_messenger_system1:tavernkeeper_messenger_system2|Possiamo farlo. Chi vuoi inviare a? Ho sentito le seguenti si trovano nelle vicinanze:
+dlga_tavernkeeper_messenger_system2:tavernkeeper_pretalk|No, nessuno di quelli. Più tardi, forse.
+dlga_tavernkeeper_messenger_system3:tavernkeeper_messenger_system4|Ottimo. Qual è il messaggio?
+dlga_tavernkeeper_messenger_system4:close_window|È questo...
+dlga_tavernkeeper_talk:tavernkeeper_buy_drinks|Mi piacerebbe offrire ad ogni uomo che viene qui stasera una bottiglia del vostro miglior idromele.
+dlga_tavernkeeper_buy_drinks:tavernkeeper_buy_drinks_2|Naturalmente, {reg59?mia signora:mio signore}. Mi sa che i  {reg5} peningas dovrebbero essere abbastanza per questo. Cosa devo dire ai ragazzi?
 dlga_tavernkeeper_buy_drinks_2:tavernkeeper_buy_drinks_end|Tutta la gente di {s10} conoscerà la generosità di {playername}!
-; dlga_tavernkeeper_buy_drinks_2:tavernkeeper_pretalk|Actually, forget this.
-; dlga_tavernkeeper_buy_drinks_end:tavernkeeper_pretalk|Don't worry {reg59?madam:sir}. Your name will be cheered and toasted here all night.
-; dlga_tavernkeeper_talk:tavernkeeper_buy_drinks_troops|I'd like to buy me and my men a barrel of your best ale.
-; dlga_tavernkeeper_buy_drinks_troops:tavernkeeper_buy_drinks_troops_2|Of course, {reg59?my lady:my lord}. I reckon {reg5} peningas should be enough for that. What should I tell the lads?
+dlga_tavernkeeper_buy_drinks_2:tavernkeeper_pretalk|In realtà, dimentico.
+dlga_tavernkeeper_buy_drinks_end:tavernkeeper_pretalk|Non si preoccupi {reg59?signora:signore}. Il tuo nome sarà acclamato e brindato qui tutta la notte.
+dlga_tavernkeeper_talk:tavernkeeper_buy_drinks_troops|Mi piacerebbe comprare per me e i miei uomini un barile della vostra miglior birra.
+dlga_tavernkeeper_buy_drinks_troops:tavernkeeper_buy_drinks_troops_2|Naturalmente, {reg59?mia signora:mio signore}. Mi sa che i {reg5} peningas dovrebbero essere abbastanza per questo. Cosa devo dire ai ragazzi?
 ; dlga_tavernkeeper_buy_drinks_troops_2:tavernkeeper_buy_drinks_troops_end|The price is fair enough. Let my men have at it.
-; dlga_tavernkeeper_buy_drinks_troops_end:tavernkeeper_pretalk|Don't worry {reg59?madam:sir}. Your men will enjoy their pints.
-; dlga_tavernkeeper_buy_drinks_troops_2:tavernkeeper_pretalk|Actually, forget this.
-; dlga_tavernkeeper_talk:tavernkeeper_job_ask|Have you heard of anyone in this realm who might have a job for a {reg59?woman:man} like me?
+dlga_tavernkeeper_buy_drinks_troops_end:tavernkeeper_pretalk|Non si preoccupi {reg59?signora:signore}. I vostri uomini potranno godere le loro pinte.
+dlga_tavernkeeper_buy_drinks_troops_2:tavernkeeper_pretalk|In realtà, lasciamo stare.
+dlga_tavernkeeper_talk:tavernkeeper_job_ask|Sapete di qualcuno in questo regno che potrebbe avere un lavoro per {reg59?una donna:un uomo} come me?
 dlga_tavernkeeper_job_ask:tavernkeeper_job_search|Hmm... Vediamo, {s10} è spesso alla ricerca di mercenari per combattere le sue guerre.{s9}
-; dlga_tavernkeeper_talk:tavernkeeper_herrero|Where can I get special weapons and armor?
-; dlga_tavernkeeper_herrero:tavernkeeper_herrero2|Hmm... Well, there are talented blacksmiths that can make them. But, if you want to know their names, you must pay me fifty peningas for the information.
+dlga_tavernkeeper_talk:tavernkeeper_herrero|Dove posso ottenere armi speciali e armature?
+dlga_tavernkeeper_herrero:tavernkeeper_herrero2|Hmm ... Beh, ci sono fabbri di talento che le possono fare. Ma, se se vuole conoscere i loro nomi, deve pagare cinquanta peningas per le informazioni.
 dlga_tavernkeeper_herrero2:tavernkeeper_herrero3|Sicuro. Parla!
-; dlga_tavernkeeper_herrero2:close_window|You are a rat. Farewell!
-; dlga_tavernkeeper_herrero3:tavernkeeper_herrero4|Well, several towns can boast of talented blacksmiths: Eadwine of Dunwic,^Donnchadh of Scuin,^Paega of Witan Ceaster,^Lifris of Bosvenegh,^Fearchair of Ceall Cainnigh,^Atli of Tunsberg,^Harenbili of Dun Breatann,^Egil of Dubh Linn,^Godgyfu Cirren Ceaster,^and Uormuin of Caer Dyf.
-; dlga_tavernkeeper_herrero4:close_window|Thank you. Farewell!
+dlga_tavernkeeper_herrero2:close_window|Tu sei un ratto. Addio!
+dlga_tavernkeeper_herrero3:tavernkeeper_herrero4|Ebbene, molte città possono vantare dei fabbri di talento: Eadwine di Dunwic,^Donnchadh di Scuin,^Paega di Witan ceaster,^Lifris di Bosvenegh,^Fearchair di Ceall Cainnigh,^Atli di Tunsberg,^Harenbili di Dun Breatann,^Egil di Dubh Linn,^Godgyfu Cirren ceaster,^e Uormuin di Caer Dyf.
+dlga_tavernkeeper_herrero4:close_window|Grazie. Addio!!!
 dlga_tavernkeeper_job_search:tavernkeeper_job_result|Fatemici pensare...
 dlga_tavernkeeper_job_result:tavernkeeper_job_search|Ho sentito che {s7}{s9}{s10}. Vi consiglio di parlare con {reg4?lei:lui}.
 ; dlga_tavernkeeper_job_result:tavernkeeper_job_result_2|There may be other work, of course -- lords and village mayors often have other tasks which we don't hear about. Also, the villages around here frequently need help, although they'd be more likely to pay you with a wedge of cheese and goodwill than with cold hard peningas.
 dlga_tavernkeeper_job_result_2:close_window|Terrò le mie orecchie aperte per cogliere altre opportunità. Vi consiglio di tornare a chiedere fra qualche tempo.
-; dlga_tavernkeeper_talk:tavernkeeper_rumor|Any news in this part of the world?
-; dlga_tavernkeeper_rumor:tavernkeeper_rumor2|I guess it's not exactly news, but the world is becoming increasingly dangerous. The roads are full of bandits.
-; dlga_tavernkeeper_rumor:tavernkeeper_rumor2.1|A storm is coming. It's not thunder and lightning but war.
-; dlga_tavernkeeper_rumor:tavernkeeper_rumor2.2|They say that Hild is now the most beautiful woman in all of Englaland. That's why she never comes here anymore! (wink)
-; dlga_tavernkeeper_rumor:tavernkeeper_rumor2.3|Bards say that King Aelle of Bernaccia ordered Ragnar to be thrown into a pit of vipers. That's why his sons are now attacking Englaland.
+dlga_tavernkeeper_talk:tavernkeeper_rumor|Ci sono novità in questa parte del mondo?
+dlga_tavernkeeper_rumor:tavernkeeper_rumor2|Credo che non sia esattamente una novità, ma il mondo sta diventando sempre più pericoloso. Le strade sono piene di banditi.
+dlga_tavernkeeper_rumor:tavernkeeper_rumor2.1|Una tempesta è in arrivo. Non è tuoni e fulmini, ma la guerra.
+dlga_tavernkeeper_rumor:tavernkeeper_rumor2.2|Si dice che Hild ora sia la donna più bella di tutta l'Inghilterra. È per questo che non viene più qui! (occhiolino)
+dlga_tavernkeeper_rumor:tavernkeeper_rumor2.3|I bardi dicono che il re Aelle di Bernaccia ha ordinato gettare Ragnar in una fossa di vipere. È per questo che i suoi figli ora stanno attaccando Englaland.
 ; dlga_tavernkeeper_rumor:tavernkeeper_rumor2.4|When Aethelwulf of West Seaxe died, Aethelbald, his eldest son, married Judith, his widow! Ach, that's what queens are for, eh?
 ; dlga_tavernkeeper_rumor:tavernkeeper_rumor2.5|Recently, Aelfred, secundarius of West Seaxe, married Ealhswith, daughter of Aethelred Mucil, ealdorman of the Gaini, and of Lady Eadburh. That puts him in the royal line of the Mercians.
 ; dlga_tavernkeeper_rumor:tavernkeeper_rumor2.6|It's no secret that Harald of Norway aims to be king of all Norwegians so he can marry a certain princess. He's vowed not to comb his hair until then.
@@ -5028,7 +5028,7 @@ dlga_druid_ayuda2:druid_venta|Voglio venderti tutti i prigionieri che ho portato
 ; dlga_druid_venta2:druid_pretalk|Let me think about it again.
 ; dlga_druid_venta3:close_window|I'll tell you one thing: we are not here by chance. We are near the ancient Kingdom of Dyfed, a territory connected with Annwn, the Underworld. Here, we are close to all the gods and goddesses, because this is the time of their fall. The gods of Annwn are now the most powerful. I am a follower of Bran, god of the Underworld, whose eminence is most often associated with his 'Wonderful Head.' Bran is also the patron of bards, minstrels, and musicians. You should pray to him.
 ; dlga_druid_ayuda2:druid_angry|Human sacrifices? You're a fool!
-; dlga_druid_ayuda2:druid_pretalk|Actually, forget this.
+dlga_druid_ayuda2:druid_pretalk|In realtà, dimentico.
 ; dlga_start:old_talk|Who are you and what do you want? We are not used to visitors here.
 ; dlga_old_talk:old_angry|I am {playername}, sir. Who are you?
 ; dlga_old_talk:close_window|I am {playername}, but I haven't got time for you.

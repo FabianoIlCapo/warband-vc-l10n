@@ -28,18 +28,18 @@ trp_arena_training_fighter_1|Kampfanfänger
 trp_arena_training_fighter_1_pl|Kampfanfänger
 trp_arena_training_fighter_2|Kampfanfänger
 trp_arena_training_fighter_2_pl|Kampfanfänger
-trp_arena_training_fighter_3|Normal Kämpfer
+trp_arena_training_fighter_3|Normaler Kämpfer
 trp_arena_training_fighter_3_pl|Normale Kämpfer
-trp_arena_training_fighter_4|Normal Kämpfer
+trp_arena_training_fighter_4|Normaler Kämpfer
 trp_arena_training_fighter_4_pl|Normale Kämpfer
-trp_arena_training_fighter_5|Normal Kämpfer
+trp_arena_training_fighter_5|Normaler Kämpfer
 trp_arena_training_fighter_5_pl|Normale Kämpfer
 trp_arena_training_fighter_6|Kampfveteran
-trp_arena_training_fighter_6_pl|Kampfveteran
+trp_arena_training_fighter_6_pl|Kampfveteranen
 trp_arena_training_fighter_7|Kampfveteran
-trp_arena_training_fighter_7_pl|Kampfveteran
+trp_arena_training_fighter_7_pl|Kampfveteranen
 trp_arena_training_fighter_8|Kampfveteran
-trp_arena_training_fighter_8_pl|Kampfveteran
+trp_arena_training_fighter_8_pl|Kampfveteranen
 trp_arena_training_fighter_9|Kampfmeister
 trp_arena_training_fighter_9_pl|Kampfmeister
 trp_arena_training_fighter_10|Kampfmeister
@@ -54,12 +54,12 @@ trp_asturias_veteran|Asturischer Veteran
 trp_asturias_veteran_pl|Asturischer Veteran
 trp_gallaecia_warrior|Gallaecian Wache
 trp_gallaecia_warrior_pl|Gallaecian Wache
-trp_townsman|Dorfbewohner
-trp_townsman_pl|Dorfbewohner
+trp_townsman|Städter
+trp_townsman_pl|Städter
 trp_watchman|Wache
 trp_watchman_pl|Wachen
-trp_mercenary_cavalry|Französischer Reiter
-trp_mercenary_cavalry_pl|Französische Reiter
+trp_mercenary_cavalry|Fränkischer Reiter
+trp_mercenary_cavalry_pl|Fränkische Reiter
 trp_caravan_guard|Speerkämpfer
 trp_caravan_guard_pl|Speerkämpfer
 trp_mercenary_swordsman|Veteran
@@ -80,10 +80,10 @@ trp_norse_slave|Nordischer Freigelassener (Leysingi)
 trp_norse_slave_pl|Nordische Freigelassene (Leysingja)
 trp_norse_bowman|Nordischer Bogenschütze (Gestr)
 trp_norse_bowman_pl|Nordische Bogenschützen (Gestir)
-trp_norse_elitearcher|Nordischer Bogenschützen-Krieger (Heimthegi)
-trp_norse_elitearcher_pl|Nordische Bogenschützen-Krieger (Heimthegar)
-trp_norse_level0_landed|Nordischer Unabhängiger (Boandi)
-trp_norse_level0_landed_pl|Nordische Unabhängige (Bondar)
+trp_norse_elitearcher|Nordischer Kampfbogenschütze (Heimthegi)
+trp_norse_elitearcher_pl|Nordische Kampfbogenschützen (Heimthegar)
+trp_norse_level0_landed|Nordischer Landsasse (Boandi)
+trp_norse_level0_landed_pl|Nordische Landsassen (Bondar)
 trp_norse_level1_landed|Nordischer Speerkämpfer (Drengr)
 trp_norse_level1_landed_pl|Nordische Speerkämpfer (Drengir)
 trp_norse_level2_landed|Nordischer Elite Speerkämpfer (Thane)
@@ -95,10 +95,10 @@ trp_norse_level0_companion_pl|Nordische Gefährten (Hirthmathr)
 trp_norse_level1_companion|Nordischer Veteran (Rekkr)
 trp_norse_level1_companion_pl|Nordische Veteranen (Rekkar)
 trp_norse_level2_companion|Nordische Leibwache (Huskarl)
-trp_norse_level2_companion_pl|Nordische Leibwächter (Huskarlar)
+trp_norse_level2_companion_pl|Nordische Leibwachen (Huskarlar)
 trp_norse_standard_bearer|Standartenträger (Merkismathr)
 trp_norse_standard_bearer_pl|Standartenträger (Merkismathr)
-trp_norse_priest|Priester
+trp_norse_priest|Gothi
 trp_norse_priest_pl|Gothar
 trp_briton_slave|Britannischer Leibeigener (Aillt)
 trp_briton_slave_pl|Britannische Leibeigene (Aillts)
@@ -106,8 +106,8 @@ trp_briton_level0_landed|Freier Britannier (Bonheddwr)
 trp_briton_level0_landed_pl|Freie Britannier (Bonheddwyr)
 trp_briton_level1_landed|Britannischer Speerkämpfer (Pedyt)
 trp_briton_level1_landed_pl|Britannische Speerkämpfer (Pedytes)
-trp_briton_level2_landed|Britannischer Elite-Speerkämpfer (Gwrda)
-trp_briton_level2_landed_pl|Britannische Elite-Speerkämpfer (Gwrdas)
+trp_briton_level2_landed|Britannischer Elite Speerkämpfer (Gwrda)
+trp_briton_level2_landed_pl|Britannische Elite Speerkämpfer (Gwrdas)
 trp_briton_level3_landed|Britannischer Adliger (Uchelwr)
 trp_briton_level3_landed_pl|Britannische Adlige (Uchelwyr)
 trp_briton_level0_companion|Britannischer Krieger (Cadwr)
@@ -115,7 +115,7 @@ trp_briton_level0_companion_pl|Britannische Krieger (Cadwyr)
 trp_briton_level1_companion|Britannischer Kämpfer (Campiwr)
 trp_briton_level1_companion_pl|Britannische Kämpfer (Campgwr)
 trp_briton_level2_companion|Britannische Leibwache (Teulu)
-trp_briton_level2_companion_pl|Britannische Leibwächter (Teulus)
+trp_briton_level2_companion_pl|Britannische Leibwachen (Teulus)
 trp_briton_bowman|Britannischer Scharmützler (Cipryswr)
 trp_briton_bowman_pl|Britannische Scharmützler (Cipryswyr)
 trp_briton_marksman|Britannischer Bogenschütze (Saethydd)
@@ -130,8 +130,8 @@ trp_saxon_slave|Sächsischer Bauer (Gebur)
 trp_saxon_slave_pl|Bauern (Geburas)
 trp_saxon_bowman|Sächsischer Bogenschütze (Scytta)
 trp_saxon_bowman_pl|Sächsische Bogenschützen (Scyttena)
-trp_saxon_level0_landed|Sächsischer Unabhängiger (Kotsetla)
-trp_saxon_level0_landed_pl|Sächsische Unabhängige (Kotsetlas)
+trp_saxon_level0_landed|Sächsischer Landsasse (Kotsetla)
+trp_saxon_level0_landed_pl|Sächsische Landsassen (Kotsetlas)
 trp_saxon_level1_landed|Sächsischer Speerkämpfer (Cniht)
 trp_saxon_level1_landed_pl|Sächsische Speerkämpfer (Cnihtes)
 trp_saxon_level2_landed|Sächsischer Krieger (Cempa)
@@ -143,7 +143,7 @@ trp_saxon_level0_companion_pl|Sächsische Gefährten (Geneat)
 trp_saxon_level1_companion|Sächsischer Veteran (Gesith)
 trp_saxon_level1_companion_pl|Sächsische Veteranen (Gesithas)
 trp_saxon_level2_companion|Sächsische Leibwache (Gedriht)
-trp_saxon_level2_companion_pl|Sächsische Leibwächter (Gedrihtes)
+trp_saxon_level2_companion_pl|Sächsische Leibwachen (Gedrihtes)
 trp_saxon_horseman|Sächsischer Reiter (Ridda)
 trp_saxon_horseman_pl|Sächsische Reiter (Riddan)
 trp_saxon_standard_bearer|Standartenträger (Tacnberend)
@@ -152,12 +152,12 @@ trp_saxon_priest|Sächsischer Priester
 trp_saxon_priest_pl|Sächsische Priester
 trp_scotch_peasant|Piktischer Bauer (Bachlach)
 trp_scotch_peasant_pl|Bauern (Bachlach)
-trp_scotch_bowman|Piktischer Scharmützel (Fuidir)
+trp_scotch_bowman|Piktischer Scharmützler (Fuidir)
 trp_scotch_bowman_pl|Scharmützler (Fuidirs)
-trp_scotch_level0_skirmisher|Piktischer Veteran Scharmützel (Saigteoir)
+trp_scotch_level0_skirmisher|Piktischer Veteran Scharmützler (Saigteoir)
 trp_scotch_level0_skirmisher_pl|Veteran Scharmützler (Saigteoir)
-trp_scotch_level1_skirmisher|Piktischer Elite Scharmützel (Cruithnen)
-trp_scotch_level1_skirmisher_pl|Elite-Scharmützler (Cruithnen)
+trp_scotch_level1_skirmisher|Piktischer Elite Scharmützler (Cruithnen)
+trp_scotch_level1_skirmisher_pl|Elite Scharmützler (Cruithnen)
 trp_scotch_horseman|Piktischer Reiter (Marcach)
 trp_scotch_horseman_pl|Leichte Reiter (Marcach)
 trp_scotch_level0_landed|Piktischer Landbesitzer (Bothach)
@@ -197,7 +197,7 @@ trp_angle_level0_companion_pl|Anglische Gefährten (Geneata)
 trp_angle_level1_companion|Anglischer Veteran (Gesith)
 trp_angle_level1_companion_pl|Anglische Veteranen (Gesithas)
 trp_angle_level2_companion|Anglische Leibwache (Gedriht)
-trp_angle_level2_companion_pl|Anglische Leibwächter (Gedrihtes)
+trp_angle_level2_companion_pl|Anglische Leibwachen (Gedrihtes)
 trp_angle_horseman|Anglischer Reiter (Ridda)
 trp_angle_horseman_pl|Anglische Reiter (Riddan)
 trp_angle_standard_bearer|Standartenträger (Tacnberend)
@@ -206,18 +206,18 @@ trp_angle_priest|Anglischer Priester
 trp_angle_priest_pl|Anglische Priester
 trp_irish_slave|Irischer Leibeigener (Senchleithe)
 trp_irish_slave_pl|Irische Leibeigene (Senchleithe)
-trp_irish_bowman|Irischer Scharmützel (Fer Midboth)
-trp_irish_bowman_pl|Irischer Scharmützler (Fer Midboth)
+trp_irish_bowman|Irischer Scharmützler (Fer Midboth)
+trp_irish_bowman_pl|Irische Scharmützler (Fer Midboth)
 trp_irish_level0_skirmisher|Irischer Veteran Scharmützel (Ceithernach)
-trp_irish_level0_skirmisher_pl|Irischer Veteranen Scharmützler (Ceithern)
-trp_irish_level1_skirmisher|Irischer Elite Scharmützel (Fianaige)
+trp_irish_level0_skirmisher_pl|Irische Veteran Scharmützler (Ceithern)
+trp_irish_level1_skirmisher|Irischer Elite Scharmützler (Fianaige)
 trp_irish_level1_skirmisher_pl|Irische Elite Scharmützler (Fian)
 trp_irish_horseman|Irischer Reiter (Marcach)
 trp_irish_horseman_pl|Irische Reiter (Marcach)
 trp_irish_level0_landed|Irischer Arbeiter (Bothach)
 trp_irish_level0_landed_pl|Irische Miliz (Bothach)
-trp_irish_level1_landed|Irischer Freier (Ocaire)
-trp_irish_level1_landed_pl|Irische Freie (Ocaires)
+trp_irish_level1_landed|Irischer Landsasse (Ocaire)
+trp_irish_level1_landed_pl|Irische Landsassen (Ocaires)
 trp_irish_level2_landed|Irischer Veteran (Boaire)
 trp_irish_level2_landed_pl|Irische Veteranen (Boaires)
 trp_irish_level3_landed|Irischer Adliger (Aire)
@@ -227,7 +227,7 @@ trp_irish_level0_companion_pl|Irische Krieger (Cliathaire)
 trp_irish_level1_companion|Irischer Meister (Caur)
 trp_irish_level1_companion_pl|Irische Meister (Curadmir)
 trp_irish_knight|Irische Leibwache (Riglach)
-trp_irish_knight_pl|Irische Leibwächter (Riglach)
+trp_irish_knight_pl|Irische Leibwachen (Riglach)
 trp_irish_standard_bearer|Standartenträger (Meirgeach)
 trp_irish_standard_bearer_pl|Standartenträger (Meirgeach)
 trp_irish_priest|Goidelischer Priester
@@ -242,7 +242,7 @@ trp_norse_prison_guard|Gefängniswache
 trp_norse_prison_guard_pl|Gefängniswachen
 trp_norse_castle_guard|Wache
 trp_norse_castle_guard_pl|Wachen
-trp_frisian_basic|Friesisch (Husmo)
+trp_frisian_basic|Friese (Husmo)
 trp_frisian_basic_pl|Friesen (Fresen)
 trp_frisian_mid|Friesischer Krieger (Wigand)
 trp_frisian_mid_pl|Friesische Krieger (Wiganda)
@@ -268,8 +268,8 @@ trp_saxon_castle_guard|Wache
 trp_saxon_castle_guard_pl|Wachen
 trp_scotch_messenger|Bote
 trp_scotch_messenger_pl|Kuriere
-trp_scotch_deserter|Picten Deserteur
-trp_scotch_deserter_pl|Picten Deserteure
+trp_scotch_deserter|Pikten Deserteur
+trp_scotch_deserter_pl|Pikten Deserteure
 trp_scotch_prison_guard|Gefängniswache
 trp_scotch_prison_guard_pl|Gefängniswachen
 trp_scotch_castle_guard|Wache
@@ -372,20 +372,20 @@ trp_caravan_master|Karawanenmeister
 trp_caravan_master_pl|Karawanenmeister
 trp_kidnapped_girl|Entführtes Mädchen
 trp_kidnapped_girl_pl|Entführte Mädchen
-trp_town_walker_1|Dorfbewohner
-trp_town_walker_1_pl|Dorfbewohner
+trp_town_walker_1|Städter
+trp_town_walker_1_pl|Städter
 trp_town_walker_2|Städterin
 trp_town_walker_2_pl|Städterinnen
-trp_town_walker_3|Dorfbewohner
-trp_town_walker_3_pl|Dorfbewohner
+trp_town_walker_3|Städter
+trp_town_walker_3_pl|Städter
 trp_town_walker_4|Städterin
 trp_town_walker_4_pl|Städterinnen
-trp_town_walker_5|Dorfbewohner
-trp_town_walker_5_pl|Dorfbewohner
+trp_town_walker_5|Städter
+trp_town_walker_5_pl|Städter
 trp_town_walker_6|Städterin
 trp_town_walker_6_pl|Städterinnen
-trp_town_walker_7|Dorfbewohner
-trp_town_walker_7_pl|Dorfbewohner
+trp_town_walker_7|Städter
+trp_town_walker_7_pl|Städter
 trp_town_walker_8|Städterin
 trp_town_walker_8_pl|Städterinnen
 trp_nino_varon|Kind
@@ -395,9 +395,9 @@ trp_nina_chica_pl|Kinder
 trp_monk_walker|Mönch
 trp_monk_walker_pl|Mönche
 trp_village_walker_1|Dorfbewohner
-trp_village_walker_1_pl|Dörfler
+trp_village_walker_1_pl|Dorfbewohner
 trp_village_walker_2|Dorfbewohner
-trp_village_walker_2_pl|Dörfler
+trp_village_walker_2_pl|Dorfbewohner
 trp_village_walker_3|Dorfbewohner
 trp_village_walker_3_pl|Dorfbewohner
 trp_village_walker_4|Dorfbewohner
@@ -407,11 +407,11 @@ trp_village_walker_5_pl|Dorfbewohner
 trp_village_walker_6|Dorfbewohner
 trp_village_walker_6_pl|Dorfbewohner
 trp_village_walker_7|Dorfbewohner
-trp_village_walker_7_pl|Dörfler
+trp_village_walker_7_pl|Dorfbewohner
 trp_village_walker_8|Dorfbewohner
 trp_village_walker_8_pl|Dorfbewohner
 trp_village_walker_1a|Dorfbewohner
-trp_village_walker_1a_pl|Dörfler
+trp_village_walker_1a_pl|Dorfbewohner
 trp_village_walker_3a|Dorfbewohner
 trp_village_walker_3a_pl|Dorfbewohner
 trp_village_walker_5a|Dorfbewohner
@@ -427,11 +427,11 @@ trp_trainer_pl|Ausbilder
 trp_constable_hareck|Wachtmeister Hareck
 trp_constable_hareck_pl|Wachtmeister Hareck
 trp_ramun_the_slave_trader|Aethelmaer, der Sklavenhändler
-trp_ramun_the_slave_trader_pl|Aethelmaer, die Sklavenhändler
+trp_ramun_the_slave_trader_pl|Aethelmaer, der Sklavenhändler
 trp_guide|Ulric
 trp_guide_pl|Ulric
-trp_xerina|Einsiedler der Pict
-trp_xerina_pl|Einsiedler
+trp_xerina|Anchoret der Pikte
+trp_xerina_pl|Anchoret
 trp_dranton|Niall der Britannier
 trp_dranton_pl|Niall
 trp_kradus|Uthred der Sachse
@@ -572,7 +572,7 @@ trp_sacerdote_2|Bischof Ealhheard
 trp_sacerdote_2_pl|Priester
 trp_paganop_1|Gothi
 trp_paganop_1_pl|Gothar
-trp_priest_end|Priester der beider Religionen Ende
+trp_priest_end|Priester beider Religionen Ende
 trp_priest_end_pl|Priester
 trp_especiales_1|Einsiedler Derfel Gadarn
 trp_especiales_1_pl|Priester
@@ -610,13 +610,13 @@ trp_npc15|Agathinos
 trp_npc15_pl|Agathinos
 trp_npc16|Beda
 trp_npc16_pl|Beda
-trp_kingdom_1_lord|König Horik Gottfredsson
+trp_kingdom_1_lord|Konungr Horik Gottfredsson
 trp_kingdom_1_lord_pl|Horik Gottfredsson
-trp_kingdom_2_lord|König Harald Halfdanarson
+trp_kingdom_2_lord|Konungr Harald Halfdanarson
 trp_kingdom_2_lord_pl|Harald Halfdanarson
-trp_kingdom_3_lord|König Gudrod Ragnarson
+trp_kingdom_3_lord|Konungr Gudrod Ragnarson
 trp_kingdom_3_lord_pl|Gudrod Ragnarson
-trp_kingdom_4_lord|König Hrorek Hemmindsson
+trp_kingdom_4_lord|Konungr Hrorek Hemmingsson
 trp_kingdom_4_lord_pl|Hrorek Hemmindsson
 trp_kingdom_5_lord|Brytenwalda Aethelred Aethelwulfing
 trp_kingdom_5_lord_pl|Aethelred Aethelwulfing
@@ -626,32 +626,32 @@ trp_kingdom_7_lord|Cyning Brugred Beorhtwulfing
 trp_kingdom_7_lord_pl|Brugred Beorhtwulfing
 trp_kingdom_8_lord|Jarl Halfdan Ragnarsson
 trp_kingdom_8_lord_pl|Halfdan Ragnarsson
-trp_kingdom_9_lord|RI Rhodri Karte Merfyn
-trp_kingdom_9_lord_pl|Rhodri Karte Merfyn
-trp_kingdom_10_lord|RI Elisedd Karte Tewdr
-trp_kingdom_10_lord_pl|Elisedd Karte Tewdr
-trp_kingdom_11_lord|RI Arthgal-Karte Dumnuagal
-trp_kingdom_11_lord_pl|Arthgal Karte Dumnuagal
-trp_kingdom_12_lord|RI Dunyart Karte Eferferdyn
-trp_kingdom_12_lord_pl|Dunyart Karte Eferferdyn
-trp_kingdom_13_lord|RI Hywel Karte Rhys
-trp_kingdom_13_lord_pl|Hywel Karte Rhys
-trp_kingdom_14_lord|Ruire Lethlobar Mac Loingsig
-trp_kingdom_14_lord_pl|Lethlobar Mac Loingsig
-trp_kingdom_15_lord|Ruire Dunlaing Mac Muiredaig
-trp_kingdom_15_lord_pl|Dunlaing Mac Muiredaig
-trp_kingdom_16_lord|Ruire Schulze Faelad Hua Mugthigirn
+trp_kingdom_9_lord|Ri Rhodri map Merfyn
+trp_kingdom_9_lord_pl|Rhodri map Merfyn
+trp_kingdom_10_lord|Ri Elisedd map Tewdr
+trp_kingdom_10_lord_pl|Elisedd map Tewdr
+trp_kingdom_11_lord|Ri Arthgal map Dumnagual
+trp_kingdom_11_lord_pl|Arthgal map Dumnuagal
+trp_kingdom_12_lord|Ri Dunyart map Eferferdyn
+trp_kingdom_12_lord_pl|Dunyart map Eferferdyn
+trp_kingdom_13_lord|Ri Hywel map Rhys
+trp_kingdom_13_lord_pl|Hywel map Rhys
+trp_kingdom_14_lord|Ruire Lethlobar mac Loingsig
+trp_kingdom_14_lord_pl|Lethlobar mac Loingsig
+trp_kingdom_15_lord|Ruire Dunlaing mac Muiredaig
+trp_kingdom_15_lord_pl|Dunlaing mac Muiredaig
+trp_kingdom_16_lord|Ruire Cenn Faelad hua Mugthigirn
 trp_kingdom_16_lord_pl|Cenn Faelad Hua Mugthigirn
-trp_kingdom_17_lord|Ruire Mugron Mac Cothaid
-trp_kingdom_17_lord_pl|Mugron Mac Cothaid
-trp_kingdom_18_lord|Ard Ruire Aed Mac Niall
-trp_kingdom_18_lord_pl|Aed Mac Niall
-trp_kingdom_19_lord|Ruire Donnchad Mac Eochocai
-trp_kingdom_19_lord_pl|Donnchad Mac Eochocai
-trp_kingdom_20_lord|Ruire Causantin Mac Cinaeda
-trp_kingdom_20_lord_pl|Causantin Mac Cinaeda
-trp_kingdom_21_lord|Ruire Cerball Mac Dunlainge
-trp_kingdom_21_lord_pl|Cerball Mac Dunlainge
+trp_kingdom_17_lord|Ruire Mugron mac Cothaid
+trp_kingdom_17_lord_pl|Mugron mac Cothaid
+trp_kingdom_18_lord|Ard Ruire Aed mac Niall
+trp_kingdom_18_lord_pl|Aed mac Niall
+trp_kingdom_19_lord|Ruire Donnchad mac Eochocai
+trp_kingdom_19_lord_pl|Donnchad mac Eochocai
+trp_kingdom_20_lord|Ruire Causantin mac Cinaeda
+trp_kingdom_20_lord_pl|Causantin mac Cinaeda
+trp_kingdom_21_lord|Ruire Cerball mac Dunlainge
+trp_kingdom_21_lord_pl|Cerball mac Dunlainge
 trp_knight_1_1|Jarl Sigifrid Angantyrsson
 trp_knight_1_1_pl|Sigifrid Angantyrsson
 trp_knight_1_2|Jarl Bagsecg
@@ -666,7 +666,7 @@ trp_knight_1_6|Hersir Helgi Hvassi
 trp_knight_1_6_pl|Helgi Hvassi
 trp_knight_2_1|Jarl Guthorm Haraldrsson
 trp_knight_2_1_pl|Guthorm Haraldrsson
-trp_knight_2_2|König Eirik
+trp_knight_2_2|Konungr Eirik
 trp_knight_2_2_pl|Eirik
 trp_knight_2_3|Jarl Kjotvi Hinn Audgi
 trp_knight_2_3_pl|Kjotvi Hinn Audgi
@@ -675,12 +675,12 @@ trp_knight_2_4_pl|Ketill Bjornsson
 trp_knight_2_5|Hersir Bjorn Ketilsson
 trp_knight_2_5_pl|Bjorn Ketilsson
 trp_knight_3_1|Jarl Olaf Gudrodrsson
-trp_knight_3_1_pl|OLAF Gudrodrsson
+trp_knight_3_1_pl|Olaf Gudrodrsson
 trp_knight_3_2|Jarl Ivar Gudrodrsson
 trp_knight_3_2_pl|Ivarr Gudrodrsson
 trp_knight_3_3|Jarl Asl Gudrodrsson
-trp_knight_3_3_pl|ASL-Gudrodrsson
-trp_knight_3_4|Jarl-Orkan
+trp_knight_3_3_pl|Asl Gudrodrsson
+trp_knight_3_4|Jarl Orkan
 trp_knight_3_4_pl|Orkan
 trp_knight_3_5|Jarl Helgi Ketilsson
 trp_knight_3_5_pl|Helgi Ketilsson
@@ -733,31 +733,31 @@ trp_knight_7_1_pl|Ceowulf Ceowulfing
 trp_knight_7_2|Aldermann Hereberht
 trp_knight_7_2_pl|Hereberht
 trp_knight_7_3|Aldermann Æthelreds
-trp_knight_7_3_pl|Æthelreds
-trp_knight_7_4|Ealdorman Aethelred Mucel
-trp_knight_7_4_pl|Aethelred Mucel
-trp_knight_7_5|Aldermann Aelfgar
-trp_knight_7_5_pl|Aelfgar
-trp_knight_7_6|Aldermann Aethulf
-trp_knight_7_6_pl|Aethulf
+trp_knight_7_3_pl|Æthelred
+trp_knight_7_4|Aldermann Æthelred Mucel
+trp_knight_7_4_pl|Æthelreds Mucel
+trp_knight_7_5|Aldermann Ælfgar
+trp_knight_7_5_pl|Ælfgar
+trp_knight_7_6|Aldermann Æthulf
+trp_knight_7_6_pl|Æthulf
 trp_knight_7_7|Aldermann Beornoth
 trp_knight_7_7_pl|Beornoth
 trp_knight_7_8|Aldermann Sigberth
 trp_knight_7_8_pl|Sigberth
-trp_knight_7_9|Dryhten Aethelwulf Aethelreding
-trp_knight_7_9_pl|Aethelwulf Aethelreding
+trp_knight_7_9|Dryhten Æthelwulf Æthelreding
+trp_knight_7_9_pl|Æthelwulf Æthelreding
 trp_knight_8_1|Cyning Egbert
 trp_knight_8_1_pl|Egbert
 trp_knight_8_2|Jarl Rathbarth Ragnarsson
 trp_knight_8_2_pl|Rathbarth Ragnarsson
 trp_knight_8_3|Aldermann Ealdred
 trp_knight_8_3_pl|Ealdred
-trp_knight_8_4|Jarl Sidroc der ältere
-trp_knight_8_4_pl|Sidroc der ältere
+trp_knight_8_4|Jarl Sidroc der Ältere
+trp_knight_8_4_pl|Sidroc der Ältere
 trp_knight_8_5|Aldermann Ricsige
 trp_knight_8_5_pl|Ricsige
-trp_knight_8_6|Aldermann Egbert die zweite
-trp_knight_8_6_pl|Egbert die zweite
+trp_knight_8_6|Aldermann Egbert der Zweite
+trp_knight_8_6_pl|Egbert der Zweite
 trp_knight_8_7|Jarl Bjorn Ragnarsson
 trp_knight_8_7_pl|Bjorn Jarnsida
 trp_knight_8_8|Hersir Guthred Knutr
@@ -766,8 +766,8 @@ trp_knight_8_9|Hersir Rognvald
 trp_knight_8_9_pl|Rognvald
 trp_knight_8_10|Hersir Harald
 trp_knight_8_10_pl|Harald
-trp_knight_8_11|Hersir Sidroc die jungen
-trp_knight_8_11_pl|Sidroc jung
+trp_knight_8_11|Hersir Sidroc der Junge
+trp_knight_8_11_pl|Sidroc der Junge
 trp_knight_8_12|Hersir Fraena
 trp_knight_8_12_pl|Fraena
 trp_knight_8_13|Jarl Ivarr Inn Beinlaussi
@@ -776,146 +776,146 @@ trp_knight_8_14|Jarl Hubbi Ragnarsson
 trp_knight_8_14_pl|Hubbi Ragnarsson
 trp_knight_8_15|Konungr Bagsecg
 trp_knight_8_15_pl|Bagsecg
-trp_knight_9_1|Mael Anarawd Karte Rhodri
-trp_knight_9_1_pl|Anarawd Karte Rhodri
-trp_knight_9_2|Mael Cadell Karte Rhodri
-trp_knight_9_2_pl|Cadell Karte Rhodri
-trp_knight_9_3|Mael Merfyn Karte Rhodri
-trp_knight_9_3_pl|Merfyn Karte Rhodri
-trp_knight_9_4|RI Gwgon Karte Meurig
-trp_knight_9_4_pl|Gwgon Karte Meurig
-trp_knight_9_5|Guledic Gwriad Karte Merfyn
-trp_knight_9_5_pl|Gwriad Karte Merfyn
-trp_knight_9_6|Mael Tudwal Karte Rhodri
-trp_knight_9_6_pl|Tudwal Karte Rhodri
-trp_knight_9_7|Guledic Hyfaidd Karte Bleddri
-trp_knight_9_7_pl|Herrscher-Karte Bleddri
-trp_knight_9_8|Tiern Owain Karte Hywel
-trp_knight_9_8_pl|Owain Karte Hywel
-trp_knight_9_9|Tiern Llofan Karte Cilmin Broetu
-trp_knight_9_9_pl|Llofan Karte Cilmin Broetu
-trp_knight_10_1|Karl-Ernst Maedel Guledic
+trp_knight_9_1|Mael Anarawd map Rhodri
+trp_knight_9_1_pl|Anarawd map Rhodri
+trp_knight_9_2|Mael Cadell map Rhodri
+trp_knight_9_2_pl|Cadell map Rhodri
+trp_knight_9_3|Mael Merfyn map Rhodri
+trp_knight_9_3_pl|Merfyn map Rhodri
+trp_knight_9_4|Ri Gwgon map Meurig
+trp_knight_9_4_pl|Gwgon map Meurig
+trp_knight_9_5|Guledic Gwriad map Merfyn
+trp_knight_9_5_pl|Gwriad map Merfyn
+trp_knight_9_6|Mael Tudwal map Rhodri
+trp_knight_9_6_pl|Tudwal map Rhodri
+trp_knight_9_7|Guledic Hyfaidd map Bleddri
+trp_knight_9_7_pl|Hyfaidd map Bleddri
+trp_knight_9_8|Tiern Owain map Hywel
+trp_knight_9_8_pl|Owain map Hywel
+trp_knight_9_9|Tiern Llofan map Cilmin Broetu
+trp_knight_9_9_pl|Llofan map Cilmin Broetu
+trp_knight_10_1|Mael Guledic
 trp_knight_10_1_pl|Guledic
-trp_knight_11_1|Mael Rhun Karte Arthgal
-trp_knight_11_1_pl|Rhun Karte Arthgal
-trp_knight_11_2|Mael Echou Karte Rhun
-trp_knight_11_2_pl|Echou Karte Rhun
-trp_knight_11_3|Guledic Dyfnwal Karte Rhun
-trp_knight_11_3_pl|Dyfnwal Karte Rhun
-trp_knight_11_4|Guledic Giric Karte Rath
-trp_knight_11_4_pl|Giric Karte Rath
+trp_knight_11_1|Mael Rhun map Arthgal
+trp_knight_11_1_pl|Rhun map Arthgal
+trp_knight_11_2|Mael Echou map Rhun
+trp_knight_11_2_pl|Echou map Rhun
+trp_knight_11_3|Guledic Dyfnwal map Rhun
+trp_knight_11_3_pl|Dyfnwal map Rhun
+trp_knight_11_4|Guledic Giric map Rath
+trp_knight_11_4_pl|Giric map Rath
 trp_knight_11_5|Mael Cynon map Cyndrwyn
-trp_knight_11_5_pl|Cynon Karte Cyndrwyn
+trp_knight_11_5_pl|Cynon map Cyndrwyn
 trp_knight_11_6|Mael Gwion map Cyndrwyn
-trp_knight_11_6_pl|Gwion Karte Cyndrwyn
+trp_knight_11_6_pl|Gwion map Cyndrwyn
 trp_knight_11_7|Mael Madoc map Cadell
-trp_knight_11_7_pl|Madoc-Karte Cadell
+trp_knight_11_7_pl|Madoc map Cadell
 trp_knight_11_8|Mael Caradoc map Riwall
-trp_knight_11_8_pl|Caradoc Karte Riwall
-trp_knight_12_1|Guledic Eliud Karte Eferferdyn
-trp_knight_12_1_pl|Eliud Karte Eferferdyn
-trp_knight_12_2|Guledic Alanorus Karte Eliud
-trp_knight_12_2_pl|Alanorus Karte Eliud
-trp_knight_12_3|Mael Ricatus Karte Dunyart
-trp_knight_12_3_pl|Ricatus Karte Dunyart
-trp_knight_13_1|Guledic Meurig Karte Arthfael
-trp_knight_13_1_pl|Meurig Karte Arthfael
-trp_knight_13_2|Mael Owain Karte Hywel
-trp_knight_13_2_pl|Owain Karte Hywel
-trp_knight_13_3|Tiern Brochwael Karte Meurig
-trp_knight_13_3_pl|Brochwael Karte Meurig
-trp_knight_14_1|Mael Cathalan Mac Indrechtaig
-trp_knight_14_1_pl|Cathalan Mac Indrechtaig
-trp_knight_14_2|Mael Conallan Mac Duin
-trp_knight_14_2_pl|Conallan Mac Duin
-trp_knight_14_3|Ard Tiarna Mocheirge Mac Indrechtaig
-trp_knight_14_3_pl|Mocheirge Mac Indrechtaig
-trp_knight_14_4|Tiarna Ainbith Mac Aedo
-trp_knight_14_4_pl|Ainbith Mac Aedo
-trp_knight_14_5|Tiarna Cummascach Mac Cathalan
-trp_knight_14_5_pl|Cummascach Mac Cathalan
-trp_knight_15_1|ARD Tiarna Ailill Mac Dunlainge
-trp_knight_15_1_pl|Ailill Mac Dunlainge
-trp_knight_15_2|ARD Tiarna Cairpre Mac Dunlainge
-trp_knight_15_2_pl|Cairpre Mac Dunlainge
-trp_knight_15_3|Tiarna Muiredach Mac Brain
-trp_knight_15_3_pl|Muiredach Mac Brain
-trp_knight_15_4|Tiarna Domnall Mac Muirecain
-trp_knight_15_4_pl|Domnall Mac Muirecain
-trp_knight_15_5|Tiarna Cerball Mac Muirecain
-trp_knight_15_5_pl|Cerball Mac Muirecain
-trp_knight_15_6|Tiarna Augaire Mac Ailella
-trp_knight_15_6_pl|Augaire Mac Ailella
-trp_knight_16_1|ARD Tiarna Dunchad Mac Dub da Bairenn
-trp_knight_16_1_pl|Dunchad Mac Dub da Bairenn
-trp_knight_16_2|ARD Tiarna Dub Lachtnai Mac Gualu
-trp_knight_16_2_pl|Dub Lachtnai Mac Gualu
-trp_knight_16_3|Tiarna Foghartach Mac Suibhne
-trp_knight_16_3_pl|Foghartach Mac Suibhne
-trp_knight_16_4|Tiarna Longbortan Mac Finnachta
-trp_knight_16_4_pl|Longbortan Mac Finnachta
+trp_knight_11_8_pl|Caradoc map Riwall
+trp_knight_12_1|Guledic Eliud map Eferferdyn
+trp_knight_12_1_pl|Eliud map Eferferdyn
+trp_knight_12_2|Guledic Alanorus map Eliud
+trp_knight_12_2_pl|Alanorus map Eliud
+trp_knight_12_3|Mael Ricatus map Dunyart
+trp_knight_12_3_pl|Ricatus map Dunyart
+trp_knight_13_1|Guledic Meurig map Arthfael
+trp_knight_13_1_pl|Meurig map Arthfael
+trp_knight_13_2|Mael Owain map Hywel
+trp_knight_13_2_pl|Owain map Hywel
+trp_knight_13_3|Tiern Brochwael map Meurig
+trp_knight_13_3_pl|Brochwael map Meurig
+trp_knight_14_1|Mael Cathalan mac Indrechtaig
+trp_knight_14_1_pl|Cathalan mac Indrechtaig
+trp_knight_14_2|Mael Conallan mac Duin
+trp_knight_14_2_pl|Conallan mac Duin
+trp_knight_14_3|Ard Tiarna Mocheirge mac Indrechtaig
+trp_knight_14_3_pl|Mocheirge mac Indrechtaig
+trp_knight_14_4|Tiarna Ainbith mac Aedo
+trp_knight_14_4_pl|Ainbith mac Aedo
+trp_knight_14_5|Tiarna Cummascach mac Cathalan
+trp_knight_14_5_pl|Cummascach mac Cathalan
+trp_knight_15_1|Ard Tiarna Ailill mac Dunlainge
+trp_knight_15_1_pl|Ailill mac Dunlainge
+trp_knight_15_2|Ard Tiarna Cairpre mac Dunlainge
+trp_knight_15_2_pl|Cairpre mac Dunlainge
+trp_knight_15_3|Tiarna Muiredach mac Brain
+trp_knight_15_3_pl|Muiredach mac Brain
+trp_knight_15_4|Tiarna Domnall mac Muirecain
+trp_knight_15_4_pl|Domnall mac Muirecain
+trp_knight_15_5|Tiarna Cerball mac Muirecain
+trp_knight_15_5_pl|Cerball mac Muirecain
+trp_knight_15_6|Tiarna Augaire mac Ailella
+trp_knight_15_6_pl|Augaire mac Ailella
+trp_knight_16_1|Ard Tiarna Dunchad mac Dub da Bairenn
+trp_knight_16_1_pl|Dunchad mac Dub da Bairenn
+trp_knight_16_2|Ard Tiarna Dub Lachtnai mac Gualu
+trp_knight_16_2_pl|Dub Lachtnai mac Gualu
+trp_knight_16_3|Tiarna Foghartach mac Suibhne
+trp_knight_16_3_pl|Foghartach mac Suibhne
+trp_knight_16_4|Tiarna Longbortan mac Finnachta
+trp_knight_16_4_pl|Longbortan mac Finnachta
 trp_knight_16_5|Tiarna Reachtabhra MacBran Finn
 trp_knight_16_5_pl|Reachtabhra MacBran Finn
-trp_knight_16_6|Tiarna Colman Mac Cionaith
-trp_knight_16_6_pl|Colman Mac Cionaith
-trp_knight_17_1|Karl-Ernst Maedel Conchobar Mac Taidg Mor
-trp_knight_17_1_pl|Conchobar Mac Taidg Mor
-trp_knight_17_2|Tiarna Aedh Mac Conchobar
-trp_knight_17_2_pl|Aedh Mac Conchobar
-trp_knight_17_3|Tiarna Tadg Mac Conchobar
-trp_knight_17_3_pl|Tadg Mac Conchobar
-trp_knight_17_4|Tiarna Finshnechta Mac Corcrai
-trp_knight_17_4_pl|Finshnechta Mac Corcrai
-trp_knight_17_5|Tiarna Dobhailen Mac Gormghus
-trp_knight_17_5_pl|Dobhailen Mac Gormghus
-trp_knight_17_6|Tiarna Cathal Mac Conchobar
-trp_knight_17_6_pl|Cathal Mac Conchobar
-trp_knight_18_1|Mael Domnall Mac Aeda
-trp_knight_18_1_pl|Domnall Mac Aeda
-trp_knight_18_2|Maedel Dabaill
+trp_knight_16_6|Tiarna Colman mac Cionaith
+trp_knight_16_6_pl|Colman mac Cionaith
+trp_knight_17_1|Mael Conchobar mac Taidg Mor
+trp_knight_17_1_pl|Conchobar mac Taidg Mor
+trp_knight_17_2|Tiarna Aedh mac Conchobar
+trp_knight_17_2_pl|Aedh mac Conchobar
+trp_knight_17_3|Tiarna Tadg mac Conchobar
+trp_knight_17_3_pl|Tadg mac Conchobar
+trp_knight_17_4|Tiarna Finshnechta mac Corcrai
+trp_knight_17_4_pl|Finshnechta mac Corcrai
+trp_knight_17_5|Tiarna Dobhailen mac Gormghus
+trp_knight_17_5_pl|Dobhailen mac Gormghus
+trp_knight_17_6|Tiarna Cathal mac Conchobar
+trp_knight_17_6_pl|Cathal mac Conchobar
+trp_knight_18_1|Mael Domnall mac Aeda
+trp_knight_18_1_pl|Domnall mac Aeda
+trp_knight_18_2|Mael Dabaill
 trp_knight_18_2_pl|Dabaill
-trp_knight_18_3| Mael Dub Mac Aeda
-trp_knight_18_3_pl|Dub Mac Aeda
-trp_knight_18_4|Ruire Congalach Mac Finnachta
-trp_knight_18_4_pl|Congalach Mac Finnachta
-trp_knight_18_5|Tiarna Cummascach Mac Muiredaig
-trp_knight_18_5_pl|Cummascach Mac Muiredaig
-trp_knight_18_6|Mael Padraig Mac Curarada
-trp_knight_18_6_pl|Padraig Mac Curarada
-trp_knight_18_7|Tiarna Laidhgnen Mac Donnagain
-trp_knight_18_7_pl|Laidhgnen Mac Donnagain
-trp_knight_19_1|Mael Sechnaill Mac Niall
-trp_knight_19_1_pl|Sechnaill Mac Niall
-trp_knight_19_2|Mael Diarmait Mac Etersceili
-trp_knight_19_2_pl|Diarmait Mac Etersceili
-trp_knight_19_3|Mac Flann Sinna Mael Sechnaill
-trp_knight_19_3_pl|Flann Sinna Mac Sechnaill
-trp_knight_19_4|Tiarna Flann Mac Conaing
-trp_knight_19_4_pl|Flann Mac Conaing
+trp_knight_18_3|Mael Dub mac Aeda
+trp_knight_18_3_pl|Dub mac Aeda
+trp_knight_18_4|Ruire Congalach mac Finnachta
+trp_knight_18_4_pl|Congalach mac Finnachta
+trp_knight_18_5|Tiarna Cummascach mac Muiredaig
+trp_knight_18_5_pl|Cummascach mac Muiredaig
+trp_knight_18_6|Mael Padraig mac Curarada
+trp_knight_18_6_pl|Padraig mac Curarada
+trp_knight_18_7|Tiarna Laidhgnen mac Donnagain
+trp_knight_18_7_pl|Laidhgnen mac Donnagain
+trp_knight_19_1|Mael Sechnaill mac Niall
+trp_knight_19_1_pl|Sechnaill mac Niall
+trp_knight_19_2|Mael Diarmait mac Etersceili
+trp_knight_19_2_pl|Diarmait mac Etersceili
+trp_knight_19_3|Mael Flann Sinna mac Sechnaill
+trp_knight_19_3_pl|Flann Sinna mac Sechnaill
+trp_knight_19_4|Tiarna Flann mac Conaing
+trp_knight_19_4_pl|Flann mac Conaing
 trp_knight_19_5|Mael Conall mac Echach
-trp_knight_19_5_pl|Conall Mac Echach
-trp_knight_20_1|Mael Domnall Dasachtach Mac Causantin
-trp_knight_20_1_pl|Domnall Dasachtach Mac Causantin
-trp_knight_20_2|Ard Tiarna Aed Mac Cinaeda
-trp_knight_20_2_pl|Aed Mac Cinaeda
-trp_knight_20_3|Tiarna Causantin Mac Aeda
-trp_knight_20_3_pl|Causantin Mac Aeda
-trp_knight_20_4|Tiarna Domhall Mac Aeda
-trp_knight_20_4_pl|Domhall Mac Aeda
-trp_knight_20_5|Mael Coluim Mac Domnall
-trp_knight_20_5_pl|Malcolm Mac Domnall
+trp_knight_19_5_pl|Conall mac Echach
+trp_knight_20_1|Mael Domnall Dasachtach mac Causantin
+trp_knight_20_1_pl|Domnall Dasachtach mac Causantin
+trp_knight_20_2|Ard Tiarna Aed mac Cinaeda
+trp_knight_20_2_pl|Aed mac Cinaeda
+trp_knight_20_3|Tiarna Causantin mac Aeda
+trp_knight_20_3_pl|Causantin mac Aeda
+trp_knight_20_4|Tiarna Domhall mac Aeda
+trp_knight_20_4_pl|Domhall mac Aeda
+trp_knight_20_5|Mael Coluim mac Domnall
+trp_knight_20_5_pl|Malcolm mac Domnall
 trp_knight_20_6|Domlech
 trp_knight_20_6_pl|Domlech
 trp_knight_20_7|Entifidach
 trp_knight_20_7_pl|Entifidach
 trp_knight_20_8|Lugthreni
 trp_knight_20_8_pl|Lugthreni
-trp_knight_21_1|Mael Diarmait Mac Cerbaill
-trp_knight_21_1_pl|Diarmait Mac Cerbaill
-trp_knight_21_2|Mael Cellach Mac Cerbaill
-trp_knight_21_2_pl|Cellach Mac Cerbaill
-trp_knight_21_3|ARD Tiarna Riacan Mac Dunlainge
-trp_knight_21_3_pl|Riacan Mac Dunlainge
+trp_knight_21_1|Mael Diarmait mac Cerbaill
+trp_knight_21_1_pl|Diarmait mac Cerbaill
+trp_knight_21_2|Mael Cellach mac Cerbaill
+trp_knight_21_2_pl|Cellach mac Cerbaill
+trp_knight_21_3|Ard Tiarna Riacan mac Dunlainge
+trp_knight_21_3_pl|Riacan mac Dunlainge
 trp_kingdom_1_pretender|Jarl Thorgil
 trp_kingdom_1_pretender_pl|Thorgil
 trp_kingdom_2_pretender|Ard Tiarna Dungal
@@ -936,8 +936,8 @@ trp_kingdom_1_lady_2|Blaeja
 trp_kingdom_1_lady_2_pl|Blaeja
 trp_kingdom_1_lady_3|Ragnhild Ragnarsdottir
 trp_kingdom_1_lady_3_pl|Ragnhild Ragnarsdottir
-trp_kingdom_1_lady_4|INGUN
-trp_kingdom_1_lady_4_pl|INGUN
+trp_kingdom_1_lady_4|Ingun
+trp_kingdom_1_lady_4_pl|Ingun
 trp_kingdom_2_lady_1|Gyda Eirikdottir
 trp_kingdom_2_lady_1_pl|Gyda
 trp_kingdom_2_lady_2|Yngvild
@@ -1098,8 +1098,8 @@ trp_kingdom_17_lady_4|Aoibheann
 trp_kingdom_17_lady_4_pl|Aoibheann
 trp_kingdom_17_lady_5|Aodhnait
 trp_kingdom_17_lady_5_pl|Aodhnait
-trp_kingdom_17_lady_6|AlMU
-trp_kingdom_17_lady_6_pl|AlMU
+trp_kingdom_17_lady_6|Almu
+trp_kingdom_17_lady_6_pl|Almu
 trp_kingdom_18_lady_1|Fedelm
 trp_kingdom_18_lady_1_pl|Fedelm
 trp_kingdom_18_lady_2|Uaisle
@@ -1599,8 +1599,8 @@ trp_village_147_elder|Dorfältester
 trp_village_148_elder|Dorfältester
 trp_village_149_elder|Dorfältester
 trp_village_150_elder|Thonkrik
-trp_monje_mercader|Mönch Händler
-trp_monje_mercader_pl|Mönch Händler
+trp_monje_mercader|Händler Mönch
+trp_monje_mercader_pl|Händler Mönche
 trp_merchants_end|Händler Ende
 trp_merchants_end_pl|Händler Ende
 trp_town_1_healer|Arzt
@@ -1711,8 +1711,8 @@ trp_fight_promoter|Grober Kerl
 trp_fight_promoter_pl|Grober Kerl
 trp_spy|Gewöhnlicher Städter
 trp_spy_pl|Gewöhnliche Städter
-trp_spy_partner|Unbeachtlicher Städter
-trp_spy_partner_pl|Unbeachtliche Städter
+trp_spy_partner|Unauffälliger Städter
+trp_spy_partner_pl|Unauffällige Städter
 trp_camp_armory|Lager Waffenkammer
 trp_camp_armory_pl|Lager Waffenkammer
 trp_nurse_for_lady|Krankenschwester
@@ -1738,11 +1738,11 @@ trp_norse_elite_pl|Elite Krieger (Huskarlar)
 trp_saxon_capitan|Adliger (Thane)
 trp_saxon_capitan_pl|Adlige (Thanes)
 trp_saxon_elite|Leibwache (Hearthweru)
-trp_saxon_elite_pl|Leibwächter (Hearthwerus)
+trp_saxon_elite_pl|Leibwachen (Hearthwerus)
 trp_angle_capitan|Adliger  (Thane)
 trp_angle_capitan_pl|Adliger (Thanes)
 trp_angle_elite|Leibwache (Hearthweru)
-trp_angle_elite_pl|Leibwächter (Hearthwerus)
+trp_angle_elite_pl|Leibwachen (Hearthwerus)
 trp_briton_capitan|Adliger (Uchelwr)
 trp_briton_capitan_pl|Adliger (Uchelwyr)
 trp_briton_elite|Meister (Campiwr)
@@ -1750,7 +1750,7 @@ trp_briton_elite_pl|Meister (Campgwr)
 trp_irish_capitan|Adliger (Airig)
 trp_irish_capitan_pl|Adliger (Arras)
 trp_irish_elite|Leibwache (Deaisbard)
-trp_irish_elite_pl|Leibwächter (Deaisbards)
+trp_irish_elite_pl|Leibwachen (Deaisbards)
 trp_scotch_capitan|Adliger (Toisech)
 trp_scotch_capitan_pl|Adliger (Toisechs)
 trp_scotch_elite|Meister (Gaisgidh)
@@ -1760,8 +1760,8 @@ trp_quick_battle_troop_1|Bodo der Kantabrische
 trp_quick_battle_troop_1_pl|Bodo der Kantabrische
 trp_quick_battle_troop_2|Sven Stierhals
 trp_quick_battle_troop_2_pl|Sven Stierhals
-trp_quick_battle_troop_3|Cerball Mac Dunlainge
-trp_quick_battle_troop_3_pl|Cerball Mac Dunlainge
+trp_quick_battle_troop_3|Cerball mac Dunlainge
+trp_quick_battle_troop_3_pl|Cerball mac Dunlainge
 trp_quick_battle_troop_4|Artorius
 trp_quick_battle_troop_4_pl|Artorius
 trp_quick_battle_troop_5|Cinead
@@ -1794,19 +1794,19 @@ trp_khergit_merchant|Händler
 trp_nord_merchant|Heiler
 trp_rhodok_merchant|Händler
 trp_sarranid_merchant|Händler
-trp_startup_merchants_end|Ende der Starthändler
-trp_startup_merchants_end_pl|Ende der Starthändler
+trp_startup_merchants_end|Starthändler Ende
+trp_startup_merchants_end_pl|Starthändler Ende
 trp_old_hero_boargrove|Alter Held
 trp_old_hero_boargrove_pl|Alte Helden
 trp_sea_raider_leader|Berserker
 trp_sea_raider_leader_pl|Berserker
 trp_looter_leader|Ulfhedinn
 trp_looter_leader_pl|Ulfhednar
-trp_bandit_leaders_end|Banditenführer beenden
-trp_bandit_leaders_end_pl|Banditenführer beenden
+trp_bandit_leaders_end|Banditenführer Ende
+trp_bandit_leaders_end_pl|Banditenführer Ende
 trp_relative_of_merchant|Asturischer Kapiän
-trp_relative_of_merchants_end|relative of merchants end
-trp_relative_of_merchants_end_pl|relative of merchants end
+trp_relative_of_merchants_end|Händlerähnliche Ende
+trp_relative_of_merchants_end_pl|Händlerähnliche Ende
 trp_sacerdote_lair|Priester Beda
 trp_sacerdote_lair_pl|Priester
 trp_pagano_lair|Godi Olafr
@@ -1834,33 +1834,33 @@ trp_lair_barber4_pl|Ailill
 trp_cook_lair|Wamba
 trp_cook_lair_pl|Cook
 trp_lair_captain|Marcus
-trp_lair_captain_pl|Hort Kapitäne
+trp_lair_captain_pl|Lagerhauptmänner
 trp_mule_troop|Der Frosch
 trp_mule_troop_pl|Der Frosch
-trp_leader_playerrf|Landsknecht-Schwertkämpfer
-trp_leader_playerrf_pl|Landsknecht-Schwertkämpfer
+trp_leader_playerrf|Veteran
+trp_leader_playerrf_pl|Veteran
 trp_mountain_bandit_leader|Wolfherz
 trp_mountain_bandit_leader_pl|Wolfherz
 trp_last_druid|Druide
 trp_last_druid_pl|Druide
-trp_old_roman|Alte Römer
+trp_old_roman|Alter Römer
 trp_old_roman_pl|Alte Römer
 trp_sea_raider_hero2|Kapitänheld
 trp_sea_raider_hero2_pl|Kapitänheld
-trp_desert_bandit_hero|König der Räuber
-trp_desert_bandit_hero_pl|Könige der Räuber
+trp_desert_bandit_hero|Räuberkönig
+trp_desert_bandit_hero_pl|Räuberkönige
 trp_troll_bridge|Großer Mann
 trp_troll_bridge_pl|Großer Mann
 trp_elf_riddles|Kleiner Mann
 trp_elf_riddles_pl|Kleiner Mann
-trp_silo_gallaecia|Silo von Gallaecia kommt
+trp_silo_gallaecia|Comes Silo von Gallaecia
 trp_silo_gallaecia_pl|Silo von Gallaecia
 trp_petrus_didaz|Dux Petrus Didaz
-trp_petrus_didaz_pl|Dux Petro der Gläubiger
-trp_gundinsalvo_cantabrian|Gundinsalvo von Amaia kommt
-trp_gundinsalvo_cantabrian_pl|Gundinsalvo von Amaia kommt
+trp_petrus_didaz_pl|Dux Petro von Oveto
+trp_gundinsalvo_cantabrian|Comes Gundinsalvo von Amaia
+trp_gundinsalvo_cantabrian_pl|Comes Gundinsalvo von Amaia
 trp_port_crew|Alter Seekapitän
-trp_port_crew_pl|Sir Kapitäne
+trp_port_crew_pl|SR Kapitäne
 trp_port_pirate|Sklavenhändler
 trp_port_pirate_pl|Sklavenhändler
 trp_fisher|Fischer
@@ -1875,7 +1875,7 @@ trp_leader_svenlair|Harald
 trp_leader_svenlair_pl|Kapitäne
 trp_farmstead_prisoner|Gefangener
 trp_farmstead_prisoner_pl|Gefangener
-trp_sven_brother|Olvir weiße Haare
+trp_sven_brother|Olvir Weißhaar
 trp_sven_brother_pl|Olvir
 trp_atli_eiriksson|Atli Eiríksson
 trp_atli_eiriksson_pl|Atli
@@ -1884,8 +1884,8 @@ trp_sven_bull_neck_pl|Sven
 trp_frisianship_merchant|Kapitän
 trp_sailors|Seemann der Wotans Reich
 trp_sailors_pl|Seemänner der Wotans Reich
-trp_mercenary_arqueros|Söldner-Bogenschütze
-trp_mercenary_arqueros_pl|Söldner-Bogenschützen
+trp_mercenary_arqueros|Söldnerbogenschütze
+trp_mercenary_arqueros_pl|Söldnerbogenschützen
 trp_bodo_falso|Bodo
 trp_bodo_falso_pl|Bodo
 trp_your_tutorialwife|Mutter
@@ -1917,24 +1917,24 @@ trp_pseudo_troop_08|Arajo
 trp_pseudo_troop_08_pl|PT
 trp_pseudo_troop_09|Byrskids
 trp_pseudo_troop_09_pl|PT
-trp_pseudo_troop_end|Zweiter Outfit
+trp_pseudo_troop_end|Zweites Outfit
 trp_pseudo_troop_end_pl|Pseudo Truppe Ende
 trp_the_snake|Die Schlange
 trp_the_snake_pl|Die Schlange
-trp_campeon_1|AED-Mac Ainmerech
-trp_campeon_1_pl|AED-Mac Ainmerech
-trp_campeon_2|Olchobar Mac Cinaeda
-trp_campeon_2_pl|Olchobar Mac Cinaeda
+trp_campeon_1|Aed mac Ainmerech
+trp_campeon_1_pl|Aed mac Ainmerech
+trp_campeon_2|Olchobar mac Cinaeda
+trp_campeon_2_pl|Olchobar mac Cinaeda
 trp_slave|Sklave
 trp_slave_pl|Sklaven
 trp_morrigan_npc|Morrigan
 trp_morrigan_npc_pl|Morrigan
 trp_dog|Hund
 trp_dog_pl|Hunde
-trp_caliacas_son|Bran Mac Caliacas
-trp_caliacas_son_pl|Bran Mac Caliacas
-trp_maelbresail_man|Fergus Mac Cormaic
-trp_maelbresail_man_pl|Fergus Mac Cormaic
+trp_caliacas_son|Bran mac Caliacas
+trp_caliacas_son_pl|Bran mac Caliacas
+trp_maelbresail_man|Fergus mac Cormaic
+trp_maelbresail_man_pl|Fergus mac Cormaic
 trp_maelbressail_nother|Mael Bresails Mutter
 trp_maelbressail_nother_pl|Mael Bresails Mutter
 trp_mp_norse_peasant|Bauer
@@ -1951,7 +1951,7 @@ trp_mp_scotch_peasant|Bauer
 trp_mp_scotch_peasant_pl|Bauer
 trp_mp_norse_infantry|Nordische Infanterie
 trp_mp_norse_infantry_pl| 
-trp_mp_norse_archer|Nord-Bogenschütze
+trp_mp_norse_archer|Nordischer Bogenschütze
 trp_mp_norse_archer_pl| 
 trp_mp_norse_cavalry|Nordische Kavallerie
 trp_mp_norse_cavalry_pl| 

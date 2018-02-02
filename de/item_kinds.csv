@@ -58,10 +58,10 @@ itm_practice_bow|Langbogen
 itm_practice_bow_pl|Langbogen
 itm_practice_crossbow|Schleuder
 itm_practice_crossbow_pl|Schleuder
-itm_practice_javelin|Wurfspeer
-itm_practice_javelin_pl|Wurfspeer
-itm_practice_javelin_melee|Wurfspeer
-itm_practice_javelin_melee_pl|Wurfspeer
+itm_practice_javelin|Wurfspeere
+itm_practice_javelin_pl|Wurfspeere
+itm_practice_javelin_melee|Wurfspeere
+itm_practice_javelin_melee_pl|Wurfspeere
 itm_practice_throwing_daggers|Wurfspeere
 itm_practice_throwing_daggers_pl|Wurfspeere
 itm_practice_throwing_daggers_100_amount|Wurfspeere
@@ -418,8 +418,8 @@ itm_long_tunic1|Friesische leichte Rüstung
 itm_long_tunic1_pl|Friesische leichte Rüstung
 itm_nobleman_outfit|Sächsische leichte Rüstung
 itm_nobleman_outfit_pl|Sächsische leichte Rüstung
-itm_troll_tunic|Troll Tunika
-itm_troll_tunic_pl|Troll Tunika
+itm_troll_tunic|Tunika des Trolls
+itm_troll_tunic_pl|Tunika des Trolls
 itm_priest1|Priesterrobe
 itm_priest1_pl|Priesterrobe
 itm_priest2|Priesterrobe
@@ -542,8 +542,8 @@ itm_bl_tunic12|Sächsische Tunika
 itm_bl_tunic12_pl|Sächsische Tunika
 itm_red_cloak|Sächsische Tunika
 itm_red_cloak_pl|Sächsische Tunika
-itm_yellow_cloak|Elite Friesische Tunika
-itm_yellow_cloak_pl|Elite Friesische Tunika
+itm_yellow_cloak|Friesische Elitetunika
+itm_yellow_cloak_pl|Friesische Elitetunika
 itm_green_cloak|Piktische leichte Rüstung
 itm_green_cloak_pl|Piktische leichte Rüstung
 itm_blue_cloak|Tunika
@@ -1062,8 +1062,8 @@ itm_mail_shirt_5|Piktischer Brustharnisch
 itm_mail_shirt_5_pl|Piktischer Brustharnisch
 itm_mail_shirt_5_1|Erlesene britannische Brünne
 itm_mail_shirt_5_1_pl|Erlesene britannische Brünne
-itm_mail_shirt_5_2|Elite Sächsischer Halsberg
-itm_mail_shirt_5_2_pl|Elite Sächsischer Halsberg
+itm_mail_shirt_5_2|Sächsischer Elitehalsberg
+itm_mail_shirt_5_2_pl|Sächsischer Elitehalsberg
 itm_mail_shirt_12_1|Gewöhnlicher Halsberg
 itm_mail_shirt_12_1_pl|Gewöhnlicher Halsberg
 itm_mail_shirt_12_2|Gewöhnlicher Halsberg
@@ -1072,14 +1072,14 @@ itm_mail_shirt_12_3|Gewöhnlicher Halsberg
 itm_mail_shirt_12_3_pl|Gewöhnlicher Halsberg
 itm_mail_shirt_12_4|Gewöhnlicher Halsberg
 itm_mail_shirt_12_4_pl|Gewöhnlicher Halsberg
-itm_mail_shirt_13_1|Elite Sächsischer Halsberg
-itm_mail_shirt_13_1_pl|Elite Sächsischer Halsberg
+itm_mail_shirt_13_1|Sächsischer Elitehalsberg
+itm_mail_shirt_13_1_pl|Sächsischer Elitehalsberg
 itm_mail_shirt_13_2|Sächsischer Halsberg
 itm_mail_shirt_13_2_pl|Sächsischer Halsberg
 itm_mail_shirt_13_3|Sächsischer Halsberg
 itm_mail_shirt_13_3_pl|Sächsischer Halsberg
-itm_mail_shirt_13_4|Elite Sächsischer Brustharnisch
-itm_mail_shirt_13_4_pl|Elite Sächsischer Brustharnisch
+itm_mail_shirt_13_4|Sächsischer Eliteharnisch
+itm_mail_shirt_13_4_pl|Sächsischer Eliteharnisch
 itm_byrnie|Gewöhnlicher Halsberg
 itm_byrnie_pl|Gewöhnlicher Halsberg
 itm_byrnie2|Friesischer Brustharnisch
@@ -1092,10 +1092,10 @@ itm_byrnie5|Sächsischer Halsberg
 itm_byrnie5_pl|Sächsischer Halsberg
 itm_byrnie6|Britannische Brünne
 itm_byrnie6_pl|Britannische Brünne
-itm_byrnie7|Elite Frisischer Brustharnisch
-itm_byrnie7_pl|Elite Frisischer Brustharnisch
-itm_byrnie8|Elite Frisischer Halsberg
-itm_byrnie8_pl|Elite Frisischer Halsberg
+itm_byrnie7|Friesischer Eliteharnisch
+itm_byrnie7_pl|Friesischer Eliteharnisch
+itm_byrnie8|Friesischer Elitehalsberg
+itm_byrnie8_pl|Friesischer Elitehalsberg
 itm_byrnie9|Goidelischer Brustharnisch
 itm_byrnie9_pl|Goidelischer Brustharnisch
 itm_byrnie10|Goidelischer Brustharnisch
@@ -1158,8 +1158,8 @@ itm_byrnie38|Goidelischer Brustharnisch
 itm_byrnie38_pl|Goidelischer Brustharnisch
 itm_orm_byrnie|Orms Brustpanzer
 itm_orm_byrnie_pl|Orms Brustpanzer
-itm_lamellar_armor|Scale Brustpanzer
-itm_lamellar_armor_pl|Scale Brustpanzer
+itm_lamellar_armor|Schuppenpanzer
+itm_lamellar_armor_pl|Schuppenpanzer
 itm_burlap_tunic|Burlap Tunika
 itm_burlap_tunic_pl|Burlap Tunika
 itm_hood_01|Kapuze
@@ -1178,28 +1178,28 @@ itm_phrygian5|Phrygische
 itm_phrygian5_pl|Phrygische
 itm_phrygian6|Phrygische
 itm_phrygian6_pl|Phrygische
-itm_phrygian7|Qualität Phrygisch
-itm_phrygian7_pl|Qualität Phrygisch
-itm_phrygian8|Qualität Phrygisch
-itm_phrygian8_pl|Qualität Phrygisch
-itm_phrygian9|Qualität Phrygisch
-itm_phrygian9_pl|Qualität Phrygisch
-itm_phrygian10|Qualität Phrygisch
-itm_phrygian10_pl|Qualität Phrygisch
-itm_phrygian11|Qualität Phrygisch
-itm_phrygian11_pl|Qualität Phrygisch
-itm_phrygian12|Qualität Phrygisch
-itm_phrygian12_pl|Qualität Phrygisch
-itm_phrygian13|Qualität Phrygisch
-itm_phrygian13_pl|Qualität Phrygisch
-itm_phrygian14|Verziertes Phrygisch
-itm_phrygian14_pl|Verziertes Phrygisch
-itm_phrygian15|Verziertes Phrygisch
-itm_phrygian15_pl|Verziertes Phrygisch
-itm_phrygian16|Verziertes Phrygisch
-itm_phrygian16_pl|Verziertes Phrygisch
-itm_phrygian17|Verziertes Phrygisch
-itm_phrygian17_pl|Verziertes Phrygisch
+itm_phrygian7|Qualitäts Phrygische
+itm_phrygian7_pl|Qualitäts Phrygische
+itm_phrygian8|Qualitäts Phrygische
+itm_phrygian8_pl|Qualitäts Phrygische
+itm_phrygian9|Qualitäts Phrygische
+itm_phrygian9_pl|Qualitäts Phrygische
+itm_phrygian10|Qualitäts Phrygische
+itm_phrygian10_pl|Qualitäts Phrygische
+itm_phrygian11|Qualitäts Phrygische
+itm_phrygian11_pl|Qualitäts Phrygische
+itm_phrygian12|Qualitäts Phrygische
+itm_phrygian12_pl|Qualitäts Phrygische
+itm_phrygian13|Qualitäts Phrygische
+itm_phrygian13_pl|Qualitäts Phrygische
+itm_phrygian14|Verzierte Phrygische
+itm_phrygian14_pl|Verzierte Phrygische
+itm_phrygian15|Verzierte Phrygische
+itm_phrygian15_pl|Verzierte Phrygische
+itm_phrygian16|Verzierte Phrygische
+itm_phrygian16_pl|Verzierte Phrygische
+itm_phrygian17|Verzierte Phrygische
+itm_phrygian17_pl|Verzierte Phrygische
 itm_briton_helm|Leichter Helm
 itm_briton_helm_pl|Einfacher Helm
 itm_briton_helm2|Einfacher Helm
@@ -1242,12 +1242,12 @@ itm_briton_helm20|Helm mit Nasenschutz
 itm_briton_helm20_pl|Helm mit Nasenschutz
 itm_briton_helm21|Helm mit Nasenschutz
 itm_briton_helm21_pl|Helm mit Nasenschutz
-itm_briton_helm22|Altes Helm mit Nasenschutz
-itm_briton_helm22_pl|Altes Helm mit Nasenschutz
-itm_briton_helm23|Altes Helm mit Nasenschutz
-itm_briton_helm23_pl|Altes Helm mit Nasenschutz
-itm_briton_helm24|Altes Helm mit Nasenschutz
-itm_briton_helm24_pl|Altes Helm mit Nasenschutz
+itm_briton_helm22|Alter Helm mit Nasenschutz
+itm_briton_helm22_pl|Alter Helm mit Nasenschutz
+itm_briton_helm23|Alter Helm mit Nasenschutz
+itm_briton_helm23_pl|Alter Helm mit Nasenschutz
+itm_briton_helm24|Alter Helm mit Nasenschutz
+itm_briton_helm24_pl|Alter Helm mit Nasenschutz
 itm_briton_helm25|Helm mit Leder
 itm_briton_helm25_pl|Helm mit Leder
 itm_briton_helm26|Helm mit Leder
@@ -1294,26 +1294,26 @@ itm_spangenhelm_6|Leichter  Helm mit Kettenpanzer
 itm_spangenhelm_6_pl|Leichter  Helm mit Kettenpanzer
 itm_spangenhelm_7|Alter Leichter Helm mit Leder
 itm_spangenhelm_7_pl|Alter Leichter Helm mit Leder
-itm_spangenhelm_8|Alter Anglo Sächsischer Helm
-itm_spangenhelm_8_pl|Alter Anglo Sächsischer Helm
+itm_spangenhelm_8|Alter Angelsächsischer Helm
+itm_spangenhelm_8_pl|Alter Angelsächsischer Helm
 itm_spangenhelm_9|Kompletter Helm
 itm_spangenhelm_9_pl|Kompletter Helm
 itm_spangenhelm_10|Kompletter Helm
 itm_spangenhelm_10_pl|Kompletter Helm
-itm_spangenhelm_11|Alter Anglo Sächsischer Helm
-itm_spangenhelm_11_pl|Alter Anglo Sächsischer Helm
-itm_spangenhelm_12|Alter Anglo Sächsischer Helm
-itm_spangenhelm_12_pl|Alter Anglo Sächsischer Helm
+itm_spangenhelm_11|Alter Angelsächsischer Helm
+itm_spangenhelm_11_pl|Alter Angelsächsischer Helm
+itm_spangenhelm_12|Alter Angelsächsischer Helm
+itm_spangenhelm_12_pl|Alter Angelsächsischer Helm
 itm_spangenhelm_13|Kompletter Helm
 itm_spangenhelm_13_pl|Kompletter Helm
 itm_spangenhelm_14|Kompletter Helm
 itm_spangenhelm_14_pl|Kompletter Helm
 itm_spangenhelm_15|Kompletter Helm
 itm_spangenhelm_15_pl|Kompletter Helm
-itm_spangenhelm_16|Elite Anglo Sächsischer Helm
-itm_spangenhelm_16_pl|Elite Anglo Sächsischer Helm
-itm_spangenhelm_17|Elite Anglo Sächsischer Helm
-itm_spangenhelm_17_pl|Elite Anglo Sächsischer Helm
+itm_spangenhelm_16|Angelsächsischer Elitehelm
+itm_spangenhelm_16_pl|Angelsächsischer Elitehelm
+itm_spangenhelm_17|Angelsächsischer Elitehelm
+itm_spangenhelm_17_pl|Angelsächsischer Elitehelm
 itm_spangenhelm_18|Sächsischer Helm
 itm_spangenhelm_18_pl|Sächsischer Helm
 itm_spangenhelm_19|Helm mit Nasenschutz
@@ -1326,8 +1326,8 @@ itm_spangenhelm_22|Helm mit Nasenschutz
 itm_spangenhelm_22_pl|Helm mit Nasenschutz
 itm_spangenhelm_23|Alter Helm
 itm_spangenhelm_23_pl|Alter Helm
-itm_spangenhelm_24|Altes Helm mit Nasenschutz
-itm_spangenhelm_24_pl|Altes Helm mit Nasenschutz
+itm_spangenhelm_24|Alter Helm mit Nasenschutz
+itm_spangenhelm_24_pl|Alter Helm mit Nasenschutz
 itm_spangenhelm_25|Helm mit Leder
 itm_spangenhelm_25_pl|Helm mit Leder
 itm_spangenhelm_26|Helm mit Leder
@@ -1356,10 +1356,10 @@ itm_spangenhelm_37|Kompletter Helm
 itm_spangenhelm_37_pl|Kompletter Helm
 itm_spangenhelm_38|Alter kompletter Helm
 itm_spangenhelm_38_pl|Alter kompletter Helm
-itm_spangenhelm_39|Adliger Anglo Sächsischer Helm
-itm_spangenhelm_39_pl|Adliger Anglo Sächsischer Helm
-itm_spangenhelm_40|Adliger Anglo Sächsischer Helm
-itm_spangenhelm_40_pl|Adliger Anglo Sächsischer Helm
+itm_spangenhelm_39|Adliger Angelsächsischer Helm
+itm_spangenhelm_39_pl|Adliger Angelsächsischer Helm
+itm_spangenhelm_40|Adliger Angelsächsischer Helm
+itm_spangenhelm_40_pl|Adliger Angelsächsischer Helm
 itm_vikingold_helm|Altnordischer Helm
 itm_vikingold_helm_pl|Altnordischer Helm
 itm_vikingold_helm2|Altnordischer Helm
@@ -1492,12 +1492,12 @@ itm_viking_elitehelm8|Nordischer Helm mit Kettenpanzer
 itm_viking_elitehelm8_pl|Nordischer Helm mit Kettenpanzer
 itm_viking_elitehelm9|Nordischer Helm mit Kettenpanzer
 itm_viking_elitehelm9_pl|Nordischer Helm mit Kettenpanzer
-itm_viking_noblehelm1|Elite Nordischer Helm
-itm_viking_noblehelm1_pl|Elite Nordischer Helm
-itm_viking_noblehelm2|Elite Nordischer Helm mit Leder
-itm_viking_noblehelm2_pl|Elite Nordischer Helm mit Leder
-itm_viking_noblehelm3|Elite Nordischer Helm mit Kettenpanzer
-itm_viking_noblehelm3_pl|Elite Nordischer Helm mit Kettenpanzer
+itm_viking_noblehelm1|Nordischer Elitehelm
+itm_viking_noblehelm1_pl|Nordischer Elitehelm
+itm_viking_noblehelm2|Nordischer Elitehelm mit Leder
+itm_viking_noblehelm2_pl|Nordischer Elitehelm mit Leder
+itm_viking_noblehelm3|Nordischer Elitehelm mit Kettenpanzer
+itm_viking_noblehelm3_pl|Nordischer Elitehelm mit Kettenpanzer
 itm_angle_helmet1|Adeliger Helm
 itm_angle_helmet1_pl|Adeliger Helm
 itm_angle_helmet2|Helm mit Leder
@@ -1510,8 +1510,8 @@ itm_angle_helmet5|Alter kompletter Helm
 itm_angle_helmet5_pl|Alter kompletter Helm
 itm_angle_helmet6|Kompletter Helm
 itm_angle_helmet6_pl|Kompletter Helm
-itm_elf_helmet|Elf´s Helm
-itm_elf_helmet_pl|Elf´s Helm
+itm_elf_helmet|Helm des Kobolds
+itm_elf_helmet_pl|Helm des Kobolds
 itm_noble_helm_smith|Adeliger Helm
 itm_noble_helm_smith_pl|Adeliger Helm
 itm_hersir_helm|Hersir Helm
@@ -1526,8 +1526,8 @@ itm_wooden_stick|Holzstab
 itm_wooden_stick_pl|Holzstab
 itm_club_hard|Keule
 itm_club_hard_pl|Keule
-itm_club_troll|Troll´s Axt
-itm_club_troll_pl|Troll´s Axt
+itm_club_troll|Axt des Trolls
+itm_club_troll_pl|Axt des Trolls
 itm_knife|Jagdmesser
 itm_knife_pl|Jagdmesser
 itm_knife2|Jagdmesser
@@ -1538,26 +1538,26 @@ itm_knife4|Jagdmesser
 itm_knife4_pl|Jagdmesser
 itm_knife5|Jagdmesser
 itm_knife5_pl|Jagdmesser
-itm_longseax1|Großer Sax
-itm_longseax1_pl|Großer Sax
-itm_longseax2|Großer Sax
-itm_longseax2_pl|Großer Sax
-itm_longseax3|Großer Sax
-itm_longseax3_pl|Großer Sax
-itm_longseax4|Großer Sax
-itm_longseax4_pl|Großer Sax
-itm_longseax5|Großer Sax
-itm_longseax5_pl|Großer Sax
-itm_longseax6|Langer Sax
-itm_longseax6_pl|Langer Sax
-itm_longseax7|Langer Sax
-itm_longseax7_pl|Langer Sax
-itm_longseax8|Langer Sax
-itm_longseax8_pl|Langer Sax
-itm_longseax9|Langer Sax
-itm_longseax9_pl|Langer Sax
-itm_longseax10|Langer Sax
-itm_longseax10_pl|Langer Sax
+itm_longseax1|Breitsax
+itm_longseax1_pl|Breitsax
+itm_longseax2|Breitsax
+itm_longseax2_pl|Breitsax
+itm_longseax3|Breitsax
+itm_longseax3_pl|Breitsax
+itm_longseax4|Breitsax
+itm_longseax4_pl|Breitsax
+itm_longseax5|Breitsax
+itm_longseax5_pl|Breitsax
+itm_longseax6|Langsax
+itm_longseax6_pl|Langsax
+itm_longseax7|Langsax
+itm_longseax7_pl|Langsax
+itm_longseax8|Langsax
+itm_longseax8_pl|Langsax
+itm_longseax9|Langsax
+itm_longseax9_pl|Langsax
+itm_longseax10|Langsax
+itm_longseax10_pl|Langsax
 itm_seax_1|Sax
 itm_seax_1_pl|Sax
 itm_seax_2|Sax
@@ -1568,10 +1568,10 @@ itm_seax_4|Sax
 itm_seax_4_pl|Sax
 itm_seax_5|Sax
 itm_seax_5_pl|Sax
-itm_ragnar_seax|Ragnar's Sax
-itm_ragnar_seax_pl|Ragnar's Sax
-itm_elf_seax|Elf's Sax
-itm_elf_seax_pl|Elf's Sax
+itm_ragnar_seax|Ragnars Langsax
+itm_ragnar_seax_pl|Ragnars Langsax
+itm_elf_seax|Langsax des Kobolds
+itm_elf_seax_pl|Langsax des Kobolds
 itm_spatha|Schwert
 itm_spatha_pl|Schwert
 itm_spatha_2|Schwert
@@ -1668,10 +1668,10 @@ itm_noble_swordv6|Schwert
 itm_noble_swordv6_pl|Schwert
 itm_noble_swordv7|Prächiges Schwert
 itm_noble_swordv7_pl|Prächiges Schwert
-itm_irish_long_sword1|Gälisches adeliges Langschwert
-itm_irish_long_sword1_pl|Gälisches adeliges Langschwert
-itm_irish_long_sword2|Gälisches adeliges Langschwert
-itm_irish_long_sword2_pl|Gälisches adeliges Langschwert
+itm_irish_long_sword1|Goidelisches Adelslangschwert
+itm_irish_long_sword1_pl|Goidelisches Adelslangschwert
+itm_irish_long_sword2|Goidelisches Adelslangschwert
+itm_irish_long_sword2_pl|Goidelisches Adelslangschwert
 itm_irish_long_sword3|Goidelisches Langschwert
 itm_irish_long_sword3_pl|Goidelisches Langschwert
 itm_irish_long_sword4|Goidelisches Langschwert
@@ -1696,12 +1696,12 @@ itm_championsword2|Goidelisches Meisterschwert
 itm_championsword2_pl|Goidelisches Meisterschwert
 itm_widow_maker|Witwenmacher
 itm_widow_maker_pl|Witwenmacher
-itm_suttonhoosword2|Bandit Königsschwert
-itm_suttonhoosword2_pl|Bandit Königsschwert
+itm_suttonhoosword2|Schwert des Banditenkönigs
+itm_suttonhoosword2_pl|Schwert des Banditenkönigs
 itm_siren_song|Laufi
 itm_siren_song_pl|Laufi
-itm_sword_of_war|Olvir´s Schwert
-itm_sword_of_war_pl|Olvir´s Schwert
+itm_sword_of_war|Olvirs Schwert
+itm_sword_of_war_pl|Olvirs Schwert
 itm_sword_premium1|Nad
 itm_sword_premium1_pl|Nad
 itm_sword_premium2|Draguandil
@@ -1854,16 +1854,16 @@ itm_viking_shield_round_12|Rundschild
 itm_viking_shield_round_12_pl|Rundschild
 itm_viking_shield_round_13|Rundschild
 itm_viking_shield_round_13_pl|Rundschild
-itm_viking_shield_round_01|Rohleder Schild
-itm_viking_shield_round_01_pl|Rohleder Schild
-itm_viking_shield_round_02|Rohleder Schild
-itm_viking_shield_round_02_pl|Rohleder Schild
-itm_viking_shield_round_03|Rohleder Schild
-itm_viking_shield_round_03_pl|Rohleder Schild
-itm_viking_shield_round_14|Rohleder Schild
-itm_viking_shield_round_14_pl|Rohleder Schild
-itm_viking_shield_round_15|Rohleder Schild
-itm_viking_shield_round_15_pl|Rohleder Schild
+itm_viking_shield_round_01|Rohlederschild
+itm_viking_shield_round_01_pl|Rohlederschild
+itm_viking_shield_round_02|Rohlederschild
+itm_viking_shield_round_02_pl|Rohlederschild
+itm_viking_shield_round_03|Rohlederschild
+itm_viking_shield_round_03_pl|Rohlederschild
+itm_viking_shield_round_14|Rohlederschild
+itm_viking_shield_round_14_pl|Rohlederschild
+itm_viking_shield_round_15|Rohlederschild
+itm_viking_shield_round_15_pl|Rohlederschild
 itm_viking_shield_round_04|Rohleder Rundschild
 itm_viking_shield_round_04_pl|Rohleder Rundschild
 itm_viking_shield_round_05|Rohleder Rundschild
@@ -1902,18 +1902,18 @@ itm_shield_9|Berserker Schild
 itm_shield_9_pl|Berserker Schild
 itm_shield_10|Rundschild
 itm_shield_10_pl|Rundschild
-itm_shield_11|Rohleder Schild
-itm_shield_11_pl|Rohleder Schild
+itm_shield_11|Rohlederschild
+itm_shield_11_pl|Rohlederschild
 itm_shield_12|Svear Schild
 itm_shield_12_pl|Svear Schild
 itm_shield_13|Rundschild
 itm_shield_13_pl|Rundschild
 itm_shield_14|Rundschild
 itm_shield_14_pl|Rundschild
-itm_shield_15|Rohleder Schild
-itm_shield_15_pl|Rohleder Schild
-itm_shield_16|Rohleder Schild
-itm_shield_16_pl|Rohleder Schild
+itm_shield_15|Rohlederschild
+itm_shield_15_pl|Rohlederschild
+itm_shield_16|Rohlederschild
+itm_shield_16_pl|Rohlederschild
 itm_shield_17|Rundschild
 itm_shield_17_pl|Rundschild
 itm_shield_18|Rundschild
@@ -1938,8 +1938,8 @@ itm_gael_bigroundshield_06|Gael Rundschild
 itm_gael_bigroundshield_06_pl|Gael Rundschild
 itm_gael_bigroundshield_07|Gael Rundschild
 itm_gael_bigroundshield_07_pl|Gael Rundschild
-itm_elf_shield|Elf´s Schild
-itm_elf_shield_pl|Elf´s Schild
+itm_elf_shield|Schild des Kobolds
+itm_elf_shield_pl|Schild des Kobolds
 itm_tab_shield_round_c|Bemaltes Convexschild
 itm_tab_shield_round_c_pl|Bemaltes Convexschild
 itm_tab_shield_round_01_device|Bemaltes Rundschild
@@ -2028,34 +2028,34 @@ itm_squaresh_5|Viereckiges Schild
 itm_squaresh_5_pl|Viereckiges Schild
 itm_squaresh_6|Viereckiges Schild
 itm_squaresh_6_pl|Viereckiges Schild
-itm_darts|Leichter Wurfspeer
-itm_darts_pl|Leichter Wurfspeer
-itm_darts_melee|Leichter Wurfspeer
-itm_darts_melee_pl|Leichter Wurfspeer
-itm_javelin|Wurfspeer
-itm_javelin_pl|Wurfspeer
-itm_javelin_melee|Wurfspeer
-itm_javelin_melee_pl|Wurfspeer
+itm_darts|Leichte Wurfspeere
+itm_darts_pl|Leichte Wurfspeere
+itm_darts_melee|Leichte Wurfspeere
+itm_darts_melee_pl|Leichte Wurfspeere
+itm_javelin|Wurfspeere
+itm_javelin_pl|Wurfspeere
+itm_javelin_melee|Wurfspeere
+itm_javelin_melee_pl|Wurfspeere
 itm_javelin_skirmishes|Scharmützel Wurfspeere
 itm_javelin_skirmishes_pl|Scharmützel Wurfspeere
-itm_javelin_skirmishes_melee|Scharmützel Wurfspeer
-itm_javelin_skirmishes_melee_pl|Scharmützel Wurfspeer
+itm_javelin_skirmishes_melee|Scharmützel Wurfspeere
+itm_javelin_skirmishes_melee_pl|Scharmützel Wurfspeere
 itm_javelin_skirmishesel|Schwere Wurfspeere
 itm_javelin_skirmishesel_pl|Schwere Wurfspeere
-itm_javelin_skirmishesel_melee|Schwerer Wurfspeer
-itm_javelin_skirmishesel_melee_pl|Schwerer Wurfspeer
+itm_javelin_skirmishesel_melee|Schwere Wurfspeere
+itm_javelin_skirmishesel_melee_pl|Schwere Wurfspeere
 itm_javelin_jinetes|Reiter Wurfspeere
 itm_javelin_jinetes_pl|Reiter Wurfspeere
-itm_javelin_jinetes_melee|Reiter Wurfspeer
-itm_javelin_jinetes_melee_pl|Reiter Wurfspeer
+itm_javelin_jinetes_melee|Reiter Wurfspeere
+itm_javelin_jinetes_melee_pl|Reiter Wurfspeere
 itm_throwing_spears|Wurfspeere
 itm_throwing_spears_pl|Wurfspeere
-itm_throwing_spear_melee|Wurfspeer
-itm_throwing_spear_melee_pl|Wurfspeer
+itm_throwing_spear_melee|Wurfspeere
+itm_throwing_spear_melee_pl|Wurfspeere
 itm_throwing_spears2|Wurfspeere
 itm_throwing_spears2_pl|Wurfspeere
-itm_throwing_spear2_melee|Wurfspeer
-itm_throwing_spear2_melee_pl|Wurfspeer
+itm_throwing_spear2_melee|Wurfspeere
+itm_throwing_spear2_melee_pl|Wurfspeere
 itm_stones|Steine
 itm_stones_pl|Steine
 itm_long_bow|Langbogen
@@ -2090,10 +2090,10 @@ itm_fustibalus_military|Militär Fustibalus
 itm_fustibalus_military_pl|Militär Fustibalus
 itm_torch|Fackeln
 itm_torch_pl|Fackeln
-itm_lyre|Leiter
-itm_lyre_pl|Leiter
-itm_lute|Lute
-itm_lute_pl|Lute
+itm_lyre|Lyra
+itm_lyre_pl|Lyra
+itm_lute|Laute
+itm_lute_pl|Laute
 itm_instruments_end|Instrumente Ende
 itm_instruments_end_pl|Instrumente Ende
 itm_court_dress|Hof Kleid
@@ -2104,8 +2104,8 @@ itm_trophy_a|Kampftrophäe
 itm_trophy_a_pl|Kampftrophäe
 itm_trophy_b|Kriegstrophäe
 itm_trophy_b_pl|Kriegstrophäe
-itm_trophy_c|Epischetrophäe
-itm_trophy_c_pl|Epischetrophäe
+itm_trophy_c|Epische Trophäe
+itm_trophy_c_pl|Epische Trophäe
 itm_iniauhorn|Iniau Horn
 itm_iniauhorn_pl|Iniau Horn
 itm_tunic_with_green_cape|Tunika
@@ -2124,18 +2124,18 @@ itm_practice_arrows_2|Pfeile
 itm_practice_arrows_2_pl|Pfeile
 itm_steel_bolts|Belagerungs Steine
 itm_steel_bolts_pl|Belagerungs Steine
-itm_heraldic_mail_with_tunic_b|Heraldische Tunika
-itm_heraldic_mail_with_tunic_b_pl|Heraldische Tunika
-itm_heraldic_mail_with_tabard|Heraldische Tunika mit Waffenrock
-itm_heraldic_mail_with_tabard_pl|Heraldische Tunika mit Waffenrock
-itm_thors_helmet|Thor's Helm
-itm_thors_helmet_pl|Thor's Helm
-itm_thors_armor|Thor's Harnisch
-itm_thors_armor_pl|Thor's Harnisch
-itm_thors_boots|Thor's Stiefel
-itm_thors_boots_pl|Thor's Stiefel
-itm_thors_hammer|Thor's Hammer
-itm_thors_hammer_pl|Thor's Hammer
+itm_heraldic_mail_with_tunic_b|Hemd
+itm_heraldic_mail_with_tunic_b_pl|Hemd
+itm_heraldic_mail_with_tabard|Hemd
+itm_heraldic_mail_with_tabard_pl|Hemd
+itm_thors_helmet|Thors Helm
+itm_thors_helmet_pl|Thors Helm
+itm_thors_armor|Thors Harnisch
+itm_thors_armor_pl|Thors Harnisch
+itm_thors_boots|Thors Stiefel
+itm_thors_boots_pl|Thors Stiefel
+itm_thors_hammer|Thors Hammer
+itm_thors_hammer_pl|Thors Hammer
 itm_deadly_bow|Tödlicher Bogen
 itm_deadly_bow_pl|Tödlicher Bogen
 itm_deadly_arrows|Tödliche Pfeile
@@ -2192,8 +2192,8 @@ itm_addon_mail6|Bären Brustpanzer
 itm_addon_mail6_pl|Bären Brustpanzer
 itm_addon_mail7|Wolf Brustpanzer
 itm_addon_mail7_pl|Wolf Brustpanzer
-itm_lamellar_armor2|Schuppen Brustpanzer
-itm_lamellar_armor2_pl|Schuppen Brustpanzer
+itm_lamellar_armor2|Schuppenpanzer
+itm_lamellar_armor2_pl|Schuppenpanzer
 itm_trophy_norse|Nordische Königstrophäe
 itm_trophy_norse_pl|Nordische Königstrophäe
 itm_trophy_cymry|Vrenhin Lloegr Trophäe
@@ -2214,8 +2214,8 @@ itm_bonus_dress_2|Königliche Sächsische Gewänder
 itm_bonus_dress_2_pl|Königliche Sächsische Gewänder
 itm_bonus_dress_3|Edler Nordischer Rock
 itm_bonus_dress_3_pl|Edler Nordischer Rock
-itm_thors_javelins|Thor's Wurfspeere
-itm_thors_javelins_pl|Thor's Wurfspeere
+itm_thors_javelins|Thors Wurfspeere
+itm_thors_javelins_pl|Thors Wurfspeere
 itm_decap_head|Kein Kopf
 itm_decap_head_pl|Kein Kopf
 itm_work_axe_mp|Axt
@@ -2232,8 +2232,8 @@ itm_bolts_mp|Bolzen
 itm_bolts_mp_pl|Bolzen
 itm_items_end|Items Ende
 itm_items_end_pl|Items Ende
-itm_noswing_club_troll|Troll´s Axt
-itm_noswing_club_troll_pl|Troll´s Axt
+itm_noswing_club_troll|Axt des Trolls
+itm_noswing_club_troll_pl|Axt des Trolls
 itm_noswing_knife|Jagdmesser
 itm_noswing_knife_pl|Jagdmesser
 itm_noswing_knife2|Jagdmesser
@@ -2244,26 +2244,26 @@ itm_noswing_knife4|Jagdmesser
 itm_noswing_knife4_pl|Jagdmesser
 itm_noswing_knife5|Jagdmesser
 itm_noswing_knife5_pl|Jagdmesser
-itm_noswing_longseax1|Breiter Sax
-itm_noswing_longseax1_pl|Breiter Sax
-itm_noswing_longseax2|Breiter Sax
-itm_noswing_longseax2_pl|Breiter Sax
-itm_noswing_longseax3|Breiter Sax
-itm_noswing_longseax3_pl|Breiter Sax
-itm_noswing_longseax4|Breiter Sax
-itm_noswing_longseax4_pl|Breiter Sax
-itm_noswing_longseax5|Breiter Sax
-itm_noswing_longseax5_pl|Breiter Sax
-itm_noswing_longseax6|Langer Sax
-itm_noswing_longseax6_pl|Langer Sax
-itm_noswing_longseax7|Langer Sax
-itm_noswing_longseax7_pl|Langer Sax
-itm_noswing_longseax8|Langer Sax
-itm_noswing_longseax8_pl|Langer Sax
-itm_noswing_longseax9|Langer Sax
-itm_noswing_longseax9_pl|Langer Sax
-itm_noswing_longseax10|Langer Sax
-itm_noswing_longseax10_pl|Langer Sax
+itm_noswing_longseax1|Breitsax
+itm_noswing_longseax1_pl|Breitsax
+itm_noswing_longseax2|Breitsax
+itm_noswing_longseax2_pl|Breitsax
+itm_noswing_longseax3|Breitsax
+itm_noswing_longseax3_pl|Breitsax
+itm_noswing_longseax4|Breitsax
+itm_noswing_longseax4_pl|Breitsax
+itm_noswing_longseax5|Breitsax
+itm_noswing_longseax5_pl|Breitsax
+itm_noswing_longseax6|Langsax
+itm_noswing_longseax6_pl|Langsax
+itm_noswing_longseax7|Langsax
+itm_noswing_longseax7_pl|Langsax
+itm_noswing_longseax8|Langsax
+itm_noswing_longseax8_pl|Langsax
+itm_noswing_longseax9|Langsax
+itm_noswing_longseax9_pl|Langsax
+itm_noswing_longseax10|Langsax
+itm_noswing_longseax10_pl|Langsax
 itm_noswing_seax_1|Sax
 itm_noswing_seax_1_pl|Sax
 itm_noswing_seax_2|Sax
@@ -2274,10 +2274,10 @@ itm_noswing_seax_4|Sax
 itm_noswing_seax_4_pl|Sax
 itm_noswing_seax_5|Sax
 itm_noswing_seax_5_pl|Sax
-itm_noswing_ragnar_seax|Ragnar's Sax
-itm_noswing_ragnar_seax_pl|Ragnar's Sax
-itm_noswing_elf_seax|Elf's Sax
-itm_noswing_elf_seax_pl|Elf's Sax
+itm_noswing_ragnar_seax|Ragnars Langsax
+itm_noswing_ragnar_seax_pl|Ragnars Langsax
+itm_noswing_elf_seax|Langsax des Kobolds
+itm_noswing_elf_seax_pl|Langsax des Kobolds
 itm_noswing_spatha|Schwert
 itm_noswing_spatha_pl|Schwert
 itm_noswing_spatha_2|Schwert
@@ -2374,10 +2374,10 @@ itm_noswing_noble_swordv6|Schwert
 itm_noswing_noble_swordv6_pl|Schwert
 itm_noswing_noble_swordv7|Prächiges Schwert
 itm_noswing_noble_swordv7_pl|Prächiges Schwert
-itm_noswing_irish_long_sword1|Gälisches adeliges Langschwert
-itm_noswing_irish_long_sword1_pl|Gälisches adeliges Langschwert
-itm_noswing_irish_long_sword2|Gälisches adeliges Langschwert
-itm_noswing_irish_long_sword2_pl|Gälisches adeliges Langschwert
+itm_noswing_irish_long_sword1|Goidelisches Adelslangschwert
+itm_noswing_irish_long_sword1_pl|Goidelisches Adelslangschwert
+itm_noswing_irish_long_sword2|Goidelisches Adelslangschwert
+itm_noswing_irish_long_sword2_pl|Goidelisches Adelslangschwert
 itm_noswing_irish_long_sword3|Goidelisches Langschwert
 itm_noswing_irish_long_sword3_pl|Goidelisches Langschwert
 itm_noswing_irish_long_sword4|Goidelisches Langschwert
@@ -2402,12 +2402,12 @@ itm_noswing_championsword2|Goidelisches Meisterschwert
 itm_noswing_championsword2_pl|Goidelisches Meisterschwert
 itm_noswing_widow_maker|Witwenmacher
 itm_noswing_widow_maker_pl|Witwenmacher
-itm_noswing_suttonhoosword2|Bandit Königsschwert
-itm_noswing_suttonhoosword2_pl|Bandit Königsschwert
+itm_noswing_suttonhoosword2|Schwert des Banditenkönigs
+itm_noswing_suttonhoosword2_pl|Schwert des Banditenkönigs
 itm_noswing_siren_song|Laufi
 itm_noswing_siren_song_pl|Laufi
-itm_noswing_sword_of_war|Olvir´s Schwert
-itm_noswing_sword_of_war_pl|Olvir´s Schwert
+itm_noswing_sword_of_war|Olvirs Schwert
+itm_noswing_sword_of_war_pl|Olvirs Schwert
 itm_noswing_sword_premium1|Nad
 itm_noswing_sword_premium1_pl|Nad
 itm_noswing_sword_premium2|Draguandil
@@ -2478,18 +2478,18 @@ itm_noswing_standard_dragon|Drachenbanner
 itm_noswing_standard_dragon_pl|Drachenbanner
 itm_noswing_darts_melee|Leichter Speere
 itm_noswing_darts_melee_pl|Leichter Speere
-itm_noswing_javelin_melee|Wurfspeer
-itm_noswing_javelin_melee_pl|Wurfspeer
-itm_noswing_javelin_skirmishes_melee|Scharmützel Wurfspeer
-itm_noswing_javelin_skirmishes_melee_pl|Scharmützel Wurfspeer
-itm_noswing_javelin_skirmishesel_melee|Schwerer Wurfspeer
-itm_noswing_javelin_skirmishesel_melee_pl|Schwerer Wurfspeer
-itm_noswing_javelin_jinetes_melee|Reiter Wurfspeer
-itm_noswing_javelin_jinetes_melee_pl|Reiter Wurfspeer
-itm_noswing_throwing_spear_melee|Wurfspeer
-itm_noswing_throwing_spear_melee_pl|Wurfspeer
-itm_noswing_throwing_spear2_melee|Wurfspeer
-itm_noswing_throwing_spear2_melee_pl|Wurfspeer
+itm_noswing_javelin_melee|Wurfspeere
+itm_noswing_javelin_melee_pl|Wurfspeere
+itm_noswing_javelin_skirmishes_melee|Scharmützel Wurfspeere
+itm_noswing_javelin_skirmishes_melee_pl|Scharmützel Wurfspeere
+itm_noswing_javelin_skirmishesel_melee|Schwere Wurfspeere
+itm_noswing_javelin_skirmishesel_melee_pl|Schwere Wurfspeere
+itm_noswing_javelin_jinetes_melee|Reiter Wurfspeere
+itm_noswing_javelin_jinetes_melee_pl|Reiter Wurfspeere
+itm_noswing_throwing_spear_melee|Wurfspeere
+itm_noswing_throwing_spear_melee_pl|Wurfspeere
+itm_noswing_throwing_spear2_melee|Wurfspeere
+itm_noswing_throwing_spear2_melee_pl|Wurfspeere
 itm_noswing_torch|Fackeln
 itm_noswing_torch_pl|Fackeln
 itm_noswing_work_pitchfork|Heugabel
