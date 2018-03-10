@@ -2,7 +2,7 @@ skl_trade|Commercio
 skl_trade_desc|Ogni livello di questa abilità riduce la penalità nelle compravendite del 5%%. (Abilità di Gruppo)
 skl_leadership|Comando
 skl_leadership_desc|Ogni punto incrementa il numero massimo di truppe che puoi comandare di 5 e riduce i salari delle truppe. (Abilità Del Comandante)
-skl_prisoner_management|Controllo Prigionieri
+skl_prisoner_management|Controllo dei prigionieri
 skl_prisoner_management_desc|Ogni livello incrementa di %d il numero massimo di prigionieri. (Abilità del Comandante)
 skl_reserved_1|Abilità riservata 1
 skl_reserved_1_desc|Questa è un'abilità riservata.
@@ -20,7 +20,7 @@ skl_first_aid|Pronto soccorso
 skl_first_aid_desc|Per ogni punto in questa abilità gli eroi recuperano il 5%% di salute persa in battaglia. (Abilità di Gruppo)
 skl_surgery|Chirurgia
 skl_surgery_desc|Ogni punto in questa abilità ti da il 4%% di probabilità che un membro della Compagnia, colpito mortalmente, venga ferito piuttosto che ucciso. (Abilità Di Gruppo)
-skl_wound_treatment|Curare Ferite
+skl_wound_treatment|Curare ferite
 skl_wound_treatment_desc|Per ogni livello di questa abilità la velocità di guarigione della compagnia è incrementata del 20%%. Inoltre, ogni punto incrementa la probabilità che gravi ferite, guariranno meglio del 5%%. (Abilità Di Gruppo)
 skl_inventory_management|Gestione dell'inventario
 skl_inventory_management_desc|Per ogni punto in questa abilità la capacità dell'inventario viene aumentata di 6. (Abilità del Comandante)
@@ -30,9 +30,9 @@ skl_pathfinding|Orientamento
 skl_pathfinding_desc|Per ogni punto in questa abilità la velocità della Compagnia aumenta del 3%%. (Abilità di Gruppo)
 skl_tactics|Tattica
 skl_tactics_desc|Ogni due punti di questa abilità incrementano il vantaggio iniziale in battaglia di 1. (Abilità di Gruppo)
-skl_tracking|Seguire Tracce
+skl_tracking|Seguire le tracce
 skl_tracking_desc|Le orme sul terreno forniscono più informazioni. (Abilità di Gruppo)
-skl_trainer|Addestratori
+skl_trainer|Addestratore
 skl_trainer_desc|Ogni giorno, ciascun eroe con questa abilità, aggiunge dell'esperienza ad ogni altro membro della compagnia, il cui livello è minore del suo/sua. L'esperienza guadagnata ha questa progressione: {0,4,10,16,23,30}.  (Abilità Personale)
 skl_reserved_5|Abilità riservata 5
 skl_reserved_5_desc|Questa è un'abilità riservata.
@@ -54,7 +54,7 @@ skl_shield|Scudo
 skl_shield_desc|Riduce i danni allo scudo (dell'8%% per punto Abilità) e migliora la copertura e la velocità nell'uso dello scudo. (Abilità Personale)
 skl_weapon_master|Maestria nelle armi
 skl_weapon_master_desc|Rende più facile avere una competenza con le armi, incrementa i limiti di competenza e migliora la velocità con scudo e copertura. i limiti hanno questa progressione: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Abilità Personale)
-skl_maintenance|Manutenzione Arma
+skl_maintenance|Manutenzione delle armi
 skl_maintenance_desc|Una adeguata manutenzione del tuo equipaggiamento ridurrà la probabilità di danneggiarlo in battaglia. Ogni punto di questa abilità riduce la probabilità di danneggiamento del 7%%. (Abilità Di Gruppo)
 skl_reserved_10|Abilità riservata 10
 skl_reserved_10_desc|Questa è un'abilità riservata.
@@ -74,7 +74,7 @@ skl_ironflesh|Resistenza
 skl_ironflesh_desc|Ogni punto in questa abilità incrementa i punti ferita di +2. (Abilità Personale)
 skl_navigation|Navigazione
 skl_navigation_desc|La velocità del gruppo sul mare è incrementata del 5%% per livello abilità. (Abilità Di Gruppo)
-skl_sea_king|Lupo di Mare
+skl_sea_king|Lupo di mare
 skl_sea_king_desc|Ogni punto incrementa il massimo numero di navi che puoi comandare (Abilità Del Comandante)
 skl_reserved_16|Abilità riservata 16
 skl_reserved_16_desc|Questa è un'abilità riservata.

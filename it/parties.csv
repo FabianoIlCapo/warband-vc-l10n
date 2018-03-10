@@ -239,8 +239,8 @@ p_village_118|Bal Scuin Est
 p_village_119|Bal Scuin Ovest
 p_village_120|Witan Ham Nord
 p_village_121|Witan Ham Sud
-; p_village_122|Tref Bosvenegh East
-; p_village_123|Tref Bosvenegh West
+p_village_122|Tref Bosvenegh Est
+p_village_123|Tref Bosvenegh Ovest
 p_village_124|Bal Cainnighn Nord
 p_village_125|Bal Cainnighn Sud
 p_village_126|Bal Rigmonaid Nord
@@ -320,7 +320,7 @@ p_training_ground_2|Villaggio d'addestramento
 p_training_ground_3|Campo d'addestramento
 p_training_ground_4|Lago d'addestramento
 p_training_ground_5|Campo d'addestramento
-; p_monasterio1|Ad Candidam Casam
+p_monasterio1|Ad Candidam Casam
 p_monasterio2|Willibrord
 p_monasterio3|Dommoc
 p_monasterio4|Lindisfarne
@@ -365,7 +365,7 @@ p_ferry_3b|stazione traghetti
 p_ferry_4b|stazione traghetti
 p_wales_spawn_point|Razziatori della costa
 p_fortiu_spawn_point|Razziatori della costa
-; p_sussex_spawn_point|South Seaxe
+p_sussex_spawn_point|South Seaxe
 p_clyde_coast_spawn_point|Il fiume
 p_limerick_spawn_point|Razziatori della costa
 p_norway_spawn_point|Le montagne
@@ -386,17 +386,17 @@ p_denmark_priest_spawn_point|La campagna
 p_channel_spawn_point|Il canale
 p_bight_spawn_point|Il canale
 p_irish_sea_spawn_point|Mare d'Irlanda
-; p_forth_firth_spawn_point|the Firth of Forth
-; p_skagerrak_spawn_point|the Skagerrak
-; p_firth_clyde_spawn_point|the Firth of Clyde
+p_forth_firth_spawn_point|Firth of Forth
+p_skagerrak_spawn_point|Skagerrak
+p_firth_clyde_spawn_point|Firth of Clyde
 p_landing_point|Punto di approdo
 p_the_fleet|La Flotta
 p_transporter|Trasportatore
 p_troop_camp_1|Alloggi delle Truppe
 p_troop_camp_2|Alloggi delle Truppe
-; p_paganholysites1|Odin's Hof
-; p_paganholysites2|Thor's Hof
-; p_oldpagan_hut|Old Pagan's Hut
-; p_morrigan_lair|Morrigan's Lair
-; p_bresail_farm|Mael Bresail's Farm
-; p_bresail_fort|Mael Bresail's Fort
+p_paganholysites1|Hof di Odino
+p_paganholysites2|Hof di Thor
+p_oldpagan_hut|Vecchio rifugio pagano
+p_morrigan_lair|Covo di Morrigan
+p_bresail_farm|Fattoria di Mael Bresail
+p_bresail_fort|Forte di Mael Bresail

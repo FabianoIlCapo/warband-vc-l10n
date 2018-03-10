@@ -261,7 +261,7 @@ menu_saqueo_loot_continue|Questo insediamento non si è ripreso dalla tua ultima
 menu_requested_castle_granted_to_another|Ricevi un messaggio dal tuo monarca, {s3}.^^ 'Sono stato informato delle tue eroiche gesta e mi compiaccio vedendo che hai ottenuto la conquista di {s2}. La tua vittoria è una gioia per i nostri cuori. Hai chiesto che ti venga assegnata la proprietà del castello ma è un favore che non posso accordare, in quanto già possiedi rilevanti tenute nel mio regno. Ti ho inviato invece {reg6} denari per coprire le spese della tua campagna, ma {s2} sarà assegnato a {s5}.'
 mno_accept_decision|Accetta la decisione.
 mno_leave_faction|Decidi che è inaccettabile! Sciogli il giuramento di fedeltà!
-; menu_requested_castle_granted_to_another_female|You receive a message from your monarch, {s3}.^^'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give ownership of the castle to your husband, but that is a favour that I fear I cannot grant, as he already holds significant estates in my realm. Instead I have sent you {reg6} peningas to cover the expenses of your campaign, but {s2} I give to {s5}.' 
+menu_requested_castle_granted_to_another_female|Hai ricevuto un messaggio dal tuo sovrano, {s3}.^^"Mi ha fatto molto piacere apprendere dei tuoi valorosi sforzi nella cattura di {s2}. La tua vittoria ha rallegrato tutti i nostri cuori. Mi hai anche chiesto di dare la proprietà del castello a tuo marito, ma questo è un favore che temo di non poter concedere, dato che detiene già delle ingenti proprietà nel mio regno. Invece, ti ho fatto avere {reg6} peningas per coprire le spese della tua campagna, ma ne darò {s2} direttamente a {s5}."
 mno_accept_decision2|Accetta la decisione.
 menu_leave_faction|Rinunciare al tuo giuramento è un grave atto. Il tuo signore potrebbe condannarti e confiscarti le tue terre e possedimenti. Comunque, se le ridarai a loro di tua spontanea volontà, potrebbe lasciare il tradimento inpunito.
 mno_leave_faction_give_back|Sciogli il tuo giuramento e rinuncia alle tue proprietà.
@@ -543,10 +543,10 @@ menu_kingdom_army_quest_report_to_army|{s8} ti comunica che vorrebbe che ti unis
 menu_kingdom_army_quest_messenger|{s8} ti comunica che desidera parlare con te del piano che sta formulando. Chiede che tu vada a incontrarlo il più presto possibile.
 menu_kingdom_army_quest_join_siege_order|{s8} ti comunica che devi unirti all'assedio di {s9} nei preparativi per l'assalto finale. Le tue truppe devono prendere {s9} a tutti i costi.
 menu_kingdom_army_follow_failed|Hai disobbedito agli ordini e fallito nel seguire {s8}. Arrabbiato, egli ti ha congedato dall'armata, e ti invia l'avvertimento che le tue azioni non saranno dimenticate.
-; menu_invite_player_to_faction_without_center|You receive an offer of vassalage!^^{s8} of the {s9} has sent a royal herald to bring you an invitation in his own hand. You would be granted the honour of becoming a vassal {reg59?lady:lord} of the {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, although he offers you no lands or titles. He will surely be offended if you do not take the offer...
+menu_invite_player_to_faction_without_center|Ricevi un'offerta di vassallaggio!^^{s8} del {s9} ha inviato un araldo per consegnarti un invito scritto di suo pugno. Ti sarà concesso l'onore di divenire vassallo e {reg59?signora:signore} del {s9}, in cambio {s8} chiede che tu faccia giuramento di fedeltà a lui e combatta nelle sue campagne militari, sebbene egli non ti offra terre o titoli. Egli si offenderà senz'altro se non accetterai l'offerta...
 mno_faction_accept|Accetto!
 mno_faction_reject|Declina l'offerta.
-; menu_invite_player_to_faction|You receive an offer of vassalage!^^{s8} of the {s9} has sent a royal herald to bring you an invitation in his own hand. You would be granted the honour of becoming a vassal {reg59?lady:lord} of the {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, offering you the fief of {s2} for your loyal service. He will surely be offended if you do not take the offer...
+menu_invite_player_to_faction|Ricevi un'offerta di vassallaggio!^^{s8} del {s9} ha inviato un araldo per consegnarti un invito scritto di suo pugno. Ti sarà concesso l'onore di divenire vassallo e {reg59?signora:signore} del {s9}, in cambio {s8} chiede che tu faccia giuramento di fedeltà a lui e combatta nelle sue campagne militari, offrendoti la proprietà di {s2} per i tuoi leali servigi. Egli si offenderà senz'altro se non accetterai l'offerta...
 menu_invite_player_to_faction_accepted|Per divenire vassallo, devi pronunciare un giuramento di fedeltà a {s3}. Dovrai andare a incontrarlo e fare il giuramento di persona. {s5}
 menu_question_peace_offer|Tregua^^{s1} ti offre un trattato di pace. Qual è la tua risposta?
 mno_peace_offer_accept|Accetto
@@ -578,7 +578,7 @@ mno_appoint_default|Nomina un eminente cittadino della zona...
 menu_minister_confirm|{s9}può essere trovato nella tua corte a {s12}. Si consiglia di consultare il tuo ministro periodicamente, per evitare l'accumulo di questioni irrisolte che possano minare la tua autorità...
 menu_notification_player_faction_deactive|Non possiedi alcun territorio
 menu_notification_player_wedding_day|{s8} desidera informarti che i preparativi per il tuo matrimonio a {s10} sono completati, e che la tua presenza è richiesta immediatamente.
-; menu_notification_center_under_siege|{s1} has been besieged by {s2} of the {s3}! ^^The settlement is surrounded and besieged, its warriors have stocked weapons and stones, and they hope to resist the enemy.
+menu_notification_center_under_siege|{s1} è stata assediata da {s2} di {s3}!^^L'insediamento è circondato e assediato, i suoi guerrieri fanno scorta di armi e pietre, sperando di resistere al nemico.
 menu_notification_village_raided|Nemici hanno saccheggiato un tuo feudo ^^{s1} è stato depredato da {s2} del {s3}!
 menu_notification_village_raid_started|Un tuo villaggio è sotto attacco!^^{s2} del {s3} sta saccheggiando {s1}.
 menu_notification_one_faction_left|Le terre del nord sono state conquistate da un unico regno^^{s1} ha sconfitto tutti i rivali e rimane il solo regno.^^Tu sei BRYTENWALDA!
@@ -597,7 +597,7 @@ menu_notification_center_restoration|Ribellione locale!^^Il popolo di {s12} hann
 menu_notification_faction_defeated|Fazione eliminata^^{s1} non esiste più!
 menu_notification_rebels_switched_to_faction|La ribellione ha avuto successo^^ La tua ribellione ha vinto! La tua fazione ora rivendica il titolo di {s11}, con {s12} come regnante unico.
 menu_notification_player_should_consult|Il tuo ministro ti informa che ci sono problemi nel regno che, se non affrontati, potrebbero minare la tua autorità. Ti invita a consultarti con lui il prima possibile.
-; menu_banquete_moral|Order your men to leave their weapons outside and invite them to your Great Hall, to sit at your table by rank. The nearest and dearest sit close to you.^Some girls serve meat and mead in large quantities. You've spent a lot of money on this feast because your men deserve it.^They are the ones who bleed with you, who have helped you conquer your domains. They are your faithful followers.^The evening progresses. Many men, drunk as vats, shout and sing. Some run off to vomit and others fight like gamecocks to attract the attention of a girl.^Behind you, a bard sings of your power and deeds. You act like a lord. You are a lord, a 'shepherd of men.'
+menu_banquete_moral|Ordini ai tuoi uomini di lasciare le loro armi fuori e li inviti nel Grande Salone a sedersi al tavolo in ordine di rango. I più vicini e i più cari si siedono vicino a te.^Alcune ragazze servono carne e idromele in grandi quantità. Hai speso una fortuna per questa festa perché i tuoi uomini se lo meritano.^Sono coloro che hanno combattuto e sanguinato insieme a te, che ti hanno aiutato a conquistare i tuoi domini. Sono tuoi fedeli seguaci.^^Giunge la sera. Molti uomini sono ubriachi come delle botti. Gridano e cantano. Alcuni corrono fuori a vomitare e altri si azzuffano come galli da combattimento per attirare l'attenzione di una ragazza.^Dietro di te, un bardo canta delle tue gesta e della tua potenza. Ti comporti come un{reg59? signore:a signora}.^Tu sei un{reg59? Signore:a Signora}, un{reg59? "pastore:a "pastora} di uomini".
 mno_banquete_ok|Bevi, ridi e gridi in maniera sfacciata.
 mno_banquete_ok2|Rimani sobrio, gusti la bevanda, ma non bevi più del necessario.
 menu_comprar_cattle2|Ci sono {reg5} capi di bestiame, ognuno per {reg6} denari. Quanti ne vorreste comprare?
@@ -671,9 +671,9 @@ mno_choice_2comm|Chiamate il vostro nemico davanti a voi per un duello d'onore.
 mno_choice_3comm|Schermagliatori: Invia i tuoi uomini per ostacolare l'avanzata del nemico.
 mno_choice_4comm|Fai un sacrifico agli dei.
 mno_choice_5comm|Non fare nulla.
-; menu_escaramuza_1|{reg59?Lady:Sir}, the enemy commander overcame your tactical skills. Before we were prepared, we were surprised by enemy missile troops. They caused numerous casualties.^^Your casualties: {s8}
+menu_escaramuza_1|{reg59?Signore:Signora}, la tattica e l'abilità del comandante nemico hanno prevalso su di noi. Prima che potessimo prepararci, siamo stati sorpresi dalle truppe nemiche.^Hanno causato numerose vittime.^^Le tue perdite: {s8}
 mno_defendiendo_1e|Dannazione!
-; menu_escaramuza_2|Our men were deployed in time and closed with the enemy, causing them heavy casualties, before returning.^^Enemy casualties: {s8}
+menu_escaramuza_2|I nostri uomini sono stati schierati in tempo e hanno affrontato il nemico, causandogli gravi perdite, prima di tornare.^^Perdite del nemico: {s8}
 mno_defendiendo_2e|Ben fatto.
 menu_escaramuza_3|Mentre si avvicinavano al nemico, i nostri uomini hanno scoperto che il comandante nemico aveva schierato truppe da distanza per proteggere l'avanzamento del suo esercito. Per evitare di perdere uomini, i soldati non hanno attaccato e sono tornati.
 mno_defendiendo_3e|Procedi.
@@ -896,7 +896,7 @@ menu_nothingam_siege_al|Quando ti avvicini a Snotingaham, pattuglie di Saxon ti 
 mno_talk_to_alfred|Continua.
 menu_ambush_kennemer|Mentre l'esercito si ferma per riprendersi dalla fatica della strada, ne approfitti per allontanarti un po' dal campo per avere un po' di privacy, come se avessi un bruciore allo stomaco.^^Ma il tuo relax, nascosto tra alcune rocce, è disturbato da un rumore alla tua destra...
 mno_relax_broken|Rivestiti velocemente e afferri la tua arma.
-; menu_welsh_and_pictish_complete|It has been twenty days, and you've managed to keep {s3}. It is time to return for news of Sven Bull Neck and the decision regarding the letter of Bodo.
+menu_welsh_and_pictish_complete|Sono passati trenta giorni, e sei riuscito a mantenere {s3}. E' tempo di tornare per avere notizie riguardo a Sven Collo di Toro e la decisione in merito alla lettera di Bodo.
 menu_messeger_mothernews|Un messaggero si avvicina, battere un cavallo squallida. Si ferma di fronte a voi, prende fiato e grida, ^^ 'Questo messaggio è per qualcuno chiamato {playername}. Se si desidera che le notizie di tua madre, andare al Cinghiale Grove vicino Dommoc e cercare la casa del boscaiolo. '^^ Il messaggero calci il suo montaggio fino a quando non inizia a muoversi di nuovo e cavalca fuori.
 mno_choice_01_newsm|Continua
 menu_circle_mystic|I tuoi occhi distinguono un luogo speciale, qualcosa di antico. Forse è un buon momento per visitare e godere di un'arte di altri tempi.
@@ -919,7 +919,7 @@ menu_aescesdun_empty|Il campo è quasi vuoto, con pochissime persone lasciate do
 menu_readingum_camp|I figli di Ragnar hanno costruito un accampamento fortificato in un villaggio sassone chiamato Readingum. Il posto ha buone difese e un fossato, e ci sono ancora i resti della precedente battaglia in cui i sassoni hanno cercato di espellere i danesi. È una buona posizione da cui partire per difendere e proteggere l'ambiente circostante.^^{!}{s4}
 mno_enter_readingum|Entra nell'accampamento.
 mno_the_speech|Unisciti a loro.
-; menu_thetravel_danisharmy_l|The Danish army, the Great Summer Army, has reached Aescendun.^^King Aethelred has divided his army in two: one led by himself and the other in the hands of his brother, young Aelfred. Each division takes one side of the ancient road, the Ridgeway.^^While the Vikings deploy, Aethelred decides that he must pray before the battle and refuses to budge until the service is complete. But the Danish approach quickly, their army also split in two...
+menu_thetravel_danisharmy_l|L'esercito danese, la grande armata estiva, ha raggiunto Aescendun.^^Il Re Aethelred ha diviso il suo esercito in due: uno guidato da lui stesso e l'altro nelle mani di suo fratello, il giovane Aelfred. Ogni divisione si aggiudica un lato dell'antica strada, la Ridgeway.^^Mentre i Vichinghi si schierano, Aethelred decide di dover pregare prima della battaglia e si rifiuta di muoversi fino a quando la messa non è completata. Ma i danesi si avvicinano rapidamente, anche il loro esercito è diviso in due...
 mno_choice_01_3ddarm|La Battaglia di Aescesdun.
 menu_mega_battle_ashdown|L'esercito sassone ha preso un punto di vantaggio su due colline, diviso in due. Una delle colline è dominata dalle truppe del Re Aethelred e l'altra da quelli di Aelfred. I danesi si muovono rapidamente, più del previsto, senza fermarsi per riposare. Questo è qualcosa che Aethelred non aveva previsto. Egli è ancora immerso nelle sue preghiere e ha ordinato di non essere disturbato fino al termine. I danesi non aspettano. Dividono il proprio esercito in due nella loro avanzata. Una divisione guidata da Jarl Halfdan e Re Bagsecg si dirige verso Aetheired. L'altra, sotto cinque altri Jarl, si muove in direzione di Aelfred. Si impadroniscono di una collina più alta rispetto alla posizione dell'esercito sassone. Se si schierano, avranno un grande vantaggio sui loro nemici...^^{s2} Hai {reg10} truppe per la battaglia contro i loro {reg11}.
 mno_encounter_attackasc|Battaglia di Aescesdun.
@@ -989,16 +989,16 @@ mno_choice_03_2c|Vedrò cosa posso fare.
 menu_event_siege_04|Alcuni nemici sono riusciti a infiltrarsi durante la notte e hanno bruciato  alcune delle nostre scorte. Parte del nostro cibo è andata distrutta.
 mno_choice_04_1d|Punisci l'uomo che si trovava di turno quella notte.
 mno_choice_04_2d|Non fare nulla!
-; menu_event_siege_05|During the night, your men captured and executed a group of enemies who tried to infiltrate and burn supplies.^^Enemy casualties: {s8}
+menu_event_siege_05|Durante la notte, i vostri uomini hanno catturato e giustiziato un gruppo di nemici che avevano cercato di infiltrarsi per bruciare le scorte.^^Perdite del nemico: {s8}
 mno_choice_05_1e|Congratulati con loro per aver svolto bene il loro compito.
 mno_choice_05_2e|Premia ogni guerriero con un bracciale (300 peningas).
 mno_choice_05_3e|Premia ogni guerriero con un bracciale (200 peningas).
 mno_choice_05_4e|Non fare niente. Sei un leader austero.
-; menu_event_siege_06|{reg59?Lady:Sir}, our food supply routes may be in danger. Our scouts have discovered enemy raiders behind our lines.^^We could avoid such problems by blockading the place.^^Do you want to send men to protect the routes and pursue the enemy?
+menu_event_siege_06|{reg59?Signora:Signore}, le nostre rotte di approvvigionamento potrebbero essere in pericolo. I nostri esploratori hanno avvistato incursori nemici dietro le nostre linee.^^Potremmo evitare tali problemi con un blocco militare.^^Vuoi inviare uomini per proteggere le rotte ed inseguire il nemico?
 mno_choice_06_1f|Invia degli uomini.
 mno_choice_06_2f|Manda dei messaggeri per pagarli (500 peningas).
 mno_choice_06_3f|Non fare nulla.
-; menu_encuentro_avituallamiento|You dispatch a group of men to protect and pursue the enemies that plague your supply routes. Your men attempt to corner the enemy to force him to fight until death. There are some losses, but your men manage to win the battle and secure the supply routes.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_encuentro_avituallamiento|Invii un gruppo di uomini per proteggere le vostre rotte di approvvigionamento ed inseguire i nemici che le falcidiano. I tuoi uomini tentano di accerchiare i nemici per costringerli a combattere fino alla morte. Ci sono alcune perdite, ma i tuoi uomini riescono a vincere la battaglia ed a mettere in sicurezza il percorso.^^Le tue perdite: {s8}^^Perdite del nemico: {s10}
 mno_back_to_siegeg2|Ben fatto.
 mno_back_to_siegeg3|Molto bene.
 menu_event_siege_07|I nostri esploratori hanno scoperto che i difensori hanno avvelenato l'acqua con animali morti. Vuoi comprare acqua e chiedere ai mercanti di portarla attraverso la nostra rotta di rifornimento?
@@ -1067,7 +1067,7 @@ menu_event_siege_22|Durante la notte, le vostre guardie riferiscono di aver avvi
 mno_atacar_emboscada_player2|Raggiungili con tutti i compagni che vogliono seguirti.
 mno_choice_22_1b|Invia uomini per tendere un'imboscata al nemico, indossando pelli di pecora.
 mno_choice_22_2b|Non fare nulla.
-; menu_victoria_ovejas|Your soldiers surrounded the enemy in sheepskins and fell upon them by surprise, spreading death.^^Your casualties: {s8}^^Enemy casualties: {s10}
+menu_victoria_ovejas|I tuoi soldati circondano i nemici in pelle di pecora, attaccandoli di sorpresa e seminando morte.^^Le tue perdite: {s8}^^Perdite del nemico: {s10}
 mno_defendiendo_1lovej|Perfetto!
 menu_derrota_ovejas|È una trappola! {reg59?Signora:Signore}, gli uomini vestiti di pelli di pecora erano un'esca per portare fuori i nostri uomini e tendergli un'imboscata. Molti sono stati uccisi prima di tornare alla protezione della nostra circumvallazione.^^Le tue vittime: {s8}^^Vittime del nemico: {s10}
 mno_defendiendo_1poveja|È terribile.
