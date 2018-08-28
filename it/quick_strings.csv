@@ -40,14 +40,14 @@ qstr_{s22}|{s22}
 ; qstr_A_livestock_epidemic_h|A livestock epidemic has killed {reg4} cattle and {reg5} sheep in {s4}.
 ; qstr_You_receive_a_messag|You receive a message from {s1} demanding lands to support them in a style that befits them.
 ; qstr_You_receive_a_message|You receive a message from {s1} reminding you of your obligations to provide for your vassals.
-; qstr_Your_men_made_some_d|Your men made some delicious butter from cow's milk.
+qstr_Your_men_made_some_d|I tuoi uomini hanno prodotto del burro delizioso dal latte della mucca.
 ; qstr_A_livestock_epidemic_ha|A livestock epidemic has killed {reg5} of your cattle at a farmstead near {s4}.
 ; qstr_A_livestock_epidemic_has|A livestock epidemic has killed {reg4} cattle and {reg5} of your cattle at a farmstead near {s4}.
 qstr_Your_party_is_spotte|La tua Compagnia è stata avvistata dagli abitanti di {s1}.
 qstr_Your_men_have_nothin|I tuoi uomini non hanno niente da mangiare!
 qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?sono scappati:è scappato} dalla tua Compagnia durante la notte.
 qstr_{s1}_of_the_{s3}_has|{s1} di {s3} è stato rilasciato dalla prigionia.
-; qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits at night.
+qstr_{s1}_is_no_longer_in|{s1} non è più infestato dai banditi durante la notte.
 qstr_{s1}_has_won_the_tou|{s1} ha vinto il torneo a {s2}.
 qstr_You_pay_for_accommod|Paghi per la sistemazione.
 qstr__Your_tactics_skill_| La tua abilità tattica è aumentata di 1 punto.
@@ -63,13 +63,13 @@ qstr_Christian_monastery|Monastero Cristiano
 qstr_Christian_church|Chiesa Cristiana
 qstr_shrine_to_Norse_gods|Santuario degli Dei Nordici
 qstr_temple_to_Odin|Tempio del dio Odino
-; qstr_People_of_{s24}_are_|People of {s24} are unhappy with your religious intolerance, and destroyed {s25}.
+qstr_People_of_{s24}_are_|La gente di {s24} è ifnelice della tua intolleranza religiosa e distrugge {s25}.
 qstr_You_have_{reg0}_days|Hai {reg0} giorni per finire la missione.
 qstr_{s1}_is_scouted.|{s1} è stato esplorato.
 qstr_{s1}_has_switched_fr|{s1} è passato da {s2} a {s3}.
-; qstr_The_merchants__rest_|The merchants' rest hall in {s1} adds to its prosperity.
-; qstr_Christian_monastery_|Christian monastery at {s33} improves Christian faith in {s34}.
-; qstr_The_scriptorium_in_{|The scriptorium in {s1} adds to your renown.
+qstr_The_merchants__rest_|La stazione di sosta per i commercianti a {s1} ne aumenta la prosperità.
+qstr_Christian_monastery_|Il monastero cristiano a {s33} aumenta la fede nel cristianesimo a {s34}.
+qstr_The_scriptorium_in_{|Lo scrittoio a {s1} aumenta la tua fama.
 ; qstr_Due_to_the_good_word|Due to the good word Christian clergymen spread about you, your relationship with the {s1} improves.
 ; qstr_Due_to_the_bad_word_|Due to the bad word Christian clergymen spread about you, your relationship with the {s1} declines.
 qstr_{s1}_has_become_host|{s1} ti è diventato ostile, a causa dei tuoi maltrattamenti contro i sudditi cristiani.
@@ -96,7 +96,7 @@ qstr_{s1}|{s1}
 qstr_Wound_Report|Rapporto Ferite
 qstr_A_ship_has_been_buil|Una nave è stata costruita per te a {s0}.
 qstr_Ship_finished|Nave finita
-; qstr_{s0}_has_recovered_f|{s0} has recovered from being raided.
+qstr_{s0}_has_recovered_f|{s0} si è ripreso dall'ultima razzia.
 ; qstr_By_now_you_have_more|By now, you have more than one ship. In a sea battle you can give a 'stand ground' or 'charge' command to your ships by giving it to class number nine, like you give commands to a troop class in a field battle. The first troops in your army list will be together with you on the flagship. The other troops will be in the following ships. You can change your flagship in a port and while camping on the sea. If you are next to a coast you can also split your fleet while camping on the sea or search for the closest landing point with a right click on your party.
 qstr_Ship_management|Gestione delle navi
 qstr_Your_troops_are_angr|Le tue truppe sono arrabbiate,perché odiano passare la notte in mare.
@@ -172,14 +172,14 @@ qstr___He_indicates_the_f|-Indica il lato opposto della baia con il suo braccio.
 qstr___His_eyes_shine.__|--I suoi occhi brillano.--
 qstr_The_port_master_of_R|Il capo portuale di Ribe ti ha dato la posizione del nascondiglio di Sven: a sud est di {s3}. Vai la per salvare i prigionieri di Woden Ric.
 ; qstr___He_approaches_you_|--He approaches you until you can smell the cheap beer on his breath.--
-; qstr___He_looks_with_a_pe|--He looks with a perverse look.--
+qstr___He_looks_with_a_pe|--Ti guarda con occhi perversi.--
 qstr_The_port_master_of_Ri|Il padrone del porto di Ribe vuole un libro intitolato 'The Cathach di Colum Cille,' che è a Gleann Da Loch, un monastero vicino {s3}, in Eriu, Hibernia.
 qstr_The_port_master_from|Il capo portuale di Ribe ti ha dato la posizione del nascondiglio di Sven: a sud est di {s3}. Vai la per salvare i prigionieri di Woden Ric.
 ; qstr___He_gives_you_a_str|--He gives you a strange look.--
-; qstr_The_port_master_of_{|The port master of {s4} wants you to deliver a pack of furs to {s3} in Eriu, to the local merchant, called Hogni.
-; qstr_The_port_master_from_|The port master from {s4} gave you the location of Odin's cave: near {s3}. Go there to recover Bodo's letter.
-; qstr_The_port_master_from_R|The port master from Ribe gave you the location of Odin's cave: near {s3}. Go there to recover Bodo's letter.
-; qstr_Embark_on_your_boat_|Embark on your boat, join the fleet, and lead it to Douar-an-Enez.
+qstr_The_port_master_of_{|Il capo portuale di {s4} vuole farti trasportare un pacco di pellicce a {s3} a Eriu, al mercante locale, chiamato Hogni.
+qstr_The_port_master_from_|Il capo portuale {s4} ti ha dato la posizione della caverna di Odino: vicino a {s3}. Vai la per recuperare la lettera di Bodo.
+qstr_The_port_master_from_R|Il capo portuale di Ribe ti ha dato la posizione della caverna di Odino: vicino a {s3}. Vai la per recuperare la lettera di Bodo.
+qstr_Embark_on_your_boat_|Imbarcati, unisciti alla flotta e conducila a Douar-an-Enez.
 qstr_Perhaps_there_is_a_l|Forse c'è ancora un po 'di tempo prima della fine del mondo. (Flemmatico)
 qstr_You_re_right!_The_co|Hai ragione! L'arrivo dei Vichinghi dimostra che è veramente la fine! (Malinconico)
 qstr_The_Bible_also_says_|La Bibbia dice anche che un re unirà tutta la terra. Io sono quel re. (Irascibile)
@@ -197,17 +197,17 @@ qstr_Silence!_You_shall_n|Silenzio! Non mancare di rispetto alla mia autorità! 
 qstr_Your_men_see_the_way|I tuoi uomini vedono il modo in cui vi tratta Egil, perdi autorità.
 ; qstr_And_people_say_that_|And people say that I'm arrogant! But what can I say? Well, I like it. That's what I value most in a leader: his ability to demonstrate self-confidence and to convince others with his charisma. You're right. I have nothing to teach you.
 ; qstr_I_only_pretended_to_|I only pretended to give advice, but it is clear you do not wish to listen. Well, you gave an order, demonstrating your authority, but that doesn't mean you're a good leader. I'll comply, shut up and return to my chores.
-; qstr_I_am_just_a_poor_far|I am just a poor farmer here. Talk to the farmstead reeve over there.
-; qstr_I_just_work_the_fiel|I just work the fields here. Talk to the farmstead reeve over there.
-; qstr_Stranger_go_talk_to_|Stranger, go talk to the farmstead reeve over there if you want to do business here.
+qstr_I_am_just_a_poor_far|Sono solo un povero contadino. Parla con il padrone di casa laggiù.
+qstr_I_just_work_the_fiel|Lavoro solo i campi. Parla con il padrone di casa laggiù.
+qstr_Stranger_go_talk_to_|Straniero, vai a parlare col padrone della fattoria, se vuoi fare affari qui.
 qstr__Relation:_{reg0}|Relazione: {reg0}
 qstr_{s12}I_want_to_plund|{s12}Vogliosaccheggiare e tenere {s1} per me. {s2}
 qstr__no_fiefs_|(nessun possedimento)
 qstr__fiefs:_{s0}_|(feudi: {s0})
-; qstr___The_child_looks_at|--The child looks at you with funny eyes and laughs.--
+qstr___The_child_looks_at|--I bambini ti guardano divertiti e ridono.--
 qstr_My_mother_told_me_no|Mia madre mi ha detto di non parlare con gli sconosciuti. Ciao!
 qstr_Running_is_fun!_I_ca|Correre è divertente! Posso correre più veloce di te! Vuoi fare una gara?
-; qstr_We_are_landless_poor|We are landless, poor and persecuted. Life has led us to this, {reg59?girlie:mate}. No sudden moves or we'll run you through.
+qstr_We_are_landless_poor|Siamo senza terra, poveri e perseguitati. La vita ci ha portati a questo, {reg59?amica/amico}. Non una mossa falsa o vi facciamo fuori.
 qstr_Luckily_for_you_you_|Per vostra fortuna, mi trovate sereno. Dateci tutti i vostri soldi e forse vi lasceremo in vita.
 qstr_This_a_robbery_eh?_I|Questa è una rapina, chiaro? Vi concedo la possibilità di consegnarmi tutto quello che avete, oppure io e i miei compagni vi uccideremo. Capito!?
 qstr_big|grande
@@ -222,8 +222,8 @@ qstr_we_have_become_a_sig|Siamo diventati una forza non indifferente, e abbiamo 
 qstr_we_are_winning_the_w|Stiamo vincendo la guerra, ma i nostri nemici stanno ancora resistendo.
 qstr_we_are_on_the_verge_|Siamo a un passo dalla vittoria. I nemici rimanenti non rappresentano una seria minaccia, ma dobbiamo ancora sconfiggerli.
 qstr_Warlord|Comandante
-; qstr_Note_5:_You_fell_in_|Note 5: You fell in love with Morrigan.
-; qstr_{s21}_seems_happy._{|{s21} seems happy. {s21} looks pleased.
+qstr_Note_5:_You_fell_in_|Nota 5: ti sei innamorato di Morrigan.
+qstr_{s21}_seems_happy._{|{s21} sembra felice. {s21} sembra soddisfatto.
 qstr___She_smiles.__|--Lei ride.--
 qstr___He_mutters_somethi|--Borbotta qualcosa tra i denti come se stesse parlando con qualcuno di invisibile.--
 qstr___He_seems_very_nerv|--Sembra molto nervoso e spaventato.--
@@ -257,7 +257,7 @@ qstr_Whatever_you_have_to|Qualunque cosa hai da dire, dilla. Mi sono preparato p
 qstr_I_understand_my_frie|Capisco, amico mio, ma voi dovete sapere... tutto.
 qstr_Stay_calm_please._I_|Mantenete la calma, per favore. Vi spiegherò tutto.
 ; qstr_No_need_to_be_aggres|No need to be aggressive. You know my loyalty to my friends is unquestionable. Now, open your ears.
-; qstr_I_admire_your_strong|I admire your strong blood. I'll tell you everything.
+qstr_I_admire_your_strong|Ammiro il vostro sangue freddo. Vi spiegherò tutto.
 qstr___He_puts_his_hand_o|--Mette una mano sulla tua spalla e ti sorride tristemente.--
 qstr___He_sighs_impatient|--Sospira impaziente.--
 ; qstr___He_steps_back_take|--He steps back, takes a deep breath, and looks you in the eyes.--
@@ -347,12 +347,12 @@ qstr__We_will_of_course_n| Sarà ovviamente necessario attendere fino a che il r
 ; qstr_I_do_not_like_this_b|I do not like this, but things are very bad. Can you give guarantees?
 ; qstr_Well_I_guess_I_can_a|Well, I guess I can admit defeat. I guess you will treat us well, no?
 qstr_Perhaps..._Do_you_gi|Forse... Ci date la vostra parola d'onore che saremo trattati bene?
-; qstr_There_comes_a_time_w|There comes a time when every good leader must be responsible for the welfare of his men. Do you give your word of honour that we'll be treated well?
-; qstr_The_fort_has_been_de|The fort has been defended by lions, and we leave it with our heads high. You can guarantee our safety?
-; qstr_Well_I_guess_I_can_ad|Well, I guess I can admit defeat. We will leave the fort, but I want your promise that you will not attack us.
+qstr_There_comes_a_time_w|Arriva il momento in cui ogni buon capo deve essere responsabile per il benessere dei suoi uomini. Dai la tua parola d'onore che saremo trattati bene?
+qstr_The_fort_has_been_de|Il forte è stato difeso da leoni, lo lasciamo a testa alta. Potete garantire la nostra sicurezza?
+qstr_Well_I_guess_I_can_ad|Beh, credo di poter ammettere la sconfitta. Lasceremo il forte ma promettimi che non ci attaccherete.
 qstr_We_are_ready_to_leav|Siamo pronti a lasciarvi il forte e marciare lontano da qui, se promettete che ci lascerete andare senza danno.
-; qstr_There_comes_a_time_wh|There comes a time when every good leader must be responsible for the welfare of his men. We leave the fort. I want your promise that you will not attack us.
-; qstr_You_re_nothing_but_s|You're nothing but scum. You should leave before we kill you.
+qstr_There_comes_a_time_wh|Arriva il momento in cui ogni buon capo deve essere responsabile per il benessere dei suoi uomini. Lasceremo il forte. Promettimi che non ci attaccherete.
+qstr_You_re_nothing_but_s|Non sei altro che feccia. Dovresti andartene se non vuoi morirre.
 qstr_You_re_wasting_your_|Stai perdendo il tuo tempo. Attaccaci - se ne ai il coraggio.
 qstr_You_have_called_me_f|Mi hai chiamato per dirmi questo? Non ci arrenderemo mai a gente come voi.
 qstr_Surrender?_Hah!_We_c|Arrenderci? Hah! Possiamo tenere queste mura fino morire di vecchiaia, mentre tu non potrai di certo.
@@ -372,10 +372,10 @@ qstr___The_ugly_face_of_a|--La Brutta faccia di un uomo sorridente appare prima 
 ; qstr_Fergus_Mael_Bresail_|Fergus, Mael Bresail's man at the farm, told you that the feast was prepared for twenty-five people. You must bring more companions.
 ; qstr_Fergus_Mael_Bresail_s|Fergus, Mael Bresail's man at the farm, told you that the feast was prepared for twenty-five people. You must dismiss or leave the rest of your men at a nearby camp. Then, return to him.
 ; qstr_Around_you_everybody|Around you, everybody becomes busy on the farm as the feast starts.
-; qstr_The_chronicler_has_p|The chronicler has promised to write about your life and proclaim to the world that you are Konungr of the Norse if you subjugate the Norse towns: {s3}, {s9} and {s11}.
-; qstr_The_chronicler_has_pr|The chronicler has promised to write about your life and proclaim to the world that you are the Vrenhin Lloegr if you subjugate the Briton towns: {s3}, {s9} and {s11}.
+qstr_The_chronicler_has_p|Il cronista ha promesso di scrivere della tua vita proclamndo al mondo che tu sei il Konungr di Norse se sottometterai le città Norse: {s3}, {s9} e {s11}.
+qstr_The_chronicler_has_pr|Il cronista ha promesso di scrivere della tua vita proclamndo al mondo che tu sei il Vrenhin Lloegr se sottometterai le città Bretoni: {s3}, {s9} e {s11}.
 qstr_The_chronicler_has_pro|Il cronista ha promesso di scrivere della tua vita proclamndo al mondo che tu sei il Ard Ruire di Eriu se sottometterai le città Gaeliche: {s3}, {s9} e {s11}.
-; qstr_The_chronicler_has_prom|The chronicler has promised to write about your life and proclaim to the world that you are the Brytenwalda over all Englaland if you subjugate the Angle and Saxon towns: {s3}, {s9} and {s11}.
+qstr_The_chronicler_has_prom|Il cronista ha promesso di scrivere della tua vita proclamndo al mondo che tu sei il Brytenwalda si tutta l'Inghilterra se sottometterai le città Angle e Sassoni: {s3}, {s9} e {s11}.
 ; qstr_Mael_Bresail_has_use|Mael Bresail has used you to kill Flaithbertach's children. Now, many of the lords of northern Ireland hate you for being a murderer of royalty. Your options are limited, but it seems that all involve meeting with Mael Bresail on his farm near {s3}. He promised to give you a lot of peningas. Whatever you decide at this meeting will determine your destiny.
 ; qstr_Mael_Bresail_has_used|Mael Bresail has used you to kill Flaithbertach's children. Now, many of the lords of northern Ireland hate you for being a murderer of royalty. Your options are limited, but it seems that all involve meeting with Mael Bresail on his farm near {s3}. Whatever you decide at this meeting will determine your destiny.
 ; qstr_Note_4:_You_chose_to|Note 4: You chose to spare Mael Bresail's life. Both of you made oaths to not cross ways ever again.
@@ -1231,24 +1231,24 @@ qstr_F5___Shield_Wall|F5 - Muro di Scudi
 qstr_F6___Wedge|F6 - Cuneo
 qstr_F7___Square|F7 - Quadrato
 qstr_F8___No_Formation|F8 - Nessuno Schieramento
-; qstr_F1___Movement_orders|F1 - Movement orders
-; qstr_F2___Formation_order|F2 - Formation orders
-; qstr_F3___Fire_orders|F3 - Fire orders
-; qstr_Ranks|Ranks
-; qstr_Five_Rows|Five Rows
-; qstr_Shield_Wall|Shield Wall
-; qstr_Four_Rows|Four Rows
-; qstr_Wedge|Wedge
-; qstr_Three_Rows|Three Rows
-; qstr_Square|Square
-; qstr_Two_Rows|Two Rows
-; qstr_No_Formation|No Formation
-; qstr_Single_Line|Single Line
-; qstr_Memorize_div._placem|Memorize div. placement
-; qstr_Default_division_pla|Default division placement
+qstr_F1___Movement_orders|F1 - Ordini di Movimento
+qstr_F2___Formation_order|F2 - Ordini di Formazione
+qstr_F3___Fire_orders|F3 - Aprire il Fuoco
+qstr_Ranks|Rango
+qstr_Five_Rows|Cinque Linee
+qstr_Shield_Wall|Muro di Scudi
+qstr_Four_Rows|Quattro Linee
+qstr_Wedge|Cuneo
+qstr_Three_Rows|Tre Linee
+qstr_Square|Quadrato
+qstr_Two_Rows|Due Linee
+qstr_No_Formation|Nessuna Formazione
+qstr_Single_Line|Linea Singola
+qstr_Memorize_div._placem|Memorizzazione posizione div. Default
+qstr_Default_division_pla|Posizione divisione di Default
 ; qstr_____Y^Cancel|    Y^Cancel
 ; qstr_____X^__Trait|    X^  Trait
-; qstr_____B^_Horse|    B^ Horse
+qstr_____B^_Horse|    B^ Cavallo
 ; qstr_____A^_Creep|    A^ Creep
 qstr_Extended_Formations_|Schieramenti Avanzati e Opzioni AI
 qstr_Disable_mod_formatio|Disabilita schieramenti:
@@ -1640,9 +1640,9 @@ qstr_fort|fortezza
 qstr_Infiltration|Infiltrazione
 qstr_A_good_way_to_hasten|Un buon modo per accelerare la caduta del {s2} è quello di infiltrarsi con un gruppo di uomini a danneggiare le difese, depositi di cibo, forniture d'acqua o la fedeltà dei difensori. Si tratta di una manovra difficile e rischiosa, quasi suicida. Coloro che invierai avranno una bassa probabilità di tornare, ma in caso di successo, potrebbero causare gravi danni al nemico. Chiedono 600 denari per il loro disturbo. Che tipo di sabotaggio vorresti causare?
 qstr_Poison_the_{s2}_s_wa|Avvelena l'acqua di {s2}.
-; qstr_Kill_the_{s2}_s_live|Kill the {s2}'s livestock.
+qstr_Kill_the_{s2}_s_live|Uccidi il {s2}'s bestiame.
 qstr_Burn_the_{s2}_s_food|Brucia il cibo di {s2}.
-; qstr_Subvert_the_defender|Subvert the defenders.
+qstr_Subvert_the_defender|Sovvertire i difensori
 ; qstr_____|    
 qstr_A_group_of_chosen_me|Un gruppo di uomini scelti verranno inviati ad avvelenare i rifornimenti d'acqua.
 qstr_A_group_of_chosen_men|Un gruppo di uomini scelti verranno inviati ad uccidere il bestiame.
@@ -1881,8 +1881,8 @@ qstr_You_gain_{reg12}_ren|Guadagni {reg12} fama.
 qstr_You_lose_{reg12}_ren|Hai perso {reg12} di fama.
 qstr_Your_relation_with_{|La tua Relazione con {s1} è migliorata.
 qstr_Your_relation_with_{s|La tua Relazione con {s1} è peggiorata.
-; qstr_You_have_angered_the|You have angered them.
-; qstr_You_have_appeased_th|You have appeased them.
+qstr_You_have_angered_the|Li hai fatti arrabbiare
+qstr_You_have_appeased_th|Li hai hai calmati
 qstr_You_gain_reputation.|Guadagni Reputazione.
 qstr_You_lose_reputation.|Perdi Reputazione.
 qstr_Now_your_reputation_|La tua reputazione adesso è {reg1}
@@ -2385,7 +2385,7 @@ qstr_Priests_in_followers|Sacerdoti nella compagnia:{reg1}^Chirurgia Bonus: {reg
 ; qstr_Women_in_followers__|Women in followers' party: {reg1}^Wound Treatment Bonus: {reg2} (max 3)^^Note: Every 10 women (as refugees, camp women, soldiers' wives and peasants) will give +1 morale each 72 hours. Maximum +10 morale points.
 qstr_^^^^Followers:^^{s2}|^^^Seguaci:^^{s2}^^--------------^^{s3}
 qstr_{s5}_has_been_defeat|{s5} è stato sconfitto!
-; qstr_This_lord_is_a_priso|This lord is a prisoner of {s10}.^
+qstr_This_lord_is_a_priso|Questo signore è prigioniero di {s10}.^
 qstr_Christian_Lord|Signore Cristiano
 qstr_Pagan_Lord|Signore Pagano
 qstr_{s37}__his_betrothed|{s37} (la sua fidanzata)
@@ -2393,7 +2393,7 @@ qstr_{s40}._His_love_inte|{s40}. Il suo interesse amoroso è verso {s37}.
 qstr_His_love_interests_a|I suoi interessi amorosi sono verso {s37}.
 qstr_{s40}._His_love_inter|{s40}. I suoi interessi amorosi sono verso {s37}.
 qstr_His_love_interest_is|Il suo interesse amoroso è verso {s37}.
-; qstr_{s1}^{s4}^Kingdom:_{|{s1}^{s4}^Kingdom: {s3}^Relation: {reg4}^Centers: {reg5}^{s5}{s47}
+qstr_{s1}^{s4}^Kingdom:_{|{s1}^{s4}^Regno: {s3}^Relazioni: {reg4}^Centri: {reg5}^{s5}{s47}
 qstr_This_lord_is_a_prison|Questo signore è prigioniero di {s10}
 qstr_Army_size:_{reg26}|Esercito: {reg26}
 qstr_{s40}._His_love_intere|{s40}. Il suo interesse amoroso è verso {s39}.
@@ -2411,10 +2411,10 @@ qstr_{s10}Port_of_{s9}:{s|{s10}Porto di {s9}:{s0}^^
 qstr_{s10}Landed_ships_ne|{s10}Navi sbarcate vicino a {s9}:{s0}^^
 qstr_You_don_t_own_any_sh|Non possiedi nessuna nave.
 qstr_Your_ships_with_ship|Le vostre navi per tipo, nome, condizione attuale e tipo di legno: ^^{s10}
-; qstr_Rents_and_taxes_from|Rents and taxes from the {reg59?queen:king}'s holdings: {reg0} peningas.
+qstr_Rents_and_taxes_from|Rendite e tasse sulle propietà {reg59?della Regina:del Re}: {reg0} denari.
 qstr_{s2}^Taxes_from_king|{s2}^Tasse imposte dai signori del regno: {reg0} denari.
 qstr_{s2}^^Kingdom_Total_|{s2}^^Introiti Totali del Regno: {reg0} denari.
-; qstr_Payroll_for_the_{reg|Payroll for the {reg59?queen:king}'s army: {reg1} peningas.
+qstr_Payroll_for_the_{reg|Libro paga dell'armata {reg59?della Regina:del Re} : {reg1} denari.
 qstr_{s3}^Payroll_for_gar|{s3}^Libro paga della guarnigione: {reg1} denari.
 qstr_{s3}^^Kingdom_Total_|{s3}^^Spese totali del regno: {reg1} denari.
 ; qstr_Kingdom_Economy_Repo|Kingdom Economy Report:^^INCOME:^Tax losses are variable^^{s2}^^^^EXPENSES:^These values could vary because of events or extraordinary expenses.^^{s3}^^^^The result of the accounts of the realm is: {reg0} peningas
@@ -2574,7 +2574,7 @@ qstr_>>You_have_sent_men_|>>Hai inviato un uomo a cercare un traditore a {s4}.^^
 ; qstr_>>You_have_found_a_tr|>>You have found a traitor within {s4} that has supported your efforts to conquer it. This will render it more receptive to surrendering.^^
 ; qstr_>>Your_men_are_takin|>>Your men are taking crops and ransacking farms close to {s4} on your orders. This will render it more receptive to surrendering.^^
 qstr_>>You_have_sent_men_t|>>Hai inviato un uomo a infiltrarsi a {s4}.^^
-; qstr_>>Your_camp_smells_h|>>Your camp smells horrible. The ground is muddy, your men defecate between tents, and you see rats running here and there.^^
+qstr_>>Your_camp_smells_h|>>Il tuo campo ha un odore orribile. Il terreno è sporco, i tuoi uomini defecano tra le tende e vedi ratti che corrono qua e là.^^
 qstr_>>As_a_disciplined_ar|>>Come un esercito disciplinato, i tuoi uomini hanno costruito latrine, tubazioni e un laghetto per il loro bagno settimanale. Un campo sano previene le malattie.^^
 qstr_>>Your_men_are_diggi|>>I tuoi uomini stanno scavando buche per le latrine e altre costruzioni per prevenire le malattie.^^
 qstr_You_need_to_have_more|Sono necessari più di 250 uomini per questo lavoro.
@@ -2604,7 +2604,7 @@ qstr_^{s3}_with_{reg1}_tr|^{s3} con {reg1} truppe.
 ; qstr_^^Alt_Clut_the_rock_|^^Alt Clut, the rock high over the Clyde. This is the mightiest fortress of the northern Britons. Nobody has ever taken it by siege in your day. Controlling the mouth of the Clyde, it was where King Riderch Hael fought the Bernicians and the Picts.
 ; qstr_^^This_formidable_st|^^This formidable stronghold is the jewel of the Dumnonian kingdom. Here many ships from Mediterannea arrive full of wine and luxuries. Legend says the warlord, Arthur, was born here.
 ; qstr_^^Dun_Taruo_the_fort|^^Dun Taruo, the fortress of the bull. This place seems like the work of giants, and for centuries, the Picts have known its reputation.
-; qstr_^^The_seat_of_the_br|^^The seat of the brave Goutodin warriors. From here, they launched their attacks against the Bernicians, and their heroic end will never be forgotten. You can almost smell their courage from here, even though Goutodin disappeared long ago.
+qstr_^^The_seat_of_the_br|^^La fonte del coraggio dei guerrieri Goutodin. Da qui, lanceranno il loro attacco contro Bernicians, e la loro fine eroica non sarà mai dimenticata. Puoi quasi sentire l'odore del loro coraggio da qui, anche se Goutodin sia scomparso molto tempo fa.
 qstr_^^This_place_is_just|^^Questo posto sta solo aspettando di essere conquistato.
 qstr_As_a_last_defensive_|Come ultimo tentativo di resistenza, ti ritiri nella sala principale della fortezza. Tu e i soldati che sono rimasti mettete in atto una disperata resistenza qui. Se sarete sconfitti, non ci sarà altro luogo nel quale ritirarsi.
 qstr_You_ve_been_driven_a|Le tue forze sono state respinte dalle mura. Ora gli attaccanti si stanno riversando nelle strade. Se riuscirai a sconfiggerli, forse potrai sperare di capovolgere il corso degli eventi e salvare la giornata.
@@ -2666,7 +2666,7 @@ qstr_{s13}_A_tournament_w|{s13} Un torneo si svolgerà qui a breve.
 qstr_{s10}_{s14}^{s11}{s1|{s10} {s14}^{s11}{s12}{s13}
 qstr_An_expensive_horse_i|Ti viene regalato un costoso cavallo come ricompensa per la tua vittoria.
 qstr_A_fat_cow_is_awarded|Ti viene regalata una grassa vacca come ricompensa per la tua vittoria.
-; qstr_You_are_given_a_beau|You are given a beautiful shirt of mail adorned with a pelt, as befits a mighty warlord.
+qstr_You_are_given_a_beau|Ti viene regalata una meravigliosa cotta di maglia ornata da una pelliccia, come si addice a un possente signore della guerra.
 qstr_They_give_you_a_fine|Ti consegnano un'ottima spada, degna di un nobile.
 qstr_They_appreciate_your|Apprezzano la tua partecipazione alla competizione e pongono una corona di alloro sulla tua testa.
 qstr_Moreover_you_earn_{r|In più, guadagni {reg8} denari dalle scommesse piazzate sulla tua stessa persona...
@@ -2713,12 +2713,12 @@ qstr_It_is_night_and_the_|È notte e il monastero sembra tranquillo.
 qstr_The_monks_bless_you_|I monaci ti benedicono e tu prosegui per la tua strada.
 qstr_You_don_t_have_enough_|Non hai abbastanza argento. Che cosa imbarazzante!
 qstr_You_need_to_have_more_m|Hai bisogno di più uomini per questo.
-; qstr_It_is_night_and_the_h|It is night, and the hof seems quiet.
+qstr_It_is_night_and_the_h|È notte e l'hof sembra tranquillo.
 ; qstr_The_gothi_has_sacrif|The gothi has sacrificed animals to appease the gods on your behalf.
 qstr_You_are_now_a_pagan_a|Ora sei un pagano, un seguace di Odino e gli altri dei Norreni.
 qstr_The_majority_of_your|La maggior parte delle tue truppe è Pagana e supporta la tua azione.
 qstr_The_majority_of_your_|La maggior parte delle tue truppe è Cristiana e disapprova la tua azione.
-; qstr_In_the_arms_of_the_d|In the arms of the dead abbot, your men find 'The Cathach of Colum Cille.'
+qstr_In_the_arms_of_the_d|Tra le braccia dell'abate morto, i tuoi uomini trovano 'The Cathach di Colum Cille.'
 qstr_The_majority_of_your_t|La maggior parte delle tue truppe è Cristiana e approva la tua azione.
 qstr_The_majority_of_your_tr|La maggior parte delle tue truppe è Pagana e disapprova la tua azione.
 ; qstr_{s3}_is_in_danger._S|{s3} is in danger. Save the village from Sven Bull Neck's assault, before the village is destroyed! You will need a good number of troops to repel the Viking attack!
@@ -2734,7 +2734,7 @@ qstr_Thiaderd_is_dead._Yo|Thiaderd è morto. Hai completato la tua missione.
 qstr_Note_2:_You_chose_to_|Nota 2: Hai scelto di rispettare la vita della moglie del figlio di Thiaderd.
 qstr_Note_2:_You_chose_to_l|Nota 2: Hai scelto di lasciare in vita la moglie  e il figlio di Thiaderd.
 qstr_You_need_room_for_at|Hai bisogno di arruolare almeno un altro uomo nella tua compagnia prima di continuare!
-; qstr_^^In_the_middle_of_t|^^In the middle of the fort, you see some prisoners prepared for sale. Could your mother be among them?
+qstr_^^In_the_middle_of_t|^^Nel centro del forte, vedi molti prigionieri pronti per essere venduti. Tua madre potrebbe essere tra loro?
 ; qstr_Note_2:_In_Sven_s_hi|Note 2: In Sven's hideout, you found Bodo, one of the travelers from the Woden Ric. Thanks to Bodo, you learn the fate of Woden Ric after the Viking attack. Your mother is still alive, thanks to the item Bodo gave her, but the item made her very valuable to the Vikings.
 qstr_Return_when_you_have_|Ritorna quando si disporrai di trenta o meno uomini nela tua compagnia.
 qstr_You_think_of_Thora_w|Pensi a Thora, a cui fai visita ogni notte, una bella donna che potrebbe dare al mondo molti bambini.
@@ -2768,10 +2768,10 @@ qstr_This_warrior|Questo guerriero
 qstr_The_enemy_party_has_|La compagnia nemica ha perso morale.
 qstr_You_met_{s1}_in_singl|Hai sfidato {s1} in duello e hai perso.
 qstr_Your_party_has_lost_|La tua compagnia ha perso morale.
-; qstr_The_low_morale_of_yo|The low morale of your army has led some men to conspire against you. One of your warriors committed the imprudence of talking too much while you could hear him. Feeling exposed, the warrior has insulted you publicly and has challenged you to a duel for leadership... A duel to the death.
-; qstr_The_problems_of_mora|The problems of morale of your army have moved one of your warriors to propose himself a candidate to replace you. He has challenged you to a duel to the death...
-; qstr_Morale_is_so_low_a_w|Morale is so low, a warrior insults you when you go near him, accusing you of being a bad leader. Then he challenges you to a duel. The victor occupies your post.
-; qstr_The_Assembly_has_tak|The Assembly has taken up your case. You must quickly go to the assembly near {s3}, lest they decide against you.
+qstr_The_low_morale_of_yo|Il basso morale del tuo esercito ha portato alcuni uomini a cospirare contro di te. Uno dei tuoi guerrieri ha commesso l'imprudenza di parlare troppo in tua presenza. Sentendosi esposto, il guerriero ti ha insultato pubblicamente e ti ha sfidato a duello per il comando... dovrete combattere fino alla morte.
+qstr_The_problems_of_mora|I problemi al morale del tuo esercito hanno spinto uno dei tuoi guerrieri a proporsi come tuo sostituto. Ti ha sfidato a duello...
+qstr_Morale_is_so_low_a_w|Il morale è troppo basso, un tuo guerriero ti insulta, accusandoti di essere un cattivo leader. Poi ti sfida a duello. Il vincitore prenderà il comando.
+qstr_The_Assembly_has_tak|L'Assemblea sta discutendo del tuo caso. Devi andare rapidamente all'assemblea vicino a {s3}, affinchè non decidano contro di te.
 ; qstr_Note_Reginhard:_Regin|Note Reginhard: Reginhard betrayed you before the Assembly, and you had to kill him in a holmgang decreed by the Assembly.
 ; qstr_Note_Egil:_Reginhard_be|Note Egil: Reginhard betrayed you before the Assembly, but you forgave him. However, Egil did not accept your decision, and you had to kill him in a holmgang by the laws of the Assembly.
 ; qstr_The_holmgang_is_over|The holmgang is over. It's time to meet Asbjorn in {s3}.
@@ -2798,15 +2798,15 @@ qstr_The_abbot_of_Finian_n|L'abate di Finian, vicino a {s3} in Eriu, ha chiesto 
 qstr_The_other_two_champi|Gli altri due campioni hanno seguito Morrigan fino alla sua tana e hanno inviato un messaggero per informarti dove sono. Attendono il tuo arrivo prima di attaccare. È giunto il momento di andare nella tana di Morrigan.
 ; qstr_Near_the_end_of_the_|Near the end of the world, where the waves beat the cliffs and the albatrosses nest, there is a little rough valley, barely visible from a distance. A cave is hidden there. You cannot control it; Morrigan song resonates in your head, and you feel your lips move to it. It breathes magic...^^Far from the cave, half hidden by rocks, you can distinguish the two champions with a few men. They seem to have left the bulk of their army hidden elsewhere to avoid attracting attention. They wait.^^But when you take a step toward them, the song intensifies. This time, it is not in your mind... Morrigan's beasts attack you!
 ; qstr_The_battle_was_tough|The battle was tough and pushed you near the valley. Your men stayed behind, protecting the rear, because they realized numbers are useless in the narrow valley. It is time to seek the support of the other champions and move towards Morrigan before her forces reorganize.
-; qstr_The_mystery_of_Morri|The mystery of Morrigan having been solved, it seems that the fog dissipates and the world regains its colors. You leave behind the cave and the terror.
-; qstr_Mael_Bresail_s_farm_|Mael Bresail's farm is the typical Irish farmhouse -- a large main house with smaller buildings about it, all surrounded by a palisade.
+qstr_The_mystery_of_Morri|Il mistero di Morrigan è stato risolto, sembra che la nebbia si dissolva e che il mondo riacquisti i suoi colori. Ti lasci alle spalle la grotta e il terrore.
+qstr_Mael_Bresail_s_farm_|La fattoria di Mael Bresail è la tipica fattoria irlandese -- una grande casa al centro con edifici più piccoli intorno, circondata da una palizzata.
 ; qstr_You_settle_into_the_|You settle into the seat of honor in the great hall of the house. The best mead and wine brought from Frankia are at your disposal. The tastiest dishes fill the room with their aroma and delight your palate. It is one of the best symbels you've ever enjoyed. Your men have fun, looking happy. The hours pass without you noticing.^^Suddenly, you realize that all the women have left the room. What is happening? A burning smell irritates your nostrils. When you investigate its origin, you see fire in the walls of the house. Someone yells, 'Fire!' The alarm is raised, but when one of your men rushes to the entrance, he finds the door barred from outside.^^Mael Bresail has betrayed you and tries to burn you inside. If you do not hurry to find a way out, everyone will die soon, suffocated by smoke and burned by fire.
-; qstr_You_have_managed_to_|You have managed to escape the fire trap set by Mael Bresail to kill you, but it seems that you're not safe yet...
-; qstr_Mael_Bresail_had_bet|Mael Bresail had betrayed you, but you escaped from the flames of his hall and defeated the men who had wanted to kill you. Now, this site only brings bad memories to mind.
+qstr_You_have_managed_to_|Sei riuscito a sfuggire alla trappola infuocata di Mael Bresail, ma sembra che tu non sia ancora al sicuro...
+qstr_Mael_Bresail_had_bet|Mael Bresail ti ha tradito, ma sei riuscito a sfuggire dalle fiamme della sua sala e hai sconfitto gli uomini che volevano ucciderti. Ora, questo posto non fa altro che suscitarti brutti ricordi.
 qstr_Part_of_your_food_wa|Parte delle tue scorte di cibo è stata distrutta.
 qstr_Your_men_think_that_you_are_a_s|I tuoi uomini pensano che sei un capo forte.
 ; qstr_While_your_messenger|While your messengers try to negotiate with the enemy raiders, a squad of your men appears by chance, and a battle begins. Your men manage to destroy the looters and fix the problem, but at the cost of some lives.^^Your casualties: {s8}^^Enemy casualties: {s10}
-; qstr_The_enemy_raiders_ac|The enemy raiders accept the deal, take the money, and promise not to attack your supplies for some weeks.
+qstr_The_enemy_raiders_ac|I razziatori nemici accettano l'accordo, prendono i soldi e promettono di non attaccare i vostri rifornimenti per alcune settimane.
 ; qstr_The_raiders_take_the|The raiders take the money, kill the messengers, and continue to damage your supply routes.
 qstr_You_don_t_have_enough_s|Non hai abbastanza argento. Ordini di razionare l'acqua e scavare pozzi.
 qstr_the_enemy_thinks_rei|il nemico pensa che riceverà presto rinforzi.
@@ -2837,57 +2837,57 @@ qstr_A_messenger_approaches_g|Un messaggero si avvicina a cavallo. Si ferma dava
 qstr_A_messenger_approaches_ga|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} dice di avere di meglio da fare che seguire i tuoi ordini.'
 qstr_A_messenger_approaches_gal|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} è impegnato e non può seguire i tuoi ordini al momento.'
 qstr_A_messenger_approaches_gall|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} andrà da {s10} il prima possibile.'
-; qstr_A_messenger_approaches_gallo|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message.: {s9} will go patrol around {s10} as soon as possible.'
-; qstr_A_messenger_approaches_gallop|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} will go patrol around {s10} as soon as possible.'
-; qstr_A_messenger_approaches_gallopi|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} will go to besiege {s10} as soon as possible.'
-; qstr_A_messenger_approaches_gallopin|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} says you're not one to give orders.'
-; qstr_A_messenger_approaches_galloping|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} says that would hardly be proper as you don't have authority for it.'
-; qstr_A_messenger_approaches_galloping.|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} was busy and did not receive me. His men threatened to kill me if I insisted.'
-; qstr_A_messenger_approaches_galloping._|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} is surprised by your insult, especially when there was no enmity between you. He says that he will ignore it this time, but do not provoke him again.'
-; qstr_A_messenger_approaches_galloping._H|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} was greatly angered by your insult, falling fully under the provocation of your challenge. He called his men to arms, and I think he will advance against you.'
-; qstr_A_messenger_approaches_galloping._He|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} has not fallen for your provocation. He answered to not waste more of his time.'
-; qstr_A_messenger_approaches_galloping._He_|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} has not fallen for your provocation, but he has retaliated with insults difficult to repeat but all very descriptive. And he said that if you had a problem for which you had the courage to look for him, he would love to teach you some manners.'
-; qstr_A_messenger_approaches_galloping._He_s|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} was busy and did not receive me. However, his men took the gift and divided it among themselves, threatening to kill me if I insisted on delivering your message.'
-; qstr_A_messenger_approaches_galloping._He_st|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} thanks you for your gift, and says he will make the next feast in your honor.'
-; qstr_A_messenger_approaches_galloping._He_sto|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} took your gift and gave it to his men, saying it is the tribute of a coward. His response was that he would be your enemy forever. Nothing can change that after everything that has happened between the two of you.'
-; qstr_A_messenger_approaches_galloping._He_stop|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} is encouraged to know you have an interest in resolving the differences and bad relations between you. Although still there are many things to resolve, this is a good start, and he accepts your gift.'
-; qstr_A_messenger_approaches_galloping._He_stops|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} did not accept the gift, but his men took me where I was going. Sorry, I lost the treasure.'
-; qstr_A_messenger_approaches_galloping._He_stops_|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} did not want to meet me, saying he was busy and does not like to discuss these things with a lowly messenger.'
-; qstr_A_messenger_approaches_galloping._He_stops_i|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} accepts your alliance proposal. From now on, {s2} is your ally.'
-; qstr_A_messenger_approaches_galloping._He_stops_in|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} accepts your truce proposal. From now on, {s2} and you are at peace.'
-; qstr_A_messenger_approaches_galloping._He_stops_in_|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} did not appear surprised by your declaration of war because you are scum whom nobody can trust.^^From now on, you are at war with {s2}'
-; qstr_A_messenger_approaches_galloping._He_stops_in_f|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} was very offended by your desire to provoke a war and promises to send messengers everywhere to publicize your villainy.^^From now on, you are at war with {s2}'
-; qstr_A_messenger_approaches_galloping._He_stops_in_fr|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'I have returned with the answer to your message. {s9} was very offended by your war declaration. He called you treacherous rat and said you would pay dearly.^^From now on, you are at war with {s2}'
+qstr_A_messenger_approaches_gallo|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.: {s9} andrà a pattugliare {s10} il prima possibile.'
+qstr_A_messenger_approaches_gallop|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} andrà a pattugliare {s10} il prima possibile.'
+qstr_A_messenger_approaches_gallopi|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} porrà sotto assedio {s10} il prima possibile.'
+qstr_A_messenger_approaches_gallopin|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} dice che non sei nessuno per dare ordini.'
+qstr_A_messenger_approaches_galloping|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} dice che non sarebbe corretto, in quanto non hai l'autorità per farlo.'
+qstr_A_messenger_approaches_galloping.|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} è impegnato e non può seguire i tuoi ordini al momento. I suoi uomini hanno minacciato di uccidermi se avessi insistito.'
+qstr_A_messenger_approaches_galloping._|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} è sorpreso dal tuo insulto, specialmente per il fatto che non c'è mai stato astio tra noi. Dice che per questa volta ignorerà la questione, ma di non provocarlo nuovamente'
+qstr_A_messenger_approaches_galloping._H|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} è molto arrabbiato dal tuo insulto, cedendo completamente alla tua provocazione. Ha chiamato i suoi uomini in armi e penso che avanzerà contro di te.'
+qstr_A_messenger_approaches_galloping._He|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} non cederà alle tue provocazioni. Ha risposto di non sprecare ancora il suo tempo.'
+qstr_A_messenger_approaches_galloping._He_|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} non cederà alle tue provocazioni, ha reagito con insulti difficili da ripetere ma tutti molto descrittivi. Dice che se hai un problema con lui, abbi il coraggio di cercarlo, cosicchè possa insegnarti le buone maniere.'
+qstr_A_messenger_approaches_galloping._He_s|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} era occupato e non ha voluto ricevermi. Tuttavia, i suoi uomini hanno preso il dono e se lo sono divisi fra loro, minacciando di uccidermi se insistevo nel consegnare il messaggio.'
+qstr_A_messenger_approaches_galloping._He_st|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} ti ringrazia per il dono che gli hai mandato e dice che la prossima festa che organizzerà sarà in tuo onore.'
+qstr_A_messenger_approaches_galloping._He_sto|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9}  ha preso il tuo dono e l'ha dato ai suoi uomini, dicendo che è il tributo di un vigliacco. Dice fu che sarete nemici per sempre. Niente potrà fargli cambiare idea dopo tutto quello che è successo tra voi.'
+qstr_A_messenger_approaches_galloping._He_stop|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} è felice di sapere che sei interessato a risolvere le differenze e i cattivi rapporti tra voi. Anche se ci sono ancora molte cose da risolvere, questo è un buon inizio e accetta il tuo dono.'
+qstr_A_messenger_approaches_galloping._He_stops|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} non ha accettato il regalo, ma i suoi uomini me lo hanno portato via prima di andarmene. Perdonatemi, ho perso il dono.'
+qstr_A_messenger_approaches_galloping._He_stops_|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} non ha voluto incontrarmi, dicendo che era impegnato e che non gli piace discutere di queste cose con un umile messaggero.'
+qstr_A_messenger_approaches_galloping._He_stops_i|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} accetta la tua proposta di alleanza. D'ora in poi, {s2} sarà vostro alleato.'
+qstr_A_messenger_approaches_galloping._He_stops_in|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} accetta la vostra proposta di tregua. D'ora in poi, {s2} siete in pace.'
+qstr_A_messenger_approaches_galloping._He_stops_in_|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio.  {s9} non è sorpreso dalla tua dichiarazione di guerra poichè siete feccia di cui nessuno può fidarsi.^ D'ora in poi siete in guerra con {s2}'
+qstr_A_messenger_approaches_galloping._He_stops_in_f|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} è rimasto molto offeso del vostro desiderio di scatenare una guerra e promette di inviare messaggeri ovunque per far conoscere la vostra malvagità.^^D'ora in poi siete in guerra con {s2}'
+qstr_A_messenger_approaches_galloping._He_stops_in_fr|Un messaggero si avvicina a cavallo. Si ferma davanti a te, prende fiato e grida:^^'Sono tornato con la risposta al tuo messaggio. {s9} è rimasto molto offeso della vostra dichiarazione di guerra. Vi ha chiamato ratto traditore e ha detto che ve la farà pagare cara.^^D'ora in poi siete in guerra con {s2}'
 qstr_The_other_man_is_not|L'altro uomo non è molto contento e vi critica quando uscite, facendo girare voci sgradevoli sul vostro conto.
 qstr_Neither_man_is_happy|Nessuno dei due è felice o infelice. Sembra che hai trovato un equilibrio.
 qstr_The_two_men_are_not_|I due uomini non sono molto contenti e vi criticano quando uscite, facendo girare voci sgradevoli sul vostro conto.
 ; qstr_People_in_{s4}_think|People in {s4} think that you will not guarantee their families' protection against those who abuse their power under your favor. Rumors spread that you are a bad {reg59?lady:lord}.
-; qstr_People_in_{s4}_think_|People in {s4} think that you will not guarantee their families' protection because the messenger will not be punished. Rumors spread that you are unjust.
-; qstr_People_in_{s4}_think_t|People in {s4} think that you will not guarantee their families' protection because the messenger will not be punished, but at least their fellow citizen will not be punished. However, your men are not happy with your generosity to a man who attacked someone under your protection.
-; qstr_People_in_{s4}_think_th|People in {s4} think that you will guarantee their families' protection, and they seem happy. However, you men are not happy that you will kill their companion.
+qstr_People_in_{s4}_think_|Le persone di {s4} pensano che non garantirai la protezione della loro famiglie poiché il messaggero non verrà punito. Si sta diffondendo la voce che siete una persona ingiusta.
+qstr_People_in_{s4}_think_t|Le persone in {s4} pensano che non garantirai la protezione delle loro famiglie poiché il messaggero non sarà punito, ma almeno il loro concittadino non è salvo. Tuttavia, i tuoi uomini non sono contenti della tua generosità verso un uomo che ha attaccato qualcuno sotto la tua protezione.
+qstr_People_in_{s4}_think_th|Le persone di {s4} pensano che garantirai la protezione delle loro famiglie e sembrano felici. Tuttavia, i vostri uomini non sono contenti dell'uccisione del loro compagno.
 qstr_The_local_leader_is_|Il capo locale non è molto contento e parla male di te all'elite di {s4}.
-; qstr_People_in_{s4}_are_s|People in {s4} are surprised by your drastic measures, and everyone seems more willing to follow your rules.
+qstr_People_in_{s4}_are_s|Le persone di {s4} sono stupite dalle vostre misure drastiche e tutti sembrano più disposti a seguire le vostre regole.
 ; qstr_Farmers_in_{s4}_are_|Farmers in {s4} are concerned about their daughters as you favor the powerful who take advantage of their weakness.
-; qstr_Farmers_in_{s4}_are_r|Farmers in {s4} are reassured when you pay, while the local leader is happy not to be punished.
-; qstr_The_outcome_of_the_t|The outcome of the trial has seriously shaken the people of {s4} and has called into question your authority.
+qstr_Farmers_in_{s4}_are_r|Gli agricoltori di {s4} sono rassicurati dal pagamento, mentre il leader locale è felice di non essere punito.
+qstr_The_outcome_of_the_t|L'esito del processo ha seriamente scosso la gente di {s4} e ha messo in discussione la tua autorità.
 qstr_Your_men_think_you_re|I tuoi uomini pensano che sei un capo debole facilmente manipolabile.
 qstr_Your_men_seem_uncomf|I tuoi uomini sembrano a disagio e alcuni di loro ti lasciano. Dovresti cercare di migliorare il loro morale al più presto.
 qstr_Your_men_seem_uncomfo|I tuoi uomini sembrano a disagio, ma nessuno dice una parola. Sembra che in fondo ti rispettino, ma dovresti cercare di migliorare il loro morale.
 ; qstr_Your_men_seem_uncomfor|Your men seem uncomfortable. You should try to improve morale of the rest soon.
-; qstr_Eventually_the_man_d|Eventually the man dies in torment while your soldiers try to force him to pay his taxes. His last words were, 'Boys, beyond, where you are, I am coming.' The city is shocked by his death, and many people complain about you in {s4}.
-; qstr_The_man_seems_calmed|The man seems calmed by your words. You see in his eyes an infinite sadness, but he promises to pay his taxes in the memory of his boys.
-; qstr_Your_renown_with_you|Your renown with your warriors suffers, as does your money bag, but the people of {s4} seem happy with the money you have given them.
-; qstr_Your_men_push_the_cr|Your men push the crowd, injuring some. Suddenly, the people turn against them, causing some casualties before being dispersed.
-; qstr_You_run_through_the_|You run through the back door while the crowd calls you a coward and miser, even as they continue to beg for money.
-; qstr_People_think_the_mea|People think the measure is fair to both.
+qstr_Eventually_the_man_d|Alla fine l'uomo muore di tormenti mentre i tuoi soldati cercano di costringerlo a pagare le tasse. Le sue ultime parole sono: "Ragazzi, aspettatemi, dove siete, sto arrivando". La città è scioccata dalla sua morte e molte persone si lamentano di te a {s4}.
+qstr_The_man_seems_calmed|L'uomo sembra tranquillizato dalle tue parole. Vedi nei suoi occhi una tristezza infinita, ma promette di pagare le tasse in memoria dei suoi ragazzi.
+qstr_Your_renown_with_you|La reputazione tra i tuoi guerrieri ne soffre, così come la borsa dei denari, ma la gente di {s4} sembra felice dei soldi che gli hai dato.
+qstr_Your_men_push_the_cr|I tuoi uomini spintonano la folla, ferendone alcuni. Improvvisamente, le persone si rivoltano contro di loro, causando alcune vittime prima di essere disperse.
+qstr_You_run_through_the_|Fuggi dalla porta sul retro, mentre la folla ti chiama codardo e avaro, anche se continuano a chiedere soldi.
+qstr_People_think_the_mea|La gente pensa che la proposta sia equa per entrambi.
 qstr_The_tree_owner_is_no|Il propietario degli alberi non è molto contento e vi critica quando uscite, facendo girare voci sgradevoli sul vostro conto.
 qstr_The_man_who_cut_the_|L'uomo che ha tagliato gli alberi non è molto contento e vi critica quando uscite, facendo girare voci sgradevoli sul vostro conto.
 qstr_People_in_{s4}_are_h|La gente di {s4} è felice che abbiate risposto alle loro esigenze.
 qstr_People_in_{s4}_are_u|La gente di {s4} è inelice perchè non avete risposto alle loro esigenze.
 qstr_People_in_{s4}_appre|La gente di {s4} apprezza il vostro aiuto, ma si aspettava di più.
-; qstr_Although_the_local_l|Although the local leader supports your position in {s4}, your men think it is a disgrace to have the boy among them.
-; qstr_Although_the_local_le|Although the local leader pays you well, your men think it is a disgrace to have the boy among them.
-; qstr_The_local_leader_lev|The local leader leverages his position to undermine yours in {s4} as punishment for you not accepting his son.
+qstr_Although_the_local_l|Sebbene il leader locale ti sostenga a {s4}, i tuoi uomini pensano che sia una disgrazia avere il ragazzo tra di loro.
+qstr_Although_the_local_le|Anche se il leader locale ti paga bene, i tuoi uomini pensano che sia una disgrazia avere il ragazzo tra loro.
+qstr_The_local_leader_lev|Il leader locale sfrutta la sua posizione per indebolire la tua a {s4} come punizione per il rifiuto fatto al figlio.
 qstr_During_the_night_at_|Durante la notte, in una cerimonia del fuoco e della danza, la ragazza viene bruciata come offerta agli dei.
 qstr_People_superstitious|Le persone, superstiziose, sono arrabbiate con te. Qualche tempo dopo, scopri che un'altra ragazza è stata sacrificata.
 qstr_The_physician_you_se|Il medico che hai inviato riesce a salvare qualche vita ed evita che l'epidemia si diffonda in altre zone.
@@ -2910,7 +2910,7 @@ qstr_The_relic_causes_a_s|La reliquia provoca scalpore tra i fedeli, che accorro
 ; qstr_The_poor_people_in_{s|The poor people in {s4} get angry when you give the child to a rich woman without making a sincere determination. Some disturbances ending in violence occur. During the fighting, many citizens die before retiring, but you also lose some men.
 ; qstr_The_people_of_{s4}_d|The people of {s4} do not want their children to starve for your tax, and are openly against you.
 qstr_The_people_of_{s4}_a|Le persone di {s4} sono molto contenti del fatto che li avete aiutati in questo momento di difficoltà.
-; qstr_The_people_of_{s4}_ar|The people of {s4} are angry that you don't care about their problems.
+qstr_The_people_of_{s4}_ar|La gente di {s4} è arrabbiata perché non ti curi dei loro problemi.
 ; qstr_The_people_of_{s4}_t|The people of {s4} think that this is bread for today and hunger for tomorrow, but they understand that these things happen.
 qstr_The_witch_leaves_the|La strega lascia la città per una destinazione ignota.
 ; qstr_The_witch_appreciate|The witch appreciates your confidence and leaves her old job to worship the old gods openly.
@@ -2977,7 +2977,7 @@ qstr_Your_reputation_incr|La tua reputazione aumenta tra i vostri uomini quando 
 ; qstr_The_merchant_takes_t|The merchant takes the money and gives you a heavy package wrapped in a long cloth. When you unwrap it and discover that he has sold you a normal sword, the merchant is already well away.
 qstr_The_merchant_takes_h|Il mercante si congeda e torna da dove è venuto.
 qstr_Your_men_attack_the_|I tuoi uomini attaccano la fattoria, uccidono il contadino e i suoi schiavi, tornano con delle scorte di cibo.
-; qstr_Your_men_think_you_re_|Your men think you're a weak leader unable to take action against who insult him.
+qstr_Your_men_think_you_re_|I tuoi uomini pensano che tu sia un capo debole incapace di agire contro chi ti insulta.
 qstr_The_men_take_the_mon|Gli uomini prendono i soldi e ti lasciano proseguire.
 ; qstr_Without_warning_you_|Without warning, you order your men to attack. The two strangers try to flee but are killed by your warriors. No one comes to reinforce them.
 ; qstr_The_two_men_move_asi|The two men move aside when you ignore them and continue your way. No one attacks your army. It was all a lie.
@@ -3002,7 +3002,7 @@ qstr_Temporary_quarters_a|Gli alloggiamenti temporanei non sono un buon posto pe
 ; qstr_Your_incessant_conce|Your incessant concern about the maintenance of your men's shields and armors makes it harder for the enemy to wound them. They show their new confidence by beating their shields. (Use key T to evoke a shield taunt)
 ; qstr_On_this_day_the_fore|On this day, the foreman couldn't even pay the wages, so he paid with produced goods instead.
 qstr_However_on_this_day_|Tuttavia, in questo giorno avete imparato qualcosa dal vostro lavoro.
-; qstr_However_on_this_day_y|However, on this day you achieved a lot and were paid double.
+qstr_However_on_this_day_y|Tuttavia, in questo giorno hai ottenuto molto e sei stato pagato il doppio.
 ; qstr_However_you_befriend|However, you befriended some workers from {s2}.
 qstr_One_lord_can_disemba|Un signore può sbarcare qui.
 qstr_{reg1}_lords_can_dis|{reg1} signori possono sbarcare qui.
@@ -3068,7 +3068,7 @@ qstr_Division_{reg1}_{s2}_fo|Divisione {reg1} {s2} forma {reg0} linee (memorizza
 qstr_ENEMY_LORD_FOUND!|SIGNORE NEMICO TROVATO!
 qstr_{s1}_is_shouting_out|{s1} sta lanciando il suo grido di guerra!
 qstr_{s1}_is_starting_a_s|{s1} sta provocando i tuoi uomini!
-; qstr_ENEMY_LORD_TRAIT_ACT|ENEMY LORD TRAIT ACTIVATED!
+qstr_ENEMY_LORD_TRAIT_ACT|TRATTI LORD NEMICO ATTIVATI!
 qstr_Spawned_{s13}|Sono arrivati {s13}
 qstr_You_must_stay_behind|Devi stare dietro alla linea! Il punto non è valido.
 ; qstr_All_around_you_unfol|All around you unfolds God's world, Ora et Labora, where men wear the habit. They are busy with their work, stopping only to eat, sleep or pray.

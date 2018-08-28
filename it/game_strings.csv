@@ -966,7 +966,7 @@ str_npc15_intel_mission|Comandante. Come forse saprete, ho da tempo il desiderio
 ; str_npc16_intel_mission|I may pay a visit to the monastery close to {s17}, where I know some very wise monks and priests. As the defenders of a stronghold of the Church and exponents of God's will in the region, my brothers are well versed in the political situation within the {s18}. I am sure they will keep no secret from me, if that will help us spread the teachings of the Holy Bible throughout these lands.
 str_npc1_fief_acceptance|Mi avete fatto signore di {s17}, comandante? Beh, questa mi pare la cosa più bella che sia mai stata fatta per me da lungo tempo. Heh, farò del mio meglio, potete contarci! Devo dire, tuttavia -- che non sono certo di come gli altri signori di questo reame reagiranno, quando si ritroveranno il giovane Caio nel bel mezzo della loro augusta Compagnia.
 str_npc2_fief_acceptance|{s17} come feudo? Beh, ho sempre ragionato in termini di idromele e donne, non considerando il governare qualsiasi cosa. Ma ora che me lo dite, scommetto che potrebbe uscirne fuori un buon giro di entrate. Vi ringrazio, {reg59?mia signora:mio signore}! la vostra è un'azione molto generosa nei miei confronti.
-; str_npc3_fief_acceptance|My {reg59?Lady:Lord}, it is most generous of you to offer me {s17}. Me, an ex-slave! I will be pleased to hold it and will dedicate myself to the moral and material uplifting of its inhabitants. And I will not tolerate any kind of slavery in my fief!
+str_npc3_fief_acceptance|{reg59?Mia signora:Mio Signore}, è molto generoso da parte vostra offrirmi {s17}. Io, un ex-schiavo! Sarò lieto di tenerlo, e dedicarmi alla crescita morale e materiale dei suoi abitanti. Non tollererò alcun tipo di schiavitù nel mio feudo!
 str_npc4_fief_acceptance|È bello da parte tua offrirmi {s17} come feudo  -- e molto appropriato.
 ; str_npc5_fief_acceptance|Warlord -- I will be most pleased to hold {s17}. I will send word to Cornubia, to my family, kinsmen, and former servants, and let them know that there is honorable silver and prestige to be earned serving under me in your armies. They will come flocking to fight for you rather than fleeing into Brittany!
 str_npc6_fief_acceptance|Sono sorpreso che mi troviate degno di governare gli uomini, visto che sto appena cominciando a imparare a governare me stesso. Ma se davvero lo volete, sarò molto onorato di tenere {s17} in vostro nome, e di dedicarmi alla protezione di quanti vi vivono.
@@ -1440,7 +1440,7 @@ str_rebellion_agree_upstanding|Sia. Il mio primo dovere è verso questo regno, e
 str_rebellion_refuse_martial|Mi dispiace. {s45} ha buon diritto, ma non è abbastanza perché io tolga il mio appoggio a {s46}. Rimarrò leale al mio giuramento.
 str_rebellion_refuse_quarrelsome|Nah. Quella mammoletta di {s45} non ha ciò che serve per governare questo regno. Io sono legato a {s46}.
 ; str_rebellion_refuse_pitiless|No. I will not join your rebellion. I count it little more than the tantrum of a child, denied a bauble which {reg3?she:he} thinks should be {reg3?hers:his}. I will stick with {s46}, whose ability to rule is well tested.
-; str_rebellion_refuse_cunning|I am sorry. You do not give me reason for confidence that you will win. Many will die, but I do not wish to be among them. I will continue to back {s46}.
+str_rebellion_refuse_cunning|Mi dispiace. Non ho ragione di pensare che tu possa vincere. Molti moriranno, ma io non desidero essere tra loro. Continuerò a seguire {s46}.
 ; str_rebellion_refuse_sadistic|No. I won't play your little game. You grasp at a crown, but I think instead you'll get a quick trip to the scaffold, and I'll be there by {s46}'s side to watch the headsman's axe drop.
 ; str_rebellion_refuse_goodnatured|I am sorry. I don't feel right turning my back on {s46}. No hard feelings when we next meet on the battlefield, eh?
 ; str_rebellion_refuse_upstanding|I am sorry. {s45}'s claim is not strong enough for me to inflict the curse of civil disorder on the poor wretches of this land. I will continue to back {s46}. May the Heavens forgive me if I do wrong.
@@ -1757,7 +1757,7 @@ str_net_change|Variazione netta:
 str_earlier_wealth|Bilancio iniziale:
 str_new_wealth|Nuovo bilancio:
 str_new_debts|Nuovi debiti:
-; str_team_reg0_bot_count_is_reg1|Team {reg0} bot count is {reg1}.
+str_team_reg0_bot_count_is_reg1|Il numero di bot del team {reg0} è {reg1}.
 str_maximum_seconds_for_round_is_reg0|Maximum seconds for round is {reg0}.
 str_respawn_period_is_reg0_seconds|Respawn period is {reg0} seconds.
 str_bots_upper_limit_for_votes_is_reg0|Bots upper limit for votes is {reg0}.
@@ -1777,7 +1777,7 @@ str_default_armor_is_forced|Default armor is forced.
 str_default_armor_is_not_forced|Default armor is not forced.
 str_percentage_of_yes_votes_required_for_a_poll_to_get_accepted_is_reg0|Percentage of yes votes required for a poll to get accepted is {reg0}%.
 str_auto_team_balance_threshold_is_reg0|Auto team balance threshold is {reg0}.
-; str_starting_gold_ratio_is_reg0|Starting silver ratio is {reg0}%.
+str_starting_gold_ratio_is_reg0|Argento all'inizio è {reg0}%.
 ; str_combat_gold_bonus_ratio_is_reg0|Combat silver bonus ratio is {reg0}%.
 ; str_round_gold_bonus_ratio_is_reg0|Round silver bonus ratio is {reg0}%.
 str_point_gained_from_flags_is_reg0|Team points gained for flags is {reg0}%.
@@ -2974,8 +2974,8 @@ str_initial_gold_multipliert1|Team 1 argento extra per i salari delle truppe (%)
 str_initial_gold_multipliert2|Team 2 argento extra per i salari delle truppe (%):
 str_choose_a_captain|Choose a troop class:
 ; str_lords_battle_explanation|Press ESC to start game.^^In this game, you will be able to choose one of two types of troops:^^Lords represent the leaders of armies. They have access to armies as well as quality weapons. If you are a lord, then money that you don't spend on equipment will buy troops.^^Elite warriors represent the most prestigious army troops. Choosing this allows you to be a standard-bearer, musician, scout, messenger, adviser or bodyguard, among other things. If you are an elite troop, there is no need to worry about recruiting troops. Spend all your money equipping the best gear. Also, if the lords fall, the task of leading the troops will fall upon you.
-; str_your_men_break_off_the_siege_of_s10_to_follow_you|Your men break off the siege of {s10} to follow you.
-; str_if_you_get_too_far_from_s10_your_siege_will_end|If you get too far from {s10}, your siege will end.
+str_your_men_break_off_the_siege_of_s10_to_follow_you|I tuoi uomini interrompono l'assedio di {s10} per seguirti.
+str_if_you_get_too_far_from_s10_your_siege_will_end|Se ti allontani troppo da {s10}, il tuo assedio finirà.
 str_the_s0_in_s4_has_been_completed|La {s0} a {s4} è stato completata.
 str_s5_sends_word_that_your_betrothal_is_ended|{s5} manda a dire che il vostro fidanzamento è finito!
 str_you_dont_have_enough_money_to_continue_training_troops_at_s10|Non hai abbastanza soldi per continuare l'addestramento delle truppe a {s10}. 
@@ -2986,7 +2986,7 @@ str_bad_news_our_foragers_didnt_find_food_today|Brutte notizie! I nostri raccogl
 str_very_bad_news_our_foragers_were_attacked|Pessime notizie! I nostri raccoglitori sono stati attaccati da un gruppo di contadini arrabbiati e abbiamo perso due dei quattro uomini.
 str_your_scouts_are_exploring_enemy_territory|I tuoi scout stanno esplorando il territorio.
 str_very_bad_news_our_scouts_were_attacked|Pessime notizie! I nostri scout sono stati attaccati, abbiamo perso due dei quattro uomini.
-; str_you_hear_rumors_of_discontent_among_your_men|You hear rumors of discontent among your men. You should do something to raise their flagging spirits.
+str_you_hear_rumors_of_discontent_among_your_men|Tra i tuoi uomini comincia a serpeggiare il malcontento. Dovresti fare qualcosa per alzare il loro morale.
 str_i_dont_have_enough_money|Non ho abbastanza denaro.
 str_forget_it|Lascia stare.
 str_you_need_to_improve_your_refuge_first|Migliora il tuo rifugio prima.
@@ -2994,7 +2994,7 @@ str_you_have_suffered_a_serious_injury_to_your|Hai subito un grave pregiudizio p
 str_it_will_be_permanent_in_reg1_days|Diventerà permanente tra {reg1} giorni.
 str_it_will_be_cured_in_reg1_days|Guarirà in {reg1} giorni.
 str_go_to_the_lords_hall_s1|Visita la Sala del signore{s1}.
-; str_s9_wants_you_to_meet_with_s11|{s9} wants you to meet with {s11} in their camp north of {s3} and help him as much as you can. Meanwhile, {s9} will investigate the betrayal of Sven Bull Neck.
+str_s9_wants_you_to_meet_with_s11|{s9} ti chiede di incontrarlo con {s11} nel loro campo a nord di {s3} e di aiutarlo. Nel frattempo, {s9} indagherà sul tradimento di Sven Bull Neck.
 str_inv_command_class_all|Seleziona Tutti
 str_inv_command_class_0|Fanteria: {reg1}
 str_inv_command_class_1|Arcieri: {reg1}
@@ -3287,15 +3287,15 @@ str_set_goal_lord|Signore Potente
 str_set_goal_king|Re Forte
 str_set_goal_expand|Regno Stabile
 str_set_goal_custom_hint|Avete scelto il proprio percorso.
-; str_set_goal_raider_hint|Raid towns. Hunt down villagers.^No one will be safe from you.^Use fast ships to travel to distant lands^and your refuge to have a safe home.
+str_set_goal_raider_hint|Saccheggia città. Dai la caccia ai paesani.^Nessuno sarà al sicuro da te.^Usa navi veloci per viaggiare in terre lontane^e costruisci un rifugio in una zona sicura.
 ; str_set_goal_warrior_hint|You wish to be known as a great warrior.^Fight in tournaments. Protect villagers.^Attack bandits and escort caravans.^You will find plenty of work in towns^and villages, but never forget that your^glory is born on the fields of battle.
 ; str_set_goal_lord_hint|The common life is not for you.^You wish to become a nobleman,^lead great armies and to be known^as lord and master of your own^lands.
 str_set_goal_king_hint|Non c'è alcun limite alle tue ambizioni.^Combattere per la gloria, potere e oro.^Ti farai molti nemici^e devi essere pronto ad affrontare minacce^da tutti i quattro angoli della terra!
-; str_set_goal_expand_hint|A small fort on a hill is not enough^for you. You desire to be known as the^High King. Sharpen your sword and gather^your troops, for war is coming!
-; str_view_goal_hint_renown|Renown: you desire fame above all.^Win battles and competitions. Complete^quests. As your renown grows, you will^be able to command more troops,^gain the respect of the nobility^and hire better mercenaries!^
-; str_view_goal_hint_reputation|Reputation: be a hero or a villain.^Your actions in the world will influence^how people see you. It will influence your^relation with other factions and even your^chances of marriage.^
+str_set_goal_expand_hint|Un piccolo forte sopra una collina^non è abbastanza per te. Desideri essere conosciuto come il^più grande dei Re. Affila la spada e raduna le truppe,^perché la guerra sta arrivando!
+str_view_goal_hint_renown|Fama: desideri soprattutto la fama.^Vinci battaglie e competizioni. Completa^missioni. Quando la tua fama crescerà, sarai in^grado di comandare più truppe,^ottenere il rispetto della nobiltà^e arruolare mercenari migliori!^
+str_view_goal_hint_reputation|Reputazione: sarai un eroe o un furfante.^Le tue azioni nel mondo influenzeranno^l'opinione della gente nei tuoi confronti.^Influenzerà le tue relazioni con altre fazioni^persino le tue possibilità di matrimonio.^
 ; str_view_goal_hint_army|Army: you wish to balance your^troops. Better troops are also more^expensive to train and keep. Try to^form a army with 25% heavies (high^level units).^
-; str_view_goal_hint_marry|Marriage brings the possibility^of feasts, competitions and a^extra helpful hand with kingdom management.^It will also boost your right to rule!^
+str_view_goal_hint_marry|Il matrimonio aggiunge nuove funzionalità^feste, competizioni ed una^utile persona aggiuntiva per la gestione del regno.^Inoltre aumenterà il tuo diritto a governare!^
 str_view_goal_hint_right_to_rule|Il diritto di governare è molto importante per i^re. Influenzerà il modo in cui le altre^fazioni vedranno te e le tue relazioni^diplomatiche.^
 str_view_goal_hint_wealth|Ricchezza: la guerra è costosa. Salari, cibo,^allenamento, nuovo equipaggiamento, curatori, vino...^tieniti pronto!^
 ; str_set_goal_trigger_new_game|A new world full of adventure awaits you!^^If this is your first time playing^Viking Conquest Sandbox^then check out the SET A GOAL presentation^to learn more about the game^and to see what you can do next!^^(Open Character Report,^Statistics, Choose a Goal)
@@ -3322,8 +3322,8 @@ str_com_morale_reg0|{s1}^^Morale: {reg0}
 str_com_relation_reg12|{s1}^^Relazioni: {reg12}
 str_com_catholic|{s1}^^Religione: Cristiana
 str_com_pagan|{s1}^^Religione: Pagana
-; str_tactical_controls|Use the keyboard NUMBERS to select a division. Press 0 to select your entire force.^^Use F1-F4 to order selected divisions. Keep the F1 key down to place selected divisions. One may target an enemy division through this mechanism.^^Pressing the ENTER key often initiates an overhead Strategy Camera.^^Pressing the BACKSPACE key often initiates a Battle Command Display with 'radar.'
-; str_division_placement|When ONE division is selected, the center of its front rank is placed at the spot indicated.^^When MANY divisions are selected, they are separated and spread out as if the player were standing at the spot indicated.^^One may memorize the placement of selected divisions relative to the player by pressing F2, F7. Default is infantry to the left, cavalry right, and ranged forward.
+str_tactical_controls|Usa i NUMERI sulla tastiera per selezionare una divisione. Premi 0 per selezionare l'intera forza armata presente sul campo.^^Usa F1-F4 per ordinare le divisioni selezionate. Tieni premuto il tasto F1 per posizionare le divisioni selezionate. Puoi bersagliare una divisione nemica attraverso questo meccanismo.^^Premendo il tasto INVIO accedi alla visuale strategica dall'alto.^^Premendo BACKSPACE si attiva la schermata dei comandi di battaglia con 'radar'.
+str_division_placement|Quando viene selezionata UNA divisione, il centro della sua prima linea verrà posizionato nel punto indicato.^^Quando DUE O PIÙ divisioni sono selezionate, esse vengono separate e distribuite come se il giocatore si trovasse nel punto indicato.^^Si può memorizzare il posizionamento, relativo al giocatore, delle divisioni selezionate, premendo F2 e F7. L'impostazione predefinita è la fanteria a sinistra, la cavalleria a destra e i tiratori davanti.
 str_formations|Le complesse formazioni nel menu di battaglia sono:^^- Ranghi con le miglior truppe in prima linea^- Muro di scudi, ranghi con scudi in avanti e armi lunghe dietro^- Cuneo con le miglior truppe in prima linea^- Quadrato non è un ordine particolare^- Nessuna formazione^^Anche nell'ultimo caso, il giocatore può fare formazioni su quattro linee ordinando di stare vicini quante volte basta.
 str_log_created|Un log è stato creato. Si prega di verificare la rgl log.txt!
 str_debug_log_print2|{s30}^Fine del LOG.
@@ -3366,9 +3366,9 @@ str_quantity_bandit_parties|Gruppi di Banditi:
 str_game_difficulty_warning|Difficoltà del gioco
 ; str_game_difficulty_warning_desc|At the current Campaign AI level, {s1} of the bandit parties will be stronger than the player's upon spawning. They will have up to {reg1} troops.^^Reset that level from the ESC options menu if desired. Deserters will not be affected, and sea based bandits always start with a minimum of one ship (30 men).
 str_player_division|Selezione Giocatore:
-; str_poll_cooldown|Delay between polls (seconds)
+str_poll_cooldown|Ritardo tra i sondaggi (secondi)
 str_polls_disabled_for_reg1|Le votazioni sono disabilitate per {reg1} secondi.
-; str_poll_cooldown_is_now_reg1|Delay between polls is now set to {reg1} seconds.
+str_poll_cooldown_is_now_reg1|Il ritardo tra i sondaggi è ora impostato a {reg1} secondi.
 str_poll_change_gametype|{s0} ha iniziato una votazione per cambiare modalità di gioco a {s1}.
 str_poll_to_change_gametype|Vota per cambiare modalità di gioco a {s1}: 1 = Accetta, 2 = Declina
 str_make_gametype_voteable|Abilita votazioni per cambiare modalità di gioco
