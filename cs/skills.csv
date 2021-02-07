@@ -1,0 +1,84 @@
+; skl_trade|Trade
+; skl_trade_desc|Every level of this skill reduces your trade penalty by 5%%. (Party skill)
+skl_leadership|Velitelství
+skl_leadership_desc|Každá úroveň této dovednosti zvyšuje maximální počet jednotek, které můžeš vést o 5 a snižuje jejich žold. (Schopnost velitele)
+skl_prisoner_management|Správa vězňů
+skl_prisoner_management_desc|Každá úroveň této schopnosti zvyšuje maximální počet vězňů o %d. (Schopnost velitele)
+skl_reserved_1|Rezervovaná schopnost 1
+skl_reserved_1_desc|Toto je rezervovaná schopnost.
+skl_reserved_2|Rezervovaná schopnost 2
+skl_reserved_2_desc|Toto je rezervovaná schopnost.
+skl_reserved_3|Rezervovaná schopnost 3
+skl_reserved_3_desc|Toto je rezervovaná schopnost.
+skl_reserved_4|Rezervovaná schopnost 4
+skl_reserved_4_desc|Toto je rezervovaná schopnost.
+skl_persuasion|Přesvědčování
+; skl_persuasion_desc|This skill helps you make other people accept your point of view. It also lowers the minimum level of relationship needed to get NPCs to do what you want. (Personal skill)
+skl_engineer|Stavitelství
+; skl_engineer_desc|This skill allows you to construct siege equipment and fief improvements more efficiently. (Party skill)
+skl_first_aid|První pomoc
+; skl_first_aid_desc|Heroes regain 5%% per skill level of hit-points lost during mission. (Party skill)
+skl_surgery|Chirurgie
+; skl_surgery_desc|Each point of this skill gives a 4%% chance that a mortally struck party member will be wounded rather than killed. (Party skill)
+skl_wound_treatment|Ošetřování ran
+; skl_wound_treatment_desc|Party healing speed is increased by 20%% per level of this skill. Additionally, each point increases the chance that deep wounds will heal better by 5%%. (Party skill)
+skl_inventory_management|Správa inventáře
+; skl_inventory_management_desc|Increases inventory capacity by +6 per skill level. (Leader skill)
+skl_spotting|Stopování
+; skl_spotting_desc|Party seeing range is increased by 10%% per skill level. (Party skill)
+skl_pathfinding|Hledání cesty
+; skl_pathfinding_desc|Party map speed is increased by 3%% per skill level. (Party skill)
+skl_tactics|Taktika
+; skl_tactics_desc|Every two levels of this skill increases starting battle advantage by 1. (Party skill)
+skl_tracking|Stopování
+; skl_tracking_desc|Tracks become more informative. (Party skill)
+; skl_trainer|Trainer
+; skl_trainer_desc|Every day, each hero with this skill adds some experience to every other member of the party whose level is lower than his/hers. Experience gained goes as: {0,4,10,16,23,30}. (Personal skill)
+skl_reserved_5|Rezervovaná schopnost 5
+skl_reserved_5_desc|Toto je rezervovaná schopnost.
+skl_reserved_6|Rezervovaná schopnost 6
+skl_reserved_6_desc|Toto je rezervovaná schopnost.
+skl_reserved_7|Rezervovaná schopnost 7
+skl_reserved_7_desc|Toto je rezervovaná schopnost.
+skl_reserved_8|Rezervovaná schopnost 8
+skl_reserved_8_desc|Toto je rezervovaná schopnost.
+skl_looting|Kořistnictví
+; skl_looting_desc|This skill increases the amount of loot obtained by 10%% per skill level. (Party skill)
+skl_horse_archery|Jízdní lukostřelba
+skl_horse_archery_desc|Zvyšuje poškození a přesnost lukostřelby a vrhacích zbraní při jízdě na koni. (Osobní schopnost)
+skl_riding|Jezdectví
+; skl_riding_desc|Enables you to ride horses of higher difficulty levels and increases your riding speed and manuever. With a skill of 4 or higher, you can also call your horse with the 'H' key in a battle. (Personal skill)
+; skl_athletics|Athletics
+; skl_athletics_desc|Improves your running speed. (Personal skill)
+; skl_shield|Shield
+; skl_shield_desc|Reduces damage to shields (by 8%% per skill level) and improves shield speed and coverage. (Personal skill)
+skl_weapon_master|Mistrovství se zbraněmi
+; skl_weapon_master_desc|Makes it easier to learn weapon proficiencies, increases the proficiency limits and improves shield speed and coverage. Limits go as: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Personal skill)
+skl_maintenance|Údržba zbraní
+; skl_maintenance_desc|Adequate maintenance of your equipment will lower the chance of it breaking in battle. Each point of this skill reduces the probability of breaking by 7%%. (Party skill)
+skl_reserved_10|Rezervovaná schopnost 10
+skl_reserved_10_desc|Toto je rezervovaná schopnost.
+skl_reserved_11|Rezervovaná schopnost 11
+skl_reserved_11_desc|Toto je rezervovaná schopnost.
+skl_reserved_12|Rezervovaná schopnost 12
+skl_reserved_12_desc|Toto je rezervovaná schopnost.
+skl_reserved_13|Rezervovaná schopnost 13
+skl_reserved_13_desc|Toto je rezervovaná schopnost.
+skl_power_draw|Síla k napnutí luku
+; skl_power_draw_desc|Lets character use more powerful bows. Each point to this skill (up to four plus power-draw requirement of the bow) increases bow damage by 14%%. (Personal skill)
+skl_power_throw|Silný hod
+; skl_power_throw_desc|Each point to this skill increases throwing damage by 10%%. (Personal skill)
+skl_power_strike|Silný úder
+; skl_power_strike_desc|Each point to this skill increases melee damage by 8%%. (Personal skill)
+; skl_ironflesh|Ironflesh
+; skl_ironflesh_desc|Each point to this skill increases hit points by +2. (Personal skill)
+; skl_navigation|Navigation
+; skl_navigation_desc|Party map speed on sea is increased by 5%% per skill level. (Party skill)
+; skl_sea_king|Sea-King
+; skl_sea_king_desc|Every point increases the maximum number of ships you can command. (Leader skill)
+skl_reserved_16|Rezervovaná schopnost 16
+skl_reserved_16_desc|Toto je rezervovaná schopnost.
+skl_reserved_17|Rezervovaná schopnost 17
+skl_reserved_17_desc|Toto je rezervovaná schopnost.
+skl_reserved_18|Rezervovaná schopnost 18
+skl_reserved_18_desc|Toto je rezervovaná schopnost.

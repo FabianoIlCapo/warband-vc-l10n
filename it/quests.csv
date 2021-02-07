@@ -1,171 +1,171 @@
 qst_deliver_message|Consegna un messaggio a {s13}
-qst_deliver_message_text|{s9} ti ha chiesto di portare un messaggio a {s13}. Si ritiene che {s13} fosse a {s4} quando ti è stata affidata la missione.
+qst_deliver_message_text|{s9} ti ha chiesto di consegnare un messaggio a {s13}. {s13} si trovava a {s4} quando ti è stato affidato questo incarico.
 qst_deliver_message_to_enemy_lord|Consegna un messaggio a {s13}
-qst_deliver_message_to_enemy_lord_text|{s9} ti ha chiesto di portare un messaggio a {s13} di {s15}. {s13} era a {s4} quando ti è stata affidata la missione.
-qst_raise_troops|Istruisci {reg1} {s14}
-qst_raise_troops_text|{s9} ti ha chiesto di aumentare {reg1} {s14} e portarglieli.
+qst_deliver_message_to_enemy_lord_text|{s9} ti ha chiesto di consegnare un messaggio a {s13} di {s15}. {s13} si trovava a {s4} quando ti è stato affidato questo incarico.
+qst_raise_troops|Addestra {reg1} {s14}
+qst_raise_troops_text|{s9} ti ha chiesto di addestrare {reg1} {s14} e portarli da lui.
 qst_escort_lady|Scorta {s13} a {s14}
 qst_deal_with_bandits_at_lords_village|Salva il villaggio di {s15} dai Banditi.
-qst_deal_with_bandits_at_lords_village_text|{s13} ti ha chiesto di occuparti dei banditi che stanno occupando il villaggio di {s15} e poi di fare rapporto.
+qst_deal_with_bandits_at_lords_village_text|{s13} ti ha chiesto di occuparti dei banditi che stanno occupando il villaggio di {s15} e poi di fargli rapporto.
 qst_collect_taxes|Riscuoti le tasse da {s3}
-qst_collect_taxes_text|{s9} ti ha chiesto di raccogliere le tasse da {s3}. Ti ha offerto un quinto dei denari che raccoglierai.
+qst_collect_taxes_text|{s9} ti ha chiesto di raccogliere le tasse da {s3}. Ha offerto di lasciarti un quinto del denaro che raccoglierai.
 qst_hunt_down_fugitive|Dai la caccia a {s4}
-qst_hunt_down_fugitive_text|{s9} ti ha chiesto di dare la caccia ad un fuggitivo di nome {s4}. Si pensa che sia a {s3}.
-qst_kill_local_merchant|Assassinio di un mercante locale a {s3}
+qst_hunt_down_fugitive_text|{s9} ti ha chiesto di dare la caccia ad un fuggitivo di nome {s4}. Si pensa che attualmente sia a {s3}.
+qst_kill_local_merchant|Assassina un mercante locale a {s3}
 qst_kill_local_merchant_text|{s9} ti ha chiesto di assassinare un mercante locale a {s3}.
-qst_bring_back_runaway_serfs|Costringi i servi in fuga a tornare indietro.
+qst_bring_back_runaway_serfs|Riporta indietro i servi in fuga.
 qst_bring_back_runaway_serfs_text|{s9} ti ha chiesto di riportare i tre gruppi di servi fuggitivi a {s2}. Ha detto che tutti e tre i gruppi stanno fuggendo in direzione di {s3}.
-qst_follow_spy|Segui la spia
-qst_follow_spy_text|{s11} ti ha chiesto di seguire la spia che lascerà {s12}. Devi fare attenzione a non essere individuato dalla spia durante il viaggio, oppure si potrebbe insospettire e tornare indietro. Una volta che la spia avrà incontrato il suo complice, li dovrai catturare e riportare a {s11}.
-qst_capture_enemy_hero|Cattura un nobile del {s13}
-qst_lend_companion|Offri temporaneamente il tuo Compagno {s3} a {s9}
+qst_follow_spy|Segui la Spia fino all'Incontro
+qst_follow_spy_text|{s11} ti ha chiesto di seguire la spia che lascerà {s12}. Devi fare attenzione a non essere individuato dalla spia durante il viaggio, altrimenti si potrebbe insospettire e tornare indietro. Una volta che la spia si incontra il suo complice, devi tendere loro un'imboscata, catturarli e riportarli a {s11}.
+qst_capture_enemy_hero|Cattura un Signore del {s13}
+qst_lend_companion|Presta il tuo Compagno {s3} a {s9}
 qst_lend_companion_text|{s9} ti ha chiesto di prestargli il tuo compagno {s3} per una settimana.
-qst_collect_debt|Riscuoti il debito {s3} dovuto a {s9}
-qst_collect_debt_text|{s9} ti ha chiesto di riscuotere il debito di {reg4} denari che {s3} gli deve.
-qst_incriminate_loyal_commander|Incrimina il fedele comandante di {s13}, {s16}
+qst_collect_debt|Riscuoti il debito che {s3} deve a {s9}
+qst_collect_debt_text|{s9} ti ha chiesto di riscuotere il debito di {reg4} peningas che {s3} gli deve.
+qst_incriminate_loyal_commander|Incrimina il Comandante Leale di {s13}, {s16}
 qst_meet_spy_in_enemy_town|Incontra la spia a {s13}
 qst_capture_prisoners|Consegna {reg1} {s3} prigionieri
 qst_capture_prisoners_text|{s9} ti ha chiesto di portargli {reg1} {s3} come prigionieri.
-qst_lend_surgeon|Presta il tuo cerusico {s3} a {s1}
-qst_lend_surgeon_text|Concedi il tuo esperto cerusico {s3} a {s1}.
+qst_lend_surgeon|Presta il tuo Cerusico {s3} a {s1}
+qst_lend_surgeon_text|Presta il tuo esperto cerusico {s3} a {s1}.
 qst_follow_army|Segui l'armata di {s9}
-qst_report_to_army|Fai rapporto a {s13}, il Comandante in Capo.
+qst_report_to_army|Fai rapporto a {s13}, il Maresciallo.
 qst_deliver_cattle_to_army|Consegna {reg3} capi di bestiame a {s13}.
 qst_join_siege_with_army|Unisciti all'assedio di {s14}
-qst_screen_army|Proteggi l'avanzata dell'armata del {s13}
+qst_screen_army|Proteggi l'avanzata dell'armata di {s13}
 qst_scout_waypoints|Perlustra {s13}, {s14} e {s15}
-qst_rescue_lord_by_replace|Recupera {s13} da {s14}
+qst_rescue_lord_by_replace|Soccorri {s13} da {s14}
 qst_deliver_message_to_prisoner_lord|Consegna un messaggio a {s13} a {s14}
 qst_duel_for_lady|Sfida {s13} a duello
-qst_duel_courtship_rival| Sfida {s13} a duello (opzionale)
+qst_duel_courtship_rival|Sfida {s13} a duello (facoltativo)
 qst_duel_avenge_insult|Sfida {s13} a duello
-qst_move_cattle_herd|Conduci la mandria a {s13}
-qst_move_cattle_herd_text|Il Borgomastro di {s10} ti ha chiesto di portare una mandria di bestiame a {s13}.
+qst_move_cattle_herd|Guida la mandria verso {s13}
+qst_move_cattle_herd_text|Il borgomastro di {s10} ti ha chiesto di guidare una mandria di bestiame a {s13}.
 qst_escort_merchant_caravan|Scorta la carovana di mercanti a {s8}
-qst_escort_merchant_caravan_text|Scorta la carovana fino alla città di {s8}.
-qst_deliver_wine|Consegna {reg5} botti di {s6} a {s4}
+qst_escort_merchant_caravan_text|Scorta la carovana di mercanti fino alla città di {s8}.
+qst_deliver_wine|Consegna {reg5} unità di {s6} a {s4}
 qst_deliver_wine_text|Il {s9} di {s3} ti ha chiesto di consegnare {reg5} unità di {s6} alla taverna a {s4} entro 7 giorni.
-qst_troublesome_bandits|Dai la caccia ai Banditi
+qst_troublesome_bandits|Dai la caccia ai Briganti Molesti
 qst_troublesome_bandits_text|{s9} di {s4} ti ha chiesto di dare la caccia ai banditi molesti nelle vicinanze della città.
-qst_kidnapped_girl|Paga il riscatto ai banditi per la ragazza rapita.
-qst_kidnapped_girl_text|Il Borgomastro di {s4} ti ha dato {reg12} denari per pagare il riscatto di una ragazza rapita dai banditi. Devi incontrare i banditi vicino {s3} e pagare la quota del riscatto. Dopodichè dovrai riportare la ragazza a {s4}.
+qst_kidnapped_girl|Riscatta la Fanciulla dai Banditi.
+qst_kidnapped_girl_text|Il borgomastro di {s4} ti ha dato {reg12} peningas per pagare il riscatto di una ragazza rapita dai banditi. Devi incontrare i banditi vicino {s3} e pagare la quota del riscatto. Dopodiché dovrai riportare la ragazza a {s4}.
 qst_persuade_lords_to_make_peace|Assicurati che i due nobili non ostacolino la pace.
-qst_persuade_lords_to_make_peace_text|Il Borgomastro di {s4} ti ha promesso {reg12} denari se farai in modo che {s12} e {s13} non rappresentino più una minaccia per un trattato di pace fra {s15} e {s14}. A tal fine, devi convincerli entrambi o fare in modo che vengano catturati e rimangano in cattività affinché l'accordo di pace venga firmato.
-qst_deal_with_looters|Affronta i razziatori
-qst_deal_with_looters_text|Il Borgomastro di {s4} ti ha chiesto di occuparti delle varie bande di razziatori vicino a {s4}, e di portare indietro i beni che riesci a prendere.
-qst_deal_with_night_bandits|Affronta i banditi notturni
+qst_persuade_lords_to_make_peace_text|Il borgomastro di {s4} ti ha promesso {reg12} peningas se farai in modo che {s12} e {s13} non rappresentino più una minaccia per un trattato di pace tra {s15} e {s14}. A tal fine, devi convincerli entrambi o fare in modo che vengano catturati e rimangano in cattività fino a quando l'accordo di pace viene firmato.
+qst_deal_with_looters|Occupati dei Saccheggiatori
+qst_deal_with_looters_text|Il borgomastro di {s4} ti ha chiesto di occuparti delle varie bande di saccheggiatori vicino a {s4}, e di portare indietro i beni che riesci a recuperare.
+qst_deal_with_night_bandits|Occupati dei Banditi Notturni
 qst_deliver_grain|Porta il grano a {s3}
-qst_deliver_grain_text|L'anziano del villaggio di {s3} ti ha chiesto di portargli {reg5} sacchi di grano.
+qst_deliver_grain_text|Il capo locale del villaggio di {s3} ti ha chiesto di portargli {reg5} sacchi di grano.
 qst_deliver_cattle|Consegna {reg5} capi di bestiame a {s3}
-qst_deliver_cattle_text|L'anziano del villaggio di {s3} ti ha chiesto di portargli {reg5} capi di bestiame.
-qst_train_peasants_against_bandits|Addestra i paesani di {s13} per affrontare i banditi.
+qst_deliver_cattle_text|Il capo locale del villaggio di {s3} ti ha chiesto di portargli {reg5} capi di bestiame.
+qst_train_peasants_against_bandits|Addestra i Contadini di {s13} per affrontare i banditi.
 qst_eliminate_bandits_infesting_village|Salva il villaggio di {s7} dai banditi
-qst_eliminate_bandits_infesting_village_text|Un abitante di {s7} ti ha supplicato di salvare il suo villaggio dai banditi che hanno trovato rifugio lì.
-qst_visit_lady|Fai visita alla Lady
-qst_formal_marriage_proposal|Ottieni il beneplacido alla proposta di matrimonio
-qst_obtain_liege_blessing|Ottieni il beneplacido alla proposta di matrimonio
+qst_eliminate_bandits_infesting_village_text|Un abitante di {s7} ti ha supplicato di salvare il suo villaggio dai banditi che si sono rifugiati lì.
+qst_visit_lady|Fai visita alla Signora
+qst_formal_marriage_proposal|Proposta di Matrimonio formale
+qst_obtain_liege_blessing|Proposta di Matrimonio formale
 qst_wed_betrothed|Sposa il tuo fidanzato
-qst_wed_betrothed_female|Sposa il tuo fidanzato
-qst_join_faction|Fai giuramento di fedeltà a {s1}
-qst_join_faction_text|Trova {s1} per porgergli i tuoi omaggi e prestare giuramento.
+qst_wed_betrothed_female|Sposa la tua fidanzata
+qst_join_faction|Giura Fedeltà a {s1}
+qst_join_faction_text|Trova {s1} e prestagli il tuo giuramento.
 qst_rebel_against_kingdom|Aiuta {s13} a reclamare il trono di {s14}
 qst_consult_with_minister|Consultati col Ministro
 qst_consult_with_minister_text|Consulta il tuo ministro, {s11}, che si trova attualmente a {s12}.
-qst_organize_feast|Organizza la festa
-qst_organize_feast_text|Porta beni per una festa alla tua sposa {s11}, che attualmente si trova a {s12}.
-qst_resolve_dispute|Risolvi il dissidio
+qst_organize_feast|Organizza una Festa
+qst_organize_feast_text|Porta i beni per una festa alla tua sposa {s11}, che attualmente si trova a {s12}.
+qst_resolve_dispute|Risolvi la Disputa
 qst_resolve_dispute_text|Risolvi la disputa tra {s11} e {s12}.
-qst_offer_gift|Procura un dono
-qst_offer_gift_text|Dai a {s10} un regalo da dare a {reg4?her:his} {s11}, {s12}.
-qst_denounce_lord|Denuncia un lord
+qst_offer_gift|Procura un Dono
+qst_offer_gift_text|Dai a {s10} un regalo per {reg4?her:his} {s11}, {s12}.
+qst_denounce_lord|Denuncia un Signore
 qst_denounce_lord_text|Denuncia {s11} in pubblico.
-qst_intrigue_against_lord|Intriga contro un lord
+qst_intrigue_against_lord|Trama contro un Signore
 qst_intrigue_against_lord_text|Critica {s11} in privato.
-qst_track_down_bandits|Rintraccia i banditi
-qst_track_down_bandits_text|{s9} di {s4} ti ha chiesto di dare la caccia a {s6}, che ha attaccato viaggiatori sulle strade vicino la città.
-qst_track_down_provocateurs|Rintraccia i sabotatori
-qst_track_down_provocateurs_text|{s9} di {s4} ti ha chiesto di dare la caccia ad un gruppo di briganti, assoldati per creare un incidente di frontiera fra {s5} e {s6}.
-qst_retaliate_for_border_incident|Rappresaglia per un incidente di frontiera 
-qst_retaliate_for_border_incident_text|{s9} di {s4} ti ha chiesto di sconfiggere {s5} del {s7} in battaglia, disinnescando la tensione nel {s8} di andare in guerra.
+qst_track_down_bandits|Rintraccia i Banditi
+qst_track_down_bandits_text|{s9} di {s4} ti ha chiesto di dare la caccia a {s6}, che hanno attaccato i viaggiatori per le strade vicino la città.
+qst_track_down_provocateurs|Rintraccia i Provocatori
+qst_track_down_provocateurs_text|{s9} di {s4} ti ha chiesto di dare la caccia ad un gruppo di briganti, assoldati per creare un incidente di frontiera tra {s5} e {s6}.
+qst_retaliate_for_border_incident|Reazione a un incidente di Frontiera 
+qst_retaliate_for_border_incident_text|{s9} di {s4} ti ha chiesto di sconfiggere {s5} del {s7} in battaglia, allentando la tensione nel {s8} nell'andare in guerra.
 qst_raid_caravan_to_start_war|Attacca una Carovana neutrale per provocare la guerra
-qst_cause_provocation|Dai un pretesto al Regno per attaccarne un altro
+qst_cause_provocation|Dai a un Regno il pretesto per attaccarne un altro
 qst_rescue_prisoner|Libera o riscatta un prigioniero
 qst_destroy_bandit_lair|Distruggi il covo dei banditi
 qst_destroy_bandit_lair_text|{s9} di {s4} ti ha chiesto di scoprire un {s6} in questa zona e distruggerlo.
 qst_kennemer_jarl|La Vendetta: Parla allo Jarl di Kennemer
 qst_kennemer_jarl_missions|La Vendetta: Lavorando per uno Jarl
-qst_kennemer_mission_1|Missione Jarl: Giudizio nel Monastero
-qst_kennemer_mission_2|Missione Jarl: Thiaderd Deve Morire
-qst_kennemer_mission_3|Missione Jarl: Per uccidere un Re
+qst_kennemer_mission_1|Missione dello Jarl: Giudizio nel Monastero
+qst_kennemer_mission_2|Missione dello Jarl: Thiaderd Deve Morire
+qst_kennemer_mission_3|Missione dello Jarl: Per uccidere un Re
 qst_reginhard_donations|La Petizione di Reginhard: Una donazione per le vittime di guerra
-qst_recruit_an_army|Missione Jarl: Reclutando guerrieri
+qst_recruit_an_army|Missione dello Jarl: Reclutando guerrieri
 qst_doccinga_assault|Attacco Vichingo: Salva Doccinga dall'assalto di Sven
 qst_doccinga_interrogation|Attacco Vichingo: Interrogando un vichingo
 qst_getting_ship|Attacco Vichingo: Una barca e una ragazza
-qst_notes_companions|Note sui tuoi compagni
-qst_notes_global|Appunti sulle missioni
-qst_notes_frisa|Note su Friese
-qst_notes_danmork|Note su Danmark
+qst_notes_companions|Note sui tuoi Compagni
+qst_notes_global|I tuoi Appunti
+qst_notes_frisa|Note sulla Frisia
+qst_notes_danmork|Note sulla Danimarca
 qst_notes_englaland|Note sull'Inghilterra
 qst_sven_lair|La Vendetta: La tana del lupo
 qst_danmork_protection|La Vendetta: Sotto l'ala di un Re
-qst_revenge_sigurd|La Vendetta: Chiedi a Sigurd 'Snake in the Eye'
-qst_collect_smen|Missione Sigurd: Reclutando un esercito per Sigurd
+qst_revenge_sigurd|La Vendetta: Chiedi a Sigurd 'Serpente nell'Occhio'
+qst_collect_smen|Missione di Sigurd: Reclutando un esercito per Sigurd
 qst_bodo_letter|La Vendetta: Una lettera molto importante
-qst_the_holmgang|La Holmgang: Uccidere un Hirdman
+qst_the_holmgang|L'Holmgang: Uccidere un Hirdman
 qst_the_fleet|La Vendetta: Invadere l'Inghilterra
 qst_sven_traitor|La Vendetta: Sven il traditore
-qst_wessex_foragers|L'assedio: Cercatori di cibo Sassoni
-qst_the_messengersn|L'assedio: Il messaggero
+qst_wessex_foragers|L'Assedio: Foraggiatori Sassoni
+qst_the_messengersn|L'Assedio: Il Messaggero
 qst_the_alliance|La Vendetta: L'alleanza
 qst_welsh_and_pictish|Il Conquistatore: Servire una causa
-qst_cathach_colum|Essere un Vichingo: 'La Cathach di Colum Cille'
-qst_entregando_pieles|Essere un Vichingo: Commerciare in pelli
+qst_cathach_colum|Essere un Vichingo: 'Il Cathach di Colum Cille'
+qst_entregando_pieles|Essere un Vichingo: Commerciare in Pellicce
 qst_revenge_exchange|La Vendetta: La fattoria
 qst_ulf_testigo|La Vendetta: Corteggiare Jarl e contadini
 qst_the_thing|La Vendetta: L'assemblea
 qst_douar_an_enez|La Vendetta: Douar-an-Enez
 qst_aescesdun|La Battaglia: Aescesdun
-qst_svenbn_final|La Vendetta: Sven Bull Neck
+qst_svenbn_final|La Vendetta: Sven Collo di Toro
 qst_old_roman|Il Vallo di Adriano: Salva gli Affamati
 qst_vc_menu|Sistema menù di Viking Conquest.
-qst_vc_wounds|Sistema ferita di Viking Conquest.
+qst_vc_wounds|Sistema Ferite di Viking Conquest.
 qst_sea_battle_spawn|un sistema di spawning.
 qst_team_0_ships|un sistema di spawning.
 qst_team_1_ships|un sistema di spawning.
 qst_blank_quest_2|Scorta il Vescovo a {s14}.
 qst_blank_quest_2_text|{s11} ti ha chiesto di scortare il Vescovo da {s22} a {s14}.
 qst_blank_quest_3|Razzia il Monastero a {s14}
-qst_blank_quest_3_text|{s11} ti ha chiesto di razziare il Monastero a {s14}, vicino {s34}, e di portargli {reg33} denari.
-qst_blank_quest_4|Trova e distruggi un gruppo di disertori.
-qst_blank_quest_4_text|{s8} ti ha chiesto di dare la caccia ad un gruppo di disertori che hanno razziato il suo villaggio, {s9}.
+qst_blank_quest_3_text|{s11} ti ha chiesto di razziare il Monastero a {s14}, vicino {s34}, e di portargli {reg33} peningas.
+qst_blank_quest_4|Trova e distruggi un gruppo di uomini senza padrone.
+qst_blank_quest_4_text|{s8} ti ha chiesto di dare la caccia ad un gruppo uomini senza padrone che hanno saccheggiato il suo villaggio, {s9}.
 qst_blank_quest_6|Cattura e porta {reg5} donne a {s3}
-qst_blank_quest_6_text|L'anziano del villaggio di {s3} ti ha chiesto di portargli {reg5} donne al villaggio (come prigioniere).
+qst_blank_quest_6_text|Il capo locale del villaggio di {s3} ti ha chiesto di portargli {reg5} donne al villaggio (come prigioniere).
 qst_blank_quest_7|Riporta lo schiavo fuggitivo a {s3}
-qst_blank_quest_7_text|L'anziano del villaggio di {s3} ti ha chiesto di riportare uno schiavo fuggitivo al villaggio.
+qst_blank_quest_7_text|Il capo del villaggio di {s3} ti ha chiesto di riportare uno schiavo fuggitivo al villaggio.
 qst_blank_quest_9|Porta {reg33} Corni di Idromele a {s3}
 qst_blank_quest_9_text|Il prete a {s3} ti ha chiesto di portargli {reg33} corni di idromele da bere.
 qst_blank_quest_10|Recupera una {s13} rubata da {s9} di {s3}
-qst_blank_quest_10_text|Il {s9} di {s3} ti ha chiesto di recuperare una {s13} rubatagli.^^Guarda:^{s10}
+qst_blank_quest_10_text|Il {s9} di {s3} ti ha chiesto di recuperare una {s13} rubatagli.^^Controlla:^{s10}
 qst_blank_quest_11|Porta {reg33} carichi di {s33} a {s3}
 qst_blank_quest_11_text|Il {s9} di {s3} ti ha chiesto di portargli {reg33} carichi di {s33}.
-qst_blank_quest_12|Porta {reg33} bancali di legno a {s3}
-qst_blank_quest_12_text|L'abate di {s3} ti ha chiesto di portargli {reg33} bancali di legno.
-qst_blank_quest_13|Uno scoppio dal passato
-qst_blank_quest_13_text|{s11} ti ha chiesto di occuparti del suo ex-amante 'fantasma', si pensa che si trovi in {s33}.
-qst_blank_quest_14|Rivela il complotto di assassinio
-qst_blank_quest_14_text|Qualcuno ha tentato di ucciderti. Puoi trovare chi ti voleva morto incontrando il contatto degli assassini in {s3}.
-qst_blank_quest_15|Rivela il complotto di assassinio
-qst_blank_quest_15_text|Il contatto ci ha dato il nome del signore che ha ordinato l'assassinio - è {s9}. È tempo di confrontarsi col signore direttamente.
-qst_blank_quest_16|Porta {reg25} {reg1?Pieces:Piece} di {s17} a {s11}
-qst_blank_quest_16_text|{s11} ti ha chiesto di portarle {reg25} {reg1?pieces:piece} di {s17}
-qst_blank_quest_17|Porta cibo a {s11}
+qst_blank_quest_12|Porta {reg33} Bancali di Legname a {s3}
+qst_blank_quest_12_text|L'abate di {s3} ti ha chiesto di portargli {reg33} bancali di legname.
+qst_blank_quest_13|Un Colpo dal Passato
+qst_blank_quest_13_text|{s11} ti ha chiesto di occuparti del suo ex-amante 'fantasma', che si pensa possa trovarsi in {s33}.
+qst_blank_quest_14|Rivela il Complotto di Assassinio
+qst_blank_quest_14_text|Qualcuno ha tentato di ucciderti. Puoi cercare di scoprire chi ti voleva morto incontrando il contatto degli assassini in {s3}.
+qst_blank_quest_15|Rivela il Complotto di Assassinio
+qst_blank_quest_15_text|Il contatto ci ha dato il nome del signore che ha ordinato l'assassinio - è {s9}. È tempo di affrontare il signore direttamente.
+qst_blank_quest_16|Porta {reg25} {reg1?Pezzi:Pezzo} di {s17} a {s11}
+qst_blank_quest_16_text|{s11} ti ha chiesto di portarle {reg25} {reg1?pezzi:pezzo} di {s17}
+qst_blank_quest_17|Porta degli alimenti a {s11}
 qst_blank_quest_17_text|{s11} ti ha chiesto di portarle due pezzi di formaggio e {reg25} {reg1?bottiglie:bottiglia} di vino.
 qst_blank_quest_18|Consegna un messaggio a {s13}
 qst_blank_quest_18_text|{s11} ti ha chiesto di portare un messaggio alla sua amata {s3}
-qst_blank_quest_19|Fai diventare Norse Konungr tutta la Scandinavia
-qst_blank_quest_20|Fai diventare Vrenhin  Lloegr su tutti i Britons
-qst_blank_quest_21|Fai diventare Ard Ruire tutti gli Eriu
+qst_blank_quest_19|Diventa Konungr Nordico di tutta la Scandinavia
+qst_blank_quest_20|Diventa Vrenhin Lloegr di tutti i Britanni
+qst_blank_quest_21|Diventa Ard Ruire di tutta Eriu
 qst_blank_quest_22|Diventa il Brytenwalda di tutta l'Inghilterra
 qst_blank_quest_23|L'ultimo Tuatha De Danann
 qst_blank_quest_24|Il Serpente

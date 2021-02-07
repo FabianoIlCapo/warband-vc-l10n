@@ -1,0 +1,2001 @@
+trp_multiplayer_profile_troop_male|multiplayer profile troop male
+trp_multiplayer_profile_troop_male_pl|multiplayer profile troop male
+trp_multiplayer_profile_troop_female|multiplayer profile troop female
+trp_multiplayer_profile_troop_female_pl|multiplayer profile troop female
+trp_temp_troop|Временные Отряды
+trp_temp_troop_pl|Временные Отряды
+trp_find_item_cheat|find item cheat
+trp_find_item_cheat_pl|find item cheat
+trp_random_town_sequence|Random Town Sequence
+trp_random_town_sequence_pl|Random Town Sequence
+trp_tournament_participants|Участник турнира
+trp_tournament_participants_pl|Участник турнира
+trp_tutorial_maceman|Булавоносцы
+trp_tutorial_maceman_pl|Булавоносцы
+trp_tutorial_archer|Лучник
+trp_tutorial_archer_pl|Лучник
+trp_tutorial_swordsman|Мечник
+trp_tutorial_swordsman_pl|Мечник
+trp_novice_fighter|Новобранец
+trp_novice_fighter_pl|Новобранцы
+; trp_regular_fighter|Fighter
+trp_regular_fighter_pl|Легионеры
+trp_veteran_fighter|Ветеран
+trp_veteran_fighter_pl|Ветераны
+trp_champion_fighter|Чемпион
+trp_champion_fighter_pl|Чемпионы
+trp_arena_training_fighter_1|Новобранец
+trp_arena_training_fighter_1_pl|Новобранцы
+trp_arena_training_fighter_2|Новобранец
+trp_arena_training_fighter_2_pl|Новобранцы
+trp_arena_training_fighter_3|Легионер
+trp_arena_training_fighter_3_pl|Легионеры
+trp_arena_training_fighter_4|Легионер
+trp_arena_training_fighter_4_pl|Легионеры
+trp_arena_training_fighter_5|Легионер
+trp_arena_training_fighter_5_pl|Легионеры
+trp_arena_training_fighter_6|Ветеран
+trp_arena_training_fighter_6_pl|Ветераны
+trp_arena_training_fighter_7|Ветеран
+trp_arena_training_fighter_7_pl|Ветераны
+trp_arena_training_fighter_8|Ветеран
+trp_arena_training_fighter_8_pl|Ветераны
+trp_arena_training_fighter_9|Чемпион
+trp_arena_training_fighter_9_pl|Чемпионы
+trp_arena_training_fighter_10|Чемпион
+trp_arena_training_fighter_10_pl|Чемпионы
+trp_cattle|Скот
+trp_cattle_pl|Скот
+trp_farmer|Крестьянин
+trp_farmer_pl|Крестьяне
+; trp_cantaber_iuventus|Cantabrian Warrior
+; trp_cantaber_iuventus_pl|Cantabrian Raider
+; trp_asturias_veteran|Asturian Veteran
+; trp_asturias_veteran_pl|Asturian Veteran
+; trp_gallaecia_warrior|Gallaecian Comes's Guard
+; trp_gallaecia_warrior_pl|Gallaecian Comes's Guard
+trp_townsman|Горожанин
+trp_townsman_pl|Горожане
+trp_watchman|Стражник
+trp_watchman_pl|Стражники
+; trp_mercenary_cavalry|Frank Horseman
+; trp_mercenary_cavalry_pl|Frank Horsemen
+; trp_caravan_guard|Spearman
+; trp_caravan_guard_pl|Spearmen
+; trp_mercenary_swordsman|Veteran
+; trp_mercenary_swordsman_pl|Veterans
+; trp_regular_sailors|Sailor
+; trp_regular_sailors_pl|Sailors
+; trp_mercenary_horseman|Aquitanian Skirmisher
+; trp_mercenary_horseman_pl|Aquitanian Skirmishers
+; trp_mercenary_leader|Old Captain
+; trp_mercenary_leader_pl|Old Captains
+; trp_hired_blade|Svear Warrior
+; trp_hired_blade_pl|Sviar Warriors
+; trp_mercenary_crossbowman|Finn Archer
+; trp_mercenary_crossbowman_pl|Finnas Archers
+trp_mercenaries_end|Селянин
+trp_mercenaries_end_pl|Селяне
+; trp_norse_slave|Norse Freedman (Leysingi)
+; trp_norse_slave_pl|Norse Freedmen (Leysingja)
+; trp_norse_bowman|Norse Bowman (Gestr)
+; trp_norse_bowman_pl|Norse Bowmen (Gestir)
+; trp_norse_elitearcher|Norse Warrior Archer (Heimthegi)
+; trp_norse_elitearcher_pl|Norse Warriors Archers (Heimthegar)
+; trp_norse_level0_landed|Norse Freeholder (Boandi)
+; trp_norse_level0_landed_pl|Norse Freeholders (Bondar)
+; trp_norse_level1_landed|Norse Spearman (Drengr)
+; trp_norse_level1_landed_pl|Norse Spearmen (Drengir)
+; trp_norse_level2_landed|Norse Elite Spearman (Thegn)
+; trp_norse_level2_landed_pl|Norse Elite Spearmen (Thegnar)
+; trp_norse_level3_landed|Norse Noble (Hersir)
+; trp_norse_level3_landed_pl|Norse Nobles (Hersir)
+; trp_norse_level0_companion|Norse Companion (Hirthmathr)
+; trp_norse_level0_companion_pl|Norse Companions (Hirthmathr)
+; trp_norse_level1_companion|Norse Veteran (Rekkr)
+; trp_norse_level1_companion_pl|Norse Veterans (Rekkar)
+; trp_norse_level2_companion|Norse Bodyguard (Huskarl)
+; trp_norse_level2_companion_pl|Norse Bodyguards (Huskarlar)
+; trp_norse_standard_bearer|Standard Bearer (Merkismathr)
+; trp_norse_standard_bearer_pl|Standard Bearer (Merkismathr)
+; trp_norse_priest|Gothi
+; trp_norse_priest_pl|Gothar
+; trp_briton_slave|Briton Serf (Aillt)
+; trp_briton_slave_pl|Briton Serfs (Aillts)
+; trp_briton_level0_landed|Briton Freeman (Bonheddwr)
+; trp_briton_level0_landed_pl|Briton Freemen (Bonheddwyr)
+; trp_briton_level1_landed|Briton Spearman (Pedyt)
+; trp_briton_level1_landed_pl|Briton Spearmen (Pedytes)
+; trp_briton_level2_landed|Briton Elite Spearman (Gwrda)
+; trp_briton_level2_landed_pl|Briton Elite Spearmen (Gwrdas)
+; trp_briton_level3_landed|Briton Noble (Uchelwr)
+; trp_briton_level3_landed_pl|Briton Nobles (Uchelwyr)
+; trp_briton_level0_companion|Briton Warrior (Cadwr)
+; trp_briton_level0_companion_pl|Briton Warriors (Cadwyr)
+; trp_briton_level1_companion|Briton Champion (Campiwr)
+; trp_briton_level1_companion_pl|Briton Champions (Campgwr)
+; trp_briton_level2_companion|Briton Bodyguard (Teulu)
+; trp_briton_level2_companion_pl|Briton Bodyguard (Teulus)
+; trp_briton_bowman|Briton Skirmisher (Cipryswr)
+; trp_briton_bowman_pl|Briton Skirmishers (Cipryswyr)
+; trp_briton_marksman|Briton Archer (Saethydd)
+; trp_briton_marksman_pl|Briton Archers (Saethydds)
+; trp_briton_horseman|Briton Horseman (Marchoc)
+; trp_briton_horseman_pl|Briton Horsemen (Marcach)
+; trp_briton_standard_bearer|Standard Bearer (Gwas Ys Tafell)
+; trp_briton_standard_bearer_pl|Standard Bearers (Gwas Ys Tafell)
+; trp_briton_priest|Briton Priest
+; trp_briton_priest_pl|Briton Priests
+; trp_saxon_slave|Saxon Peasant (Gebur)
+; trp_saxon_slave_pl|Peasants (Geburas)
+; trp_saxon_bowman|Saxon Bowman (Scytta)
+; trp_saxon_bowman_pl|Saxon Bowmen (Scyttena)
+; trp_saxon_level0_landed|Saxon Freeholder (Kotsetla)
+; trp_saxon_level0_landed_pl|Saxon Freeholders (Kotsetlas)
+; trp_saxon_level1_landed|Saxon Spearman (Cniht)
+; trp_saxon_level1_landed_pl|Saxon Spearmen (Cnihtes)
+; trp_saxon_level2_landed|Saxon Warrior (Cempa)
+; trp_saxon_level2_landed_pl|Saxon Warriors (Cempan)
+; trp_saxon_level3_landed|Saxon Noble (Thegn)
+; trp_saxon_level3_landed_pl|Saxon Nobles (Thegns)
+; trp_saxon_level0_companion|Saxon Companion (Geneat)
+; trp_saxon_level0_companion_pl|Saxon Companions (Geneata)
+; trp_saxon_level1_companion|Saxon Veteran (Gesith)
+; trp_saxon_level1_companion_pl|Saxon Veterans (Gesithas)
+; trp_saxon_level2_companion|Saxon Bodyguard (Gedriht)
+; trp_saxon_level2_companion_pl|Saxon Bodyguards (Gedrihtes)
+; trp_saxon_horseman|Saxon Horseman (Ridda)
+; trp_saxon_horseman_pl|Saxon Horsemen (Riddan)
+; trp_saxon_standard_bearer|Standard Bearer (Tacnberend)
+; trp_saxon_standard_bearer_pl|Standard Bearers (Tacnberends)
+; trp_saxon_priest|Saxon Priest
+; trp_saxon_priest_pl|Saxon Priests
+; trp_scotch_peasant|Pictish Peasant (Bachlach)
+; trp_scotch_peasant_pl|Peasants (Bachlach)
+; trp_scotch_bowman|Pictish Skirmisher (Fuidir)
+; trp_scotch_bowman_pl|Skirmishers (Fuidirs)
+; trp_scotch_level0_skirmisher|Pictish Veteran Skirmisher (Saigteoir)
+; trp_scotch_level0_skirmisher_pl|Veteran Skirmishers (Saigteoir)
+; trp_scotch_level1_skirmisher|Pictish Elite Skirmisher (Cruithnen)
+; trp_scotch_level1_skirmisher_pl|Elite Skirmishers (Cruithnen)
+; trp_scotch_horseman|Pictish Horseman (Marcach)
+; trp_scotch_horseman_pl|Light Horsemen (Marcach)
+; trp_scotch_level0_landed|Pictish Landowner (Bothach)
+; trp_scotch_level0_landed_pl|Pictish Landowners (Bothach)
+; trp_scotch_level1_landed|Pictish Spearman (Octhigern)
+; trp_scotch_level1_landed_pl|Pictish Spearmen (Octhigern)
+; trp_scotch_level2_landed|Pictish Warrior (Gaithlennach)
+; trp_scotch_level2_landed_pl|Pictish Warriors (Gaithlennach)
+; trp_scotch_level0_companion|Pictish Axeman (Crechaire)
+; trp_scotch_level0_companion_pl|Pictish Axesmen (Crechaire)
+; trp_scotch_level1_companion|Pictish Veteran (Arsaid)
+; trp_scotch_level1_companion_pl|Pictish Veterans (Arsaid)
+; trp_scotch_level2_companion|Pictish Champion (Gaiscedach)
+; trp_scotch_level2_companion_pl|Pictish Champions (Gaisgidh)
+; trp_scotch_knight|Pictish Noble (Toisech)
+; trp_scotch_knight_pl|Pictish Nobles (Toisechs)
+; trp_scotch_standard_bearer|Standard Bearer (Samhladh)
+; trp_scotch_standard_bearer_pl|Standard Bearer (Samhladh)
+; trp_scotch_musician|Pictish Hornman
+; trp_scotch_musician_pl|Pictish Hornmen
+; trp_scotch_priest|Priest
+; trp_scotch_priest_pl|Priests
+; trp_angle_slave|Angle Peasant (Gebur)
+; trp_angle_slave_pl|Peasants (Geburas)
+; trp_angle_bowman|Angle Bowman (Scytta)
+; trp_angle_bowman_pl|Angle Bowmen (Scyttena)
+; trp_angle_level0_landed|Angle Freeholder (Kotsetla)
+; trp_angle_level0_landed_pl|Angle Freeholders (Kotsetlas)
+; trp_angle_level1_landed|Angle Spearman (Cniht)
+; trp_angle_level1_landed_pl|Spearmen (Cnihtes)
+; trp_angle_level2_landed|Angle Warrior (Cempa)
+; trp_angle_level2_landed_pl|Angle Warriors (Cempan)
+; trp_angle_level3_landed|Angle Noble (Thegn)
+; trp_angle_level3_landed_pl|Angle Nobles (Thegns)
+; trp_angle_level0_companion|Angle Companion (Geneat)
+; trp_angle_level0_companion_pl|Angle Companions (Geneata)
+; trp_angle_level1_companion|Angle Veteran (Gesith)
+; trp_angle_level1_companion_pl|Angle Veterans(Gesithas)
+; trp_angle_level2_companion|Angle Bodyguard (Gedriht)
+; trp_angle_level2_companion_pl|Angle Bodyguards (Gedrihtes)
+; trp_angle_horseman|Angle Horseman (Ridda)
+; trp_angle_horseman_pl|Angle Horsemen (Riddan)
+; trp_angle_standard_bearer|Standard Bearer (Tacnberend)
+; trp_angle_standard_bearer_pl|Standard Bearers (Tacnberends)
+; trp_angle_priest|Angle Priest
+; trp_angle_priest_pl|Angle Priests
+; trp_irish_slave|Irish Serf (Senchleithe)
+; trp_irish_slave_pl|Irish Serfs (Senchleithe)
+; trp_irish_bowman|Irish Skirmisher (Fer Midboth)
+; trp_irish_bowman_pl|Irish Skirmishes (Fer Midboth)
+; trp_irish_level0_skirmisher|Irish Veteran Skirmisher (Ceithernach)
+; trp_irish_level0_skirmisher_pl|Irish Veteran Skirmishers (Ceithern)
+; trp_irish_level1_skirmisher|Irish Elite Skirmisher (Fianaige)
+; trp_irish_level1_skirmisher_pl|Irish Elite Skirmishers (Fian)
+; trp_irish_horseman|Irish Horseman (Marcach)
+; trp_irish_horseman_pl|Irish Horsemen (Marcach)
+; trp_irish_level0_landed|Irish Laborer (Bothach)
+; trp_irish_level0_landed_pl|Irish Militia (Bothach)
+; trp_irish_level1_landed|Irish Freeholder (Ocaire)
+; trp_irish_level1_landed_pl|Irish Freeholders (Ocaires)
+; trp_irish_level2_landed|Irish Veteran (Boaire)
+; trp_irish_level2_landed_pl|Irish Veterans (Boaires)
+; trp_irish_level3_landed|Irish Noble (Aire)
+; trp_irish_level3_landed_pl|Irish Nobles (Airig)
+; trp_irish_level0_companion|Irish Warrior (Cliarnach)
+; trp_irish_level0_companion_pl|Irish Warriors (Cliathaire)
+; trp_irish_level1_companion|Irish Champion (Caur)
+; trp_irish_level1_companion_pl|Irish Champions (Curadmir)
+; trp_irish_knight|Irish Bodyguard (Riglach)
+; trp_irish_knight_pl|Irish Bodyguards (Riglach)
+; trp_irish_standard_bearer|Standard Bearer (Meirgeach)
+; trp_irish_standard_bearer_pl|Standard Bearers (Meirgeach)
+; trp_irish_priest|Godelic Priest
+; trp_irish_priest_pl|Godelic Priests
+; trp_todos_cuerno|Hornman
+; trp_todos_cuerno_pl|Hornmen
+; trp_norse_messenger|Messenger (Bodi)
+; trp_norse_messenger_pl|Messengers (Bodar)
+; trp_norse_deserter|Norse Deserter
+; trp_norse_deserter_pl|Norse Deserters
+trp_norse_prison_guard|Тюремщик
+trp_norse_prison_guard_pl|Тюремщики
+; trp_norse_castle_guard|Fort Guard
+; trp_norse_castle_guard_pl|Fort Guards
+; trp_frisian_basic|Frisian (Husmo)
+; trp_frisian_basic_pl|Frisians (Fresen)
+; trp_frisian_mid|Frisian Warrior (Wigand)
+; trp_frisian_mid_pl|Frisian Warriors (Wiganda)
+; trp_frisian_heavy|Frisian Veteran (Werand)
+; trp_frisian_heavy_pl|Frisian Veterans (Weranda)
+; trp_frisian_cav|Frisian Horseman (Riddere)
+; trp_frisian_cav_pl|Frisian Horsemen (Riddere)
+trp_briton_messenger|Посланник
+; trp_briton_messenger_pl|Messengers
+; trp_briton_deserter|Briton Deserter
+; trp_briton_deserter_pl|Briton Deserters
+trp_briton_prison_guard|Тюремщик
+trp_briton_prison_guard_pl|Тюремщики
+; trp_briton_castle_guard|Fort Guard
+; trp_briton_castle_guard_pl|Fort Guards
+; trp_saxon_messenger|Messenger (Horsweala)
+; trp_saxon_messenger_pl|Messengers (Horswealas)
+; trp_saxon_deserter|Saxon Deserter
+; trp_saxon_deserter_pl|Saxon Deserters
+trp_saxon_prison_guard|Тюремщик
+trp_saxon_prison_guard_pl|Тюремщики
+; trp_saxon_castle_guard|Fort Guard
+; trp_saxon_castle_guard_pl|Fort Guards
+trp_scotch_messenger|Посланник
+; trp_scotch_messenger_pl|Messengers
+; trp_scotch_deserter|Picti Deserter
+; trp_scotch_deserter_pl|Picti Deserters
+trp_scotch_prison_guard|Тюремщик
+trp_scotch_prison_guard_pl|Тюремщики
+; trp_scotch_castle_guard|Fort Guard
+; trp_scotch_castle_guard_pl|Fort Guards
+; trp_angle_messenger|Messenger (Horsweala)
+; trp_angle_messenger_pl|Messengers (Horswealas)
+; trp_angle_deserter|Angle Deserter
+; trp_angle_deserter_pl|Angle Deserters
+trp_angle_prison_guard|Тюремщик
+trp_angle_prison_guard_pl|Тюремщики
+; trp_angle_castle_guard|Fort Guard
+; trp_angle_castle_guard_pl|Fort Guards
+trp_irish_messenger|Посланник
+; trp_irish_messenger_pl|Messengers
+; trp_irish_deserter|Goidelic Deserter
+; trp_irish_deserter_pl|Goidelic Deserters
+trp_irish_prison_guard|Тюремщик
+trp_irish_prison_guard_pl|Тюремщики
+; trp_irish_castle_guard|Fort Guard
+; trp_irish_castle_guard_pl|Fort Guards
+; trp_looter|Ruffian
+; trp_looter_pl|Ruffians
+; trp_bandit|Footpad
+; trp_bandit_pl|Footpads
+trp_brigand|Грабитель
+trp_brigand_pl|Грабители
+trp_mountain_bandit|Пираты
+; trp_mountain_bandit_pl|Robbers
+trp_forest_bandit|Бандит
+trp_forest_bandit_pl|Бандиты
+; trp_sea_raider|Reaver
+; trp_sea_raider_pl|Reavers
+; trp_desert_bandit|Highwayman
+; trp_desert_bandit_pl|Highwaymen
+; trp_steppe_bandit|Northmathr Vikingr
+; trp_steppe_bandit_pl|Northmenn Vikingarnir
+; trp_taiga_bandit|Vikingr
+; trp_taiga_bandit_pl|Vikingarnir
+; trp_elite_viking|Danish Elite Vikingr
+; trp_elite_viking_pl|Danish Elite Vikingarnir
+; trp_elite_viking_2|Svear Elite Vikingr
+; trp_elite_viking_2_pl|Sviar Elite Vikingarnir
+; trp_sea_raider_leader2|Ship Captain
+; trp_sea_raider_leader2_pl|Captains
+; trp_looter_leader2|Bandit Leader
+; trp_looter_leader2_pl|Bandit Leaders
+; trp_manhunter|Young Warrior
+; trp_manhunter_pl|Young Warriors
+trp_slave_driver|Погонщик
+trp_slave_driver_pl|Погонщики
+trp_slave_hunter|Охотник
+trp_slave_hunter_pl|Охотники
+; trp_slave_crusher|Veteran Slave Hunter
+; trp_slave_crusher_pl|Veteran Slave Hunters
+trp_slaver_chief|Атаман
+trp_slaver_chief_pl|Атаманы
+; trp_follower_woman|Camp Woman
+; trp_follower_woman_pl|Camp Women
+trp_hunter_woman|Маркитантки
+; trp_hunter_woman_pl|Camp Followers
+; trp_fighter_woman|Soldier's Wife
+; trp_fighter_woman_pl|Soldiers' Wives
+trp_sword_sister|Воительница
+trp_sword_sister_pl|Воительницы
+trp_refugee|Беженка
+trp_refugee_pl|Беженки
+trp_peasant_woman|Крестьянка
+trp_peasant_woman_pl|Крестьянки
+trp_refugeeromanruins|Беженка
+trp_refugeeromanruins_pl|Беженки
+trp_peasant_womanromanruins|Крестьянка
+trp_peasant_womanromanruins_pl|Крестьянки
+trp_refugeedruid|Беженка
+trp_refugeedruid_pl|Беженки
+trp_peasant_womandruid|Крестьянка
+trp_peasant_womandruid_pl|Крестьянки
+trp_farmerdruid|Крестьянин
+trp_farmerdruid_pl|Крестьяне
+; trp_manhunterdruid|Young Warrior
+; trp_manhunterdruid_pl|Young Band
+; trp_prisionerdruid|Prisoner
+; trp_prisionerdruid_pl|Prisoners
+; trp_quarry_trabajador|Worker
+; trp_quarry_trabajador_pl|Workers
+; trp_quarry_capataz|Foreman
+; trp_quarry_capataz_pl|Foremen
+; trp_saltmine_capataz|Foreman
+; trp_saltmine_capataz_pl|Foremen
+; trp_lumbercamp_capataz|Lumber Camp Foreman
+; trp_lumbercamp_capataz_pl|Lumber Camp Foremen
+; trp_farmstead_boss|Farmstead Reeve
+; trp_farmstead_boss_pl|Farmstead Reeves
+; trp_bandit_lairmerchant|Bandit Leader
+; trp_bandit_lairmerchant_pl|Bandit Leader
+; trp_abad|Abbot
+; trp_abad_pl|Abbot
+; trp_monjes|Monk
+; trp_monjes_pl|Monks
+trp_caravan_master|Караванщик
+trp_caravan_master_pl|Караванщики
+trp_kidnapped_girl|Похищенная девушка
+trp_kidnapped_girl_pl|Заложницы
+trp_town_walker_1|Горожанин
+trp_town_walker_1_pl|Горожане
+trp_town_walker_2|Горожанка
+trp_town_walker_2_pl|Горожанки
+trp_town_walker_3|Горожанин
+trp_town_walker_3_pl|Горожане
+trp_town_walker_4|Горожанка
+trp_town_walker_4_pl|Горожанки
+trp_town_walker_5|Горожанин
+trp_town_walker_5_pl|Горожане
+trp_town_walker_6|Горожанка
+trp_town_walker_6_pl|Горожанки
+trp_town_walker_7|Горожанин
+trp_town_walker_7_pl|Горожане
+trp_town_walker_8|Горожанка
+trp_town_walker_8_pl|Горожанки
+; trp_nino_varon|Child
+; trp_nino_varon_pl|Children
+; trp_nina_chica|Child
+; trp_nina_chica_pl|Children
+; trp_monk_walker|Monk
+; trp_monk_walker_pl|Monks
+trp_village_walker_1|Селянин
+trp_village_walker_1_pl|Селяне
+trp_village_walker_2|Селянин
+trp_village_walker_2_pl|Селяне
+trp_village_walker_3|Селянин
+trp_village_walker_3_pl|Селянин
+trp_village_walker_4|Селянин
+trp_village_walker_4_pl|Селянин
+trp_village_walker_5|Селянин
+trp_village_walker_5_pl|Селянин
+trp_village_walker_6|Селянин
+trp_village_walker_6_pl|Селянин
+trp_village_walker_7|Селянин
+trp_village_walker_7_pl|Селяне
+trp_village_walker_8|Селянин
+trp_village_walker_8_pl|Селянин
+trp_village_walker_1a|Селянин
+trp_village_walker_1a_pl|Селяне
+trp_village_walker_3a|Селянин
+trp_village_walker_3a_pl|Селянин
+trp_village_walker_5a|Селянин
+trp_village_walker_5a_pl|Селянин
+trp_spy_walker_1|Горожанин
+trp_spy_walker_1_pl|Горожане
+trp_spy_walker_2|Горожанка
+trp_spy_walker_2_pl|Горожанки
+trp_tournament_master|Мастер арены
+trp_tournament_master_pl|Мастер арены
+trp_trainer|Обучение
+trp_trainer_pl|Обучение
+trp_constable_hareck|Констебль Харек
+trp_constable_hareck_pl|Констебль Харек
+; trp_ramun_the_slave_trader|Aethelmaer, the Slaver
+; trp_ramun_the_slave_trader_pl|Aethelmaer, the Slaver
+; trp_guide|Ulric
+; trp_guide_pl|Ulric
+; trp_xerina|Anchoret the Pict
+; trp_xerina_pl|Anchoret
+; trp_dranton|Niall the Briton
+; trp_dranton_pl|Niall
+; trp_kradus|Uthred the Saxon
+trp_kradus_pl|Крадус
+trp_tutorial_trainer|Начальник лагеря
+trp_tutorial_trainer_pl|Начальник лагеря
+; trp_galeas|Balin
+; trp_galeas_pl|Balin
+trp_farmer_from_bandit_village|Крестьянин
+trp_farmer_from_bandit_village_pl|Крестьяне
+trp_trainer_2|Ярл Гаральд
+trp_trainer_2_pl|Обучение
+; trp_trainer_1|Veteran
+; trp_trainer_1_pl|Veteran
+trp_trainer_3|Обучение
+trp_trainer_3_pl|Обучение
+trp_trainer_4|Обучение
+trp_trainer_4_pl|Обучение
+trp_trainer_5|Обучение
+trp_trainer_5_pl|Обучение
+trp_ransom_broker_1|Посредники
+; trp_ransom_broker_1_pl|Slave Trader
+trp_ransom_broker_2|Посредники
+; trp_ransom_broker_2_pl|Slave Trader
+trp_ransom_broker_3|Посредники
+; trp_ransom_broker_3_pl|Slave Trader
+trp_ransom_broker_4|Посредники
+; trp_ransom_broker_4_pl|Slave Trader
+trp_ransom_broker_5|Посредники
+; trp_ransom_broker_5_pl|Slave Trader
+trp_ransom_broker_6|Посредники
+; trp_ransom_broker_6_pl|Slave Trader
+trp_ransom_broker_7|Посредники
+; trp_ransom_broker_7_pl|Slave Trader
+trp_ransom_broker_8|Посредники
+; trp_ransom_broker_8_pl|Slave Trader
+trp_ransom_broker_9|Посредники
+; trp_ransom_broker_9_pl|Slave Trader
+trp_ransom_broker_10|Посредники
+; trp_ransom_broker_10_pl|Slave Trader
+trp_ransom_broker_20|Посредники
+; trp_ransom_broker_20_pl|Slave Trader
+trp_tavern_traveler_1|Путешественник
+trp_tavern_traveler_1_pl|Путешественник
+trp_tavern_traveler_2|Путешественник
+trp_tavern_traveler_2_pl|Путешественник
+trp_tavern_traveler_3|Путешественник
+trp_tavern_traveler_3_pl|Путешественник
+trp_tavern_traveler_4|Путешественник
+trp_tavern_traveler_4_pl|Путешественник
+trp_tavern_traveler_5|Путешественник
+trp_tavern_traveler_5_pl|Путешественник
+trp_tavern_traveler_6|Путешественник
+trp_tavern_traveler_6_pl|Путешественник
+trp_tavern_traveler_7|Путешественник
+trp_tavern_traveler_7_pl|Путешественник
+trp_tavern_traveler_8|Путешественник
+trp_tavern_traveler_8_pl|Путешественник
+trp_tavern_traveler_9|Путешественник
+trp_tavern_traveler_9_pl|Путешественник
+trp_tavern_traveler_10|Путешественник
+trp_tavern_traveler_10_pl|Путешественник
+trp_tavern_bookseller_1|Продавец книг
+trp_tavern_bookseller_1_pl|Продавец книг
+trp_tavern_bookseller_2|Продавец книг
+trp_tavern_bookseller_2_pl|Продавец книг
+trp_tavern_minstrel_1|Бродяга Скалд
+trp_tavern_minstrel_1_pl|Менестрели
+trp_tavern_minstrel_2|Бродяга Бард
+trp_tavern_minstrel_2_pl|Менестрели
+trp_tavern_minstrel_3|Бродяга Бард
+trp_tavern_minstrel_3_pl|Менестрели
+trp_tavern_minstrel_4|Бродяга Бард
+trp_tavern_minstrel_4_pl|Менестрели
+trp_tavern_minstrel_5|Бродяга Бард
+trp_tavern_minstrel_5_pl|Менестрели
+; trp_quastuosa_1|Happy Widow
+; trp_quastuosa_1_pl|quastuosa
+; trp_quastuosa_2|Happy Widow
+; trp_quastuosa_2_pl|quastuosa
+; trp_quastuosa_3|Happy Widow
+; trp_quastuosa_3_pl|quastuosa
+; trp_quastuosa_4|Happy Widow
+; trp_quastuosa_4_pl|quastuosa
+; trp_quastuosa_5|Happy Widow
+; trp_quastuosa_5_pl|quastuosa
+; trp_quastuosa_6|Happy Widow
+; trp_quastuosa_6_pl|quastuosa
+; trp_quastuosa_7|Happy Widow
+; trp_quastuosa_7_pl|quastuosa
+; trp_quastuosa_end|Happy Widow
+; trp_quastuosa_end_pl|quastuosa
+; trp_bardo_1|Kingdom Skald
+; trp_bardo_1_pl|Skald
+; trp_bardo_2|Kingdom Skald
+; trp_bardo_2_pl|Skald
+; trp_bardo_3|Kingdom Skald
+; trp_bardo_3_pl|Skald
+; trp_bardo_4|Kingdom Skald
+; trp_bardo_4_pl|Skald
+; trp_bardo_5|Kingdom Bard
+; trp_bardo_5_pl|Owain
+; trp_bardo_6|Kingdom Bard
+; trp_bardo_6_pl|Bard
+; trp_bardo_7|Kingdom Bard
+; trp_bardo_7_pl|Bard
+; trp_bardo_8|Kingdom Skald
+; trp_bardo_8_pl|Skald
+; trp_bardo_9|Kingdom Bard
+; trp_bardo_9_pl|Bard
+; trp_bardo_10|Kingdom Bard
+; trp_bardo_10_pl|Bard
+; trp_bardo_11|Kingdom Bard
+; trp_bardo_11_pl|Bard
+; trp_bardo_12|Kingdom Bard
+; trp_bardo_12_pl|Bard
+; trp_bardo_13|Kingdom Bard
+; trp_bardo_13_pl|Bard
+; trp_bardo_14|Kingdom Bard
+; trp_bardo_14_pl|Bard
+; trp_bardo_15|Kingdom Bard
+; trp_bardo_15_pl|Bard
+; trp_bardo_16|Kingdom Bard
+; trp_bardo_16_pl|Bard
+; trp_bardo_17|Kingdom Bard
+; trp_bardo_17_pl|Bard
+; trp_bardo_18|Kingdom Bard
+; trp_bardo_18_pl|Bard
+; trp_bardo_19|Kingdom Bard
+; trp_bardo_19_pl|Bard
+; trp_bardo_20|Kingdom Bard
+; trp_bardo_20_pl|Bard
+; trp_bardo_21|Kingdom Bard
+; trp_bardo_21_pl|Bard
+; trp_sacerdote_1|Christian Bishop
+; trp_sacerdote_1_pl|Christian Bishop
+; trp_sacerdote_2|Bishop Ealhheard
+; trp_sacerdote_2_pl|sacerdote
+; trp_paganop_1|Gothi
+; trp_paganop_1_pl|Gothar
+; trp_priest_end|Priest both religions end
+; trp_priest_end_pl|sacerdote
+; trp_especiales_1|Hermit Derfel Gadarn
+; trp_especiales_1_pl|especiales
+trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin
+trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin
+; trp_npc1|Caio
+; trp_npc1_pl|Caio
+; trp_npc2|Egil
+; trp_npc2_pl|Egil
+; trp_npc3|Brunhild
+; trp_npc3_pl|Brunhild
+; trp_npc4|Donnchadh
+; trp_npc4_pl|Donnchadh
+; trp_npc5|Morgant
+; trp_npc5_pl|Morgant
+; trp_npc6|Bodo
+; trp_npc6_pl|Bodo
+; trp_npc7|Dwywei
+; trp_npc7_pl|Dwywei
+; trp_npc8|Reginhard
+; trp_npc8_pl|Reginhard
+; trp_npc9|Clovis
+; trp_npc9_pl|Clovis
+; trp_npc10|Ceawlin
+; trp_npc10_pl|Ceawlin
+; trp_npc11|Solveig
+; trp_npc11_pl|Solveig
+; trp_npc12|Asbjorn
+; trp_npc12_pl|Asbjorn
+; trp_npc13|Helgi
+; trp_npc13_pl|Helgi
+; trp_npc14|Ailchu
+; trp_npc14_pl|Ailchu
+; trp_npc15|Agathinos
+; trp_npc15_pl|Agathinos
+; trp_npc16|Beda
+; trp_npc16_pl|Beda
+; trp_kingdom_1_lord|Konungr Horik Gottfredsson
+; trp_kingdom_1_lord_pl|Horik Gottfredsson
+; trp_kingdom_2_lord|Konungr Harald Halfdanarson
+; trp_kingdom_2_lord_pl|Harald Halfdanarson
+; trp_kingdom_3_lord|Konungr Gudrod Ragnarson
+; trp_kingdom_3_lord_pl|Gudrod Ragnarson
+; trp_kingdom_4_lord|Konungr Hrorek Hemmingsson
+; trp_kingdom_4_lord_pl|Hrorek Hemmingsson
+; trp_kingdom_5_lord|Brytenwalda Aethelred Aethelwulfing
+; trp_kingdom_5_lord_pl|Aethelred Aethelwulfing
+; trp_kingdom_6_lord|Cyning Eadmund Aethelberhting
+; trp_kingdom_6_lord_pl|Eadmund Aethelberhting
+; trp_kingdom_7_lord|Cyning Brugred Beorhtwulfing
+; trp_kingdom_7_lord_pl|Brugred Beorhtwulfing
+; trp_kingdom_8_lord|Jarl Halfdan Ragnarsson
+; trp_kingdom_8_lord_pl|Halfdan Ragnarsson
+; trp_kingdom_9_lord|Ri Rhodri map Merfyn
+; trp_kingdom_9_lord_pl|Rhodri map Merfyn
+; trp_kingdom_10_lord|Ri Elisedd map Tewdr
+; trp_kingdom_10_lord_pl|Elisedd map Tewdr
+; trp_kingdom_11_lord|Ri Arthgal map Dumnagual
+; trp_kingdom_11_lord_pl|Arthgal map Dumnagual
+; trp_kingdom_12_lord|Ri Dunyart map Eferferdyn
+; trp_kingdom_12_lord_pl|Dunyart map Eferferdyn
+; trp_kingdom_13_lord|Ri Hywel map Rhys
+; trp_kingdom_13_lord_pl|Hywel map Rhys
+; trp_kingdom_14_lord|Ruire Lethlobar mac Loingsig
+; trp_kingdom_14_lord_pl|Lethlobar mac Loingsig
+; trp_kingdom_15_lord|Ruire Dunlaing mac Muiredaig
+; trp_kingdom_15_lord_pl|Dunlaing mac Muiredaig
+; trp_kingdom_16_lord|Ruire Cenn Faelad hua Mugthigirn
+; trp_kingdom_16_lord_pl|Cenn Faelad hua Mugthigirn
+; trp_kingdom_17_lord|Ruire Mugron mac Cothaid
+; trp_kingdom_17_lord_pl|Mugron mac Cothaid
+; trp_kingdom_18_lord|Ard Ruire Aed mac Niall
+; trp_kingdom_18_lord_pl|Aed mac Niall
+; trp_kingdom_19_lord|Ruire Donnchad mac Eochocai
+; trp_kingdom_19_lord_pl|Donnchad mac Eochocai
+; trp_kingdom_20_lord|Ruire Causantin mac Cinaeda
+; trp_kingdom_20_lord_pl|Causantin mac Cinaeda
+; trp_kingdom_21_lord|Ruire Cerball mac Dunlainge
+; trp_kingdom_21_lord_pl|Cerball mac Dunlainge
+; trp_knight_1_1|Jarl Sigifrid Angantyrsson
+; trp_knight_1_1_pl|Sigifrid Angantyrsson
+; trp_knight_1_2|Jarl Bagsecg
+; trp_knight_1_2_pl|Bagsecg
+; trp_knight_1_3|Jarl Halfdan Angantyrsson
+; trp_knight_1_3_pl|Halfdan Angantyrsson
+; trp_knight_1_4|Hersir Guthrum
+; trp_knight_1_4_pl|Guthrum
+; trp_knight_1_5|Jarl Sigurd Ragnarsson
+; trp_knight_1_5_pl|Sigurd Ragnarsson
+; trp_knight_1_6|Hersir Helgi Hvassi
+; trp_knight_1_6_pl|Helgi Hvassi
+; trp_knight_2_1|Jarl Guthorm Haraldrsson
+; trp_knight_2_1_pl|Guthorm Haraldrsson
+; trp_knight_2_2|Konungr Eirik
+; trp_knight_2_2_pl|Eirik
+; trp_knight_2_3|Jarl Kjotvi Hinn Audgi
+; trp_knight_2_3_pl|Kjotvi Hinn Audgi
+; trp_knight_2_4|Hersir Ketill Bjornsson
+; trp_knight_2_4_pl|Ketill Bjornsson
+; trp_knight_2_5|Hersir Bjorn Ketilsson
+; trp_knight_2_5_pl|Bjorn Ketilsson
+; trp_knight_3_1|Jarl Olaf Gudrodrsson
+; trp_knight_3_1_pl|Olaf Gudrodrsson
+; trp_knight_3_2|Jarl Ivar Gudrodrsson
+; trp_knight_3_2_pl|Ivarr Gudrodrsson
+; trp_knight_3_3|Jarl Asl Gudrodrsson
+; trp_knight_3_3_pl|Asl Gudrodrsson
+; trp_knight_3_4|Jarl Orkan
+; trp_knight_3_4_pl|Orkan
+; trp_knight_3_5|Jarl Helgi Ketilsson
+; trp_knight_3_5_pl|Helgi Ketilsson
+; trp_knight_3_6|Hersir Eystein Olafsson
+; trp_knight_3_6_pl|Eystein Olafsson
+; trp_knight_3_7|Hersir Sygtrygg Ivarrsson
+; trp_knight_3_7_pl|Sygtrygg Ivarrsson
+; trp_knight_3_8|Hersir Thorstein Olafsson
+; trp_knight_3_8_pl|Thorstein Olafsson
+; trp_knight_4_1|Jarl Harald Hemmingsson
+; trp_knight_4_1_pl|Haraldr Hemmingsson
+; trp_knight_4_2|Jarl Gotrik Haraldsson
+; trp_knight_4_2_pl|Gotrik Haraldsson
+; trp_knight_4_3|Jarl Hrodulf Haraldsson
+; trp_knight_4_3_pl|Hrodulfr Haraldsson
+; trp_knight_5_1|Aetheling Aelfred Aethelwulfing
+; trp_knight_5_1_pl|Aelfred Aethelwulfing
+; trp_knight_5_2|Ealdorman Aethelmod
+; trp_knight_5_2_pl|Aethelmod
+; trp_knight_5_3|Ealdorman Wulfhere
+; trp_knight_5_3_pl|Wulfhere
+; trp_knight_5_4|Ealdorman Aelfstan
+; trp_knight_5_4_pl|Aelfstan
+; trp_knight_5_5|Ealdorman Cuthred
+; trp_knight_5_5_pl|Cuthred
+; trp_knight_5_6|Ealdorman Bucca
+; trp_knight_5_6_pl|Bucca
+; trp_knight_5_7|Ealdorman Wulfred
+; trp_knight_5_7_pl|Wulfred
+; trp_knight_5_8|Ealdorman Wigstan
+; trp_knight_5_8_pl|Wigstan
+; trp_knight_5_9|Ealdorman Sigeberht Sigewulfing
+; trp_knight_5_9_pl|Sigeberht Sigewulfing
+; trp_knight_5_10|Ealdorman Garulf
+; trp_knight_5_10_pl|Garulf
+; trp_knight_5_11|Dryhten Drihtwald
+; trp_knight_5_11_pl|Drihtwald
+; trp_knight_6_1|Ealdorman Oswald
+; trp_knight_6_1_pl|Oswald
+; trp_knight_6_2|Ealdorman Aethelred
+; trp_knight_6_2_pl|Aethelred
+; trp_knight_6_3|Ealdorman Ealhhere
+; trp_knight_6_3_pl|Ealhhere
+; trp_knight_6_4|Dryhten Eanfrith
+; trp_knight_6_4_pl|Eanfrith
+; trp_knight_6_5|Dryhten Ecgwald
+; trp_knight_6_5_pl|Ecgwald
+; trp_knight_7_1|Ealdorman Ceowulf Ceowulfing
+; trp_knight_7_1_pl|Ceowulf Ceowulfing
+; trp_knight_7_2|Ealdorman Hereberht
+; trp_knight_7_2_pl|Hereberht
+; trp_knight_7_3|Ealdorman Aethelred
+; trp_knight_7_3_pl|Aethelred
+; trp_knight_7_4|Ealdorman Aethelred Mucel
+; trp_knight_7_4_pl|Aethelred Mucel
+; trp_knight_7_5|Ealdorman Aelfgar
+; trp_knight_7_5_pl|Aelfgar
+; trp_knight_7_6|Ealdorman Aethulf
+; trp_knight_7_6_pl|Aethulf
+; trp_knight_7_7|Ealdorman Beornoth
+; trp_knight_7_7_pl|Beornoth
+; trp_knight_7_8|Ealdorman Sigberth
+; trp_knight_7_8_pl|Sigberth
+; trp_knight_7_9|Dryhten Aethelwulf Aethelreding
+; trp_knight_7_9_pl|Aethelwulf Aethelreding
+; trp_knight_8_1|Cyning Egbert
+; trp_knight_8_1_pl|Egbert
+; trp_knight_8_2|Jarl Rathbarth Ragnarsson
+; trp_knight_8_2_pl|Rathbarth Ragnarsson
+; trp_knight_8_3|Ealdorman Ealdred
+; trp_knight_8_3_pl|Ealdred
+; trp_knight_8_4|Jarl Sidroc the Elder
+; trp_knight_8_4_pl|Sidroc the Elder
+; trp_knight_8_5|Ealdorman Ricsige
+; trp_knight_8_5_pl|Ricsige
+; trp_knight_8_6|Ealdorman Egbert the Second
+; trp_knight_8_6_pl|Egbert the Second
+; trp_knight_8_7|Jarl Bjorn Ragnarsson
+; trp_knight_8_7_pl|Bjorn Jarnsida
+; trp_knight_8_8|Hersir Guthred Knutr
+; trp_knight_8_8_pl|Guthred Knutr
+; trp_knight_8_9|Hersir Rognvald
+; trp_knight_8_9_pl|Rognvald
+; trp_knight_8_10|Hersir Harald
+trp_knight_8_10_pl|Ярл Гаральд
+; trp_knight_8_11|Hersir Sidroc the Young
+; trp_knight_8_11_pl|Sidroc the Young
+; trp_knight_8_12|Hersir Fraena
+; trp_knight_8_12_pl|Fraena
+; trp_knight_8_13|Jarl Ivarr Inn Beinlaussi
+; trp_knight_8_13_pl|Ivarr Inn Beinlaussi
+; trp_knight_8_14|Jarl Hubbi Ragnarsson
+; trp_knight_8_14_pl|Hubbi Ragnarsson
+; trp_knight_8_15|Konungr Bagsecg
+; trp_knight_8_15_pl|Bagsecg
+; trp_knight_9_1|Mael Anarawd map Rhodri
+; trp_knight_9_1_pl|Anarawd map Rhodri
+; trp_knight_9_2|Mael Cadell map Rhodri
+; trp_knight_9_2_pl|Cadell map Rhodri
+; trp_knight_9_3|Mael Merfyn map Rhodri
+; trp_knight_9_3_pl|Merfyn map Rhodri
+; trp_knight_9_4|Ri Gwgon map Meurig
+; trp_knight_9_4_pl|Gwgon map Meurig
+; trp_knight_9_5|Guledic Gwriad map Merfyn
+; trp_knight_9_5_pl|Gwriad map Merfyn
+; trp_knight_9_6|Mael Tudwal map Rhodri
+; trp_knight_9_6_pl|Tudwal map Rhodri
+; trp_knight_9_7|Guledic Hyfaidd map Bleddri
+; trp_knight_9_7_pl|Hyfaidd map Bleddri
+; trp_knight_9_8|Tiern Ffernfael ab Meurig
+; trp_knight_9_8_pl|Ffernfael ab Meurig
+; trp_knight_9_9|Tiern Llofan map Cilmin Broetu
+; trp_knight_9_9_pl|Llofan map Cilmin Broetu
+; trp_knight_10_1|Mael Guledic
+; trp_knight_10_1_pl|Guledic
+; trp_knight_11_1|Mael Rhun map Arthgal
+; trp_knight_11_1_pl|Rhun map Arthgal
+; trp_knight_11_2|Mael Echou map Rhun
+; trp_knight_11_2_pl|Echou map Rhun
+; trp_knight_11_3|Guledic Dyfnwal map Rhun
+; trp_knight_11_3_pl|Dyfnwal map Rhun
+; trp_knight_11_4|Guledic Giric Map Rath
+; trp_knight_11_4_pl|Giric map Rath
+; trp_knight_11_5|Mael Cynon map Cyndrwyn
+; trp_knight_11_5_pl|Cynon map Cyndrwyn
+; trp_knight_11_6|Mael Gwion map Cyndrwyn
+; trp_knight_11_6_pl|Gwion map Cyndrwyn
+; trp_knight_11_7|Mael Madoc map Cadell
+; trp_knight_11_7_pl|Madoc map Cadell
+; trp_knight_11_8|Mael Caradoc map Riwall
+; trp_knight_11_8_pl|Caradoc map Riwall
+; trp_knight_12_1|Guledic Eliud map Eferferdyn
+; trp_knight_12_1_pl|Eliud map Eferferdyn
+; trp_knight_12_2|Guledic Alanorus map Eliud
+; trp_knight_12_2_pl|Alanorus map Eliud
+; trp_knight_12_3|Mael Ricatus map Dunyart
+; trp_knight_12_3_pl|Ricatus map Dunyart
+; trp_knight_13_1|Guledic Meurig map Arthfael
+; trp_knight_13_1_pl|Meurig map Arthfael
+; trp_knight_13_2|Mael Owain map Hywel
+; trp_knight_13_2_pl|Owain map Hywel
+; trp_knight_13_3|Tiern Brochwael map Meurig
+; trp_knight_13_3_pl|Brochwael map Meurig
+; trp_knight_14_1|Mael Cathalan mac Indrechtaig
+; trp_knight_14_1_pl|Cathalan mac Indrechtaig
+; trp_knight_14_2|Mael Conallan mac Duin
+; trp_knight_14_2_pl|Conallan mac Duin
+; trp_knight_14_3|Ard Tiarna Mocheirge mac Indrechtaig
+; trp_knight_14_3_pl|Mocheirge mac Indrechtaig
+; trp_knight_14_4|Tiarna Ainbith mac Aedo
+; trp_knight_14_4_pl|Ainbith mac Aedo
+; trp_knight_14_5|Tiarna Cummascach mac Cathalan
+; trp_knight_14_5_pl|Cummascach mac Cathalan
+; trp_knight_15_1|Ard Tiarna Ailill mac Dunlainge
+; trp_knight_15_1_pl|Ailill mac Dunlainge
+; trp_knight_15_2|Ard Tiarna Cairpre mac Dunlainge
+; trp_knight_15_2_pl|Cairpre mac Dunlainge
+; trp_knight_15_3|Tiarna Muiredach mac Brain
+; trp_knight_15_3_pl|Muiredach mac Brain
+; trp_knight_15_4|Tiarna Domnall mac Muirecain
+; trp_knight_15_4_pl|Domnall mac Muirecain
+; trp_knight_15_5|Tiarna Cerball mac Muirecain
+; trp_knight_15_5_pl|Cerball mac Muirecain
+; trp_knight_15_6|Tiarna Augaire mac Ailella
+; trp_knight_15_6_pl|Augaire mac Ailella
+; trp_knight_16_1|Ard Tiarna Dunchad mac Dub da Bairenn
+; trp_knight_16_1_pl|Dunchad mac Dub da Bairenn
+; trp_knight_16_2|Ard Tiarna Dub Lachtnai mac Gualu
+; trp_knight_16_2_pl|Dub Lachtnai mac Gualu
+; trp_knight_16_3|Tiarna Foghartach mac Suibhne
+; trp_knight_16_3_pl|Foghartach mac Suibhne
+; trp_knight_16_4|Tiarna Longbortan mac Finnachta
+; trp_knight_16_4_pl|Longbortan mac Finnachta
+; trp_knight_16_5|Tiarna Reachtabhra macBran Finn
+; trp_knight_16_5_pl|Reachtabhra macBran Finn
+; trp_knight_16_6|Tiarna Colman mac Cionaith
+; trp_knight_16_6_pl|Colman mac Cionaith
+; trp_knight_17_1|Mael Conchobar mac Taidg Mor
+; trp_knight_17_1_pl|Conchobar mac Taidg Mor
+; trp_knight_17_2|Tiarna Aedh mac Conchobar
+; trp_knight_17_2_pl|Aedh mac Conchobar
+; trp_knight_17_3|Tiarna Tadg mac Conchobar
+; trp_knight_17_3_pl|Tadg mac Conchobar
+; trp_knight_17_4|Tiarna Finshnechta mac Corcrai
+; trp_knight_17_4_pl|Finshnechta mac Corcrai
+; trp_knight_17_5|Tiarna Dobhailen mac Gormghus
+; trp_knight_17_5_pl|Dobhailen mac Gormghus
+; trp_knight_17_6|Tiarna Cathal mac Conchobar
+; trp_knight_17_6_pl|Cathal mac Conchobar
+; trp_knight_18_1|Mael Domnall mac Aeda
+; trp_knight_18_1_pl|Domnall mac Aeda
+; trp_knight_18_2|Mael Dabaill
+; trp_knight_18_2_pl|Dabaill
+; trp_knight_18_3|Mael Dub mac Aeda
+; trp_knight_18_3_pl|Dub mac Aeda
+; trp_knight_18_4|Ruire Congalach mac Finnachta
+; trp_knight_18_4_pl|Congalach mac Finnachta
+; trp_knight_18_5|Tiarna Cummascach mac Muiredaig
+; trp_knight_18_5_pl|Cummascach mac Muiredaig
+; trp_knight_18_6|Mael Padraig mac Curarada
+; trp_knight_18_6_pl|Padraig mac Curarada
+; trp_knight_18_7|Tiarna Laidhgnen mac Donnagain
+; trp_knight_18_7_pl|Laidhgnen mac Donnagain
+; trp_knight_19_1|Mael Sechnaill mac Niall
+; trp_knight_19_1_pl|Sechnaill mac Niall
+; trp_knight_19_2|Mael Diarmait mac Etersceili
+; trp_knight_19_2_pl|Diarmait mac Etersceili
+; trp_knight_19_3|Mael Flann Sinna mac Sechnaill
+; trp_knight_19_3_pl|Flann Sinna mac Sechnaill
+; trp_knight_19_4|Tiarna Flann mac Conaing
+; trp_knight_19_4_pl|Flann mac Conaing
+; trp_knight_19_5|Mael Conall mac Echach
+; trp_knight_19_5_pl|Conall mac Echach
+; trp_knight_20_1|Mael Domnall dasachtach mac Causantin
+; trp_knight_20_1_pl|Domnall dasachtach mac Causantin
+; trp_knight_20_2|Ard Tiarna Aed mac Cinaeda
+; trp_knight_20_2_pl|Aed mac Cinaeda
+; trp_knight_20_3|Tiarna Causantin mac Aeda
+; trp_knight_20_3_pl|Causantin mac Aeda
+; trp_knight_20_4|Tiarna Domhall mac Aeda
+; trp_knight_20_4_pl|Domhall mac Aeda
+; trp_knight_20_5|Mael Coluim mac Domnall
+; trp_knight_20_5_pl|Coluim mac Domnall
+; trp_knight_20_6|Domlech
+; trp_knight_20_6_pl|Domlech
+; trp_knight_20_7|Entifidach
+; trp_knight_20_7_pl|Entifidach
+; trp_knight_20_8|Lugthreni
+; trp_knight_20_8_pl|Lugthreni
+; trp_knight_21_1|Mael Diarmait mac Cerbaill
+; trp_knight_21_1_pl|Diarmait mac Cerbaill
+; trp_knight_21_2|Mael Cellach mac Cerbaill
+; trp_knight_21_2_pl|Cellach mac Cerbaill
+; trp_knight_21_3|Ard Tiarna Riacan mac Dunlainge
+; trp_knight_21_3_pl|Riacan mac Dunlainge
+; trp_kingdom_1_pretender|Jarl Thorgil
+; trp_kingdom_1_pretender_pl|Thorgil
+; trp_kingdom_2_pretender|Ard Tiarna Dungal
+; trp_kingdom_2_pretender_pl|Dungal
+; trp_kingdom_3_pretender|Aetheling Oswine
+; trp_kingdom_3_pretender_pl|Oswine
+; trp_kingdom_4_pretender|Aetheling Ceorl
+; trp_kingdom_4_pretender_pl|Ceorl
+; trp_kingdom_5_pretender|Tanist Bili
+; trp_kingdom_5_pretender_pl|Bili
+; trp_kingdom_6_pretender|Mael Elisedd ap Cyngen
+; trp_kingdom_6_pretender_pl|Elisedd ap Cyngen
+trp_knight_1_1_wife|Леди Анна
+trp_knight_1_1_wife_pl|knight 1 1 wife
+; trp_kingdom_1_lady_1|Aslaug
+; trp_kingdom_1_lady_1_pl|Oslafa
+; trp_kingdom_1_lady_2|Blaeja
+; trp_kingdom_1_lady_2_pl|Blaeja
+; trp_kingdom_1_lady_3|Ragnhild Ragnarsdottir
+; trp_kingdom_1_lady_3_pl|Ragnhild Ragnarsdottir
+; trp_kingdom_1_lady_4|Ingun
+; trp_kingdom_1_lady_4_pl|Ingun
+; trp_kingdom_2_lady_1|Gyda Eirikdottir
+; trp_kingdom_2_lady_1_pl|Gyda
+; trp_kingdom_2_lady_2|Yngvild
+; trp_kingdom_2_lady_2_pl|Yngvild
+; trp_kingdom_2_lady_3|Thorunn Ketilsdottir
+; trp_kingdom_2_lady_3_pl|Thorunn
+; trp_kingdom_2_lady_4|Hallbera
+; trp_kingdom_2_lady_4_pl|Hallbera
+; trp_kingdom_3_lady_1|Salbjorg
+; trp_kingdom_3_lady_1_pl|Salbjorg
+; trp_kingdom_3_lady_2|Bera
+; trp_kingdom_3_lady_2_pl|Bera
+; trp_kingdom_3_lady_3|Grunnhild
+; trp_kingdom_3_lady_3_pl|Grunnhild
+; trp_kingdom_3_lady_4|Asgerd
+; trp_kingdom_3_lady_4_pl|Asgerd
+; trp_kingdom_4_lady_1|Helga
+; trp_kingdom_4_lady_1_pl|Helga
+; trp_kingdom_4_lady_2|Asfrid
+; trp_kingdom_4_lady_2_pl|Asfrid
+; trp_kingdom_4_lady_3|Ingibjorg
+; trp_kingdom_4_lady_3_pl|Ingibjorg
+; trp_kingdom_4_lady_4|Sacun
+; trp_kingdom_4_lady_4_pl|Sacun
+; trp_kingdom_5_lady_1|Osburh
+; trp_kingdom_5_lady_1_pl|Osburh
+; trp_kingdom_5_lady_2|Wulfthryth
+; trp_kingdom_5_lady_2_pl|Wulfthryth
+; trp_kingdom_5_lady_3|Ealswith
+; trp_kingdom_5_lady_3_pl|Ealswith
+; trp_kingdom_5_lady_4|Aelswith
+; trp_kingdom_5_lady_4_pl|Aelswith
+; trp_kingdom_5_lady_5|Aelflaed
+; trp_kingdom_5_lady_5_pl|Aelflaed
+; trp_kingdom_5_lady_6|Eormengyth
+; trp_kingdom_5_lady_6_pl|Eormengyth
+; trp_kingdom_5_lady_7|Aelfwynne
+; trp_kingdom_5_lady_7_pl|Aelfwynne
+; trp_kingdom_6_lady_1|Edith
+; trp_kingdom_6_lady_1_pl|Edith
+; trp_kingdom_6_lady_2|Edburge
+; trp_kingdom_6_lady_2_pl|Edburge
+; trp_kingdom_6_lady_3|Adelburga
+; trp_kingdom_6_lady_3_pl|Adelburga
+trp_kingdom_6_lady_4|Леди Хилд
+trp_kingdom_6_lady_4_pl|Леди Хилд
+; trp_kingdom_7_lady_1|Aethelswith
+; trp_kingdom_7_lady_1_pl|Aethelswith
+; trp_kingdom_7_lady_2|Eadburh
+; trp_kingdom_7_lady_2_pl|Eadburh
+; trp_kingdom_7_lady_3|Aedgyth
+; trp_kingdom_7_lady_3_pl|Aedgyth
+; trp_kingdom_7_lady_4|Cyneswith
+; trp_kingdom_7_lady_4_pl|Cyneswith
+; trp_kingdom_7_lady_5|Alwith
+; trp_kingdom_7_lady_5_pl|Alwith
+; trp_kingdom_7_lady_6|Aedelfled
+; trp_kingdom_7_lady_6_pl|Aedelfled
+; trp_kingdom_7_lady_7|Aepelhilde
+; trp_kingdom_7_lady_7_pl|Aepelhilde
+; trp_kingdom_7_lady_8|Aepelswip
+; trp_kingdom_7_lady_8_pl|Aepelswip
+; trp_kingdom_7_lady_9|Aette
+; trp_kingdom_7_lady_9_pl|Aette
+; trp_kingdom_8_lady_1|Alof Ragnarsdottir
+; trp_kingdom_8_lady_1_pl|Alof
+; trp_kingdom_8_lady_2|Eanflaed
+; trp_kingdom_8_lady_2_pl|Eanflaed
+; trp_kingdom_8_lady_3|Freydis
+; trp_kingdom_8_lady_3_pl|Freydis
+trp_kingdom_8_lady_4|Гудрун
+trp_kingdom_8_lady_4_pl|Гудрун
+; trp_kingdom_8_lady_5|Sigrid
+; trp_kingdom_8_lady_5_pl|Sigrid
+; trp_kingdom_8_lady_6|Svanhild
+; trp_kingdom_8_lady_6_pl|Svanhild
+; trp_kingdom_8_lady_7|Sigrunn
+; trp_kingdom_8_lady_7_pl|Sigrunn
+; trp_kingdom_8_lady_8|Turid
+; trp_kingdom_8_lady_8_pl|Turid
+; trp_kingdom_8_lady_9|Aebbe
+; trp_kingdom_8_lady_9_pl|Aebbe
+; trp_kingdom_9_lady_1|Angharad verch Meurig
+; trp_kingdom_9_lady_1_pl|Angharad
+; trp_kingdom_9_lady_2|Elen verch Rhodri
+; trp_kingdom_9_lady_2_pl|Elen
+; trp_kingdom_9_lady_3|Creirwy
+; trp_kingdom_9_lady_3_pl|Creirwy
+; trp_kingdom_9_lady_4|Nest verch Rhodri
+; trp_kingdom_9_lady_4_pl|Nest
+; trp_kingdom_9_lady_5|Lleigy
+; trp_kingdom_9_lady_5_pl|Lleigy
+trp_kingdom_9_lady_6|Леди Анна
+trp_kingdom_9_lady_6_pl|Леди Анна
+; trp_kingdom_10_lady_1|Marwenna
+; trp_kingdom_10_lady_1_pl|Marwenna
+; trp_kingdom_10_lady_2|Gwenonwy
+; trp_kingdom_10_lady_2_pl|Gwenonwy
+; trp_kingdom_10_lady_3|Gweneddlon
+; trp_kingdom_10_lady_3_pl|Gweneddlon
+; trp_kingdom_11_lady_1|Verh Cinaed
+; trp_kingdom_11_lady_1_pl|Verh Cinaed
+; trp_kingdom_11_lady_2|Brifael
+; trp_kingdom_11_lady_2_pl|Brifael
+; trp_kingdom_11_lady_3|Ceindrych
+; trp_kingdom_11_lady_3_pl|Ceindrych
+; trp_kingdom_11_lady_4|Morgawse
+; trp_kingdom_11_lady_4_pl|Morgawse
+; trp_kingdom_12_lady_1|Meisyr
+; trp_kingdom_12_lady_1_pl|Meisyr
+; trp_kingdom_12_lady_2|Heledd
+; trp_kingdom_12_lady_2_pl|Heledd
+; trp_kingdom_12_lady_3|Ffever
+; trp_kingdom_12_lady_3_pl|Ffever
+; trp_kingdom_12_lady_4|Medlan
+; trp_kingdom_12_lady_4_pl|Medlan
+; trp_kingdom_13_lady_1|Rhiain Ceinfrid
+; trp_kingdom_13_lady_1_pl|Ceinfrid
+; trp_kingdom_13_lady_2|Meddwyl
+; trp_kingdom_13_lady_2_pl|Meddwyl
+; trp_kingdom_13_lady_3|Gwladus
+; trp_kingdom_13_lady_3_pl|Gwladus
+; trp_kingdom_14_lady_1|Muireann
+; trp_kingdom_14_lady_1_pl|Muireann
+; trp_kingdom_14_lady_2|Medb
+; trp_kingdom_14_lady_2_pl|Medb
+; trp_kingdom_14_lady_3|Creide
+; trp_kingdom_14_lady_3_pl|Creide
+; trp_kingdom_14_lady_4|Derbforgaill
+; trp_kingdom_14_lady_4_pl|Derbforgaill
+; trp_kingdom_15_lady_1|Mhari
+; trp_kingdom_15_lady_1_pl|Mhari
+; trp_kingdom_15_lady_2|Mall
+; trp_kingdom_15_lady_2_pl|Mall
+; trp_kingdom_15_lady_3|Teglaig
+; trp_kingdom_15_lady_3_pl|Teglaig
+; trp_kingdom_15_lady_4|Lassa
+; trp_kingdom_15_lady_4_pl|Lassa
+; trp_kingdom_16_lady_1|Cath
+; trp_kingdom_16_lady_1_pl|Cath
+; trp_kingdom_16_lady_2|Lassair
+; trp_kingdom_16_lady_2_pl|Lassair
+; trp_kingdom_16_lady_3|Duinseach
+; trp_kingdom_16_lady_3_pl|Duinseach
+; trp_kingdom_16_lady_4|Eva
+; trp_kingdom_16_lady_4_pl|Eva
+; trp_kingdom_16_lady_5|Doirend
+; trp_kingdom_16_lady_5_pl|Doirend
+; trp_kingdom_16_lady_6|Delbchaem
+; trp_kingdom_16_lady_6_pl|Delbchaem
+; trp_kingdom_17_lady_1|Caelfind
+; trp_kingdom_17_lady_1_pl|Caelfind
+; trp_kingdom_17_lady_2|Briana
+; trp_kingdom_17_lady_2_pl|Briana
+; trp_kingdom_17_lady_3|Binne
+; trp_kingdom_17_lady_3_pl|Binne
+; trp_kingdom_17_lady_4|Aoibheann
+; trp_kingdom_17_lady_4_pl|Aoibheann
+; trp_kingdom_17_lady_5|Aodhnait
+; trp_kingdom_17_lady_5_pl|Aodhnait
+; trp_kingdom_17_lady_6|Almu
+; trp_kingdom_17_lady_6_pl|Almu
+; trp_kingdom_18_lady_1|Fedelm
+; trp_kingdom_18_lady_1_pl|Fedelm
+; trp_kingdom_18_lady_2|Uaisle
+; trp_kingdom_18_lady_2_pl|Uaisle
+; trp_kingdom_18_lady_3|Condadil
+; trp_kingdom_18_lady_3_pl|Condadil
+; trp_kingdom_18_lady_4|Flannesda
+; trp_kingdom_18_lady_4_pl|Flannesda
+; trp_kingdom_18_lady_5|Mor
+; trp_kingdom_18_lady_5_pl|Mor
+; trp_kingdom_18_lady_6|Aine
+; trp_kingdom_18_lady_6_pl|Aine
+; trp_kingdom_19_lady_1|Muire ingen Cinaeda
+; trp_kingdom_19_lady_1_pl|Muire
+; trp_kingdom_19_lady_2|Gormlaith
+; trp_kingdom_19_lady_2_pl|Gormlaith
+; trp_kingdom_19_lady_3|Eithne
+; trp_kingdom_19_lady_3_pl|Eithne
+; trp_kingdom_19_lady_4|Lann
+; trp_kingdom_19_lady_4_pl|Lann
+; trp_kingdom_19_lady_5|Etain
+; trp_kingdom_19_lady_5_pl|Etain
+; trp_kingdom_20_lady_1|Coluim
+; trp_kingdom_20_lady_1_pl|Coluim
+; trp_kingdom_20_lady_2|Sabhdh Ingen Giric
+; trp_kingdom_20_lady_2_pl|Sabhdh Ingen Giric
+; trp_kingdom_20_lady_3|Ingen Brude
+; trp_kingdom_20_lady_3_pl|Ingen Brude
+; trp_kingdom_20_lady_4|Ingen Domlech
+; trp_kingdom_20_lady_4_pl|Ingen Domlech
+; trp_kingdom_20_lady_5|Ingen Gwydd
+; trp_kingdom_20_lady_5_pl|Ingen Gwydd
+; trp_kingdom_20_lady_6|Bridei
+; trp_kingdom_20_lady_6_pl|Bridei
+; trp_kingdom_20_lady_7|Muire
+; trp_kingdom_20_lady_7_pl|Muire
+; trp_kingdom_21_lady_1|Aideen
+; trp_kingdom_21_lady_1_pl|Aideen
+; trp_kingdom_21_lady_2|Ethna
+; trp_kingdom_21_lady_2_pl|Ethna
+; trp_town_1_seneschal|Norse Chronicler
+; trp_town_1_seneschal_pl|Chronicler
+; trp_town_2_seneschal|Briton Chronicler
+; trp_town_2_seneschal_pl|Chronicler
+; trp_town_3_seneschal|Goidelic Chronicler
+; trp_town_3_seneschal_pl|Chronicler
+; trp_town_4_seneschal|Angle Chronicler
+; trp_town_4_seneschal_pl|Chronicler
+; trp_town_25_seneschal|Mael Bresail
+; trp_castle_1_seneschal|Fort Reeve
+; trp_castle_2_seneschal|Fort Reeve
+; trp_castle_3_seneschal|Fort Reeve
+; trp_castle_4_seneschal|Fort Reeve
+; trp_castle_5_seneschal|Fort Reeve
+; trp_castle_6_seneschal|Fort Reeve
+; trp_castle_7_seneschal|Fort Reeve
+; trp_castle_8_seneschal|Fort Reeve
+; trp_castle_9_seneschal|Fort Reeve
+; trp_castle_10_seneschal|Fort Reeve
+; trp_castle_11_seneschal|Fort Reeve
+; trp_castle_12_seneschal|Fort Reeve
+; trp_castle_13_seneschal|Fort Reeve
+; trp_castle_14_seneschal|Fort Reeve
+; trp_castle_15_seneschal|Fort Reeve
+; trp_castle_16_seneschal|Fort Reeve
+; trp_castle_17_seneschal|Fort Reeve
+; trp_castle_18_seneschal|Fort Reeve
+; trp_castle_19_seneschal|Fort Reeve
+; trp_castle_20_seneschal|Fort Reeve
+; trp_castle_21_seneschal|Fort Reeve
+; trp_castle_22_seneschal|Fort Reeve
+; trp_castle_23_seneschal|Fort Reeve
+; trp_castle_24_seneschal|Fort Reeve
+; trp_castle_25_seneschal|Fort Reeve
+; trp_castle_26_seneschal|Fort Reeve
+; trp_castle_27_seneschal|Fort Reeve
+; trp_castle_28_seneschal|Fort Reeve
+; trp_castle_29_seneschal|Fort Reeve
+; trp_castle_30_seneschal|Fort Reeve
+; trp_castle_31_seneschal|Fort Reeve
+; trp_castle_32_seneschal|Fort Reeve
+; trp_castle_33_seneschal|Fort Reeve
+; trp_castle_34_seneschal|Fort Reeve
+; trp_castle_35_seneschal|Fort Reeve
+; trp_castle_36_seneschal|Fort Reeve
+; trp_castle_37_seneschal|Fort Reeve
+; trp_castle_38_seneschal|Fort Reeve
+; trp_castle_39_seneschal|Fort Reeve
+; trp_castle_40_seneschal|Fort Reeve
+; trp_castle_41_seneschal|Fort Reeve
+; trp_castle_42_seneschal|Fort Reeve
+; trp_castle_43_seneschal|Fort Reeve
+; trp_castle_44_seneschal|Fort Reeve
+; trp_castle_45_seneschal|Fort Reeve
+; trp_castle_46_seneschal|Fort Reeve
+; trp_castle_47_seneschal|Fort Reeve
+; trp_castle_48_seneschal|Fort Reeve
+; trp_castle_49_seneschal|Fort Reeve
+; trp_castle_50_seneschal|Fort Reeve
+; trp_castle_51_seneschal|Fort Reeve
+; trp_castle_52_seneschal|Fort Reeve
+; trp_castle_53_seneschal|Fort Reeve
+; trp_castle_54_seneschal|Fort Reeve
+; trp_castle_55_seneschal|Fort Reeve
+; trp_castle_56_seneschal|Fort Reeve
+; trp_castle_57_seneschal|Fort Reeve
+; trp_castle_58_seneschal|Fort Reeve
+; trp_castle_59_seneschal|Fort Reeve
+; trp_castle_60_seneschal|Fort Reeve
+; trp_castle_61_seneschal|Fort Reeve
+; trp_castle_62_seneschal|Fort Reeve
+; trp_castle_63_seneschal|Fort Reeve
+; trp_castle_64_seneschal|Fort Reeve
+; trp_castle_65_seneschal|Fort Reeve
+; trp_castle_66_seneschal|Fort Reeve
+; trp_castle_67_seneschal|Fort Reeve
+; trp_castle_68_seneschal|Fort Reeve
+; trp_castle_69_seneschal|Fort Reeve
+; trp_castle_70_seneschal|Fort Reeve
+; trp_castle_71_seneschal|Fort Reeve
+; trp_castle_72_seneschal|Fort Reeve
+; trp_castle_73_seneschal|Fort Reeve
+; trp_castle_74_seneschal|Fort Reeve
+; trp_castle_75_seneschal|Fort Reeve
+; trp_castle_76_seneschal|Fort Reeve
+; trp_castle_77_seneschal|Fort Reeve
+; trp_castle_78_seneschal|Fort Reeve
+; trp_castle_79_seneschal|Fort Reeve
+; trp_castle_80_seneschal|Fort Reeve
+; trp_castle_81_seneschal|Fort Reeve
+; trp_castle_82_seneschal|Fort Reeve
+; trp_castle_83_seneschal|Fort Reeve
+; trp_castle_84_seneschal|Fort Reeve
+; trp_castle_85_seneschal|Fort Reeve
+; trp_castle_86_seneschal|Fort Reeve
+; trp_castle_87_seneschal|Fort Reeve
+; trp_castle_88_seneschal|Fort Reeve
+; trp_castle_89_seneschal|Fort Reeve
+; trp_castle_90_seneschal|Fort Reeve
+; trp_castle_91_seneschal|Fort Reeve
+; trp_town_1_arena_master|Competition Master
+; trp_town_2_arena_master|Competition Master
+; trp_town_3_arena_master|Competition Master
+; trp_town_4_arena_master|Competition Master
+; trp_town_5_arena_master|Competition Master
+; trp_town_6_arena_master|Competition Master
+; trp_town_7_arena_master|Competition Master
+; trp_town_8_arena_master|Competition Master
+; trp_town_9_arena_master|Competition Master
+; trp_town_10_arena_master|Competition Master
+; trp_town_11_arena_master|Competition Master
+; trp_town_12_arena_master|Competition Master
+; trp_town_13_arena_master|Competition Master
+; trp_town_14_arena_master|Competition Master
+; trp_town_15_arena_master|Competition Master
+; trp_town_16_arena_master|Competition Master
+; trp_town_17_arena_master|Competition Master
+; trp_town_18_arena_master|Competition Master
+; trp_town_19_arena_master|Competition Master
+; trp_town_20_arena_master|Competition Master
+; trp_town_21_arena_master|Competition Master
+; trp_town_22_arena_master|Competition Master
+; trp_town_23_arena_master|Competition Master
+; trp_town_24_arena_master|Competition Master
+; trp_town_25_arena_master|Competition Master
+; trp_town_26_arena_master|Competition Master
+; trp_town_27_arena_master|Competition Master
+; trp_town_28_arena_master|Competition Master
+; trp_town_29_arena_master|Competition Master
+trp_town_1_armorer|Доспешник
+trp_town_2_armorer|Доспешник
+trp_town_3_armorer|Доспешник
+trp_town_4_armorer|Доспешник
+trp_town_5_armorer|Доспешник
+trp_town_6_armorer|Доспешник
+trp_town_7_armorer|Доспешник
+trp_town_8_armorer|Доспешник
+trp_town_9_armorer|Доспешник
+trp_town_10_armorer|Доспешник
+trp_town_11_armorer|Доспешник
+trp_town_12_armorer|Доспешник
+trp_town_13_armorer|Доспешник
+; trp_town_14_armorer|Eadwine the Armorer
+; trp_town_15_armorer|Donnchadh the Armorer
+; trp_town_16_armorer|Paega the Armorer
+; trp_town_17_armorer|Lifris the Armorer
+; trp_town_18_armorer|Fearchair the Armorer
+trp_town_19_armorer|Доспешник
+trp_town_20_armorer|Доспешник
+trp_town_21_armorer|Доспешник
+trp_town_22_armorer|Доспешник
+trp_town_23_armorer|Доспешник
+trp_town_24_armorer|Доспешник
+trp_town_25_armorer|Доспешник
+trp_town_26_armorer|Доспешник
+trp_town_27_armorer|Доспешник
+trp_town_28_armorer|Доспешник
+trp_town_29_armorer|Доспешник
+; trp_town_30_armorer|Ingleri
+trp_town_1_weaponsmith|Оружейник
+trp_town_2_weaponsmith|Оружейник
+trp_town_3_weaponsmith|Оружейник
+trp_town_4_weaponsmith|Оружейник
+; trp_town_5_weaponsmith|Atli the Weaponsmith
+; trp_town_6_weaponsmith|Harenbili the Weaponsmith
+; trp_town_7_weaponsmith|Egil the Weaponsmith
+; trp_town_8_weaponsmith|Godgyfu the Weaponsmith
+; trp_town_9_weaponsmith|Uormuin the Weaponsmith
+trp_town_10_weaponsmith|Оружейник
+trp_town_11_weaponsmith|Оружейник
+trp_town_12_weaponsmith|Оружейник
+trp_town_13_weaponsmith|Оружейник
+trp_town_14_weaponsmith|Оружейник
+trp_town_15_weaponsmith|Оружейник
+trp_town_16_weaponsmith|Оружейник
+trp_town_17_weaponsmith|Оружейник
+trp_town_18_weaponsmith|Оружейник
+trp_town_19_weaponsmith|Оружейник
+trp_town_20_weaponsmith|Оружейник
+trp_town_21_weaponsmith|Оружейник
+trp_town_22_weaponsmith|Оружейник
+trp_town_23_weaponsmith|Оружейник
+trp_town_24_weaponsmith|Оружейник
+trp_town_25_weaponsmith|Оружейник
+trp_town_26_weaponsmith|Оружейник
+trp_town_27_weaponsmith|Оружейник
+trp_town_28_weaponsmith|Оружейник
+trp_town_29_weaponsmith|Оружейник
+; trp_town_30_weaponsmith|Ulfberht
+; trp_town_31_weaponsmith|Weland
+; trp_town_1_tavernkeeper|Host
+; trp_town_2_tavernkeeper|Host
+; trp_town_3_tavernkeeper|Host
+; trp_town_4_tavernkeeper|Host
+; trp_town_5_tavernkeeper|Host
+; trp_town_6_tavernkeeper|Host
+; trp_town_7_tavernkeeper|Host
+; trp_town_8_tavernkeeper|Host
+; trp_town_9_tavernkeeper|Host
+; trp_town_10_tavernkeeper|Host
+; trp_town_11_tavernkeeper|Host
+; trp_town_12_tavernkeeper|Host
+; trp_town_13_tavernkeeper|Host
+; trp_town_14_tavernkeeper|Host
+; trp_town_15_tavernkeeper|Host
+; trp_town_16_tavernkeeper|Host
+; trp_town_17_tavernkeeper|Host
+; trp_town_18_tavernkeeper|Host
+; trp_town_19_tavernkeeper|Host
+; trp_town_20_tavernkeeper|Host
+; trp_town_21_tavernkeeper|Host
+; trp_town_22_tavernkeeper|Host
+; trp_town_23_tavernkeeper|Host
+; trp_town_24_tavernkeeper|Host
+; trp_town_25_tavernkeeper|Host
+; trp_town_26_tavernkeeper|Host
+; trp_town_27_tavernkeeper|Host
+; trp_town_28_tavernkeeper|Host
+; trp_town_29_tavernkeeper|Host
+; trp_town_30_tavernkeeper|Casius
+trp_town_1_merchant|Торговец
+trp_town_2_merchant|Торговец
+trp_town_3_merchant|Торговец
+trp_town_4_merchant|Торговец
+trp_town_5_merchant|Торговец
+trp_town_6_merchant|Торговец
+; trp_town_7_merchant|Hogni
+trp_town_8_merchant|Торговец
+trp_town_9_merchant|Торговец
+trp_town_10_merchant|Торговец
+; trp_town_11_merchant|Adda
+trp_town_12_merchant|Торговец
+trp_town_13_merchant|Торговец
+trp_town_14_merchant|Торговец
+trp_town_15_merchant|Торговец
+trp_town_16_merchant|Торговец
+trp_town_17_merchant|Торговец
+trp_town_18_merchant|Торговец
+trp_town_19_merchant|Торговец
+trp_town_20_merchant|Торговец
+trp_town_21_merchant|Торговец
+trp_town_22_merchant|Торговец
+trp_town_23_merchant|Торговец
+trp_town_24_merchant|Торговец
+trp_town_25_merchant|Торговец
+trp_town_26_merchant|Торговец
+trp_town_27_merchant|Торговец
+trp_town_28_merchant|Торговец
+trp_town_29_merchant|Торговец
+; trp_salt_mine_merchant|Aeron ap Gareth
+; trp_salt_mine_merchant_pl|Aeron ap Gareth
+trp_town_1_horse_merchant|Табунщик
+trp_town_2_horse_merchant|Табунщик
+trp_town_3_horse_merchant|Табунщик
+trp_town_4_horse_merchant|Табунщик
+trp_town_5_horse_merchant|Табунщик
+trp_town_6_horse_merchant|Табунщик
+trp_town_7_horse_merchant|Табунщик
+trp_town_8_horse_merchant|Табунщик
+trp_town_9_horse_merchant|Табунщик
+trp_town_10_horse_merchant|Табунщик
+trp_town_11_horse_merchant|Табунщик
+trp_town_12_horse_merchant|Табунщик
+trp_town_13_horse_merchant|Табунщик
+trp_town_14_horse_merchant|Табунщик
+trp_town_15_horse_merchant|Табунщик
+trp_town_16_horse_merchant|Табунщик
+trp_town_17_horse_merchant|Табунщик
+trp_town_18_horse_merchant|Табунщик
+trp_town_19_horse_merchant|Табунщик
+trp_town_20_horse_merchant|Табунщик
+trp_town_21_horse_merchant|Табунщик
+trp_town_22_horse_merchant|Табунщик
+trp_town_23_horse_merchant|Табунщик
+trp_town_24_horse_merchant|Табунщик
+trp_town_25_horse_merchant|Табунщик
+trp_town_26_horse_merchant|Табунщик
+trp_town_27_horse_merchant|Табунщик
+trp_town_28_horse_merchant|Табунщик
+trp_town_29_horse_merchant|Табунщик
+; trp_town_1_mayor|Mayor
+; trp_town_2_mayor|Mayor
+; trp_town_3_mayor|Mayor
+; trp_town_4_mayor|Hallvard
+; trp_town_5_mayor|Mayor
+; trp_town_6_mayor|Mayor
+; trp_town_7_mayor|Mayor
+; trp_town_8_mayor|Mayor
+; trp_town_9_mayor|Mayor
+; trp_town_10_mayor|Mayor
+; trp_town_11_mayor|Mayor
+; trp_town_12_mayor|Mayor
+; trp_town_13_mayor|Mayor
+; trp_town_14_mayor|Mayor
+; trp_town_15_mayor|Mayor
+; trp_town_16_mayor|Mayor
+; trp_town_17_mayor|Mayor
+; trp_town_18_mayor|Mayor
+; trp_town_19_mayor|Mayor
+; trp_town_20_mayor|Mayor
+; trp_town_21_mayor|Mayor
+; trp_town_22_mayor|Donngal
+; trp_town_23_mayor|Mayor
+; trp_town_24_mayor|Mayor
+; trp_town_25_mayor|Mayor
+; trp_town_26_mayor|Mayor
+; trp_town_27_mayor|Mayor
+; trp_town_28_mayor|Mayor
+; trp_town_29_mayor|Mayor
+; trp_village_1_elder|Local Leader
+; trp_village_2_elder|Local Leader
+; trp_village_3_elder|Local Leader
+; trp_village_4_elder|Local Leader
+; trp_village_5_elder|Local Leader
+; trp_village_6_elder|Local Leader
+; trp_village_7_elder|Local Leader
+; trp_village_8_elder|Local Leader
+; trp_village_9_elder|Local Leader
+; trp_village_10_elder|Local Leader
+; trp_village_11_elder|Local Leader
+; trp_village_12_elder|Local Leader
+; trp_village_13_elder|Local Leader
+; trp_village_14_elder|Local Leader
+; trp_village_15_elder|Local Leader
+; trp_village_16_elder|Local Leader
+; trp_village_17_elder|Local Leader
+; trp_village_18_elder|Local Leader
+; trp_village_19_elder|Local Leader
+; trp_village_20_elder|Local Leader
+; trp_village_21_elder|Local Leader
+; trp_village_22_elder|Local Leader
+; trp_village_23_elder|Local Leader
+; trp_village_24_elder|Local Leader
+; trp_village_25_elder|Local Leader
+; trp_village_26_elder|Local Leader
+; trp_village_27_elder|Local Leader
+; trp_village_28_elder|Godiva the Elder
+; trp_village_29_elder|Local Leader
+; trp_village_30_elder|Local Leader
+; trp_village_31_elder|Local Leader
+; trp_village_32_elder|Local Leader
+; trp_village_33_elder|Local Leader
+; trp_village_34_elder|Local Leader
+; trp_village_35_elder|Local Leader
+; trp_village_36_elder|Local Leader
+; trp_village_37_elder|Local Leader
+; trp_village_38_elder|Local Leader
+; trp_village_39_elder|Local Leader
+; trp_village_40_elder|Local Leader
+; trp_village_41_elder|Local Leader
+; trp_village_42_elder|Local Leader
+; trp_village_43_elder|Local Leader
+; trp_village_44_elder|Local Leader
+; trp_village_45_elder|Local Leader
+; trp_village_46_elder|Local Leader
+; trp_village_47_elder|Local Leader
+; trp_village_48_elder|Local Leader
+; trp_village_49_elder|Local Leader
+; trp_village_50_elder|Local Leader
+; trp_village_51_elder|Local Leader
+; trp_village_52_elder|Local Leader
+; trp_village_53_elder|Wigmund the Elder
+; trp_village_54_elder|Local Leader
+; trp_village_55_elder|Local Leader
+; trp_village_56_elder|Local Leader
+; trp_village_57_elder|Local Leader
+; trp_village_58_elder|Local Leader
+; trp_village_59_elder|Local Leader
+; trp_village_60_elder|Local Leader
+; trp_village_61_elder|Local Leader
+; trp_village_62_elder|Local Leader
+; trp_village_63_elder|Local Leader
+; trp_village_64_elder|Local Leader
+; trp_village_65_elder|Local Leader
+; trp_village_66_elder|Pyr the Elder
+; trp_village_67_elder|Local Leader
+; trp_village_68_elder|Local Leader
+; trp_village_69_elder|Local Leader
+; trp_village_70_elder|Local Leader
+; trp_village_71_elder|Local Leader
+; trp_village_72_elder|Local Leader
+; trp_village_73_elder|Local Leader
+; trp_village_74_elder|Local Leader
+; trp_village_75_elder|Local Leader
+; trp_village_76_elder|Local Leader
+; trp_village_77_elder|Local Leader
+; trp_village_78_elder|Caliacas
+; trp_village_79_elder|Local Leader
+; trp_village_80_elder|Local Leader
+; trp_village_81_elder|Local Leader
+; trp_village_82_elder|Aesc the Elder
+; trp_village_83_elder|Local Leader
+; trp_village_84_elder|Local Leader
+; trp_village_85_elder|Local Leader
+; trp_village_86_elder|Local Leader
+; trp_village_87_elder|Local Leader
+; trp_village_88_elder|Local Leader
+; trp_village_89_elder|Local Leader
+; trp_village_90_elder|Local Leader
+; trp_village_91_elder|Local Leader
+; trp_village_92_elder|Local Leader
+; trp_village_93_elder|Local Leader
+; trp_village_94_elder|Local Leader
+; trp_village_95_elder|Local Leader
+; trp_village_96_elder|Local Leader
+; trp_village_97_elder|Local Leader
+; trp_village_98_elder|Ingolf the Elder
+; trp_village_99_elder|Oleif the Elder
+; trp_village_100_elder|Local Leader
+; trp_village_101_elder|Local Leader
+; trp_village_102_elder|Local Leader
+; trp_village_103_elder|Local Leader
+; trp_village_104_elder|Local Leader
+; trp_village_105_elder|Local Leader
+; trp_village_106_elder|Local Leader
+; trp_village_107_elder|Local Leader
+; trp_village_108_elder|Local Leader
+; trp_village_109_elder|Local Leader
+; trp_village_110_elder|Local Leader
+; trp_village_111_elder|Local Leader
+; trp_village_112_elder|Local Leader
+; trp_village_113_elder|Local Leader
+; trp_village_114_elder|Local Leader
+; trp_village_115_elder|Local Leader
+; trp_village_116_elder|Local Leader
+; trp_village_117_elder|Local Leader
+; trp_village_118_elder|Local Leader
+; trp_village_119_elder|Local Leader
+; trp_village_120_elder|Local Leader
+; trp_village_121_elder|Local Leader
+; trp_village_122_elder|Local Leader
+; trp_village_123_elder|Local Leader
+; trp_village_124_elder|Local Leader
+; trp_village_125_elder|Local Leader
+; trp_village_126_elder|Local Leader
+; trp_village_127_elder|Local Leader
+; trp_village_128_elder|Local Leader
+; trp_village_129_elder|Local Leader
+; trp_village_130_elder|Local Leader
+; trp_village_131_elder|Local Leader
+; trp_village_132_elder|Local Leader
+; trp_village_133_elder|Local Leader
+; trp_village_134_elder|Local Leader
+; trp_village_135_elder|Local Leader
+; trp_village_136_elder|Local Leader
+; trp_village_137_elder|Local Leader
+; trp_village_138_elder|Local Leader
+; trp_village_139_elder|Local Leader
+; trp_village_140_elder|Local Leader
+; trp_village_141_elder|Local Leader
+; trp_village_142_elder|Local Leader
+; trp_village_143_elder|Local Leader
+; trp_village_144_elder|Local Leader
+; trp_village_145_elder|Local Leader
+; trp_village_146_elder|Local Leader
+; trp_village_147_elder|Local Leader
+; trp_village_148_elder|Local Leader
+; trp_village_149_elder|Local Leader
+; trp_village_150_elder|Thonkrik
+; trp_monje_mercader|Monk merchant
+; trp_monje_mercader_pl|Monk merchants
+trp_merchants_end|merchants end
+trp_merchants_end_pl|merchants end
+; trp_town_1_healer|Physician
+; trp_town_2_healer|Physician
+; trp_town_3_healer|Physician
+; trp_town_4_healer|Physician
+; trp_town_5_healer|Physician
+; trp_town_6_healer|Physician
+; trp_town_7_healer|Physician
+; trp_town_8_healer|Physician
+; trp_town_9_healer|Physician
+; trp_town_10_healer|Physician
+; trp_town_11_healer|Physician
+; trp_town_12_healer|Physician
+; trp_town_13_healer|Physician
+; trp_town_14_healer|Physician
+; trp_town_15_healer|Physician
+; trp_town_16_healer|Physician
+; trp_town_17_healer|Physician
+; trp_town_18_healer|Physician
+; trp_town_19_healer|Physician
+; trp_town_20_healer|Physician
+; trp_town_21_healer|Physician
+; trp_town_22_healer|Physician
+; trp_town_23_healer|Physician
+; trp_town_24_healer|Physician
+; trp_town_25_healer|Physician
+; trp_town_26_healer|Physician
+; trp_town_27_healer|Physician
+; trp_town_28_healer|Physician
+; trp_town_29_healer|Physician
+; trp_town_30_healer|Physician
+; trp_healer_end|healer end
+; trp_town_1_shipwright|Shipwright
+; trp_town_2_shipwright|Shipwright
+; trp_town_3_shipwright|Shipwright
+; trp_port_chief|Port Master
+; trp_port_chief_pl|Port Masters
+; trp_town_5_shipwright|Kalle the Shipwright
+; trp_town_6_shipwright|Shipwright
+; trp_town_7_shipwright|Shipwright
+; trp_town_8_shipwright|Shipwright
+; trp_town_9_shipwright|Shipwright
+; trp_town_10_shipwright|Shipwright
+; trp_town_11_shipwright|Shipwright
+; trp_town_12_shipwright|Shipwright
+; trp_town_13_shipwright|Shipwright
+; trp_town_14_shipwright|Shipwright
+; trp_town_15_shipwright|Shipwright
+; trp_town_16_shipwright|Shipwright
+; trp_town_17_shipwright|Shipwright
+; trp_town_18_shipwright|Shipwright
+; trp_town_19_shipwright|Shipwright
+; trp_town_20_shipwright|Shipwright
+; trp_town_21_shipwright|Shipwright
+; trp_town_22_shipwright|Shipwright
+; trp_town_23_shipwright|Shipwright
+; trp_town_24_shipwright|Shipwright
+; trp_town_25_shipwright|Shipwright
+; trp_town_26_shipwright|Shipwright
+; trp_town_27_shipwright|Shipwright
+; trp_town_28_shipwright|Shipwright
+; trp_town_29_shipwright|Shipwright
+; trp_shipwright_end|Boar
+; trp_shipwright_end_pl|Boars
+; trp_town_1_master_craftsman|Craftsman
+; trp_town_2_master_craftsman|Craftsman
+; trp_town_3_master_craftsman|Craftsman
+; trp_town_4_master_craftsman|Craftsman
+; trp_town_5_master_craftsman|Craftsman
+; trp_town_6_master_craftsman|Craftsman
+; trp_town_7_master_craftsman|Craftsman
+; trp_town_8_master_craftsman|Craftsman
+; trp_town_9_master_craftsman|Craftsman
+; trp_town_10_master_craftsman|Craftsman
+; trp_town_11_master_craftsman|Craftsman
+; trp_town_12_master_craftsman|Craftsman
+; trp_town_13_master_craftsman|Craftsman
+; trp_town_14_master_craftsman|Craftsman
+; trp_town_15_master_craftsman|Craftsman
+; trp_town_16_master_craftsman|Craftsman
+; trp_town_17_master_craftsman|Craftsman
+; trp_town_18_master_craftsman|Craftsman
+; trp_town_19_master_craftsman|Craftsman
+; trp_town_20_master_craftsman|Craftsman
+; trp_town_21_master_craftsman|Craftsman
+; trp_town_22_master_craftsman|Craftsman
+; trp_town_23_master_craftsman|Craftsman
+; trp_town_24_master_craftsman|Craftsman
+; trp_town_25_master_craftsman|Craftsman
+; trp_town_26_master_craftsman|Craftsman
+; trp_town_27_master_craftsman|Craftsman
+; trp_town_28_master_craftsman|Craftsman
+; trp_town_29_master_craftsman|Craftsman
+trp_local_merchant|Местный торговец
+trp_local_merchant_pl|Местные торговцы
+trp_tax_rebel|Мятежный крестьянин
+trp_tax_rebel_pl|Мятежные крестьяне
+trp_trainee_peasant|Крестьянин
+trp_trainee_peasant_pl|Крестьяне
+trp_fugitive|Подозрительный тип
+trp_fugitive_pl|Подозрительные типы
+trp_belligerent_drunk|Пьяное чмо
+trp_belligerent_drunk_pl|Пьяное чмо
+; trp_hired_assassin|Traveler
+trp_hired_assassin_pl|Воинственный Дранк
+trp_fight_promoter|Грубо-выглядящий Характер
+trp_fight_promoter_pl|Грубо-выглядящий Характер
+trp_spy|Обычный горожанин
+trp_spy_pl|Обычные горожане
+trp_spy_partner|Неприметный горожанин
+trp_spy_partner_pl|Неприметные горожане
+; trp_camp_armory|Camp Armory
+; trp_camp_armory_pl|Camp Armory
+trp_nurse_for_lady|Нянюшка
+trp_nurse_for_lady_pl|Нянюшка
+trp_temporary_minister|Министр
+trp_temporary_minister_pl|Министр
+; trp_norse_multiplayer|Hirdman
+; trp_norse_multiplayer_pl|Hirdmen
+; trp_saxon_multiplayer|Geanata
+; trp_saxon_multiplayer_pl|Geanatas
+; trp_angle_multiplayer|Geanata
+; trp_angle_multiplayer_pl|Geanatas
+; trp_briton_multiplayer|Milwr
+; trp_briton_multiplayer_pl|Milwyr
+; trp_irish_multiplayer|Cliarthaire
+; trp_irish_multiplayer_pl|Cliarthairi
+; trp_scotch_multiplayer|Bruide
+; trp_scotch_multiplayer_pl|Bruides
+; trp_norse_capitan|Noble (Hersi)
+; trp_norse_capitan_pl|Nobles (Hersir)
+; trp_norse_elite|Elite Warrior (Huskarl)
+; trp_norse_elite_pl|Elite Warriors (Huskarlar)
+; trp_saxon_capitan|Noble (Thegn)
+; trp_saxon_capitan_pl|Nobles (Thegns)
+; trp_saxon_elite|Bodyguard (Hearthweru)
+; trp_saxon_elite_pl|Bodyguards (Hearthwerus)
+; trp_angle_capitan|Noble (Thegn)
+; trp_angle_capitan_pl|Nobles (Thegns)
+; trp_angle_elite|Bodyguard (Hearthweru)
+; trp_angle_elite_pl|Bodyguards (Hearthwerus)
+; trp_briton_capitan|Noble (Uchelwr)
+; trp_briton_capitan_pl|Nobles (Uchelwyr)
+; trp_briton_elite|Champion (Campiwr)
+; trp_briton_elite_pl|Champions (Campgwr)
+; trp_irish_capitan|Noble (Airig)
+; trp_irish_capitan_pl|Nobles (Arras)
+; trp_irish_elite|Bodyguard (Deaisbard)
+; trp_irish_elite_pl|Bodyguard (Deaisbards)
+; trp_scotch_capitan|Noble (Toisech)
+; trp_scotch_capitan_pl|Nobles (Toisechs)
+; trp_scotch_elite|Champion (Gaisgidh)
+; trp_scotch_elite_pl|Champions (Gaisgidhs)
+trp_nurse|Нянюшка
+; trp_quick_battle_troop_1|Bodo the Cantabrian
+; trp_quick_battle_troop_1_pl|Bodo the Cantabrian
+; trp_quick_battle_troop_2|Sven Bull Neck
+; trp_quick_battle_troop_2_pl|Sven Bull Neck
+; trp_quick_battle_troop_3|Cerball mac Dunlainge
+; trp_quick_battle_troop_3_pl|Cerball mac Dunlainge
+; trp_quick_battle_troop_4|Artorius
+; trp_quick_battle_troop_4_pl|Artorius
+; trp_quick_battle_troop_5|Cinead
+; trp_quick_battle_troop_5_pl|Cinead
+; trp_quick_battle_troop_6|Oswald
+; trp_quick_battle_troop_6_pl|Oswald
+; trp_quick_battle_troop_7|Hildr
+; trp_quick_battle_troop_7_pl|Hildr
+; trp_quick_battle_troops_cam|Camera
+; trp_quick_battle_troops_cam_pl|Camera
+; trp_tutorial_fighter_1|Novice Warrior
+trp_tutorial_fighter_1_pl|Новобранцы
+; trp_tutorial_fighter_2|Novice Warrior
+trp_tutorial_fighter_2_pl|Новобранцы
+; trp_tutorial_fighter_3|Regular Warrior
+trp_tutorial_fighter_3_pl|Новобранцы
+; trp_tutorial_fighter_4|Veteran Warrior
+trp_tutorial_fighter_4_pl|Новобранцы
+trp_tutorial_archer_1|Лучник
+trp_tutorial_archer_1_pl|Стрелки
+trp_tutorial_master_archer|Лучник Тренер
+trp_tutorial_master_archer_pl|Лучник Тренер
+trp_tutorial_rider_1|Ездок
+; trp_tutorial_rider_2|Horsewealas
+trp_tutorial_master_horseman|Тренер верховой езды
+trp_tutorial_master_horseman_pl|Тренер верховой езды
+trp_swadian_merchant|Торговец
+trp_vaegir_merchant|Торговец
+trp_khergit_merchant|Торговец
+; trp_nord_merchant|Healer
+trp_rhodok_merchant|Торговец
+trp_sarranid_merchant|Торговец
+trp_startup_merchants_end|startup merchants end
+trp_startup_merchants_end_pl|startup merchants end
+; trp_old_hero_boargrove|Old Hero
+; trp_old_hero_boargrove_pl|Old Heroes
+; trp_sea_raider_leader|Berserkr
+; trp_sea_raider_leader_pl|Berserkir
+; trp_looter_leader|Ulfhedinn
+; trp_looter_leader_pl|Ulfhednar
+trp_bandit_leaders_end|Главарь бандитов
+trp_bandit_leaders_end_pl|Главарь бандитов
+; trp_relative_of_merchant|Asturian Captain
+trp_relative_of_merchants_end|Брат торговца
+trp_relative_of_merchants_end_pl|Брат торговца
+; trp_sacerdote_lair|Priest Beda
+; trp_sacerdote_lair_pl|priest
+; trp_pagano_lair|Godi Olafr
+; trp_pagano_lair_pl|priest
+; trp_bardo_lair|Bard Siwi
+; trp_bardo_lair_pl|bard
+; trp_skald_lair|Skald Bragi
+; trp_skald_lair_pl|bard
+; trp_quastuosa_lair1|Suaibsech
+; trp_quastuosa_lair1_pl|quastuosa
+; trp_quastuosa_lair2|Tancoystl
+; trp_quastuosa_lair2_pl|quastuosa
+; trp_quastuosa_lair3|Gulla
+; trp_quastuosa_lair3_pl|quastuosa
+; trp_quastuosa_lair4|Eadgyd
+; trp_quastuosa_lair4_pl|quastuosa
+; trp_lair_barber1|Aurelius
+; trp_lair_barber1_pl|Aurelius
+; trp_lair_barber2|Morgan
+; trp_lair_barber2_pl|Morgan
+; trp_lair_barber3|Alexander
+; trp_lair_barber3_pl|Alexander
+; trp_lair_barber4|Ailill
+; trp_lair_barber4_pl|Ailill
+; trp_cook_lair|Wamba
+; trp_cook_lair_pl|Cook
+; trp_lair_captain|Marcus
+; trp_lair_captain_pl|Lair Captains
+; trp_mule_troop|The Frog
+; trp_mule_troop_pl|The Frog
+; trp_leader_playerrf|Veteran
+; trp_leader_playerrf_pl|Veteran
+; trp_mountain_bandit_leader|Wolf Heart
+; trp_mountain_bandit_leader_pl|Wolf Heart
+; trp_last_druid|Druid
+; trp_last_druid_pl|Druid
+; trp_old_roman|Old Roman
+; trp_old_roman_pl|Old Roman
+; trp_sea_raider_hero2|Captain Hero
+; trp_sea_raider_hero2_pl|Captain Hero
+; trp_desert_bandit_hero|Bandit King
+; trp_desert_bandit_hero_pl|Bandits Kings
+; trp_troll_bridge|Huge Man
+; trp_troll_bridge_pl|Huge Man
+; trp_elf_riddles|Short Man
+; trp_elf_riddles_pl|Short Man
+; trp_silo_gallaecia|Comes Silo of Gallaecia
+; trp_silo_gallaecia_pl|Silo of Gallaecia
+; trp_petrus_didaz|Dux Petrus Didaz
+; trp_petrus_didaz_pl|Dux Petro of Oveto
+; trp_gundinsalvo_cantabrian|Comes Gundinsalvo of Amaia
+; trp_gundinsalvo_cantabrian_pl|Comes Gundinsalvo of Amaia
+; trp_port_crew|Old Sea Captain
+; trp_port_crew_pl|SR Captains
+; trp_port_pirate|Slave Trader
+; trp_port_pirate_pl|Slave Traders
+; trp_fisher|Fisher
+; trp_fisher_pl|Fishers
+; trp_thiaderd|Thiaderd
+; trp_thiaderd_pl|Thiaderd
+; trp_sea_raider_prisoner|Ship Captain
+; trp_sea_raider_prisoner_pl|Captains
+; trp_doccinga_torturador|Torturer
+; trp_doccinga_torturador_pl|Torturers
+trp_leader_svenlair|Ярл Гаральд
+; trp_leader_svenlair_pl|Captains
+; trp_farmstead_prisoner|Prisoner
+; trp_farmstead_prisoner_pl|Prisoner
+; trp_sven_brother|Olvir White Hair
+; trp_sven_brother_pl|Olvir
+; trp_atli_eiriksson|Atli Eiriksson
+; trp_atli_eiriksson_pl|Atli
+; trp_sven_bull_neck|Sven Bull Neck
+; trp_sven_bull_neck_pl|Sven
+; trp_frisianship_merchant|Captain
+; trp_sailors|Woden Ric Sailor
+; trp_sailors_pl|Woden Ric Sailors
+; trp_mercenary_arqueros|Mercenary Archer
+; trp_mercenary_arqueros_pl|Mercenary Archers
+; trp_bodo_falso|Bodo
+; trp_bodo_falso_pl|Bodo
+; trp_your_tutorialwife|Mother
+; trp_your_tutorialwife_pl|Mother
+; trp_your_motherold|Aged Mother
+; trp_your_motherold_pl|Aged Mother
+; trp_ulf_thefarmer|Ulf
+; trp_hija_granja|Thora
+; trp_hija_granja_pl|Thora
+; trp_orm_robagranjas|Orm Svarti
+; trp_orm_robagranjas_pl|Orm Svarti
+; trp_pagano|Godi Olafr
+; trp_pagano_pl|Sacerdote
+; trp_pseudo_troop_01|Gjalfrmarr
+trp_pseudo_troop_01_pl|
+; trp_pseudo_troop_02|Eydendr
+trp_pseudo_troop_02_pl|
+; trp_pseudo_troop_03|Gunnmas
+trp_pseudo_troop_03_pl|
+; trp_pseudo_troop_04|Sundvargs
+; trp_pseudo_troop_04_pl|pt
+; trp_pseudo_troop_05|Unnswin
+; trp_pseudo_troop_05_pl|pt
+; trp_pseudo_troop_06|Bengrefill
+; trp_pseudo_troop_06_pl|pt
+; trp_pseudo_troop_07|Elgslagar
+; trp_pseudo_troop_07_pl|pt
+; trp_pseudo_troop_08|Arajo
+; trp_pseudo_troop_08_pl|pt
+; trp_pseudo_troop_09|Byrskids
+; trp_pseudo_troop_09_pl|pt
+; trp_pseudo_troop_end|Second Outfit
+; trp_pseudo_troop_end_pl|pseudo troop end
+; trp_the_snake|The Snake
+; trp_the_snake_pl|The Snake
+; trp_campeon_1|Aed mac Ainmerech
+; trp_campeon_1_pl|Aed mac Ainmerech
+; trp_campeon_2|Olchobar mac Cinaeda
+; trp_campeon_2_pl|Olchobar mac Cinaeda
+; trp_slave|Slave
+; trp_slave_pl|Slaves
+; trp_morrigan_npc|Morrigan
+; trp_morrigan_npc_pl|Morrigan
+; trp_dog|Dog
+; trp_dog_pl|Dogs
+; trp_caliacas_son|Bran mac Caliacas
+; trp_caliacas_son_pl|Bran mac Caliacas
+; trp_maelbresail_man|Fergus mac Cormaic
+; trp_maelbresail_man_pl|Fergus mac Cormaic
+; trp_maelbressail_nother|Mael Bresail's Mother
+; trp_maelbressail_nother_pl|Mael Bresail's Mother
+trp_mp_norse_peasant|Крестьянин
+trp_mp_norse_peasant_pl|Крестьянин
+trp_mp_saxon_peasant|Крестьянин
+trp_mp_saxon_peasant_pl|Крестьянин
+trp_mp_angle_peasant|Крестьянин
+trp_mp_angle_peasant_pl|Крестьянин
+trp_mp_briton_peasant|Крестьянин
+trp_mp_briton_peasant_pl|Крестьянин
+trp_mp_irish_peasant|Крестьянин
+trp_mp_irish_peasant_pl|Крестьянин
+trp_mp_scotch_peasant|Крестьянин
+trp_mp_scotch_peasant_pl|Крестьянин
+; trp_mp_norse_infantry|Norse Infantry
+trp_mp_norse_infantry_pl| 
+; trp_mp_norse_archer|Norse Archer
+trp_mp_norse_archer_pl| 
+; trp_mp_norse_cavalry|Norse Cavalry
+trp_mp_norse_cavalry_pl| 
+; trp_mp_saxon_infantry|Saxon Infantry
+trp_mp_saxon_infantry_pl| 
+; trp_mp_saxon_archer|Saxon Archer
+trp_mp_saxon_archer_pl| 
+; trp_mp_saxon_cavalry|Saxon Cavalry
+trp_mp_saxon_cavalry_pl| 
+; trp_mp_angle_infantry|Angle Infantry
+trp_mp_angle_infantry_pl| 
+; trp_mp_angle_archer|Angle Archer
+trp_mp_angle_archer_pl| 
+; trp_mp_angle_cavalry|Angle Cavalry
+trp_mp_angle_cavalry_pl| 
+; trp_mp_briton_infantry|Brittonic Infantry
+trp_mp_briton_infantry_pl| 
+; trp_mp_briton_archer|Brittonic Archer
+trp_mp_briton_archer_pl| 
+; trp_mp_briton_cavalry|Brittonic Cavalry
+trp_mp_briton_cavalry_pl| 
+; trp_mp_irish_infantry|Goidelic Infantry
+trp_mp_irish_infantry_pl| 
+; trp_mp_irish_archer|Goidelic Archer
+trp_mp_irish_archer_pl| 
+; trp_mp_irish_cavalry|Goidelic Cavalry
+trp_mp_irish_cavalry_pl| 
+; trp_mp_scotch_infantry|Pictish Infantry
+trp_mp_scotch_infantry_pl| 
+; trp_mp_scotch_archer|Pictish Archer
+trp_mp_scotch_archer_pl| 
+; trp_mp_scotch_cavalry|Pictish Cavalry
+trp_mp_scotch_cavalry_pl| 
+; trp_norse_peasant_ai|Norse Freedman (Leysingi)
+; trp_norse_peasant_ai_pl|Norse Freedmen (Leysingja)
+; trp_saxon_peasant_ai|Saxon Peasant (Gebur)
+; trp_saxon_peasant_ai_pl|Peasants (Geburas)
+; trp_angle_peasant_ai|Angle Peasant (Gebur)
+; trp_angle_peasant_ai_pl|Peasants (Geburas)
+; trp_briton_peasant_ai|Briton Serf (Aillt)
+; trp_briton_peasant_ai_pl|Briton Serfs (Aillts)
+; trp_irish_peasant_ai|Irish Serf (Senchleithe)
+; trp_irish_peasant_ai_pl|Irish Serfs (Senchleithe)
+; trp_scotch_peasant_ai|Pictish Peasant (Bachlach)
+; trp_scotch_peasant_ai_pl|Peasants (Bachlach)
+; trp_fake_berserker|Berserkr
+; trp_fake_berserker_pl|Berserkir

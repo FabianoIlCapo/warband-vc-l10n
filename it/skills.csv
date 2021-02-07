@@ -2,7 +2,7 @@ skl_trade|Commercio
 skl_trade_desc|Ogni livello di questa abilità riduce la penalità nelle compravendite del 5%%. (Abilità di Gruppo)
 skl_leadership|Comando
 skl_leadership_desc|Ogni punto incrementa il numero massimo di truppe che puoi comandare di 5 e riduce i salari delle truppe. (Abilità Del Comandante)
-skl_prisoner_management|Controllo dei prigionieri
+skl_prisoner_management|Gestione dei Prigionieri
 skl_prisoner_management_desc|Ogni livello incrementa di %d il numero massimo di prigionieri. (Abilità del Comandante)
 skl_reserved_1|Abilità riservata 1
 skl_reserved_1_desc|Questa è un'abilità riservata.
@@ -13,27 +13,27 @@ skl_reserved_3_desc|Questa è un'abilità riservata.
 skl_reserved_4|Abilità riservata 4
 skl_reserved_4_desc|Questa è un'abilità riservata.
 skl_persuasion|Persuasione
-skl_persuasion_desc|Questa abilità ti aiuta a convincere le persone ad accettare il tuo punto di vista. Si abbassa anche il livello minimo di relazione necessaria per ottenere che gli NPC facciano quello che vuoi. (Abilità Personale)
+skl_persuasion_desc|Questa abilità ti aiuta a convincere le persone ad accettare il tuo punto di vista. Inoltre abbassa il livello minimo di relazione necessaria per convincere gli NPC a fare quello che vuoi. (Abilità Personale)
 skl_engineer|Ingegneria
-skl_engineer_desc|Questa abilità ti permette di costruire macchine d'assedio o miglioramenti cittadini con maggiore efficienza. (Abilità di Gruppo)
-skl_first_aid|Pronto soccorso
+skl_engineer_desc|Questa abilità ti permette di costruire macchine d'assedio e miglioramenti cittadini con maggiore efficienza. (Abilità di Gruppo)
+skl_first_aid|Pronto Soccorso
 skl_first_aid_desc|Per ogni punto in questa abilità gli eroi recuperano il 5%% di salute persa in battaglia. (Abilità di Gruppo)
 skl_surgery|Chirurgia
 skl_surgery_desc|Ogni punto in questa abilità ti da il 4%% di probabilità che un membro della Compagnia, colpito mortalmente, venga ferito piuttosto che ucciso. (Abilità Di Gruppo)
-skl_wound_treatment|Curare ferite
-skl_wound_treatment_desc|Per ogni livello di questa abilità la velocità di guarigione della compagnia è incrementata del 20%%. Inoltre, ogni punto incrementa la probabilità che gravi ferite, guariranno meglio del 5%%. (Abilità Di Gruppo)
-skl_inventory_management|Gestione dell'inventario
-skl_inventory_management_desc|Per ogni punto in questa abilità la capacità dell'inventario viene aumentata di 6. (Abilità del Comandante)
+skl_wound_treatment|Curare Ferite
+skl_wound_treatment_desc|La velocità di guarigione della compagnia è incrementata del 20%% per ogni livello dell'abilità. Inoltre, ogni punto incrementa la probabilità che gravi ferite, guariscano meglio del 5%%. (Abilità Di Gruppo)
+skl_inventory_management|Gestione dell'Inventario
+skl_inventory_management_desc|Aumentà la capacità dell'inventario di +6 per ogni livello dell'abilità. (Abilità del Comandante)
 skl_spotting|Osservare
-skl_spotting_desc|Per ogni punto in questa abilità la capacità visiva della Compagnia aumenta del 10%%. (Abilità di Gruppo)
+skl_spotting_desc|La distanza visiva della Compagnia aumenta del 10%% per ogni livello dell'abilità. (Abilità di Gruppo)
 skl_pathfinding|Orientamento
-skl_pathfinding_desc|Per ogni punto in questa abilità la velocità della Compagnia aumenta del 3%%. (Abilità di Gruppo)
-skl_tactics|Tattica
-skl_tactics_desc|Ogni due punti di questa abilità incrementano il vantaggio iniziale in battaglia di 1. (Abilità di Gruppo)
-skl_tracking|Seguire le tracce
-skl_tracking_desc|Le orme sul terreno forniscono più informazioni. (Abilità di Gruppo)
+skl_pathfinding_desc|La velocità della Compagnia nella mappa aumenta del 3%% per livello dell'abilità. (Abilità di Gruppo)
+skl_tactics|Tattiche
+skl_tactics_desc|Ogni due punti di questa abilità incrementa il vantaggio iniziale in battaglia di 1. (Abilità di Gruppo)
+skl_tracking|Seguire Tracce
+skl_tracking_desc|Le tracce forniscono più informazioni. (Abilità di Gruppo)
 skl_trainer|Addestratore
-skl_trainer_desc|Ogni giorno, ciascun eroe con questa abilità, aggiunge dell'esperienza ad ogni altro membro della compagnia, il cui livello è minore del suo/sua. L'esperienza guadagnata ha questa progressione: {0,4,10,16,23,30}.  (Abilità Personale)
+skl_trainer_desc|Ogni giorno, ciascun eroe con questa abilità, aggiunge dell'esperienza ad ogni altro membro della compagnia, il cui livello è minore del suo. L'esperienza guadagnata ha questa progressione: {0,4,10,16,23,30}.  (Abilità Personale)
 skl_reserved_5|Abilità riservata 5
 skl_reserved_5_desc|Questa è un'abilità riservata.
 skl_reserved_6|Abilità riservata 6
@@ -43,19 +43,19 @@ skl_reserved_7_desc|Questa è un'abilità riservata.
 skl_reserved_8|Abilità riservata 8
 skl_reserved_8_desc|Questa è un'abilità riservata.
 skl_looting|Saccheggiare
-skl_looting_desc|Per ogni punto in questa abilità, la quantità della refurtiva ottenuta aumenta del 10%%. (Abilità di Gruppo)
-skl_horse_archery|Tiro con l'arco a cavallo
-skl_horse_archery_desc|Riduce la penalità del danno e della precisione nell'uso degli archi mentre si cavalca. (Abilità Personale)
+skl_looting_desc|Questa abilità aumenta il bottino ottenuto del 10%% per livello dell'abilità. (Abilità di Gruppo)
+skl_horse_archery|Tiro a Cavallo
+skl_horse_archery_desc|Riduce le penalità al danno e alla precisione nell'uso degli archi e delle armi da lancio a cavallo. (Abilità Personale)
 skl_riding|Cavalcare
-skl_riding_desc|Permette di montare cavalli che richiedono un'abilità maggiore e incrementa la velocità e la capacità di manovra. con un abilità di 4 o più puoi anche chiamare il tuo cavallo in battaglia con il tasto 'H'. (Abilità Personale)
+skl_riding_desc|Permette di montare cavalli che richiedono un'abilità maggiore e incrementa la velocità e la manovra. Con un abilità di 4 o più puoi anche chiamare il tuo cavallo in battaglia con il tasto 'H'. (Abilità Personale)
 skl_athletics|Atletica
 skl_athletics_desc|Migliora la velocità di corsa. (Abilità Personale)
 skl_shield|Scudo
-skl_shield_desc|Riduce i danni allo scudo (dell'8%% per punto Abilità) e migliora la copertura e la velocità nell'uso dello scudo. (Abilità Personale)
-skl_weapon_master|Maestria nelle armi
-skl_weapon_master_desc|Rende più facile avere una competenza con le armi, incrementa i limiti di competenza e migliora la velocità con scudo e copertura. i limiti hanno questa progressione: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Abilità Personale)
-skl_maintenance|Manutenzione delle armi
-skl_maintenance_desc|Una adeguata manutenzione del tuo equipaggiamento ridurrà la probabilità di danneggiarlo in battaglia. Ogni punto di questa abilità riduce la probabilità di danneggiamento del 7%%. (Abilità Di Gruppo)
+skl_shield_desc|Riduce i danni allo scudo (dell'8%% per punto abilità) e migliora la copertura e la velocità nel parare. (Abilità Personale)
+skl_weapon_master|Maestro d'Armi
+skl_weapon_master_desc|Rende più facile migliorare le competenze con le armi, aumenta i limiti di competenza e migliora la velocità con lo scudo e la copertura. i limiti hanno questa progressione: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Abilità Personale)
+skl_maintenance|Manutenzione delle Armi
+skl_maintenance_desc|Una adeguata manutenzione del tuo equipaggiamento ridurrà la probabilità di romperlo in battaglia. Ogni punto di questa abilità riduce la probabilità di rottura del 7%%. (Abilità Di Gruppo)
 skl_reserved_10|Abilità riservata 10
 skl_reserved_10_desc|Questa è un'abilità riservata.
 skl_reserved_11|Abilità riservata 11
@@ -64,17 +64,17 @@ skl_reserved_12|Abilità riservata 12
 skl_reserved_12_desc|Questa è un'abilità riservata.
 skl_reserved_13|Abilità riservata 13
 skl_reserved_13_desc|Questa è un'abilità riservata.
-skl_power_draw|Tiro potente
-skl_power_draw_desc|Maggiore efficienza del personaggio nell'uso di archi. Ogni punto abilità (fino a 4 oltre al livello richiesto dall'arma) incrementa i danni provocati del 14%%. (Abilità Personale)
-skl_power_throw|Lancio potente
-skl_power_throw_desc|Ogni punto incrementa del 10%% i danni provocati con armi da lancio. (Abilità Personale)
-skl_power_strike|Colpo potente
-skl_power_strike_desc|Ogni punto incrementa dell'8%% i danni provocati nei combattimenti corpo a corpo. (Abilità Personale)
+skl_power_draw|Tiro Potente
+skl_power_draw_desc|Consente al personaggio di usare archi più potenti. Ogni punto abilità (fino a 4 oltre al requisito dell'arma) incrementa i danni dell'arco del 14%%. (Abilità Personale)
+skl_power_throw|Lancio Potente
+skl_power_throw_desc|Ogni punto aumenta del 10%% i danni delle armi da lancio. (Abilità Personale)
+skl_power_strike|Colpo Potente
+skl_power_strike_desc|Ogni punto incrementa i danni corpo a corpo dell'8%%. (Abilità Personale)
 skl_ironflesh|Resistenza
 skl_ironflesh_desc|Ogni punto in questa abilità incrementa i punti ferita di +2. (Abilità Personale)
 skl_navigation|Navigazione
-skl_navigation_desc|La velocità del gruppo sul mare è incrementata del 5%% per livello abilità. (Abilità Di Gruppo)
-skl_sea_king|Lupo di mare
+skl_navigation_desc|La velocità della compagnia in mare aumenta del 5%% per livello abilità. (Abilità Di Gruppo)
+skl_sea_king|Lupo di Mare
 skl_sea_king_desc|Ogni punto incrementa il massimo numero di navi che puoi comandare (Abilità Del Comandante)
 skl_reserved_16|Abilità riservata 16
 skl_reserved_16_desc|Questa è un'abilità riservata.
