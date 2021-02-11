@@ -1,40 +1,40 @@
 ﻿
 ui_music_volume|Volume Musica:
-ui_sound_volume|Volume Suono:
+ui_sound_volume|Volume Suoni:
 ui_mouse_sensitivity|Sensibilità Mouse:
 ui_invert_mouse_y_axis|Inverti asse Y del Mouse:
 ui_enabled|Abilitato
 ui_disabled|Disabilitato
-ui_damage_to_player|Danno al giocatore:
-ui_reduced_to_1_over_4_easiest|Ridotto a 1/4 (Principiante)
-ui_reduced_to_1_over_2_easy|Ridotto a 1/2 (Semplice)
-ui_damage_to_friends|Danno agli alleati:
-ui_reduced_to_1_over_2_easiest|Ridotto a 1/2 (Principiante)
-ui_reduced_to_3_over_4_easy|Ridotto a 3/4 (Semplice)
+ui_damage_to_player|Danno al Giocatore:
+ui_reduced_to_1_over_4_easiest|Ridotto a 1/4 (Più semplice)
+ui_reduced_to_1_over_2_easy|Ridotto a 1/2 (Facile)
+ui_damage_to_friends|Danno agli Alleati:
+ui_reduced_to_1_over_2_easiest|Ridotto a 1/2 (Più semplice)
+ui_reduced_to_3_over_4_easy|Ridotto a 3/4 (Facile)
 ui_normal|Normale
 ui_combat_ai|IA Combattimenti:
 ui_combat_speed|Velocità di movimento e combattimento:
 ui_good|Buona
-ui_average_caps|Normale
-ui_poor|Povero
-ui_faster|Veloce
-ui_slower|Lenta
-ui_control_block_direction|Controllo dir. parata:
-ui_automatic_recommended|Automatica (raccomandata)
+ui_average_caps|Media
+ui_poor|Scarsa
+ui_faster|Più Veloce
+ui_slower|Più Lenta
+ui_control_block_direction|Controllo Dir. Parata:
+ui_automatic_recommended|Automatica
 ui_manual_easy|Manuale (Facile)
 ui_manual_hard|Manuale (Difficile)
 ui_by_mouse_movement|Dal movimento del Mouse
-ui_control_attack_direction|Controllo dir. attacco:
-ui_lance_control|Controllo della lancia:
+ui_control_attack_direction|Controllo Dir. Attacco:
+ui_lance_control|Controllo Lancia:
 ui_by_relative_enemy_position|Relativa alla posizione del nemico
 ui_by_inverse_mouse_movement|Dal movimento inverso del mouse
 ui_battle_size|Dimensione Battaglia (influenza le prestazioni):
-ui_show_attack_direction|Mostra la direzione dell'attacco
-ui_show_targeting_reticule|Mostra mirino
-ui_show_names_of_friendly_troops|Mostra il nome delle truppe alleate
+ui_show_attack_direction|Mostra Direzione Attacco
+ui_show_targeting_reticule|Mostra Mirino
+ui_show_names_of_friendly_troops|Mostra Stendardi sulle Truppe Alleate
 ui_report_damage|Riporta i danni
 ui_report_shot_difficulty|Riporta la difficoltà del tiro
-ui_difficulty_rating_percentage|Calcolo Difficoltà  = %d%%
+ui_difficulty_rating_percentage|Valutazione Difficoltà  = %d%%
 ui_controls|Controlli
 ui_video_options|Opzioni Video
 ui_done|Fatto
@@ -45,26 +45,26 @@ ui_unknown_unknownname|Sconosciuto - %s
 ui_entry_point_entrypointname|Punto d'ingresso %d
 ui_passage_menu_item_passagename|Passaggio (menu oggetto %d)
 ui_plant_plantname|Pianta - %s
-ui_export_file_for_character_playername_already_exists_overwrite_it|Il file esportato per il personaggio risulta già esistente. Sovrascriverlo?
+ui_export_file_for_character_playername_already_exists_overwrite_it|Il file esportato per il personaggio %s risulta già esistente. Sovrascriverlo?
 ui_yes|Sì
 ui_no|No
-ui_set_save_file_name|Inserire il nome per il salvataggio:
+ui_set_save_file_name|Insisci il nome per il salvataggio:
 ui_enter_new_name|Inserisci un nuovo nome:
 ui_export_character|Esporta Personaggio
 ui_import_character|Importa Personaggio
-ui_character_playername_exported_successfully|Personaggio esportato con successo.
-ui_character_playername_imported_successfully|Personaggio importato con successo.
+ui_character_playername_exported_successfully|Personaggio %s esportato con successo.
+ui_character_playername_imported_successfully|Personaggio %s importato con successo.
 ui_unable_to_open_import_file|Impossibile aprire file da importare.
 ui_are_you_sure_you_want_to_import_the_character|Sei sicuro di voler importare il personaggio?
 ui_unable_to_find_character_import_file|Impossibile trovare il file del personaggio da importare.
-ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|Warband è avviato in modalità demo. Prego, acquistare il gioco per importare un personaggio.
+ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|Mount&Blade è avviato in modalità demo. Per favore, acquista il gioco per importare un personaggio.
 ui_change_skin|Pelle
 ui_change_hair|Capelli
 ui_change_hair_color|Colore Capelli
 ui_change_beard|Barba
 ui_tutorial|Tutorial
-ui_tutorial_face_generator|Modifica il volto del personaggio con i pulsanti e gli slider. Per ruotare la testa, clicca e trascina il mouse.
-ui_restore|Ripristina
+ui_tutorial_face_generator|Modifica il volto del personaggio con i pulsanti e i cursori. Per ruotare la testa, clicca e trascina il mouse.
+ui_restore|Carica
 ui_cancel|Esci
 ui_delete|Elimina
 ui_confirm_delete_game|Sei sicuro di voler eliminare la partita?
@@ -81,8 +81,8 @@ ui_next|Avanti
 ui_prev|Indietro
 ui_learn|Impara
 ui_question_saving_policy|Quale sistema di salvataggio preferisci?
-ui_saving_policy_realistic|Realistico! Non permettere di uscire senza salvare!
-ui_saving_policy_nonrealistic|Permetti di uscire senza salvare.
+ui_saving_policy_realistic|Realistico! Non si esce senza salvare!
+ui_saving_policy_nonrealistic|Permettimi di uscire senza salvare.
 ui_tutorial_character_generation|Adesso inserisci il tuo nome e distribuisci gli attributi, le abilità e i punti arma. Puoi cliccare sulle varie abilità per sapere come esse influenzano il tuo personaggio.
 ui_str|FOR
 ui_agi|AGI
@@ -96,16 +96,16 @@ ui_intelligence|Intelligenza
 ui_charisma|Carisma
 ui_not_enough_attributetype_to_learn_this_skill|
 ui_explanation_one_handed_weapon|Competenza nell'uso di Spade, Asce e Mazze ad una mano.
-ui_explanation_two_handed_weapon|Competenza nell'uso di Spade a due mani, Asce Grandi e Mazze.
+ui_explanation_two_handed_weapon|Competenza nell'uso di Spade a due mani, Asce Grandi e Magli.
 ui_explanation_polearm|Competenza nell'uso di Armi con asta quali Lance, Picche, Bastoni, ecc.
 ui_explanation_archery|Competenza nell'uso degli Archi.
 ui_explanation_crossbow|Competenza nell'uso delle Balestre.
 ui_explanation_throwing|Competenza nell'uso delle armi da lancio quali Giavellotti, Coltelli, Pietre, ecc.
 ui_explanation_firearms|Competenza nell'uso delle fionde.
-ui_explanation_strength|Forza: Ogni punto aggiunge +1 a colpire. Le seguenti abilità non possono essere sviluppate oltre 1/2 di forza: Resistenza, Colpo Potente, Tiro Potente, Lancio Potente, gestione dell'inventario. Ogni 5 livelli, si ottiene un punto extra da aggiungere ai tuoi attributi.
-ui_explanation_agility|Agilità: Ogni punto dà cinque punti arma in più e aumenta leggermente la velocità di movimento. Le seguenti abilità non possono essere sviluppate oltre 1/2 dell'agilità: Maestro d'Armi, Osservazione, Atletica, Cavalcare, Orientamento, Saccheggio. Ogni 5 livelli, si ottiene un punto extra da aggiungere ai tuoi attributi.
-ui_explanation_intelligence|Intelligenza: Ogni punto di intelligenza dà immediatamente un punto abilità aggiuntivo. Le seguenti abilità non possono essere sviluppate oltre 1/2 di intelligenza: Addestratore, Seguire tracce, Tattiche, Curare Ferite, Chirurgia, Pronto Soccorso, Ingegneria, Navigazione, Manutenzione Arma. Ogni 5 livelli, si ottiene un punto extra da aggiungere ai tuoi attributi.
-ui_explanation_charisma|Carisma: Influenza nei dialoghi, seduzione e come gli altri ti vedono. Ogni punto aumenta il limite di dimensione d'esercito di +1. Le seguenti abilità non possono essere sviluppate oltre 1/2 di carisma: Lupo di Mare, Comando, Persuasione, Commercio. Ogni 5 livelli, si ottiene un punto extra da aggiungere ai tuoi attributi.
+ui_explanation_strength|Forza: Ogni punto aggiunge +1 ai punti ferita. Le seguenti abilità non possono essere sviluppate oltre 1/2 della forza: Resistenza, Colpo Potente, Tiro Potente, Lancio Potente e Gestione Inventario. Ogni 5 livelli ottieni un punto extra da aggiungere ai tuoi attributi.
+ui_explanation_agility|Agilità: Ogni punto dà cinque punti arma e aumenta leggermente la velocità di movimento. Le seguenti abilità non possono essere sviluppate oltre 1/2 dell'agilità: Maestro d'Armi, Osservazione, Atletica, Cavalcare, Orientamento e Saccheggio. Ogni 5 livelli ottieni un punto extra da aggiungere ai tuoi attributi.
+ui_explanation_intelligence|Intelligenza: Ogni punto di intelligenza dà immediatamente un punto abilità aggiuntivo. Le seguenti abilità non possono essere sviluppate oltre 1/2 dell'intelligenza: Addestratore, Seguire Tracce, Tattiche, Curare Ferite, Chirurgia, Pronto Soccorso, Ingegneria, Navigazione e Manutenzione Armi. Ogni 5 livelli ottieni un punto extra da aggiungere ai tuoi attributi.
+ui_explanation_charisma|Carisma: Influenza i dialoghi, la seduzione e come gli altri ti vedono. Ogni punto aumenta il limite della tua compagnia di +1. Le seguenti abilità non possono essere sviluppate oltre 1/2 del carisma: Lupo di Mare, Comando, Persuasione, Commercio. Ogni 5 livelli ottieni un punto extra da aggiungere ai tuoi attributi.
 ui_level|Livello: %d
 ui_xp|Esperienza: %d
 ui_next_level_at|Prossimo livello a: %d
@@ -114,23 +114,23 @@ ui_health|Punti Ferita: %d
 ui_attribute_points|Punti Attributi: %d
 ui_skill_points|Punti Abilità : %d
 ui_weapon_points|Punti Arma: %d
-ui_mission_losses_none| nessuno.
+ui_mission_losses_none| nulla.
 ui_mission_losses_wounded|feriti:
 ui_mission_losses_killed|uccisi:
 ui_party_losses|%s  : %d feriti --- %d uccisi di %d.
 ui_casualties_sustained|Perdite sostenute:
-ui_advantage_change|Possibilità di Vantaggio = %c%d
+ui_advantage_change|Cambio di Vantaggio = %c%d
 ui_overall_battle_casualties|Perdite complessive in battaglia:
-ui_advantage_outnumbered| Sei nettamente in svantaggio.
+ui_advantage_outnumbered| Sei disperatamente in inferiorità.
 ui_advantage_major_disadvantage| Sei notevolmente in svantaggio.
 ui_advantage_slight_disadvantage| Sei leggermente svantaggiato.
 ui_advantage_balanced| La situazione è bilanciata.
 ui_advantage_fair_advantage| Hai un leggero vantaggio.
-ui_advantage_greatly_favored| Le possibilità in battaglia ti favoriscono decisamente.
+ui_advantage_greatly_favored| Le probabilità della battaglia ti favoriscono decisamente.
 ui_tactical_advantage|Vantaggio Tattico: %d (%s)
 ui_order_group|Ordini:
 ui_question_save_changes|Hai cambiato i tuoi obiettivi. Vuoi salvarli?
-ui_yes_save|Sì, salvali
+ui_yes_save|Sì, salva
 ui_no_discard_changes|No, annulla i cambiamenti
 ui_everyone_control|Tutti!
 ui_everyone_around_control|Soldati vicini!
@@ -139,14 +139,14 @@ ui_question_give_up_fight|Ritirarsi dalla battaglia?
 ui_give_up|Ritirati
 ui_keep_fighting|Continua a combattere
 ui_question_leave_area|Lascia la zona
-ui_cant_retreat_there_are_enemies_nearby|Impossibile ritirarsi, i nemici sono troppo vicini!
+ui_cant_retreat_there_are_enemies_nearby|Impossibile ritirarsi, i nemici sono vicini!
 ui_question_retreat_battle|Ritirirarsi?
-ui_retreated_battle|%s è disperso e in fuga.
-ui_retreated_battle|%s è disperso e in fuga.
-ui_retreat|Ordina la ritirata
+ui_retreated_battle|%s è in fuga.
+ui_retreated_battle|%s è in fuga.
+ui_retreat|Ritirata
 ui_talk|Parla
-ui_duel|Duello
-ui_mount|Monta
+ui_duel|Duella
+ui_mount|Cavalca
 ui_riding_skill_not_adequate_to_mount|(Abilità Cavalcare insufficiente)
 ui_dismount|Smontate!
 ui_exit|Esci
@@ -163,12 +163,12 @@ ui_leave_area|Lascia la zona
 ui_reports|Alloggi
 ui_camp|Campo
 ui_terrain|Terreno
-ui_quests|Missioni
+ui_quests|Note
 ui_inventory|Inventario
 ui_character|Personaggio
 ui_party|Esercito
 ui_paused|Pausa
-ui_click_left_button_to_cancel_wait|Sto aspettando... (click sx per continuare)
+ui_click_left_button_to_cancel_wait|Aspettando... (clic sinistro per riprendere)
 ui_midnight|Mezzanotte
 ui_late_night|Notte Fonda
 ui_dawn|Alba
@@ -181,20 +181,20 @@ ui_dusk|Tramonto
 ui_evening|Sera
 ui_midnight|Mezzanotte
 ui_level_limit_reached|Nuovo livello raggiunto!
-ui_explanation_level_limit|Warband non è ancora stato attivato e sta funzionando in modalità demo. Con questa modalità, il gioco è limitato al Livello 7. Se vuoi continuare, ti preghiamo di riavviare il gioco e attivarlo con il codice seriale a 16 cifre incluso nella confezione del gioco. Dopo l'attivazione, potrai continuare a giocare da questo punto. Ora, Warband salverà la partita e si chiuderà.
+ui_explanation_level_limit|Salve avventuriero, Mount&Blade non è ancora stato attivato e sta funzionando in modalità demo. Con questa modalità il gioco è limitato al Livello 8. Per continuare a giocare riavvia il gioco e attivalo con il codice seriale a 16 cifre incluso nella confezione del gioco. Dopo l'attivazione puoi continuare a giocare da qui. Ora Mount&Blade salverà la tua partita e verrà chiuso.
 ui_time_limit_reached|Limite di tempo raggiunto!
-ui_explanation_time_limit|Warband non è ancora stato attivato e sta funzionando in modalità demo. Con questa modalità, il gioco è limitato a 30 giorni di gioco. Se vuoi continuare, ti preghiamo di riavviare il gioco e attivarlo con il codice seriale a 16 cifre incluso nella confezione del gioco. Dopo l'attivazione, potrai continuare a giocare da questo punto. Ora, Warband salverà la partita e si chiuderà.
+ui_explanation_time_limit|Salve avventuriero, Mount&Blade non è ancora stato attivato e sta funzionando in modalità demo. Con questa modalità il gioco è limitato a 30 giorni. Per continuare a giocare riavvia il gioco e attivalo con il codice seriale a 16 cifre incluso nella confezione del gioco. Dopo l'attivazione puoi continuare a giocare da qui. Ora Mount&Blade salverà la tua partita e verrà chiuso.
 ui_target_lost|Bersaglio perso
-ui_waiting|Aspetta 
-ui_travelling_to|Viaggia verso 
-ui_following|Segue 
-ui_accompanying|Accompagna 
-ui_running_from|Scappa da 
-ui_patrolling|Sorveglia 
-ui_patrolling_around|Osserva intorno 
-ui_holding|Tengono la Posizione
-ui_travelling|Viaggia 
-ui_fighting_against|Combatte contro 
+ui_waiting|Aspettando.
+ui_travelling_to|Viaggiando verso 
+ui_following|Seguendo 
+ui_accompanying|Accompagnando 
+ui_running_from|Scappando da 
+ui_patrolling|Sorvegliando 
+ui_patrolling_around|Pattugliando intorno 
+ui_holding|Tenendo la Posizione
+ui_travelling|Viaggiando 
+ui_fighting_against|Combattendo contro 
 ui_speed_equals|Velocità = %2.1f
 ui_defenders|Guarnigione:
 ui_prisoners|Prigionieri:
@@ -209,28 +209,28 @@ ui_return|Ritorna
 ui_no_cost|Nessun costo
 ui_rename|Rinomina
 ui_use|Usa
-ui_destroy|Destroy
-ui_destructible_target|Obiettivo distruttibile
-ui_tutorial_inventory|Questa è la schermata di commercio. Tieni premuto il tasto CTRL mentre clicchi con il mouse per vendere/acquistare velocemente un oggetto.
-ui_head_armor|Armatura Testa: %d
-ui_body_armor|Armatura Corpo: %d
-ui_leg_armor|Armatura Gambe: %d
+ui_destroy|Distruggi
+ui_destructible_target|Bersaglio distruttibile
+ui_tutorial_inventory|Questa è la schermata di commercio. Tieni premuto il tasto CTRL mentre clicchi con il mouse su un oggetto per venderlo o acquistarlo velocemente.
+ui_head_armor|Armatura della Testa: %d
+ui_body_armor|Armatura del Corpo: %d
+ui_leg_armor|Armatura delle Gambe: %d
 ui_encumbrance|Ingombro: %2.1f
 ui_you_dont_have_value|Non hai %s.
 ui_merchant_cant_afford_value|%s: Non posso permettermi %s. Ho solo %s.
-ui_merchant_pay_whatever|Ok, dammi quello che puoi.
-ui_merchant_think_of_something_else|Sta bene, mi riprendo qualcosa.
+ui_merchant_pay_whatever|Va bene, dammi quello che puoi.
+ui_merchant_think_of_something_else|Hmm. Fammi pensare a qualcos'altro.
 ui_dumping_value_items|%d oggetti saranno perduti per sempre, sei sicuro?
 ui_dumping_value_item|Un oggetto sarà perduto per sempre, sei sicuro?
-ui_question_slaughter_food_and_eat|Squartare %s e mangiarlo?
+ui_question_slaughter_food_and_eat|Macellare %s e mangiarlo?
 ui_money_value|Soldi: %s
 ui_dump|Scarta
-ui_outfit|Equipaggiamento
+ui_outfit|Vesti
 ui_arms|Armi
 ui_horse|Cavallo
 ui_food|Cibo
-ui_reclaim_your_sold_goods|Riprendi gli oggetti venduti prima di comprarne altri!
-ui_return_your_bought_goods|Riconsegna gli oggetti comprati prima di vendere!
+ui_reclaim_your_sold_goods|Reclama gli oggetti venduti prima di comprarlo!
+ui_return_your_bought_goods|Riconsegna gli oggetti comprati prima di venderlo!
 ui_polearm_no_shield|Arma con Asta (Senza Scudo)
 ui_polearm|Arma con Asta
 ui_two_handed|Due Mani
@@ -238,9 +238,9 @@ ui_two_handed_one_handed|Due Mani/Una Mano
 ui_one_handed|Una Mano
 ui_return_price|Prezzo di Ritorno: %d
 ui_sell_price|Prezzo di Vendita: %d
-ui_reclaim_price|Prezzo Recupero: %d
-ui_buying_price|Prezzo Acquisto: %d
-ui_default_item|Articolo di partenza
+ui_reclaim_price|Prezzo di Recupero: %d
+ui_buying_price|Prezzo di Acquisto: %d
+ui_default_item|Articolo Predefinito
 ui_buying_price_free|Prezzo d'acquisto: Gratis
 ui_weight|Peso: %2.1f
 ui_plus_value_to_head_armor|+%d alla Testa
@@ -258,39 +258,39 @@ ui_size|Dimensione: %d
 ui_weapon_reach|Portata Arma: %d
 ui_armor|Armatura: %d
 ui_speed|Velocità : %d
-ui_maneuver|Manovrabilità : %d
+ui_maneuver|Manovra: %d
 ui_charge|Carica: %d
 ui_hit_points|Punti Ferita: %d/%d
-ui_requires_value_difficulty|Requisiti %s: %d
+ui_requires_value_difficulty|Richiede %s: %d
 ui_bonus_against_shields|Bonus contro gli scudi
 ui_cant_be_used_to_block|Impossibile usare per parare
 ui_troop_cant_use_item|%s: Non posso usarlo!
-ui_notification_riding_skill_not_enough|La tua abilità cavalcare non è sufficiente per usare questo cavallo.
-ui_notification_requirements_not_met|Non hai i necessari attributi o abilità per usare quest'arma.
-ui_notification_payment_value|Pagherai %s.
+ui_notification_riding_skill_not_enough|La tua abilità Cavalcare non è sufficiente per usare questo cavallo.
+ui_notification_requirements_not_met|Non le abilità o gli attributi necessari per usare quest'arma.
+ui_notification_payment_value|Devi pagare %s.
 ui_notification_payment_receive_value|Riceverai %s.
-ui_one_handed_weapons|Armi ad Una Mano
+ui_one_handed_weapons|Armi a Una Mano
 ui_two_handed_weapons|Armi a Due Mani
 ui_polearms|Armi con Asta
-ui_archery|Archi
+ui_archery|Tiro con l'Arco
 ui_crossbows|Balestre
 ui_throwing|Armi da Lancio
 ui_firearms|Fionde
-ui_reset|Resetta
+ui_reset|Ripristina
 ui_release_one|Rilasciane uno
 ui_move_up|Muovi in Su
-ui_move_down| Muovi in Giù
+ui_move_down|Muovi in Giù
 ui_upgrade_one|Promuovi
 ui_party_skills|Abilità Compagnia
 ui_morale|Morale: %s
 ui_terrible|Terribile
-ui_very_low|Veramente Basso
+ui_very_low|Molto Basso
 ui_low|Basso
-ui_below_average|Insufficiente
+ui_below_average|Sotto la media
 ui_average|Normale
-ui_above_average|Più che Sufficiente
+ui_above_average|Sopra la media
 ui_high|Alto
-ui_very_high|Veramente Alto
+ui_very_high|Molto Alto
 ui_excellent|Eccellente
 ui_starving|Affamato! %d%%
 ui_weekly_cost_value|Costo Settimanale: %s
@@ -302,7 +302,7 @@ ui_rescued_prisoners|Prigionieri Liberati
 ui_captured_enemies|Nemici Catturati
 ui_disband|Congeda
 ui_take_prisoner|Prendi Prigioniero
-ui_take_back|Riprendere
+ui_take_back|Riprendi
 ui_give|Dai
 ui_take|Prendi
 ui_sell|Vendi
@@ -311,47 +311,47 @@ ui_notification_cant_hire|(Impossibile reclutare: Soldi insufficienti!)
 ui_uncapture|Rilascia
 ui_capture|Cattura
 ui_party_capcity_reached|(Limite truppe raggiunto)
-ui_all|Tutti
+ui_all| tutti
 ui_joining_cost_weekly_wage|Costo reclute: %d, Salario settimanale: %d
 ui_weekly_wage|Stipendio settimanale: %d peningas
 ui_price|Prezzo: %d
 ui_number_ready_to_upgrade|%d pronti alla promozione.
-ui_upgrade_to_value| Eseguire l'aggiornamento a %s (%dp)
-ui_notification_no_slot_for_upgrade|Nessuna posizione per promuovere a %s!
+ui_upgrade_to_value| Migliora a %s (%dp)
+ui_notification_no_slot_for_upgrade|Nessuno spazio per promuovere a %s!
 ui_shield_broken|Scudo rotto
 ui_shield_cracked|Scudo incrinato
 ui_shield_deformed|Scudo rotto
 ui_you_hit_a_friendly_troop|Hai colpito un alleato!
 ui_hit_shield_on_back|Colpito lo scudo sulla schiena!
-ui_delivered_couched_lance_damage|Procurato danno da lancia in testa!
-ui_received_couched_lance_damage|Ricevuto danno da lancia in testa!
+ui_delivered_couched_lance_damage|Inflitto danno da lancia in resta!
+ui_received_couched_lance_damage|Ricevuto danno da lancia in resta!
 ui_speed_bonus_plus|Bonus velocità : +%d%%
 ui_speed_bonus|Bonus velocità : %d%%
-ui_cant_reload_this_weapon_on_horseback|Non puoi ricaricare a cavallo.
+ui_cant_reload_this_weapon_on_horseback|Non puoi ricaricare quest'arma a cavallo.
 ui_no_more_bolts|Non hai più proiettili...
-ui_you_are_not_carrying_any_bolts|Non hai nessun proiettile.
+ui_you_are_not_carrying_any_bolts|Non hai con te nessun proiettile.
 ui_no_more_arrows|Non hai più frecce...
-ui_you_are_not_carrying_any_arrows|Non hai indossato la faretra delle frecce!
+ui_you_are_not_carrying_any_arrows|Non hai con te nessuna freccia!
 ui_head_shot|Colpo alla Testa!
 ui_delivered_number_damage|Inflitti %d danni.
 ui_delivered_number_damage_to_horse|Inflitti %d danni al cavallo.
 ui_horse_charged_for_number_damage|Danno da carica: %d danni.
 ui_received_number_damage|Ricevuti %d danni.
 ui_horse_received_number_damage|Il cavallo ha ricevuto %d danni.
-ui_value_killed_teammate|%s ha ucciso un compagno di squadra!
+ui_value_killed_teammate|%s ha ucciso un alleato!
 ui_horse_fell_dead|Il Cavallo è morto...
 ui_horse_crippled|Cavallo azzoppato...
-ui_shot_difficulty|Difficoltà tiro: %2.1f
-ui_you_have_improved_your_proficiency_in_value_to_number|Competenza in %s aumentata a %d.
-ui_your_proficiency_in_value_has_improved_by_number_to_number|Competenza in %s è aumentata di +%d a %d.
+ui_shot_difficulty|Difficoltà del tiro: %2.1f
+ui_you_have_improved_your_proficiency_in_value_to_number|La tua competenza in %s è aumentata a %d.
+ui_your_proficiency_in_value_has_improved_by_number_to_number|La tua competenza in %s è aumentata di +%d fino a %d.
 ui_value_killed_by_value|%s ucciso da %s.
 ui_value_fell_dead|%s cade morto.
 ui_value_knocked_unconscious_by_value|%s stordito da %s.
 ui_value_fell_unconscious|%s cade stordito.
-ui_troop_routed|%s è disperso e in fuga.
+ui_troop_routed|%s è in fuga.
 ui_troop_panicked|%s è terrorizzato.
-ui_troop_fled|%s si è allontanato dalla battaglia.
-ui_you_got_number_experience|Hai acquisito %d punti esperienza.
+ui_troop_fled|%s è fuggito dalla battaglia.
+ui_you_got_number_experience|Hai ottenuto %d punti esperienza.
 ui_you_have_advanced_to_level_number|Hai raggiunto il livello %d.
 ui_value_has_advanced_to_level_number|%s è avanzato al livello %d.
 ui_you_got_value|Hai preso %s.
@@ -366,9 +366,9 @@ ui_items_lost| (Oggetto perso:
 ui_party_has_nothing_to_eat|La Compagnia non ha niente da mangiare!
 ui_days_training_is_complete| Addestramento giornaliero concluso...
 ui_total_experience_gained_through_training_number| Esperienza acquisita dall'addestramento: %d
-ui_some_soldiers_are_ready_to_upgrade| Controlla la lista delle promozioni.
-ui_number_of_companions_exceeds_leadership_limit| Il numero di compagni supera le tue capacità di comando.
-ui_number_of_prisoners_exceeds_prisoner_management_limit| Il numero di prigionieri supera le tue capacità di controllo prigionieri.
+ui_some_soldiers_are_ready_to_upgrade| Alcuni soldati sono pronti per la promozione.
+ui_number_of_companions_exceeds_leadership_limit| Il numero di compagni supera il tuo Comando.
+ui_number_of_prisoners_exceeds_prisoner_management_limit|Il numero di prigionieri supera la tua abilità Gestione Prigionieri.
 ui_party_morale_is_low| Il morale delle truppe è basso!
 ui_and_one_space| e 
 ui_has_deserted_the_party| ha abbandonato la Compagnia.
@@ -377,36 +377,36 @@ ui_weekly_report| Rapporto settimanale
 ui_shared_number_experience_within_party| Condivisi %d punti esperienza con le truppe.
 ui_got_item_value| Preso oggetto: %s.
 ui_game_saved_successfully|Partita salvata con successo.
-ui_autosaving| Salvataggio Automatico...
-ui_quick_saving| Salvataggio Veloce...
-ui_cant_quick_save| Non puoi fare un Salvataggio Veloce durante la battaglia...
-ui_screenshot_taken_to_value| Screenshot salvato in %s
-ui_screenshot_failed| Non puoi salvare lo screenshoot.
-ui_value_joined_your_party|%s si è unito al gruppo.
+ui_autosaving|Salvataggio Automatico...
+ui_quick_saving|Salvataggio Veloce...
+ui_cant_quick_save|Non puoi fare un Salvataggio Veloce durante la battaglia...
+ui_screenshot_taken_to_value|Screenshot salvato in %s
+ui_screenshot_failed|Non puoi salvare lo screenshoot.
+ui_value_joined_your_party|%s si è unito alla compagnia.
 ui_value_joined_party_as_prisoner|%s è diventato tuo prigioniero.
-ui_value_has_joined_party|%s si è unito al gruppo.
-ui_value_has_been_taken_prisoner|%s è stato preso come prigioniero.
-ui_value_left_the_party|%s lascia la Compagnia.
-ui_number_values_left_the_party|%d %s(i) lasciano il gruppo.
-ui_number_value_left_the_party|%d %s lascia il gruppo.
-ui_your_relations_with_value_has_improved_from_number_to_number| Le tue relazioni con %s sono migliorate da %d a %d.
-ui_your_relations_with_value_has_deteriorated_from_number_to_number| Le tue relazioni con %s sono peggiorate da %d a %d.
-ui_you_lost_value| Ora hai %s in meno.
-ui_lost_item_value| Oggetto perso: %s.
-ui_got_number_value| Preso %d %s.
-ui_lost_number_value| Perso %d %s.
+ui_value_has_joined_party|%s si è unito alla compagnia.
+ui_value_has_been_taken_prisoner|%s è stato preso prigioniero.
+ui_value_left_the_party|%s ha lasciato la compagnia.
+ui_number_values_left_the_party|%d %s(i) lasciano la compagnia.
+ui_number_value_left_the_party|%d %s lascia la compagnia.
+ui_your_relations_with_value_has_improved_from_number_to_number|La tua relazione con %s è migliorata da %d a %d.
+ui_your_relations_with_value_has_deteriorated_from_number_to_number|La tua relazione con %s è peggiorata da %d a %d.
+ui_you_lost_value|Hai perso %s.
+ui_lost_item_value|Oggetto perso: %s.
+ui_got_number_value|Preso %d %s.
+ui_lost_number_value|Perso %d %s.
 ui_set_default_keys|Controlli predefiniti
 ui_undo_changes|Annulla modifiche
 ui_press_a_key|Premi un tasto
 ui_return_to_game|Ritorna al gioco
 ui_options|Opzioni
 ui_save_and_exit|Salva & Esci
-ui_save| Salva
+ui_save|Salva
 ui_save_as|Salva come
 ui_quit_without_saving|Esci senza salvare
 ui_empty_slot|Spazio vuoto
 ui_game_saved|Partita salvata...
-ui_confirm_overwrite|Il Salvataggio %s sarà sovrascritto. Sei sicuro?
+ui_confirm_overwrite|Il salvataggio %s verrà sovrascritto. Sei sicuro?
 ui_dynamic_lighting|Luci dinamiche
 ui_character_shadows|Ombre personaggio
 ui_grass_density|Densità erba:
@@ -417,8 +417,8 @@ ui_gamma|Livello Gamma:
 ui_character_detail|Dettaglio personaggio:
 ui_character_shadow_detail|Dettagli ombra personaggio:
 ui_blood_stains|Macchie di sangue:
-ui_on|Acceso
-ui_off|Spento
+ui_on|On
+ui_off|Off
 ui_near_player_only|Solo vicino al personaggio
 ui_default|Predefinito
 ui_3d_grass|Erba 3D:
@@ -429,17 +429,17 @@ ui_anisotropic_filtering|Filtro anisotropico
 ui_fast_water_reflection|Riflessi acqua veloci
 ui_maximum_framerate|Frame-rate massimo:
 ui_show_framerate|Mostra frame-rate:
-ui_estimated_performance|Performance stimate: %d%%
-ui_change_graphics_settings_explanation|Alcuni cambiamenti saranno resi effettivi solo quando giungerai in una nuova area.
-ui_start_tutorial|Gioca il tutorial
-ui_start_a_new_game|Inizia una nuova partita
-ui_restore_a_saved_game|Carica una partita salvata
+ui_estimated_performance|Prestazioni Stimate: %d%%
+ui_change_graphics_settings_explanation|Alcuni cambiamenti saranno effettivi quando entrerai in una nuova area.
+ui_start_tutorial|Gioca il Tutorial
+ui_start_a_new_game|Inizia una Nuova Partita
+ui_restore_a_saved_game|Carica Partita
 ui_exit_to_windows|Esci
 ui_credits|Crediti
-ui_version_value|Ver. %s
+ui_version_value|v%s
 ui_active_quests|Missioni attive
-ui_finished_quests|Missioni finite
-ui_given_on_date|Data da: %s
+ui_finished_quests|Missioni Completate
+ui_given_on_date|Data il: %s
 ui_days_since_given|Giorni decorsi: %d
 ui_quest_progression_number|Progresso missione: %d%%
 ui_too_many_quests|Troppe missioni
@@ -453,7 +453,7 @@ ui_jump|Salta
 ui_attack|Attacca
 ui_parry_then_attack|Contrattacca
 ui_defend|Difendi
-ui_kick|Calcio
+ui_kick|Calcia
 ui_equip_weapon_1|Sel. oggetto 1
 ui_equip_weapon_2|Sel. oggetto 2
 ui_equip_weapon_3|Sel. oggetto 3
@@ -468,9 +468,9 @@ ui_quests_window|Finestra missioni
 ui_game_log_window|Finestra diario
 ui_leave_location_retreat|Lascia Luogo/Ritirati
 ui_zoom|Zoom
-ui_view_outfit|Guarda equipaggiamento
+ui_view_outfit|Vedi Vestiario
 ui_toggle_first_person_view|Cambia in prima persona
-ui_view_orders|Guarda ordini
+ui_view_orders|Vedi Ordini
 ui_quick_save|Salvataggio veloce
 ui_no_key_assigned|Nessun tasto assegnato
 ui_new_enemies_have_arrived|Sono arrivati nuovi nemici.
@@ -497,18 +497,18 @@ ui_blunt_short|B
 ui_battle|Battaglia
 ui_siege|Assedio
 ui_troops|Truppe:
-ui_loading_module_info_file|Caricamento del file module info in corso...
-ui_processing_ini_file|Elaborazione del File Ini in corso...
-ui_loading_music|Caricamento delle musiche in corso...
-ui_loading_data|Caricamento dei dati in corso...
-ui_loading_setting_data|Caricamento delle impostazioni dei dati in corso...
-ui_loading_textures|Caricamento delle textures in corso...
+ui_loading_module_info_file|Caricamento file Module Info...
+ui_processing_ini_file|Elaborazione file INI...
+ui_loading_music|Caricamento Musica...
+ui_loading_data|Caricamento Dati...
+ui_loading_setting_data|Caricamento Dati Impostazioni...
+ui_loading_textures|Caricamento Textures...
 ui_finished|Completato.
-ui_creating_game|Creazione della partita in corso...
-ui_loading_savegame_file|Caricamento del salvataggio in corso...
-ui_loading_map_file|Caricamento della mappa in corso...
-ui_initializing_map|Inizializzazione della mappa in corso...
-ui_launching_game|Avvio del gioco in corso...
+ui_creating_game|Creazione partita...
+ui_loading_savegame_file|Caricamento File Salvataggio...
+ui_loading_map_file|Caricamento File Mappa...
+ui_initializing_map|Inizializzazione Mappa...
+ui_launching_game|Avvio del Gioco...
 ui_capital_battle|BATTAGLIA:
 ui_capital_versus|--CONTRO--
 ui_tracks|Tracce
@@ -520,61 +520,61 @@ ui_order_4|Scelta Ordine 4
 ui_order_5|Scelta Ordine 5
 ui_order_6|Scelta Ordine 6
 ui_order_button_hold_this_position|Tenete questa posizione
-ui_order_button_follow_me|Ordina di essere seguito
+ui_order_button_follow_me|Seguitemi
 ui_order_button_charge|Carica!
-ui_order_button_stand_ground|Ordina di stare a terra
-ui_order_button_retreat|Ordina la ritirata
-ui_order_button_advance|Ordina di avanzare di dieci passi
-ui_order_button_fall_back|Ordina di indietreggiare di dieci passi
-ui_order_button_spread_out|Ordina il distanziamento
-ui_order_button_stand_closer|Ordina il raggruppamento
-ui_order_button_mount_horses|Ordina di montare a cavallo
+ui_order_button_stand_ground|Restare a terra
+ui_order_button_retreat|Ritirata
+ui_order_button_advance|Avanzare di dieci passi
+ui_order_button_fall_back|Indietreggiare di dieci passi
+ui_order_button_spread_out|Distanziatevi
+ui_order_button_stand_closer|Restare vicini
+ui_order_button_mount_horses|Montare a cavallo
 ui_order_button_dismount|Smontate!
-ui_order_button_hold_fire|Ordina di smettere di tirare
-ui_order_button_fire_at_will|Ordina di tirare a volontà
-ui_order_button_use_blunt_weapons|Ordina di utilizzare solo armi contundenti
-ui_order_button_use_any_weapon|Ordina di usare qualsiasi arma
+ui_order_button_hold_fire|Smettere di tirare
+ui_order_button_fire_at_will|Tirare a volontà
+ui_order_button_use_blunt_weapons|Usare solo armi contundenti
+ui_order_button_use_any_weapon|Usare qualsiasi arma
 ui_order_button_movement_orders|Ordini di movimento
 ui_order_button_formation_orders|Ordini di formazione
-ui_order_button_fire_orders|Ordini d'attacco
-ui_follow_me_e_|%s, Seguitemi!
-ui_charge_e_|%s, Carica!!!
-ui_stand_ground_e_|%s, Per terra!
-ui_retreat_e_|%s, Ritirata!
-ui_mount_horses_e_|%s, Montare a cavallo!
-ui_dismount_e_|%s, Smontare da cavallo!
-ui_advance_e_|%s, Avanzare di dieci passi!
-ui_fall_back_e_|%s, Ripiegare di dieci passi!
-ui_stand_closer_e_|%s, Serrate i ranghi!
-ui_spread_out_e_|%s, Distanziatevi!
-ui_use_blunt_weapons_e_|%s, Usate armi contundenti!
-ui_use_any_weapon_e_|%s, Armi a libera scelta!
-ui_hold_fire_e_|%s, Non tirate!
-ui_fire_at_will_e_|%s, Tirate a volontà!
-ui_hold_this_position_e_|%s, Tenete questa posizione!
+ui_order_button_fire_orders|Ordini di tiro
+ui_follow_me_e_|%s, seguitemi!
+ui_charge_e_|%s, carica!!!
+ui_stand_ground_e_|%s, restate a terra!
+ui_retreat_e_|%s, ritirata!
+ui_mount_horses_e_|%s, montate a cavallo!
+ui_dismount_e_|%s, smontate!
+ui_advance_e_|%s, avanzate di dieci passi!
+ui_fall_back_e_|%s, ripiegate di dieci passi!
+ui_stand_closer_e_|%s, serrate i ranghi!
+ui_spread_out_e_|%s, distanziatevi!
+ui_use_blunt_weapons_e_|%s, usate solo armi contundenti!
+ui_use_any_weapon_e_|%s, usate armi qualsiasi!
+ui_hold_fire_e_|%s, smettete di tirare!
+ui_fire_at_will_e_|%s, tirate a volontà!
+ui_hold_this_position_e_|%s, tenete questa posizione!
 ui_infantry|Fanteria
 ui_archers|Arcieri
 ui_cavalry|Cavalleria
 ui_companions|Compagni
-ui_everyone_hear_me|Tutti Quanti, ascoltate!
+ui_everyone_hear_me|Tutti quanti, ascoltatemi!
 ui_everyone|Tutti quanti
 ui_everyone_around_me|Soldati vicini
-ui_str_hear_me|%s, Ascoltatemi!
+ui_str_hear_me|%s, ascoltatemi!
 ui_str_and_str|%s e %s
 ui_str_comma_str|%s, %s
-ui_need_to_learn_prisoner_management|Il numero dei prigionieri è determinato dalla dimensione del tuo esercito.
-ui_game_log|Registro del gioco
+ui_need_to_learn_prisoner_management|Il numero dei prigionieri è determinato dalla grandezza del tuo esercito.
+ui_game_log|Registro di Gioco
 ui_recent_messages|Messaggi recenti
-ui_custom_battle|Battaglia veloce
+ui_custom_battle|Battaglia Personalizzata
 ui_player|Giocatore
 ui_value_denars|%d peningas
 ui_back|Indietro
 ui_forward|Avanti
 ui_display_on_map|Mostra sulla mappa
 ui_info_pages|Concetti del gioco
-ui_troops2|Personaggio
+ui_troops2|Personaggi
 ui_locations|Luoghi
-ui_click_button_to_view_note|Clicca su un tasto per vedere le note
+ui_click_button_to_view_note|Clicca su un collegamento per vedere le note
 ui_this_page_contains_no_information|Questa pagina non contiene informazioni
 ui_other_pages_that_link_here|Altre pagine che conducono qui: 
 ui_report_is_value_days_old| (Rapporto vecchio di %d giorni)
@@ -589,11 +589,11 @@ ui_quick|Veloce
 ui_none|Nessuno
 ui_change|Cambia
 ui_how_to_change|Come vuoi cambiarlo?
-ui_change_directx_explanation|Puoi cambiare il metodo di renderizzazione tra DirectX 7 e DirectX 9 cliccando sul tasto Configura dal menu di lancio che appare prima di lanciare il gioco.
+ui_change_directx_explanation|Puoi cambiare il metodo di renderizzazione tra DirectX 7 e DirectX 9 cliccando sul pulsante Configura nel menu principale che appare quando avvii per la prima volta gioco.
 ui_dropping_picking_up|Lasciato %s Preso %s.
 ui_dropping|Lasciato %s.
 ui_picking_up|Preso %s.
-ui_unable_to_take|Impossibile da prendere.
+ui_unable_to_take|Impossibile prenderlo.
 ui_age|Anni
 ui_cannot_be_used_on_horseback|Impossibile da usare a cavallo
 ui_enable_vertex_shaders2|Metodo render:
@@ -603,7 +603,7 @@ ui_shadow_quality2|Qualità delle ombre:
 ui_m_low2|Basso
 ui_m_high2|Alto
 ui_m_ultra_high2|Molto alto
-ui_off2|Spento
+ui_off2|Off
 ui_group_header|Tipo di soldato
 ui_group_rename|Rinomina gruppo
 ui_group_1|Fanteria
@@ -612,27 +612,27 @@ ui_group_3|Cavalleria
 ui_group_4|Lancieri
 ui_group_5|Schermagliatori
 ui_group_6|Arcieri a cavallo
-ui_group_7|Unnamed 1
-ui_group_8|Unnamed 2
-ui_group_9|Unnamed 3
+ui_group_7|Senza Nome 1
+ui_group_8|Senza Nome 2
+ui_group_9|Senza Nome 3
 ui_group_rename|Rinomina gruppo
 ui_group_close|Chiudi
 ui_party_b_group_information|%s appartiene ora al gruppo %s
 ui_thrown_or_s|Arma da lancio/%s
 ui_ranged_damage|Danno da lancio: %d%s
-ui_overall_quality|Overall Quality
-ui_shader_quality|Shader Quality:
-ui_flora_lod_detail|Dettagli flora:
+ui_overall_quality|Qualità Generale
+ui_shader_quality|Qualità Shader:
+ui_flora_lod_detail|Dettagli Alberi:
 ui_flora_degrade_distance|Distanza degrado vegetazione:
 ui_antialiasing|AntiAliasing:
 ui_use_depth_effects|Usa effetti di profondità
-ui_hdr_mode|HDR Mode:
+ui_hdr_mode|Modalità HDR:
 ui_autoexpore|Esposizione automatica
 ui_choose_profile|Scegli il profilo
 ui_create|Crea
 ui_edit|Modifica
 ui_join_game|Unisciti a una partita
-ui_host_game|Hosta una partita
+ui_host_game|Ospita una partita
 ui_custom|Custom
 ui_medium|Medio
 ui_male|Maschio
@@ -645,7 +645,7 @@ ui_invalid_username|I nomi utente possono contenere solo lettere, numeri o il ca
 ui_confirmation|Sei sicuro?
 ui_multiplayer|Multiplayer
 ui_server_name|Server
-ui_module_name|Module
+ui_module_name|Modulo
 ui_game_type|Tipo di partita
 ui_map_name|Mappa
 ui_ping|Ping
@@ -656,42 +656,42 @@ ui_connect|Connettiti
 ui_local_area_network|Local Area Network
 ui_internet|Internet
 ui_favorites|Favoriti
-ui_source|Source:
+ui_source|Fonte:
 ui_server_password|Server Password:
-ui_refresh|Refresh
-ui_start_search|Inizia la ricerca
-ui_add_to_favorites|Aggiungi ai Favoriti
-ui_remove_from_favorites|Rimuovi dai Favoriti
+ui_refresh|Aggiorna
+ui_start_search|Inizia Ricerca
+ui_add_to_favorites|Aggiungi ai Preferiti
+ui_remove_from_favorites|Rimuovi dai Preferiti
 ui_use_speedtree|Usa Speedtree
 ui_use_instancing|Usa Instancing
 ui_error|Errore
 ui_error_server_full|Server pieno.
-ui_error_server_full_for_non_private|Il server è pieno per giocatori privi di una password membro privata.
+ui_error_server_full_for_non_private|Il server è pieno per i giocatori senza una password privata.
 ui_error_server_password_incorrect|Password errata.
 ui_error_incorrect_serial|Numero seriale errato.
 ui_error_incorrect_authorization_key|Chiave di autorizzazione non corretta.
 ui_error_banned_from_server|Sei stato bannato da questo server.
-ui_error_username_taken|Il tuo profilo è in uso da parte di un altro giocatore.
+ui_error_username_taken|Il tuo nome profilo è usato da un altro giocatore.
 ui_error_authentication_failed|Autenticazione fallita.
 ui_unable_to_connect_to_server|Impossibile connettersi al server.
 ui_connection_to_server_is_lost|Connessione al server persa.
-ui_kicked_from_server|Sei stato kickato dal server.
-ui_switch_to_module_question|Su questo server sta girando un modulo differente da quello da te selezionato. Desideri che Warband si commuti sul modulo in uso nel server?
-ui_download_module_question|Su questo server sta girando un modulo che non risulta installato sul tuo computer. Desideri visitare il sito da cui scaricare questo modulo?
-ui_download_mb_new_version_question|Su questo server sta girando una versione più aggiornata (%d.%d%d%d) di Warband rispetto a quella installata sul tuo computer (%d.%d%d%d). Desideri visitare il sito TaleWorlds alla sezione download adesso?
-ui_download_mb_old_version_question|Su questo server sta girando una versione più vecchia (%d.%d%d%d) di Warband rispetto a quella installata sul tuo computer (%d.%d%d%d).
-ui_download_module_new_version_question|Su questo server sta girando una versione più recente (%d.%d%d%d) del modulo che hai selezionato e lanciato (%d.%d%d%d). Desideri visitare la sezione download del modulo adesso?
-ui_download_module_old_version_question|Su questo server sta girando una versione meno recente (%d.%d%d%d) del modulo che hai selezionato e lanciato (%d.%d%d%d).
-ui_authenticating_with_steam|Autenticazione con Steam in corso...
+ui_kicked_from_server|Sei stato cacciato dal server.
+ui_switch_to_module_question|Questo server esegue un modulo diverso da quello che stai usando tu. Desideri che Mount&Blade cambi in questo modulo?
+ui_download_module_question|Questo server esegue un modulo che non risulta installato sul tuo computer. Desideri visitare il sito da cui scaricare questo modulo?
+ui_download_mb_new_version_question|Questo server sta eseguendo una versione più aggiornata (%d.%d%d%d) di Mount&Blade rispetto a quella installata sul tuo computer (%d.%d%d%d). Desideri visitare il sito TaleWorlds alla sezione download adesso?
+ui_download_mb_old_version_question|Questo server esegue una versione più vecchia (%d.%d%d%d) di Mount&Blade rispetto a quella installata sul tuo computer (%d.%d%d%d).
+ui_download_module_new_version_question|Questo server esegue una versione più recente (%d.%d%d%d) del modulo che hai selezionato e lanciato (%d.%d%d%d). Desideri visitare la sezione download del modulo adesso?
+ui_download_module_old_version_question|Questo server esegue una versione meno recente (%d.%d%d%d) del modulo che hai selezionato e lanciato (%d.%d%d%d).
+ui_authenticating_with_steam|Autenticazione con Steam...
 ui_validating_serial_number|Validazione del numero seriale...
-ui_scanning_lan|Scansione della rete locale in corso...
-ui_retrieving_servers|Recupero lista dei server in corso...
+ui_scanning_lan|Scansione rete locale...
+ui_retrieving_servers|Recupero lista dei server...
 ui_shield_size2|Dimensione: %dx%d
 ui_click_to_view_notes|Cliccare per visualizzare le note
 ui_retrieving_server_infos|Recupero delle informazioni dai server (%d)...
-ui_connecting_to_server|Collegamento al server in corso...
-ui_requesting_to_join_the_game|Richiesta di unirsi al gioco in corso...
-ui_loading|Caricamento in corso...
+ui_connecting_to_server|Collegamento al server...
+ui_requesting_to_join_the_game|Richiesta di unirsi alla partita...
+ui_loading|Caricamento...
 ui_group_value_control|Gruppo %d!
 ui_drop_weapon|Lascia l'arma
 ui_multiplayer_message_all|Manda un Messaggio a tutti
@@ -703,12 +703,12 @@ ui_send_message_team|Manda un Messaggio al team
 ui_select|Seleziona
 ui_context_menu|Menu contestuale
 ui_round_starts_in_value_seconds|Inizio round tra %d secondi...
-ui_watching_value|Following %s
-ui_capital_spec|SPEC
-ui_capital_dead|DEAD
+ui_watching_value|Seguendo %s
+ui_capital_spec|SPET
+ui_capital_dead|MORTO
 ui_instancing_error1|Could not lock Instance Buffer (size: %d), Disabled mesh-instancing (Error Code: %d)
 ui_instancing_error2|Could not fit instanced objects, Disabled mesh-instancing
-ui_by_keyboard|Tramite tasti di movimento
+ui_by_keyboard|Dai tasti direzionali
 ui_combat_speed_slowest|Molto lenta
 ui_combat_speed_slower|Lenta
 ui_combat_speed_normal|Normale
@@ -717,19 +717,19 @@ ui_combat_speed_fastest|Molto veloce
 ui_module_newer_than_application|Il modulo che hai selezionato richiede una versione più aggiornata del gioco.
 ui_module_older_than_application|Il modulo che hai selezionato richiede una versione più vecchia del gioco.
 ui_unbalanced|Sbilanciamento
-ui_can_crush_through_blocks|È in grado di frantumare i blocchi
-ui_turn_camera_with_horse|Imposta la telecamera a cavallo in prima persona:
-ui_widescreen_mode_on|Modalità a schermo multiplo abilitata.
-ui_widescreen_mode_off|Modalità a schermo multiplo disabilitata.
-ui_notification_cant_upgrade|(upgrade impossibile: denaro insufficiente)
+ui_can_crush_through_blocks|Può fare breccia nei blocchi
+ui_turn_camera_with_horse|Visuale in Prima Persona a Cavallo:
+ui_widescreen_mode_on|Modalità Schermo Multiplo abilitata.
+ui_widescreen_mode_off|Modalità Schermo Multiplo disabilitata.
+ui_notification_cant_upgrade|(miglioramento impossibile: denaro insufficiente)
 ui_turn_never|Mai
-ui_turn_ranged_only|Solo con armi da tiro
-ui_turn_melee_only|Solo durante attacchi in mischia
+ui_turn_ranged_only|Solo attacchi a distanza
+ui_turn_melee_only|Solo attacchi in mischia
 ui_turn_always|Sempre
 ui_general_options|Opzioni generali
-ui_vac_enabled|Blocco Anti trucchi attivato
+ui_vac_enabled|Valve Anti Cheat Abilitato
 ui_campaign_ai|IA Campagna:
-ui_downloading_map|Downloading mappa (%d KB)
+ui_downloading_map|Download mappa (%d KB)
 ui_download_completed|Download completato.
 ui_server_filter|Filtro server
 ui_has_players|Con giocatori
@@ -737,13 +737,13 @@ ui_is_not_full|Non pieno
 ui_is_password_free|Senza password
 ui_native_only|Solo Native
 ui_ping_limit|Limite di Ping 
-ui_filter_info|%d games e %d giocatori filtrati
+ui_filter_info|%d partite e %d giocatori filtrati
 ui_is_version_compatible|Compatibile con la versione
-ui_ttnet_account|TTnet account
+ui_ttnet_account|TTNET Oyun account
 ui_username|Username
 ui_password|Password
 ui_error_incorrect_username_or_password|Username o password non corretti
-ui_validating_account|Validazione account in corso...
+ui_validating_account|Verifica account...
 ui_plase_enter_your_serial_key|Inserisci il tuo codice seriale
 ui_texture_detail2|Dettagli texture:
 ui_antialiasing2|Antialiasing:
