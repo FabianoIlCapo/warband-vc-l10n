@@ -1804,11 +1804,8 @@ str__however_the_truce_is_no_longer_binding_on_the_s14| However, the truce is no
 str_s21__the_s5_is_bound_by_truce_not_to_attack_the_s14s18_the_truce_will_expire_in_reg1_days|{s21}^^* Bound by truce not to attack the {s14}.{s18} The truce will expire in {reg1} days.
 str_s21__the_s5_is_bound_by_alliance_not_to_attack_the_s14s18_the_alliance_will_expire_in_reg1_days|{s21}^^* The {s5} has an alliance with {s14}.{s18} The alliance will expire in {reg1} days.
 str_alliance_durantion_days_expire|{s21}^^* The {s5} has formalized an alliance with the {s14}.{s18} The alliance will expire in {reg1} days.
-str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war|{s21}^^* The {s5} has recently suffered provocation by subjects of the {s14}, and there is a risk of war.
-str_s21__the_s5_has_no_outstanding_issues_with_the_s14|{s21}^^* The {s5} has no outstanding issues with the {s14}.
 str_s21_the_s14_was_recently_provoked_by_subjects_of_the_s5_and_there_is_a_risk_of_war_|{s21}^^* The {s14} was recently provoked by subjects of the {s5}, and there is a risk of war.^
 str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10__s21|The {s5} is ruled by {s6}.^^It occupies:^{s8}.^^Its vassals are:^{s10}.^^{s21}
-str_assigned_lord_reputation_and_relations_cheat_mode_reg3|Assigned lord reputation and relations, cheat mode: {reg3}
 str_reg4_killed_reg5_wounded_reg6_routed|{reg4} killed or seriously wounded, {reg5} minor wounded, {reg6} routed
 str_reg4_killed_reg5_routed|{reg4} killed or seriously wounded, {reg5} routed
 str_reg4_killed_reg5_wounded|{reg4} killed or seriously wounded, {reg5} minor wounded
@@ -1874,19 +1871,6 @@ str_instability_reg0_of_lords_are_disgruntled_reg1_are_restless|Instability: {re
 str_reg1shehe_is_prisoner_of_s1|{reg1?She:He} is prisoner of the {s1}.
 str_s39_rival|{s39} (rival)
 str_s41_s39_rival|{s41}, {s39} (rival)
-str_reputation_cheat_mode_only_martial_|Reputation (cheat mode only): Martial^
-str_reputation_cheat_mode_only_debauched_|Reputation (cheat mode only): Debauched^
-str_reputation_cheat_mode_only_pitiless_|Reputation (cheat mode only): Pitiless^
-str_reputation_cheat_mode_only_calculating_|Reputation (cheat mode only): Calculating^
-str_reputation_cheat_mode_only_quarrelsome_|Reputation (cheat mode only): Quarrelsome^
-str_reputation_cheat_mode_only_goodnatured_|Reputation (cheat mode only): Good-natured^
-str_reputation_cheat_mode_only_upstanding_|Reputation (cheat mode only): Upstanding^
-str_reputation_cheat_mode_only_conventional_|Reputation (cheat mode only): Conventional^
-str_reputation_cheat_mode_only_adventurous_|Reputation (cheat mode only): Adventurous^
-str_reputation_cheat_mode_only_romantic_|Reputation (cheat mode only): Romantic^
-str_reputation_cheat_mode_only_moralist_|Reputation (cheat mode only): Moralist^
-str_reputation_cheat_mode_only_ambitious_|Reputation (cheat mode only): Ambitious^
-str_reputation_cheat_mode_only_reg11_|Reputation (cheat mode only): {reg11}^
 str_reputation_only_martial_|As far as you know, his personality seems to be Martial^
 str_reputation_only_debauched_|As far as you know, his personality seems to be Debauched^
 str_reputation_only_pitiless_|As far as you know, his personality seems to be Pitiless^
@@ -1899,7 +1883,6 @@ str_reputation_only_adventurous_|As far as you know, his personality seems to be
 str_reputation_only_romantic_|As far as you know, his personality seems to be Romantic^
 str_reputation_only_moralist_|As far as you know, his personality seems to be Moralist^
 str_reputation_only_ambitious_|As far as you know, his personality seems to be Ambitious^
-str_reputation_only_reg11_|Reputation (cheat mode only): {reg11}^
 str_love_interest|love interest
 str_betrothed|betrothed
 str_other_relations_s40_|Other relations: {s40}^
@@ -2627,7 +2610,7 @@ str_lord_indicted_dialog_approach_yes|And I would be honored to accept your pled
 str_lord_indicted_dialog_approach_no|I'm sorry. Your service is not required.
 str_lord_indicted_dialog_rejected|Indeed? Well, perhaps your reputation is misleading. Good day, {reg59?my lady:my lord} -- I go to see if another ruler in these lands is more appreciative of my talents.
 str__has_been_worried_about_bandits_establishing_a_hideout_near_his_home| has been worried about bandits establishing a hideout in his area.
-str_bandit_lair_quest_description|Find and destroy the {s9} and report back to {s11}.
+str_bandit_lair_quest_description|Find and destroy {s9} and report back to {s11}.
 str_reveal_ass|Someone attempted to murder you. You can try to find out who wanted you dead by meeting the killers' contact in {s3}.
 str_reveal_ass2|The contact has given away the lord who ordered the assassination - it is {s9}. It's time to confront the lord directly.
 str_bandit_hideout_preattack|You approach the hideout. The {s4} don't appear to have spotted you yet, and you could still sneak away unnoticed. The difficult approach to the site -- {s5} -- means that only a handful of troops in your party will be able to join the attack, and they will be unable to bring their horses. If your initial attack fails, the {s4} will easily be able to make their escape and disperse. Do you wish to attack the hideout, or wait for another occasion?
@@ -3070,213 +3053,6 @@ str_irish_level0_companion|Cliarthaire Companion
 str_irish_level1_companion|Curraidh Companion
 str_irish_horseman|Marcach Horseman
 str_irish_knight|Deaisbard Knight
-str_standard_dragon1|standard dragon1
-str_standard_dragon2|standard dragon2
-str_standard_dragon3|standard dragon3
-str_standard_dragon4|standard dragon4
-str_standard_dragon5|standard dragon5
-str_standard_dragon6|standard dragon6
-str_standard_dragon7|standard dragon7
-str_standard_dragon8|standard dragon8
-str_standard_extra01|standard extra01
-str_standard_extra02|standard extra02
-str_standard_extra03|standard extra03
-str_standard_extra04|standard extra04
-str_standard_extra05|standard extra05
-str_standard_extra06|standard extra06
-str_standard_extra07|standard extra07
-str_standard_extra08|standard extra08
-str_standard_extra09|standard extra09
-str_standard_extra10|standard extra10
-str_standard_extra11|standard extra11
-str_standard_extra12|standard extra12
-str_standard_extra13|standard extra13
-str_standard_extra14|standard extra14
-str_standard_extra15|standard extra15
-str_standard_extra16|standard extra16
-str_standard_extra17|standard extra17
-str_standard_extra18|standard extra18
-str_standard_extra19|standard extra19
-str_standard_extra20|standard extra20
-str_standard_extra21|standard extra21
-str_standard_extra201|standard extra201
-str_standard_extra202|standard extra202
-str_standard_extra203|standard extra203
-str_standard_extra204|standard extra204
-str_standard_extra205|standard extra205
-str_standard_extra206|standard extra206
-str_standard_extra208|standard extra208
-str_standard_extra209|standard extra209
-str_standard_extra210|standard extra210
-str_standard_extra211|standard extra211
-str_standard_anglosaxon01|standard anglosaxon01
-str_standard_anglosaxon02|standard anglosaxon02
-str_standard_anglosaxon03|standard anglosaxon03
-str_standard_anglosaxon04|standard anglosaxon04
-str_standard_anglosaxon05|standard anglosaxon05
-str_standard_anglosaxon06|standard anglosaxon06
-str_standard_anglosaxon07|standard anglosaxon07
-str_standard_anglosaxon08|standard anglosaxon08
-str_standard_anglosaxon09|standard anglosaxon09
-str_standard_anglosaxon10|standard anglosaxon10
-str_standard_anglosaxon11|standard anglosaxon11
-str_standard_anglosaxon12|standard anglosaxon12
-str_standard_anglosaxon13|standard anglosaxon13
-str_standard_anglosaxon14|standard anglosaxon14
-str_standard_anglosaxon15|standard anglosaxon15
-str_standard_anglosaxon16|standard anglosaxon16
-str_standard_anglosaxon17|standard anglosaxon17
-str_standard_anglosaxon18|standard anglosaxon18
-str_standard_anglosaxon19|standard anglosaxon19
-str_standard_anglosaxon20|standard anglosaxon20
-str_standard_anglosaxon21|standard anglosaxon21
-str_standard_anglosaxon201|standard anglosaxon201
-str_standard_anglosaxon202|standard anglosaxon202
-str_standard_anglosaxon203|standard anglosaxon203
-str_standard_anglosaxon204|standard anglosaxon204
-str_standard_briton01|standard briton01
-str_standard_briton02|standard briton02
-str_standard_briton03|standard briton03
-str_standard_briton04|standard briton04
-str_standard_briton05|standard briton05
-str_standard_briton06|standard briton06
-str_standard_briton07|standard briton07
-str_standard_briton08|standard briton08
-str_standard_briton09|standard briton09
-str_standard_briton10|standard briton10
-str_standard_briton11|standard briton11
-str_standard_briton12|standard briton12
-str_standard_briton13|standard briton13
-str_standard_briton14|standard briton14
-str_standard_briton15|standard briton15
-str_standard_briton16|standard briton16
-str_standard_briton17|standard briton17
-str_standard_briton18|standard briton18
-str_standard_briton19|standard briton19
-str_standard_briton20|standard briton20
-str_standard_briton21|standard briton21
-str_standard_briton201|standard briton201
-str_standard_briton202|standard briton202
-str_standard_briton203|standard briton203
-str_standard_briton204|standard briton204
-str_standard_briton205|standard briton205
-str_standard_briton206|standard briton206
-str_standard_briton207|standard briton207
-str_standard_briton208|standard briton208
-str_standard_briton209|standard briton209
-str_standard_briton210|standard briton210
-str_standard_briton211|standard briton211
-str_standard_briton212|standard briton212
-str_standard_briton213|standard briton213
-str_standard_briton214|standard briton214
-str_standard_briton215|standard briton215
-str_standard_briton216|standard briton216
-str_standard_briton217|standard briton217
-str_standard_briton218|standard briton218
-str_standard_briton219|standard briton219
-str_standard_briton220|standard briton220
-str_standard_briton221|standard briton221
-str_standard_irish01|standard irish01
-str_standard_irish02|standard irish02
-str_standard_irish03|standard irish03
-str_standard_irish04|standard irish04
-str_standard_irish05|standard irish05
-str_standard_irish06|standard irish06
-str_standard_irish07|standard irish07
-str_standard_irish08|standard irish08
-str_standard_irish09|standard irish09
-str_standard_irish10|standard irish10
-str_standard_irish11|standard irish11
-str_standard_irish12|standard irish12
-str_standard_irish13|standard irish13
-str_standard_irish14|standard irish14
-str_standard_irish15|standard irish15
-str_standard_irish16|standard irish16
-str_standard_irish17|standard irish17
-str_standard_irish18|standard irish18
-str_standard_irish19|standard irish19
-str_standard_irish20|standard irish20
-str_standard_irish21|standard irish21
-str_standard_irish201|standard irish201
-str_standard_irish202|standard irish202
-str_standard_irish203|standard irish203
-str_standard_irish204|standard irish204
-str_standard_irish205|standard irish205
-str_standard_irish206|standard irish206
-str_standard_irish207|standard irish207
-str_standard_irish208|standard irish208
-str_standard_irish209|standard irish209
-str_standard_irish210|standard irish210
-str_standard_irish211|standard irish211
-str_standard_irish212|standard irish212
-str_standard_irish213|standard irish213
-str_standard_pict01|standard pict01
-str_standard_pict02|standard pict02
-str_standard_pict03|standard pict03
-str_standard_pict04|standard pict04
-str_standard_pict05|standard pict05
-str_standard_pict06|standard pict06
-str_standard_pict07|standard pict07
-str_standard_pict08|standard pict08
-str_standard_viking01|standard viking01
-str_standard_viking02|standard viking02
-str_standard_viking03|standard viking03
-str_standard_viking04|standard viking04
-str_standard_viking05|standard viking05
-str_standard_viking06|standard viking06
-str_standard_viking07|standard viking07
-str_standard_viking08|standard viking08
-str_standard_viking09|standard viking09
-str_standard_viking10|standard viking10
-str_standard_viking11|standard viking11
-str_standard_viking12|standard viking12
-str_standard_viking13|standard viking13
-str_standard_viking14|standard viking14
-str_standard_viking15|standard viking15
-str_standard_viking16|standard viking16
-str_standard_viking17|standard viking17
-str_standard_viking18|standard viking18
-str_standard_viking19|standard viking19
-str_standard_viking20|standard viking20
-str_standard_viking21|standard viking21
-str_standard_viking201|standard viking201
-str_standard_viking202|standard viking202
-str_standard_viking203|standard viking203
-str_standard_viking204|standard viking204
-str_standard_viking205|standard viking205
-str_standard_viking206|standard viking206
-str_standard_viking207|standard viking207
-str_standard_viking208|standard viking208
-str_standard_viking209|standard viking209
-str_standard_viking210|standard viking210
-str_standard_viking211|standard viking211
-str_standard_viking212|standard viking212
-str_standard_viking213|standard viking213
-str_standard_viking214|standard viking214
-str_standard_viking215|standard viking215
-str_standard_viking216|standard viking216
-str_standard_kingdom_a|standard kingdom a
-str_standard_kingdom_b|standard kingdom b
-str_standard_kingdom_c|standard kingdom c
-str_standard_kingdom_d|standard kingdom d
-str_standard_kingdom_e|standard kingdom e
-str_standard_kingdom_f|standard kingdom f
-str_standard_kingdom_g|standard kingdom g
-str_standard_kingdom_h|standard kingdom h
-str_standard_kingdom_i|standard kingdom i
-str_standard_kingdom_j|standard kingdom j
-str_standard_kingdom_k|standard kingdom k
-str_standard_kingdom_l|standard kingdom l
-str_standard_kingdom_ll|standard kingdom ll
-str_standard_kingdom_m|standard kingdom m
-str_standard_kingdom_n|standard kingdom n
-str_standard_kingdom_o|standard kingdom o
-str_standard_kingdom_p|standard kingdom p
-str_standard_kingdom_q|standard kingdom q
-str_standard_kingdom_r|standard kingdom r
-str_standard_kingdom_s|standard kingdom s
-str_standard_kingdom_t|standard kingdom t
-str_standard_default|standard extra207
 str_multi_scene_coast|Coast
 str_multi_scene_fjord|Fjord
 str_multi_scene_islands|Islands
@@ -3287,17 +3063,17 @@ str_set_goal_lord|Powerful Lord
 str_set_goal_king|Strong King
 str_set_goal_expand|Stable Kingdom
 str_set_goal_custom_hint|You have chosen your own path.
-str_set_goal_raider_hint|Raid towns. Hunt down villagers.^No one will be safe from you.^Use fast ships to travel to distant lands^and your refuge to have a safe home.
-str_set_goal_warrior_hint|You wish to be known as a great warrior.^Fight in tournaments. Protect villagers.^Attack bandits and escort caravans.^You will find plenty of work in towns^and villages, but never forget that your^glory is born on the fields of battle.
-str_set_goal_lord_hint|The common life is not for you.^You wish to become a nobleman,^lead great armies and to be known^as lord and master of your own^lands.
-str_set_goal_king_hint|There is no limit to your ambitions.^Fight for glory, power and gold.^You will make many enemies^and must be ready to face threats^from all four corners of the land!
-str_set_goal_expand_hint|A small fort on a hill is not enough^for you. You desire to be known as the^High King. Sharpen your sword and gather^your troops, for war is coming!
-str_view_goal_hint_renown|Renown: you desire fame above all.^Win battles and competitions. Complete^quests. As your renown grows, you will^be able to command more troops,^gain the respect of the nobility^and hire better mercenaries!^
-str_view_goal_hint_reputation|Reputation: be a hero or a villain.^Your actions in the world will influence^how people see you. It will influence your^relation with other factions and even your^chances of marriage.^
-str_view_goal_hint_army|Army: you wish to balance your^troops. Better troops are also more^expensive to train and keep. Try to^form a army with 25% heavies (high^level units).^
-str_view_goal_hint_marry|Marriage brings the possibility^of feasts, competitions and a^extra helpful hand with kingdom management.^It will also boost your right to rule!^
-str_view_goal_hint_right_to_rule|Right to rule is very important for^kings. It will influence the way other^factions will see you and your diplomatic^relations.^
-str_view_goal_hint_wealth|Wealth: war is expensive. Wages, food,^training, new equipment, healers, wine...^be ready for it!^
+str_set_goal_raider_hint|Raid towns. Hunt down villagers. No one will be safe from you. Use fast ships to travel to distant lands and your refuge to have a safe home.
+str_set_goal_warrior_hint|You wish to be known as a great warrior. Fight in tournaments. Protect villagers. Attack bandits and escort caravans. You will find plenty of work in towns and villages, but never forget that your glory is born on the fields of battle.
+str_set_goal_lord_hint|The common life is not for you. You wish to become a nobleman, lead great armies and to be known as lord and master of your own lands.
+str_set_goal_king_hint|There is no limit to your ambitions. Fight for glory, power and gold. You will make many enemies and must be ready to face threats from all four corners of the land!
+str_set_goal_expand_hint|A small fort on a hill is not enough for you. You desire to be known as the High King. Sharpen your sword and gather your troops, for war is coming!
+str_view_goal_hint_renown|Renown: you desire fame above all. Win battles and competitions. Complete quests. As your renown grows, you will be able to command more troops, gain the respect of the nobility and hire better mercenaries!^
+str_view_goal_hint_reputation|Reputation: be a hero or a villain. Your actions in the world will influence how people see you. It will influence your relation with other factions and even your chances of marriage.^
+str_view_goal_hint_army|Army: you wish to balance your troops. Better troops are also more expensive to train and keep. Try to form a army with 25% heavies (high level units).^
+str_view_goal_hint_marry|Marriage brings the possibility of feasts, competitions and a extra helpful hand with kingdom management. It will also boost your right to rule!^
+str_view_goal_hint_right_to_rule|Right to rule is very important for kings. It will influence the way other factions will see you and your diplomatic relations.^
+str_view_goal_hint_wealth|Wealth: war is expensive. Wages, food, training, new equipment, healers, wine...^be ready for it!^
 str_set_goal_trigger_new_game|A new world full of adventure awaits you!^^If this is your first time playing^Viking Conquest Sandbox^then check out the SET A GOAL presentation^to learn more about the game^and to see what you can do next!^^(Open Character Report,^Statistics, Choose a Goal)
 str_set_goal_already_completed|(You already completed this goal!)
 str_set_goal_you_are_a_noble|(You are a noble or mercenary, and^you can't abandon your oath!)
