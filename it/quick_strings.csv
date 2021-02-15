@@ -1,48 +1,48 @@
 qstr_Breaking_camp...|Stai smantellando l'accampamento...
 qstr_The_poem_the_bard_ha|La pesia che il bardo ha scritto per {s33} non sembra funzionare tanto bene.
 qstr_Poem_for_a_lady|Poesia per la signora
-; qstr_{s33}_seemed_to_like|{s33} seemed to like the poem the bard had written for her.
-; qstr_The_bard_s_poem_abou|The bard's poem about you seems to be spreading through the land.
+qstr_{s33}_seemed_to_like|{s33} sembrava apprezzare la poesia che il bardo aveva scritto per lei.
+qstr_The_bard_s_poem_abou|Sempbra che la poesia composta dal bardo su di te si stia diffondendo per il paese.
 qstr_Fame_spreads|Diffusione della fame
-; qstr_People_say_that_{s31|People say that {s31} found a buried Viking hoard on {s32}'s property. The lords came to blows over its ownership.
-; qstr_People_say_that_{s31}|People say that {s31} or his servants are stealing cattle from {s32}'s property. That made {s32} furious.
-; qstr_People_say_that_{s31}_|People say that {s31} served one of {s32}'s bodyguards a horn of poisoned mead. {s32} is infuriated.
-; qstr_People_say_that_{s31}_t|People say that {s31} tried to bribe some of {s32}'s bodyguards to get access to the household, but {s32} found out.
-; qstr_People_say_that_a_ru|People say that a rumor spread by an unknown traveller failed to incite enmity between {s31} and {s32}.
+qstr_People_say_that_{s31|La gente dice che {s31} ha trovato un tesoro Vichingo sepolto nel territorio di {s32}. I lord sono in conflitto tra loro per definirne la propietà.
+qstr_People_say_that_{s31}|La gente dice che {s31} o i suoi servi stanno rubando il bestiame dalla proprietà di {s32}. Questo ha reso {s32} furioso.
+qstr_People_say_that_{s31}_|Si dice che {s31} abbia servito a una delle guardie del corpo di {s32} un corno di idromele avvelenato. {s32} è infuriato.
+qstr_People_say_that_{s31}_t|La gente dice che {s31} ha cercato di corrompere alcune delle guardie del corpo di {s32} per avere accesso alla famiglia, ma {s32} l'ha scoperto.
+qstr_People_say_that_a_ru|La gente dice che un viaggiatore sconosciuto stava diffondendo maldicenze tra due lord, ma nonostante ciò, non è riuscito a provocare inimicizia tra {s31} e {s32}.
 qstr_{s33}|{s33}
 qstr_Rumors|Dicerie
-; qstr_{playername}_is_beli|{playername} is believed to be behind the recent derogatory rumors involving {s32} and {s31}.
-; qstr_A_recent_rumor_alleg|A recent rumor alleges that {s32} hides behind his bodyguards in battles.
-; qstr_A_recent_rumor_allege|A recent rumor alleges that {s32} is practicing some kind of perverted rituals in his mead hall.
-; qstr_A_recent_rumor_alleges|A recent rumor alleges that {s32} is very fond of his new mare, if you know what I mean.
-; qstr_A_recent_rumor_alleges_|A recent rumor alleges that {s32} would rather wield a drinking horn than a sword.
-; qstr_People_say_that_a_rum|People say that a rumor spread by an unknown traveller about {s32} failed to damage his reputation.
-; qstr_{playername}_is_belie|{playername} is believed to be behind the recent rumors about {s32}'s indiscretions.
-; qstr_A_recent_rumor_sprea|A recent rumor spread by an unknown traveller alleges that {s32} is intriguing against {s31}.
-; qstr_People_say_that_a_rumo|People say that a rumor spread by an unknown traveller about {s32} being a disloyal vassal failed to incite enmity between {s32} and {s31}.
-; qstr_{playername}_is_believ|{playername} is believed to be behind the recent rumors about {s32}'s disloyalty.
-; qstr_It_seems_that_{s31}_|It seems that {s31} has found recent stories about {s32}'s infidelity plausible.
-; qstr_It_appears_{s31}_has|It appears {s31} has dismissed recent stories about {s32}'s infidelity as nothing but his enemies' gossip.
-; qstr_It_seems_that_{s31}_h|It seems that {s31} has found recent stories about {s32}'s disloyalty quite plausible.
-; qstr_It_appears_that_{s31|It appears that {s31} has dismissed recent stories about {s32}'s disloyalty as nothing but his enemies' gossip.
-; qstr_It_seems_that_{s31}_w|It seems that {s31} was not amused after {s32} was found to be involved in a cattle-thieving scheme.
-; qstr_It_appears_{s32}_had|It appears {s32} had managed to avoid being linked to a recent murder, and his relations with {s31} didn't suffer.
+qstr_{playername}_is_beli|Si ritiene che {playername} sia dietro alle recenti voci dispregiative nei confronti di {s32} e {s31}.
+qstr_A_recent_rumor_alleg|Una voce recente sostiene che {s32} si nasconda dietro le sue guardie del corpo durante la battaglia.
+qstr_A_recent_rumor_allege|Una voce recente sostiene che {s32} stia praticando una sorta di rituali perversi nella sua sala dell'idromele.
+qstr_A_recent_rumor_alleges|Una voce recente sostiene che {s32} sia molto affezionato alla sua nuova "puledra", se capisci cosa intendo.
+qstr_A_recent_rumor_alleges_|Una voce recente sostiene che {s32} preferirebbe impugnare un corno di idromele piuttosto che una spada.
+qstr_People_say_that_a_rum|Si dice che un viaggiatore sconosciuto abbia diffuso una voce su {s32} ma che ciò non sia riuscito a danneggiare la sua reputazione.
+qstr_{playername}_is_belie|Si ritiene che le indiscrezioni su {s32} siano state messe in giro da {playername}.
+qstr_A_recent_rumor_sprea|Una voce recente diffusa da un viaggiatore sconosciuto sostiene che {s32} stia tramando contro {s31}.
+qstr_People_say_that_a_rumo|La gente dice che un viaggiatore sconosciuto abbia diffuso una voce sul fatto che {s32} fosse un vassallo sleale, nonostante cio' questo non è riuscito a provocare inimicizia tra {s32} e {s31}.
+qstr_{playername}_is_believ|Si ritiene che {playername} sia dietro le recenti voci sulla slealtà di {s32}.
+qstr_It_seems_that_{s31}_|Sembra che {s31} abbia trovato plausibili le storie recenti sull'infedeltà di {s32}.
+qstr_It_appears_{s31}_has|Sembra che {s31} abbia liquidato le storie recenti sull'infedeltà di {s32} come nient'altro che il pettegolezzo dei suoi nemici.
+qstr_It_seems_that_{s31}_h|Sembra che {s31} abbia trovato le storie recenti sulla slealtà di {s32} abbastanza plausibili.
+qstr_It_appears_that_{s31|Sembra che {s31} abbia liquidato le storie recenti sulla slealtà di {s32} come nient'altro che il pettegolezzo dei suoi nemici.
+qstr_It_seems_that_{s31}_w|Sembra che {s31} non fosse contento del fatto che {s32} fosse coinvolto nel tentativo di furto di bestiame.
+qstr_It_appears_{s32}_had|Sembra che {s32} sia riuscito ad evitare di essere collegato a un recente omicidio ed i suoi rapporti con {s31} non ne abbiano risentito.
 qstr_Winter_is_the_worst_|L'inverno è il momento peggiore per la guerra. Fa freddo, piove troppo e il cibo è scarso. In inverno, gli uomini preferirebbero piuttosto riparo con il fuoco puttosto che la campagna. Controlla il morale e le scorte di cibo.
-; qstr_{s40}_decided_to_bec|{s40} decided to become an adventurer near {s39}
-; qstr_It_seems_your_soldie|It seems your soldiers had a good time and helped themselves to some of the drinks in your inventory.
-; qstr_It_seems_someone_wen|It seems someone went through your inventory and stole some of your {s33}.
+qstr_{s40}_decided_to_bec|{s40} ha deciso di diventare un esploratore vicino a {s39}
+qstr_It_seems_your_soldie|Sembra che i tuoi soldati abbiano festeggiato e si siano serviti di alcune delle bevande del tuo inventario.
+qstr_It_seems_someone_wen|Sembra che qualcuno abbia rovistato nel tuo inventario e abbia rubato alcuni dei tuoi {s33}.
 qstr_{s22}|{s22}
-; qstr_{s33}_was_beaten_up_|{s33} was beaten up and thrown into dungeon by an angry crowd in {s34}.
-; qstr_{s33}_s_attempts_to_|{s33}'s attempts to influence people of {s34} have failed.
-; qstr_The_people_of_{s34}_|The people of {s34} hate you so much that the guards did not allow {s33} to enter.
-; qstr_A_livestock_epidemic|A livestock epidemic has killed {reg4} cattle in {s4}.
-; qstr_A_livestock_epidemic_|A livestock epidemic has killed {reg5} sheep in {s4}.
-; qstr_A_livestock_epidemic_h|A livestock epidemic has killed {reg4} cattle and {reg5} sheep in {s4}.
+qstr_{s33}_was_beaten_up_|{s33} è stato picchiato e gettato in prigione da una folla inferocita a {s34}.
+qstr_{s33}_s_attempts_to_|I tentativi di {s33} di influenzare gli abitanti di {s34} sono falliti.
+qstr_The_people_of_{s34}_|La gente di {s34} ti odia così tanto che le guardie non hanno permesso a {s33} di entrare.
+qstr_A_livestock_epidemic|Un'epidemia di bestiame ha ucciso {reg4} bovini a {s4}.
+qstr_A_livestock_epidemic_|Un'epidemia di bestiame ha ucciso {reg5} pecore a {s4}.
+qstr_A_livestock_epidemic_h|Un'epidemia di bestiame ha ucciso {reg4} bovini e {reg5} ovini a {s4}.
 ; qstr_You_receive_a_messag|You receive a message from {s1} demanding lands to support them in a style that befits them.
 ; qstr_You_receive_a_message|You receive a message from {s1} reminding you of your obligations to provide for your vassals.
 qstr_Your_men_made_some_d|I tuoi uomini hanno prodotto del burro delizioso dal latte della mucca.
-; qstr_A_livestock_epidemic_ha|A livestock epidemic has killed {reg5} of your cattle at a farmstead near {s4}.
-; qstr_A_livestock_epidemic_has|A livestock epidemic has killed {reg4} cattle and {reg5} of your cattle at a farmstead near {s4}.
+qstr_A_livestock_epidemic_ha|Un'epidemia di bestiame ha ucciso {reg5} del tuo bestiame in una fattoria vicino a {s4}.
+qstr_A_livestock_epidemic_has|Un'epidemia di bestiame ha ucciso {reg4} bovini e {reg5} del tuo bestiame in una fattoria vicino a {s4}.
 qstr_Your_party_is_spotte|La tua Compagnia è stata avvistata dagli abitanti di {s1}.
 qstr_Your_men_have_nothin|I tuoi uomini non hanno niente da mangiare!
 qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?sono scappati:è scappato} dalla tua Compagnia durante la notte.
@@ -70,14 +70,14 @@ qstr_{s1}_has_switched_fr|{s1} è passato da {s2} a {s3}.
 qstr_The_merchants__rest_|La stazione di sosta per i commercianti a {s1} ne aumenta la prosperità.
 qstr_Christian_monastery_|Il monastero cristiano a {s33} aumenta la fede nel cristianesimo a {s34}.
 qstr_The_scriptorium_in_{|Lo scrittoio a {s1} aumenta la tua fama.
-; qstr_Due_to_the_good_word|Due to the good word Christian clergymen spread about you, your relationship with the {s1} improves.
-; qstr_Due_to_the_bad_word_|Due to the bad word Christian clergymen spread about you, your relationship with the {s1} declines.
+qstr_Due_to_the_good_word|Grazie alla buona parola che gli ecclesiastici cristiani hanno messo in giro su di te, il tuo rapporto con {s1} migliora.
+qstr_Due_to_the_bad_word_|A causa delle maldicenze messe in giro dai sacerdoti cristiani su di te, il tuo rapporto con {s1} declina.
 qstr_{s1}_has_become_host|{s1} ti è diventato ostile, a causa dei tuoi maltrattamenti contro i sudditi cristiani.
 qstr_Faction_became_hosti|Fazione diventata ostile
-; qstr_Due_to_the_good_word_|Due to the good word influential pagans spread about you, your relationship with the {s1} improves.
-; qstr_Due_to_the_bad_word_i|Due to the bad word influential pagans spread about you, your relationship with the {s1} declines.
+qstr_Due_to_the_good_word_|Grazie alla buona parola che i pagani più influenti hanno messo in giro su di te, il tuo rapporto con {s1} migliora.
+qstr_Due_to_the_bad_word_i|A causa delle maldicenze che i pagani più influenti hanno mersso in giro su di te, il tuo rapporto con {s1} declina.
 qstr_{s1}_has_become_hosti|{s1} ti è diventato ostile, a causa dei tuoi maltrattamenti contro i sudditi pagani.
-; qstr_{s13}_has_too_many_t|{s13} has too many troops garrisoned in and may be picked by marshal to levy soldiers.
+qstr_{s13}_has_too_many_t|{s13} avendo troppe truppe a presidiare le mura e può essere usato dal maresciallo per reclutare soldati.
 qstr_most|maggior parte
 qstr_half|metà
 qstr_some|alcuni
@@ -89,20 +89,20 @@ qstr_TEST:_I_moved_Lords_|TEST: Muovo i signori a St Helena.
 qstr_TEST:_I_bring_Lords_|TEST: Riporto indierto i Signori.
 qstr_Physicians_in_larger|I medici nelle città più grandi, ad un prezzo, cureranno queste ferite, che guariranno nel giro di pochi giorni. Gli eventuali effetti negativi verranno poi eliminati.
 qstr_You_are_wounded|Sei ferito
-; qstr_{s1}You_have_only_on|{s1}You have only one day left to take care of {reg7} of your injuries. Visit a physician in a larger town to do so.^^
-; qstr_{s1}{reg7}_of_your_i|{s1}{reg7} of your injuries {reg8?have:has} become permanent because {reg8?they haven't been:it wasn't} tended.^^
-; qstr_{s1}{reg7}_of_your_w|{s1}{reg7} of your wounds {reg8?are:is} cured, and your related abilities aren't limited any more.
+qstr_{s1}You_have_only_on|{s1}Ti resta solo un giorno per prenderti cura di {reg7} tra le tue ferite. Visita un medico in una città più grande per farlo.^^
+qstr_{s1}{reg7}_of_your_i|{s1}{reg7} delle tue ferite {reg8?sono diventate permanenti:è diventata permanente} perché {reg8?non sono state curate:non è stata curata}.^^
+qstr_{s1}{reg7}_of_your_w|{s1}{reg7} delle tue ferite {reg8?sono guarite:è guarita} e le tue abilità correlate non subiscono più malus.
 qstr_{s1}|{s1}
 qstr_Wound_Report|Rapporto Ferite
 qstr_A_ship_has_been_buil|Una nave è stata costruita per te a {s0}.
 qstr_Ship_finished|Nave finita
 qstr_{s0}_has_recovered_f|{s0} si è ripreso dall'ultima razzia.
-; qstr_By_now_you_have_more|By now, you have more than one ship. In a sea battle you can give a 'stand ground' or 'charge' command to your ships by giving it to class number nine, like you give commands to a troop class in a field battle. The first troops in your army list will be together with you on the flagship. The other troops will be in the following ships. You can change your flagship in a port and while camping on the sea. If you are next to a coast you can also split your fleet while camping on the sea or search for the closest landing point with a right click on your party.
+qstr_By_now_you_have_more|Ormai hai più di una nave. In una battaglia navale puoi dare un comando di "fermarsi" o di "attaccare" ​​alle tue navi selezionandole tramite i numeri dall' 1 al 9, come se impartissi comandi ai  vari tipi di truppe in una battaglia campale. Le prime truppe nella tua lista dell'esercito saranno insieme a te sull'ammiraglia. Le altre truppe saranno nelle seguenti navi. Puoi cambiare la tua ammiraglia in un porto e durante le soste in mare. Se ti trovi vicino alla costa puoi anche dividere la tua flotta mentre sei in sosta sul mare o cercare un punto di approdo più vicino cliccando con il tasto destro del mouse sul tuo gruppo.
 qstr_Ship_management|Gestione delle navi
 qstr_Your_troops_are_angr|Le tue truppe sono arrabbiate,perché odiano passare la notte in mare.
 qstr_Your_troops_feel_une|Le tue truppe si sentono a disagio ad attraversare il mare.
-; qstr_Severe_weather_has_d|Severe weather has damaged the {s1} ({s7}).
-; qstr_Severe_weather_has_de|Severe weather has destroyed the {s1} ({s7}).
+qstr_Severe_weather_has_d|Il maltempo ha danneggiato {s1} ({s7}).
+qstr_Severe_weather_has_de|Il maltempo ha distrutto {s1} ({s7}).
 qstr_vSeason|vSeason
 qstr_vWindStrength|vWindStrength
 qstr_The_weather_changed_|Il tempo è cambiato in 'Calmo'
@@ -115,8 +115,8 @@ qstr_The_weather_changed_to:__S|Il tempo è cambiato in 'Tempesta'
 qstr_The_operation_of_the|Le operazioni del mercante di schiavi a {s33} riducono la tua reputazione.
 ; qstr_DEBUG_rebellion:_che|DEBUG rebellion: checking faction {s1} on day {reg1}
 ; qstr_DEBUG_rebellion:_fac|DEBUG rebellion: faction {s1} reborn on day {reg1}
-; qstr__Possible_Rebellion_|(Possible Rebellion) Rumors say that {s14} recruits from your kingdom despite your leadership.
-; qstr__Possible_Rebellion__|(Possible Rebellion) Rumors say that {s14} will surely attempt to restore his kingdom.
+qstr__Possible_Rebellion_|(Possibile Ribellione) Si dice che {s14} recluti truppe nel tuo regno nonostante sia tu a comandare.
+qstr__Possible_Rebellion__|(Possibile Ribellione) Le voci dicono che {s14} tenterà sicuramente di ripristinare il suo regno.
 qstr__Possible_Rebellion__R|(Possibile ribellione) Voci dicono che {s14} è ancora vivo.
 qstr__Possible_Rebellion__Ru|(Possibile ribellione) Voci dicono che {s14} stia accumulando scorte di armi e che cerchi supporto dai Franchi.
 qstr__Possible_Rebellion__Rum|(Possibile ribellione) Voci dicono che {s14} si riunisce in segreto con i suoi fedeli.
@@ -126,9 +126,9 @@ qstr__Possible_Rebellion__Rumors|(Possibile ribellione) Voci dicono che {s14} st
 qstr__| 
 qstr_Congratulations!_You|Congratulazioni! Sei riuscito a imprigionare sette o più signori a {s13}.. Sei veramente un maestro delle prigioni.
 qstr_Dungeon_master_Achie|Achievement maestro delle prigioni
-; qstr_Congratulations!_You_|Congratulations! You've managed to make five or more women your lovers. Ladies must be heads over heels for you, so certainly you must feel proud to be in such a demand. Keep up the good work!
+qstr_Congratulations!_You_|Congratulazioni! Sei riuscito a rendere cinque o più donne le tue amanti. Le donne sono follemente innamorate di te. Devi essere orgoglioso di essere così richiesto. Continua così!
 ; qstr_Skirt_Chaser_Achieve|Skirt Chaser Achievement
-; qstr_Congratulations!_You_v|Congratulations! You've managed to tuck away 25 or more barrels of wine in your household storage, a great feat considering you are in the part of the world more known for mead and ale. Either you have a drinking problem, or you are a true wine connoisseur.
+qstr_Congratulations!_You_v|Congratulazioni! Sei riuscito a mettere da parte 25 o più barili di vino nel tuo magazzino personale, una grande impresa considerando che sei nella parte del mondo più conosciuta per l'idromele e la birra. O hai un problema con l'alcol o sei un vero intenditore di vino.
 ; qstr_Wine_Connoisseur_Ach|Wine Connoisseur Achievement
 qstr_{s33}_revokes_your_r|{s33} ti ha revocato il diritto di arruolare a {s34} a causa di cattivi rapporti tra voi.
 qstr_The_village_leader_o|L'anziano del villaggio di {s34} ti ha revocato il diritto di arruolare a causa di cattivi rapporti tra voi e il suo villaggio.
@@ -2775,7 +2775,7 @@ qstr_The_Assembly_has_tak|L'Assemblea sta discutendo del tuo caso. Devi andare r
 ; qstr_Note_Reginhard:_Regin|Note Reginhard: Reginhard betrayed you before the Assembly, and you had to kill him in a holmgang decreed by the Assembly.
 ; qstr_Note_Egil:_Reginhard_be|Note Egil: Reginhard betrayed you before the Assembly, but you forgave him. However, Egil did not accept your decision, and you had to kill him in a holmgang by the laws of the Assembly.
 qstr_The_holmgang_is_over|L' holmgang è finito. È ora di incontrare Asbjorn a {s3}.
-qstr_You_remember_that_yo|Ricordi che devi portare il seax di Ragnar per questa missione.
+qstr_You_remember_that_yo|Ti ricordi che devi prendere lo scramasax di Ragnar per questa missione.
 qstr_Before_you_left_for_|Prima che partissi per il tuo viaggio in Franchia, qualcuno ha inviato un messaggero per informarti che qualcuno ti incontrerà in un luogo chiamato Boar Grove, vicino a {s3}. Lì devi trovare la casa del boscaiolo.
 qstr_Through_the_trees_yo|Attraverso gli alberi, riesci a malapena a vedere la capanna. gli alberi si muovono dolcemente al vento e alcuni uccellini cinguettano felici. Ma non vedi nessuno.
 qstr_Through_the_trees_you|Attraverso gli alberi, riesci a malapena a vedere la capanna, è vuota, devi andare incontro a Beda.
@@ -2934,17 +2934,17 @@ qstr_Your_men_charge_down|I tuoi uomini combattono per le strade, usando la spad
 qstr_Your_men_are_very_an|I tuoi uomini sono molto arrabbiati perché non hai intrapreso alcuna azione contro l'omicidio dei loro simili. Nel frattempo, i capi locali cercano di reprimere l'odio nei tuoi confronti a {s4}.
 qstr_Mercilessly_your_men|Senza pietà i tuoi uomini uccidono chiunque incontri la loro strada, poi entrano nelle case, uccidendo tutti gli uomini di età superiore ai 14 anni. La fama della tua crudeltà viaggia come il vento. La paura prende tutti quelli che parlano di te. Ora {s4} è pacificato, ma il costo è stato molto alto.
 qstr_Your_men_return_with|I tuoi uomini tornano con 300 peningas e due sopravvissuti.
-; qstr_A_messenger_sent_fro|A messenger sent from {s12} arrives and gives you a present of silver and jewelry in appreciation of your friendship.
-; qstr_A_messenger_sent_from|A messenger sent from {s12} arrives and gives you a message with all kinds of insults and profanities, {s12} invites you to go and look for him if you have guts which {s12} believes you don't, as you're a notorious coward.
+qstr_A_messenger_sent_fro|Arriva un messaggero inviato da {s12} e ti fa un regalo in argento e gioielli in segno di apprezzamento per la tua amicizia.
+qstr_A_messenger_sent_from|Arriva un messaggero inviato da {s12} che ti consegna un messaggio con ogni tipo di insulti e parolacce, {s12} ti invita ad andare a cercarlo se hai coraggio, anche se lui crede che tu non lo farai, dato che sei un famigerato codardo.
 qstr_Your_fame_grows_with|La tua fama cresce grazie alla canzone del bardo, ma ben presto il tuo nome viene sostituito con quello di un altro signore che lo paga.
 qstr_Your_fame_grows_high|La tua fama cresce di molto grazie alla canzone del bardo.
 qstr_Beggars_everywhere_b|I mendicanti benedicono il tuo nome ovunque passano per ricordare la tua generosità.
 qstr_Beggars_soon_tire_of|I mendicanti si stancano presto di seguirti.
-; qstr_You_laugh_to_see_how|You laugh to see how sprightly these broken-down old fellows can actually run.
+qstr_You_laugh_to_see_how|Ridi nel vedere come questi vecchietti malridotti possano ancora correre.
 qstr_The_young_noble_pref|Il giovane nobile preferice la fuga al duello contro di te!
 qstr_The_word_spreads_tha|Si diffonde la voce che è facile insultati e ciò diminuisce la tua reputazione!
 qstr_The_woman_and_her_hu|La donna e suo marito sono felici per la vostra generosità!
-; qstr_Other_men_join_in_an|Other men join in and also leave to help their families.
+qstr_Other_men_join_in_an|Alcuni uomini si uniscono ed altri se ne vanno per aiutare le loro famiglie.
 qstr_The_rumors_hurt_your|Le voci minano la tua fama per un pò, ma ben presto il commerciante si stanca della tua mancanza di interesse.
 qstr_The_man_accepts_the_|L'uomo accetta il denaro e fa tacere le voci sul tuo conto.
 qstr_A_new_rumor_that_you|Tra la popolazione gira voce che sei un assassino e un tiranno per aver ucciso il mercante!
@@ -2960,50 +2960,50 @@ qstr_The_crane_was_a_symbo|La gru è un simbolo di guerra per antichi Celti. La 
 qstr_Your_men_resent_the_|I tuoi uomini risentono della punizione, ma riconoscono la tua autorità. L'azione ne aumenta la disciplina.
 qstr_Offended_by_your_con|Offeso dal disprezzo per la sua richiesta, il contadino se ne va e diffonde voci sulla tua cattiveria.
 qstr_You_spend_time_with_|Passate un pò di tempo con la moglie del sacerdote e quando il marito torna, fuggite attraverso la stalla senza essere visto!
-; qstr_Three_Hirdmenn_join_|Three Hirdmenn join your army!
+qstr_Three_Hirdmenn_join_|Tre Hirdmenn si uniscono al tuo esercito!
 qstr_The_man_s_eyes_sadly|Gli occhi dell'uomo ti seguono tristemente mentre prosegui per la tua strada.
 qstr_You_feel_good_for_hel|Aiutarlo ti ha fatto sentire meglio.
 qstr_When_you_give_him_ar|quando gli dai l'armatura e il cibo, da dimostrazione di essere un potente guerriero.
 qstr_The_bandits_turn_awa|I banditi si allontanano, molto delusi.
 qstr_After_two_hours_the_|Dopo due ore, i banditi tornano con il bottino e la testa di qualcuno...
-; qstr_On_the_remains_of_a_|On the remains of a corpse are a sword and armor of a king. They turn out to be magnificent weapons, once the rust is removed to reveal their high quality. Now they are yours -- if you do not mind the bad luck that attends grave robbers.
+qstr_On_the_remains_of_a_|Sui resti di un cadavere ci sono una spada e un'armatura di un re. Una volta rimossa la ruggine si rivelano armi magnifiche d'alta qualità. Ora sono tue -- a meno che tu non creda alla sfortuna che accompagna i ladri di tombe.
 qstr_Someday_perhaps_you_|Un giorno, forse, potresti avere l'onore di essere sepolto come re.
 qstr_Meat_is_a_welcome_ad|La carne è un'aggiunta bentvenuta nella dieta dei tuoi uomini.
 qstr_Two_berserkir_join_y|Cue berserker si uniscono alla tua armata!
-; qstr_Two_ulfhednar_join_y|Two ulfhednar join your army!
-; qstr_Your_men_gather_arou|Your men gather around, cheering and betting. The atmosphere is tense. Suddenly, the disputes around you become more widespread. Other men draw their weapons, and a fight on a larger scale ensues. Before you can impose order again, several men die.
+qstr_Two_ulfhednar_join_y|Due ulfhednar si uniscono al tuo esercito!
+qstr_Your_men_gather_arou|I tuoi uomini si radunano, festeggiano e scommettono tra loro. Le urla aumentano e l'atmosfera si fa tesa. All'improvviso intorno a te gli animi si accendono, mentre altri uomini estraggono le armi e ne segue una lotta su scala più ampia. Prima che tu possa imporre nuovamente l'ordine, diversi uomini muoiono.
 qstr_Your_reputation_incr|La tua reputazione aumenta tra i vostri uomini quando tornate da loro, lasciandovi alle spalle due cadaveri appesi a un albero.
-; qstr_Your_men_complain_of|Your men complain of not being able to enjoy a good fight, seeing that drunkenness on campaign is punishable by few lashes.
-; qstr_The_merchant_takes_t|The merchant takes the money and gives you a heavy package wrapped in a long cloth. When you unwrap it and discover that he has sold you a normal sword, the merchant is already well away.
+qstr_Your_men_complain_of|I tuoi uomini si lamentano di non aver potuto ancora assistere ad una bella scazzottata, nonostante l'ubriachezza durante la campagna di guerra sia punibile con poche frustate.
+qstr_The_merchant_takes_t|Il mercante prende i soldi e ti dà un pacco pesante avvolto in un lungo panno. Quando lo apri e scopri che ti ha venduto una normalissima spada, il mercante è ormai lontano.
 qstr_The_merchant_takes_h|Il mercante si congeda e torna da dove è venuto.
 qstr_Your_men_attack_the_|I tuoi uomini attaccano la fattoria, uccidono il contadino e i suoi schiavi, tornano con delle scorte di cibo.
 qstr_Your_men_think_you_re_|I tuoi uomini pensano che tu sia un capo debole incapace di agire contro chi ti insulta.
 qstr_The_men_take_the_mon|Gli uomini prendono i soldi e ti lasciano proseguire.
-; qstr_Without_warning_you_|Without warning, you order your men to attack. The two strangers try to flee but are killed by your warriors. No one comes to reinforce them.
-; qstr_The_two_men_move_asi|The two men move aside when you ignore them and continue your way. No one attacks your army. It was all a lie.
-; qstr_The_scout_who_has_st|The scout, who has stolen money, spreads the rumor among your men that you are greedy.
+qstr_Without_warning_you_|Senza preavviso, ordini ai tuoi uomini di attaccare. I due sconosciuti cercano di scappare ma vengono uccisi dai tuoi guerrieri. Nessuno rinforzo viene a soccorrerli.
+qstr_The_two_men_move_asi|I due uomini si fanno da parte quando li ignori e continui per la tua strada. Nessuno attacca il tuo esercito. Era tutta una bugia.
+qstr_The_scout_who_has_st|L'esploratore, che ha rubato il denaro, diffonde la voce tra i tuoi uomini che sei avido.
 qstr_The_scout_hides_his_|L'esploratore nasconde il suo tesoro, senza che nessuno se ne accorga.
 qstr_The_distribution_of_|La distribuzione delle monete rende felici i tuoi uomini, pensano che sei un capo giusto.
 qstr_The_men_head_home_di|Gli uomini tornano alle propie case, sono delusi.
-; qstr_The_farmers_give_you|The farmers give you thanks and promise to name the next one of their children after you.
+qstr_The_farmers_give_you|I contadini ti ringraziano e promettono di chiamare il prossimo dei loro figli con il tuo nome.
 qstr_The_farmers_give_you_|I contadini ti ringraziano. Sembrano sollevati e molto felici.
 qstr_The_farmers_thank_yo|I contadini ti ringraziano. forse il loro signore capirà la situazione.
-; qstr_The_farmers_thank_you|The farmers thank you, although they are not happy with your counsel. It will cost the lives of many of their children next winter.
+qstr_The_farmers_thank_you|I contadini ti ringraziano, anche se non sono contenti del tuo consiglio, visto che costerà la vita a molti dei loro figli, il prossimo inverno.
 qstr_She_thanks_you_and_h|Ringrazi e ti dirigi alla città più vicina.
-; qstr_She_thanks_you_profu|She thanks you profusely and heads back to her village, a little weak from the ordeal.
+qstr_She_thanks_you_profu|Ti ringrazia profusamente e torna al suo villaggio, un pò debole per la dura prova.
 qstr_The_days_get_longer_|Le giornate si allungano e si allenta la presa dell'inverno. Le foglie verdi crescono ancora una volta sugli alberi.
-; qstr_The_sun_greets_you_e|The sun greets you early in the morning and sends you to bed at night.
-; qstr_As_nature_becomes_a_|As nature becomes a plethora of colours, people replenish their stores and prepare for winter.
-; qstr_The_night_steals_fro|The night steals from the day and grows long, while the frost threatens to do away with the weak and the old.
+qstr_The_sun_greets_you_e|Il sole ti saluta presto la mattina e ti manda a letto la sera.
+qstr_As_nature_becomes_a_|Mentre la natura esplode in una pletora di colori, le persone riempiono di provviste i magazzini e si preparano per l'inverno.
+qstr_The_night_steals_fro|La notte dura più a lungo rispetto al giorno, mentre il gelo minaccia sia i deboli che gli anziani.
 qstr_Temporary_quarters_a|Gli alloggiamenti temporanei non sono un buon posto per tenere i prigionieri.  {reg1}  prigionieri sono scappati.
-; qstr_You_have_become_a_be|You have become a berserker. When you go berserk, you gain great speed and strength in the heat of battle, but this brutal ferocity turns your vision red. (Use key T to increase your power strike)
-; qstr_Your_studies_in_poet|Your studies in poetry and rhetoric have been productive. This newly acquired skill in oratory will increase your leadership in battle as you urge on your men in combat. (Use key T to evoke a war cry)
-; qstr_The_exhausting_athle|The exhausting athletics regimen you have applied to your troops makes them faster and more maneuverable in battle. They show their new confidence by taunting their enemies. (Use key T to evoke a shield taunt)
-; qstr_Your_incessant_conce|Your incessant concern about the maintenance of your men's shields and armors makes it harder for the enemy to wound them. They show their new confidence by beating their shields. (Use key T to evoke a shield taunt)
-; qstr_On_this_day_the_fore|On this day, the foreman couldn't even pay the wages, so he paid with produced goods instead.
+qstr_You_have_become_a_be|Sei diventato un berserker. Quando l'ira ti assale, ottieni grande velocità e forza durante la battaglia, ma questa brutale ferocia copre la tua vista di un rosso sangue. (Usa il tasto T per cadere in ira ed aumentare l'abilità "Colpo Potente")
+qstr_Your_studies_in_poet|I tuoi studi di poesia e retorica si sono rivelati utili. Questa abilità oratoria acquisita di recente aumenterà la tua abilità "Comando" in battaglia mentre solleciti i tuoi uomini in combattimento. (Usa il tasto T per evocare un grido di guerra)
+qstr_The_exhausting_athle|L'estenuante allenamento fisico a cui hai sottoposto le tue truppe le rende più veloci e manovrabili in battaglia. Mostrano la loro nuova fiducia schernendo i loro nemici. (Usa il tasto T per far sbattere le armi contro gli scudi  schernendo il nemico)
+qstr_Your_incessant_conce|La tua continua ossessione per la manutenzione di scudi ed armature dei tuoi uomini rende più difficile per il nemico ferirli. Mostrano la loro nuova fiducia battendo i loro scudi. (Usa il tasto T per far sbattere le armi contro gli scudi)
+qstr_On_this_day_the_fore|Oggi il caposquadra non ha potuto dare lo stipendio alle truppe, quindi ha pagato con varie mercanzie.
 qstr_However_on_this_day_|Tuttavia, in questo giorno avete imparato qualcosa dal vostro lavoro.
 qstr_However_on_this_day_y|Tuttavia, in questo giorno hai ottenuto molto e sei stato pagato il doppio.
-; qstr_However_you_befriend|However, you befriended some workers from {s2}.
+qstr_However_you_befriend|Tuttavia, hai stretto amicizia con alcuni lavoratori di {s2}.
 qstr_One_lord_can_disemba|Un signore può sbarcare qui.
 qstr_{reg1}_lords_can_dis|{reg1} signori possono sbarcare qui.
 qstr_One_lord_will_lose_t|Un signore perderà le vostre tracce per un pò. Deve sbarcare al porto successivo e poi venire a cercarti.

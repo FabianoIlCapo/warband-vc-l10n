@@ -6,20 +6,20 @@ menu_start_game_3|Scegli lo scenario:
 mno_go_back|Indietro
 menu_tutorial|Ti avvicini a un campo dove i locali stanno facendo pratica con le armi. Puoi fare pratica qui per migliorare le tue abilità di combattimento.
 mno_continue|Continua...
-menu_reports|Fama del Personaggio: {reg5}^Livello d'Onore: {reg6}^Morale della Compagnia: {reg8}^Limite di Dimensione della Compagnia: {reg7}^
-mno_resume_travelling|Torna al viaggio.
+menu_reports|Fama del Personaggio: {reg5}^Livello d'Onore: {reg6}^Morale della Compagnia: {reg8}^Limite della Compagnia: {reg7}^
+mno_resume_travelling|Riprendi viaggio.
 menu_start_phase_2x|Indietro
 mno_town_4|Continua.
-menu_custom_battle_end|La battaglia è finita. {s1} La tua fazione ha ucciso {reg5} nemici e perso {reg6} truppe durante la battaglia. Tu hai messo fuori combattimento o ucciso {reg7} avversari in battaglia.
+menu_custom_battle_end|La battaglia è finita. {s1} La tua fazione ha ucciso {reg5} nemici e perso {reg6} truppe durante la battaglia. Tu hai ucciso personalmente {reg7} avversari in battaglia.
 menu_start_game_2|Benvenuto in Viking Conquest.
 menu_start_game_1|Benvenuto in Viking Conquest.
-menu_start_game_11|Esci?
-menu_start_game_4|Hai fatto delle scelte. Non sarà possibile cambiare le tue preferenze dopo l'inizio dell partita. Vuoi continuare con le scelte fatte?
-menu_camp|Sei nell'accampamento. Cosa vuoi fare?
-mno_camp_action|Fai un'azione.
+menu_start_game_11|Uscire?
+menu_start_game_4|Hai fatto delle scelte. Non potrai più cambiarle dopo l'inizio della partita. Vuoi mantenerle e continuare?
+menu_camp|Hai allestito il campo. Cosa vuoi fare?
+mno_camp_action|Compi un'azione.
 mno_camp_wait_here|Aspetta qui per un po' di tempo.
-menu_camp_action_rest|Il Campo permette ai tuoi uomini di riposare per riprendersi dal duro viaggio. Inoltre consente di sfamarsi ed aumentare le scorte di cibo. Questo è particolarmente utile durante una campagna in territorio nemico, dove è difficile comprare rifornimenti.
-menu_build_refuge_new|I tuoi uomini attendono il tuo ordine per iniziare a costruire il rifugio. Hai già raccolto materiali sufficenti e ciò che manca può essere acquistato nei villaggi vicini^^Costo totale:.. 1000 peningas.^Tempo necessario: 6 ore.
+menu_camp_action_rest|Accamparsi permette ai tuoi uomini di riposare e riprendersi dal duro viaggio. Inoltre vi consente di foraggiarvi, aumentando le scorte di cibo. Ciò è particolarmente utile durante una campagna in territorio nemico, dove è difficile comprare rifornimenti.
+menu_build_refuge_new|I tuoi uomini attendono i tuoi ordini per iniziare a costruire il rifugio. Hai già raccolto materiali sufficenti e ciò che manca può essere acquistato nei villaggi vicini.^^Costo totale: 1000 peningas.^Tempo necessario: 6 ore.
 mno_refuge_here|Avvia i lavori.
 menu_camp_cheat|Seleziona un trucco:
 mno_camp_cheat_find_item|Trova un oggetto...
@@ -28,9 +28,9 @@ mno_back_to_camp_menu|Torna al menù del campo.
 menu_cheat_testing_cheats1|Seleziona un trucco:
 menu_storyline_cheat|Seleziona un trucco:
 mno_back_cm|Indietro.
-menu_camp_action|Fai un'azione:
-mno_toggle_cheat_on|Attiva Visualizza menu trucchi.
-mno_toggle_cheat_off|Disattiva Visualizza menu trucchi
+menu_camp_action|Scegli un'azione:
+mno_toggle_cheat_on| Attiva Menu Trucchi.
+mno_toggle_cheat_off| Disattiva Menu Trucchi.
 mno_camp_action_4|Torna al menù del campo.
 menu_camp_recruit_prisoners|Offri a dei prigionieri la libertà se accettano di diventare tuoi soldati. {s18}
 mno_camp_recruit_prisoners_accept|Reclutali.
@@ -41,13 +41,13 @@ menu_camp_action_read_book|Scegli un libro da leggere:
 menu_retirement_verify|Sei al giorno {reg0}. I tuoi averi sono {reg1}. Sei sicuro di volerti ritirare?
 mno_retire_yes|Si.
 mno_retire_no|No.
-menu_end_game|La decisione è presa, hai la risolutezza di abbandonare la vita avventurosa e stabilirti in una città. Vendi le tue armi e armature, raccogli tutte le tue ricchezze, e ti allontani cavalcando verso il tramonto....
+menu_end_game|La decisione è presa, hai la risolutezza di abbandonare la vita avventurosa e stabilirti in una città. Vendi le tue armi e armature, raccogli tutti i tuoi soldi e ti allontani cavalcando verso il tramonto....
 mno_end_game_bye|Addio.
 menu_cattle_herd|Hai incontrato una mandria di bestiame.
 mno_cattle_drive_away|Guida la mandria.
 mno_cattle_stop|Ferma la mandria.
 mno_cattle_kill|Macella qualche animale.
-mno_leave|Lascia.
+mno_leave|Parti.
 menu_cattle_herd_kill|Quanti animali vuoi macellare?
 mno_cattle_kill_1|Uno.
 mno_cattle_kill_2|Due.
@@ -55,8 +55,8 @@ mno_cattle_kill_3|Tre.
 mno_cattle_kill_4|Quattro.
 mno_cattle_kill_5|Cinque.
 mno_cattle_kill_20|Venti.
-menu_arena_duel_fight|Un duello è una cosa molto seria, soprattutto se è all'ultimo sangue. In due entrate nel cerchio, ma solo uno viene fuori ... ^^ Il corpo e la mente reagiscono allo stress e al pericolo. Si sente il sudore freddo sotto le ascelle, il tipo che viene a prescindere dal fatto che sia o no caldo. È il sudore della lotta, e la sua presenza indica che si ... sei pronto.
-menu_simple_encounter|{s2} Tu hai {reg10} truppe pronte per la battaglia contro le sue {reg11}.^^{s7}
+menu_arena_duel_fight|Un duello è una cosa molto seria, soprattutto se all'ultimo sangue. In due entrano nel cerchio, ma solo uno ne uscirà... ^^ Il corpo e la mente reagiscono allo stress e al pericolo. Senti il sudore freddo sotto le ascelle, del tipo che viene a prescindere dal fatto che faccia caldo o meno. È il sudore della lotta e la sua presenza indica che... sei pronto.
+menu_simple_encounter|{s2} Possiedi {reg10} truppe pronte per la battaglia contro le loro {reg11}.^^{s7}
 mno_playerambush_attack|Attacco in un'Imboscata.
 mno_ambush_attack|Difesa da un'Imboscata.
 mno_encounter_attack|{s7} il nemico.
@@ -65,14 +65,14 @@ mno_encounter_order_attack|Ordina alle tue truppe di attaccare senza di te.
 mno_tactical_nuevo|Ordini del Comandante.
 mno_encounter_leave|Lascia.
 mno_encounter_retreat|Scappa, lasciando alcuni soldati indietro per coprirti la ritirata.
-mno_encounter_surrender|Arrendetevi.
-menu_encounter_retreat_confirm|Come membro della Compagnia con la migliore capacità tattica, ({reg2}), {reg3?decidi:{s3} consiglia} di formulare un piano che permetterà a te e ai tuoi uomini di fuggire, ma dovrai lasciare {reg4} soldati indietro a fermare il nemico. 
-mno_leave_behind|Andiamo. Il sacrificio di questi uomini salverà tutti gli altri.
+mno_encounter_surrender|Arrenditi.
+menu_encounter_retreat_confirm|Come membro della Compagnia con la migliore capacità tattica, ({reg2}), {reg3?decidi:{s3} consiglia} di formulare un piano che permetterà a te e ai tuoi uomini di fuggire illesi, ma dovrai lasciare {reg4} soldati per impedire al nemico di inseguirvi. 
+mno_leave_behind|Avanti. Il sacrificio di questi uomini salverà tutti gli altri.
 mno_dont_leave_behind|No. Non lasciamo indietro nessuno.
 menu_encounter_retreat|Ordini a {reg4} dei tuoi soldati di fermare il nemico mentre ti ritiri con il resto della Compagnia.
 menu_order_attack_begin|Le tue truppe si preparano ad attaccare il nemico.
-mno_order_attack_begin|Ordina l'Inizio dell'Attacco.
-mno_call_back|Richiama indietro le truppe.
+mno_order_attack_begin|Ordina l'attacco.
+mno_call_back|Richiamali indietro.
 menu_order_attack_2|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico: {s9}
 mno_order_attack_continue|Ordina ai tuoi uomini di continuare l'attacco.
 mno_order_retreat|Richiama indietro le truppe.
@@ -82,7 +82,7 @@ menu_pre_join|Arrivi in mezzo alla battaglia tra {s2} e {s1}. Decidi di...
 mno_pre_join_help_attackers|Muoverti in aiuto di {s2}.
 mno_pre_join_help_defenders|Fornire sostegno a {s1}.
 mno_pre_join_leave|Non farti coinvolgere.
-menu_join_battle|Stai aiutando {s2} contro {s1}. Avete {reg10} truppe pronte per la battaglia contro le {reg11} del nemico.
+menu_join_battle|Stai aiutando {s2} contro {s1}. Hai {reg10} truppe pronte per la battaglia contro le {reg11} del nemico.
 mno_join_attack|{s7} il nemico.
 mno_join_order_attack|Ordina alle tue truppe di unirsi ai tuoi alleati mentre rimani nella retroguardia.
 mno_join_leave|Lascia.
@@ -101,52 +101,52 @@ menu_salt_mine|Entri nella miniera di sale.
 mno_enter|Entra.
 menu_four_ways_inn|Arrivi alla Locanda Quattro Vie.
 menu_test_scene|Entra in una scena test.
-menu_quarry1|Sei arrivato in una Cava. I suoni di Carri e Picconi riempiono l'aria come il lavoro degli uomini liberi.
+menu_quarry1|Sei arrivato in una Cava. I rumori dei carri e dei picconi riempiono l'aria mentre diversi uomini liberi lavorano.
 mno_enterqu|Entra.
 mno_leavequ|Parti.
-menu_salt_mine_vc|Sei arrivato in una Miniera di Sale. I suoni di Carri e Pale riempiono l'aria come il lavoro degli uomini liberi.
+menu_salt_mine_vc|Sei arrivato in una miniera di sale. I rumori dei carretti e delle pale riempiono l'aria mentre diversi uomini liberi lavorano.
 mno_enter_sm|Entra.
 mno_leave_sm|Parti.
-menu_lumber_camp|Sei Arrivato in un Campo di Legname. Il suono di Asce e Seghe riempiono l'aria come il lavoro degli uomini liberi.
+menu_lumber_camp|Sei arrivato in un campo di legname. Il rumore delle asce e delle seghe riempiono l'aria mentre diversi uomini liberi lavorano.
 mno_enter_lc|Entra.
 mno_leave_lc|Parti.
-menu_farmstead_special|Sei Arrivato in una Fattoria. Le Fattorie Producono Prodotti Alimentari, Quindi qui sono più Economici.^^{s10}
+menu_farmstead_special|Sei arrivato in una fattoria. Le fattorie sono la fonte dei prodotti alimentari, che sono più economici qui.^^{s10}
 mno_take_cattlefs|Prendi un pò del suo bestiame.
 mno_enter_fs|Entra.
 mno_leave_fs|Parti.
 menu_hadrian_wall1|Sei arrivato ai resti di quello che una volta era il Vallo di Adriano.
 mno_enter_hw|Entra.
 mno_leave_hw|Parti.
-menu_celidon_forest|Davanti a voi c'è un posto strano che sembra emanare un'energia mistica del passato.
+menu_celidon_forest|Davanti a te c'è un posto strano che sembra emanare un'energia mistica dal passato.
 mno_enter_ce|Entra.
 mno_leave_ce|Parti.
-menu_hidden_valley|Sei arrivato in un posto strano che assomiglia a delle rovine romane. I tuoi uomini si accampano dietro di voi mentre cominciate ad esplorare ...
+menu_hidden_valley|Sei arrivato in uno strano luogo che somiglia a delle rovine romane. I tuoi uomini si accampano dietro di te mentre cominciate ad esplorare ...
 mno_enter_hv|Indaga.
 mno_leave_hv|Parti.
 menu_join_siege_outside|{s1} è assediato da {s2}.
 mno_approach_besiegers|Avvicinati al campo degli assedianti.
 mno_pass_through_siege|Oltrepassa le linee d'assedio ed entra a {s1}.
-menu_cut_siege_without_fight| Gli assedianti ti lasciano avvicinare ai cancelli senza attaccarti.
-menu_besiegers_camp_with_allies|{s1} rimane sotto assedio. Le bandiere della {s2} sventolano sul campo degli assedianti, mentre tu e i tuoi uomini ricevete il benvenuto.
+menu_cut_siege_without_fight|Gli assedianti ti lasciano avvicinare ai cancelli senza attaccarti.
+menu_besiegers_camp_with_allies|{s1} rimane sotto assedio. Gli stendardi di {s2} sventolano sul campo degli assedianti, mentre tu e i tuoi uomini ricevete il benvenuto.
 mno_talk_to_siege_commander|Richiedi un incontro con il comandante.
 mno_join_siege_with_allies|Unisciti al prossimo assalto.
 mno_join_siege_stay_back|Ordina ai tuoi uomini di unirsi al prossimo assalto senza di te.
 menu_castle_outside|Sei all'esterno di {s2}.{s11} {s3} {s4}
-mno_approach_gates|Avvicinati al castello e saluta le guardie.
+mno_approach_gates|Avvicinati ai cancelli e saluta la guardia.
 mno_town_sneak|Camuffati e prova ad intrufolarti a {s7}
 mno_castle_start_siege|Assedia {reg6?la città:il castello}.
 mno_castle_leave|Lascia.
 menu_castle_guard|Ti avvicini ai cancelli. Gli uomini sulle mura ti scrutano attentamente.^^{s10}
 mno_request_shelter|Chiedi di entrare nel castello.
-mno_request_meeting_commander|Chiedi di incontrare il comandante.
+mno_request_meeting_commander|Richiedi un incontro con qualcuno.
 mno_guard_leave|Lascia.
 menu_castle_entry_granted|Dopo una breve attesa, le guardie aprono i cancelli e permettono a te e alla tua Compagnia di entrare.
 menu_castle_entry_denied|Il signore del castello ha vietato il tuo ingresso entro le mura, e l'ufficiale delle guardie ti informa che i suoi uomini ti attaccheranno se ti avvicinerai ulteriormente.
 menu_castle_meeting|Chi vuoi incontrare?
 mno_forget_it|Lascia stare.
-menu_castle_meeting_selected|La tua richiesta per un incontro viene trasmessa e finalmente {s6} appare nel cortile per parlare con te.
+menu_castle_meeting_selected|La tua richiesta di un incontro viene riferita all'interno e finalmente {s6} appare nel cortile per parlare con te.
 menu_port_attack|Stai attaccando il porto di {s1}. Hai {reg10} truppe pronte per la battaglia contro il nemico {reg11}.
-mno_lead_attack|Porta i tuoi soldati in un assalto costiero.
+mno_lead_attack|Guida i tuoi soldati in un assalto costiero.
 mno_attack_stay_back|Ordina ai tuoi uomini di attaccare mentre tu rimani nelle retrovie...
 mno_lift_siege|Abbandona l'attacco.
 menu_castle_besiege|Stai assediando {s4}. {s2} ^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}
@@ -155,54 +155,54 @@ mno_siege_warfare_p|Guerra d'assedio (Pianifica Assedio).
 mno_siege_assault_p|Guerra d'assedio (Prepara l'assalto).
 mno_siege_assault_camp|Il tuo Accampamento d' Assedio.
 mno_wait_24_hours|Aspetta fino a domani.
-menu_siege_plan|Ti incontri con i tuoi consulenti per pianificare l'assedio e cercare di conquistare {s4} con le minor perdite possibili. La tua strategia potrebbe essere quello di portare il posto alla carestie e alla demoralizzazione.^^{s15} {s17} {s18} {s19} {s20}
-mno_build_circunvalation|Bloccare: costruisce posti di blocco intorno {s4}
-mno_close_circunvalation|I posti di blocco sono Completati. Ora Ordina di attivare l'Osservazione.
-mno_town_investigar|Investiga sulle difese: prova ad infiltrarti. (L'abilità Osservazione aiuta)
+menu_siege_plan|Ti incontri con i tuoi consulenti per pianificare l'assedio e cercare di conquistare {s4} con le minor perdite possibili. La tua strategia potrebbe essere quella di portare carestia e demoralizzazione al luogo.^^{s15} {s17} {s18} {s19} {s20}
+mno_build_circunvalation|Blocco: costruisci posti di blocco intorno {s4}
+mno_close_circunvalation|I posti di blocco sono completati. Ora ordina il turno di guardia.
+mno_town_investigar|Investiga sulle difese: prova ad infiltrarti. (Seguire Tracce)
 mno_traicion_interna|Trova un traditore all'interno delle difese di {s4}.
 mno_traicion_interna3|Novità dagli uomini inviati in cerca di un traditore?
 mno_infiltracion_interna|Manda alcuni uomini ad infiltrarsi.
 mno_infiltracion_interna3|Novità dagli uomini inviati a infiltrarsi?
-mno_build_varios|Ordina la costruzione di servizi igienico-sanitari per prevenire le malattie.
-mno_destruir_campos_a|Saccheggia le fattorie per riempiere i tuoi rifornimenti e provocare danni al nemico.
-mno_destruir_campos_b|Novità dall'uomo che ho inviato a saccheggiare le fattorie?
-menu_siege_assault|Il tempo è essenziale, e si teme l'arrivo dei rinforzi per il posto. Assaltare significherà pesanti perdite, ma avete fatto la vostra parte. ^^ {s17} {s18} {s19}
-mno_scout_investigar|Chiama gli esploratori per fare rapporto su  {s4}.
+mno_build_varios|Ordina la costruzione di servizi igienici per prevenire le malattie.
+mno_destruir_campos_a|Saccheggia le fattorie per rifornire le tue scorte e danneggiare il nemico.
+mno_destruir_campos_b|Novità dagli uomini che ho inviato a saccheggiare le fattorie?
+menu_siege_assault|Il tempo è essenziale e temi l'arrivo dei rinforzi del luogo. Assaltare significherà pesanti perdite, ma hai preso la tua decisione.^^ {s17} {s18} {s19}
+mno_scout_investigar|Chiama gli esploratori per fare rapporto su {s4}.
 mno_poniendo_elementos_mantles|Ordina all'avanguardia di piazzare i mantelletti.
 mno_poniendo_elementos|Ordina all'avanguardia di preparare l'assalto.
 mno_castle_lead_attack|È arrivata l'ora. Guida i tuoi soldati all'assalto!
 mno_build_mantlet|Costruisci Mantelletti.
 mno_build_ladders|Costruisci l'attrezzatura e libera il terreno per l'assalto.
 mno_build_siege_tower|Costruisci una torre d'assedio e altre attrezzature per assaltare la fortezza. Gli assalti possono provocare molte vittime.
-menu_siege_attack_meets_sally|I difensori si apprestano a respingere l'assalto.
-menu_nofood_siege_defenders_sally|La mancanza di cibo costringe i difensori disperati di {s4} ad un'incursione all'esterno nel tentativo di rompere l'assedio.
-menu_surrender_siege_defenders_starved|I difensori di {s4} non possono più resistere. L mancanza di cibo li ha debilitati. Già i più deboli sono morti di fame, e in alcuni casi, la necessità ha portato a cannibalismo. ^ {s4} è pronto ad arrendersi...
+menu_siege_attack_meets_sally|I difensori escono fuori per affrontare il tuo assalto.
+menu_nofood_siege_defenders_sally|La mancanza di cibo costringe i difensori disperati di {s4} ad uscire nel tentativo di rompere l'assedio.
+menu_surrender_siege_defenders_starved|I difensori di {s4} non possono più resistere. La mancanza di cibo li ha debilitati. Già i più deboli sono morti di fame e, in alcuni casi, la necessità ha portato al cannibalismo.^{s4} è pronto ad arrendersi...
 menu_castle_attack_walls_simulate2|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico: {s10}
-menu_sneak_into_town_suceeded2|Travestito e sotto la copertura delle tenebre, ti sei infiltrato {s4}. È il momento di scoprire le loro difese.
-menu_construct_saneamiento|I servizi igienico-sanitari sono importanti per impedire le malattie e ratti. È possibile costruire latrine e condutture per prevenire l'accumulo di fango e sporcizia dalla pioggia, e scavare un serbatoio per avere una fornitura d'acqua disponibile. Vuoi farlo? ^ ci vorranno 4 ore.
+menu_sneak_into_town_suceeded2|Travestito e sotto la copertura delle tenebre, ti sei infiltrato in {s4}. È il momento di spiare le loro difese.
+menu_construct_saneamiento|I servizi igienici sono importanti per evitare i ratti e le malattie. È possibile costruire latrine e condutture per prevenire l'accumulo di fango e sporcizia dalla pioggia e scavare un serbatoio per avere disponibile una riserva d'acqua. Vuoi farlo?^Ci vorranno 4 ore.
 mno_build_saneamiento|Fallo.
-menu_construct_circunvalation|Bloccando un luogo protegge le tue truppe durante l'assedio, aiuta ad per evitare alcuni schermagliatori nemici e impedisce l'ingresso di cibo e rinforzi. Inoltre abbassa il morale del nemico e ti aiuta a negoziare la resa del posto. ^ ^ come membro del gruppo con il più alto punteggio dell'abilità dingegneria, ({reg2}), {reg3?you estimate:{s3} estimates} che la costruzione del blocco intorno al luogo richiederà {reg4} ore.
+menu_construct_circunvalation|Un blocco protegge le tue truppe durante l'assedio, aiuta ad evitare alcuni schermagliatori nemici e impedisce l'ingresso di cibo e rinforzi. Inoltre abbassa il morale del nemico e ti aiuta a negoziare la resa del luogo.^^Come membro del gruppo con il più alto livello di Ingegneria, ({reg2}), {reg3?tu stimi:{s3} stima} che la costruzione del blocco intorno al luogo richiederà {reg4} ore.
 mno_build_circun_cont|Fallo.
 menu_traicion_interna2|Le opere di assedio cominciano a demoralizzare i difensori. Alcuni dei tuoi soldati sono disposti a contattare la guarnigione o gli abitanti di {s4} per sondare se qualcuno sarebbe disposto a disertare e facilitare la conquista. Hanno bisogno di 500 peningas per il lavoro.
-mno_intentar_traicion|Consentire questi uomini di cercare un traditore.
+mno_intentar_traicion|Consenti a questi uomini di cercare un traditore.
 menu_traicion_resultado1|Sono tornati senza notizie. Nessuno è disposto a diventare un traditore.
 mno_back_behind|Beh, che sfortuna.
-menu_traicion_resultado2|Signore! I nostri uomini sono stati scoperti vicino alle mura. Stanno combattendo per farsi strada {s4}. Guarda là presso la porta. Stanno cercando di fuggire, ma sono circondati...
-mno_ayudar_infiltrados|Ordina: di inviare un ulteriore gruppo di uomini in loro aiuto.
-mno_leave_men|Lascia gli uomini al loro destino. Sapevano cosa poteva succedere.
-menu_traicion_resultado3|I tuoi uomini sono tornati. Un traditore all'interno del luogo ha incendiato i fienili e presto fuggirà {s4} per unirsi al tuo esercito. Il nemico perderà buona parte delle loro scorte di cibo a causa di questo.
+menu_traicion_resultado2|Signore! I nostri uomini sono stati scoperti vicino le mura. Stanno combattendo per farsi strada a {s4}. Guarda là presso l'ingresso. Stanno cercando di fuggire, ma sono circondati...
+mno_ayudar_infiltrados|Ordine: inviare un ulteriore gruppo di uomini in loro aiuto.
+mno_leave_men|Lascia gli uomini al loro destino. Sapevano cosa sarebbe successo.
+menu_traicion_resultado3|I tuoi uomini sono tornati. Un traditore del posto ha incendiato i fienili e presto fuggirà {s4} per unirsi al tuo esercito. Il nemico perderà buona parte delle loro scorte di cibo a causa di questo.
 mno_back_to_siege|Ben fatto.
-menu_traicion_resultado4|I tuoi uomini sono tornati. Essi riferiscono che c'è un traditore che conosce la routine della guarnigione, e lui è disposto a portare una piccola forza per tendere un'imboscata al nemico quando arrivano per le forniture di acqua, al ruscello vicino fuori dalle mura...
-mno_atacar_emboscada_player|Andate da soli con i vostri compagni più stretti.
-mno_atacar_emboscada|Ordina: Di inviare un gruppo di uomini con il traditore per svolgere l'imboscata.
-menu_emboscada_player|Muovendosi attraverso la vegetazione, avete preso i nemici di sorpresa e hanno dato una buona prova di voi stessi. Ora la guarnigione ci penserà due volte prima di inviare fuori gli uomini.
+menu_traicion_resultado4|I tuoi uomini sono tornati. Essi riferiscono che c'è un traditore che conosce la routine della guarnigione ed è disposto a guidare una piccola forza per tendere un'imboscata al nemico quando arrivano alle riserve di acqua, un vicino ruscello fuori dalle mura...
+mno_atacar_emboscada_player|Vai te stesso con i vostri compagni più stretti.
+mno_atacar_emboscada|Ordine: invia un gruppo di uomini con il traditore per eseguire l'imboscata.
+menu_emboscada_player|Muovendovi attraverso la vegetazione, avete preso i nemici di sorpresa e dato una bella prova di voi stessi. Ora la guarnigione ci penserà due volte prima di inviare fuori gli uomini.
 mno_emboscada_playerok|Vittoria!
-menu_emboscada_nada|I tuoi uomini si spostano sotto la copertura della vegetazione, lontano dagli occhi vigili delle mura, ma quando arrivano al punto di incontro, non c'è nessuno. Il presunto traditore è stato scoperto o si è pentito. I tuoi uomini ritornano delusi.
+menu_emboscada_nada|I tuoi uomini si spostano sotto la copertura della vegetazione, lontano dagli occhi vigili sulle mura, ma quando arrivano al punto di incontro non c'è nessuno. Il presunto traditore è stato scoperto o si è pentito. I tuoi uomini ritornano delusi.
 mno_emboscada_nanai|Non preoccuparti. Ci sarà un'altra occasione.
 menu_emboscada_lose|Allarme! Tradimento! Il presunto traditore ha portato i tuoi uomini in un'imboscata. Stanno combattendo disperatamente, lasciando molti uomini sul campo.
 mno_regreso_lucha|Le tue peggiori paure si sono avverate.
-menu_emboscada_victory|Il traditore conduce i tuoi uomini attraverso la notte ad una collina che controlla il percorso di un pozzo. I tuoi uomini assumono posizioni nella vegetazione, in silenzio, le loro facce tinte di nero. Allo spuntar del giorno, i tuoi uomini individuano un folto gruppo di nemici con l'acqua. ^ ^ un grido di battaglia riempie la valle e i tuoi soldati cadono sul nemico come una marea di morte... uccidendone molti.
-menu_traicion_resultado5|Quando i tuoi uomini ritornano, ti dicono che hanno contattato un uomo che ha il controllo delle razioni, e ha promesso di aumentare il prezzo del cibo ai suoi concittadini per seminare il malcontento, che li rende più propensi abbandonare la fortezza.
+menu_emboscada_victory|Il traditore conduce i tuoi uomini nella notte ad una collina che controlla il percorso fino a un pozzo. I tuoi uomini prendono posizione nella vegetazione, in silenzio, con i volti macchiati di nero. Allo spuntar del giorno, i tuoi uomini individuano un folto gruppo di nemici vicino le acque.^^Un grido di battaglia riempie la valle mentre i tuoi soldati cadono sul nemico come una ondata di morte... uccidendone molti.
+menu_traicion_resultado5|Quando i tuoi uomini ritornano, ti dicono di aver contattato un uomo che ha il controllo delle razioni e ha promesso di aumentare il prezzo del cibo ai suoi concittadini per seminare il malcontento, rendendoli più propensi ad abbandonare la fortezza.
 mno_traicion_moral|Perfetto!
 menu_traicion_lucha|I tuoi uomini e il nemico combattono fino alla morte ai piedi delle mura, dove qualunque cosa sfavorisce le tue truppe. Li guardi combattere e ritirarsi di fronte a te. Molti corpi sono lasciati indietro. ^^Le tue perdite: {s8}^^Le perdite del nemico: {s10}
 mno_regreso_luchar|Bene, non lasciamo indietro nessuno.
