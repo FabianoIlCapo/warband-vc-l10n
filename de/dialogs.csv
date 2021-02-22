@@ -1400,7 +1400,6 @@ dlga_player_siege_castle_commander_1:player_hostage_surrender|Ich verlange eure 
 dlga_player_siege_castle_commander_1:player_siege_tributo|Ich biete eine ehrenvolle Vereinbarung, die Belagerung zu beenden. Zahlt uns einen Tribut, und wir gehen.
 dlga_player_siege_castle_commander_1:close_window|Nichts. Ich verlasse Euch jetzt.
 dlga_player_siege_ask_surrender:close_window|Kapitulation? Es ist ein Witz, richtig? Sie haben nur sehr wenige Männer, um die Festung zu stürmen.
-dlga_player_siege_ask_surrender:close_window.2|Und ergeben? Hah! Wir können diese Mauern halten, bis wir an Altersschwäche sterben.
 dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject|Ich gebe Euch überhaupt nichts. Gebt auf, oder bereitet Euch darauf vor zu sterben!
 dlga_player_siege_ask_surrender_treatment_reject:close_window|Bastard! Wir werden Euch bis zum letzten Mann bekämpfen!
 dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_accept|Sie werden freigekauft werden und Ihre Soldaten werden Leben. Ich gebe Ihnen mein Wort.
@@ -3916,7 +3915,7 @@ dlga_start:prison_guard_talk.1|Ja, eure Hoheit?
 dlga_prison_guard_talk:prison_guard_ask_prisoners|Wer ist hier eingesperrt?
 dlga_prison_guard_talk:prison_guard_visit_prison|Ich wünsche einen Gefangenen zu sprechen.
 dlga_prison_guard_talk:prison_guard_release|Ich befehle euch, die Gefangenen zu befreien.
-; dlga_prison_guard_release:prison_guard_release1|You're the king, your order is my command, but our lord may take offence to that. Who do you wish to release?
+; dlga_prison_guard_release:prison_guard_release1|You certainly have the authority to make this demand, but our lord may take offence. Whom do you wish to release?
 dlga_prison_guard_release1:prison_guard_talk|Vergesst es
 dlga_prison_guard_release2:prison_guard_talk|Wie Ihr wollt.
 dlga_prison_guard_ask_prisoners:prison_guard_talk|Momentan {reg1?sind:ist} {s50} hier eingekerkert.{s49}
@@ -3964,11 +3963,11 @@ dlga_request_meeting_4:request_meeting_5|Wartet hier. Ich werde ihm Euer Ansinne
 dlga_request_meeting_5:request_meeting_6|Ich warte...
 dlga_request_meeting_6:close_window|In Ordnung. {s2} wird jetzt mit Euch sprechen.
 dlga_request_meeting_6:close_window.1|{s2} wird Euch nicht empfangen. Packt Euch.
-dlga_castle_gate_open:close_window|Mein Fürst {s2} wird Euch gerne empfangen, {mein Herr/meine Dame}. Kommt herein. Ich lasse die Tore für Euch öffnen.
-dlga_castle_gate_open:close_window.1|Mein Fürst {s2} befindet sich momentan nicht in der Burg, doch ich denke, dass er Euch hier Unterkunft gewähren würde. Kommt herein. Ich lasse die Tore für Euch öffnen.
+; dlga_castle_gate_open:close_window|My lord, {s2}, will be happy to see you {reg59?madam:sir}. Come on in. I am opening the gates for you.
+; dlga_castle_gate_open:close_window.1|My lord, {s2}, is not in the castle now. But I think he would approve of you taking shelter here. Come on in. I am opening the gates for you.
 dlga_castle_gate_open:close_window.2|Kommt herein. Ich lasse die Tore für Euch öffnen.
-dlga_castle_gate_open:close_window.3|Kommt herein, doch sorgt dafür, dass sich Eure Männer innerhalb unserer Mauern anständig benehmen. Mein Fürst {s2} möchte hier keine Schwierigkeiten.
-dlga_castle_gate_open:close_window.4|Mein Fürst {s2} will Euch hier nicht. Packt Euch.
+; dlga_castle_gate_open:close_window.3|Come on in. But make sure your men behave sensibly within the walls. My lord, {s2}, does not want trouble here.
+; dlga_castle_gate_open:close_window.4|My lord, {s2}, does not want you here. Begone now.
 ; dlga_start:close_window.74|You have come just in time. Let us join our forces now and teach our enemy a lesson.
 dlga_start:close_window.75|Es ist ein Fehler gegen uns zu kämpfen.
 dlga_start:ally_thanks_meet|Ich glaube nicht, dass wir einander angemessen vorgestellt wurden, mein Freund. Ihr habt dort draußen mein Leben gerettet, und doch weiß ich immer noch nicht, wer Ihr seid ...
@@ -5055,21 +5054,22 @@ dlga_old_ayuda_4:close_window|Danke. Nehmt dieses Geld und kehrt so bald wie mö
 dlga_start:quarry_refugee2|Ich bin beschäftigt. Sprecht mit dem Vorarbeiter.
 dlga_quarry_refugee2:close_window|Sehr schön. Lebt wohl.
 dlga_start:capataz_talk|Was willst du? Siehst du nicht, dass ich beschäftigt bin?
-dlga_capataz_pretalk:capataz_talk|Ja?
+; dlga_capataz_pretalk:capataz_talk|What else?
 dlga_capataz_talk:capataz_angry|Passt auf, wie Ihr mit mir sprecht, Mann, oder ich werde Euch eine schmerzhafte Antwort geben.
 dlga_capataz_angry:close_window|Pah! Ich habe Euch nicht beleidigt, und das Gesetz schützt uns. Ich habe besseres zu tun.
 dlga_capataz_talk:capataz_ayuda|Ich möchte meine Sklaven hier arbeiten lassen.
 ; dlga_start:close_window.102|You haven't finished your work yet. As I said, the stone down here must be broken out of the earth.
 dlga_capataz_talk:quarry_work_0|Ich würde gern hier arbeiten.
-dlga_quarry_work_0:quarry_work_1|Tagelöhner können wir gebrauchen. Wir zahlen 5 Pfennige pro Tag. 
-dlga_quarry_work_1:close_window|Ich bin nicht interessiert.
+; dlga_quarry_work_0:quarry_work_1|We have use for a day laborer. We pay {reg1} peningas per day.
 dlga_quarry_work_1:quarry_work_2|Sehr gut. Ich möchte für einen Tag hier arbeiten.
+dlga_quarry_work_1:capataz_pretalk|Ich bin nicht interessiert.
 dlga_quarry_work_2:close_window|Die Steine hier unten müssen aus der Erde gebrochen werden. Hier ist eine Spitzhacke.
 dlga_capataz_ayuda:close_window|Verzeiht, {reg59?meine Dame:Herr}, aber dieser Ort gehört uns. Er gehörte unseren Väter und vor ihnen, unseren Großvätern. Nur meine Männer und meine Sklaven arbeiten hier.
 dlga_capataz_talk:capataz_sins|Ich würde gerne etwas von dem Zeug, was ihr hier abbaut, kaufen.
 dlga_capataz_sins:capataz_pretalk|Leider habe ich den Rest an jemand anderen versprochen.
-dlga_capataz_sins2:capataz_pretalk|Sehr gut. Ich möchte welche kaufen.
-dlga_capataz_sins2:capataz_pretalk.1|Eigentlich würde ich lieber über andere Dinge reden.
+dlga_capataz_sins2:capataz_sins_end|Sehr gut. Ich möchte welche kaufen.
+; dlga_capataz_sins_end:close_window|Pleasure doing business with you.
+dlga_capataz_sins2:capataz_pretalk|Eigentlich würde ich lieber über andere Dinge reden.
 dlga_capataz_talk:capataz_venta|Ich möchte Euch all meine Gefangenen verkaufen.
 dlga_capataz_venta:capataz_venta2|Gut, ich werde Euch für jeden Gefangenen einfach 15 Pfennige bezahlen, da mir ihre Qualität oder Vergangenheit egal sind. Wenn Euch das wichtig ist, ich kann Euch garantieren, dass sie niemals von hier entkommen werden. Sind wir im Geschäft?
 dlga_capataz_venta2:capataz_venta3|Ja, das ist akzeptabel.
@@ -5082,14 +5082,15 @@ dlga_capataz_talk2:capataz_angry2|Was ist hier geschehen?
 dlga_capataz_angry2:close_window|Salz. Arbeit. Mehr Salz. Wie du sehen kannst. Ich habe jetzt noch etwas zu erledigen.
 dlga_start:close_window.103|Ihr habt Eure Arbeit noch nicht erledigt. Wie ich schon sagte, im Tunnel neben mir muss das Salz aus dem Berg geschlagen werden.
 dlga_capataz_talk2:salt_work_0|Ich würde gern hier arbeiten.
-dlga_salt_work_0:salt_work_1|Tagelöhner können wir gebrauchen. Wir zahlen 5 Pfennige pro Tag. 
-dlga_salt_work_1:close_window|Ich bin nicht interessiert.
+; dlga_salt_work_0:salt_work_1|We have use for a day laborer. We pay {reg1} peningas per day.
 dlga_salt_work_1:salt_work_2|Sehr gut. Ich möchte für einen Tag hier arbeiten.
+dlga_salt_work_1:capataz_pretalk2|Ich bin nicht interessiert.
 dlga_salt_work_2:close_window|Im Tunnel neben muss das Salz aus dem Berg geschlagen werden. Hier ist eine Spitzhacke. 
 dlga_capataz_talk2:capataz_sins2_2|Ich möchte Salz kaufen.
 dlga_capataz_sins2_2:capataz_sins22|Gut, Ihr seid am richtigen Ort. {s4}
 dlga_capataz_sins2_2:capataz_pretalk2|Entschuldigt, Ich habe vor kurzem den letzten Sack Salz an jemand anderen verkauft.
-dlga_capataz_sins22:capataz_pretalk2|Sehr gut. Ich möchte welche kaufen.
+dlga_capataz_sins22:capataz_sins_end|Sehr gut. Ich möchte welche kaufen.
+dlga_capataz_sins22:capataz_pretalk2|Eigentlich würde ich lieber über andere Dinge reden.
 dlga_capataz_talk2:capataz_venta2|Ich möchte Euch all meine Gefangenen verkaufen.
 dlga_capataz_venta2:capataz_venta22|Gut, ich werde Euch für jeden Gefangenen einfach 30 Pfennige bezahlen, da mir ihre Qualität oder Vergangenheit egal sind. Wenn Euch das wichtig ist, ich kann Euch garantieren, dass sie niemals von hier entkommen werden. Sind wir im Geschäft?
 dlga_capataz_venta22:capataz_venta32|Ja, dass ist akzeptabel.
@@ -5101,9 +5102,9 @@ dlga_start:capataz_talk3|Ja, das ist ein Arbeitslager.
 dlga_capataz_pretalk3:capataz_talk3|Wie kann ich sonst noch helfen?
 dlga_start:close_window.105|Ihr habt Eure Arbeit noch nicht beendet. Wie ich gesagt habe, muss das Holz neben mir in kleinere Stücke geschnitten werden, und die Bäume hinter diesem Haus müssen gefällt werden.
 dlga_capataz_talk3:lumber_work_0|Ich würde gern hier arbeiten.
-dlga_lumber_work_0:lumber_work_1|Tagelöhner können wir gebrauchen. Wir zahlen 4 Pfennige pro Tag. 
-dlga_lumber_work_1:close_window|Ich bin nicht interessiert.
+; dlga_lumber_work_0:lumber_work_1|We have use for a day laborer. We pay {reg1} peningas per day.
 dlga_lumber_work_1:lumber_work_2|Sehr gut. Ich möchte für einen Tag hier arbeiten.
+dlga_lumber_work_1:capataz_pretalk3|Ich bin nicht interessiert.
 dlga_lumber_work_2:close_window|Das Holz neben mir muss in kleinere Stücke gehackt werden, und die Bäume hinter diesem Haus müssen gefällt werden. Hier ist Eure Axt.
 dlga_capataz_talk3:lumbercamp_angry|So schöne Bäume, aber sie brennen auch leicht. Ich könnte dafür sorgen, dass sie das nicht tun -- gegen eine kleine Gebühr.
 dlga_lumbercamp_angry:lumbercamp_extortion|Oh? Nun, es ist wahr, dass ich kein Feuer mag. Ich zahle Eure... Gebühr.
@@ -5113,7 +5114,8 @@ dlga_capataz_talk3:capataz_sins3|Ich möchte Holz kaufen.
 dlga_capataz_talk3:close_window|Ich muss gehen.
 dlga_capataz_sins3:capataz_sins23|Selbstverständlich! {s4}
 dlga_capataz_sins3:capataz_pretalk3|Es tut uns leid, einer der Fürsten aus der Gegend hat kürzlich alles verlangt was wir hatten.
-dlga_capataz_sins23:capataz_pretalk3|Sehr gut. Ich möchte gerne welche kaufen.
+dlga_capataz_sins23:capataz_sins_end|Sehr gut. Ich möchte gerne welche kaufen.
+dlga_capataz_sins23:capataz_pretalk3|Eigentlich würde ich lieber über andere Dinge reden.
 dlga_start:close_window.106|Ihr werdet keinen Pfennig von uns sehen!
 dlga_start:farmstead_boss_talk|Herzlich Willkommen auf unserem Bauernhof. Bitte nehmt Euch etwas Brot und Bier. Wie kann ich Euch helfen?
 dlga_farmstead_boss_pretalk:farmstead_boss_talk|Kann ich Euch sonst noch helfen?
@@ -5123,9 +5125,9 @@ dlga_farmstead_boss_extortion:farmstead_boss_pretalk|Gut gemacht, mein Freund. I
 dlga_farmstead_boss_angry:close_window|Ärger? Belästigt mich noch einmal, und ich zeige euch Ärger!
 dlga_start:close_window.107|Ihr habt Eure Arbeit noch nicht erledigt. Wie ich schon sagte, muss das Heu auf den beiden Weizenfeldern nahe des Hofes aufgestapelt werden.
 dlga_farmstead_boss_talk:farmstead_work_0|Ich würde gern hier arbeiten.
-dlga_farmstead_work_0:farmstead_work_1|Tagelöhner können wir gebrauchen. Wir zahlen 3 Pfennige pro Tag. 
-dlga_farmstead_work_1:close_window|Ich bin nicht interessiert.
+; dlga_farmstead_work_0:farmstead_work_1|We have a use for a day laborer. We pay {reg1} peningas per day.
 dlga_farmstead_work_1:farmstead_work_2|Sehr gut. Ich möchte für einen Tag hier arbeiten.
+dlga_farmstead_work_1:farmstead_boss_pretalk|Ich bin nicht interessiert.
 dlga_farmstead_work_2:close_window|Auf den beiden Weizenfeldern nahe des Hofs muss das Heu gestapelt werden. Hier ist eine Heugabel.
 dlga_farmstead_boss_talk:farmstead_boss_ayuda|Ich sehe einige von Euren Männern hängen hier nur herum. Kann ich einige von ihnen mitnehmen?
 dlga_farmstead_boss_ayuda:farmstead_boss_ayuda2|Um die Wahrheit zu sagen, {reg59?meine Dame:mein Herr}, meine Diener und Sklaven vermehren sich wie die Karnickel und essen zu viel auf. Es käme mir sehr gelegen, die Überflüssigen zu verkaufen und ich mache Euch einen guten Preis. Hundert Pfennige für den Haufen.
@@ -5135,8 +5137,8 @@ dlga_farmstead_boss_ayuda3:farmstead_boss_pretalk|{reg0} Burschen in allen.
 dlga_farmstead_boss_talk:farmstead_boss_sins|Was habt ihr anzubieten?
 dlga_farmstead_boss_talk:close_window|Ich muss gehen.
 dlga_farmstead_boss_sins:farmstead_boss_pretalk|Mein Fürst hat mir gerade mitgeteilt, dass er den Rest dessen benötigt, was ich für ein Fest habe.
-dlga_farmstead_boss_sins2:farmstead_boss_pretalk|Ich bin interessiert. Lasst mich sehen.
-dlga_farmstead_boss_sins2:farmstead_boss_pretalk.1|Nein, bin ich auf der Suche nach etwas anderem.
+dlga_farmstead_boss_sins2:capataz_sins_end|Ich bin interessiert. Lasst mich sehen.
+dlga_farmstead_boss_sins2:farmstead_boss_pretalk|Nein, bin ich auf der Suche nach etwas anderem.
 dlga_farmstead_boss_talk:farmstead_boss_cattle|Ich habe {reg25} Rinder mitgebracht. Darf ich sie hier halten lassen?
 dlga_farmstead_boss_cattle:farmstead_boss_cattle1|Wir können das schaffen {playername}.
 dlga_farmstead_boss_cattle:farmstead_boss_pretalk|{playername}, wie es aussieht, haben wir leider zu viele Rinder.
@@ -5330,13 +5332,13 @@ dlga_merchant_quest_explain_2:merchant_quest_brief|Wir sagen nicht, dass {s5} di
 dlga_merchant_quest_brief:merchant_quest_retaliate_confirm|Ihr müsst {s7} angreifen und besiegen. Dies ist keine leichte Aufgabe, und ihr würdet Eure Beziehungen zu den {s10} beschädigen, aber wir wären Euch sehr zu Dank verpflichtet. Wir würden keinerlei Verbindungen zu Euch zugeben, aber wir würden zusehen, dass Ihr fürstlich belohnt werdet ... Könntet Ihr dies für uns tun?
 dlga_merchant_quest_retaliate_confirm:merchant_quest_track_bandits_brief|Ja, das kann ich tun.
 dlga_merchant_quest_retaliate_confirm:merchant_pretalk|Ich ziehe es vor, nicht in solcherlei Angelegenheiten verwickelt zu werden.
-dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice|Die Räuber haben ihre Schiffe vermutlich in einer gut versteckten Bucht geankert, irgendwo an der Küste, wahrscheinlich nahe einem kleinen Fluss, der ihnen Wasser liefert. Der beste Weg, diesen Ort zu finden, ist, einer Gruppe Seeräuber zu folgen, die zum Nachschubfassen zurück zu ihrem Stützpunkt zurückkehren.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice|Banditen wie diese schlagen ihr Lager normalerweise im Hochland auf, oft auf einer steilen Klippe, von der aus sie die umliegenden Ländereien sehen können. Das macht einen Überraschungsangriff schwierig. Der beste Weg, diesen Ort zu finden, ist, einer Gruppe Bergbanditen zu folgen, die zum Nachschubfassen zurück zu ihrem Stützpunkt zurückkehren.
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.1|Solche Banditen schlagen ihre Verstecke meist in den Hügeln am Rand einer Wüste auf, oft in einer Klamm in der Nähe einer Quelle, wo sie  Deckung und Wasser haben. Der beste Weg, diesen Ort zu finden, ist, einer Gruppe Wüstenräuber zu folgen, die zum Nachschubfassen zurück zu ihrem Stützpunkt zurückkehren.
-dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.2|Banditen wie diese schlagen ihr Lager normalerweise im Hochland auf, oft auf einer steilen Klippe, von der aus sie die umliegenden Ländereien sehen können. Das macht einen Überraschungsangriff schwierig. Der beste Weg, diesen Ort zu finden, ist, einer Gruppe Bergbanditen zu folgen, die zum Nachschubfassen zurück zu ihrem Stützpunkt zurückkehren.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.2|Banditen wie diese schlagen ihr Lager normalerweise tief im Wald auf, oft mitten in einem Sumpf.  Der beste Weg, diesen Ort zu finden, ist, einer Gruppe Waldbanditen zu folgen, die zum Nachschubfassen zurück zu ihrem Stützpunkt zurückkehren.
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.3|Banditen wie diese schlagen ihr Lager normalerweise tief im Wald auf, oft mitten in einem Sumpf.  Der beste Weg, diesen Ort zu finden, ist, einer Gruppe Waldbanditen zu folgen, die zum Nachschubfassen zurück zu ihrem Stützpunkt zurückkehren.
-dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.4|Banditen wie diese schlagen ihr Lager normalerweise in Wäldern auf der Steppe auf, wo sie vor neugierigen Augen geschützt sind.  Der beste Weg, diesen Ort zu finden, ist, einer Gruppe Steppenbanditen zu folgen, die zum Nachschubfassen zurück zu ihrem Stützpunkt zurückkehren.
-dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.5|Banditen wie diese schlagen ihr Lager normalerweise tief in den Wäldern auf.  Der beste Weg, diesen Ort zu finden, ist, einer Gruppe Tundrabanditen zu folgen, die zum Nachschubfassen zurück zu ihrem Stützpunkt zurückkehren.
-; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.6|Bandits such as these will usually set up their encampments deep in the woods. The best way to discover its location would be to find a group of bandits who appear to be heading back to their base to resupply, and follow them.
+; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.4|Bandits such as these will usually set up their encampments deep in the woods. The best way to discover its location would be to find a group of bandits who appear to be heading back to their base to resupply, and follow them.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.5|Die Räuber haben ihre Schiffe vermutlich in einer gut versteckten Bucht geankert, irgendwo an der Küste, wahrscheinlich nahe einem kleinen Fluss, der ihnen Wasser liefert. Der beste Weg, diesen Ort zu finden, ist, einer Gruppe Seeräuber zu folgen, die zum Nachschubfassen zurück zu ihrem Stützpunkt zurückkehren.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.6|Solche Banditen schlagen ihre Verstecke meist in den Hügeln am Rand einer Wüste auf, oft in einer Klamm in der Nähe einer Quelle, wo sie  Deckung und Wasser haben. Der beste Weg, diesen Ort zu finden, ist, einer Gruppe Wüstenräuber zu folgen, die zum Nachschubfassen zurück zu ihrem Stützpunkt zurückkehren.
 dlga_merchant_quest_track_bandit_lair_choice:merchant_quest_destroy_lair_brief|Gut, ich mache es.
 dlga_merchant_quest_track_bandit_lair_choice:lord_pretalk|Ich fürchte, ich kann den Auftrag momentan nicht annehmen.
 dlga_merchant_quest_destroy_lair_brief:close_window|Sehr wohl. Wir warten dann auf Nachricht von Eurem Erfolg.

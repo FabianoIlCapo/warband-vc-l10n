@@ -32,6 +32,7 @@ qstr_{s33}|{s33}
 ; qstr_It_seems_your_soldie|It seems your soldiers had a good time and helped themselves to some of the drinks in your inventory.
 ; qstr_It_seems_someone_wen|It seems someone went through your inventory and stole some of your {s33}.
 ; qstr_{s22}|{s22}
+; qstr_{s1}_of_{s2}_has_bee|{s1} of {s2} has been released from captivity.
 ; qstr_{s33}_was_beaten_up_|{s33} was beaten up and thrown into dungeon by an angry crowd in {s34}.
 ; qstr_{s33}_s_attempts_to_|{s33}'s attempts to influence people of {s34} have failed.
 ; qstr_The_people_of_{s34}_|The people of {s34} hate you so much that the guards did not allow {s33} to enter.
@@ -69,6 +70,7 @@ qstr_You_have_{reg0}_days|Você tem {reg0} dias para terminar esta missão.
 ; qstr_{s1}_has_switched_fr|{s1} has switched from the {s2} to the {s3}.
 ; qstr_The_merchants__rest_|The merchants' rest hall in {s1} adds to its prosperity.
 ; qstr_Christian_monastery_|Christian monastery at {s33} improves Christian faith in {s34}.
+; qstr_Pagan_hof_at_{s33}_r|Pagan hof at {s33} reduces Christian faith in {s34}.
 ; qstr_The_scriptorium_in_{|The scriptorium in {s1} adds to your renown.
 ; qstr_Due_to_the_good_word|Due to the good word Christian clergymen spread about you, your relationship with the {s1} improves.
 ; qstr_Due_to_the_bad_word_|Due to the bad word Christian clergymen spread about you, your relationship with the {s1} declines.
@@ -490,10 +492,10 @@ qstr_{s3}^^{s4}|{s3} ^^ {s4}
 ; qstr___He_tilts_his_head_|--He tilts his head and stares, pondering the answer.--
 ; qstr_You_wish_to_know_abo|You wish to know about the great Ragnar Lodbrok, from the Ynglingeaetten clan, descendants of Odin, eh? Well, he was a jarl feared by all Christians. He attacked Englaland and Frankia many times, and he is famous for his huge expeditions. He knew how to unite and lead men.
 ; qstr___He_looks_directly_|--He looks directly at you with emphatic blue eyes.--
-; qstr_Ragnar_was_more_than|Ragnar was more than a man, and his sons, too -- he had many sons with his many wives, especially Lathgertha and Aslaug. Ivar the Boneless, Bjorn Ironside, Halfdan, Sigurd 'Snake in the Eye,' Ubbe, and others... He had more than ten sons and many daughters.^If you are so clever, you will avoid confronting them. You should even ask Sigurd's forgiveness for killing his men in Doccinga.
+; qstr_Ragnar_was_more_than|Ragnar was more than a man, and his sons, too -- he had many sons with his many wives, especially Lathgertha and Aslaug. Ivar the Boneless, Bjorn Ironside, Halfdan, Sigurd 'Snake in the Eye,' Hubbi, and others... He had more than ten sons and many daughters.^If you are so clever, you will avoid confronting them. You should even ask Sigurd's forgiveness for killing his men in Doccinga.
 ; qstr___He_spits_to_the_si|--He spits to the side before continuing.--
 ; qstr_Unfortunately_King_A|Unfortunately, King Aelle of Northhymbre, in Englaland, took Ragnar prisoner and threw him into a pit of poisonous snakes. Now, Ragnar's sons have gone to Northhymbre and killed its kings. Northhymbre is Danish land now, and soon the rest of Englaland will follow. Sigurd 'Snake in the Eye' and Ragnar's other sons are calling to arms many men in Danmark. They will join Ivar and Halfdan Ragnarsson and will advance over rest of Englaland, everyone knows.
-; qstr_Note_1:_Ragnar_Lodbr|Note 1: Ragnar Lodbrok, a Viking now dead, had several wives, but the major were Lathgertha and Aslaug, and many children, some of whose names  are: Ivar the Boneless, Bjorn Ironside, Halfdan, Sigurd 'Snake in the Eye,' and Ubbe. Ragnar's sons are attacking Englaland in revenge for the execution of his father by a king now dead, Aelle of Northhymbre.
+; qstr_Note_1:_Ragnar_Lodbr|Note 1: Ragnar Lodbrok, a Viking now dead, had several wives, but the major were Lathgertha and Aslaug, and many children, some of whose names  are: Ivar the Boneless, Bjorn Ironside, Halfdan, Sigurd 'Snake in the Eye,' and Hubbi. Ragnar's sons are attacking Englaland in revenge for the execution of his father by a king now dead, Aelle of Northhymbre.
 ; qstr___He_thinks_for_a_fe|--He thinks for a few seconds.--
 ; qstr_Yes_we_attacked_some|Yes, we attacked some ships recently, before Sven Bull Neck went away from us to Northhymbre. I remember the Woden Ric because I liked its name. Woden was an important god in Englaland before all became Christians. I remember once meeting a family that still worshiped Woden in a village we looted. They were the only ones whose lives were spared. Woden, we call Odin.
 ; qstr_They_were_idiots._Th|They were idiots. They stopped in the wreckage of other ships we had attacked, and it took us just a few hours to catch them. The wind was favorable and we boarded them. There were only a few warriors on board, so it was easy.
@@ -1258,32 +1260,16 @@ qstr_Prevent_AI_from_taki|Impedir que IA fique na defensiva:
 qstr_Anno_Domini_867|Anno Domini 867
 qstr_We_are_in_the_ninth_|Estamos no nono século. ^ Há muito se foram as luzes de Roma, ^ absorvidas pela maré do tempo, ^ ainda, vários séculos permanecem até que a ^ era dourada dos cavaleiros e princesas ^ chegue... ^ ^ Esta é uma brutal, escura e cruel ^ era de força bruta e sobrevivência, ^ onde homens vão para a cama todas as noites ^ orando para ver um novo dia.
 ; qstr_It_is_the_age_of_the|It is the age of the Viking,^the clans of Ireland, the ascension^of Wessex and the emergence of the^Kingdom of Alba.^^It awaits you...
-qstr_Choose_Campaign_Type|Escolher o Tipo de Campanha.
-qstr_Choose_Options.|Escolher Opções.
-qstr_You_can_change_these|Você pode alterar essas opções durante o jogo no seu Acampamento.
+qstr_More|Mais
+qstr_Campaign_Type|Tipo de Campanha
 qstr_ROYAL_SANDBOX_CAMPAI|CAMPANHA REALEZA DE MUNDO ABERTO
 qstr_LORDLY_SANDBOX_CAMPA|CAMPANHA NOBREZA DE MUNDO ABERTO
-qstr_SANDBOX_CAMPAIGN|CAMPANHA DE MUNDO ABERTO
 qstr_STORYLINE_CAMPAIGN|CAMPANHA DE ENREDO
+qstr_SANDBOX_CAMPAIGN|CAMPANHA DE MUNDO ABERTO
+qstr_Difficulty_Type|Tipo de Dificuldade
 qstr_Impossible|Impossível
 qstr_Full_Realism|Realismo Total
 qstr_Custom|Customizado
-qstr_Easy_Recruitment:|Recrutamento Fácil:
-qstr_Easy_Levelling:|Nivelamento Fácil:
-qstr_Easy_Upkeep:|Manutenção Fácil:
-qstr_Shield_Bash:|Golpe de Escudo:
-qstr_Stamina:|Resistência:
-qstr_Armor_Penalty:|Penalidade de Armadura:
-qstr_Rest_Improves_Morale|Descanso Melhora Moral:
-qstr_Insane_Difficulty:|Dificuldade Insana:
-qstr_{s4}|{s4}
-qstr_You_can_change_diffi|Você pode alterar configurações difíceis.
-qstr_Gore:|Sanguinolência:
-qstr_Disable_Scenic_Menu:|Desabilitar Menu Cênico:
-qstr_Campaign_type_cannot|Tipo de Campanha não pode ser alterado após o início do jogo.
-qstr_More|Mais
-qstr_Campaign_Type|Tipo de Campanha
-qstr_Difficulty_Type|Tipo de Dificuldade
 qstr_Options|Opções
 qstr_These_options_can_be|Essas opções podem ser alteradas posteriormente no menu do acampamento.
 qstr_Reduced_to_1/4__Easi|Reduzido para 1/4 (Muito Fácil)
@@ -1386,6 +1372,7 @@ qstr_Your_Kingdom|Seu Reino
 qstr_Name_^{playername}|Nome ^ {nome do jogador}
 qstr_Level:|Nível:
 qstr_Health:|Vitalidade:
+qstr_Stamina:|Resistência:
 qstr_Renown:|Renome:
 qstr_Reputation:|Reputação:
 qstr_Right_to_Rule:|Direito de Governar:
@@ -2205,7 +2192,6 @@ qstr_Wisdom._Also_called_|Sabedoria. Também chamada de Prudência, ela rege aç
 qstr_Fortitude._Also_call|Fortitude. Também chamada de Coragem, ela garante firmeza durante as dificuldades e constância na perseguição de objetivos. É a força para tomar uma decisão baseada em convicções morais, independente das consequências.
 qstr_Temperance._Also_cal|Temperança. Também chamada de Autocontrole, resiste à atração dos prazeres a fim de tornar o corpo governável. Temperança representa a contenção e controle sobre paixões e desejos.
 qstr_Justice._It_symboliz|Justiça. Ela simboliza respeito pela lei e promove recompensa ao bom e punimento ao mal.
-qstr_{s1}^^{s2}._{s3}|{s1} ^^ {s2}. {s3}
 qstr_You_are_a_foreigner.|Você é um estrangeiro.
 qstr_You_come_from_far_aw|Você veio de longe, buscando conhecer o norte da Europa, um mundo com dezenas de pequenos Reinos, todos molestados pelos Vikings.
 qstr_You_are_Scoto_Pict|Você é Scoto-Picto,
@@ -2426,6 +2412,15 @@ qstr_{s5}_has_been_defeat|{s5} foi derrotado!
 ; qstr_Kingdom_Centers_Repo|Kingdom Centers Report:^^^--Towns-- {s4}^^^^--Forts-- {s5}^^^^--Villages--{s6}^^
 qstr_Appoint_next_marshal|Indicar próximo general
 qstr_Award_{s12}_as_fief|Conceder {s12} como feudo
+; qstr_Political_issue:_{s1|Political issue: {s11}
+; qstr_{s10}__on_agenda_{re|{s10} (on agenda {reg4} hours)
+; qstr_Defending|Defending
+; qstr_Gathering_army|Gathering army
+; qstr_Besieging_{s11}|Besieging {s11}
+; qstr_Raiding_{s11}|Raiding {s11}
+; qstr_Attacking_enemies_ar|Attacking enemies around {s11}
+; qstr_{s12}__controversy:_|{s12} (controversy: {reg21})
+; qstr_{s12}^Screening_part|{s12}^Screening party: {s38}
 ; qstr_Kingdom_Global_Info:|Kingdom Global Info:^^{s10}^^{s9}
 ; qstr_From_this_area_you_c|From this area, you can give the following kingdom orders:
 ; qstr_>_Order_the_army_to_|> Order the army to gather.^^> Order all resources to be focused on the defense of the kingdom.^^> Order the landed levy to be called out. This is done only in situations of common peril or high campaign, as the levy requires all free and most capable men of fighting age to join.
@@ -2537,7 +2532,6 @@ qstr_^^Ally_Casualties:{s|^^Baixas de aliados:{s0}
 ; qstr_{s1}_of_the_{s3}_man|{s1} of the {s3} managed to escape.
 ; qstr_Your_party_lost_{reg|Your party lost {reg1} morale.
 ; qstr_Your_party_gained_{r|Your party gained {reg1} morale.
-; qstr_TEST:_Loot_value_bef|TEST: Loot value before: {reg1} and after: {reg2}
 ; qstr_Your_party_gained_{re|Your party gained {reg1} morale for the loot you shared.
 ; qstr_Your_party_lost_{reg1|Your party lost {reg1} morale, because your troops think you keep too much loot for yourself.
 qstr_Some_of_your_tendons|Você lesionou alguns tendões durante a batalha e perdeu 1 ponto de força.
@@ -2552,7 +2546,7 @@ qstr_I_suppose_it_ll_make|Pelo menos isso vai dar em uma boa história...
 ; qstr_You_have_{reg22}_hea|You have {reg22} head of cattle grazing here.
 ; qstr_{s8}_of_the_{s9}|{s8} of the {s9}
 ; qstr__As_you_reach_the_se| As you reach the settlement, you are greeted by your men.
-; qstr__As_you_reach_the_set| As you reach the settlement, you are greeted by men loyal to lord {s7}.
+; qstr__As_you_reach_the_set| As you reach the settlement, you are greeted by men loyal to {s7}.
 ; qstr__You_are_greeted_by_| You are greeted by men loyal to you.
 ; qstr__You_are_greeted_by_m| You are greeted by men loyal to {s7}.
 ; qstr_The_rulers_of_the_re|The rulers of the realms are troubled by your offense against the majesty of your lord.
@@ -2656,7 +2650,7 @@ qstr_You_fail_to_steal_an|Você não conseguiu roubar gado.
 ; qstr_^This_town_is_a_bast|^This town is a bastion of your faith.
 ; qstr__As_you_reach_the_sett| As you reach the settlement, you are greeted by your men.^{s15}
 ; qstr_{s11}^{s15}|{s11}^{s15}
-; qstr__As_you_reach_the_settl| As you reach the settlement, you are greeted by men loyal to Lord {s7}.^{s15}
+; qstr__As_you_reach_the_settl| As you reach the settlement, you are greeted by men loyal to {s7}.^{s15}
 ; qstr__This_fort_seems_to_| This fort seems to belong to no one.^{s15}
 ; qstr_You_are_greeted_by_m|You are greeted by men loyal to you.^{s15}
 ; qstr_You_are_greeted_by_me|You are greeted by men loyal to {s7}.^{s15}
@@ -2775,7 +2769,6 @@ qstr_{s13}_ordered_you_to|{s13} ordenou que você se junte ao ataque a {s14}.
 ; qstr_Note_Reginhard:_Regin|Note Reginhard: Reginhard betrayed you before the Assembly, and you had to kill him in a holmgang decreed by the Assembly.
 ; qstr_Note_Egil:_Reginhard_be|Note Egil: Reginhard betrayed you before the Assembly, but you forgave him. However, Egil did not accept your decision, and you had to kill him in a holmgang by the laws of the Assembly.
 ; qstr_The_holmgang_is_over|The holmgang is over. It's time to meet Asbjorn in {s3}.
-; qstr_You_remember_that_yo|You remember that you need to bring Ragnar's seax for this mission.
 ; qstr_Before_you_left_for_|Before you left for your trip to Frankia, someone sent a messenger to inform you that someone will meet you at a place called Boar Grove, near {s3}. There you must find the house of the lumberjack.
 ; qstr_Through_the_trees_yo|Through the trees, you can barely see a hut. The trees sough gently in the wind, and some birds sing, but you see no one.
 ; qstr_Through_the_trees_you|Through the trees, you can barely see the hut, now empty, where you met Beda.
@@ -3065,10 +3058,8 @@ qstr_You_need_to_get_the_p|Você precisa obter a permissão do Lorde deste lugar
 ; qstr_Division_{reg1}_{s2}_g|Division {reg1} {s2} goes to its memorized position...
 ; qstr_Division_{reg1}_{s2}_f|Division {reg1} {s2} forms line (memorized).
 ; qstr_Division_{reg1}_{s2}_fo|Division {reg1} {s2} forms {reg0} lines (memorized).
-; qstr_ENEMY_LORD_FOUND!|ENEMY LORD FOUND!
 ; qstr_{s1}_is_shouting_out|{s1} is shouting out his war cry!
 ; qstr_{s1}_is_starting_a_s|{s1} is starting a shield taunt!
-; qstr_ENEMY_LORD_TRAIT_ACT|ENEMY LORD TRAIT ACTIVATED!
 ; qstr_Spawned_{s13}|Spawned {s13}
 ; qstr_You_must_stay_behind|You must stay behind the line on the ground! The point doesn't count.
 ; qstr_All_around_you_unfol|All around you unfolds God's world, Ora et Labora, where men wear the habit. They are busy with their work, stopping only to eat, sleep or pray.
@@ -3094,7 +3085,7 @@ qstr_You_need_to_get_the_p|Você precisa obter a permissão do Lorde deste lugar
 ; qstr_Bodo_has_received_to|Bodo has received too many blows to continue fighting.
 ; qstr_Bodo_spots_you_shake|Bodo spots you, shakes his head, and silently indicates that there are still enemies about.
 ; qstr_Bandits_strike_at_yo|Bandits strike at you furiously, and you fall in a puddle of blood. They think you're dead...
-; qstr_The_bandits_and_slav|The bandits and slavers have been dealt with. Get the prisoners and leave through the air shaft.^^When you want to leave, press TAB.
+; qstr_The_bandits_and_slav|The bandits and slavers have been dealt with. Get the prisoners and leave.^^When you want to leave, press TAB.
 ; qstr_You_can_t_leave_the_|You can't leave the cave while there still enemies!
 ; qstr_You_have_just_killed|You have just killed the bandit king's main bodyguards. Rummaging through their things, you find some treasures. You still need to defeat the other bandits before you can collect your reward.
 ; qstr_You_have_killed_the_c|You have killed the captain, an ugly guy, big and crooked and smelling like a rat. Picking through the remains, you find a few useful things. You still need to defeat the other bandits before you can collect your reward.

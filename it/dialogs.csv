@@ -1400,7 +1400,6 @@ dlga_player_siege_castle_commander_1:player_hostage_surrender|Ti chiedo la resa 
 dlga_player_siege_castle_commander_1:player_siege_tributo|Offro un accordo onorevole per porre fine all'assedio. Redetemi omaggio, e vi lascierò andare.
 dlga_player_siege_castle_commander_1:close_window|Niente. Adesso vado.
 dlga_player_siege_ask_surrender:close_window|Arrenderci? stai scherzando, vero? Non hai abbastanza uomini per prendere d'assalto la fortezza.
-dlga_player_siege_ask_surrender:close_window.2|Arrenderci? Hah! Possiamo tenere queste mura fino morire di vecchiaia!
 dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject|Nessuna concessione. Arrendetevi adesso o preparatevi a morire!
 dlga_player_siege_ask_surrender_treatment_reject:close_window|Maledizione! Combatteremo fino all'ultimo uomo!
 dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_accept|Voi sarete catturato ma i vostri uomini saranno lasciati liberi. Vi dò la mia parola d'onore.
@@ -3916,7 +3915,7 @@ dlga_start:prison_guard_talk.1|Sì, vostra maestà?
 dlga_prison_guard_talk:prison_guard_ask_prisoners|Chi è imprigionato qui?
 dlga_prison_guard_talk:prison_guard_visit_prison|Voglio parlare con un prigioniero.
 dlga_prison_guard_talk:prison_guard_release|Ti ordino di rilasciare i prigionieri.
-dlga_prison_guard_release:prison_guard_release1|Voi siete il re, la vostra parola è ordine, ma il nostro signore potrebbe offendersi. Chi volete rilasciare?
+dlga_prison_guard_release:prison_guard_release1|Hai certamente l'autorità per fare questa richiesta, ma il nostro signore potrebbe offendersi. Chi desideri rilasciare?
 dlga_prison_guard_release1:prison_guard_talk|Non importa
 dlga_prison_guard_release2:prison_guard_talk|Come desiderate.
 dlga_prison_guard_ask_prisoners:prison_guard_talk|Al momento, {s50} {reg1?sono imprigionati:è imprigionato} qui.{s49}
@@ -3964,11 +3963,11 @@ dlga_request_meeting_4:request_meeting_5|Aspettate. Inoltrerò la vostra richies
 dlga_request_meeting_5:request_meeting_6|Sto aspettando...
 dlga_request_meeting_6:close_window|{reg59?Mia signora:Sire}, {s2} parlerà ora con voi.
 dlga_request_meeting_6:close_window.1|{s2} ha detto che non vi riceverà. Andatevene, dunque!
-dlga_castle_gate_open:close_window|Il mio signore {s2} sarebbe felice di vedervi. Venite dentro. Vi apro il cancello.
-dlga_castle_gate_open:close_window.1|Il mio signore {s2} non è nel castello ora. Ma penso che accetterebbe di lasciavi riposare. Venite dentro. Vi apro il cancello.
+dlga_castle_gate_open:close_window|Il mio signore, {s2}, sarà felice di vedervi. Venite dentro. Vi sto aprendo i cancelli.
+dlga_castle_gate_open:close_window.1|Il mio signore, {s2}, non è nel castello adesso. Ma penso che approverebbe che vi rifugiaste qui. Venite dentro. Vi sto aprendo i cancelli.
 dlga_castle_gate_open:close_window.2|Venite dentro. Vi apro il cancello.
-dlga_castle_gate_open:close_window.3|Venite dentro. Ma assicuratevi che i vostri uomini si comportino correttamente. Il mio signore {s2} non vuole problemi.
-dlga_castle_gate_open:close_window.4|Il mio signore {s2} non vi vuole qui. Andatevene ora, ve ne prego.
+dlga_castle_gate_open:close_window.3|Entrate. Ma assicuratevi che i vostri uomini si comportino in modo ragionevole all'interno delle mura. Il mio signore, {s2}, non vuole guai qui.
+dlga_castle_gate_open:close_window.4|Il mio signore, {s2}, non vi vuole qui. Andatevene adesso.
 dlga_start:close_window.74|Giungete appena in tempo. Unitevi alle nostre forze e diamo una lezione al nemico!
 dlga_start:close_window.75|State facendo un grave errore, decidendo di combattere contro di noi...
 dlga_start:ally_thanks_meet|Non credo di avervi mai incontrato, amico mio. Mi avete appena salvato la vita ed io ancora non conosco il vostro nome...
@@ -5055,21 +5054,22 @@ dlga_old_ayuda_4:close_window|Grazie. Prendete questo denaro e tornate il prima 
 dlga_start:quarry_refugee2|Sono occupato. Parlate con il capomastro.
 dlga_quarry_refugee2:close_window|Molto bene, buon uomo. Addio.
 dlga_start:capataz_talk|Cosa volete? Non vedete che sono occupato?
-dlga_capataz_pretalk:capataz_talk|Sì?
+dlga_capataz_pretalk:capataz_talk|Cos'altro?
 dlga_capataz_talk:capataz_angry|Attento a come vi rivolgete a me, amico, o vi dovrò dare una risposta dolorosa.
 dlga_capataz_angry:close_window|Bah! Non vi ho insultato, e le leggi ci proteggono. Ho di meglio da fare.
 dlga_capataz_talk:capataz_ayuda|Vorrei far lavorare i mie schiavi qui.
 dlga_start:close_window.102|Non avete ancora completato il vostro lavoro. Come ho già detto, quella pietra laggiù dev'essere tirata fuori dalla terra.
 dlga_capataz_talk:quarry_work_0|Mi piacerebbe lavorare qui.
-dlga_quarry_work_0:quarry_work_1|Ci farebbe comodo un lavoratore alla giornata. Paghiamo cinque peningas al giorno.
-dlga_quarry_work_1:close_window|Non sono interessato.
+dlga_quarry_work_0:quarry_work_1|Stiamo usando dei braccianti. Paghiamo {reg1} peningas al giorno.
 dlga_quarry_work_1:quarry_work_2|Molto bene, voglio lavorare qui un giorno.
+dlga_quarry_work_1:capataz_pretalk|Non sono interessato.
 dlga_quarry_work_2:close_window|La pietra laggiù dev'essere spaccata fuori dalla terra. Eccoti il piccone.
 dlga_capataz_ayuda:close_window|Mi spiace, mi{reg59?a signora:o signore}, ma questo posto è nostro. Apparteneva ai nostri padri e prima di loro, ai nostri nonni. Solo i miei uomini ed i miei schiavi lavorano qui.
 dlga_capataz_talk:capataz_sins|Vorrei comprare un po' di quello che state estraendo qui.
 dlga_capataz_sins:capataz_pretalk|Mi spiace, ho appena riservato il resto a qualcun altro.
-dlga_capataz_sins2:capataz_pretalk|Molto bene. Vorrei comprare qualcosa.
-dlga_capataz_sins2:capataz_pretalk.1|Veramente, preferirei parlare di altre cose.
+dlga_capataz_sins2:capataz_sins_end|Molto bene. Vorrei comprarne un po'.
+dlga_capataz_sins_end:close_window|È un piacere fare affari con te.
+dlga_capataz_sins2:capataz_pretalk|Veramente, preferirei parlare di altre cose.
 dlga_capataz_talk:capataz_venta|Vorrei venderti tutti i miei prigionieri.
 dlga_capataz_venta:capataz_venta2|Bene, vi pagherò un fisso di 15 peningas a prigioniero, in quanto non mi importa della loro qualità o del loro passato. Se vi potesse interessare, garantisco che non scapperanno da qui in alcun modo. Affare fatto?
 dlga_capataz_venta2:capataz_venta3|Sì, mi sembra accettabile.
@@ -5082,14 +5082,15 @@ dlga_capataz_talk2:capataz_angry2|Che succede qui?
 dlga_capataz_angry2:close_window|Sale. Lavoro. Più sale. Come potete vedere. Ora ho da fare.
 dlga_start:close_window.103|Non avete ancora finito il vostro lavoro. Come ho già detto, nel tunnel qui accanto c'è da tirare fuori il sale dalla montagna.
 dlga_capataz_talk2:salt_work_0|Mi piacerebbe lavorare qui.
-dlga_salt_work_0:salt_work_1|Ci farebbe comodo un lavoratore alla giornata. Paghiamo cinque peningas al giorno.
-dlga_salt_work_1:close_window|Non sono interessato.
+dlga_salt_work_0:salt_work_1|Stiamo usando dei braccianti. Paghiamo {reg1} peningas al giorno.
 dlga_salt_work_1:salt_work_2|Molto bene, voglio lavorare qui un giorno.
+dlga_salt_work_1:capataz_pretalk2|Non sono interessato.
 dlga_salt_work_2:close_window|Nel tunnel qui di fianco, bisogna estrarre il sale dalla montagna. Ecco il piccone.
 dlga_capataz_talk2:capataz_sins2_2|Voglio comprare un po' di sale.
 dlga_capataz_sins2_2:capataz_sins22|Beh, siete nel posto giusto. {s4}
 dlga_capataz_sins2_2:capataz_pretalk2|Peccato, ho appena venduto l'ultimo sacco di sale a qualcun altro.
-dlga_capataz_sins22:capataz_pretalk2|Molto bene. Vorrei comprarne un po'.
+dlga_capataz_sins22:capataz_sins_end|Molto bene. Vorrei comprarne un po'.
+dlga_capataz_sins22:capataz_pretalk2|Veramente, preferirei parlare di altre cose.
 dlga_capataz_talk2:capataz_venta2|Vorrei venderti tutti i miei prigionieri.
 dlga_capataz_venta2:capataz_venta22|Bene, vi pagherò un fisso di 30 peningas a prigioniero, in quanto non mi importa della loro qualità o del loro passato. Se vi potesse interessare, garantisco che non scapperanno da qui in alcun modo. Affare fatto?
 dlga_capataz_venta22:capataz_venta32|Sì, mi sembra accettabile.
@@ -5101,9 +5102,9 @@ dlga_start:capataz_talk3|Sì, questo è un campo di lavoro.
 dlga_capataz_pretalk3:capataz_talk3|In che altro posso aiutare?
 dlga_start:close_window.105|Non avete finito il vostro lavoro ancora. Come ho detto, il legno qui a fianco dev'essere tagliato in pezzi più piccoli, e gli alberi dietro a questa casa devono essere abbattuti.
 dlga_capataz_talk3:lumber_work_0|Mi piacerebbe lavorare qui.
-dlga_lumber_work_0:lumber_work_1|Ci farebbe comodo un lavoratore alla giornata. Paghiamo quattro peningas al giorno.
-dlga_lumber_work_1:close_window|Non sono interessato.
+dlga_lumber_work_0:lumber_work_1|Stiamo usando dei braccianti. Paghiamo {reg1} peningas al giorno.
 dlga_lumber_work_1:lumber_work_2|Molto bene, voglio lavorare qui un giorno.
+dlga_lumber_work_1:capataz_pretalk3|Non sono interessato.
 dlga_lumber_work_2:close_window|Questo legno va tagliato in pezzi più piccoli, e gli alberi dietro alla casa vanno abbattuti. Ecco la tua ascia.
 dlga_capataz_talk3:lumbercamp_angry|Che begli alberi, ma bruciano molto facilmente. Potrei assicurarmi che non scoppi nessun incendio -- per una piccola parcella.
 dlga_lumbercamp_angry:lumbercamp_extortion|Oh? Beh, di certo non mi piacciono gli incendi. Vi pagherò la vostra... parcella.
@@ -5113,7 +5114,8 @@ dlga_capataz_talk3:capataz_sins3|Voglio comprare un po' di legname.
 dlga_capataz_talk3:close_window|Devo andare.
 dlga_capataz_sins3:capataz_sins23|Certo! {s4}
 dlga_capataz_sins3:capataz_pretalk3|Spiacente, uno dei nobili della zona ha appena prenotato tutto quello che avevamo.
-dlga_capataz_sins23:capataz_pretalk3|Molto bene. Mi piacerebbe comprarne un po'.
+dlga_capataz_sins23:capataz_sins_end|Molto bene. Mi piacerebbe comprarne un po'.
+dlga_capataz_sins23:capataz_pretalk3|Veramente, preferirei parlare di altre cose.
 dlga_start:close_window.106|Non vedrai un singolo pening da noi!
 dlga_start:farmstead_boss_talk|Benvenut{reg59?a:o} alla nostra fattoria. Prego, servitevi con un po' di pane e della birra. Come posso aiutarvi?
 dlga_farmstead_boss_pretalk:farmstead_boss_talk|In quale altro modo posso aiutarvi?
@@ -5123,9 +5125,9 @@ dlga_farmstead_boss_extortion:farmstead_boss_pretalk|Ben fatto, mio caro. Ti ass
 dlga_farmstead_boss_angry:close_window|Problemi? Disturbatemi ancora, e vi farò vedere io i problemi!
 dlga_start:close_window.107|Non avete finito il vostro lavoro, ancora. Come già detto, il fieno nei due campi di grano vicino al cortile dev'essere impilato.
 dlga_farmstead_boss_talk:farmstead_work_0|Mi piacerebbe lavorare qui.
-dlga_farmstead_work_0:farmstead_work_1|Ci farebbe comodo un lavoratore alla giornata. Paghiamo tre peningas al giorno.
-dlga_farmstead_work_1:close_window|Non sono interessato.
+dlga_farmstead_work_0:farmstead_work_1|Stiamo usando dei braccianti. Paghiamo {reg1} peningas al giorno.
 dlga_farmstead_work_1:farmstead_work_2|Molto bene, voglio lavorare qui un giorno.
+dlga_farmstead_work_1:farmstead_boss_pretalk|Non sono interessato.
 dlga_farmstead_work_2:close_window|Il fieno nei due campi di grano vicino al cortile dev'essere impilato. Ecco il forcone.
 dlga_farmstead_boss_talk:farmstead_boss_ayuda|Vedo che alcuni dei vostri uomini stanno bighellonando in giro. Posso assumerli?
 dlga_farmstead_boss_ayuda:farmstead_boss_ayuda2|In tutta sincerità, mi{reg59?a signora:o signore}, i miei servi e schiavi si accoppiano come conigli e mangiano troppo di quello che viene prodotto. Mi piacerebbe vendere quelli in eccesso, e vi farò un buon prezzo. Un centinaio di peningas per il gruppo.
@@ -5135,8 +5137,8 @@ dlga_farmstead_boss_ayuda3:farmstead_boss_pretalk|{reg0} ragazzi in totale.
 dlga_farmstead_boss_talk:farmstead_boss_sins|Che cosa avete in vendita?
 dlga_farmstead_boss_talk:close_window|Devo andare.
 dlga_farmstead_boss_sins:farmstead_boss_pretalk|Il mio signore mi ha appena fatto sapere che ha bisogno delle rimanenze per una festa.
-dlga_farmstead_boss_sins2:farmstead_boss_pretalk|Sono interessato. Fatemi vedere.
-dlga_farmstead_boss_sins2:farmstead_boss_pretalk.1|No, sto cercando qualcosa d'altro.
+dlga_farmstead_boss_sins2:capataz_sins_end|Sono interessato. Fatemi vedere.
+dlga_farmstead_boss_sins2:farmstead_boss_pretalk|No, sto cercando qualcosa d'altro.
 dlga_farmstead_boss_talk:farmstead_boss_cattle|Ho {reg25} capi di bestiame con me. Posso farli tenere qui?
 dlga_farmstead_boss_cattle:farmstead_boss_cattle1|Si può fare, {playername}.
 dlga_farmstead_boss_cattle:farmstead_boss_pretalk|Sfortunatamente, {playername}, abbiamo troppo bestiame ora come ora.
@@ -5330,13 +5332,13 @@ dlga_merchant_quest_explain_2:merchant_quest_brief|Non stiamo dicendo che {s5} d
 dlga_merchant_quest_brief:merchant_quest_retaliate_confirm|Abbiamo bisogno di uno straniero per attaccare e sconfiggere {s7}. Questo non sarà un compito facile, e lo straniero potrebbe veder danneggiata la sua reputazione con i {s10}, ma noi gliene saremmo molto grati. Non potremo riconoscere pubblicamente un collegamento col suddetto sconosciuto, ma possiamo assicurare che sarà molto ben ricompensato... Potreste farlo voi?
 dlga_merchant_quest_retaliate_confirm:merchant_quest_track_bandits_brief|Si, lo farò.
 dlga_merchant_quest_retaliate_confirm:merchant_pretalk|Preferirei non immischiarmi in questo tipo di faccende.
-dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice|I vichinghi norvegesi sono soliti tenere le loro navi in disarmo in una baia ben nascosta, da qualche parte lungo la costa, preferibilmente vicino a un piccolo ruscello dove potersi rifornire d'acqua. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di predoni del mare che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice|Banditi come questi di solito stabiliscono il loro accampamento in pianura. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di banditi che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.1|I vichinghi sono soliti tenere le loro navi in disarmo in una baia ben nascosta, da qualche parte lungo la costa, preferibilmente vicino a un piccolo ruscello dove potersi rifornire d'acqua. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di predoni del mare che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
-dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.2|Banditi come questi di solito stabiliscono il loro accampamento in pianura. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di banditi che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.2|Questi banditi di solito stabiliscono la loro base su un altopiano, spesso su una cengia ripida dove possono avere il controllo sulla campagna circostante. Questo li rende difficili da sorprendere. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di questi banditi che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.3|Questi banditi di solito stabiliscono la loro base su un altopiano, spesso su una cengia ripida dove possono avere il controllo sulla campagna circostante. Questo li rende difficili da sorprendere. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di questi banditi che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
-dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.4|Banditi come questi di solito stabiliscono le loro basi su degli altipiani, spesso su una cengia ripida dove possono avere il controllo sulla campagna circostante. Questo li rende difficili da sorprendere. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di questi banditi che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
-dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.5|Banditi come questi di solito stabiliscono il loro accampamento all'interno della foresta, a volte nel bel mezzo di una palude. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di banditi che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
-dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.6|Banditi come questi di solito stabiliscono il loro accampamento all'interno della foresta. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di banditi che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.4|Banditi come questi di solito stabiliscono il loro accampamento all'interno della foresta. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di banditi che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.5|I vichinghi norvegesi sono soliti tenere le loro navi in disarmo in una baia ben nascosta, da qualche parte lungo la costa, preferibilmente vicino a un piccolo ruscello dove potersi rifornire d'acqua. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di predoni del mare che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.6|I vichinghi sono soliti tenere le loro navi in disarmo in una baia ben nascosta, da qualche parte lungo la costa, preferibilmente vicino a un piccolo ruscello dove potersi rifornire d'acqua. Il modo migliore per scoprire la loro posizione è quella di trovare un gruppo di predoni del mare che sembrano essere di ritorno alla loro base per fare rifornimento, e seguirli.
 dlga_merchant_quest_track_bandit_lair_choice:merchant_quest_destroy_lair_brief|Va bene, lo farò.
 dlga_merchant_quest_track_bandit_lair_choice:lord_pretalk|Mi spiace, ma al momento non posso accettare quest'incombenza.
 dlga_merchant_quest_destroy_lair_brief:close_window|Molto bene. Ci aspettiamo notizie del vostro successo.

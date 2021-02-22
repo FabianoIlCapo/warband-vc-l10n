@@ -1400,7 +1400,6 @@ dlga_player_siege_castle_commander_1:player_siege_ask_surrender|Poddaj się! Two
 ; dlga_player_siege_castle_commander_1:player_siege_tributo|I offer an honorable agreement to end the siege. Pay us tribute, and we will go.
 ; dlga_player_siege_castle_commander_1:close_window|Nothing. I'll leave you now.
 ; dlga_player_siege_ask_surrender:close_window|Surrender? It's a joke, right? You have very few men with which to storm the fortress.
-; dlga_player_siege_ask_surrender:close_window.2|Surrender? Hah! We can hold these walls until we all die of old age.
 ; dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject|I give you nothing. Surrender now or prepare to die!
 ; dlga_player_siege_ask_surrender_treatment_reject:close_window|Bastard. We will fight you to the last man!
 ; dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_accept|You will be ransomed and your soldiers will live. I give you my word.
@@ -3916,7 +3915,7 @@ dlga_prison_guard_player_2:close_window.1|Nie, nie teraz.
 ; dlga_prison_guard_talk:prison_guard_ask_prisoners|Who is imprisoned here?
 dlga_prison_guard_talk:prison_guard_visit_prison|Chcę rozmawiać z więźniem.
 ; dlga_prison_guard_talk:prison_guard_release|I order you to release the prisoners.
-; dlga_prison_guard_release:prison_guard_release1|You're the king, your order is my command, but our lord may take offence to that. Who do you wish to release?
+; dlga_prison_guard_release:prison_guard_release1|You certainly have the authority to make this demand, but our lord may take offence. Whom do you wish to release?
 dlga_prison_guard_release1:prison_guard_talk|Nie ważne
 ; dlga_prison_guard_release2:prison_guard_talk|As you wish.
 ; dlga_prison_guard_ask_prisoners:prison_guard_talk|Currently, {s50} {reg1?are:is} imprisoned here.{s49}
@@ -3964,11 +3963,11 @@ dlga_request_meeting_3:close_window|Nie ważne.
 ; dlga_request_meeting_5:request_meeting_6|I'm waiting...
 ; dlga_request_meeting_6:close_window|{reg59?Madam:Sir}, {s2} will talk to you now.
 ; dlga_request_meeting_6:close_window.1|{s2} says he will not see you. Begone now.
-; dlga_castle_gate_open:close_window|My lord {s2} will be happy to see you {reg59?madam:sir}. Come on in. I am opening the gates for you.
-; dlga_castle_gate_open:close_window.1|My lord {s2} is not in the castle now. But I think he would approve of you taking shelter here. Come on in. I am opening the gates for you.
+; dlga_castle_gate_open:close_window|My lord, {s2}, will be happy to see you {reg59?madam:sir}. Come on in. I am opening the gates for you.
+; dlga_castle_gate_open:close_window.1|My lord, {s2}, is not in the castle now. But I think he would approve of you taking shelter here. Come on in. I am opening the gates for you.
 ; dlga_castle_gate_open:close_window.2|Come on in. I am opening the gates for you.
-; dlga_castle_gate_open:close_window.3|Come on in. But make sure your men behave sensibly within the walls. My lord {s2} does not want trouble here.
-; dlga_castle_gate_open:close_window.4|My lord {s2} does not want you here. Begone now.
+; dlga_castle_gate_open:close_window.3|Come on in. But make sure your men behave sensibly within the walls. My lord, {s2}, does not want trouble here.
+; dlga_castle_gate_open:close_window.4|My lord, {s2}, does not want you here. Begone now.
 ; dlga_start:close_window.74|You have come just in time. Let us join our forces now and teach our enemy a lesson.
 ; dlga_start:close_window.75|You are making a big mistake by fighting against us.
 ; dlga_start:ally_thanks_meet|I don't think we have met properly my friend. You just saved my life out there, and I still don't know your name...
@@ -5055,21 +5054,22 @@ dlga_bandit_treasure7:bandit_treasure8.4|Nic.
 ; dlga_start:quarry_refugee2|I am busy. Talk to the foreman.
 ; dlga_quarry_refugee2:close_window|Very well, my good man. Farewell.
 ; dlga_start:capataz_talk|What do you want? Can't you see that I am busy?
-dlga_capataz_pretalk:capataz_talk|Tak?
+; dlga_capataz_pretalk:capataz_talk|What else?
 ; dlga_capataz_talk:capataz_angry|Watch how you speak to me, man, or I shall give you a painful reply.
 ; dlga_capataz_angry:close_window|Bah! I haven't insulted you, and the laws protect us. I have better things to do.
 ; dlga_capataz_talk:capataz_ayuda|I want my slaves to work here.
 ; dlga_start:close_window.102|You haven't finished your work yet. As I said, the stone down here must be broken out of the earth.
 ; dlga_capataz_talk:quarry_work_0|I would like to work here.
-; dlga_quarry_work_0:quarry_work_1|We have use for a day laborer. We pay five peningas per day.
-; dlga_quarry_work_1:close_window|I'm not interested.
+; dlga_quarry_work_0:quarry_work_1|We have use for a day laborer. We pay {reg1} peningas per day.
 ; dlga_quarry_work_1:quarry_work_2|Very well, I want to work one day here.
+; dlga_quarry_work_1:capataz_pretalk|I'm not interested.
 ; dlga_quarry_work_2:close_window|The stone down here must be broken out of the earth. Here is a pickaxe.
 ; dlga_capataz_ayuda:close_window|Sorry, my {reg59?lady:lord}, but this place is our place. This place belonged to our fathers and before them, our grandparents. Only my men and my slaves work here.
 ; dlga_capataz_talk:capataz_sins|I'd like to buy some of whatever you're mining here.
 ; dlga_capataz_sins:capataz_pretalk|Sorry, I have just promised the rest to someone else.
-; dlga_capataz_sins2:capataz_pretalk|Very well. I want to buy some.
-; dlga_capataz_sins2:capataz_pretalk.1|Actually, I prefer to talk about other things.
+; dlga_capataz_sins2:capataz_sins_end|Very well. I want to buy some.
+; dlga_capataz_sins_end:close_window|Pleasure doing business with you.
+; dlga_capataz_sins2:capataz_pretalk|Actually, I prefer to talk about other things.
 ; dlga_capataz_talk:capataz_venta|I want to sell all my prisoners to you.
 ; dlga_capataz_venta:capataz_venta2|Well, I will pay you a flat 15 peningas for each prisoner, as I don't care about their quality or their past. If such things matter to you, I guarantee that they will never escape from here. Do we have a deal?
 ; dlga_capataz_venta2:capataz_venta3|Yes, this is acceptable.
@@ -5082,14 +5082,15 @@ dlga_capataz_pretalk:capataz_talk|Tak?
 ; dlga_capataz_angry2:close_window|Salt. Work. More salt. As you can see. Now I have things to do.
 ; dlga_start:close_window.103|You haven't finished your work yet. As I said, in the tunnel next to me, the salt must be struck out of the mountain.
 ; dlga_capataz_talk2:salt_work_0|I would like to work here.
-; dlga_salt_work_0:salt_work_1|We have use for a day laborer. We pay five peningas per day.
-; dlga_salt_work_1:close_window|I'm not interested.
+; dlga_salt_work_0:salt_work_1|We have use for a day laborer. We pay {reg1} peningas per day.
 ; dlga_salt_work_1:salt_work_2|Very well, I want to work one day here.
+; dlga_salt_work_1:capataz_pretalk2|I'm not interested.
 ; dlga_salt_work_2:close_window|In the tunnel next to me, the salt must be struck out of the mountain. Here is a pickaxe.
 ; dlga_capataz_talk2:capataz_sins2_2|I want to buy some salt.
 ; dlga_capataz_sins2_2:capataz_sins22|Well, you've come the right place. {s4}
 ; dlga_capataz_sins2_2:capataz_pretalk2|Sorry, I just sold the last sack of salt to someone else.
-; dlga_capataz_sins22:capataz_pretalk2|Very well. I want to buy some.
+; dlga_capataz_sins22:capataz_sins_end|Very well. I want to buy some.
+; dlga_capataz_sins22:capataz_pretalk2|Actually, I prefer to talk about other things.
 ; dlga_capataz_talk2:capataz_venta2|I want to sell all my prisoners to you.
 ; dlga_capataz_venta2:capataz_venta22|Well, I will pay you a flat 30 peningas for each prisoner, as I don't care about their quality or their past. If such things matter to you, I guarantee that they will never escape from here. Do we have a deal?
 ; dlga_capataz_venta22:capataz_venta32|Yes, this is acceptable.
@@ -5101,9 +5102,9 @@ dlga_capataz_pretalk:capataz_talk|Tak?
 ; dlga_capataz_pretalk3:capataz_talk3|How else may I help?
 ; dlga_start:close_window.105|You haven't finished your work yet. As I said, the wood next to me needs to be cut into smaller pieces, and the trees behind this house have to be felled.
 ; dlga_capataz_talk3:lumber_work_0|I would like to work here.
-; dlga_lumber_work_0:lumber_work_1|We have use for a day laborer. We pay four peningas per day.
-; dlga_lumber_work_1:close_window|I'm not interested.
+; dlga_lumber_work_0:lumber_work_1|We have use for a day laborer. We pay {reg1} peningas per day.
 ; dlga_lumber_work_1:lumber_work_2|Very well, I want to work one day here.
+; dlga_lumber_work_1:capataz_pretalk3|I'm not interested.
 ; dlga_lumber_work_2:close_window|The wood next to me needs to be cut into smaller pieces, and the trees behind this house have to be felled. Here is your axe.
 ; dlga_capataz_talk3:lumbercamp_angry|Such nice trees, but they burn easily. I could ensure that they don't -- for a small fee.
 ; dlga_lumbercamp_angry:lumbercamp_extortion|Oh? Well, it's true that I do not like fires. I will pay your... fee.
@@ -5113,7 +5114,8 @@ dlga_capataz_pretalk:capataz_talk|Tak?
 ; dlga_capataz_talk3:close_window|I must take my leave.
 ; dlga_capataz_sins3:capataz_sins23|Of course! {s4}
 ; dlga_capataz_sins3:capataz_pretalk3|Sorry, one of the lords in the area just requisitioned whatever we had.
-; dlga_capataz_sins23:capataz_pretalk3|Very well. I would like to buy some.
+; dlga_capataz_sins23:capataz_sins_end|Very well. I would like to buy some.
+; dlga_capataz_sins23:capataz_pretalk3|Actually, I prefer to talk about other things.
 ; dlga_start:close_window.106|You are not going to see a pening from us!
 ; dlga_start:farmstead_boss_talk|Welcome to our farm. Please help yourself to some bread and ale. How may I help you?
 ; dlga_farmstead_boss_pretalk:farmstead_boss_talk|How else may I help you?
@@ -5123,9 +5125,9 @@ dlga_capataz_pretalk:capataz_talk|Tak?
 ; dlga_farmstead_boss_angry:close_window|Trouble? Bother me again, and I'll show you trouble!
 ; dlga_start:close_window.107|You haven't finished your work yet. As I said, the hay in the two wheat fields near the courtyard must be piled up.
 ; dlga_farmstead_boss_talk:farmstead_work_0|I would like to work here.
-; dlga_farmstead_work_0:farmstead_work_1|We have a use for a day laborer. We pay three peningas per day.
-; dlga_farmstead_work_1:close_window|I'm not interested.
+; dlga_farmstead_work_0:farmstead_work_1|We have a use for a day laborer. We pay {reg1} peningas per day.
 ; dlga_farmstead_work_1:farmstead_work_2|Very well, I want to work one day here.
+; dlga_farmstead_work_1:farmstead_boss_pretalk|I'm not interested.
 ; dlga_farmstead_work_2:close_window|The hay in the two wheat fields near the courtyard must be piled up. Here is a pitchfork.
 ; dlga_farmstead_boss_talk:farmstead_boss_ayuda|I see some of your men are loitering around. Can I hire some of them?
 ; dlga_farmstead_boss_ayuda:farmstead_boss_ayuda2|To tell the truth, my {reg59?lady:lord}, my servants and slaves breed like rabbits and eat too much of the produce. It would please me to sell the excess, and I'll give you a good price. One hundred peningas for the lot.
@@ -5135,8 +5137,8 @@ dlga_capataz_pretalk:capataz_talk|Tak?
 ; dlga_farmstead_boss_talk:farmstead_boss_sins|What do you have for sale?
 ; dlga_farmstead_boss_talk:close_window|I must take my leave.
 ; dlga_farmstead_boss_sins:farmstead_boss_pretalk|My lord has just sent a word that he needs the rest of what I have for a feast.
-; dlga_farmstead_boss_sins2:farmstead_boss_pretalk|I'm interested. Let me see.
-; dlga_farmstead_boss_sins2:farmstead_boss_pretalk.1|No, I'm looking for something else.
+; dlga_farmstead_boss_sins2:capataz_sins_end|I'm interested. Let me see.
+; dlga_farmstead_boss_sins2:farmstead_boss_pretalk|No, I'm looking for something else.
 ; dlga_farmstead_boss_talk:farmstead_boss_cattle|I have {reg25} cattle with me. May I have them kept here?
 ; dlga_farmstead_boss_cattle:farmstead_boss_cattle1|We can do that, {playername}.
 ; dlga_farmstead_boss_cattle:farmstead_boss_pretalk|Unfortunately, {playername}, we have too many cattle as it is.
@@ -5330,13 +5332,13 @@ dlga_mayor_talk:close_window|[Odejdź]
 ; dlga_merchant_quest_brief:merchant_quest_retaliate_confirm|We need you to attack and defeat {s7}. This will not be an easy task, and that outsider would damage {reg59?her:his} relationship with the {s10}s, but we would be very grateful. We could not acknowledge a connection with that outsider, but we could be sure that {reg59?she:he} would be handsomely rewarded... Could you do this?
 ; dlga_merchant_quest_retaliate_confirm:merchant_quest_track_bandits_brief|Aye, I can do it.
 ; dlga_merchant_quest_retaliate_confirm:merchant_pretalk|I would prefer not to get mixed up in such things.
-; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice|The Norwegian Vikings are likely to have hidden their ships in a well-concealed cove, somewhere along the coastline, preferably next to a small stream where they have access to fresh water. The best way to discover its location would be to find a group of raiders who appear to be heading back to their base to resupply, and follow them.
+; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice|Bandits such as these usually establish their hideouts in the plain. The best way to discover its location would be to find a group of bandits who appear to be heading back to their base to resupply, and follow them.
 ; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.1|The Vikings are likely to have hidden their ships in a well-concealed cove, somewhere along the coastline, preferably next to a small stream where they have access to fresh water. The best way to discover its location would be to find a band of them who appear to be heading back to their base to resupply, and follow their tracks.
-; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.2|Bandits such as these usually establish their hideouts in the plain. The best way to discover its location would be to find a group of bandits who appear to be heading back to their base to resupply, and follow them.
+; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.2|Bandits such as these will usually establish a base in the highlands, often on a steep ledge where they have a view of the surrounding countryside. This makes them difficult to surprise. The best way to discover its location would be to find a group of mountain bandits who appear to be heading back to their base to resupply, and follow them.
 ; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.3|Bandits such as these will usually establish a base in the highlands, often on a steep ledge where they have a view of the surrounding countryside. This makes them difficult to surprise. The best way to discover its location would be to find a group of mountain bandits who appear to be heading back to their base to resupply, and follow them.
-; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.4|Bandits such as these will usually establish a base in the highlands, often on a steep ledge where they have a view of the surrounding countryside. This makes them difficult to surprise. The best way to discover its location would be to find a band of them who appear to be heading back to their base to resupply, and follow their tracks.
-; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.5|Bandits such as these will usually set up their encampments deep in the woods, sometimes in the middle of a swamp. The best way to discover its location would be to find a band of them who appear to be heading back to their base to resupply, and follow their tracks.
-; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.6|Bandits such as these will usually set up their encampments deep in the woods. The best way to discover its location would be to find a group of bandits who appear to be heading back to their base to resupply, and follow them.
+; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.4|Bandits such as these will usually set up their encampments deep in the woods. The best way to discover its location would be to find a group of bandits who appear to be heading back to their base to resupply, and follow them.
+; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.5|The Norwegian Vikings are likely to have hidden their ships in a well-concealed cove, somewhere along the coastline, preferably next to a small stream where they have access to fresh water. The best way to discover its location would be to find a group of raiders who appear to be heading back to their base to resupply, and follow them.
+; dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.6|The Vikings are likely to have hidden their ships in a well-concealed cove, somewhere along the coastline, preferably next to a small stream where they have access to fresh water. The best way to discover its location would be to find a band of them who appear to be heading back to their base to resupply, and follow their tracks.
 ; dlga_merchant_quest_track_bandit_lair_choice:merchant_quest_destroy_lair_brief|Aye, I'll do it.
 ; dlga_merchant_quest_track_bandit_lair_choice:lord_pretalk|I'm afraid I can't take the job at the moment.
 ; dlga_merchant_quest_destroy_lair_brief:close_window|Very good. We will await word of your success.
