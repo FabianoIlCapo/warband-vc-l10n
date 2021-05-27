@@ -753,7 +753,8 @@ dlga_member_talk:member_separate|We need to separate for a while.
 dlga_member_talk:com_regalo6|(Give warrior rings and bracelets valued at 3000 peningas)
 dlga_com_regalo6:do_member_trade|Thank you, I am proud to receive these rewards.
 dlga_member_talk:member_separate.1|Leave now.
-dlga_member_separate:member_separate_confirm|Oh really? Well, I'm not just going to wait around here. I'm going to go to the towns to look for other work. Is that what you want?
+dlga_member_separate:member_separate_confirm|Oh really? Then this game will probably fail at some point. Is that what you want? **warning**
+dlga_member_separate:member_separate_confirm.1|Oh really? Well, I'm not just going to wait around here. I'm going to go to the towns to look for other work. Is that what you want?
 dlga_member_separate:companion_quitting|Actually, there is something I need to tell you.
 dlga_member_separate_confirm:member_separate_yes|That's right. We need to part ways.
 dlga_member_separate_confirm:do_member_trade|No, I'd rather have you at my side.
@@ -1400,10 +1401,6 @@ dlga_player_siege_castle_commander_1:player_hostage_surrender|I demand your surr
 dlga_player_siege_castle_commander_1:player_siege_tributo|I offer an honorable agreement to end the siege. Pay us tribute, and we will go.
 dlga_player_siege_castle_commander_1:close_window|Nothing. I'll leave you now.
 dlga_player_siege_ask_surrender:close_window|Surrender? It's a joke, right? You have very few men with which to storm the fortress.
-dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject|I give you nothing. Surrender now or prepare to die!
-dlga_player_siege_ask_surrender_treatment_reject:close_window|Bastard. We will fight you to the last man!
-dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_accept|You will be ransomed and your soldiers will live. I give you my word.
-dlga_player_siege_ask_surrender_treatment_accept:close_window|Very well then. Under those terms, I offer you my surrender.
 dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_accept|You have my word. You will not come under attack if you leave the fort.
 dlga_player_siege_ask_leave_unmolested_accept:close_window|Very well. Then we leave this fort to you. You may have won this day, but we'll meet again.
 dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_reject|Unacceptable. I need hostages as guarantees.
