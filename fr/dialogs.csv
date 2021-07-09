@@ -753,7 +753,8 @@ dlga_member_talk:member_separate|Je dois me passer de vous pour un temps.
 ; dlga_member_talk:com_regalo6|(Give warrior rings and bracelets valued at 3000 peningas)
 ; dlga_com_regalo6:do_member_trade|Thank you, I am proud to receive these rewards.
 ; dlga_member_talk:member_separate.1|Leave now.
-dlga_member_separate:member_separate_confirm|Vraiment ? Dans ce cas je ne vais pas m'attarder ici. Je vais me rendre dans les villes pour chercher un autre travail. C'est ce que vous attendez de moi ?
+; dlga_member_separate:member_separate_confirm|Oh really? Then this game will probably fail at some point. Is that what you want? **warning**
+dlga_member_separate:member_separate_confirm.1|Vraiment ? Dans ce cas je ne vais pas m'attarder ici. Je vais me rendre dans les villes pour chercher un autre travail. C'est ce que vous attendez de moi ?
 ; dlga_member_separate:companion_quitting|Actually, there is something I need to tell you.
 dlga_member_separate_confirm:member_separate_yes|Effectivement, c'est ici que nos chemins se séparent.
 dlga_member_separate_confirm:do_member_trade|Non, je préférerais vous avoir à mes côtés.
@@ -1400,10 +1401,6 @@ dlga_player_siege_castle_commander_1:player_siege_ask_surrender|Rendez-vous, vot
 ; dlga_player_siege_castle_commander_1:player_siege_tributo|I offer an honorable agreement to end the siege. Pay us tribute, and we will go.
 dlga_player_siege_castle_commander_1:close_window|Rien, je m'en vais.
 ; dlga_player_siege_ask_surrender:close_window|Surrender? It's a joke, right? You have very few men with which to storm the fortress.
-dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject|Je ne vous promets rien du tout, rendez-vous immédiatement ou préparez-vous à mourir !
-dlga_player_siege_ask_surrender_treatment_reject:close_window|Bâtards, nous vous combattrons tous jusqu'au dernier !
-dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_accept|Nous vous échangerons contre une rançon et vos soldats vivront, je vous donne ma parole.
-dlga_player_siege_ask_surrender_treatment_accept:close_window|Très bien alors, dans ces conditions je vous offre ma reddition. 
 ; dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_accept|You have my word. You will not come under attack if you leave the fort.
 ; dlga_player_siege_ask_leave_unmolested_accept:close_window|Very well. Then we leave this fort to you. You may have won this day, but we'll meet again.
 ; dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_reject|Unacceptable. I need hostages as guarantees.

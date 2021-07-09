@@ -753,7 +753,8 @@ dlga_member_talk:member_separate|Wir müssen uns für eine Weile trennen.
 dlga_member_talk:com_regalo6|(Gebt Ihnen Ringe und Armbänder im Wert von 3000 Pfennigen.)
 dlga_com_regalo6:do_member_trade|Danke, Ihr ehrt mich mit diesen Geschenken.
 dlga_member_talk:member_separate.1|Gehen Sie jetzt.
-dlga_member_separate:member_separate_confirm|Ach wirklich? Nun, ich werde hier zumindest nicht ewig warten. Ich gehe zu den Städten und suche mir andere Arbeit. Ist es dass, was Du willst?
+; dlga_member_separate:member_separate_confirm|Oh really? Then this game will probably fail at some point. Is that what you want? **warning**
+dlga_member_separate:member_separate_confirm.1|Ach wirklich? Nun, ich werde hier zumindest nicht ewig warten. Ich gehe zu den Städten und suche mir andere Arbeit. Ist es dass, was Du willst?
 dlga_member_separate:companion_quitting|Eigentlich gibt es da etwas, dass ich Euch sagen muss.
 dlga_member_separate_confirm:member_separate_yes|Das stimmt. Wir müssen uns trennen.
 dlga_member_separate_confirm:do_member_trade|Nein, ich hätte Euch lieber auf meiner Seite.
@@ -1400,10 +1401,6 @@ dlga_player_siege_castle_commander_1:player_hostage_surrender|Ich verlange eure 
 dlga_player_siege_castle_commander_1:player_siege_tributo|Ich biete eine ehrenvolle Vereinbarung, die Belagerung zu beenden. Zahlt uns einen Tribut, und wir gehen.
 dlga_player_siege_castle_commander_1:close_window|Nichts. Ich verlasse Euch jetzt.
 dlga_player_siege_ask_surrender:close_window|Kapitulation? Es ist ein Witz, richtig? Sie haben nur sehr wenige Männer, um die Festung zu stürmen.
-dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject|Ich gebe Euch überhaupt nichts. Gebt auf, oder bereitet Euch darauf vor zu sterben!
-dlga_player_siege_ask_surrender_treatment_reject:close_window|Bastard! Wir werden Euch bis zum letzten Mann bekämpfen!
-dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_accept|Sie werden freigekauft werden und Ihre Soldaten werden Leben. Ich gebe Ihnen mein Wort.
-dlga_player_siege_ask_surrender_treatment_accept:close_window|In Ordnung. Unter diesen Bedingungen biete ich Ihnen meine Kapitulation an.
 dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_accept|Sie haben mein Wort. Sie werden nicht angegriffen werden, wenn Sie das Fort lassen.
 dlga_player_siege_ask_leave_unmolested_accept:close_window|Nun gut. Dann übergeben wir Euch diese Burg. Heute mögt Ihr gewonnen haben, aber das letzte Wort ist noch nicht gesprochen.
 dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_reject|Auf keinen Fall. Ich brauche die Geiseln als Garantien.

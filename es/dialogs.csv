@@ -753,7 +753,8 @@ dlga_member_talk:member_separate|Creo que no preciso más de vuestro servicio.
 ; dlga_member_talk:com_regalo6|(Give warrior rings and bracelets valued at 3000 peningas)
 ; dlga_com_regalo6:do_member_trade|Thank you, I am proud to receive these rewards.
 ; dlga_member_talk:member_separate.1|Leave now.
-dlga_member_separate:member_separate_confirm|Oh, ¿de veras? Bueno, no voy a quedarme aquí esperando. Iré por los pueblos buscando otro trabajo. ¿Es eso lo que queréis?
+; dlga_member_separate:member_separate_confirm|Oh really? Then this game will probably fail at some point. Is that what you want? **warning**
+dlga_member_separate:member_separate_confirm.1|Oh, ¿de veras? Bueno, no voy a quedarme aquí esperando. Iré por los pueblos buscando otro trabajo. ¿Es eso lo que queréis?
 ; dlga_member_separate:companion_quitting|Actually, there is something I need to tell you.
 dlga_member_separate_confirm:member_separate_yes|Así es. Debemos ir cada uno por nuestro lado.
 dlga_member_separate_confirm:do_member_trade|No, preferiría que os quedarais a mi lado.
@@ -1400,10 +1401,6 @@ dlga_player_siege_castle_commander_1:player_siege_ask_surrender|¡Rendíos! ¡Vu
 ; dlga_player_siege_castle_commander_1:player_siege_tributo|I offer an honorable agreement to end the siege. Pay us tribute, and we will go.
 dlga_player_siege_castle_commander_1:close_window|Nada. Me retiro.
 ; dlga_player_siege_ask_surrender:close_window|Surrender? It's a joke, right? You have very few men with which to storm the fortress.
-dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject|No os daré nada. ¡Rendíos o preparaos para morir!
-dlga_player_siege_ask_surrender_treatment_reject:close_window|Sois una bestia. ¡Os haremos frente hasta que no quede nadie!
-dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_accept|Pediremos rescate por vos, y vuestros soldados vivirán. Os doy mi palabra.
-dlga_player_siege_ask_surrender_treatment_accept:close_window|De acuerdo, entonces. En esas condiciones, os ofrezco mi rendición.
 ; dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_accept|You have my word. You will not come under attack if you leave the fort.
 ; dlga_player_siege_ask_leave_unmolested_accept:close_window|Very well. Then we leave this fort to you. You may have won this day, but we'll meet again.
 ; dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_reject|Unacceptable. I need hostages as guarantees.
