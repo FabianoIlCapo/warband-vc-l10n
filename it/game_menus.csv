@@ -18,7 +18,7 @@ menu_start_game_4|Hai fatto delle scelte. Non potrai più cambiarle dopo l'inizi
 mno_back|Indietro.
 menu_camp|Hai allestito il campo. Cosa vuoi fare?
 mno_camp_action|Compi un'azione.
-mno_camp_wait_here|Aspetta qui per un po' di tempo.
+mno_camp_wait_here|Aspetta qui per un po'.
 menu_camp_action_rest|Accamparsi permette ai tuoi uomini di riposare e riprendersi dal duro viaggio. Inoltre vi consente di foraggiarvi, aumentando le scorte di cibo. Ciò è particolarmente utile durante una campagna in territorio nemico, dove è difficile comprare rifornimenti.
 menu_build_refuge_new|I tuoi uomini attendono i tuoi ordini per iniziare a costruire il rifugio. Hai già raccolto materiali sufficenti e ciò che manca può essere acquistato nei villaggi vicini.^^Costo totale: 1000 peningas.^Tempo necessario: 6 ore.
 mno_refuge_here|Avvia i lavori.
@@ -102,7 +102,7 @@ menu_quarry1|Sei arrivato in una Cava. I rumori dei carri e dei picconi riempion
 menu_salt_mine_vc|Sei arrivato in una miniera di sale. I rumori dei carretti e delle pale riempiono l'aria mentre diversi uomini liberi lavorano.
 menu_lumber_camp|Sei arrivato in un campo di legname. Il rumore delle asce e delle seghe riempiono l'aria mentre diversi uomini liberi lavorano.
 menu_farmstead_special|Sei arrivato in una fattoria. Le fattorie sono la fonte dei prodotti alimentari, che sono più economici qui.^^{s10}
-mno_take_cattlefs|Prendi un pò del tuo bestiame.
+mno_take_cattlefs|Prendi un po' del tuo bestiame.
 menu_hadrian_wall1|Sei arrivato ai resti di quello che una volta era il Vallo di Adriano.
 menu_celidon_forest|Davanti a te c'è un posto strano che sembra emanare un'energia mistica dal passato.
 menu_hidden_valley|Sei arrivato in uno strano luogo che somiglia a delle rovine romane. I tuoi uomini si accampano dietro di te mentre cominciate ad esplorare ...
@@ -269,7 +269,7 @@ mno_meet_leader_door|Porta per il centro del villaggio.
 mno_village_buy_food|Compra vettovaglie dai contadini.
 mno_comprar_cattle|Voglio comprare del bestiame.
 mno_village_attack_bandits|Attacca i banditi.
-mno_village_wait|Aspetta qui per un pò di tempo.
+mno_village_wait|Aspetta qui per un po'.
 mno_collect_taxes_qst|{reg5?Continua a raccogliere tasse:Raccogli tasse}.
 mno_train_peasants_against_bandits_qst|Addestra i contadini.
 mno_village_hostile_action|Compi un'azione ostile.
@@ -367,7 +367,7 @@ mno_travel_door|Equipaggia la tua compagnia.
 mno_walled_center_manage|Amministra {reg0?questa città:questo castello}.
 mno_walled_center_move_court|Sposta qui la tua corte.
 mno_castle_station_troops|Gestisci la guarnigione.
-mno_castle_wait|Aspetta qui per un pò di tempo.
+mno_castle_wait|Aspetta qui per un po'.
 mno_castle_wait_door|Letto.
 mno_town_alley|Chiedi di potenziali reclute.
 mno_town_visit_port|Vedi le navi.
@@ -414,7 +414,7 @@ mno_start_collecting|Inizia a raccogliere.
 mno_collect_later|Rimanda a più tardi.
 menu_collect_taxes_complete|Hai riscosso {reg3} peningas in tasse da {s3}. {s19} si aspetterà che gli porti questo denaro.
 menu_collect_taxes_rebels_killed|La tua reazione rapida e decisa ha prontamente represso la rivolta. Sicuramente, chiunque con pensieri di rivolta ci pensa meglio dopo questo.
-menu_collect_taxes_failed|Hai riscosso solo {reg3} peningas come tasse da {s3} prima che la rivolta ti interrompesse. {s1} non sarà contento, ma un pò di soldi lo placheranno, dopo tutto è meglio di niente...
+menu_collect_taxes_failed|Hai riscosso solo {reg3} peningas come tasse da {s3} prima che la rivolta ti interrompesse. {s1} non sarà contento, ma un po' di soldi lo placheranno, dopo tutto è meglio di niente...
 menu_collect_taxes_revolt_warning|La popolazione di {s3} è oltraggiata dalle tue richieste e ti definisce un'estorsore. Sono divenuti molto irrequieti, potrebbero reagire malamente se continuerai a tartassarli.
 mno_continue_collecting_taxes|Ignorali e continua.
 mno_halve_taxes|Accetta di ridurre le tasse della metà. ({s1} potrebbe irritarsi)
@@ -600,10 +600,10 @@ mno_leave_no_attackl|Parti...
 mno_leave_victoryl|Continua...
 mno_leave_defeatl|Continua...
 menu_notification_player_faction_political_issue_resolved|Dopo essersi consultato con i pari del regno, {s10} ha deciso di conferire {s11} a {s12}.
-menu_notification_player_faction_political_issue_resolved_for_player|Dopo essersi consultato con i pari del regno, {s10} ha deciso di conferire {s11} a te. Puoi rifiutare questo onore, ma ricorda che potresti non ricevere altre ricompense per un pò di tempo.{s12}
+menu_notification_player_faction_political_issue_resolved_for_player|Dopo essersi consultato con i pari del regno, {s10} ha deciso di conferire {s11} a te. Puoi rifiutare questo onore, ma ricorda che potresti non ricevere altre ricompense per un po' di tempo.{s12}
 mno_accept|Accetta l'onore
 mno_decline|Declina l'onore
-menu_establish_court|Per stabilire la tua corte a {s4} hai bisogno di eseguire alcuni lavori di ristrutturazione. In particolare, avrai bisogno di una serie di attrezzi e dell'argento. Inoltre potrebbe essere necessario un pò di tempo ai tuoi seguaci per trasferirsi qui. Intendi procedere?
+menu_establish_court|Per stabilire la tua corte a {s4} hai bisogno di eseguire alcuni lavori di ristrutturazione. In particolare, avrai bisogno di una serie di attrezzi e dell'argento. Inoltre potrebbe essere necessario un po' di tempo ai tuoi seguaci per trasferirsi qui. Intendi procedere?
 mno_establish|Insedia a {s4} la tua corte
 mno_hold_off|Aspetta...
 menu_notification_relieved_as_marshal|{s4} desidera informarti che i tuoi servigi come maresciallo non sono più richiesti. In onore dei valorosi sforzi compiuti in nome del regno negli ultimi {reg4} giorni, comunque, {reg8?lei:lui} ti offre una borsa con {reg5} peningas.
@@ -616,7 +616,7 @@ mno_monasterio_recruitm|Chiedi se qualcuno vuole unirsi a te.
 mno_donatemo|Fai una donazione al monastero (500 peningas).
 mno_aprender_leermo|Imparare a leggere (4000 peningas).
 mno_convertirmo|Convertiti al Cristianesimo.
-mno_camp_wait_heremo|Aspetta qui per un pò di tempo.
+mno_camp_wait_heremo|Aspetta qui per un po'.
 mno_pillage_monasterymo|Saccheggia il monastero.
 menu_paganholysites_visit|Arrivi presso un tempio (hof). In questi luoghi, sono adorati gli antichi dei Nordici. Questo posto è sicuramente ricco di tesori!^^{s13}
 mno_enter_hofho|Visita la corte.
@@ -624,7 +624,7 @@ mno_enter_hofho_door|Parti.
 mno_hof_recruitho|Prova a reclutare un berserker.
 mno_donate_hofho|Fai una donazione alla corte (500 peningas).
 mno_convertir_norsegho|Convincili a seguire gli Dei Nordici.
-mno_camp_wait_hereho|Aspetta qui per un pò di tempo.
+mno_camp_wait_hereho|Aspetta qui per un po'.
 mno_pillage_hofho|Saccheggia il Tempio
 menu_saquear_monasterio|Sangue e tesori. Alcuni dei tuoi uomini con meno scrupoli procedono verso {s3}, uccidendo chiunque sul loro cammino e saccheggiando le sue ricchezze. Il fuoco e la morte investono il posto. Il bottino di guerra saccheggiato vale {reg3} peningas.^^{!}{s4}.
 mno_backho|Lascia il luogo.
@@ -688,11 +688,11 @@ mno_defendiendo_1_l|Buon discorso. Indietro.
 menu_discurso_11|Ispezioni le truppe e ti sposti in mezzo a loro. Mentre parli guardi ognuno negli occhi, cercando di trasmettere il significato del momento:^^'Usciamo da questo posto che brucia e difendiamoci dai nostri nemici in campo aperto. Colui che muore sarà con il nostro dio. Il nome di chi non muore sarà onorato. Io vado per primo e quello che faccio io lo farete anche voi. Che Dio mi sia testimone, io non vi lascerò mai, i miei fratelli e miei compagni cavalieri!'
 menu_discurso_12|Ispezioni le truppe e ti sposti in mezzo a loro. Mentre parli guardi ognuno negli occhi, cercando di trasmettere il significato del momento:^^'Il sole tramonterà sul nostro nemico questa sera, ma noi risplenderemo come raggi di sole in un giorno di primavera. Potete essere nervosi e tremanti ora, ma le vostre mani tremanti non sono niente in confronto alle loro. Essi non sono altro che foglie d'autunno al vento; noi siamo la tempesta ululante che li disperderà attraverso le praterie, per non essere più visti. Brandite le vostre lance. Siate il tuono che fa cadere il loro albero. Questa terra è nostra -- questi boschi, queste colline, questi campi -- e così sarà stagione dopo stagione, anno dopo anno, nei secoli dei secoli!'
 mno_defendiendo_1_m|Eccellente discorso. Indietro.
-menu_doccinga_messenger|Un contadino si avvicina a dorso di un misero mulo. Si ferma di fronte a te, prende fiato e grida,^^'Sven Collo di Toro sta avanzando su Doccinga con tre navi! Thonkrik mi ha mandato per avvertirti. {s4} non verrà; ci ha lasciati alla fortuna! Io darò la notizia agli altri jarl, ma sono Danesi e non si preoccupano dei Frisoni. Per favore, abbiamo bisogno del tuo aiuto. Salva la nostra gente!'^^Il contadino calcia il suo mulo e cavalca lontano da te. Le sue parole disperate, 'Salva la nostra gente,' restano nella tua mente, come un eco di angoscia.
+menu_doccinga_messenger|Un contadino si avvicina a dorso di un misero mulo. Si ferma di fronte a te, prende fiato e grida,^^'Sven Collo di Toro sta avanzando su Doccinga con tre navi! Thonkrik mi ha mandato per avvertirti. {s4} non verrà; ci ha lasciati alla fortuna! Io darò la notizia agli altri jarl, ma sono danesi e non si preoccupano dei Frisoni. Per favore, abbiamo bisogno del tuo aiuto. Salva la nostra gente!'^^Il contadino calcia il suo mulo e cavalca lontano da te. Le sue parole disperate, 'Salva la nostra gente,' restano nella tua mente, come un eco di angoscia.
 mno_choice_01mess_1|Continua
 menu_doccinga_messenger2|Un messaggero si avvicina al galoppo. Si ferma di fronte a te, prende fiato e grida:^^'Thonkrik richiede la tua presenza a Doccinga, {playername}. Ha catturato un prigioniero dai razziatori vichinghi di Sven Collo di Toro nella recente battaglia.^Pensa che sarai interessato a interrogarlo e richiede di vederti il più presto possibile. Thonkrik non sa quanto tempo può tenere il prigioniero prima che il re o uno jarl lo reclamino.'
 mno_choice_01mess2_1|Informa Thonkrik che il messaggio è stato ricevuto.
-menu_doccinga_c_assault|Da una collina nei pressi di Doccinga puoi vedere i cittadini che fuggono. Alcuni dei più coraggiosi e pochi uomini del re stanno cercando di formare un muro di scudi sulla spiaggia, pronti a difendere i loro beni o, nel peggiore dei casi, per proteggere la fuga dei loro cari.^^Lontano, nel mare, distingui tre navi da guerra vichinghe. Non puoi vederle bene da questo punto, ma non è difficile immaginare che siano piene di guerrieri.^^La tua mente non può fare a meno di tornare al ricordo di quella battaglia navale dove Sven Collo di Toro ha attaccato la tua nave. Ora, finalmente, il grande Vichingo è di nuovo a portata.^^Da Doccinga noti che un uomo esce e corre. Sembra un guerriero. Si è accorto di te, si dirige verso di te...
+menu_doccinga_c_assault|Da una collina nei pressi di Doccinga puoi vedere i cittadini che fuggono. Alcuni dei più coraggiosi e pochi uomini del re stanno cercando di formare un muro di scudi sulla spiaggia, pronti a difendere i loro beni o, nel peggiore dei casi, per proteggere la fuga dei loro cari.^^Lontano, nel mare, distingui tre navi da guerra vichinghe. Non puoi vederle bene da questo punto, ma non è difficile immaginare che siano piene di guerrieri.^^La tua mente non può fare a meno di tornare al ricordo di quella battaglia navale dove Sven Collo di Toro ha attaccato la tua nave. Ora, finalmente, il grande vichingo è di nuovo a portata.^^Da Doccinga noti che un uomo esce e corre. Sembra un guerriero. Si è accorto di te, si dirige verso di te...
 mno_choice_01ass_1d|Avanza in aiuto di Doccinga e incontra il guerriero.
 mno_choice_doccinga|Devo reclutare più uomini.
 mno_encounter_save|Ritornerò più tardi. Doccinga può aspettare.
@@ -700,11 +700,11 @@ menu_doccinga_c_assaultnoche|È tarda notte e i tuoi uomini hanno bisogno di rip
 mno_choice_01assault_3d|Continua.
 menu_noaccessallowed|Avere troppi uomini nella tua compagnia farà credere alle persone che tu voglia attaccare. Potresti voler lasciare alcuni uomini nell'accampamento per ora.
 mno_choice_01nall_3d|Continua.
-menu_doccinga_c_assault2|Quando ti avvicini al villaggio vedi la coda di profughi in fuga da Doccinga. Camminano carichi di tutti i loro averi e spingono carri pesanti, muovendosi molto lentamente. Se non fermi i Vichinghi sulla spiaggia, tutti i profughi moriranno sotto le loro spade.
+menu_doccinga_c_assault2|Quando ti avvicini al villaggio vedi la coda di profughi in fuga da Doccinga. Camminano carichi di tutti i loro averi e spingono carri pesanti, muovendosi molto lentamente. Se non fermi i vichinghi sulla spiaggia, tutti i profughi moriranno sotto le loro spade.
 mno_choice_01ent_1e|Entra a Doccinga.
-menu_doccinga_victory|Il sangue cola dalla tua mano al gomito. Intorno a te c'è solo la morte, le orecchie sono piene dei gemiti dei moribondi.^^I Vichinghi, sconfitti, sono tornati nel mare, lasciando dietro di sé molti morti e feriti, ma il costo è stato molto elevato.^^Sven Collo di Toro non era tra gli assalitori, il che ti sorprende, dato che le barche erano le sue. Allora dov'è il tuo odiato nemico?^^Le parole di Thonkrik risuonano nella tua mente. Forse è tempo di fare una visita allo jarl di Kennemer. Ha alcune spiegazioni da dare.
+menu_doccinga_victory|Il sangue cola dalla tua mano al gomito. Intorno a te c'è solo la morte, le orecchie sono piene dei gemiti dei moribondi.^^I vichinghi, sconfitti, sono tornati nel mare, lasciando dietro di sé molti morti e feriti, ma il costo è stato molto elevato.^^Sven Collo di Toro non era tra gli assalitori, il che ti sorprende, dato che le barche erano le sue. Allora dov'è il tuo odiato nemico?^^Le parole di Thonkrik risuonano nella tua mente. Forse è tempo di fare una visita allo Jarl di Kennemer. Ha alcune spiegazioni da dare.
 mno_choice_01vic_1|Continua
-menu_frisa_proscrito|Il tempo concessoti dallo jarl di Kennemer per lasciare Doccinga è scaduto. Adesso sei un fuorilegge in Frisia.
+menu_frisa_proscrito|Il tempo concessoti dallo Jarl di Kennemer per lasciare Doccinga è scaduto. Adesso sei un fuorilegge in Frisia.
 mno_choice_01poc_1a|Continua
 menu_thiaderd_muerto|Lo scontro è stato duro. Gli uomini di Thiaderd hanno combattuto come leoni, ma le tue truppe sono riuscite a sterminarli.^^Il cadavere di Thiaderd giace tra i corpi dei suoi guerrieri. Hai fatto la tua parte; tutto quello che rimane è saccheggiare il campo di Thiaderd, situato più avanti.
 mno_choice_01_1ath|Continua
@@ -718,7 +718,7 @@ mno_choice_farmth|Devo reclutare più uomini.
 menu_frisa_beach|La brezza marina accarezza il tuo viso. Senti i gabbiani sopra la tua testa e l'odore del sale si fa più intenso. In lontananza scorgi la sagoma di una barca su una spiaggia nascosta. E' la barca di cui Thonkrik ti ha parlato... la tua barca.
 mno_enterbea|Cammina lungo la spiaggia.
 mno_leavebea|Torna più tardi.
-menu_sven_lair|Sulle rive di un fiume noti un Forte Vichingo. Hai trovato il nascondiglio di Sven!^E' un buon posto con un piccolo porto per le barche, facile da difendere. Dietro le mura, fra le case, puoi vedere alcuni guerrieri. Non riesci a contarli tutti senza essere visto, ma sembra che ci siano una dozzina di loro li dentro.{!}{s4}
+menu_sven_lair|Sulle rive di un fiume noti un Forte vichingo. Hai trovato il nascondiglio di Sven!^E' un buon posto con un piccolo porto per le barche, facile da difendere. Dietro le mura, fra le case, puoi vedere alcuni guerrieri. Non riesci a contarli tutti senza essere visto, ma sembra che ci siano una dozzina di loro li dentro.{!}{s4}
 mno_talk_to_fort_leader|Richiedi un incontro con il comandante del forte.
 mno_enter_to_buy_prisoners|Entra nel forte e compra i prigionieri.
 mno_initial_attack|Attacco a sorpresa.
@@ -728,12 +728,12 @@ mno_conquestsl_attack|Conquista il nascondiglio di Sven!
 mno_choice_fort|Devo reclutare più uomini.
 menu_sven_lair_comprado|Ti lasci alle spalle il nascondiglio di Sven Collo di Toro. Hai deciso di raggiungere i tuoi obiettivi attraverso la diplomazia, per evitare perdite tra i tuoi uomini.^^Ora c'è un nuovo uomo nella tua compagnia, un vecchio amico, il Cantabro, Bodo. Appena fuori dal nascondiglio di Sven ti chiede di spostarvi in un luogo appartato. Vuole raccontarti quello che è successo dopo l'attacco di Sven al Woden Ric.
 mno_talk_to_bodo|Parla con Bodo.
-menu_svenlair_victory|Dopo una dura battaglia, i tuoi uomini hanno sconfitto i Vichinghi che proteggevano il nascondiglio. In una delle case trovi tre prigionieri: due donne ed un uomo. Le donne ti sono sconosciute, forse prigioniere di altre incursioni Vichinghe, ma l'uomo è Bodo, il Cantabro che ha viaggiato con te a bordo del Woden Ric.^^Bodo si unisce al tuo esercito. Un vecchio amico è tornato. Lui ti chiede di spostarvi in posto isolato. Vuole dirti quello che è successo dopo l'attacco di Sven Collo di Toro sulla Woden Ric. Ma prima devi decidere cosa fare con il nascondiglio di Sven.
+menu_svenlair_victory|Dopo una dura battaglia, i tuoi uomini hanno sconfitto i vichinghi che proteggevano il nascondiglio. In una delle case trovi tre prigionieri: due donne ed un uomo. Le donne ti sono sconosciute, forse prigioniere di altre incursioni vichinghe, ma l'uomo è Bodo, il Cantabro che ha viaggiato con te a bordo del Woden Ric.^^Bodo si unisce al tuo esercito. Un vecchio amico è tornato. Lui ti chiede di spostarvi in posto isolato. Vuole dirti quello che è successo dopo l'attacco di Sven Collo di Toro sulla Woden Ric. Ma prima devi decidere cosa fare con il nascondiglio di Sven.
 mno_take_itv|È un buon posto. Ordino ai miei uomini di ripulirlo per me.
 mno_destroy_itv|Bah. Ordino ai miei uomini di saccheggiarlo e raderlo al suolo.
 menu_sven_lair_final|Il Destino sta giocando con te. Prima tutto era rivolto alla morte di tua madre. Eri spinto in parte dalla necessità di sopravvivere, ma principalmente dalla vendetta: trovare e uccidere Sven Collo di Toro. Ma ora che tua madre è ancora viva e nelle mani dei tuoi nemici, la tua priorità è di trovarla e salvarla.
 mno_travel_sv|Vai.
-menu_svenlair_victory_conquista|Dopo una dura battaglia, i tuoi uomini hanno sconfitto i Vichinghi che proteggevano il nascondiglio. È necessario decidere cosa fare con esso.
+menu_svenlair_victory_conquista|Dopo una dura battaglia, i tuoi uomini hanno sconfitto i vichinghi che proteggevano il nascondiglio. È necessario decidere cosa fare con esso.
 mno_take_itsl|È un buon posto. Ordino ai miei uomini di ripulirlo per me.
 mno_destroy_itsl|Bah. Ordino ai miei uomini di saccheggiarlo e raderlo al suolo.
 menu_farmstead_sigurd|Una strada sterrata conduce a un grande recinto, oltre il quale sono state costruite alcune case. Sembra un luogo prospero, casa di un uomo ricco.^Da dove ti trovi, è possibile vedere alcuni uomini che si muovono li attorno. Tutto sembra tranquillo.
@@ -745,14 +745,14 @@ mno_enter_to_battlefs|Inizia lo scambio.
 menu_farmstead_sigurd4|Guardi gli uomini che sono venuti. Sono molti, forse più di sessanta e sono ben armati. Un prigioniero è spinto in avanti con la testa coperta con un sacco...
 menu_hablar_olvir|Dopo un brutale combattimento, la fattoria di Ulf è piena di cadaveri. I tuoi uomini vagano tra i corpi, finendo i feriti e prendendo tutto ciò che è di valore. Guardi Egil, che sta tagliando il dito di un guerriero morente per prendere un anello d'oro; quindi Brunhild, che sta guardando con orrore tutta la carneficina; poi a Reginhard, che ride seduto su di un cadavere. Tu non sai come ti senti. Qualcuno una volta ha detto che la guerra cambia le persone, che è un demone vorace che divora l'anima. Sei cambiato? Sei diverso?^^I tuoi pensieri vengono interrotti quando due dei tuoi soldati ti portano Olvir. E' ancora vivo, ma non per molto. Il sangue sgorga dal suo fianco... inarrestabile.
 mno_talk_to_olvir|Parla a Olvir.
-menu_doccinga_prisonerjoined|Mentre sei in viaggio, un uomo viene al tuo cospetto. A pochi metri da te mette giù le armi e mostra le sue mani. Lo riconosci a malapena. È l'uomo che hai interrogato a Doccinga, il capitano Vichingo che hai lasciato vivere.
+menu_doccinga_prisonerjoined|Mentre sei in viaggio, un uomo viene al tuo cospetto. A pochi metri da te mette giù le armi e mostra le sue mani. Lo riconosci a malapena. È l'uomo che hai interrogato a Doccinga, il capitano vichingo che hai lasciato vivere.
 mno_talk_to_captain|Ascolta quello che ha da dire.
 menu_entregar_bodo|Due degli uomini di Sigurd ti seguono da Bodo, che non fa nessuna resistenza quando gli spieghi la situazione. Mentre gli uomini di Sigurd lo portano via, si ferma davanti a te, guardandoti con gli occhi pieni di lacrime. Brunhild e Reginhard non sembrano felici della tua scelta.
 mno_talk_to_bodoentregado|Parla con Bodo.
 menu_arboleda_conrey|Segui il re in un boschetto vicino, lontano da occhi e orecchie indiscrete.
-mno_talk_to_reyhorik|Parla con Re Horik.
+mno_talk_to_reyhorik|Parla con re Horik.
 menu_arboleda_conrey2|Segui il re in un boschetto vicino, lontano da occhi e orecchie indiscrete.
-mno_talk_to_reyhorik2|Parla con Re Horik.
+mno_talk_to_reyhorik2|Parla con re Horik.
 menu_meeting_ragnarssons|Diversi uomini vengono verso di te all'ingresso di Snotingaham. Anche se armati non sono minacciosi, anzi sembrano felici di vederti.
 mno_talk_to_siegemen|Parla con loro.
 menu_primer_barco|Hai ottenuto la tua prima nave. Una nave non si limita a rendere più fattibile per te attraversare il mare. Ti arricchisce se ti impegni nel commercio attraverso il mare. Ti rende un uomo temuto se fai incursioni rapide negli insediamenti sulla costa. Ti rende un regnante se conquisti terre straniere. I Norreni dicono che la puoi portare nell'aldilà.^^Tuttavia viaggiare su una nave è anche pericoloso. Il mare è come una tomba aperta sotto lo scafo, che aspetta te e i tuoi uomini. Le tempeste invernali possono danneggiare le tue navi, ma il meteo calmo non è molto meglio, perché costringe i tuoi uomini a remare. Per evitare di gravare sull'equipaggio, è consuetudine fermarsi di notte per riposare sulla terraferma.^^Una nave è anche un bene prezioso. Il proprietario deve sempre tenere un occhio su di essa.^^Torna in questo luogo non appena desideri navigare...
@@ -776,7 +776,7 @@ mno_lair_inspect|Passeggia per il tuo rifugio.
 mno_lair_inspect_door|Vai alla piazza.
 mno_mylair_station_troops|Gestisci la guarnigione.
 mno_demoler_lair|Demolisci il tuo rifugio personale.
-mno_lair_wait|Aspetta qui per un pò di tempo.
+mno_lair_wait|Aspetta qui per un po'.
 mno_see_ships|Vedi le navi.
 mno_embarkre|Imbarcati.
 mno_lair_leave|Parti...
@@ -818,7 +818,7 @@ menu_viking_duel_lose|{s1} era un avversario troppo esperto per te. Sei stato sc
 mno_duel_rebelion|Accetta la sfida.
 menu_duel_rebelion_enemyback|Spaventato dalla tua fierezza, il tuo avversario alla fine si rifiuta di affrontarti in duello. Si ritira mentre le tue truppe lo prendono in giro per la sua vigliaccheria.
 menu_duel_rebelion_win|Il duello è finito. Il tuo nemico giace a terra, sconfitto dalla tua abilità con le armi. Speri che questo serva da lezione per altri potenziali rivali. Ora la tua missione è quella di ripristinare la fiducia e migliorare il morale dei tuoi uomini.
-menu_thething_messenger|Un messaggero si avvicina in groppa al suo cavallo. Si ferma di fronte a te, prende fiato e grida,^^'Il mio Re, Horik di Danimarca, ti invita alll'Assemblea che si terrà nei pressi di Ribe. Dato che riguarderà il tuo reclamo verso Sven Collo di Toro e Sigurd Ragnarsson, devi sbrigarti o il giudizio dell'Assemblea sarà contro di te.'^^Il messaggero calcia il suo cavallo e corre via.
+menu_thething_messenger|Un messaggero si avvicina in groppa al suo cavallo. Si ferma di fronte a te, prende fiato e grida,^^'Il mio re, Horik di Danimarca, ti invita alll'Assemblea che si terrà nei pressi di Ribe. Dato che riguarderà il tuo reclamo verso Sven Collo di Toro e Sigurd Ragnarsson, devi sbrigarti o il giudizio dell'Assemblea sarà contro di te.'^^Il messaggero calcia il suo cavallo e corre via.
 mno_choice_01_1thing|Continua
 menu_the_holmgang|Un gruppo di uomini pesantemente armati si avvicina. È guidato da Harald Haraldsson, mano destra del re, che ti ricorda la tua promessa all'Assemblea. È l'ora dell'holmgang e il tuo avversario è già sulla Piccola Isola. Circondano la tua compagnia e ti portano ad una spiaggia vicina, dove un uomo anziano ti attende in una piccola barca. Sali sulla barca e due degli uomini di Harald la spingono in acqua. Il vecchio, senza dirti una parola, inizia a remare verso un'isola all'orizzonte.
 mno_choice_01_1duelhom|Continua.
@@ -828,13 +828,13 @@ menu_the_holmgang3|'Due sono andati sull'isola, ma solo uno fa ritorno'.^^Hai vi
 mno_choice_01_3duelhom|In viaggio.
 menu_the_thing|In un ambiente che ricorda i tempi passati, quando gli uomini sollevavano enormi rocce per venerare i loro morti o glorificare i loro dèi, incontri l'Assemblea. Come ti avvicini, senti più chiaramente centinaia di voci, distingui le tende e l'odore del cibo dai banchi dei commercianti. L'Assemblea, o la Cosa, non è solo un incontro dove sono discusse dei problemi e vengono prese decisioni, ma anche un evento dove la gente partecipa per scambiare notizie o vendere i loro prodotti.
 mno_enter_thing|Avvicinati.
-menu_partida_ribe_fleet|Fin dal tuo arrivo c'è stato un grande trambusto nel porto di Ribe. Ottocento Vichinghi e i loro capitani sono stati imbarcati sulle loro navi in ordine di arrivo, mentre gli schiavi caricano bagagli, rifornimenti e persino animali. La maggior parte delle navi sono delle Knorr, navi da carico, ma ci sono anche due dozzine di navi da guerra.^^Trascorri le notti sulla tua nave, mentre il giorno aiuti come puoi. I tuoi guerrieri ammazzano il tempo approfittando dell'ospitalità dei vicini e delle vedove felici. Non hai avuto possibilità di avvicinarti a Sven Collo di Toro o, piuttosto, alla sua nave, ma senti che lui e Harald, le due persone responsabili della flotta, hanno discusso su tutte le cose più stupide. Alcuni degli uomini di Harald sono anche stati pugnalati per le strade.^^Finalmente, dopo che ognuno si è preparato per il lungo viaggio, le file della flotta fuori Ribe intraprendono la Rotta della Balena, lasciandosi indietro la Danimarca.
+menu_partida_ribe_fleet|Fin dal tuo arrivo c'è stato un grande trambusto nel porto di Ribe. Ottocento vichinghi e i loro capitani sono stati imbarcati sulle loro navi in ordine di arrivo, mentre gli schiavi caricano bagagli, rifornimenti e persino animali. La maggior parte delle navi sono delle Knorr, navi da carico, ma ci sono anche due dozzine di navi da guerra.^^Trascorri le notti sulla tua nave, mentre il giorno aiuti come puoi. I tuoi guerrieri ammazzano il tempo approfittando dell'ospitalità dei vicini e delle vedove felici. Non hai avuto possibilità di avvicinarti a Sven Collo di Toro o, piuttosto, alla sua nave, ma senti che lui e Harald, le due persone responsabili della flotta, hanno discusso su tutte le cose più stupide. Alcuni degli uomini di Harald sono anche stati pugnalati per le strade.^^Finalmente, dopo che ognuno si è preparato per il lungo viaggio, le file della flotta fuori Ribe intraprendono la Rotta della Balena, lasciandosi indietro la Danimarca.
 mno_choice_01_3dfl|Unisciti alla spedizione.
-menu_partida_ribe_fleet2|Ormai le differenze tra Sven Collo di Toro, protetto da Jarl Sigurd, e Harald Haraldsson, protetto da re Horik, sono così chiare che la flotta viaggia divisa in due, a seconda di chi sostiene quale comandante.^^Ma non è il tempo di preoccuparsi. Il mare porta il vento e la libertà delle onde, la nave si sta dirigendo verso la Terra degli Angli dove i fiumi trasportano argento e gli uomini guadagnano fama. Ora sei più vicino che mai a Sven Collo di Toro. Aspetti solo di avere la possibilità di ucciderlo e salvare tua madre... Il destino premia sempre il paziente.
-mno_choice_02_3dfl|Continui verso la Terra degli Angli.
+menu_partida_ribe_fleet2|Ormai le differenze tra Sven Collo di Toro, protetto dallo jarl Sigurd, e Harald Haraldsson, protetto da re Horik, sono così chiare che la flotta viaggia divisa in due, a seconda di chi sostiene quale comandante.^^Ma non è il tempo di preoccuparsi. Il mare porta il vento e la libertà delle onde, la nave si sta dirigendo verso l'Inghilterra dove i fiumi trasportano argento e gli uomini guadagnano fama. Ora sei più vicino che mai a Sven Collo di Toro. Aspetti solo di avere la possibilità di ucciderlo e salvare tua madre... Il destino premia sempre il paziente.
+mno_choice_02_3dfl|Continui verso l'Inghilterra.
 menu_sven_attack_fleet|Il viaggio da Ribe a Eoferwic o, come lo chiamano i danesi, Jorvik è di tre giorni con il bel tempo, ma con le knorr più lente il viaggio richiede un giorno o due in più. Le navi si sparpagliano, come solito. Quando si viaggia con la vela, i venti fanno da padroni. Le navi si riuniranno a destinazione.^^Un lungo viaggio come questo richiede una routine. Gli uomini si alternano nel lavoro sulla barca, anche di notte, perché la flotta non si ferma mai in mare aperto. L'odore degli uomini affollati è orribile, l'acqua che si beve e il cibo che si mangia hanno un sapore terribile, ed è sempre spiacevole dover urinare oltre la poppa quando ti vuoi alleviare.^^Infine, la spaccatura tra Harald e Sven si apre. Ogni ora si incontrano separatamente con i capitani che gli sono fedeli. Ogni parte della flotta procede separatamente. Harald richiama te e gli altri capitani sulla sua barca per una riunione di emergenza. A quanto pare, uno dei capitani fedeli a Sven Collo di Toro ha cambiato lealtà passando con Harald e porta notizie.^^Continui a seguire la riunione. Forse finalmente ci saranno notizie di tua madre.
 mno_choice_mettingcap|Riunione dei Capitani.
-menu_playerflee_svenattack|Dietro di te svanisce la battaglia, le grida pietose dei feriti e lo scontro delle spade. Ti lasci alle spalle l'esercito di Harald Haraldsson mentre gli uomini di Sven Collo di Toro fanno una strage. La tua missione ora è di andare nella Terra degli Angli per trovare Rathbarth Ragnarsson e dirgli che cosa è successo e come Sven Collo di Toro ha tradito gli uomini del re.
+menu_playerflee_svenattack|Dietro di te svanisce la battaglia, le grida pietose dei feriti e lo scontro delle spade. Ti lasci alle spalle l'esercito di Harald Haraldsson mentre gli uomini di Sven Collo di Toro fanno una strage. La tua missione ora è di andare in Inghilterra per trovare Rathbarth Ragnarsson e dirgli che cosa è successo e come Sven Collo di Toro ha tradito gli uomini del re.
 mno_choice_flee1|Fuggi.
 menu_way_to_douaranenez|Raggiungi la flotta e immediatamente i marinai slegano le barche e tirano le corde per alzare le vele. La brezza agita le vele e le navi cominciano a muoversi. I capitani gridano ordini ai loro equipaggi, che iniziano a remare. Mossa da vele e remi, la flotta lascia il porto e si dirige verso il mare aperto.
 mno_choice_01_3ddouar|Per Douar-un-Enez.
@@ -847,7 +847,7 @@ mno_choice_douard4|Sbarca.
 menu_way_to_douaranenez5|Douar-an-Enez non è lo stesso posto di quando arrivasti. Ora c'è solo fuoco e morte... I suoi abitanti sono disperati, dubiti che un giorno qualcuno avrà il coraggio ripopolare questo posto maledetto.^^Senti il grido straziante dei tuoi feriti, gli uomini vagano fissandoti da lontano, ancora sconvolti dalla battaglia. Ti ricordi come Bodo è porto e tutti gli scambi avuti con lui. La sua missione è fallita inevitabilmente. Non c'è più una flotta del Regno di Asturia, solo alcuni cantabri che hanno aderito alla tua causa dopo aver perso il proprio comandante, Gundinsalvo. Ora sei il loro capo. Alcuni dei tuoi uomini si dedicano a uccidere il nemico e sequestrare i loro beni.
 mno_choice_douarb15|Reclama la tua parte di bottino.
 mno_choice_douarb26|Lascia che i tuoi uomini tengano tutto il bottino.
-menu_bjorn_camp|Su una collina i Danesi hanno costruito un piccolo accampamento. Conti il numero di tende che riesci a vedere e capisci che ci sono tra i 250 e i 300 uomini. Su una delle tende sventola la bandiera di Bjorn, uno dei più famosi figli di Ragnar.^^Un paio di uomini ti fermano, ma ti lasciano passare non appena dici chi sei, come se fossero informati del tuo arrivo.
+menu_bjorn_camp|Su una collina i danesi hanno costruito un piccolo accampamento. Conti il numero di tende che riesci a vedere e capisci che ci sono tra i 250 e i 300 uomini. Su una delle tende sventola la bandiera di Bjorn, uno dei più famosi figli di Ragnar.^^Un paio di uomini ti fermano, ma ti lasciano passare non appena dici chi sei, come se fossero informati del tuo arrivo.
 mno_enter_bjorncamp|Entra nell'accampamento.
 mno_enter_bjorncamp2|Indaga.
 menu_nothingam_siege|In lontananza si vedono due campi sassoni e angli circostanti Snotingaham. I campi sono grandi, in grado di contenere migliaia di uomini e ci sono anche pattuglie di guerrieri intorno al perimetro della città, che si assicurano che nessuno entri o esca. Da così lontano puoi distinguere le sagome dei guerrieri danesi che pattugliano intorno alle mura della fortezza. Sono certamente in una situazione difficile, in termini numerici, e il cibo sta diminuendo ogni giorno.
@@ -855,7 +855,7 @@ mno_mierce_patrols|Vai a Snotingaham, passando tra le pattuglie di Mercia.
 mno_choice_snott|Ho bisogno di reclutare altri uomini.
 menu_nothingam_siege2|Lasci Snotingaham dietro di te e ritorni nella foresta...
 mno_mierce_patrols2|Vai a Snotingaham, passando tra le pattuglie di Mercia.
-menu_nothingam_siege_al|Quando ti avvicini a Snotingaham, le pattuglie Sassoni ti circondano, ma non attaccano, rispettando la tua bandiera da emissario. Ti fanno aspettare circa un'ora mentre cercano Aelfred.^^Finalmente un gruppo di cavalieri giunge verso di te, smontano da cavallo e si avvicinano.
+menu_nothingam_siege_al|Quando ti avvicini a Snotingaham, le pattuglie sassoni ti circondano, ma non attaccano, rispettando la tua bandiera da emissari{reg59?a:o}. Ti fanno aspettare circa un'ora mentre cercano Alfredo.^^Finalmente un gruppo di cavalieri giunge verso di te, smontano da cavallo e si avvicinano.
 mno_talk_to_alfred|Continua.
 menu_ambush_kennemer|Mentre l'esercito si ferma per riprendersi dalla fatica della strada, ne approfitti per allontanarti un po' dal campo per avere un po' di intimità, come se avessi lo stomaco sottosopra.^^Ma il tuo riposo, nascosto tra alcune rocce, è disturbato da un rumore alla tua destra...
 mno_relax_broken|Rivestiti velocemente e afferra la tua arma.
@@ -881,9 +881,9 @@ menu_aescesdun_empty|Il campo è quasi vuoto, con pochissime persone lasciate do
 menu_readingum_camp|I figli di Ragnar hanno costruito un accampamento fortificato in un villaggio sassone chiamato Readingum. Il posto ha buone difese e un fossato, e ci sono ancora i resti della precedente battaglia in cui i sassoni hanno cercato di espellere i danesi. È una buona posizione da cui partire per difendere e proteggere l'ambiente circostante.^^{!}{s4}
 mno_enter_readingum|Entra nell'accampamento.
 mno_the_speech|Unisciti a loro.
-menu_thetravel_danisharmy_l|L'esercito danese, la Grande Armata d'Estate, ha raggiunto Aescendun.^^Il Re Aethelred ha diviso il suo esercito in due: uno guidato da lui stesso e l'altro nelle mani di suo fratello, il giovane Aelfred. Ogni divisione prende un lato dell'antica strada, la Ridgeway.^^Mentre i Vichinghi si schierano, Aethelred decide di dover pregare prima della battaglia e si rifiuta di muoversi fino a quando la messa non è completata. Ma i danesi si avvicinano rapidamente, anche il loro esercito è diviso in due...
+menu_thetravel_danisharmy_l|L'esercito danese, la Grande Armata d'Estate, ha raggiunto Aescendun.^^Il Re Etelredo ha diviso il suo esercito in due: uno guidato da lui stesso e l'altro nelle mani di suo fratello, il giovane Alfredo. Ogni divisione prende un lato dell'antica strada, la Ridgeway.^^Mentre i vichinghi si schierano, Etelredo decide di dover pregare prima della battaglia e si rifiuta di muoversi fino a quando la messa non è completata. Ma i danesi si avvicinano rapidamente, anche il loro esercito è diviso in due...
 mno_choice_01_3ddarm|La Battaglia di Aescesdun.
-menu_mega_battle_ashdown|L'esercito sassone ha preso un punto vantaggioso su due colline, diviso in due. Una delle colline è dominata dalle truppe del Re Aethelred e l'altra da quelli di Aelfred. I danesi si muovono rapidamente, più del previsto, senza fermarsi per riposare. Questo è qualcosa che Aethelred non aveva previsto. Egli è ancora immerso nelle sue preghiere e ha ordinato di non essere disturbato fino al termine. I danesi non aspettano. Dividono il proprio esercito in due nella loro avanzata. Una divisione guidata da Jarl Halfdan e Re Bagsecg si dirige verso Aetheired. L'altra, sotto cinque altri Jarl, si muove in direzione di Aethelred. Si impadroniscono di una collina più alta rispetto alla posizione dell'esercito sassone. Se si schierano, avranno un grande vantaggio sui loro nemici...^^{s2} Hai {reg10} truppe pronte per la battaglia, contro le loro {reg11}.
+menu_mega_battle_ashdown|L'esercito sassone ha preso un punto vantaggioso su due colline, diviso in due. Una delle colline è dominata dalle truppe del Re Etelredo e l'altra da quelli di Alfredo. I danesi si muovono rapidamente, più del previsto, senza fermarsi per riposare. Questo è qualcosa che Etelredo non aveva previsto. Egli è ancora immerso nelle sue preghiere e ha ordinato di non essere disturbato fino al termine. I danesi non aspettano. Dividono il proprio esercito in due nella loro avanzata. Una divisione guidata dallo jarl Halfdan e re Bagsecg si dirige verso Etelredo. L'altra, sotto cinque altri jarl, si muove in direzione di Alfredo. Si impadroniscono di una collina più alta rispetto alla posizione dell'esercito sassone. Se si schierano, avranno un grande vantaggio sui loro nemici...^^{s2} Hai {reg10} truppe pronte per la battaglia, contro le loro {reg11}.
 mno_encounter_attackasc|Battaglia di Aescesdun.
 menu_svenbn_hunting|Sulla strada dal campo di battaglia, tutto ciò che vedi sono armi rotte, cadaveri, uomini feriti, saccheggiatori e sacerdoti che danno l'estrema unzione ai moribondi. Provi un misto di euforia nell'essere sopravvissuto ed un forte senso di desolazione. Ma soprattutto continui a domandarti: perché? Perche' sono vivo quando tanti altri sono morti?^^Ma i tuoi pensieri ed il destino vanno in direzioni diverse. {s4}
 mno_talk_to_leader|Parla con lui.
@@ -894,7 +894,7 @@ mno_followers_yes|Sicuro. Sono i benvenuti.
 mno_followers_no|No. Questo è un esercito, non uno spettacolo di marionette.
 menu_followers_camp_leave|I recenti avvenimenti e la drastica riduzione del numero dei tuoi uomini hanno causato alcuni diserzioni tra i tuoi compagni...
 menu_followers_remove|Sei sicuro di voler disperdere i tuoi seguaci? Questo li farà smettere di accompagnare il tuo esercito. Ciò potrebbe avere un forte impatto negativo sul morale dei tuoi uomini.
-menu_sven_bullneck_readingum|Il luogo ha buone difese e fossati e ci sono ancora i resti della precedente battaglia, quando i Sassoni hanno cercato di cacciare i Danesi. È una buona posizione per difendere.^^{!}{s4}
+menu_sven_bullneck_readingum|Il luogo ha buone difese e fossati e ci sono ancora i resti della precedente battaglia, quando i sassoni hanno cercato di cacciare i danesi. È una buona posizione per difendere.^^{!}{s4}
 mno_talk_to_leadermen|Parla con lui.
 mno_enter_to_talk_sven|Avvicinati a Readingum.
 mno_svenreadingum_attack|Assalto Totale!
@@ -1078,7 +1078,7 @@ menu_event_01_juicio|Due contadini, uno molto alto e smilzo, l'altro basso e toz
 mno_choice_01_1nj|Il proprietario della mucca ha ragione. Il vitello è suo, come lo è la mucca.
 mno_choice_01_2nj|Il proprietario del toro ha ragione. Il toro è suo, come lo è il vitello.
 mno_choice_01_3nj|Il proprietario della mucca terrà il vitello ma pagherà un indennizzo all'altro.
-mno_choice_01_4nj|Nessuno dei due ha ragione. Macellerò il vitello per la carne e ne darò un pò ai miei uomini!
+mno_choice_01_4nj|Nessuno dei due ha ragione. Macellerò il vitello per la carne e ne darò un po' ai miei uomini!
 mno_choice_01_5nj|Nessuno dei due ha ragione. Uccidete il vitello e date la carne ai due contadini!
 menu_event_02_juicio|{reg59?Mia signora:Mio signore}, abbiamo catturato un assassino! Questo è l'uomo che ha aggredito uno dei nostri messaggeri in {s4}, che giace gravemente ferito nel letto. Ciò non ci mette in buona luce, perché il messaggero era sotto la tua protezione. Tuttavia, l'assassino ha una storia interessante e vuole parlare con te prima della sua esecuzione.^^Storia del prigioniero: '{reg59?Mia signora:Mio signore}, non avrei mai voluto attaccare il tuo messaggero, ma quest'uomo voleva dormire con mia figlia di notte e questa offerta è stata rifiutata! Tuttavia, egli non ha accettato la nostra risposta, è entrato in casa mia con tre amici e ha violentato la mia cara figlia, ridendo e dicendomi che non bisognerebbe mai credere alla parola di un plebeo. Un padre deve proteggere la sua unica figlia!'
 mno_choice_02_1nj|Era sotto la mia protezione. Tu e la tua famiglia verrete giustiziati.

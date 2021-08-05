@@ -59,7 +59,7 @@ trp_townsman_pl|Cittadini
 trp_watchman|Guardia
 trp_watchman_pl|Guardie
 trp_mercenary_cavalry|Cavaliere Franco
-trp_mercenary_cavalry_pl|Cavalieri Franchi
+trp_mercenary_cavalry_pl|Cavalieri franchi
 trp_caravan_guard|Lanciere
 trp_caravan_guard_pl|Lancieri
 trp_mercenary_swordsman|Veterano
@@ -86,8 +86,8 @@ trp_norse_level0_landed|Signore Nordico (Boandi)
 trp_norse_level0_landed_pl|Signori Nordici (Bondar)
 trp_norse_level1_landed|Lanciere Nordico (Drengr)
 trp_norse_level1_landed_pl|Lancieri Nordici (Drengir)
-trp_norse_level2_landed|Lanciere Elite Nordico (Thegn)
-trp_norse_level2_landed_pl|Lancieri Elite Nordici (Thegnar)
+trp_norse_level2_landed|Lanciere d'Élite Nordico (Thegn)
+trp_norse_level2_landed_pl|Lancieri d'Élite Nordici (Thegnar)
 trp_norse_level3_landed|Nobile Nordico (Hersir)
 trp_norse_level3_landed_pl|Nobili Nordici (Hersir)
 trp_norse_level0_companion|Compagno Nordico (Hirthmathr)
@@ -106,8 +106,8 @@ trp_briton_level0_landed|Uomo Libero Britanno (Bonheddwr)
 trp_briton_level0_landed_pl|Uomini Liberi Britanni (Bonheddwyr)
 trp_briton_level1_landed|Lanciere Britanno (Pedyt)
 trp_briton_level1_landed_pl|Lancieri Britanni (Pedytes)
-trp_briton_level2_landed|Lanciere Britanno Elite (Gwrda)
-trp_briton_level2_landed_pl|Lancieri Britanni Elite (Gwrdas)
+trp_briton_level2_landed|Lanciere Britanno d'Élite (Gwrda)
+trp_briton_level2_landed_pl|Lancieri Britanni d'Élite (Gwrdas)
 trp_briton_level3_landed|Nobile Britanno (Uchelwr)
 trp_briton_level3_landed_pl|Nobili Britanni (Uchelwyr)
 trp_briton_level0_companion|Guerriero Britanno (Cadwr)
@@ -156,8 +156,8 @@ trp_scotch_bowman|Schermagliatore Pitto (Fuidir)
 trp_scotch_bowman_pl|Schermagliatori (Fuidirs)
 trp_scotch_level0_skirmisher|Schermagliatore Veterano Pitto (Saigteoir)
 trp_scotch_level0_skirmisher_pl|Schermagliatori Veterani (Saigteoir)
-trp_scotch_level1_skirmisher|Schermagliatore Pitto Elite (Cruithnen)
-trp_scotch_level1_skirmisher_pl|Schermagliatori Elite (Cruithnen)
+trp_scotch_level1_skirmisher|Schermagliatore Pitto d'Élite (Cruithnen)
+trp_scotch_level1_skirmisher_pl|Schermagliatori d'Élite (Cruithnen)
 trp_scotch_horseman|Cavaliere Pitto (Marcach)
 trp_scotch_horseman_pl|Cavalleria Leggera (Marcach)
 trp_scotch_level0_landed|Possidente Pitto (Bothach)
@@ -210,8 +210,8 @@ trp_irish_bowman|Schermagliatore Irlandese (Fer Midboth)
 trp_irish_bowman_pl|Schermagliatori Irlandesi (Fer Midboth)
 trp_irish_level0_skirmisher|Schermagliatore Veterano Irlandese (Ceithernach)
 trp_irish_level0_skirmisher_pl|Schermagliatori Veterani Irlandesi (Ceithern)
-trp_irish_level1_skirmisher|Schermagliatore Elite Irlandese (Fianaige)
-trp_irish_level1_skirmisher_pl|Schermagliatori Elite Irlandesi (Fian)
+trp_irish_level1_skirmisher|Schermagliatore d'Élite Irlandese (Fianaige)
+trp_irish_level1_skirmisher_pl|Schermagliatori d'Élite Irlandesi (Fian)
 trp_irish_horseman|Cavaliere Irlandese (Marcach)
 trp_irish_horseman_pl|Cavalieri Irlandesi (Marcach)
 trp_irish_level0_landed|Bracciante Irlandese (Bothach)
@@ -308,10 +308,10 @@ trp_steppe_bandit|Vichingo Normanno
 trp_steppe_bandit_pl|Vichinghi Normanni
 trp_taiga_bandit|Vichingo
 trp_taiga_bandit_pl|Vichinghi
-trp_elite_viking|Vichingo Danese d'Elite
-trp_elite_viking_pl|Vichinghi Danesi d'Elite
-trp_elite_viking_2|Vichingo Svedese d'Elite
-trp_elite_viking_2_pl|Vichinghi Svedesi d'Elite
+trp_elite_viking|Vichingo Danese d'Élite
+trp_elite_viking_pl|Vichinghi Danesi d'Élite
+trp_elite_viking_2|Vichingo Svedese d'Élite
+trp_elite_viking_2_pl|Vichinghi Svedesi d'Élite
 trp_sea_raider_leader2|Capitano Della Nave
 trp_sea_raider_leader2_pl|Capitani
 trp_looter_leader2|Capo Bandito
@@ -508,21 +508,21 @@ trp_tavern_minstrel_4|Bardo Errante
 trp_tavern_minstrel_4_pl|Menestrello
 trp_tavern_minstrel_5|Bardo Errante
 trp_tavern_minstrel_5_pl|Menestrello
-trp_quastuosa_1|Vedova Felice
+trp_quastuosa_1|Vedova Allegra
 trp_quastuosa_1_pl|meretrice
-trp_quastuosa_2|Vedova Felice
+trp_quastuosa_2|Vedova Allegra
 trp_quastuosa_2_pl|meretrice
-trp_quastuosa_3|Vedova Felice
+trp_quastuosa_3|Vedova Allegra
 trp_quastuosa_3_pl|meretrice
-trp_quastuosa_4|Vedova Felice
+trp_quastuosa_4|Vedova Allegra
 trp_quastuosa_4_pl|meretrice
-trp_quastuosa_5|Vedova Felice
+trp_quastuosa_5|Vedova Allegra
 trp_quastuosa_5_pl|meretrice
-trp_quastuosa_6|Vedova Felice
+trp_quastuosa_6|Vedova Allegra
 trp_quastuosa_6_pl|meretrice
-trp_quastuosa_7|Vedova Felice
+trp_quastuosa_7|Vedova Allegra
 trp_quastuosa_7_pl|meretrice
-trp_quastuosa_end|Vedova Felice
+trp_quastuosa_end|Vedova Allegra
 trp_quastuosa_end_pl|meretrice
 trp_bardo_1|Scaldo Reale
 trp_bardo_1_pl|Scaldo
@@ -618,10 +618,10 @@ trp_kingdom_3_lord|Konungr Gudrod Ragnarson
 trp_kingdom_3_lord_pl|Gudrod Ragnarson
 trp_kingdom_4_lord|Konungr Hrorek Hemmingsson
 trp_kingdom_4_lord_pl|Hrorek Hemmingsson
-trp_kingdom_5_lord|Brytenwalda Aethelred Aethelwulfing
-trp_kingdom_5_lord_pl|Aethelred Aethelwulfing
-trp_kingdom_6_lord|Cyning Eadmund Aethelberhting
-trp_kingdom_6_lord_pl|Eadmund Aethelberhting
+trp_kingdom_5_lord|Brytenwalda Etelredo Aethelwulfing
+trp_kingdom_5_lord_pl|Etelredo Aethelwulfing
+trp_kingdom_6_lord|Cyning Edmondo Aethelberhting
+trp_kingdom_6_lord_pl|Edmondo Aethelberhting
 trp_kingdom_7_lord|Cyning Brugred Beorhtwulfing
 trp_kingdom_7_lord_pl|Brugred Beorhtwulfing
 trp_kingdom_8_lord|Jarl Halfdan Ragnarsson
@@ -696,67 +696,67 @@ trp_knight_4_2|Jarl Gotrik Haraldsson
 trp_knight_4_2_pl|Gotrik Haraldsson
 trp_knight_4_3|Jarl Hrodulf Haraldsson
 trp_knight_4_3_pl|Hrodulfr Haraldsson
-trp_knight_5_1|Aetheling Aelfred Aethelwulfing
-trp_knight_5_1_pl|Aelfred Aethelwulfing
-trp_knight_5_2|Ealdorman Aethelmod
+trp_knight_5_1|Aetheling Alfredo Aethelwulfing
+trp_knight_5_1_pl|Alfredo Aethelwulfing
+trp_knight_5_2|Aldermanno Aethelmod
 trp_knight_5_2_pl|Aethelmod
-trp_knight_5_3|Ealdorman Wulfhere
+trp_knight_5_3|Aldermanno Wulfhere
 trp_knight_5_3_pl|Wulfhere
-trp_knight_5_4|Ealdorman Aelfstan
+trp_knight_5_4|Aldermanno Aelfstan
 trp_knight_5_4_pl|Aelfstan
-trp_knight_5_5|Ealdorman Cuthred
+trp_knight_5_5|Aldermanno Cuthred
 trp_knight_5_5_pl|Cuthred
-trp_knight_5_6|Ealdorman Bucca
+trp_knight_5_6|Aldermanno Bucca
 trp_knight_5_6_pl|Bucca
-trp_knight_5_7|Ealdorman Wulfred
+trp_knight_5_7|Aldermanno Wulfred
 trp_knight_5_7_pl|Wulfred
-trp_knight_5_8|Ealdorman Wigstan
+trp_knight_5_8|Aldermanno Wigstan
 trp_knight_5_8_pl|Wigstan
-trp_knight_5_9|Ealdorman Sigeberht Sigewulfing
+trp_knight_5_9|Aldermanno Sigeberht Sigewulfing
 trp_knight_5_9_pl|Sigeberht Sigewulfing
-trp_knight_5_10|Ealdorman Garulf
+trp_knight_5_10|Aldermanno Garulf
 trp_knight_5_10_pl|Garulf
 trp_knight_5_11|Dryhten Drihtwald
 trp_knight_5_11_pl|Drihtwald
-trp_knight_6_1|Ealdorman Oswald
+trp_knight_6_1|Aldermanno Oswald
 trp_knight_6_1_pl|Oswald
-trp_knight_6_2|Ealdorman Aethelred
-trp_knight_6_2_pl|Aethelred
-trp_knight_6_3|Ealdorman Ealhhere
+trp_knight_6_2|Aldermanno Etelredo
+trp_knight_6_2_pl|Etelredo
+trp_knight_6_3|Aldermanno Ealhhere
 trp_knight_6_3_pl|Ealhhere
 trp_knight_6_4|Dryhten Eanfrith
 trp_knight_6_4_pl|Eanfrith
 trp_knight_6_5|Dryhten Ecgwald
 trp_knight_6_5_pl|Ecgwald
-trp_knight_7_1|Ealdorman Ceowulf Ceowulfing
+trp_knight_7_1|Aldermanno Ceowulf Ceowulfing
 trp_knight_7_1_pl|Ceowulf Ceowulfing
-trp_knight_7_2|Ealdorman Hereberht
+trp_knight_7_2|Aldermanno Hereberht
 trp_knight_7_2_pl|Hereberht
-trp_knight_7_3|Ealdorman Aethelred
-trp_knight_7_3_pl|Aethelred
-trp_knight_7_4|Ealdorman Aethelred Mucel
-trp_knight_7_4_pl|Aethelred Mucel
-trp_knight_7_5|Ealdorman Aelfgar
+trp_knight_7_3|Aldermanno Etelredo
+trp_knight_7_3_pl|Etelredo
+trp_knight_7_4|Aldermanno Etelredo Mucel
+trp_knight_7_4_pl|Etelredo Mucel
+trp_knight_7_5|Aldermanno Aelfgar
 trp_knight_7_5_pl|Aelfgar
-trp_knight_7_6|Ealdorman Aethulf
+trp_knight_7_6|Aldermanno Aethulf
 trp_knight_7_6_pl|Aethulf
-trp_knight_7_7|Ealdorman Beornoth
+trp_knight_7_7|Aldermanno Beornoth
 trp_knight_7_7_pl|Beornoth
-trp_knight_7_8|Ealdorman Sigberth
+trp_knight_7_8|Aldermanno Sigberth
 trp_knight_7_8_pl|Sigberth
-trp_knight_7_9|Dryhten Aethelwulf Aethelreding
-trp_knight_7_9_pl|Aethelwulf Aethelreding
+trp_knight_7_9|Dryhten Etelvulfo Aethelreding
+trp_knight_7_9_pl|Etelvulfo Aethelreding
 trp_knight_8_1|Cyning Egbert
 trp_knight_8_1_pl|Egbert
 trp_knight_8_2|Jarl Rathbarth Ragnarsson
 trp_knight_8_2_pl|Rathbarth Ragnarsson
-trp_knight_8_3|Ealdorman Ealdred
+trp_knight_8_3|Aldermanno Ealdred
 trp_knight_8_3_pl|Ealdred
 trp_knight_8_4|Jarl Sidroc L'Anziano
 trp_knight_8_4_pl|Sidroc L'Anziano
-trp_knight_8_5|Ealdorman Ricsige
+trp_knight_8_5|Aldermanno Ricsige
 trp_knight_8_5_pl|Ricsige
-trp_knight_8_6|Ealdorman Egbert il Secondo
+trp_knight_8_6|Aldermanno Egbert il Secondo
 trp_knight_8_6_pl|Egbert il Secondo
 trp_knight_8_7|Jarl Bjorn Ragnarsson
 trp_knight_8_7_pl|Bjorn Jarnsida
@@ -1733,8 +1733,8 @@ trp_scotch_multiplayer|Bruide
 trp_scotch_multiplayer_pl|Bruides
 trp_norse_capitan|Nobile (Hersi)
 trp_norse_capitan_pl|Nobili (Hersir)
-trp_norse_elite|Guerriero Elite (Huskarl)
-trp_norse_elite_pl|Guerrieri Elite (Huskarlar)
+trp_norse_elite|Guerriero d'Élite (Huskarl)
+trp_norse_elite_pl|Guerrieri d'Élite (Huskarlar)
 trp_saxon_capitan|Nobile (Thegn)
 trp_saxon_capitan_pl|Nobili (Thegns)
 trp_saxon_elite|Guardia del Corpo (Hearthweru)
@@ -1853,8 +1853,8 @@ trp_troll_bridge|Uomo Enorme
 trp_troll_bridge_pl|Uomo Enorme
 trp_elf_riddles|Piccolo Uomo
 trp_elf_riddles_pl|Piccolo Uomo
-trp_silo_gallaecia|Compagno Silo di Gallaecia
-trp_silo_gallaecia_pl|Silo di Gallaecia
+trp_silo_gallaecia|Compagno Silo di Galizia
+trp_silo_gallaecia_pl|Silo di Galizia
 trp_petrus_didaz|Dux Petrus Didaz
 trp_petrus_didaz_pl|Dux Petro di Oveto
 trp_gundinsalvo_cantabrian|Compagno Gundinsalvo di Amaia
