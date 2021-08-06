@@ -1319,36 +1319,36 @@ qstr_Greatest_Virtue:|Virtù più Grande:
 qstr_Ethnicity:|Etnia:
 qstr_Kingdom:|Regno:
 qstr_Father_s_Occupation:|Lavoro del Padre:
-qstr_Learnt_While_a_Child|Esperienza da Bambin{reg59?a:o}:
+qstr_Learnt_While_a_Child|Esperienza come Infante:
 qstr_Vocation:|Mestiere:
 qstr_Religion:|Religione:
 qstr_Female|Femmina
 qstr_Male|Maschio
 qstr_Normal|Normale
-qstr_Tall|Alt{reg59?a:o}
-qstr_Short|Bass{reg59?a:o}
+qstr_Tall|Alta
+qstr_Short|Bassa
 qstr_Young__16_22_years_o|Giovane (16-22 anni)
-qstr_Adult__23_40_years_o|Adult{reg59?a:o} (23-40 anni)
-qstr_Elder__40_or_more_ye|Anzian{reg59?a:o} (oltre i 40 anni)
-qstr_Sanguine|Sanguign{reg59?a:o}
-qstr_Choleric|Colleric{reg59?a:o}
-qstr_Melancholic|Malinconic{reg59?a:o}
-qstr_Phlegmatic|Flemmatic{reg59?a:o}
+qstr_Adult__23_40_years_o|Adulta (23-40 anni)
+qstr_Elder__40_or_more_ye|Anziana (oltre i 40 anni)
+qstr_Sanguine|Sanguigna
+qstr_Choleric|Collerica
+qstr_Melancholic|Malinconica
+qstr_Phlegmatic|Flemmatica
 qstr_Justice|Giustizia
 qstr_Temperance|Tempra
 qstr_Fortitude|Forza d'Animo
 qstr_Wisdom|Saggezza
 qstr_Anglo_Saxon|Anglosassone
-qstr_Norse|Nordic{reg59?a:o}
-qstr_Frisian|Frison{reg59?a:o}
+qstr_Norse|Nordica
+qstr_Frisian|Frisona
 qstr_Irish|Irlandese
-qstr_Briton|Britannic{reg59?a:o}
-qstr_Scoto_Pict|Scoto-Pitt{reg59?a:o}
-qstr_Foreigner|Forestier{reg59?a:o}
+qstr_Briton|Britannica
+qstr_Scoto_Pict|Scoto-Pitta
+qstr_Foreigner|Forestiera
 qstr_{s0}|{s0}
 qstr_Outlaw|Fuorilegge
 qstr_Peasant|Contadino
-qstr_Priest|Sacerdote
+qstr_Priest|Clericale
 qstr_Craftsman|Artigiano
 qstr_Merchant|Mercante
 qstr_Noble|Nobile
@@ -1357,12 +1357,12 @@ qstr_Stealing|Furto
 qstr_Oratory|Oratoria
 qstr_Crafts|Artigianato
 qstr_Martial_Arts|Arti Marziali
-qstr_Slave|Schiav{reg59?a:o}
-qstr_Traveler|Viaggiat{reg59?rice:ore}
-qstr_Hunter|Cacciat{reg59?rice:ore}
-qstr_Landowner|Proprietari{reg59?a:o} Terrier{reg59?a:o}
-qstr_Christian|Cristian{reg59?a:o}
-qstr_Pagan|Pagan{reg59?a:o}
+qstr_Slave|Schiavitù
+qstr_Traveler|Viaggi
+qstr_Hunter|Caccia
+qstr_Landowner|Proprietà Terriera
+qstr_Christian|Cristiana
+qstr_Pagan|Pagana
 qstr_This_option_is_not_a|Questa opzione non è disponibile nelle modalità Sandbox Signorile e Reale.
 qstr_Your_Kingdom|Il Tuo Regno
 qstr_Name_^{playername}|Nome ^{playername}
@@ -2177,12 +2177,12 @@ qstr_SHIP_{reg8}_ERROR:_g|NAVE {reg8} ERROR: gtbws differente!
 qstr_You_are_an_elder._Yo|Sei un{reg59?a donna: uomo} anzian{reg59?a:o}. Puoi contare molti anni nelle tue esperienze di vita. Potresti non essere più così forte e agile come prima, ma certamente sei più saggi{reg59?a:o}.
 qstr_You_are_an_adult._Yo|Sei un{reg59?a donna adulta: uomo adulto}. Sei in un'età nella quale una quantità ragionevole di esperienza e di salute si incontrano.
 qstr_You_are_a_youth._You|Sei un{reg59?a giovane donna: giovane uomo}. Sei pien{reg59?a:o} di energia e voglia di cambiare il mondo intorno a te.
-qstr_According_to_Galen_s|Secondo l'antica teoria umorale di Galeno, la tua personalità è:^
+qstr_According_to_Galen_s|Secondo l'antica teoria umorale di Galeno, la tua personalità è:
 qstr_Phlegmatic._Its_elem|Flemmatic{reg59?a:o}. Il tuo elemento è l'acqua ed il tuo umore d'Ippocrate è il flemma. Questa personalità è associata alle persone che sono calme e rilassate, compassionevoli e attente, affidabili e coscienziose. Le flemmatiche sono anche persone resistenti al cambiamento e compiaciute di sé, timide, distanti, e riservate.
 qstr_Melancholic._Its_ele|Malinconic{reg59?a:o}. Il tuo elemento è la terra ed il tuo umore d'Ippocrate è la bile nera. Questa personalità è associata alle persone che sono introverse, sensibili e premurose, creative ed intuitive, oltre che pazienti, tolleranti e perfezioniste. Le malinconiche sono anche persone maldestre, ossessive, depresse ed insoddisfatte.
 qstr_Choleric._Its_elemen|Colleric{reg59?a:o}. Il tuo elemento è il fuoco ed il tuo umore d'Ippocrate è la bile gialla. Questa personalità è associata alle persone che sono persuasive e carismatiche, estroverse, indipendenti, egocentriche ed ambiziose. Le colleriche sono anche persone insistenti, impetuose ed irrequiete, permalose ed irascibili.
 qstr_Sanguine._Its_elemen|Sanguign{reg59?a:o}. Il tuo elemento è l'aria ed il tuo umore d'Ippocrate è il sangue. È associato alle persone che sono ottimiste ed allegre, fantasiose ed artistiche, socievoli, razionali e sempre alla cerca del piacere. Le sanguigne sono anche persone smemorate, impulsive ed imprevedibili.
-qstr_{s1}^^{s2}_{s3}|{s1}^^{s2} {s3}
+qstr_{s1}^^{s2}_{s3}|{s1}^^{s2}{s3}
 qstr_According_the_four_c|Secondo le quattro virtù cardinali riconosciute negli scritti dell'antichità classica, molto spesso dimostri:^
 qstr_Wisdom._Also_called_|Saggezza. Chiamata anche Prudenza, governa le azioni secondo il dettame della ragione per scegliere la reazione giusta in qualsiasi situazione. La saggezza implica la capacità di giudicare a priori le probabili conseguenze delle proprie azioni.
 qstr_Fortitude._Also_call|Forza d'animo. Chiamata anche Coraggio, assicura la fermezza durante le difficoltà e la costanza nel perseguimento dei propri obiettivi. È la forza di prendere una decisione sulla base delle convinzioni morali, qualunque siano le conseguenze.
@@ -2214,7 +2214,7 @@ qstr_a_peasant|un contadino
 qstr_You_were_born_into_a|Nacqui in una piccola comunità, comandata da un nobile vicino. La tua infanzia è stata abbastanza felice, ma c'era poco tempo per giocare. Praticamente da quando sei stat{reg59?a:o} in grado di camminare, sei stat{reg59?a:o} mess{reg59?a:o} a raccogliere cavoli con le tue dita congelate.
 qstr_an_outlaw|un fuorilegge
 qstr_Your_education_was_r|La tua istruzione fu quantomeno informale. Vivendo in capanne abbandonate o lungo la strada, sei stat{reg59?a:o} costrett{reg59?a:o} a chiedere la carità, fino a quando non sei diventat{reg59?a:o} più utile nel tagliare borselli. Qualcuno potrebbe dire che la tua infanzia sia stata uno spreco, ma nessuno conosce le stradine buie e i segreti delle città come te.
-qstr_{s1}^^You_were_born_|{s1}^^Nacqui anni fa, tuo padre era {s2}. {s3}
+qstr_{s1}^^You_were_born_|{s1}^^Tuo padre era {s2}. {s3}
 qstr_Your_family_baptised|La tua famiglia ti ha battezzato secondo la Cristianità Romana,
 qstr_and_you_were_fascina|sei rimast{reg59?a:o} affascinat{reg59?a:o} dalle storie che il sacerdote ti raccontava quando visitava il tuo villaggio. Da quei giorni sei rimast{reg59?a:o} devot{reg59?a:o} a quella religione. Il Cristianesimo si basa sulle Scritture, sulla testimonianza della vita di Gesù e sugli insegnamenti dei Suoi Apostoli.
 qstr_Your_family_believed|La tua famiglia credeva negli dei Scandinavi.
@@ -2254,12 +2254,12 @@ qstr_>_Royal_Sandbox_Camp|> Campagna Sandbox Reale
 qstr_You_start_as_leader_|Inizia come capo di una fazione. Lunga vita al re!
 qstr_STAMINA_>_Realism_Fe|VIGORE > Realistico.
 qstr_This_feature_affects|Questa modalità avrà effetto sul giocatore e su tutti i personaggi.^Il Vigore è calcolato in base alla Salute e alla abilità Atletica e influenza la resistenza fisica durante la battaglia. Quando il vigore di un personaggio è esaurito, non sarà in grado di correre e il danno delle armi sarà dimezzato.
-qstr_ARMOR_PENALTY_>_Real|PENALITA' ARMATURA > Realismo.
+qstr_ARMOR_PENALTY_>_Real|PENALITÀ ARMATURA > Realismo.
 qstr_This_feature_affects_|Questa funzione influisce sul giocatore e su tutti i personaggi del gioco.^I tuoi punti abilità diminuiscono quando equipaggi armature pesanti. Questa funzione porta migliore equilibrio al gioco, poichè le truppe leggere diventano più importanti.
 qstr_EASY_RECRUITMENT_>_B|RECLUTAMENTO FACILE > Principiante.
 qstr_When_you_ask_permiss|Al livello Principiante, quando chiedi il permesso di reclutare in un villaggio, la risposta è sempre positiva e senza alcun costo. Non è raccomandato per chi ama il gioco di ruolo e l'immersione.
 qstr_RESTING_MORALE_>_Rea|IL RIPOSO AUMENTA IL MORALE > Realistico.
-qstr_INSANE_DIFFICULTY_>_|DIFFICOLTA' FOLLE > Per Giocatori Esperti.
+qstr_INSANE_DIFFICULTY_>_|DIFFICOLTÀ FOLLE > Per Giocatori Esperti.
 qstr_Your_troops_need_thr|Le tue truppe hanno bisogno del triplo dell'esperienza per salire di livello. I tuoi nemici causano il doppio del danno mentre tu ne causi la metà. Consigliato solo per giocatori esperti.
 qstr_GORE_>_+18_Feature.|VIOLENZA > +18.
 qstr_DISABLE_SCENIC_MENU_|DISABILITA MENU' SCENICO > Prestazioni migliori.
@@ -2276,7 +2276,7 @@ qstr_{s1}On_limbs.___{reg|{s1}Sugli arti. (-{reg2} agilità)^{s2}^^
 qstr_Accumulated_Injuries|Lesioni accumulate:^^nessuna
 qstr_Accumulated_Injuries:|Infortuni accumulati:^^{s1} Il medico di una città più grande può trattare queste lesioni.
 qstr_Healing_wounds:^^non|Ferite da guarire:^^nessuna
-qstr_Healing_wounds:^^{s1|Ferite da guarire:^^{S1} Queste ferite sono state trattate. Esse guariranno da sole.
+qstr_Healing_wounds:^^{s1|Ferite da guarire:^^{S1} Queste ferite sono state trattate, guariranno da sole.
 qstr_{s1}On_head.___{reg1|{s1}Sulla testa. (-{reg1} intelligenza)^^
 qstr_{s1}On_face.___{reg1|{s1}Sulla faccia. (-{reg1} carisma)^^
 qstr_{s1}On_body.___{reg1|{s1}Sul corpo. (-{reg1} forza)^^
