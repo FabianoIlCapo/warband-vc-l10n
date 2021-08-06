@@ -1307,44 +1307,44 @@ qstr_From_now_on_spawn_33|D'ora in poi, ci saranno dal -33% al +50% di possibili
 qstr_Sets_the_player_as_c|Imposta il giocatore come comandante della formazione prescelta. Questa formazione si posizionerà subito a sinistra e dietro il giocatore con i comandi di TENETE QUESTA POSIZIONE e SEGUITEMI (Nella formazione a Cuneo il giocatore verrà posto in cima). Tienilo presente per le formazioni difensive.
 qstr_Equipment_may_get_da|L'equipaggiamento può danneggiarsi durante le battaglie, a seconda delle sue statistiche e dell'abilità Manutenzione Armi. Inoltre, fabbri e armaioli possono riparare il tuo equipaggiamento.^^{s8}
 qstr_Default|Predefinito
-qstr_Randomize|Rendi casuale
+qstr_Randomize|Randomizza
 qstr_Who_are_you?|Chi sei?
-qstr_Be_careful_with_your|Fai attenzione alle tue scelte.^Esse influenzeranno varie cose come le tue^caratteristiche, le abilità ed i dialoghi.
+qstr_Be_careful_with_your|Fai attenzione alle tue scelte. Esse influenzeranno varie cose^come le tue caratteristiche, le abilità ed i dialoghi.
 qstr_Bio:|Biografia:
 qstr_Gender:|Sesso:
 qstr_Height:|Altezza:
 qstr_Age:|Età:
 qstr_Personality:|Personalità:
-qstr_Greatest_Virtue:|La Più Grande Virtù:
+qstr_Greatest_Virtue:|Virtù più Grande:
 qstr_Ethnicity:|Etnia:
 qstr_Kingdom:|Regno:
 qstr_Father_s_Occupation:|Lavoro del Padre:
-qstr_Learnt_While_a_Child|Istruzione da Giovane:
-qstr_Vocation:|Vocazione:
+qstr_Learnt_While_a_Child|Esperienza da Bambin{reg59?a:o}:
+qstr_Vocation:|Mestiere:
 qstr_Religion:|Religione:
 qstr_Female|Femmina
 qstr_Male|Maschio
 qstr_Normal|Normale
-qstr_Tall|Alto
-qstr_Short|Basso
+qstr_Tall|Alt{reg59?a:o}
+qstr_Short|Bass{reg59?a:o}
 qstr_Young__16_22_years_o|Giovane (16-22 anni)
-qstr_Adult__23_40_years_o|Adulto (23-40 anni)
-qstr_Elder__40_or_more_ye|Anziano (oltre i 40 anni)
+qstr_Adult__23_40_years_o|Adult{reg59?a:o} (23-40 anni)
+qstr_Elder__40_or_more_ye|Anzian{reg59?a:o} (oltre i 40 anni)
 qstr_Sanguine|Sanguign{reg59?a:o}
 qstr_Choleric|Colleric{reg59?a:o}
 qstr_Melancholic|Malinconic{reg59?a:o}
 qstr_Phlegmatic|Flemmatic{reg59?a:o}
 qstr_Justice|Giustizia
 qstr_Temperance|Tempra
-qstr_Fortitude|Forza d'animo
+qstr_Fortitude|Forza d'Animo
 qstr_Wisdom|Saggezza
-qstr_Anglo_Saxon|anglosassone
-qstr_Norse|Nordico
-qstr_Frisian|Frisone
+qstr_Anglo_Saxon|Anglosassone
+qstr_Norse|Nordic{reg59?a:o}
+qstr_Frisian|Frison{reg59?a:o}
 qstr_Irish|Irlandese
-qstr_Briton|Britanno
-qstr_Scoto_Pict|Scoto-Pitto
-qstr_Foreigner|Forestiero
+qstr_Briton|Britannic{reg59?a:o}
+qstr_Scoto_Pict|Scoto-Pitt{reg59?a:o}
+qstr_Foreigner|Forestier{reg59?a:o}
 qstr_{s0}|{s0}
 qstr_Outlaw|Fuorilegge
 qstr_Peasant|Contadino
@@ -1357,12 +1357,12 @@ qstr_Stealing|Furto
 qstr_Oratory|Oratoria
 qstr_Crafts|Artigianato
 qstr_Martial_Arts|Arti Marziali
-qstr_Slave|Schiavo
-qstr_Traveler|Viaggiatore
-qstr_Hunter|Cacciatore
-qstr_Landowner|Proprietario Terriero
-qstr_Christian|Cristiana
-qstr_Pagan|Pagana
+qstr_Slave|Schiav{reg59?a:o}
+qstr_Traveler|Viaggiat{reg59?rice:ore}
+qstr_Hunter|Cacciat{reg59?rice:ore}
+qstr_Landowner|Proprietari{reg59?a:o} Terrier{reg59?a:o}
+qstr_Christian|Cristian{reg59?a:o}
+qstr_Pagan|Pagan{reg59?a:o}
 qstr_This_option_is_not_a|Questa opzione non è disponibile nelle modalità Sandbox Signorile e Reale.
 qstr_Your_Kingdom|Il Tuo Regno
 qstr_Name_^{playername}|Nome ^{playername}
@@ -2174,76 +2174,76 @@ qstr_vWaveInfo|vWaveInfo
 qstr_vWaveOrigin|vWaveOrigin
 qstr_vTimer|vTimer
 qstr_SHIP_{reg8}_ERROR:_g|NAVE {reg8} ERROR: gtbws differente!
-qstr_You_are_an_elder._Yo|Sei un anziano. Puoi contare molti anni nelle tue esperienze di vita. Potresti non essere più così forte e agile come prima, ma certamente sei più saggio.
-qstr_You_are_an_adult._Yo|Sei un adulto. Sei in un'età nella quale una quantità ragionevole di esperienza e di salute si incontrano.
-qstr_You_are_a_youth._You|Sei un{reg59?a:} giovane. Sei pien{reg59?a:o} di energia e voglia di cambiare il mondo intorno a te.
-qstr_According_to_Galen_s|Secondo la teoria umorale di Galeno, la tua personalità è:
-qstr_Phlegmatic._Its_elem|Flemmatic{reg59?a:o}. Il suo elemento è l'acqua e il suo umore d'Ippocrate è la flemma. È associato alle persone che sono calme, compassionevoli, con autocontrollo, affidabili, schive, attente e coerenti. Queste persone sono anche resistenti al cambiamento, distanti, rilassate e riservate.
-qstr_Melancholic._Its_ele|Malinconic{reg59?a:o}. Il suo elemento è la terra e il suo umore d'Ippocrate è la bile nera. È associata alle persone che sono introverse, sensibili, intuitive, creative, perfezioniste, pazienti, attente e tolleranti. Queste persone sono anche goffe, ossessionate, depresse e scontente.
-qstr_Choleric._Its_elemen|Colleric{reg59?a:o}. Il suo elemento è il fuoco e il suo umore d'Ippocrate è la bile gialla. È associata alle persone che sono persuasive, egocentriche, estroverse, indipendenti, carismatiche e ambiziose. Queste persone sono anche insistenti, impetuose, irascibili, irrequiete e permalose.
-qstr_Sanguine._Its_elemen|Sanguign{reg59?a:o}. Il suo elemento è l'aria e il suo umore d'Ippocrate è il sangue. È associato alle persone che sono ottimiste, fantasiose, artistiche, allegre, socievoli, razionali e alla ricerca del piacere. Queste persone sono anche smemorate, impulsive e imprevedibili.
+qstr_You_are_an_elder._Yo|Sei un{reg59?a donna: uomo} anzian{reg59?a:o}. Puoi contare molti anni nelle tue esperienze di vita. Potresti non essere più così forte e agile come prima, ma certamente sei più saggi{reg59?a:o}.
+qstr_You_are_an_adult._Yo|Sei un{reg59?a donna adulta: uomo adulto}. Sei in un'età nella quale una quantità ragionevole di esperienza e di salute si incontrano.
+qstr_You_are_a_youth._You|Sei un{reg59?a giovane donna: giovane uomo}. Sei pien{reg59?a:o} di energia e voglia di cambiare il mondo intorno a te.
+qstr_According_to_Galen_s|Secondo l'antica teoria umorale di Galeno, la tua personalità è:^
+qstr_Phlegmatic._Its_elem|Flemmatic{reg59?a:o}. Il tuo elemento è l'acqua ed il tuo umore d'Ippocrate è il flemma. Questa personalità è associata alle persone che sono calme e rilassate, compassionevoli e attente, affidabili e coscienziose. Le flemmatiche sono anche persone resistenti al cambiamento e compiaciute di sé, timide, distanti, e riservate.
+qstr_Melancholic._Its_ele|Malinconic{reg59?a:o}. Il tuo elemento è la terra ed il tuo umore d'Ippocrate è la bile nera. Questa personalità è associata alle persone che sono introverse, sensibili e premurose, creative ed intuitive, oltre che pazienti, tolleranti e perfezioniste. Le malinconiche sono anche persone maldestre, ossessive, depresse ed insoddisfatte.
+qstr_Choleric._Its_elemen|Colleric{reg59?a:o}. Il tuo elemento è il fuoco ed il tuo umore d'Ippocrate è la bile gialla. Questa personalità è associata alle persone che sono persuasive e carismatiche, estroverse, indipendenti, egocentriche ed ambiziose. Le colleriche sono anche persone insistenti, impetuose ed irrequiete, permalose ed irascibili.
+qstr_Sanguine._Its_elemen|Sanguign{reg59?a:o}. Il tuo elemento è l'aria ed il tuo umore d'Ippocrate è il sangue. È associato alle persone che sono ottimiste ed allegre, fantasiose ed artistiche, socievoli, razionali e sempre alla cerca del piacere. Le sanguigne sono anche persone smemorate, impulsive ed imprevedibili.
 qstr_{s1}^^{s2}_{s3}|{s1}^^{s2} {s3}
-qstr_According_the_four_c|Secondo le quattro virtù principali riconosciute negli scritti dell'antichità classica, molto spesso dimostri:
-qstr_Wisdom._Also_called_|Saggezza. Chiamata anche Prudenza, governa le azioni secondo il dettame della ragione per scegliere la reazione giusta in qualsiasi situazione. La Saggezza implica la capacità di giudicare a priori le probabili conseguenze delle proprie azioni.
+qstr_According_the_four_c|Secondo le quattro virtù cardinali riconosciute negli scritti dell'antichità classica, molto spesso dimostri:^
+qstr_Wisdom._Also_called_|Saggezza. Chiamata anche Prudenza, governa le azioni secondo il dettame della ragione per scegliere la reazione giusta in qualsiasi situazione. La saggezza implica la capacità di giudicare a priori le probabili conseguenze delle proprie azioni.
 qstr_Fortitude._Also_call|Forza d'animo. Chiamata anche Coraggio, assicura la fermezza durante le difficoltà e la costanza nel perseguimento dei propri obiettivi. È la forza di prendere una decisione sulla base delle convinzioni morali, qualunque siano le conseguenze.
-qstr_Temperance._Also_cal|Temperanza. Chiamato anche Autocontrollo, resiste all'attrattiva dei piaceri, al fine di rendere il corpo governabile. La Temperanza rappresenta moderazione e controllo sulle passioni e desideri.
+qstr_Temperance._Also_cal|Temperanza. Chiamato anche Autocontrollo, resiste all'attrattiva dei piaceri, al fine di rendere il corpo governabile. La temperanza rappresenta moderazione e controllo sulle passioni e desideri.
 qstr_Justice._It_symboliz|Giustizia. Simboleggia il rispetto per la legge e favorisce la gratificazione del bene e la punizione del male.
-qstr_You_are_a_foreigner.|Sei uno straniero.
+qstr_You_are_a_foreigner.|Sei un{reg59?a:o} stranier{reg59?a:o}.
 qstr_You_come_from_far_aw|Vieni da lontano, cercando di conoscere il nord dell'Europa, un mondo costellato da decine di piccoli regni tutti vessati dai vichinghi.
-qstr_You_are_Scoto_Pict|Sei uno scoto-Pitto,
-qstr_a_descendant_of_an_a|un discendente di un antico popolo di origine incerta che hanno abitato parte del nord della Britagna, o di invasori gaelici ora mescolati con essi.
-qstr_You_are_Briton|Sei un Britanno,
+qstr_You_are_Scoto_Pict|Sei un{reg59?a:o} scoto-pitt{reg59?a:o},
+qstr_a_descendant_of_an_a|un{reg59?a:o} discendente di un antico popolo di origine incerta che ha abitato parte del nord della Britannia, o di invasori gaelici ora mescolati con essi.
+qstr_You_are_Briton|Sei un{reg59?a:o} britannic{reg59?a:o},
 qstr_a_member_of_the_Celt|un membro del popolo celtico che abitava la Britannia da prima dell'invasione Romana.
-qstr_You_are_Goidel|Sei un gaelico,
-qstr_a_member_of_Celtic_p|un membro del popolo Celtico che abitano l'isola di Eriu, che i Romani chiamavano Irlanda.
-qstr_You_are_Frisian.|Sei un Frisone.
+qstr_You_are_Goidel|Sei un{reg59?a:o} gaelic{reg59?a:o},
+qstr_a_member_of_Celtic_p|un membro del popolo celtico che abita l'isola di Eriu, che i Romani chiamavano Hibernia, oggi conosciuta come Irlanda.
+qstr_You_are_Frisian.|Sei un{reg59?a:o} frison{reg59?a:o}.
 qstr_You_come_from_the_di|Vieni dal paese-diga chiamato Frisia al confine nord dell'Europa continentale.
-qstr_You_are_a_Norseman|Sei un norreno,
-qstr_a_member_of_the_paga|un membro dei popoli pagani nativi della Scandia che saccheggiano le coste europee.
-qstr_You_are_Anglo_Saxon|Sei un anglosassone,
-qstr_a_descendant_of_a_Ge|un discendente di un popolo germanico che, nei tempi antichi, abitavano in Sleswick, nei pressi della foce del fiume Elbe. La tua gente ha regnato in Britannia per 400 anni.
+qstr_You_are_a_Norseman|Sei un{reg59?a:o} norren{reg59?a:o},
+qstr_a_member_of_the_paga|un membro dei popoli pagani, nativi della Scandia, che saccheggiano le coste europee.
+qstr_You_are_Anglo_Saxon|Sei un{reg59?': }anglosassone,
+qstr_a_descendant_of_a_Ge|un{reg59?a:} discendente di un popolo germanico che, nei tempi antichi, abitavano in Sleswick, nei pressi della foce del fiume Elbe. La tua gente ha regnato in Britannia per 400 anni.
 qstr_an_impoverished_nobl|un nobile caduto in rovina
-qstr_You_came_into_this_w|Sei venuto in questo mondo come {reg59?figlia:figlio} di una famiglia influente ma in declino. Da allora, i poderi sono scomparsi e solo la casa in cui sei vissuto è rimasta come un tempo. Tuttavia, nonostante i disagi, i tuoi genitori ti hanno dato una buona educazione, preparandoti fin dall'infanzia per la possibilità di diventare un membro della corte reale.
+qstr_You_came_into_this_w|Venni a questo mondo come figli{reg59?a:o} di una famiglia influente ma in declino. Già al tempo i poderi erano scomparsi e rimaneva, come proprietà familiare, solo la dimora in cui sei cresciut{reg59?a:o}. Tuttavia, nonostante i disagi, i tuoi genitori ti diedero una buona istruzione, preparandoti fin dall'infanzia alla possibilità di diventare parte della corte reale.
 qstr_a_travelling_merchan|un mercante itinerante
-qstr_You_were_always_movi|Eri sempre in movimento da un luogo all'altro cercando di realizzare un profitto. Anche se i tuoi genitori erano molto ricchi e ti hanno dato la migliore educazione possibile, hai avuto poche possibilità di fare amicizia lungo la strada. Quando riuscivi a farti un amico, eri felice se avevi la possibilità di vendergli qualcosa.
+qstr_You_were_always_movi|Eri sempre in movimento da un luogo all'altro cercando di realizzare un profitto. Anche se i tuoi genitori erano molto ricchi e ti hanno dato la migliore istruzione possibile, hai avuto poche possibilità di fare amicizia lungo la strada. Quando riuscivi a farti un amico, eri felice se avevi la possibilità di vendergli qualcosa.
 qstr_a_craftsman|un artigiano
-qstr_Your_father_s_abilit|La capacità di tuo padre di realizzare cose belle e utili è sempre stata molto apprezzata dalla comunità. Sei stato abituato a vivere nelle comodità e nel lusso -- e sai distringuere un martello da una mazzetta.
+qstr_Your_father_s_abilit|La capacità di tuo padre di realizzare cose belle ed utili fu sempre molto apprezzata dalla comunità. Sei stat{reg59?a:o} abituat{reg59?a:o} a vivere nelle comodità e nel lusso -- e sai distinguere un martello da una mazzetta.
 qstr_a_priest|un sacerdote
-qstr_You_were_placed_in_t|Sei stato affidato alle cure di un monastero quando eri ancora un bambino. I fratelli non erano veri genitori, ma davano cure e amicizia. Tua madre è venuta a trovarti qualche volta, ma non hai mai sentito parlare di tuo padre. La tua vita è stata più facile rispetto a quella di molti altri, visto che hai sempre trovato un piatto pieno a tavola dopo una lunga giornata di duro lavoro.
+qstr_You_were_placed_in_t|Venni affidat{reg59?a:o} alle cure di un monastero quando eri ancora un{reg59?a:o} bambin{reg59?a:o}. I fratelli non furono dei veri genitori, ma ti garantirono cure e cameratismo. Tua madre veniva a trovarti qualche volta, ma non hai mai sentito parlare di tuo padre. La tua vita era più facile rispetto a quella di molti altri, dato che hai sempre trovato un piatto pieno a tavola dopo una lunga giornata di duro lavoro.
 qstr_a_peasant|un contadino
-qstr_You_were_born_into_a|Sei nato in una piccola comunità diretta da un nobile vicino. La tua infanzia è stata abbastanza felice, ma c'era poco tempo per giocare. Praticamente da quando hai potuto camminare, sei stato messo a raccogliere cavoli con le dita congelate.
+qstr_You_were_born_into_a|Nacqui in una piccola comunità, comandata da un nobile vicino. La tua infanzia è stata abbastanza felice, ma c'era poco tempo per giocare. Praticamente da quando sei stat{reg59?a:o} in grado di camminare, sei stat{reg59?a:o} mess{reg59?a:o} a raccogliere cavoli con le tue dita congelate.
 qstr_an_outlaw|un fuorilegge
-qstr_Your_education_was_r|La tua educazione era piuttosto informale. Vivendo in capanne abbandonate o lungo la strada, sei stato costretto all'accattonaggio fino a quando non sei diventato più utile nel tagliare borse. Qualcuno potrebbe dire che la tua infanzia sia stata uno spreco, ma nessuno conosce le stradine buie e i segreti delle città come te.
-qstr_{s1}^^You_were_born_|{s1}^^Sei nato anni fa a {s2}. {s3}
+qstr_Your_education_was_r|La tua istruzione fu quantomeno informale. Vivendo in capanne abbandonate o lungo la strada, sei stat{reg59?a:o} costrett{reg59?a:o} a chiedere la carità, fino a quando non sei diventat{reg59?a:o} più utile nel tagliare borselli. Qualcuno potrebbe dire che la tua infanzia sia stata uno spreco, ma nessuno conosce le stradine buie e i segreti delle città come te.
+qstr_{s1}^^You_were_born_|{s1}^^Nacqui anni fa, tuo padre era {s2}. {s3}
 qstr_Your_family_baptised|La tua famiglia ti ha battezzato secondo la Cristianità Romana,
-qstr_and_you_were_fascina|sei rimasto affascinato dalle storie che il sacerdote ti ha raccontato quando ha visitato il tuo villaggio. Da quei giorni sei rimasto devoto a quella religione. Il Cristianesimo si basa sulle Scritture, sulla testimonianza della vita di Gesù e sugli insegnamenti dei Suoi Apostoli.
-qstr_Your_family_believed|La tua famiglia credeva negli dèi Scandinavi.
-qstr_You_soaked_up_all_of|Hai assorbito tutte le storie, raccontate fino a tarda notte insieme alla famiglia riunita attorno al fuoco. Tu sei un credente convinto delle vecchie usanze. Il tuo culto presenta molte divinità: Odino, il capo degli dèi; Thor, il dio del cielo e del tuono; Freya, la dea dell'amore, e tutti gli altri necessari a supervisionare i più disparati processi del mondo.
-qstr_a_page_at_a_nobleman|Un paggio alla corte di un nobile
-qstr_You_were_chosen_to_b|Venni scelto per essere al servizio di un ricco nobiluomo del regno, quindi ti fu dato un posto a palazzo. Al servizio di membri più anziani della famiglia, la tua prima lezione fu l'umiltà. In compenso vi era ogni tipo d'intrattenimento: gioco di scacchi, pettegolezzi, bardi che recitavano poesie di grandi gesta e amori. Venivi attratto di più dal mondo di conflitto e competizione. Hai giocato a giochi semplici con altri bambini, battendovi l'un l'altro con bastoni e spade. Tali giochi ti hanno fornito preziose lezioni per la tua vita attuale.
-qstr_a_craftsman_s_appren|Apprendista di un artigiano
-qstr_Your_parents_sent_yo|I tuoi genitori ti mandarono ad imparare un mestiere. Dopo anni di duro lavoro e studio sotto il tuo nuovo maestro, egli ti promosse a operaio qualificato e finalmente venivi pienamente retribuito per tutto il tempo che desideravi restare. Sei diventato abile con gli utensili e l'artigianato.
-qstr_a_shop_assistant|Un assistente di bottega
-qstr_In_the_employ_of_a_s|Alle dipendenze di un negoziante, hai imparato ad attrarre l'interesse della gente e convincerli con le parole. Viaggiando da un luogo all'altro in carovane commerciali, hai appreso i costumi di popoli differenti e il comportamento corretto in ogni cultura.
-qstr_a_street_urchin|Un monello di strada
-qstr_You_ended_up_in_the_|Sei finito per le strade, facendo tutto il necessario per sopravvivere. Elemosina e furto per guadagnarti il pane, giornalmente coinvolto in questo mondo violento, sempre un passo avanti rispetto la legge e gli altri che desideravano acciuffarti.
-qstr_a_farmer_child|Un fanciullo contadino
-qstr_You_put_your_strong_|Hai messo a disposizione la tua forte schiena per aiutare con i lavori agricoli. Hai imparato a prenderti cura della terra e del bestiame che pascolava su di esso. Alcuni anni godevi di buoni raccolti, ma in altri sei sopravvissuto a stomaco vuoto. Sei diventato imperturbabile e abile ad adattarti ad ogni circostanza.
-qstr_{s1}^^You_spent_your|{s1}^^Hai speso la tua giovinezza come {s2}. {s3}
-qstr_Formerly_being_a_sla|Precedentemente, sei stato uno schiavo,
-qstr_your_adult_life_was_|la tua vita adulta fu piena di miseria. Costretto a fare tutti i lavori duri per i tuoi proprietari, sei cresciuto con la pelle dura, veloce e forte. A volte i tuoi padroni non ti davano cibo, e così dovevi imparare a nutrirti con ciò che la natura offriva per sfamarti. Il tuo mondo era piccolo e monotono. I giorni sembravano essere sempre gli stessi. Pioggia e sole punivano il tuo corpo durante questi interminabili giorni di lavoro. Dall'alba al tramonto, con la schiena dolorante tutto il tempo, l'unica ricompensa era quella di poter vedere un altro giorno, anche se alcuni dei tuoi compagni non furono così fortunati. Quando avevi tempo libero -- qualcosa che raramente accadeva -- facevi pratica lanciando pietre con una semplice fionda. Puoi colpire una zucca secca alcuni passi distanti e farla esplodere con un soddisfacente CRACK.
-qstr_Formerly_you_were_a_|Precedentemente, eri un prete.
-qstr_When_you_were_not_wo|Quando non lavoravi o studiavi al monastero, viaggiavi per diffondere la parola di Dio. Chiunque ti ascoltava era veramente impressionato dalla passione dei tuoi sermoni. Anche se hai mantenuto il voto di povertà attraverso tutti quegli anni itineranti, non hai avuto mai mancanza di cibo, bevande o riparo, poiché l'ospitalità dei contadini era particolarmente generosa verso {reg59?una promettente donna:un promettente uomo} di Dio. Di tanto in tanto, gli abitanti andavano al monastero per comprare i prodotti unici che creavi.^^Curare è un'altra delle tue capacità. La tua abilità ha riparato molte ossa rotte e tenuto molte anime nei loro corpi, invece di avventurarle nelle mani di Dio. Pieno di fede, ti senti al sicuro al di fuori delle mura spesse del monastero. Sei armato con niente meno che un'asta o un bastone, simboli dell'unico divino che ti conforta.
-qstr_Formerly_you_were_a_t|Precedentemente, eri un viaggiatore.
-qstr_Responding_to_the_ca|Rispondendo alla chiamata della strada, hai viaggiato da un villaggio all'altro, commerciando qualunque cosa potessi trovare. Non si tratta di una vita agiata, ma sei diventato un maestro nell'ottenere un buon prezzo, anche dalla più avara delle zitelle. Un giorno sarai in grado di creare il tuo impero commerciale.
-qstr_Formerly_you_were_a_p|Precedentemente, eri un bracconiere.
-qstr_Unsatisfied_with_com|Insoddisfatto con il desiderio comune di ricchezza di uomini disperati, ti sei stabilito nelle foreste del tuo signore locale e hai aiutato te stesso con la loro generosità, le leggi siano dannate. Cacciavi cervi, cinghiali e oche e vendevi la loro carne sottobanco. Tagliavi gli alberi proprio sotto il naso delle sentinelle e li hai trasformati in legna da ardere per riscaldare molte case durante i rigidi inverni. Hai scoperto che l'onore è abbastanza facile da barattare per un po' d'argento difficile da trovare. Quando i tempi duri arrivavano, raccoglievi cibo e diventavi un esperto nel trovare piante commestibili in natura.
-qstr_Formerly_you_were_a_f|Precedentemente, eri {reg59?:una donna libera:un uomo libero}, e inoltre {reg59?padrona:padrone} di un pezzo di terra.
-qstr_{reg59?Being_wife_to|{reg59?Essere moglie di un uomo libero significava che la tua vita era meno pesante di quella delle mogli dei servi. Possedevi alcuni servi che ti aiutavano nel duro lavoro, ma poiché tuo marito non aveva molta terra, ti competevano una serie di lavori che svolgevano le mogli dei contadini. Tuo marito pagava l'affitto al suo padrone e coltivava la sua terra. Quando il signore era coinvolto in una guerra, tuo marito veniva arruolato nelle file della fanteria. In quei momenti, nel bel mezzo della battaglia, poteva fare affidamento solo sul suo scudo e sulla sua lancia. Spesso ti ha insegnato a combattere con quelle braccia, nel caso non fosse potuto tornare per difendere la vostra casa. :Questo significa che hai avuto una vita più leggera dei servi. Possedevi alcuni servi che ti aiutavano nel duro lavoro, ma poiché non avevi molta terra, dovevi comunque svolgere una serie di lavori insieme ai contadini. Dovevi pagare l'affitto al tuo padrone e coltivare la sua terra. Quando il signore era coinvolto in una guerra, venivi arruolato nella fanteria dell'esercito. In quei momenti, nel bel mezzo della battaglia, potevi fare affidamento solo sul tuo scudo e sulla tua lancia.}
+qstr_and_you_were_fascina|sei rimast{reg59?a:o} affascinat{reg59?a:o} dalle storie che il sacerdote ti raccontava quando visitava il tuo villaggio. Da quei giorni sei rimast{reg59?a:o} devot{reg59?a:o} a quella religione. Il Cristianesimo si basa sulle Scritture, sulla testimonianza della vita di Gesù e sugli insegnamenti dei Suoi Apostoli.
+qstr_Your_family_believed|La tua famiglia credeva negli dei Scandinavi.
+qstr_You_soaked_up_all_of|Hai assorbito tutte le storie, raccontate fino a tarda notte con tutta la famiglia riunita attorno al fuoco. Sei un{reg59?a:o} credente convint{reg59?a:o} delle vecchie usanze. Il tuo culto presenta molte divinità: Odino, il capo degli dei; Thor, il dio del cielo e del tuono; Freya, la dea dell'amore, e tutti gli altri, necessari a supervisionare i più disparati processi del mondo.
+qstr_a_page_at_a_nobleman|{reg59?ancella:paggio} alla corte di un nobile
+qstr_You_were_chosen_to_b|Venni scelt{reg59?a:o} per essere al servizio di un ricco nobiluomo del regno, quindi ti fu dato un posto a palazzo. Al servizio di membri più anziani della famiglia, la tua prima lezione fu l'umiltà. In compenso vi era ogni tipo d'intrattenimento: gioco di scacchi, pettegolezzi, bardi che recitavano poesie di grandi gesta e amori. Venivi attratt{reg59?a:o} di più dal mondo del conflitto e della competizione. Giocavi a giochi rozzi con gli altri bambini, battendovi l'un l'altro con bastoni e spade. Tali giochi ti hanno fornito preziose lezioni per la tua vita attuale.
+qstr_a_craftsman_s_appren|apprendista di un artigiano
+qstr_Your_parents_sent_yo|I tuoi genitori ti mandarono ad imparare un mestiere. Dopo anni di duro lavoro e studio sotto il tuo nuovo maestro, egli ti promosse a operai{reg59?a:o} qualificat{reg59?a:o} e finalmente venivi pienamente retribuit{reg59?a:o} per tutto il tempo che desideravi restare. Sei diventat{reg59?a:o} abile con gli utensili e l'artigianato.
+qstr_a_shop_assistant|assistente di bottega
+qstr_In_the_employ_of_a_s|Alle dipendenze di un negoziante, hai imparato ad attrarre l'interesse della gente ed a convincerli con le parole. Viaggiando in lungo e in largo su carovane commerciali, hai appreso i costumi di popoli differenti ed il comportamento corretto in ogni cultura.
+qstr_a_street_urchin|brigante di strada
+qstr_You_ended_up_in_the_|Sei finit{reg59?a:o} per le strade, facendo tutto il necessario per sopravvivere. Elemosinando e rubando per guadagnarti il pane, ogni giorno coinvolt{reg59?a:o} in questo mondo violento, sempre un passo avanti rispetto alla legge ed gli altri che cercavano di acciuffarti.
+qstr_a_farmer_child|fanciull{reg59?a:o} contadin{reg59?a:o}
+qstr_You_put_your_strong_|Hai messo a disposizione la tua forte schiena per aiutare con i lavori agricoli. Hai imparato a prenderti cura della terra e del bestiame che vi pascolava. Alcuni anni godevi di buoni raccolti, ma in altri sei sopravvissut{reg59?a:o} a stomaco vuoto. Sei diventat{reg59?a:o} imperturbabile ed abile ad adattarti ad ogni circostanza.
+qstr_{s1}^^You_spent_your|{s1}^^Hai trascorso la tua adolescenza come {s2}. {s3}
+qstr_Formerly_being_a_sla|In seguito, in quanto schiav{reg59?a:o},
+qstr_your_adult_life_was_|la tua vita adulta fu piena di miseria. Costrett{reg59?a:o} a fare tutti i lavori duri per i tuoi proprietari, sei cresciut{reg59?a:o} resistente, veloce e forte. A volte i tuoi padroni non ti davano cibo, e così dovevi imparare a nutrirti con ciò che la natura offriva per sfamarti. Il tuo mondo era piccolo e monotono. I giorni sembravano essere sempre gli stessi. Pioggia e sole punivano il tuo corpo durante tutte quelle interminabili giornate di lavoro. Dall'alba al tramonto, con la schiena dolorante tutto il tempo, l'unica ricompensa era quella di poter vedere un altro giorno, anche se alcuni dei tuoi compagni non furono così fortunati. Quando avevi tempo libero -- qualcosa che raramente accadeva -- facevi pratica lanciando pietre con una semplice fionda. Puoi colpire una zucca secca alcuni ad passi di distanza e farla esplodere con un soddisfacente 'crack'.
+qstr_Formerly_you_were_a_|In seguito, sei diventat{reg59?a monaca:o sacerdote}.
+qstr_When_you_were_not_wo|Quando non lavoravi o studiavi al monastero, viaggiavi per diffondere la parola di Dio. Chiunque ti ascoltasse era veramente impressionato dalla passione dei tuoi sermoni. Anche se hai mantenuto il voto di povertà attraverso tutti quegli anni itineranti, non hai avuto mai mancanza di cibo, bevande o riparo, poiché l'ospitalità dei contadini era particolarmente generosa verso {reg59?una promettente donna:un promettente uomo} di Dio. Di tanto in tanto, gli abitanti andavano al monastero per comprare i prodotti unici che creavi.^^Curare è un'altra delle tue capacità. La tua abilità ha riparato molte ossa rotte e tenuto molte anime nei loro corpi, invece di avventurarle nelle mani di Dio. Pieno di fede, ti senti al sicuro al di fuori delle mura spesse del monastero. Sei armato con niente meno che un'asta o un bastone, simboli dell'unico divino che ti conforta.
+qstr_Formerly_you_were_a_t|In seguito, sei diventat{reg59?a una viaggiatrice:o un viaggiatore}.
+qstr_Responding_to_the_ca|Rispondendo al richiamo della strada, hai viaggiato da un villaggio all'altro, commerciando qualunque cosa potessi trovare. Non si tratta di una vita agiata, ma sei diventat{reg59?a:o} un{reg59?a:o} maestr{reg59?a:o} nell'ottenere un buon prezzo, anche dalla più avara delle zitelle. Un giorno sarai in grado di creare il tuo impero commerciale.
+qstr_Formerly_you_were_a_p|In seguito, sei diventat{reg59?a:o} un{reg59?a:} bracconier{reg59?a:e}.
+qstr_Unsatisfied_with_com|Insoddisfatt{reg59?a:o} per via del tuo disperato desiderio di ricchezza, comune tra molti, hai fatto tuo il bottino dei boschi di un nobile locale, alla faccia delle leggi. Cacciavi cervi, cinghiali e oche e vendevi la loro carne sottobanco. Tagliavi gli alberi proprio sotto il naso delle sentinelle e li hai trasformati in legna da ardere per riscaldare molte case durante i rigidi inverni. Hai scoperto che l'onore è abbastanza facile da barattare per un po' d'argento difficile da trovare. Quando i tempi duri arrivavano, raccoglievi cibo e diventavi un{reg59?': }espert{reg59?a:o} nel trovare piante selvatiche commestibili.
+qstr_Formerly_you_were_a_f|In seguito, sei diventat{reg59?:a una donna libera:o un uomo libero}, oltre che padron{reg59?a:e} di un pezzo di terra.
+qstr_{reg59?Being_wife_to|{reg59?Essere moglie di un uomo libero significava che la tua vita era meno pesante di quella delle mogli dei servi. Possedevi qualche servo che ti aiutava nel duro lavoro, ma poiché tuo marito non aveva molta terra, ti toccavano comunque alcune mansioni da contadina. Tuo marito pagava l'affitto al suo padrone e coltivava la sua terra. Quando il signore era coinvolto in una guerra, tuo marito veniva arruolato nelle file della fanteria. In quei momenti, nel bel mezzo della battaglia, poteva fare affidamento solo sul suo scudo e sulla sua lancia. Spesso ti insegnava a combattere con quelle braccia, nel caso non fosse potuto tornare per difendere la vostra casa. :Questo significa che hai avuto una vita più leggera rispetto ai servi. Ne possedevi alcuni che ti aiutavano nel duro lavoro, ma poiché non avevi molta terra, dovevi comunque svolgere una serie di mansioni insieme ai contadini. Dovevi pagare l'affitto al tuo padrone e coltivare la sua terra. Quando il signore era coinvolto in una guerra, venivi arruolato nella fanteria dell'esercito. In quei momenti, nel bel mezzo della battaglia, potevi fare affidamento solo sul tuo scudo e sulla tua lancia.}
 qstr_{s1}^^Through_persis|{s1}^^Con persistenza e un po' di fortuna, hai appreso come ingraziarti uno dei signori locali. Alla fine, lui ti ha raccomandato al re, che ti ha premiato con un piccolo feudo dei propri appezzamenti. Ora devi provare a te stesso che sei degno della fiducia che ti è stata data.
-qstr_{s1}^^Then_you_happe|{s1}^^Hai attirato l'interesse di un giovane signore. Ignorando le tradizioni e i suggerimenti dei suoi consiglieri, ti ha sposato, ma poco dopo è stato ferito mortalmente durante un torneo. Il signore non aveva eredi maschi in vita. Prendi quindi il controllo della sua piccola e trascurata proprietà, anche se gli altri signori del regno lo considerano un possedimento disponibile. Ora devi stabilirti nelle tue terre.
-qstr_{s1}^^Through_persist|{s1}^^Grazie alla tua tenacia e ad un po' di fortuna, sei riuscito ingraziarti uno dei lord locali. Dopo che una serie di eventi hanno lasciato il regno senza un sovrano, il signore ti ha proposto di condividere il comando in una diarchia come compromesso tra le fazioni contendenti. Sei stato scelto deliberatamente perchè il più debole tra i due, ma un'improvvisa malattia mortale dell'altro re in carica ti ha lasciato come unico sovrano del regno. Non tutti sono contenti di questa svolta degli eventi e i regni vicini hanno preso atto dell'apparente debolezza del tuo regno. Ora devi stabilire il tuo dominio.
-qstr_{s1}^^Then_you_happen|{s1}^^Ti è capitato di catturare l'interesse del giovane re. Ignorando le tradizioni e i suggerimenti dei suoi consiglieri, ti ha sposato, ma poco dopo, sfortunatamente, ha subito una ferita mortale durante un torneo. Il re non aveva zii, fratelli o figli in vita. Mentre i signori discutevano sulla successione, i regni vicini appresero dell'apparente debolezza del tuo reame. Ora devi stabilire il tuo dominio.
+qstr_{s1}^^Then_you_happe|{s1}^^Hai attirato l'interesse di un giovane nobile. Ignorando le tradizioni e i suggerimenti dei suoi consiglieri, ti ha sposato, ma poco dopo è stato ferito mortalmente durante un torneo. Il signore non aveva eredi maschi in vita. Prendi quindi il controllo della sua piccola e trascurata proprietà, anche se gli altri signori del regno lo considerano un possedimento disponibile. Ora devi stabilirti nelle tue terre.
+qstr_{s1}^^Through_persist|{s1}^^Grazie alla tua tenacia e ad un po' di fortuna, sei riuscito ingraziarti uno dei lord locali. Dopo che una serie di eventi hanno lasciato il regno senza un sovrano, il signore ti ha proposto di condividere il comando in una diarchia come compromesso tra le fazioni contendenti. Sei stato scelto deliberatamente perché il più debole tra i due, ma un'improvvisa malattia mortale dell'altro re in carica ti ha lasciato come unico sovrano del regno. Non tutti sono contenti di questa svolta degli eventi e i regni vicini hanno preso atto dell'apparente debolezza del tuo regno. Ora devi stabilire il tuo dominio.
+qstr_{s1}^^Then_you_happen|{s1}^^Ti è capitato di catturare l'interesse del giovane re. Ignorando le tradizioni e i suggerimenti dei suoi consiglieri, ti ha sposato, ma poco dopo ha subito una ferita mortale durante un torneo. Il re non aveva zii, fratelli o figli in vita. Mentre i signori discutono sulla successione, i regni vicini prendono atto dell'apparente debolezza del tuo reame. Ora devi stabilire il tuo dominio.
 qstr_>_Viking_Conquest_Ma|> Viking Conquest Campagna Principale
 qstr_A_storyline_campaign|Una campagna con una trama, una missione principale e altre funzioni speciali.
 qstr_>_Sandbox_Campaign|> Campagna Sandbox
