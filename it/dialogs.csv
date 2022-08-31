@@ -5601,7 +5601,7 @@ dlga_village_elder_caliacassuccess3:village_elder_pretalk|Hai salvato molte vite
 dlga_village_elder_caliacassuccess4:village_elder_caliacassuccess3|Mi dispiace, ma la decisione è presa. Non sono un uomo ricco, ma i miei figli sono sani e robusti, e non ho modo migliore per ripagarti per quello che hai fatto.
 dlga_village_elder_talk:village_elder_ask_fugitive|Sto cercando un uomo chiamato {s4}. Mi hanno detto che potrebbe nascondersi da queste parti.
 dlga_village_elder_ask_fugitive:village_elder_pretalk|Gli stranieri vanno e vengono qui nel nostro villaggio, signor{reg59?a:e}, ma dubito che riuscirai a trovarlo a quest'ora della notte. Avrai sicuramente maggior fortuna durante il giorno.
-dlga_village_elder_ask_fugitive:close_window|Gli stranieri vanno e vengono qui nel nostro villaggio, {reg59?signora/signore}. Se si sta nascondendo qui, lo troverai sicuramente, ispezionando il villaggio.
+dlga_village_elder_ask_fugitive:close_window|Gli stranieri vanno e vengono qui nel nostro villaggio, {reg59?signora:signore}. Se si sta nascondendo qui, lo troverai sicuramente, ispezionando il villaggio:
 dlga_village_elder_talk:village_elder_active_mission_1|Per quanto riguarda il compito che mi hai assegnato...
 dlga_village_elder_talk:village_elder_request_mission_ask|Hai qualche compito in cui posso aiutarti?
 dlga_village_elder_talk:village_elder_trade_begin|Voglio comprare delle provviste. Pagherò con dell'argento.
@@ -5699,7 +5699,7 @@ dlga_village_elder_talk:village_elder_recruit_start|Sono alla ricerca di uomini 
 dlga_village_elder_talk:village_elder_angry|Posso proteggere questo villaggio dalle minacce -- a pagamento.
 dlga_village_elder_angry:village_elder_extortion|Ach, ancora! Per l'amor delle nostre famiglie, prenditi la tua paga.
 dlga_village_elder_extortion:close_window|Hai fatto bene. Le tue famiglie ti ringrazieranno.
-dlga_village_elder_angry:close_window|Hah, tu, {reg59?pagliaccio:ciarlatana} che non sei altro... Non mi inganni!
+dlga_village_elder_angry:close_window|Hah, tu, {reg59?ciarlatana:pagliaccio} che non sei altro... Non mi inganni!
 dlga_village_elder_talk:village_elder_ask_dog|Ci sono dei cani randagi qui?
 dlga_village_elder_ask_dog:village_elder_pretalk|Sì, ho visto di recente un cane randagio. Cercava da mangiare, ma nessuno qui ha bisogno di un cane. Credo si sia messo seduto da qualche parte qui in giro.
 dlga_village_elder_ask_dog:village_elder_pretalk.1|No, non ho visto nessun randagio ultimamente.
@@ -6018,9 +6018,9 @@ dlga_town_merchant_talk:close_window|Addio.
 dlga_start:town_dweller_talk|Mi{reg59?a signora:o signore}?
 dlga_start:town_dweller_talk.1|Buongiorno, signor{reg59?a:e}.
 dlga_town_dweller_talk:town_dweller_ask_fugitive|Sto cercando un uomo chiamato {s4}. Mi hanno detto che si nasconde da queste parti.
-dlga_town_dweller_ask_fugitive:close_window|Gli stranieri vanno e vengono qui nel nostro villaggio, {reg59?signora/signore}. Se si nasconde qui, lo troverai sicuramente, ispezionando il villaggio.
+dlga_town_dweller_ask_fugitive:close_window|Gli stranieri vanno e vengono qui nel nostro villaggio, {reg59?signora:signore}. Se si nasconde qui, lo troverai sicuramente, ispezionando il villaggio.
 dlga_town_dweller_talk:town_dweller_ask_music|Hai visto qualche guardia con {s22} da queste parti?
-dlga_town_dweller_ask_music:close_window|Gli stranieri vanno e vengono qui nel nostro villaggio, {reg59?signora/signore}. Non ho visto o sentito nulla a riguardo, ma se si nasconde qui, lo troverai sicuramente ispezionando il villaggio.
+dlga_town_dweller_ask_music:close_window|Gli stranieri vanno e vengono qui nel nostro villaggio, {reg59?signora:signore}. Non ho visto o sentito nulla a riguardo, ma se si nasconde qui, lo troverai sicuramente ispezionando il villaggio.
 dlga_town_dweller_ask_music:close_window.1|Gli stranieri vanno e vengono qui nel nostro villaggio, signor{reg59?a:e}. Io ed i miei amici sentivamo un {s22} suonare, ma non mi ricordo chi fosse quella persona. Forse se n'è già andato?
 dlga_town_dweller_talk:town_dweller_ask_ghost|Sto cercando qualcuno che potrebbe essere o non essere un fantasma.
 dlga_town_dweller_ask_ghost:close_window|Un fantasma? Hah! I fantasmi non appaiono durante il giorno! Prova a cercarlo di notte!

@@ -26,7 +26,7 @@ skl_inventory_management|Упаковка
 skl_inventory_management_desc|С каждым новым уровнем этого навыка вместительность вашего инвентаря увеличивается на 6 пунктов (умение лидера).
 skl_spotting|Зоркость
 skl_spotting_desc|С каждым новым уровнем этого навыка поле зрения отряда увеличивается на 10%% (умение отряда).
-; skl_pathfinding|Path-Finding
+skl_pathfinding|Поиск пути
 skl_pathfinding_desc|С каждым новым уровнем этого навыка скорость передвижения отряда по карте увеличивается на 3%% (умение отряда).
 skl_tactics|Тактика
 skl_tactics_desc|Каждый четный уровень этого навыка повышает начальное преимущество в бою на 1 (умение отряда).
@@ -72,7 +72,7 @@ skl_power_strike|Мощный удар
 skl_power_strike_desc|С каждым новым уровнем этого навыка урон, наносимый оружием ближнего боя, увеличивается на 8%% (личное умение).
 skl_ironflesh|Живучесть
 skl_ironflesh_desc|С каждым новым уровнем этого навыка запас здоровья увеличивается на 2 (личное умение).
-; skl_navigation|Navigation
+skl_navigation|Навигация
 ; skl_navigation_desc|Party map speed on sea is increased by 5%% per skill level. (Party skill)
 ; skl_sea_king|Sea-King
 ; skl_sea_king_desc|Every point increases the maximum number of ships you can command. (Leader skill)
