@@ -153,7 +153,7 @@ qstr_{reg65?My_Lady:My_Lo|{reg65?Mia Signora:Mio Signore}
 qstr_{reg65?madame:sir}|{reg65?signora:signore}
 qstr_{reg65?Madame:Sir}|{reg65?Signora:Signore}
 qstr_Dog|Cane
-qstr_Welcome_landlubber._|Benvenuto novellino. Io sono il Maestro d'Ascia qui.
+qstr_Welcome_landlubber._|Benvenut{reg59?a:o}, piedinterra. Io sono il carpentiere qui.
 qstr_Welcome_{reg59?lady:|Benvenut{reg59?a signora:o signore} {playername}.
 qstr_Welcome_{reg59?madam|Benvenut{reg59?a signora:o signore}.
 qstr_Welcome.|Benvenuto.
@@ -209,7 +209,7 @@ qstr__fiefs:_{s0}_|(feudi: {s0})
 qstr___The_child_looks_at|--I bambini ti guardano divertiti e ridono.--
 qstr_My_mother_told_me_no|Mia madre mi ha detto di non parlare con gli sconosciuti. Ciao!
 qstr_Running_is_fun!_I_ca|Correre è divertente! Posso correre più veloce di te! Vuoi fare una gara?
-qstr_We_are_landless_poor|Siamo senza terra, poveri e perseguitati. La vita ci ha portati a questo, {reg59?amica/amico}. Non una mossa falsa o ti facciamo fuori.
+qstr_We_are_landless_poor|Siamo senza terra, poveri e perseguitati. La vita ci ha portati a questo, {reg59?bellezza:amico}. Un passo falso e ti facciamo fuori.
 qstr_Luckily_for_you_you_|Per tua fortuna mi hai trovato di buon umore. Dammi tutti i tuoi soldi e forse ti lasceremo in vita.
 qstr_This_a_robbery_eh?_I|Questa è una rapina, chiaro? Ti concedo la possibilità di consegnarmi tutto quello che hai, oppure io e i miei compagni ti uccideremo. Capito!?
 qstr_big|grande
@@ -712,8 +712,8 @@ qstr_Note_3:_You_chose_to_b|Nota 3: hai scelto di diventare un nemico di {s9} pe
 qstr_Note_3:_You_chose_not|Nota 3: hai scelto di non diventare nemico giurato di {s9} per il suo tradimento e per l'alleanza con {s11}, il protettore di Sven Collo di Toro.
 qstr_Leave_Friese:_Your_r|Lasci la Frisia: la tua relazione con lo jarl è finita male. Ora siete nemici. Ti manderà degli assassini e non avrà compassione se ti troverà sulla sua strada.
 qstr_Leave_Friese._Your_r|Lasci la Frisia. La tua relazione con lo jarl è finita male. Ti ha accusato di aver rovinato i suoi piani per salire al trono. È meglio non incrociarlo di nuovo per molto tempo o finché non sarai in grado di riacquistare la sua amicizia.
-qstr_You_were_wrong._Thes|Ti sei sbagliato. Questi uomini avrebbero preso e fortificato il villaggio, quindi avrebbero aspettato altre truppe dalla Danimarca. Ora tutto questo non accadrà mai. Hai messo fine ai miei sogni. Sigurd "Serpe nell'Occhio" penserà che sono un traditore e vorrà la mia testa per colpa tua. Vattene! Non sei più il benvenuto qui. Se ci rivedremo, non so se riuscirò a controllarmi dal non ucciderti.^^Ti consiglio di lasciare la Frisia.
-qstr_There_s_nothing_to_t|Non c'è niente di cui parlare. Questi uomini avrebbero preso e fortificato il villaggio, quindi avrebbero aspettato altre truppe dalla Danimarca. Ora tutto ciò è impossibile. Hai messo fine ai miei sogni. Sigurd "Serpe nell'Occhio" penserà che sono un traditore e vorrà la mia testa per colpa tua. Vattene! Non sei più il benvenuto qui. Se ci rivedremo, non so se riuscirò a controllarmi dal non ucciderti.^^Ti consiglio di lasciare la Frisia.
+qstr_You_were_wrong._Thes|Avevi torto. Questi uomini avrebbero preso e fortificato il villaggio, quindi avrebbero aspettato altre truppe dalla Danimarca. Ora tutto questo non accadrà mai. Hai messo fine ai miei sogni. Sigurd "Serpe nell'Occhio" penserà che sono un traditore e vorrà la mia testa per colpa tua. Vattene! Non sei più {reg59?la benvenuta:il benvenuto} qui. Se ci rivedremo, non so se riuscirò a controllarmi e a non ucciderti.^^Ti consiglio di lasciare la Frisia.
+qstr_There_s_nothing_to_t|Non c'è niente di cui parlare. Questi uomini avrebbero preso e fortificato il villaggio, quindi avrebbero aspettato altre truppe dalla Danimarca. Ora tutto ciò è impossibile. Hai messo fine ai miei sogni. Sigurd "Serpe nell'Occhio" penserà che sono un traditore e vorrà la mia testa per colpa tua. Vattene! Non sei più {reg59?la benvenuta:il benvenuto} qui. Se ci rivedremo, non so se riuscirò a controllarmi e a non ucciderti.^^Ti consiglio di lasciare la Frisia.
 qstr_Leave_Friese._Your_re|Lasci la Frisia. La tua relazione con lo jarl è finita male. Ti accusa di aver rovinato i suoi piani per salire al trono. È meglio non incrociarlo di nuovo per molto tempo, o finché non sarai in grado di riacquistare la sua amicizia.
 qstr_You_are_bold_rat_to_|Sei coraggioso, ratto, a parlarmi in quel modo dopo quello che hai fatto. Per onorare i servizi forniti, ti darò alcuni giorni di vantaggio, dopodichè avrai degli assassini alle spalle, perché ti metterò una taglia sulla testa. Dovrai dormire con un occhio aperto e un coltello sotto il cuscino.^Se non lasci la Frisia o ci dovessimo incontrare di persona, ti ammazzerò a mani nude.
 qstr_Leave_Friese._Your_rel|Lasci la Frisia. La tua relazione con lo jarl è finita male. Ora siete nemici. Ti manderà degli assassini e non avrà compassione se ti troverai sulla sua strada.
@@ -870,8 +870,8 @@ qstr_Bless_you_{playernam|Dio vi benedica, {playername}. Questa è una decisione
 qstr_This_is_not_only_an_|Questa non è solo una decisione onorevole, ma segno della tua maturità politica, {playername}.
 qstr_Well_thank_you_{play|Beh, grazie, {playername}. Apprezzo la tua gentilezza.
 qstr_Maybe_I_was_wrong_ab|Forse mi sono sbagliato sul tuo conto, {playername}. Solo il tempo ce lo dirà.
-qstr_Welcome_to_Maedelste|Benvenuto a Maedelstede, dove gli stranieri sono i benvenuti - soprattutto se portano argento.
-qstr_My_mead_hall_is_the_|La mia sala dell'idromele è la più grande della città. Sei il benvenuto qui.
+qstr_Welcome_to_Maedelste|Benvenut{reg59?a:o} a Maedelstede, dove gli stranieri sono i benvenuti - soprattutto se portano argento.
+qstr_My_mead_hall_is_the_|La mia sala dell'idromele è la più grande della città. Sei {reg59?la benvenuta:il benvenuto} qui.
 qstr_Make_yourselves_comf|Mettetevi comodi. Vi porterò da bere e alloggio.
 qstr_has_put_together_a_b|ha messo insieme una taglia su alcuni banditi che hanno attaccato uno dei suoi villaggi.
 qstr_This_is_not_that_sim|Questo non è un compito semplice, ma posso fare un tentativo. Penso che 300 peningas dovrebbero essere sufficienti. Di quale fazione stai parlando?
@@ -918,9 +918,9 @@ qstr_The_priest_is_happy_|Il prete è contento delle donazioni, ma chiaramente �
 qstr_You_are_now_a_pagan_|Ora sei un pagano, un seguace di Odino e degli altri dei Norreni.
 qstr_The_priest_is_happy_a|Il prete è felice di essere pagato per parlare, ma chiaramente è seccato che tu stia cercando di comprarlo. Forse è ora di lasciar perdere per un po'.
 qstr___The_abbot_looks_yo|--L' abate ti guarda dall'alto in basso, poco convinto.--
-qstr_Welcome_then._Listen|Benvenuto, allora. Ascoltami: abbiamo bisogno del tuo sostegno.
+qstr_Welcome_then._Listen|Benvenut{reg59?a:o}, allora. Ascoltami: abbiamo bisogno del tuo sostegno.
 qstr_In_nomine_pater_the_|In nomine pater, lo Jarl ci insulta inviandoci un pagano. Va bene, se è così che vuole giocare... Ora, ascoltatemi.
-qstr_Then_welcome_{player|Sei il benvenuto {playername}. Lascia che ti spieghi cosa sta accadendo.
+qstr_Then_welcome_{player|Sei {reg59?la benvenuta:il benvenuto}, {playername}. Lascia che ti spieghi cosa sta accadendo.
 qstr___The_abbot_after_ru|--L'abate, dopo aver rovistato tra i libri, tira fuori una lettera e te la mostra.--
 qstr___The_document_seems|--Il documento sembra abbastanza credibile, con una buona calligrafia, c'è scritto che un uomo di nome Frethwi dona al monastero diversi appezzamenti di terreno. È firmato da diversi testimoni.--^^
 qstr___You_look_at_the_te|--Guarda il testo. È tutto molto bello, con le lettere ben allineate, ma senza illustrazioni che accompagnano non si capisce niente.--^^
@@ -1018,9 +1018,9 @@ qstr_Note_4:_You_chose_to_|Nota 4: Hai scelto di uccidere i vichinghi prigionier
 qstr_Note_4:_You_chose_to_s|Nota 4: Hai scelto di risparmiare la vita del vichingo prigioniero a {s3}.
 qstr_Note_2:_The_Viking_p|Nota 2: Il prigioniero vichingo a {s3} ti ha detto che c'erano altri superstiti dell'attacco alla Woden Ric. Sembra che sono stati presi in un nascondiglio che Sven Collo di Toro ha in Danimarca.
 qstr_{s11}_told_me_that_I|{s11} mi ha detto che c'è una barca che mi aspetta su una spiaggia vicino a Doccinga. L'unica condizione è quella di portare sua figlia con me. È tempo di lasciare la Frisia.
-qstr__May_I_remind_you_that_| Posso ricordarti che attualmente ti stiamo pagando delle tasse adeguate, {reg59?vostra signoria:vostra signoria}?
-qstr__May_I_remind_you_that_c|Posso ricordarti che attualmente ti stiamo pagando delle tasse basse {reg59?vostra signoria:vostra signoria}? Ti siamo terribilmente grati per la tua generosità.
-qstr__May_I_remind_you_that_cu|Posso ricordarti che attualmente ti stiamo pagando delle tasse alte {reg59?vostra signoria:vostra signoria}? Molte persone ti stanno maledicendo per la tua avidità.
+qstr__May_I_remind_you_that_| Posso ricordarti che attualmente ti stiamo pagando delle tasse medie, vostra signoria?
+qstr__May_I_remind_you_that_c|Posso ricordarti che attualmente ti stiamo pagando delle tasse basse vostra signoria? Ti siamo infinitamente grati per la tua generosità.
+qstr__May_I_remind_you_that_cu|Posso ricordarti che attualmente ti stiamo pagando delle tasse alte vostra signoria? Molte persone ti stanno maledicendo per la tua avidità.
 qstr_Old_gods?_This_is_a_|Antichi dei? Questo mi preoccupa. Non ho mai affrontato alcun 'dio' prima d'ora. (Flemmatic{reg59?a:o})
 qstr_Tell_me_more_about_t|Dimmi di più su questi 'dei' e di come ti stanno osservando. (Malinconic{reg59?a:o})
 qstr_Look_at_me._I_m_here|Guardami. Sono qui, ti sto ascoltando, Caliacas. Dimmi di più su questi 'dei' che ti osservano. (Colleric{reg59?a:o})
@@ -1955,7 +1955,7 @@ qstr_I_hear_that_there_wi|Ho sentito che ci sarà presto un torneo a {s62}.
 qstr_I_heard_that_one_can|Ho sentito che è possibile comprare {s62} a un buon prezzo a {s63}.
 qstr_I_heard_that_they_pa|Ho sentito che pagano un ottimo prezzo per {s62} a {s63}.
 qstr_I_heard_that_the_Dan|Ho sentito dire che i danesi promettono di conquistare il West Seaxe prima della prossima primavera.
-qstr_Currently_the_most_r|Attualmente, la canzone più richiesta ai bardi è quella del Re Cadwallon di Gwynedd e del Re Penda di Mercia che invadono Northumbria e penetrano in profondità nel cuore del vecchio Regno di Deira. Il Re Eadwine radunò i suoi guerrieri e cavalcò a sud per fronteggiarli in battaglia. I due eserciti si incontrarono a Haedfeldland e combatterono nella più sanguinosa e brutale battaglia del tempo. Forse è popolare a causa della recente invasione.
+qstr_Currently_the_most_r|In questo periodo, la canzone più richiesta ai bardi è quella del Re Cadwallon di Gwynedd e del Re Penda di Mercia che invadono Northumbria e penetrano in profondità nel cuore del vecchio Regno di Deira. Il Re Eadwine radunò i suoi guerrieri e cavalcò a sud per fronteggiarli in battaglia. I due eserciti si incontrarono a Haedfeldland e combatterono nella più sanguinosa e brutale battaglia del tempo. Forse è popolare a causa della recente invasione.
 qstr_I_heard_the_Pope_in_|Ho sentito dire che il Papa a Roma ha inviato dei missionari per convertire i danesi!
 qstr_Ragnar_s_sons_are_th|I figli di Ragnar sono gli uomini più pericolosi al mondo. Ho sentito dire che sono implacabili e che nessuno osa affrontarli.
 qstr_I_think_the_wife_of_|Penso che la moglie di un mio amico lo stia tradendo con un bardo.
@@ -2082,10 +2082,10 @@ qstr_You_need_five_tool_k|Hai bisogno di cinque scatole di attrezzi per migliora
 qstr_You_need_five_timber|Hai bisogno di cinque bancali di legname per migliorare il tuo rifugio!
 qstr_To_hire_workers_you_|Per assumere lavoratori è necessario selezionarli dalla lista. Se l'elenco è vuoto, potrebbe essere necessario aumentare la tua fama o migliorare il tuo rifugio per permettere loro di venire e offrire i propri servizi.
 qstr_Name:_Marcus.|Nome: Marcus.
-qstr_Occupation:_This_cap|Occupazione: Questo capitano attualmente lavora per te.
+qstr_Occupation:_This_cap|Occupazione: Questo capitano lavora già per te.
 qstr_Occupation:_Captain^|Occupazione: Capitano^Costo iniziale: 500^ Costo settimanale: 55^ Nota: aiuta a gestire il tuo rifugio e sviluppare i miglioramenti necessari.
 qstr_Name:_Father_Beda.|Nome: Padre Beda.
-qstr_Occupation:_This_pri|Occupazione: Questo prete lavora attualmente per te.
+qstr_Occupation:_This_pri|Occupazione: Questo prete lavora già per te.
 qstr_Occupation:_Priest^I|Occupazione: Prete^Costo iniziale: 250^Costo settimanale: 30^Nota: incoraggia la pratica del Cristianesimo tra le tue truppe.
 qstr_Name:_Godi_Olafr.|Nome: Godi Olafr.
 qstr_Occupation:_Godi^Ini|Occupazione: Godi (prete pagano)^Costo iniziale: 250 ^Costo settimanale: 30^Nota: incoraggia la pratica del paganesimo tra le tue truppe.
@@ -2588,7 +2588,7 @@ qstr_{s4}_lost_between_30|{s4} ha perso dal 30 al 40% delle sue scorte di cibo.
 qstr_{s4}_lost_between_10|{s4} ha perso dal 10 al 20% delle sue scorte di cibo.
 qstr_{s4}_have_between_10|{s4} avrà dal 10 al 30% della sua guarnigione ammalata per diversi giorni.
 qstr_It_should_have_food_|Dovrebbero avere scorte di cibo per {reg6} giorni.^La guarnigione conta {reg5} uomini.
-qstr_^^The_following_armi|^^I seguenti eserciti sono attualmente all'interno:
+qstr_^^The_following_armi|^^I seguenti eserciti sono al suo interno in questo momento:
 qstr_^{s3}_with_{reg1}_tr|^{s3} con {reg1} truppe.
 qstr_^^Commander_this_tow|^^Comandante, questa città è una grande rocca. Molti prima di noi sono fuggiti da questo posto prima che un solo colpo fosse inferto, quindi dobbiamo tenere alto il morale tra gli uomini. Il sentiero per il cancello principale è incredibilmente stretto e ripido, ma se allestiamo il campo e costruiamo un ariete, possiamo abbattere il muro all'ingresso posteriore della città. Quando il muro crollerà, dovremo caricare all'interno senza sosta. I gradini per il centro del paese sono di meno lì.
 qstr_^^Alt_Clut_the_rock_|^^Alt Clut, la rocca al di sopra del Clyde. Questa è la fortezza più potente dei Britanni settentrionali. Nessuno l'ha mai presa d'assedio. Controlla la foce del Clyde, il luogo in cui Re Riderch Hael combatté contro i Bernici ed i pitti.
@@ -2670,8 +2670,8 @@ qstr_Can_t_merge_both_flee|Non è possibile unire le due flotte, perché ciò su
 qstr_Fleets_merged.|Unisci le flotte.
 qstr_The_trader_you_are_e|Il merciante che stai scortando non vuole utilizzare il traghetto.
 qstr_The_ferry_station_is|La stazione traghetti è molto piccola e non può trasportare il maresciallo con tutta la sua armata.
-qstr_You_can_t_enter_the_|Non puoi entrare nel porto poichè non sei il benvenuto in città.
-qstr_You_can_t_enter_the_p|Non puoi entrare nel porto poichè non sei il benvenuto in città. Inoltre questa città non può essere attaccata via mare.
+qstr_You_can_t_enter_the_|Non puoi entrare nel porto poiché non sei {reg59?la benvenuta:il benvenuto} in città.
+qstr_You_can_t_enter_the_p|Non puoi entrare nel porto poiché non sei {reg59?la benvenuta:il benvenuto} in città. Inoltre questa città non può essere attaccata via mare.
 qstr_You_can_t_enter_the_po|Non puoi entrare nel porto. Hai già una flotta nel porto e la tua abilità di Lupo di Mare non è abbastanza alta per unire le due flotte.
 qstr_You_can_t_enter_the_por|Non puoi entrare nel porto e non puoi unire le flotte, perchè ciò causerebbe il superamento del limite di sette navi.
 qstr_You_already_have_a_f|Hai già una flotta nel porto. Vuoi unire le due flotte?

@@ -2602,7 +2602,7 @@ dlga_kennemerjarl_juicio_7:kennemerjarl_juicio_71.1|Non mi piace questa missione
 dlga_kennemerjarl_juicio_71:kennemerjarl_juicio_71_fin|Sei ancora qui? Hai una missione da compiere! Vorrei vederla portata a termine, {reg59?signora:signore}!
 dlga_kennemerjarl_juicio_71_fin:lord_pretalk|--Si gratta il naso--
 dlga_kennemerjarl_thiaderdm1:kennemerjarl_thiaderdm2|Sono molto soddisfatto. La notizia della morte di Thiaderd è giunta prima di te.^^Devo ammettere che ho dubitato delle tue capacità, ma di certo sei più intelligente di quanto pensassi. Inoltre, hai dimostrato di essere una persona affidabile e leale. Prendi questo denaro a titolo di risarcimento per i tuoi sforzi. È un peccato che non abbia ucciso anche Reginhard, purtroppo, ma credo che avevi bisogno di un ratto nella tua compagnia. Tuttavia, non lo voglio attorno a me, fai in modo di tenermelo lontano quando vieni a trovarmi.
-dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^Bene, bene... devo confessarti una cosa. Ho aspettato qualcuno come te per lungo tempo. Sei una persona che sa portare a termine quello che gli viene ordinato. Questo è molto importante. A volte mi sento come se fossi circondato da idioti^^Ora, c'è un argomento delicato di cui voglio parlarti -- un argomento che potrebbe farti diventare ricco.
+dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^Bene, bene... devo confessarti una cosa. Ho aspettato qualcuno come te per lungo tempo. Sei una persona che sa portare a termine quello che le viene ordinato. Questo è molto importante. A volte mi sento come se fossi circondato da idioti.^^Ora, c'è un argomento delicato di cui voglio parlarti -- un argomento che potrebbe farti diventare ricc{reg59?a:o}.
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm41|Ricchezza? Non mi interessa. Voglio Sven.
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm42|Mi piace quello che sento! Prego, continua...
 dlga_kennemerjarl_thiaderdm41:kennemerjarl_thiaderdm42|Lo so! Ma le due cose sono correlate. Ascolta tutta la storia e capirai.
@@ -2651,7 +2651,7 @@ dlga_jarldenunciado14:jarldenunciado15|Sven Collo di Toro è il tirapiedi dello 
 dlga_jarldenunciado15:jarldenunciado16|No, mi ha comunque chiesto di ucciderti.
 dlga_jarldenunciado16:lord_pretalk|È la tua parola contro la sua. Non hai nessuna prova. Vai in pace ora e non tornare alla mia corte senza prove.
 dlga_jarldenunciado4:lord_pretalk|Bene...
-dlga_jarldenunciado1extra:lord_pretalk|So cosa vuoi dirmi. Mio nipote mi ha avvertito dei tuoi trucchi per screditarlo, {playername}. Non sei il benvenuto in casa mia e non voglio ascoltare le tue bugie.
+dlga_jarldenunciado1extra:lord_pretalk|So cosa vuoi dirmi. Mio nipote mi ha avvertito dei tuoi trucchi per screditarlo, {playername}. Non sei {reg59?la benvenuta:il benvenuto} in casa mia e non voglio ascoltare le tue bugie.
 dlga_jarldenunciado2extra:lord_pretalk|So cosa stai per dirmi. Mio nipote mi ha avvertito dei tuoi trucchi per screditarlo, {playername}. Sei odiato in casa mia e non voglio ascoltare le tue bugie. Mio nipote mi ha fatto promettere di darti un paio di giorni per lasciare la Frisia. Dopo di che sarai dichiarato un nemico della Frisia.
 dlga_kinghorik_quest_revenge1:kinghorik_quest_revenge2|Interessante. Ti ascolto.
 dlga_kinghorik_quest_revenge2:kinghorik_quest_revenge21|Ho bisogno di parlarti di Sigurd.
@@ -3308,7 +3308,7 @@ dlga_lord_ask_enter_service:lord_enter_service_swear|Una mossa saggia, {playerna
 dlga_lord_enter_service_swear:lord_enter_service_swear_accepted|Giuro in questo modo, {s65}.
 dlga_lord_enter_service_swear:lord_enter_service_swear_denied|Ho bisogno di un po' di tempo per pensarci.
 dlga_lord_enter_service_swear_denied:close_window|Mi stai prendendo in giro? A che gioco stai giocando, {playername}? Deciditi e finiscila di farmi perdere tempo.
-dlga_lord_enter_service_swear_accepted:lord_enter_service_swear_accepted_2|È un piacere darti il benvenuto al servizio della mia casata. Da questo giorno, {playername}, sei un soldato del {s5} con tutti i doveri ed i privilegi che ciò comporta.
+dlga_lord_enter_service_swear_accepted:lord_enter_service_swear_accepted_2|È un piacere darti il benvenuto al servizio della mia casata. Da questo giorno, {playername}, sei un{reg59?a soldatessa: soldato} del {s5} con tutti i doveri ed i privilegi che ciò comporta.
 dlga_lord_enter_service_swear_accepted_2:close_window|Distruggerai tutti i nostri nemici dovunque li troverai. Inoltre, avrai degli incarichi speciali da compiere entro un tempo determinato, potrai svolgere compiti per alcuni miei signori o vassalli. Servi, lotta ed onora i tuoi giuramenti. Queste cose ti porteranno lontano, verso possibili promozioni. Che Dio guidi i tuoi passi e ti protegga sempre affinchè tu possa portare la vittoria al mio regno!
 dlga_lord_ask_leave_service:lord_ask_leave_service_verify|Uhm. Il tuo giuramento è divenuto gravoso, {playername}? È insolito chiedere liberazione da un giuramento, ma in rispetto del tuo servizio eccellente, io non ti tratterrò se vorrai veramente farlo. Sebbene mi rattristi tutto questo.
 dlga_lord_ask_leave_service:lord_ask_leave_service_verify.1|Scioglierti dal giuramento? Uhm... forse sarebbe la cosa migliore... Comunque, {playername}, devi avere la certezza che è questo ciò che desideri. Non è una cosa da prendere alla leggera.
@@ -3716,7 +3716,7 @@ dlga_lady_recite_poetry:lady_recite_poetry_response.1|Un leone fu svegliato dal 
 dlga_lady_recite_poetry:lady_recite_poetry_response.2|C'è un isola distante...
 dlga_lady_recite_poetry:lady_recite_poetry_response.3|LO, sia lodato il valore dei re della gente...
 dlga_lady_recite_poetry:lady_recite_poetry_response.4|Ma le preoccupazioni ansiose hanno già catturato la regina...
-dlga_lady_recite_poetry:lady_pretalk|Attualmente, non mi viene in mente nulla che io possa avere il piacere di recitare...
+dlga_lady_recite_poetry:lady_pretalk|In realtà, non mi viene in mente nulla che io possa avere il piacere di recitare...
 dlga_lady_private_conversation_end:lady_pretalk|Il tempo è trascorso velocemente, e non possiamo indugiare troppo a lungo qui.
 dlga_lady_talk:lady_marriage_discussion|Pensi che potremmo avere un futuro insieme, mia signora?
 dlga_lady_marriage_discussion:lady_other_suitor|Signore... Come forse saprai, sono stata felicemente intrattenuta da un certo numero di gentiluomini come te. Non è ancora giunto il momento in cui possa impegnarmi con uno di essi.
@@ -3818,7 +3818,7 @@ dlga_convince_persuade:convince_accept|Ok! Ok! Mi hai convinto. Farò quello che
 dlga_convince_persuade:convince_options|Sei convincente, {playername}, devo ammetterlo. Tuttavia non sono ancora convinto di dover agire come indichi. 
 dlga_convince_persuade:convince_options.1|Basta, {playername}. Hai molti argomenti, ma nessuno realmente convincente. Rimango su quanto ho detto prima.
 dlga_convince_persuade:convince_options.2|Sinceramente, {playername}, non riesco a capire le tue ragioni. Quello che chiedi ha ancora meno senso di quanto hai detto prima...
-dlga_start:siege_won_seneschal_1|Devo congratularmi con te per la tua vittoria mi{reg59?a signora:o signore}. Benvenuto a {s1}. Noi servitori di questo castello siamo al tuo servizio.
+dlga_start:siege_won_seneschal_1|Devo congratularmi con te per la tua vittoria mi{reg59?a signora:o signore}. Benvenut{reg59?a:o} a {s1}. Noi servitori di questo castello siamo al tuo servizio.
 dlga_siege_won_seneschal_1:siege_won_seneschal_2|Sei il siniscalco?
 dlga_siege_won_seneschal_2:siege_won_seneschal_3|Infatti lo sono, mi{reg59?o signore.a signora}. Ho sempre servito i maestri di {s1} al meglio delle mie capacità, per qualunque cosa. Quindi puoi contare sulla mia assoluta lealtà fin quando sarai {reg59?sovrana:signore} di questo luogo. Ora, intendi mantenermi come siniscalco? Ti prometto che non ne rimarrai deluso.
 dlga_siege_won_seneschal_3:siege_won_seneschal_4|Molto bene, puoi mantenere il tuo posto per il momento.
@@ -4416,9 +4416,9 @@ dlga_mercenary_after_recruited:mercenary_after_recruited_2.1|Hai del tempo per d
 dlga_mercenary_after_recruited_2:close_window|Si {reg59?signore/signora}. Noi siamo pronti, aspettiamo un tuo comando.
 dlga_mercenary_tavern_talk:mercenary_tavern_talk_hire|Certamente. Assoldo tutti voi. Ecco {reg5} peningas.
 dlga_mercenary_tavern_talk:mercenary_tavern_talk_hire.1|Certamente. Ma posso assoldare solo {reg6} di voi. Ecco {reg5} peningas.
-dlga_mercenary_tavern_talk:tavern_mercenary_cant_lead|M'interessa. Ma attualmente non posso permettermi di assoldare nessuno.
+dlga_mercenary_tavern_talk:tavern_mercenary_cant_lead|M'interessa. Ma al momento non posso permettermi di assoldare nessuno.
 dlga_tavern_mercenary_cant_lead:close_window|Comprendo. Bene, {reg3?noi aspetteremo:io aspetterò} qui per un po' di tempo, se cambi idea sull'assoldare qualcuno.
-dlga_mercenary_tavern_talk:tavern_mercenary_cant_lead.1|M'interessa. Ma attualmente non posso permettermi di assoldare nessuno.
+dlga_mercenary_tavern_talk:tavern_mercenary_cant_lead.1|M'interessa. Ma al momento non posso permettermi di assoldare nessuno.
 dlga_mercenary_tavern_talk:close_window|Spiacente. Adesso non ho bisogno di assoldare altri uomini.
 dlga_start:dungeon_reply1|Stai attento! Non mi muoverò fino a quando non sarà tutto finito.
 dlga_dungeon_reply1:dungeon_reply2|Ucciderò tutti i banditi, e tu sarai libero
@@ -5044,7 +5044,7 @@ dlga_old_sins2:old_continue.1|Roma era grande, vecchio.
 dlga_old_sins2:old_continue2|Il pensiero di Roma mi disgusta, vecchio.
 dlga_old_continue:old_ayuda_2|Oh, è bello che tu sappia dei romani o che ne abbia almeno sentito parlare. Sembri una persona di cui mi posso fidare. Ho un favore da chiedere... abbiamo bisogno del tuo aiuto.
 dlga_old_continue2:old_ayuda_2|Capisco. Per me Roma non significa nulla. È parte del mio passato, ma solo in parte sono romano. Infatti, sono più britannico e anglo che romano. Comunque, sembrate una persona di cui mi posso fidare. Ho un favore da chiedervi... abbiamo bisogno del vostro aiuto.
-dlga_old_ayuda_2:old_ayuda_3|Delle recenti invasioni hanno complicato parecchio le cose qui al nord. Viviamo ben nascosti nelle cave a est, ma veniamo qui quando necessitiamo di cibo, in quanto i mercanti fanno spesso tappa qui nel loro tragitto verso i poli commerciali. Attualmente, sono diverse settimane che aspettiamo qui ma non s'è visto nessun mercante... il nostro raccolto è andato male e abbiamo un disperato bisogno di cibo. Potresti portarci otto sacchi di grano? Ti darò i soldi in anticipo.
+dlga_old_ayuda_2:old_ayuda_3|Delle recenti invasioni hanno complicato parecchio le cose qui al nord. Viviamo ben nascosti nelle cave a est, ma veniamo qui quando necessitiamo di cibo, in quanto i mercanti fanno spesso tappa qui nel loro tragitto verso i poli commerciali. Ad ora, sono diverse settimane che aspettiamo qui ma non s'è visto nessun mercante... il nostro raccolto è andato male e abbiamo un disperato bisogno di cibo. Potresti portarci otto sacchi di grano? Ti darò i soldi in anticipo.
 dlga_old_ayuda_3:old_ayuda_4|Sarò felice di aiutarti.
 dlga_old_ayuda_3:close_window|Non ho tempo per questo.
 dlga_old_ayuda_4:close_window|Grazie. Prendi questo denaro e torna il prima possibile. Abbiamo dei bambini che piangono per la fame.
@@ -5073,7 +5073,7 @@ dlga_capataz_venta2:capataz_venta3|Sì, mi sembra accettabile.
 dlga_capataz_venta2:capataz_pretalk|Fammici pensare.
 dlga_capataz_venta3:close_window|Grazie. Nuove braccia per me.
 dlga_capataz_talk:close_window|Me ne vado, ora.
-dlga_start:capataz_talk2|Benvenuto, straniero, nella nostra miniera di sale.
+dlga_start:capataz_talk2|Benvenut{reg59?a:o}, stranier{reg59?a:o}, nella nostra miniera di sale.
 dlga_capataz_pretalk2:capataz_talk2|Qualcos'altro che posso fare per te?
 dlga_capataz_talk2:capataz_angry2|Che succede qui?
 dlga_capataz_angry2:close_window|Sale. Lavoro. Più sale. Come puoi vedere. Ora ho da fare.
@@ -5348,7 +5348,7 @@ dlga_merchant_quest_requested:merchant_quest_brief.2|Stai cercando un lavoro? Io
 dlga_merchant_quest_brief:merchant_quest_brief_deliver_wine|Ho un carico di {s6} che dev'essere consegnato alla sala dell'idromele di {s4}. Se riesci a portare {reg5} unità di {s6} a {s4} in 7 giorni, ti spetteranno {reg8} peningas. Cosa ne dici?
 dlga_merchant_quest_brief_deliver_wine:merchant_quest_taken|Certamente. Farò la consegna.
 dlga_merchant_quest_brief_deliver_wine:merchant_quest_stall|Mi dispiace ma non posso trasportare tutto quel carico ora.
-dlga_merchant_quest_requested:merchant_quest_brief.3|Stai cercando un lavoro? Attualmente sto cercando qualcuno che scorti una carovana. Forse potresti farlo tu...
+dlga_merchant_quest_requested:merchant_quest_brief.3|Stai cercando un lavoro? In realtà sto cercando qualcuno che scorti una carovana. Forse potresti farlo tu...
 dlga_merchant_quest_brief:escort_merchant_caravan_quest_brief|Sto facendo partire una carovana di merci per {s8}. Comunque, con tutti questi banditi e disertori sulle strade, non voglio mandarli fuori senza una scorta. Se potessi condurre la carovana a {s8} in 15 giorni, guadagnerete {reg8} peningas. Di certo la tua compagnia ha bisogno di essere forte di almeno {reg4} unità, in modo da offrir loro la necessaria protezione. Inoltre, ricorda che la carovana potrebbe aver bisogno di viaggiare via mare per raggiungere la sua destinazione. Navi e traghetti delegati al trasporto tra le città marittime non sono in grado di trasportare le merci. Per cui potresti aver bisogno di usare la tua nave per scortarla.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_taken|Bene. Scorterò la carovana.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall|Mi dispiace ma non ho abbastanza soldati per farlo.
@@ -5520,7 +5520,7 @@ dlga_doccinga_interrogation_54:doccinga_interrogation_6|Non costringermi a suppl
 dlga_doccinga_interrogation_6:doccinga_interrogation_61|Beh, prenderò sia lei che la barca allora. Arrivederci, Thonkrik.
 dlga_doccinga_interrogation_61:doccinga_interrogation_61_f|Wes gesund, amic{reg59?a mia:o mio}.
 dlga_doccinga_interrogation_61_f:close_window|Wes gesund.
-dlga_start:village_elder_talk|Buongiorno, signor{reg59?a:e}, e benvenuto a {s9}. Io sono il capo di questo villaggio.
+dlga_start:village_elder_talk|Buongiorno, signor{reg59?a:e}, e benvenut{reg59?a:o} a {s9}. Io sono il capo di questo villaggio.
 dlga_start:village_elder_talk.1|Benvenut{reg59?a:o} a {s9}, mi{reg59?a signora:o signore}. Ci riempie di gioia sapere che sei {reg59?la nuova signora:il nuovo signore} del nostro umile villaggio. Io sono il capo del villaggio e sarò onorato di servirti in qualsiasi modo possibile.
 dlga_start:village_elder_talk.2|{reg59?Mia signora:Mio signore}, onori il nostro umile villaggio con la tua presenza.{s33}
 dlga_start:village_elder_talk.3|Buongiorno, signor{reg59?a:e}, e benvenut{reg59?a:o} a {s9}. Io sono il capo di questo villaggio.
@@ -5719,7 +5719,7 @@ dlga_village_elder_buy_cattle_complete:village_elder_pretalk|Dirò ai pastori di
 dlga_village_elder_recruit2_b:village_elder_talk|Scordatelo! Perché mai dovrei aiutare un{reg59?a nemica:un nemico} del regno?
 dlga_village_elder_recruit2_b:village_elder_talk.1|Scordatelo! Non sei {reg59?la benvenuta:il benvenuto} in questa comunità.
 dlga_village_elder_recruit2_b:village_elder_recruit6|Sfortunamente non so di nessuno che potrebbe essere interessato.
-dlga_village_elder_recruit2_b:village_elder_recruit6.1|Sicuro. Sei il benvenuto!
+dlga_village_elder_recruit2_b:village_elder_recruit6.1|Certo. Non c'è di che!
 dlga_village_elder_recruit2_b:village_elder_recruit2_1|Non mi sembri nessun{reg59?a:o} di speciale. Un{reg59?a vagabonda: vagabondo} come molti altri, con belle parole e promesse, ma niente di più. Perché dovrei aiutarti a trovare reclute?
 dlga_village_elder_recruit2_b:village_elder_recruit2_1.1|So che sei una persona temuta. Non credo che molti uomini vogliano unirsi a te.
 dlga_village_elder_recruit2_b:village_elder_recruit2|Che dire...
@@ -5864,7 +5864,7 @@ dlga_arena_training_melee_intro_2:arena_training_melee_intro_reward|C'è un prem
 dlga_arena_training_melee_intro_reward:arena_training_melee_intro_2|Si, c'è. Alcuni cittadini benestanti puntano soldi su quei combattenti che si sono fatti valere nell'arena. Se riesci a battere {reg1} avversari prima di andare a terra, guadagni {reg11} peningas. Ti spettano {reg12} peningas per abbattere almeno {reg2} avversari, {reg13} peningas se riesci a sconfiggerne {reg3}, e {reg14} peningas se resti cosciente per batterne {reg4}. Se invece te la cavi così bene da rimanere in piedi per ultim{reg59?a:o}, otterrai il gran premio, {reg15} peningas. Bello, no?
 dlga_arena_training_melee_explain_reward:arena_master_melee_pretalk|Alcuni cittadini benestanti puntano soldi su quei combattenti che si sono fatti valere nell'arena. Se riesci a battere {reg1} avversari prima di andare a terra, guadagni {reg11} peningas. Ti spettano {reg12} peningas per abbattere almeno {reg2} avversari, {reg13} peningas se riesci a sconfiggerne {reg3}, e {reg14} peningas se resti cosciente per batterne {reg4}. Se invece te la cavi così bene da rimanere in piedi per ultim{reg59?a:o}, otterrai il gran premio, {reg15} peningas. Bello, no?
 dlga_arena_training_melee_intro_2:arena_training_melee_intro_3|Posso partecipare anch'io?
-dlga_arena_training_melee_intro_3:arena_master_melee_talk|Ah ah! Devi essere fuori di testa per non farlo. Certo che puoi. I combattimenti sono aperti a tutti. Attualmente, ci sarà una lotta fra breve. Puoi entrare e farti un giro se vuoi.
+dlga_arena_training_melee_intro_3:arena_master_melee_talk|Ah ah! Devi essere fuori di testa per non farlo. Certo che puoi. I combattimenti sono aperti a tutti. Anzi, ci sarà proprio un combattimento a breve. Puoi entrare e farti un giro se vuoi.
 dlga_start:arena_master_intro_1|Salve. Sembri nuov{reg59?a:o} di queste parti. Posso sapere il tuo nome?
 dlga_arena_master_intro_1:arena_master_intro_2|Sono {playername}.
 dlga_arena_master_intro_2:arena_master_pre_talk|Ben trovat{reg59?a:o}, {playername}. Io sono l'organizzatore di tornei qui a {s1}. Se vuoi partecipare ai combattimenti dimmelo.

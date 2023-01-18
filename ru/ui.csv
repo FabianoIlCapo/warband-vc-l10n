@@ -13,7 +13,7 @@ ui_reduced_to_1_over_2_easiest|Снижен до 1/2 (Легчайший)
 ui_reduced_to_3_over_4_easy|Снижен до 3/4 (Легкий)
 ui_normal|Нормально
 ui_combat_ai|Боевой ИИ:
-; ui_combat_speed|Movement and Combat Speed:
+ui_combat_speed|Скорость передвижения и боя:
 ui_good|Сильный
 ui_average_caps|Среднее
 ui_poor|Низкое
@@ -28,7 +28,7 @@ ui_control_attack_direction|Контроль напр. атаки:
 ui_lance_control|Управление пикой
 ui_by_relative_enemy_position|Отн. позиции врага
 ui_by_inverse_mouse_movement|Обратным движ. мыши
-; ui_battle_size|Battle Size (impact on performance):
+ui_battle_size|Размер сражения (влияние на производительность):
 ui_show_attack_direction|Показ направления атаки:
 ui_show_targeting_reticule|Показывать прицел:
 ui_show_names_of_friendly_troops|Показ имен друж. войск:
@@ -101,11 +101,11 @@ ui_explanation_polearm|Определяет навык обращения с к�
 ui_explanation_archery|Определяет навык обращения с луками.
 ui_explanation_crossbow|Определяет навык обращения с арбалетами.
 ui_explanation_throwing|Определяет навык обращения с метательным оружием типа  дротиков, ножей, камней и пр.
-; ui_explanation_firearms|Covers usage of slings.
-; ui_explanation_strength|Strength: Every point adds +1 to hit points. The following skills cannot be developed beyond 1/2 of Strength: Ironflesh, Power Strike, Power Throw, Power Draw, and Inventory Management. Every 5 levels, you get an extra point to add to attributes like this.
-; ui_explanation_agility|Agility: Each point gives five weapon points and slightly increases movement speed. The following skills cannot be developed beyond 1/2 of Agility: Weapon Master, Spotting, Athletics, Riding, Path Finding, and Looting. Every 5 levels, you get an extra point to add to attributes like this.
-; ui_explanation_intelligence|Intelligence: Every point to intelligence immediately gives one extra skill point. The following skills cannot be developed beyond 1/2 of Intelligence: Trainer, Tracking, Tactics, Wound Treatment, Surgery, First Aid, Engineer, Navigation, and Weapon Maintenance. Every 5 levels, you get an extra point to add to attributes like this.
-; ui_explanation_charisma|Charisma: Affects dialogues, seduction, and how others see you. Each point increases your party size limit by +1. The following skills cannot be developed beyond 1/2 of Charisma: Sea King, Leadership, Persuasion, Trade. Every 5 levels, you get an extra point to add to attributes like this.
+ui_explanation_firearms|Охватывает использование строп.
+ui_explanation_strength|Сила: Каждое очко добавляет +1 к здоровью. Следующие навыки не могут быть развиты выше 1/2 Силы: Железная Плоть, Силовой удар, Силовой Бросок, Силовая ничья и Управление запасами. Каждые 5 уровней вы получаете дополнительное очко, которое можно добавить к подобным атрибутам.
+ui_explanation_agility|Ловкость: Каждое очко дает пять очков оружия и немного увеличивает скорость передвижения. Следующие навыки не могут быть развиты выше 1/2 уровня Ловкости: Владение оружием, Обнаружение, Легкая атлетика, Верховая езда, Поиск путей и Мародерство. Каждые 5 уровней вы получаете дополнительное очко, которое можно добавить к подобным атрибутам.
+ui_explanation_intelligence|Интеллект: Каждое очко интеллекта немедленно дает одно дополнительное очко навыка. Следующие навыки не могут быть развиты выше 1/2 Интеллекта: Тренер, Выслеживание, Тактика, Обработка ран, Хирургия, Первая помощь, Инженер, Навигация и Обслуживание оружия. Каждые 5 уровней вы получаете дополнительное очко, которое можно добавить к подобным атрибутам.
+ui_explanation_charisma|Харизма: влияет на диалоги, обольщение и то, как другие видят вас. Каждое очко увеличивает лимит размера вашей партии на +1. Следующие навыки не могут быть развиты выше 1/2 уровня Харизмы: Морской король, Лидерство, Убеждение, Торговля. Каждые 5 уровней вы получаете дополнительное очко, которое можно добавить к подобным атрибутам.
 ui_level|Уровень: %d
 ui_xp|Опыт: %d
 ui_next_level_at|След. уровень: %d
@@ -166,7 +166,7 @@ ui_terrain|Местность
 ui_quests|Задания
 ui_inventory|Вещи
 ui_character|Персонаж
-; ui_party|Army
+ui_party|Армия
 ui_paused|Пауза
 ui_click_left_button_to_cancel_wait|Ожидание... (левая кнопка для отмены)
 ui_midnight|Полночь
@@ -275,7 +275,7 @@ ui_polearms|Древковое оружие
 ui_archery|Стрельба из лука
 ui_crossbows|Стрельба из арбалета
 ui_throwing|Метание
-; ui_firearms|Slings
+ui_firearms|Праща
 ui_reset|Отмена
 ui_release_one|Отпустить
 ui_move_up|Выше
@@ -316,7 +316,7 @@ ui_joining_cost_weekly_wage|Стоимость найма: %d, Недельна�
 ; ui_weekly_wage|Weekly wage: %d peningas
 ui_price|Цена: %d
 ui_number_ready_to_upgrade|%d готов к повышению.
-; ui_upgrade_to_value| Upgrade to %s (%dp)
+ui_upgrade_to_value|Повысить %s (%dп)
 ui_notification_no_slot_for_upgrade|Нет слота для повышения до уровня: %s!
 ui_shield_broken|Щит сломан.
 ui_shield_cracked|Щит треснул.
@@ -328,8 +328,8 @@ ui_received_couched_lance_damage|Получен рыцарский удар!
 ui_speed_bonus_plus|Бонус скорости: +%d%%
 ui_speed_bonus|Бонус скорости: %d%%
 ui_cant_reload_this_weapon_on_horseback|Это оружие нельзя заряжать в седле.
-; ui_no_more_bolts|No more projectiles...
-; ui_you_are_not_carrying_any_bolts|You are not carrying any projectiles.
+ui_no_more_bolts|Больше никаких снарядов...
+ui_you_are_not_carrying_any_bolts|У вас нет с собой никаких снарядов.
 ui_no_more_arrows|Больше нет стрел...
 ui_you_are_not_carrying_any_arrows|Вы не взяли с собой стрелы.
 ui_head_shot|Точно в голову!
@@ -562,7 +562,7 @@ ui_everyone_around_me|Все кто поблизости
 ui_str_hear_me|%s, Слушайте меня!
 ui_str_and_str|%s и %s
 ui_str_comma_str|%s, %s
-; ui_need_to_learn_prisoner_management|The number of prisoners is determined by the size of your army.
+ui_need_to_learn_prisoner_management|Количество пленных определяется размером вашей армии.
 ui_game_log|Журнал
 ui_recent_messages|История
 ui_custom_battle|Настройки боя
@@ -609,9 +609,9 @@ ui_group_rename|Переименовать группу
 ui_group_1|Пехота
 ui_group_2|Стрелки
 ui_group_3|Кавалерия
-; ui_group_4|Spearmen
-; ui_group_5|Skirmishers
-; ui_group_6|Horse Archers
+ui_group_4|Копейщик
+ui_group_5|Застрельщики
+ui_group_6|Конные лучники
 ui_group_7|Без имени 1
 ui_group_8|Без имени 2
 ui_group_9|Без имени 3
@@ -641,7 +641,7 @@ ui_gender|Выберите Пол:
 ui_edit_profile|Редактировать профиль
 ui_new_profile|Новый профиль
 ui_enter_username|Введите Имя пользователя:
-; ui_invalid_username|Usernames may only contain letters, numbers or '_' character.
+ui_invalid_username|Имена пользователей могут содержать только буквы, цифры или символ "_".
 ui_confirmation|Вы уверены?
 ui_multiplayer|Сетевая игра
 ui_server_name|Сервер
@@ -738,7 +738,7 @@ ui_is_password_free|Без пароля
 ui_native_only|Только Native
 ui_ping_limit|Пинг
 ui_filter_info|%d игр и %d игроков отфильтровано
-; ui_is_version_compatible|Compatible with version
+ui_is_version_compatible|Совместимость с версией
 ui_ttnet_account|Ttnet аккаунт
 ui_username|Логин
 ui_password|Пароль
@@ -747,5 +747,5 @@ ui_validating_account|Проверка аккаунта...
 ui_plase_enter_your_serial_key|Введите ваш серийный номер
 ui_texture_detail2|Детализация текстур:
 ui_antialiasing2|Сглаживание:
-; ui_troop_upgrades|Troop Tree
-; ui_crouch|Crouch
+ui_troop_upgrades|Дерево войск
+ui_crouch|Скорчиться
