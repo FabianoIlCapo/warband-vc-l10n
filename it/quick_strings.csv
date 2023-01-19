@@ -89,7 +89,7 @@ qstr_Refuge_Garrison|Guarnigione del Rifugio:
 qstr_You_receive_word_tha|Ricevi la notizia che l'addestratore a {s1} ha completato l'incarico.
 qstr_TEST:_I_moved_Lords_|TEST: Ho mosso i Signori a Sant'Elena.
 qstr_TEST:_I_bring_Lords_|TEST: Riporto indierto i Signori.
-qstr_Physicians_in_larger|I medici nelle città più grandi possono cureare le ferite per un prezzo, dopodichè guariranno in pochi giorni. Gli eventuali effetti negativi verranno poi eliminati.
+qstr_Physicians_in_larger|I medici nelle città più grandi possono curare le ferite a pagamento, dopodiché guariranno in pochi giorni. Gli eventuali effetti negativi verranno poi eliminati.
 qstr_You_are_wounded|Sei ferito
 qstr_{s1}You_have_only_on|{s1}Ti resta solo un giorno per prenderti cura di {reg7} tra le tue ferite. Visita un medico in una città più grande per farlo.^^
 qstr_{s1}{reg7}_of_your_i|{s1}{reg7} delle tue ferite {reg8?sono diventate permanenti:è diventata permanente} perché {reg8?non sono state curate:non è stata curata}.^^
@@ -201,7 +201,7 @@ qstr_And_people_say_that_|E la gente dice che sono arrogante! Ma che posso farci
 qstr_I_only_pretended_to_|Volevo solo darti dei consigli, ma è chiaro che non vuoi ascoltare. Hai dato un ordine, dimostrando la tua autorità, ma questo non fa di te un buon capo. Seguirò gli ordini, starò zitto e tornerò alle mie faccende.
 qstr_I_am_just_a_poor_far|Sono solo un povero contadino. Parla con il capo della fattoria laggiù.
 qstr_I_just_work_the_fiel|Lavoro solo i campi. Parla con il capo della fattoria laggiù.
-qstr_Stranger_go_talk_to_|Straniero, vai a parlare col padrone della fattoria, se vuoi fare affari qui.
+qstr_Stranger_go_talk_to_|Stranier{reg59?a:o}, vai a parlare col padrone della fattoria, se vuoi fare affari qui.
 qstr__Relation:_{reg0}| Relazione: {reg0}
 qstr_{s12}I_want_to_plund|{s12}Voglio saccheggiare e tenere {s1} per me. {s2}
 qstr__no_fiefs_|(nessun feudo)
@@ -472,8 +472,8 @@ qstr___He_makes_a_gesture|--Fa un gesto di disgusto.--
 qstr_My_name_is_Olafr_and|Il mio nome è Olafr e mi piacerebbe incontrare tua sorella.
 qstr_Sven_Bull_Neck_will_|Sven Collo di Toro vuole ucciderti!
 qstr_You_re_an_asshole.|Sei uno stronzo.
-qstr___He_looks_with_tire|--Ti guarda con occhi stachi.--
-qstr_Sven_Bull_Neck_order|Sven Collo di Toro mi ha ordinato di sbarcare a Doccinga con diversi uomini e di mettere in sicurezza il sito con un longphort. Se tutto fosse andato bene, il nostro Lord Sigurd "Serpe nell'Occhio" avrebbe inviato altri 100 uomini dalla Danimarca, per aiutare {s11} a essere incoronato re. Ne ho sentito parlare solo di sfuggita, ma credo che lo Jarl di Kennemer avesse promesso di inviare cinquecento uomini nella spedizione di quest'estate in Inghilterra se fosse diventato re. Tuttavia, questo non ha più alcuna importanta. Abbiamo fallito e Sigurd "Serpe nell'Occhio" non sacrificherà altri uomini. Dovrà aiutare i suoi fratelli in Inghilterra. Puoi stare tranquillo.
+qstr___He_looks_with_tire|--Ti guarda con occhi stanchi.--
+qstr_Sven_Bull_Neck_order|Sven Collo di Toro mi ha ordinato di sbarcare a Doccinga con diversi uomini e di mettere in sicurezza il sito con un longphort. Se tutto fosse andato bene, il nostro Lord Sigurd "Serpe nell'Occhio" avrebbe inviato altri 100 uomini dalla Danimarca, per aiutare {s11} a essere incoronato re. Ne ho sentito parlare solo di sfuggita, ma credo che lo Jarl di Kennemer avesse promesso di inviare cinquecento uomini nella spedizione di quest'estate in Inghilterra se fosse diventato re. Tuttavia, questo non ha più alcuna importanza. Abbiamo fallito e Sigurd "Serpe nell'Occhio" non sacrificherà altri uomini. Dovrà aiutare i suoi fratelli in Inghilterra. Puoi stare tranquill{reg59?a:o}.
 qstr_{s3}^^{s4}|{s3}^^{s4}
 qstr_All_plans_of_{s9}_to|Tutti i piani di {s9} per diventare re sono stati rovinati dal tuo intervento. Il suo alleato, il signore Danese, {s11} 'Serpe nell'Occhio', non invierà altre truppe perché sta reclutando rinforzi in Inghilterra. Sembra che la Frisia sarà libera dagli attacchi vichinghi per un po' di tempo, grazie ai tuoi sforzi. Il paradosso è che ora devi scappare dalla terra che hai appena contribuito a salvare.
 qstr_I_know_nothing!|Non so nulla!
@@ -483,7 +483,7 @@ qstr_Sigurd__Snake_in_the|Sigurd 'Serpe nell'Occhio' ha chiamato Sven Collo di T
 qstr_I_say_nothing_bastar|Non dirò nulla, bastardo!
 qstr___He_twists_his_mout|--Torce la bocca e ti guarda con disprezzo.--
 qstr_Sigurd__Snake_in_the_|Sigurd 'Serpe nell'Occhio' è lo Jarl di Sven Collo di Toro, e Sven è il mio hersir. Entrambi sono uomini potenti, grandi guerrieri, quindi stai lontano da loro o ti manderanno direttamente all'inferno.
-qstr_Sven_Bull_Neck_and_{|Sven Collo di Toro e {S11}, 'Serpe nell'Occhio,' sono guerrieri famosi in Danimarca. Dovrai stare atteno se hai intenzione di sfidarli.
+qstr_Sven_Bull_Neck_and_{|Sven Collo di Toro e {s11}, 'Serpe nell'Occhio,' sono guerrieri famosi in Danimarca. Dovrai stare attent{reg59?a:o} se hai intenzione di sfidarli.
 qstr_Scum!|Feccia!
 qstr___He_tilts_his_head_|--Inclina la testa e ti guarda, ponderando la risposta.--
 qstr_You_wish_to_know_abo|Volete sapere del grande Ragnar Lodbrok del clan Ynglingeaetten, discendente di Odino, eh? Ebbene, era uno jarl temuto da tutti i Cristiani. Ha attaccato molte volte l'Inghilterra e la Franchia, ed è famoso per le sue enormi spedizioni. Egli sapeva come unire e guidare gli uomini.
@@ -493,7 +493,7 @@ qstr___He_spits_to_the_si|--Sputa di lato prima di continuare.--
 qstr_Unfortunately_King_A|Sfortunatamente, re Aelle di Northumbria, in Inghilterra, fece prigioniero Ragnar e lo gettò in una fossa di serpenti velenosi. Ora, i figli di Ragnar sono andati in Northumbria e hanno ucciso i suoi re. La Northumbria è ora terra Danese, e presto seguirà il resto dell'Inghilterra. Sigurd 'Serpe nell'Occhio' e gli altri figli di Ragnar stanno chiamando alle armi molti uomini in Danimarca. Si uniranno a Ivar e Halfdan Ragnarsson e avanzeranno nel resto dell'Inghilterra, tutti lo sanno.
 qstr_Note_1:_Ragnar_Lodbr|Nota 1: Ragnar Lodbrok, un vichingo ora morto, aveva diverse mogli, ma le più importanti erano Lathgertha e Aslaug, e molti bambini, alcuni dei quali sono: Ivar il Senza Ossa, Bjorn Fianco di Ferro, Halfdan, Sigurd 'Serpe nell'Occhio,' e Hubbi. I figli di Ragnar stanno attaccando l'Inghilterra per vendicare l'esecuzione del loro padre da parte di un re ora morto, Aelle di Northumbria.
 qstr___He_thinks_for_a_fe|--Ci pensa per alcuni secondi.--
-qstr_Yes_we_attacked_some|Sì, abbiamo attaccato alcune navi di recente, prima che Sven Collo di Toro si allontanasse da noi verso Northumbria. Ricordo il Woden Ric perché mi piaceva il suo nome. Woden era un dio importante in Inghilterra prima che tutti diventassero Cristiani. Ricordo che una volta incontrai una famiglia che ancora adorava Woden in un villaggio che abbiamo saccheggiato. Erano gli unici le cui vite furono risparmiate. Woden, che noi chiamiamo Odino.
+qstr_Yes_we_attacked_some|Sì, abbiamo attaccato alcune navi di recente, prima che Sven Collo di Toro si allontanasse da noi verso Northumbria. Ricordo la Woden Ric perché mi piaceva il suo nome. Woden era un dio importante in Inghilterra prima che tutti diventassero Cristiani. Ricordo che una volta incontrai una famiglia che ancora adorava Woden in un villaggio che abbiamo saccheggiato. Erano gli unici le cui vite furono risparmiate. Woden, che noi chiamiamo Odino.
 qstr_They_were_idiots._Th|Erano degli idioti. Si sono fermati tra i rottami di altre navi che avevamo attaccato e ci sono volute solo poche ore per catturarli. Il vento era favorevole e li abbiamo abbordati. C'erano solo pochi guerrieri a bordo, quindi è stato facile.
 qstr___He_swallows.__|--Deglutisce.--
 qstr_Very_few_unfortunate|Pochissimi, purtroppo. Di solito cerchiamo di catturarli per venderli come schiavi.
@@ -712,7 +712,7 @@ qstr_Note_3:_You_chose_to_b|Nota 3: hai scelto di diventare un nemico di {s9} pe
 qstr_Note_3:_You_chose_not|Nota 3: hai scelto di non diventare nemico giurato di {s9} per il suo tradimento e per l'alleanza con {s11}, il protettore di Sven Collo di Toro.
 qstr_Leave_Friese:_Your_r|Lasci la Frisia: la tua relazione con lo jarl è finita male. Ora siete nemici. Ti manderà degli assassini e non avrà compassione se ti troverà sulla sua strada.
 qstr_Leave_Friese._Your_r|Lasci la Frisia. La tua relazione con lo jarl è finita male. Ti ha accusato di aver rovinato i suoi piani per salire al trono. È meglio non incrociarlo di nuovo per molto tempo o finché non sarai in grado di riacquistare la sua amicizia.
-qstr_You_were_wrong._Thes|Avevi torto. Questi uomini avrebbero preso e fortificato il villaggio, quindi avrebbero aspettato altre truppe dalla Danimarca. Ora tutto questo non accadrà mai. Hai messo fine ai miei sogni. Sigurd "Serpe nell'Occhio" penserà che sono un traditore e vorrà la mia testa per colpa tua. Vattene! Non sei più {reg59?la benvenuta:il benvenuto} qui. Se ci rivedremo, non so se riuscirò a controllarmi e a non ucciderti.^^Ti consiglio di lasciare la Frisia.
+qstr_You_were_wrong._Thes|E hai fatto male. Questi uomini avrebbero preso e fortificato il villaggio, quindi avrebbero aspettato altre truppe dalla Danimarca. Ora tutto questo non accadrà mai. Hai messo fine ai miei sogni. Sigurd "Serpe nell'Occhio" penserà che sono un traditore e vorrà la mia testa per colpa tua. Vattene! Non sei più {reg59?la benvenuta:il benvenuto} qui. Se ci rivedremo, non so se riuscirò a controllarmi e a non ucciderti.^^Ti consiglio di lasciare la Frisia.
 qstr_There_s_nothing_to_t|Non c'è niente di cui parlare. Questi uomini avrebbero preso e fortificato il villaggio, quindi avrebbero aspettato altre truppe dalla Danimarca. Ora tutto ciò è impossibile. Hai messo fine ai miei sogni. Sigurd "Serpe nell'Occhio" penserà che sono un traditore e vorrà la mia testa per colpa tua. Vattene! Non sei più {reg59?la benvenuta:il benvenuto} qui. Se ci rivedremo, non so se riuscirò a controllarmi e a non ucciderti.^^Ti consiglio di lasciare la Frisia.
 qstr_Leave_Friese._Your_re|Lasci la Frisia. La tua relazione con lo jarl è finita male. Ti accusa di aver rovinato i suoi piani per salire al trono. È meglio non incrociarlo di nuovo per molto tempo, o finché non sarai in grado di riacquistare la sua amicizia.
 qstr_You_are_bold_rat_to_|Sei coraggioso, ratto, a parlarmi in quel modo dopo quello che hai fatto. Per onorare i servizi forniti, ti darò alcuni giorni di vantaggio, dopodichè avrai degli assassini alle spalle, perché ti metterò una taglia sulla testa. Dovrai dormire con un occhio aperto e un coltello sotto il cuscino.^Se non lasci la Frisia o ci dovessimo incontrare di persona, ti ammazzerò a mani nude.
@@ -1011,8 +1011,8 @@ qstr___He_looks_frightene|--Sembra spaventato.--
 qstr_Note_1:_Doccinga_fis|Nota 1: I marinai di Doccinga ti hanno salvato dal mare. Sembra che tu sia l'unico sopravvissuto. Sven ha attaccato la tua nave.
 qstr_{s9}_told_me_that_{s|{s9} mi ha detto che {s3}, Jarl di {s1}, potrebbe sapere dove si trova Sven Collo di Toro.
 qstr___He_rubs_his_hands_|--Strofina le mani nervosamente.--
-qstr___He_points_to_the_s|--Puntano al mare, dove si possono scorgere tre vele.--
-qstr___He_seems_nervous_n|--Sembra nervoso, non gesticola con le mani.--
+qstr___He_points_to_the_s|--Indica verso il mare, dove si possono scorgere tre vele.--
+qstr___He_seems_nervous_n|--Sembra nervoso, si trattiene dal gesticolare.--
 qstr_Thonkrik_from_{s3}_t|Thonkrik di {s3} ti ha detto che {s9} potrebbe essere alleato di Sven Collo di Toro nel suo tentativo di conquistare il trono di Frisia.
 qstr_Note_4:_You_chose_to_|Nota 4: Hai scelto di uccidere i vichinghi prigionieri a {s3}.
 qstr_Note_4:_You_chose_to_s|Nota 4: Hai scelto di risparmiare la vita del vichingo prigioniero a {s3}.
@@ -2276,7 +2276,7 @@ qstr_{s1}On_limbs.___{reg|{s1}Sugli arti. (-{reg2} agilità)^{s2}^^
 qstr_Accumulated_Injuries|Lesioni accumulate:^^nessuna
 qstr_Accumulated_Injuries:|Infortuni accumulati:^^{s1} Il medico di una città più grande può trattare queste lesioni.
 qstr_Healing_wounds:^^non|Ferite da guarire:^^nessuna
-qstr_Healing_wounds:^^{s1|Ferite da guarire:^^{S1} Queste ferite sono state trattate, guariranno da sole.
+qstr_Healing_wounds:^^{s1|Ferite da guarire:^^{s1} Queste ferite sono state trattate, guariranno da sole.
 qstr_{s1}On_head.___{reg1|{s1}Sulla testa. (-{reg1} intelligenza)^^
 qstr_{s1}On_face.___{reg1|{s1}Sulla faccia. (-{reg1} carisma)^^
 qstr_{s1}On_body.___{reg1|{s1}Sul corpo. (-{reg1} forza)^^

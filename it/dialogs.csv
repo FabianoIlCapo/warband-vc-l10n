@@ -1319,7 +1319,7 @@ dlga_reginhard_mission3_3:close_window|{s2}^^Lo so, le mie cose sono pronte. Puo
 dlga_reginhard_postdoccingaca:reginhard_postdoccingaca2|Ho fatto quello che dovevo. Lo Jarl di Kennemer è un traditore e lo voglio lontano da me.
 dlga_reginhard_postdoccingaca:reginhard_postdoccingaca3|Se avessi saputo che avrei perso la fiducia dello jarl, non avrei aiutato Doccinga.
 dlga_reginhard_postdoccingaca:reginhard_postdoccingaca4|Non voglio parlarne per ora, Reginhard. Perdonami.
-dlga_reginhard_postdoccingaca2:close_window|{s2}^^Ti avevo detto che era un serpente. Ora sei che te ne sei liberat{reg59?a:o}, dovresti lasciare la Frisia al più presto, temo che cercherà di vendicarsi. Ho sentito dire che nel regno di Mercia, sul mare, hanno bisogno di guerrieri. Wyrd bid ful araed.
+dlga_reginhard_postdoccingaca2:close_window|{s2}^^Ti avevo detto che era un serpente. Ora che te ne sei liberat{reg59?a:o}, dovresti lasciare la Frisia al più presto, temo che cercherà di vendicarsi. Ho sentito dire che nel regno di Mercia, sul mare, hanno bisogno di guerrieri. Wyrd bid ful araed.
 dlga_reginhard_postdoccingaca3:close_window|{s2}^^Queste sono parole da codard{reg59?a:o}. Immagino che tu sia preoccupat{reg59?a:o} e non pensi lucidamente. Parleremo dopo.
 dlga_reginhard_postdoccingaca4:close_window|{s2}^^Lo capisco. Sono al tuo fianco se ne hai bisogno. Continuiamo per la nostra strada.
 dlga_event_triggered:companion_quitting|Scusami, {s5}. Ho qualcosa da dirti.
@@ -1972,7 +1972,7 @@ dlga_olvir_dialog7:olvir_dialog71|{reg59?Signora:Signore}, è il momento di ripr
 dlga_olvir_dialog71:close_window|Non perdiamo altro tempo, andiamo.
 dlga_start:close_window.57|Siamo qui solo per evitare una fuga. Buona fortuna.
 dlga_start:close_window.58|È tutto tuo! L'ho già colpito pesantemente.
-dlga_start:prisionero_interrogation1|Thor, abbiamo un nuovo visitatore. Il nostro amico mi ha colpito per bene. Vedi se riesci a metterlo a posto.
+dlga_start:prisionero_interrogation1|Thor, abbiamo un{reg59?a nuova visitatrice: nuovo visitatore}. Il tuo amico mi ha pestato per bene. Vedi se riesci a fare meglio di lui.
 dlga_start:prisionero_interrogation1.1|Mi sto innervosendo. Non hai di meglio da fare?
 dlga_pretalkdc:prisionero_interrogation1|Beh?
 dlga_prisionero_interrogation1:prisionero_interrogation2|Ti farò alcune domande, e, se risponderai correttamente, non avrai nulla da temere.
@@ -4312,7 +4312,7 @@ dlga_start:quastuosa_talk|Ciao, signor{reg59?a mia:e mio} - sorride e ti guarda 
 dlga_quastuosa_pretalk:quastuosa_talk|Sono al tuo servizio, {playername}.
 dlga_quastuosa_talk:quastuosa_serve|Ho bisogno di migliorare il morale dei miei uomini.
 dlga_quastuosa_talk:quastuosa_serve2|Non voglio che tu vada dai miei uomini. Vorrei avere la tua compagnia.
-dlga_quastuosa_talk:close_window|Non sono interessato. Addio.
+dlga_quastuosa_talk:close_window|Non sono interessat{reg59?a:o}. Addio.
 dlga_quastuosa_serve:quastuosa_serve3|I tuoi uomini si godranno una grossa festa, con le nostre ragazze a servire il miglior idromele, golose pietanze, e bardi... ti costerà 1500 peningas.
 dlga_quastuosa_serve3:quastuosa_pretalk|Direi che i miei uomini se la sono meritata. Questa volta.
 dlga_quastuosa_serve3:close_window|Ahimè, signora, il tuo charme va ben oltre il mio portamonete.
@@ -4851,7 +4851,7 @@ dlga_addonstoryabad9_4:addonstoryabad11|Ecco ciò che volevo sentire. Il mio pat
 dlga_addonstoryabad9_5:addonstoryabad10_2|Capisco, ma questa è un'opportunità unica, per te. Se non accetti, un altro comandante si prenderà questo lavoro. Sicur{reg59?a:o} che non ti interessa?
 dlga_addonstoryabad10_2:addonstoryabad9_2|Puoi dirmi di più riguardo a questo maligno che li attacca?
 dlga_addonstoryabad10_2:addonstoryabad9_4|Dimentica quello che ho detto, ci andrò. Senza alcun dubbio, sarò {reg59?la vostra eroina:il vostro eroe}.
-dlga_addonstoryabad10_2:addonstoryabad10_3|Si, sono sicuro. Non sono interessato. Addio.
+dlga_addonstoryabad10_2:addonstoryabad10_3|Sì, sono sicur{reg59?a:o}. Non sono interessat{reg59?a:o}. Addio.
 dlga_addonstoryabad10_3:close_window|Beh, mi dispiace udire la tua risposta, ma rispetto la tua decisione. Non ti importuneremo più.
 dlga_addonstoryabad10_1:addonstoryabad9_3|Diecimila peningas? Sembra onesto, ma ne voglio altre 2000 per le spese, ora.
 dlga_addonstoryabad10_1:addonstoryabad9_1|Non vi sono altri nobili di Eriu che possano occuparsi di questo problema?
@@ -5458,7 +5458,7 @@ dlga_start:village_elder_deliver_cattle_thank|{reg59?Mia buona signora:Mio buon 
 dlga_start:village_elder_deliver_cattle_thank.1|{reg59?Mia buona signora:Mio buon signore}. Il nostro villaggio ti è grato per il tuo aiuto. Lo schiavo ora sarà punito.
 dlga_start:village_elder_pretalk|{reg59?Mia buona signora:Mio buon signore}. Hai tentato, ma sei tornato senza lo schiavo. Immagino che non l'hai trovato...
 dlga_village_elder_deliver_cattle_thank:village_elder_talk|{reg59?Mia buona signora:Mio buon signore}, per favore, c'è qualcosa che posso fare per te?
-dlga_start:doccinga_interrogation_1|Non credo che possiamo ottenere ulteriori informazioni. Sembra che il tuo destino, il Wyrd, ti porta in Danimarca, amico mio.
+dlga_start:doccinga_interrogation_1|Non credo che possiamo ottenere ulteriori informazioni. Sembra che il tuo destino, il Wyrd, ti porta in Danimarca, amic{reg59?a:o} mi{reg59?a:o}.
 dlga_start:village_elder_talk_p|{playername}, il prigioniero è in attesa di essere interrogato. Egli può avere alcune informazioni.
 dlga_start:close_window.111|Wyrd bith ful araed!
 dlga_start:doccinga_thonkrikca|{playername}, sei qui! Grazie a Dio! Stanno arrivando delle navi vichinghe! È Sven Collo di Toro! Vuole distruggerci.
@@ -5492,7 +5492,7 @@ dlga_doccinga_thonkrikca2:doccinga_thonkrikca3|I giovani del villaggio si sono r
 dlga_doccinga_thonkrikca3:doccinga_thonkrikca4|Finalmente, Sven è vicino. Pagherà caro quello che mi ha fatto.
 dlga_doccinga_thonkrikca3:doccinga_thonkrikca5|Dove sono gli uomini di {s4}?
 dlga_doccinga_thonkrikca4:doccinga_thonkrikca3|{s2}^^Quelle barche sono di Sven, senza dubbio. Le guida sempre lui. Ma tutti quegli uomini... Non ho mai sentito di attacchi di Sven Collo di Toro ad un villaggio con così tante truppe. Sembra un'invasione!
-dlga_doccinga_thonkrikca5:doccinga_thonkrikca51|{s4} non verrà, lo so. Anche alcune delle persone qui hanno inviato dei messaggeri, come facesti tu  ed il re, ma lui non ha risposto.^^Normalmente, non ne parlerei apertamente, visto che sono problemi dei danesi, però {s4} ha abbandonato la mia gente al proprio destino. Infatti temo che tutto ciò sia per causa sua.
+dlga_doccinga_thonkrikca5:doccinga_thonkrikca51|{s4} non verrà, lo so. Anche alcune delle persone qui hanno inviato dei messaggeri, come facesti tu ed il re, ma lui non ha risposto.^^Normalmente, non ne parlerei apertamente, visto che sono problemi dei danesi, però {s4} ha abbandonato la mia gente al proprio destino. Anzi, temo che tutto ciò sia per causa sua.
 dlga_doccinga_thonkrikca51:doccinga_thonkrikca6|{s2}^^Conosco persone che lavorano della dimora dello jarl, e gira voce che ambisca al trono di Frisia... non dovrei dirlo, ma Sven Collo di Toro è stato là in passato.^Temo che queste barche stiano attaccando Doccinga per portare i guerrieri di Sven, in modo tale che poi aiutino lo jarl a impadronirsi del trono, ma sono solo mie supposizioni.
 dlga_doccinga_thonkrikca6:doccinga_thonkrikca71|Dannato traditore. S'è preso gioco di me.
 dlga_doccinga_thonkrikca6:doccinga_thonkrikca72|Mi occuperò del problema più tardi. Ora devo fermare un'invasione.
