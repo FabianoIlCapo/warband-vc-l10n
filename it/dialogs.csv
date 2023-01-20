@@ -23,7 +23,7 @@ dlga_dog_talk_train:dog_talk_1|Non ho più cibo per te.
 dlga_dog_talk_train:dog_talk_1.1|Per oggi questo è tutto.
 dlga_start:close_window.1|Dovresti andare giù da tua madre e lasciarle qualcosa che lei possa usare sulla sua strada verso il Walhalla.
 dlga_start:close_window.2|Sto aspettando qualcuno che dovrebbe venire con una ragazza. Li hai visti?
-dlga_start:close_window.3|Ah, sei {playername}. Thonkrik mi ha detto che saresti venuto qui. Sali sulla nave. Io e i miei uomini ti mostreremo come naviga bene.
+dlga_start:close_window.3|Ah, sei {playername}. Thonkrik mi ha detto che saresti venut{reg59?a:o} qui. Sali sulla nave. Io e i miei uomini ti mostreremo come naviga bene.
 dlga_start:port_chief_travel|Heill! Stai cercando di andare in un'altra città?
 dlga_start:close_window.4|Attendete che tutti siano a bordo della nave.
 dlga_port_chief2:port_chief3|Di cosa avete bisogno?
@@ -1129,14 +1129,14 @@ dlga_companion_reginhard52:companion_recruit_backstory_response2|Beh, mi sembri 
 dlga_companion_reginhard53:companion_recruit_backstory_response2|{s2}^^Grazie, {playername}. Hai ragione. Devo parlare con loro. Mi unirò a te. Il nascondiglio di Thiaderd si trova tra i monti ad est. Lascia che ti mostri la strada.
 dlga_companion_reginhard54:companion_recruit_backstory_response2|{s2}^^Sarai anche un{reg59?a:} burlon{reg59?a:e}, {playername}, ma hai ragione. Nessun segreto tra di noi! Inoltre, devo parlare con loro e dire che lo jarl mi ha mentito. Preferirei morire piuttosto che continuare qui.^Mi unirò a te. Il nascondiglio di Thiaderd si trova tra i monti ad est. Lascia che ti mostri la strada.
 dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest|Sei il benvenuto! Andiamo.
-dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest.1|Immagino che abbiamo bisogno di una guida al nascondiglio, ma  poi potresti lasciarci là.
+dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest.1|Immagino che abbiamo bisogno di una guida al nascondiglio, ma poi potresti abbandonarci là.
 dlga_companion_recruit_backstory_response:companion_egilrefuse|Il mio rapporto con re Horik è... delicato. Averti con me potrebbe causarmi dei problemi.
 dlga_companion_egilrefuse:companion_egilrefuse2|No, mi hai frainteso. Io servo re Horik, e quando tu hai parlato con il re, gli ho chiesto di lasciarmi venire con te.^Ho bisogno di farmi un nome ed una reputazione, e tu hai bisogno di qualcuno che ti copra le spalle con il re.
 dlga_companion_egilrefuse2:companion_egilrefuse3|No, non c'è spazio per te nella mia compagnia.
 dlga_companion_egilrefuse2:companion_recruit_signup|Bene, sai combattere?
 dlga_companion_egilrefuse3:companion_egilrefuse4|Vedo che non capisci proprio niente, e ciò rende tutto più difficile. Re Horik vuole che io venga con te, ed è il re di queste terre. Devi assecondare i suoi desideri.^^Mentre ti trovi in Danimarca, io starò con te. Se mi succede qualcosa, avrai dei guai da re Horik.
 dlga_companion_egilrefuse4:companion_recruit_signup|Capisco. Vuole avere una spia tra i miei uomini. Spero che tu sappia almeno combattere.
-dlga_companion_recruit_signup_responsebrunhild:companion_recruit_payment|Tuo padre ti vuole il più lontano possibile dallo jarl, capisco il perché. Benvenuto.
+dlga_companion_recruit_signup_responsebrunhild:companion_recruit_payment|Tuo padre ti vuole il più lontano possibile dallo jarl, capisco il perché. Benvenuta.
 dlga_companion_recruit_signup_responsebrunhild:close_window|Sfortunatamente, non posso avere altre braccia al mio servizio ora.
 dlga_companion_recruit_signup_response:close_window|Sfortunatamente, non posso avere altre braccia al mio servizio ora.
 dlga_companion_recruit_payment:companion_recruit_signup_confirm|.

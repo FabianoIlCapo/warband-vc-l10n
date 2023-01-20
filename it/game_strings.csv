@@ -454,7 +454,7 @@ str_npc15_backstory_b|Sono un uomo sfortunato. Sono originario di Costantinopoli
 str_npc16_backstory_b|Mi dispiace ... Sono un idiota. Mi presento. Sono Beda. Mi sono unito alla Santa Chiesa quando ero un ragazzo e alla fine sono diventato un sacerdote. Credo che anche il guerriero più duro abbia un posto per Cristo nel suo cuore e che io possa svolgere meglio la missione che Dio mi ha dato: sia essa in mezzo ai soldati che in una sacrestia.
 str_npc1_backstory_c|Dalla mia parte, posso solo dire che desideravo viaggiare e vedere il mondo. Tu mi hai dato questa opportunità. Sono contento che, quando mio padre chiese a me e ai miei fratelli chi avrebbe pagato il suo debito, io mi sono offerto volontario.
 str_npc2_backstory_c|Ora servo nella guardia reale. Non ne sono particolarmente felice, poiché sono all'ombra di uomini potenti che hanno ottenuto questa posizione con i loro sforzi, mentre a me è stata concessa solo in virtù dell'essere il figlio bastardo del Re.
-str_npc3_backstory_c|Ho così disperatamente cercato di fuggire. Se solo potessi ricominciare una nuova vita, libera...^^Lo so! Potresti portarmi con te! Potrei aiutare a ricucire le ferite dei tuoi guerrieri. Potrei anche imparare ad essere un guerriero, se è questo quello che serve per essere di nuovo libero. Mi porterai con te, {reg59?signora:signore}?
+str_npc3_backstory_c|Ho così disperatamente cercato di fuggire. Se solo potessi ricominciare una nuova vita, libera...^^Giusto! Potresti portarmi con te! Potrei aiutare a ricucire le ferite dei tuoi guerrieri. Potrei anche imparare ad essere una guerriera, se è questo quello che serve per essere di nuovo libera. Mi porterai con te, {reg59?signora:signore}?
 str_npc4_backstory_c|Un'altra cosa importante è che non mi piacciono i pitti. Sì, lo so che la mia gente è governata dai re di Alba, ma questo non significa che siamo un popolo. Siamo gaelici e non quei ratti.
 str_npc5_backstory_c|Così, come un uomo derubato della sua eredità, qualsiasi opportunità di guadagnarmi da vivere con la mia spada è benvenuta.
 str_npc6_backstory_c|Ho visto tutti a terra: il capitano, i marinai, gli arcieri che proteggevano la barca... ho pensato di essere morto fino a quando non mi sono svegliato sulla nave vichinga, con mani e piedi legati. Ero un prigioniero, ma grazie a Dio, sono scappato....^^Ora, sono un uomo miserabile. Dovrei essere morto e gli altri vivi. Ora, io vivo solo per redimermi.
@@ -518,7 +518,7 @@ str_npc15_backstory_response_2|Mi spiace. Ho tutti gli uomini che mi servono per
 str_npc16_backstory_response_2|Mi dispiace, prete. Parli come se fossi nei guai. Io rispetto qualsiasi fede.
 str_npc1_signup|Ti servirò con fedeltà e dedizione, diventerò degno della tua fiducia.
 str_npc2_signup|Sono stato addestrato da Thorgil. Guardami bene, perché a differenza di molti che sono con te, io sono un guerriero. Potrei battere chiunque qui con lancia o spada. Io forse valgo cinque dei tuoi uomini.
-str_npc3_signup|Davvero? Vuoi aiutarmi a scappare e mi proteggerai? Beh, non sono nella posizione di poter rifiutare! Sarei lieto di unirmi a te in cambio della mia libertà.
+str_npc3_signup|Davvero? Mi aiuterai a scappare e mi proteggerai? Beh, non sono nella posizione di poter rifiutare! Sarei lieta di unirmi a te in cambio della mia libertà.
 str_npc4_signup|Allora io sono il tuo uomo. Non chiedermi di parlare troppo, ma dammi un'ascia e uno scudo e fammi fare il mio lavoro.
 str_npc5_signup|È un'offerta molto generosa.
 str_npc6_signup|Il mio destino è scritto con il sangue e l'acciaio, la mia redenzione passa attraverso entrambi..
@@ -534,7 +534,7 @@ str_npc15_signup|Sono contento di sentirlo! Sarei felice di viaggiare, per cambi
 str_npc16_signup|Beh, {reg59?signora:signore}, lasciamelo dire. In quanto la mia missione principale è spirituale, devo portare la pace ad ogni anima in questo esercito.
 str_npc1_signup_2|Ho cavalcato in lungo e in largo nella mia vita. Sono un buon esploratore e ho buon occhio per il territorio. Cosa ne dici?
 str_npc2_signup_2|Sono anche un gran bevitore e sono stato elogiato molte volte come uno scaldo.
-str_npc3_signup_2|Credo che mi troverai un'aggiunta molto utile alle tue truppe. Sono portato per la letteratura classica e posso declamare molti poemi epici della mia gente. Inoltre sfrutterò ciò che mia nonna mi ha insegnato per tenere i miei compagni in salute.
+str_npc3_signup_2|Credo che mi troverai un'aggiunta molto utile alle tue truppe. Sono portata per la letteratura classica e posso declamare molti poemi epici della mia gente. Inoltre sfrutterò ciò che mia nonna mi ha insegnato per tenere i miei compagni in salute.
 str_npc4_signup_2|Se sei saggio, dammi una posizione di comando e tienimi lontano da qualsiasi pitto.
 str_npc5_signup_2|Io non ti tradirò... certo, finché mi pagherai, mi darai da mangiare e non mi trascinerai in battaglie che non possono essere vinte. Portami il rispetto che merito ed io sarò il tuo miglior guerriero.
 str_npc6_signup_2|Erudino ha risposto alle mie preghiere, facendoci incontare! Non troverai un compagno più fedele o un amico più stretto.
@@ -2925,10 +2925,10 @@ str_ship_name_21|Fiardakolla
 str_ship_name_22|Alptr
 str_ship_name_23|Saeulfr
 str_ship_names_end|nomi nave e
-str_cant_set_sail|Non puoi salpare. Le tue navi non hanno abbastanza spazio per portare {reg3} uomini. 
+str_cant_set_sail|Non puoi salpare. Le tue navi non hanno spazio per {reg3} dei tuoi uomini.
 str_ship_tutorial_0|In questo tutorial imparerai come controllare una nave. Prenditi il ​​tuo tempo per imparare come comandare il tuo equipaggio, così sarai in grado di mantenere la calma quando le battaglie navali si faranno concitate.^^(Fai clic su * K * per continuare.)
-str_ship_tutorial_1|In una battaglia navale, è spesso utile per ottenere una panoramica.^^(Clicca * BACKSPACE * per ottenere una panoramica.)
-str_ship_tutorial_2|È possibile guardarsi intorno muovendo il mouse o ottenere la vostra prospettiva indietro sulla tua nave cliccando * BACKSPACE * di nuovo.^^(Clicca * K * se si desidera continuare.)
+str_ship_tutorial_1|In una battaglia navale, è spesso utile ottenere una panoramica.^^(Clicca * BACKSPACE * per ottenere una panoramica.)
+str_ship_tutorial_2|Puoi guardarti intorno muovendo il mouse o tornare con la visuale dalla tua nave premendo nuovamente * BACKSPACE *.^^(Premi* K * per continuare.)
 str_ship_tutorial_3|Se vuoi far muovere la tua nave, puoi dare all'equipaggio il comando di remare. Più equipaggio hai, più velocità guadagnerai remando.^^Puoi dare comandi per remare in avanti, per remare velocemente in avanti, per restare o per remare all'indietro. Fai clic sul tasto freccia * SU * o * GIÙ * per passare da un comando all'altro.^^La velocità attuale è rappresentata dalle frecce presenti sopra o sotto l'immagine della nave nell'angolo in alto a destra dello schermo. Prova a dare differenti comandi di voga!
 str_ship_tutorial_4|Se vuoi far muovere la tua nave, devi dare all'equipaggio l'ordine di remare. Più equipaggio hai, più velocità guadagnerai remando.^^Puoi dare l'ordine di remare in avanti, di remare velocemente in avanti, di fermarti o di remare all'indietro. Fai clic sul tasto freccia * SU * o * GIÙ * per passare da un comando all'altro.^^Il comando attualmente usato è rappresentato dalle frecce sopra o sotto l'immagine della nave nell'angolo in alto a destra del display. Prova a dare diversi comandi di voga.^^(Fai clic su * K * se vuoi continuare.)
 str_ship_tutorial_5|Se vuoi spostare la tua nave, puoi dare un comando ai timonieri. Puoi dare comandi per remare dritto, a tribordo (sinistra), dritto a tridordo, babordo (destra) o dritto a babordo. Fare clic sul tasto freccia * SINISTRA * o * DESTRA * per passare da un comando all'altro.^^Il comando corrente è rappresentato dalle frecce a destra o a sinistra dell'immagine della nave nell'angolo superiore destro dello schermo. Prova a dare diversi comandi al timoniere!
