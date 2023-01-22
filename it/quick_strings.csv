@@ -110,7 +110,7 @@ qstr_vWindStrength|vWindStrength
 qstr_The_weather_changed_|Il tempo è cambiato in 'Calmo'
 qstr_The_weather_changed_t|Il tempo è cambiato in 'Leggera brezza'
 qstr_The_weather_changed_to|Il tempo è cambiato in 'Brezza moderata'
-qstr_The_weather_changed_to:|The weather changed to: 'Brezza forte'
+qstr_The_weather_changed_to:|Il tempo è cambiato in: 'Brezza forte'
 qstr_The_weather_changed_to:_|Il tempo è cambiato in 'Vento forte'
 qstr_The_weather_changed_to:__|Il tempo è cambiato in 'Burrasca'
 qstr_The_weather_changed_to:__S|Il tempo è cambiato in 'Tempesta'
@@ -165,7 +165,7 @@ qstr_Your_ship_the_{s7}_i|La tua nave, la {s7}, è meravigliosa. I miei operai p
 qstr_The_{s7}_is_a_wonder|La {s7} è una nave meravigliosa. Sono contento di vederla nel mio porto.
 qstr_{s2}_{s3}|{s2} {s3}
 qstr_You_are_already_in_{|Sei già a {s1}.
-qstr__and_your_troops|e le tue truppe
+qstr__and_your_troops| con le tue truppe
 qstr_There_is_a_ship_that|C'è una nave che può portarti{s3} al porto di {s1} per {reg1} peningas.
 qstr_I_changed_my_mind.|Ho cambiato idea.
 qstr_For_a_ship_of_this_s|Per una nave di questa dimensione, non ho abbastanza legname, catrame e lana, quindi ho bisogno che mi porti questi oggetti. 
@@ -213,9 +213,9 @@ qstr_We_are_landless_poor|Siamo senza terra, poveri e perseguitati. La vita ci h
 qstr_Luckily_for_you_you_|Per tua fortuna mi hai trovato di buon umore. Dammi tutti i tuoi soldi e forse ti lasceremo in vita.
 qstr_This_a_robbery_eh?_I|Questa è una rapina, chiaro? Ti concedo la possibilità di consegnarmi tutto quello che hai, oppure io e i miei compagni ti uccideremo. Capito!?
 qstr_big|grande
-qstr_medium_sized|taglia media
-qstr_small|piccolo
-qstr_don_t_|nulla
+qstr_medium_sized|media
+qstr_small|piccola
+qstr_don_t_|non 
 qstr_Note_4:_{s9}_has_sen|Nota 4: {s9} ha inviato uomini per ucciderti. Ti hanno teso un'imboscata vicino al fiume e, sebbene tu sia sopravvissuto al loro attacco, ora dormi meno tranquillamente.
 qstr___A_large_group_of_S|--Un folto gruppo di sassoni ti blocca la strada. Il loro capo si fa avanti e alza una mano.--
 qstr_we_have_made_very_li|abbiamo fatto piccolissimi progressi finora...
@@ -480,10 +480,10 @@ qstr_I_know_nothing!|Non so nulla!
 qstr___He_forces_a_smile.|--Si sforza di sorridere.--
 qstr_Sven_Bull_Neck_has_t|Sven Collo di Toro ha cose più importanti da fare. Sigurd 'Serpe nell'Occhio' lo ha richiamato pochi giorni fa in Danimarca. Se vuoi sapere dove si trova, chiedilo a Sigurd in persona. Ma ti suggerisco di chiederglielo più gentilmente di quanto lo hai chiesto a me.
 qstr_Sigurd__Snake_in_the|Sigurd 'Serpe nell'Occhio' ha chiamato Sven Collo di Toro in Danimarca. Sembra che lo jarl abbia una nuova missione per lui. Non sarebbe una cattiva idea viaggiare fino in Danimarca e chiedere di {s11} "Serpe nell'Occhio." {s6} potrebbe essere un buon punto di partenza.
-qstr_I_say_nothing_bastar|Non dirò nulla, bastardo!
+qstr_I_say_nothing_bastar|Non dirò nulla, bastard{reg59?a:o}!
 qstr___He_twists_his_mout|--Torce la bocca e ti guarda con disprezzo.--
 qstr_Sigurd__Snake_in_the_|Sigurd 'Serpe nell'Occhio' è lo Jarl di Sven Collo di Toro, e Sven è il mio hersir. Entrambi sono uomini potenti, grandi guerrieri, quindi stai lontano da loro o ti manderanno direttamente all'inferno.
-qstr_Sven_Bull_Neck_and_{|Sven Collo di Toro e {s11}, 'Serpe nell'Occhio,' sono guerrieri famosi in Danimarca. Dovrai stare attent{reg59?a:o} se hai intenzione di sfidarli.
+qstr_Sven_Bull_Neck_and_{|Sven Collo di Toro e Sigurd 'Serpe nell'Occhio' sono guerrieri famosi in Danimarca. Dovrai stare attent{reg59?a:o} se hai intenzione di sfidarli.
 qstr_Scum!|Feccia!
 qstr___He_tilts_his_head_|--Inclina la testa e ti guarda, ponderando la risposta.--
 qstr_You_wish_to_know_abo|Volete sapere del grande Ragnar Lodbrok del clan Ynglingeaetten, discendente di Odino, eh? Ebbene, era uno jarl temuto da tutti i Cristiani. Ha attaccato molte volte l'Inghilterra e la Franchia, ed è famoso per le sue enormi spedizioni. Egli sapeva come unire e guidare gli uomini.
@@ -1100,7 +1100,7 @@ qstr_There_s_a_toll_for_p|C'è un pedaggio per passare liberamente attraverso qu
 qstr_Another_fool_come_to|Ecco {reg59?un'altra idiota venuta:un altro idiota venuto} a buttarsi direttamente sulla mia lama... Bene, combattiamo!
 qstr_We_re_not_afraid_of_|Non abbiamo paura di te, {reg59?fanciulla:ragazzo}. È tempo di spaccare un po' di teste!
 qstr_That_was_a_mistake._|È stato un errore. Ora renderò la tua morte lunga e dolorosa.
-qstr_Brave_words._Let_s_s|Parole coraggiose. Vediamo come te la cavi con i fatti, cane bastardo!
+qstr_Brave_words._Let_s_s|Parole coraggiose. Vediamo come te la cavi con i fatti, {reg59?fetida cagna:cane bastardo}!
 qstr_Your_God_is_for_wimp|Il tuo Dio è debole e smidollato! Dall'altro lato del ponte arcobaleno il Walhalla di Odino mi attende!
 qstr_I_ve_been_pondering_|È da un po' che rifletto sulla religione Cristiana. Forse è tempo per me di sperimentare pienamente cosa significa essere un vero Cristiano. Tuttavia, difficilmente potrò essere battezzato mentre indosso le catene!
 qstr_I_ve_always_felt_Chr|Ho sempre pensato che il Cristianesimo fosse di mio gradimento, specialmente nella parte in cui si parla di perdono. Sì, {playername}, ora sono un vero Cristiano. Non appena sarò in grado di muovermi liberamente, farò visita a uno dei monasteri e pregherò intensamente perché i miei peccati siano perdonati. Ora lasciami andare, così potrò adempiere la volontà del potente Dio Cristiano!
@@ -1115,7 +1115,7 @@ qstr_This_is_the_{reg4?to|{reg4?Questa è la città:Questo è il villaggio} di {
 qstr_{s6}_Our_{reg4?town:|{s6} {reg4?La nostra città:Il nostro villaggio} e le terre circostanti appartengono a te, naturalmente, {reg59?mia signora:mio signore}.
 qstr_{s6}_Our_{reg4?town:v|{s6} {reg4?La nostra città:Il nostro villaggio} e le terre circostanti appartengono a {s7} del {s8}.
 qstr_{s3}_and_{s5}|{s3} e {s5}
-qstr_{reg20?We_mostly_pro|{reg20?Noi qui produciamo soprattutto {s5}:Non stiamo producendo molto in questi giorni}. Se vuoi saperne di più, puoi parlare con il nostro {reg4?Borgomastro:anziano del villaggio}. È da quete parti, proprio laggiù.
+qstr_{reg20?We_mostly_pro|{reg20?Noi qui produciamo soprattutto {s5}:Non stiamo producendo molto in questi giorni}. Se vuoi saperne di più, puoi parlare con {reg4?il nostro Borgomastro:l'anziano del villaggio}. È da queste parti, proprio laggiù.
 qstr_Mind_your_manners_wi|Presta attenzione al tuo comportamento all'interno delle mura e non avrai problemi.
 qstr_Bugger_off_stranger.|Sparisci, straniero. Non vedi che sono impegnato a guardare quella paffuta sgualdrina laggiù?
 qstr_Make_sure_to_keep_yo|Assicurati di tenere le mani bene in vista e non fare scherzi nella zona dei mercanti.
@@ -1565,7 +1565,7 @@ qstr_plain|Semplice
 qstr_Finish:_{s0}^|Finito: {s0}^
 qstr_Price:_{reg7}_pening|Prezzo: {reg7} peningas
 qstr_{s1}{s2}{s3}{s4}|{s1}{s2}{s3}{s4}
-qstr_Change_Finish|Cambia il Finale
+qstr_Change_Finish|Cambia la finitura
 qstr_Change_Sail|Cambia la Vela
 qstr_Apply|Applica
 qstr_Only_ships_made_of_o|Solo le navi di quercia sono considerate meritevoli di una finitura speciale.

@@ -591,11 +591,11 @@ dlga_start:sea_king_talk.2|Ohilà! Sono un nobile di {s1}, ma il mio unico feudo
 dlga_sea_king_talk:close_window|Preparate la ciurma! Combatteremo!
 dlga_sea_king_talk:close_window.1|Vi portiamo i nostri saluti, siamo amici del vostro regno.
 dlga_sea_king_talk:close_window.2|Niente, ce ne andiamo.
-dlga_start:fisher_talk|{Reg59?Mia signora:Mio signore}, siamo solo dei poveri pescatori di {s11}.
+dlga_start:fisher_talk|{reg59?Mia signora:Mio signore}, siamo solo dei poveri pescatori di {s11}.
 dlga_fisher_talk:close_window|Vedremo quanto sarete poveri dopo che avrò preso tutto quello che avete!
 dlga_fisher_talk:fisher_talk_1|La pesca è importante a {s11}?
 dlga_fisher_talk:close_window.1|Buona fortuna, allora. Addio.
-dlga_fisher_talk_1:fisher_talk_2|{s11} ha {s21} flotte di pescherecci. Di solito noi {s22} produciamo abbastanza sale per conservare il pesce che la flotta trasporta al porto.
+dlga_fisher_talk_1:fisher_talk_2|{s11} ha una {s21} flotta di pescherecci. Di solito {s22}produciamo abbastanza sale per conservare il pesce che la flotta trasporta al porto.
 dlga_fisher_talk_2:close_window|Molto bene. È quello che volevo sapere.
 dlga_start:traveller_ship_talk|Buongiorno, {reg59?mia signora:mio signore}. Stiamo navigando da {s11} a {s12}.
 dlga_traveller_ship_talk:close_window|Abborderemo la vostra nave e prenderemo tutto quello che avete!
@@ -4683,7 +4683,7 @@ dlga_bardo_talk:bardo_sing_lady|Vorrei che mi scrivessi una poesia per una signo
 dlga_bardo_sing_lady:bardo_sing_lady2|Il costo è di 500 peningas. Come fa di nome la signora?
 dlga_bardo_sing_lady2:bardo_pretalk|Non importa.
 dlga_bardo_sing_lady3:bardo_pretalk|Molto bene, scriverò una poesia, e la reciterò a {s34}. Mi servirà una settimana per portarla a termine.
-dlga_bardo_sing:bardo_sing2|Mio signore, scriverò una poesia di cotanta epicità, che tutte le terre del Nord conosceranno la grandiosità di {playername}!?^- salta di gioia.^-Finalmente, si ferma e fa un respiro profondo.^^In cambio, debbo chiedere una somma irrisoria per coprire le spese dell'inchiostro e per... alimentare la mia creatività. Avrò bisogno di 500 monete.
+dlga_bardo_sing:bardo_sing2|Mi{reg59?a:o} signor{reg59?a:e}, scriverò una poesia di cotanta epicità, che tutte le terre del Nord conosceranno la grandiosità di {playername}!?^^- Salta di gioia.^^-Finalmente, si ferma e fa un respiro profondo.^^In cambio, debbo chiedere una somma irrisoria per coprire le spese dell'inchiostro e per... alimentare la mia creatività. Avrò bisogno di 500 monete.
 dlga_bardo_sing2:bardo_pretalk|Prendi i soldi. Non è nulla per un eroe possente come me.
 dlga_bardo_sing2:close_window|Mi chiedi la stessa cifra di un'allegra vedova, e senz'altro avrei gradito di più la sua esibizione.
 dlga_bardo_talk:bardo_cancion|Potresti cantare per me e i miei uomini?
