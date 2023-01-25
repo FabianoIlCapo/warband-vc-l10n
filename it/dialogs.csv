@@ -55,7 +55,7 @@ dlga_port_chief_travel:port_chief_travel_2.1|Da qui, si può viaggiare verso l'I
 dlga_port_chief_travel:close_window.2|Mi dispiace. Non ci sono attualmente navi passeggeri in questo porto.
 dlga_port_chief_travel_2:close_window|Ho cambiato idea.
 dlga_port_chief_travel_3:port_chief_travel_4|Vuoi andare a {s1}? {s2}
-dlga_port_chief_travel_4:port_chief_travel_5|Iniziamo!
+dlga_port_chief_travel_4:port_chief_travel_5|Andiamo!
 dlga_port_chief_travel_5:close_window|Seguimi!
 dlga_port_chief3:port_chief_pick_up_ship1|È pronta la mia nave?
 dlga_port_chief_pick_up_ship1:port_chief2|Io e miei uomini ci stiamo ancora lavorando su. Torna tra {reg1} giorni.
@@ -3163,7 +3163,7 @@ dlga_lord_talk_ask_about_strategy:lord_pretalk|Tu dovresti decidere questo, dato
 dlga_lord_talk_ask_something_2:lord_talk_ask_about_war|Come procede la guerra?
 dlga_lord_talk_ask_something_2:lord_talk_ask_about_prisoners|Ho alcuni prigionieri da riscattare.
 dlga_lord_talk_ask_about_prisoners:lord_talk_ask_about_prisoners1|Posso considerare la tua proposta se vedo qualcuno che conosco o che sembra essere un vero guerriero.
-dlga_lord_talk_ask_about_prisoners:lord_pretalk|Non sono interessato.
+dlga_lord_talk_ask_about_prisoners:lord_pretalk|Non mi interessa.
 dlga_lord_talk_ask_about_prisoners1:lord_talk_ask_about_prisoners2|Va bene, eccoli. Qualcuno ti interessa?
 dlga_lord_talk_ask_about_prisoners1:lord_pretalk|Veri guerrieri? Non credo di averne.
 dlga_lord_talk_ask_about_prisoners2:lord_talk_ask_about_prisoners3|Vorrei riscattare {reg33} {s33}. Ti pagherò {reg34} peningas.
@@ -3281,7 +3281,7 @@ dlga_lord_ask_enter_service_female_response:lord_pretalk|Non importa.
 dlga_lord_ask_enter_service_female_solution_marriage:lord_ask_enter_service_female_response|Beh, io ancora non potrei concederti alcun feudo. Tuttavia, avresti senza dubbio l'utilizzo delle proprietà di tuo marito, il che ti consentirebbe di agire come uno dei miei vassalli a tutti gli effetti. Hai altre domande?
 dlga_lord_ask_enter_service_female_solution_competitor:lord_ask_enter_service_female_response|Oh, forse potresti trovare qualcuno che sia veramente disperato, ma a questo punto penserei che non avrebbe molti feudi da elargire. Hai altre domande?
 dlga_lord_ask_enter_service_female_solution_capture:lord_ask_enter_service_female_response|Beh, in questo caso, a seconda delle circostanze, potrei essere disposto a lasciartelo tenere. Hai altre domande?
-dlga_lord_ask_enter_service:lord_give_oath_1|Sei {reg59?una donna coraggiosa:un uomo coraggioso} ed un comandante eccellente per gli uomini, {playername}. Sarò lieto di accettare la tua spada al mio servizio ed essere il tuo signore, se giurerai fedeltà al mio vessillo.
+dlga_lord_ask_enter_service:lord_give_oath_1|Sei {reg59?una donna coraggiosa:un uomo coraggioso} ed un{reg59?a:} comandante eccellente per gli uomini, {playername}. Sarò lieto di accettare la tua spada al mio servizio ed essere il tuo signore, se giurerai fedeltà al mio vessillo.
 dlga_lord_ask_enter_service:lord_pretalk.2|Devi ancora dimostrare di essere un{reg59?a:} comandante competente, {playername}. Rivolgi la tua spada contro i miei nemici e dimostrami di valere abbastanza da divenire mio vassallo. Dopodiché potremo riparlarne.
 dlga_lord_give_oath_1:lord_give_oath_2|Ho la necessaria determinazione, {s65}.
 dlga_lord_give_oath_1:lord_give_oath_give_up|Perdonami, {s65}. Devo occuparmi di un'altra questione prima...
@@ -3440,7 +3440,7 @@ dlga_lord_mission_hunt_down_fugitive_told:lord_mission_hunt_down_fugitive_accept
 dlga_lord_mission_hunt_down_fugitive_told:lord_mission_hunt_down_fugitive_rejected|Al momento sono troppo occupato per dargli la caccia.
 dlga_lord_mission_hunt_down_fugitive_accepted:close_window|Eccellente, {playername}. te ne sarò grato, come anche i famigliari della vittima. E ovviamente la taglia sulla sua testa sarà tua se riuscirai a prenderlo. Bene, buona caccia!
 dlga_lord_mission_hunt_down_fugitive_rejected:lord_pretalk|Come preferisci, {playername}. Suppongo ci saranno cacciatori di taglie in quantità per portare a termine il lavoro...
-dlga_lord_tell_mission:lord_mission_told_kill_local_merchant|La maledetta verità è che devo una considerevole somma di denaro a uno dei mercanti qui a {s3}. Non ho intenzione di pagarla, ovviamente, ma quel pazzo chiacchierone sta facendo un trambusto incredibile a riguardo. Ha persino avuto l'audacia di venire a minacciarmi. Minacciare me! Con una lettera di lamentela alle gilde dei mercanti e ai stoccatori, mi rovinerebbe la reputazione! Per questo ho bisogno di {reg59?una donna:un uomo} di cui mi possa fidare, qualcuno che faccia tacere quell'uomo. Per sempre.
+dlga_lord_tell_mission:lord_mission_told_kill_local_merchant|La maledetta verità è che devo una considerevole somma di denaro a uno dei mercanti qui a {s3}. Non ho intenzione di pagarla, ovviamente, ma quel pazzo chiacchierone sta facendo un trambusto incredibile a riguardo. Ha persino avuto l'audacia di venire a minacciarmi. Minacciare me! Con una lettera pubblica di lamentela agli altri mercanti e magazzinieri. Mi rovinerebbe la reputazione! Per questo ho bisogno di {reg59?una donna:un uomo} di cui mi possa fidare, qualcuno che faccia tacere quell'uomo. Per sempre.
 dlga_lord_mission_told_kill_local_merchant:lord_mission_accepted_kill_local_merchant|Non preoccuparti, neanche un sospiro uscirà dalle sue labbra.
 dlga_lord_mission_told_kill_local_merchant:lord_mission_rejected|Non sono uno dei vostri sicari, mio signore. Dovrai trovare un'altra persona per questo sporco lavoro.
 dlga_lord_mission_accepted_kill_local_merchant:close_window|Molto bene. Ho fiducia nella tua abilità e discrezione, {playername}. Non deludermi. Ora vai e aspetta miei ordini, ti manderò un messaggio in cui ti dirò quando e dove potrai trovare il mercante. Liberati di lui per me e ti ricompenserò generosamente.
@@ -4280,7 +4280,7 @@ dlga_tavern_traveler_rumors7a:tavern_traveler_pretalk|Scusa, non ho abbastanza s
 dlga_tavern_traveler_rumors7a:tavern_traveler_pretalk.1|Veramente, ho cambiato idea.
 dlga_start:tavern_traveler_answer|Salute. Sembri il tipo di {reg59?donna:uomo}  che potrebbe essere interessato alle informazioni che ho raccolto durante i miei viaggi a {s17}. Ti dirò tutto quello che so in cambio di 100 peningas.
 dlga_tavern_traveler_answer:tavern_traveler_continue|Ecco 100 peningas. Dimmi quello che sai.
-dlga_tavern_traveler_answer:close_window|Scusa, amico. Non sono interessato
+dlga_tavern_traveler_answer:close_window|Scusa, amico. Non sono interessat{reg59?a:o}.
 dlga_tavern_traveler_continue:close_window|Bene, è tutto. Arrivederci.
 dlga_tavern_traveler_talk:close_window|Addio.
 dlga_start:bookseller_talk|Buongiorno signor{reg59?a:e}, vuoi consultare i miei libri?
@@ -4406,7 +4406,7 @@ dlga_farmer_from_bandit_village_accepted:close_window|Dio ti benedica, signor{re
 dlga_farmer_from_bandit_village_denied:close_window|Come vuoi, mi{reg59?a signora:o signore}. Perdonami per averti infastidito.
 dlga_farmer_from_bandit_village_barter:farmer_from_bandit_village_5|Noi siamo dei poveri coltivatori, mi{reg59?a signora:o signore}, ed i banditi hanno già razziato la maggior parte di quello che avevamo. Saremo comunque felici di dividere con te qualunque cosa sia rimasto. Per non parlare della gratitudine che avremo verso di te per averci aiutati.
 dlga_start:close_window.87|Grazie per aver accettato di aiutarci, {reg59?mia signora:mio signore}. Uccidi quei banditi!
-dlga_mercenary_tavern_talk01:mercenary_tavern_talk02|Sembri forzut{reg59?a:o} e abituat{reg59?a:o} alla dura vita. Sono interessato a reclutarti.
+dlga_mercenary_tavern_talk01:mercenary_tavern_talk02|Sembri forzuto e abituato alla dura vita. Sono interessat{reg59?a:o} a reclutarti.
 dlga_mercenary_tavern_talk01:close_window|Mi dispiace, non era mia intenzione disturbarti. Addio.
 dlga_mercenary_tavern_talk02:close_window|Non vedi che sono occupato? Non ho tempo né voglia di unirmi a te.^^(Hai bisogno di 150 Fama per reclutare truppe di alto livello).
 dlga_mercenary_tavern_talk02:mercenary_tavern_talk|Stiamo viaggiando per queste terre, ma siamo disposti a rimanere se ci assumi, {reg59?mia signora:signore}. {reg3?Io e {reg4?{reg3} dei miei compagni ci uniremo:uno dei miei compagni ci uniremo}:Mi unirò} a te per {reg5} peningas.
@@ -4678,7 +4678,7 @@ dlga_master_craftsman_liquidation:close_window|Come desideri. È stato un onore 
 dlga_master_craftsman_talk:close_window|Questo è tutto, per ora.
 dlga_start:bardo_talk|Ave, mi{reg59?a signora:o signore}. Sono il bardo del regno. Posso recitarti una poesia, oppure comporre canzoni per decantare il tuo valore ed onore.
 dlga_bardo_pretalk:bardo_talk|La mia arte e le mie abilità non ti deluderanno, mio signore. Di cosa hai bisogno?
-dlga_bardo_talk:bardo_sing|Canta una canzone che mi riguarda. Ho bisogno di essere conosciuto e acclamato.
+dlga_bardo_talk:bardo_sing|Canta una canzone che mi riguarda. Ho bisogno di essere conosciut{reg59?a:o} e acclamat{reg59?a:o}.
 dlga_bardo_talk:bardo_sing_lady|Vorrei che mi scrivessi una poesia per una signora.
 dlga_bardo_sing_lady:bardo_sing_lady2|Il costo è di 500 peningas. Come fa di nome la signora?
 dlga_bardo_sing_lady2:bardo_pretalk|Non importa.
@@ -4809,18 +4809,18 @@ dlga_addonstoryabad1_re:addonstoryabad6_1|Bene...
 dlga_addonstoryabad6_1:addonstoryabad7descendiente1|--L'abate si schiarisce la gola e ti fissa negli occhi--^^Un uomo pericoloso, un rapinatore ed omicida, il nemico del mio patrono, ha trovato rifugio nella vecchia terra dei pitti, e sta reclutando un'esercito di fuorilegge. Il suo piano è di tornare ad Eriu ed attaccare la brava gente che vive là. Le spie del mio patrono hanno scoperto che quest'uomo sta assoldando guerrieri nella sala dell'idromele di Scuin. Va fermato. Verrai pagat{reg59?a:o} con 5000 peningas per porre fine alla sua vita.
 dlga_addonstoryabad7descendiente1:addonstoryabad8descendiente1|Dimmi di più su quest'uomo e sul perché debba morire.
 dlga_addonstoryabad7descendiente1:addonstoryabad9_1descendiente1|Cinquemila peningas? Sembra onesto, ma ne voglio altre 1000 come anticipo per le spese.
-dlga_addonstoryabad7descendiente1:addonstoryabad10descendiente1|Senza dubbio, io sono {reg59?la tua:il tuo} {reg59?donna:uomo}.
-dlga_addonstoryabad7descendiente1:addonstoryabad9_2descendiente1|Non sono interessato. Perdonami.
+dlga_addonstoryabad7descendiente1:addonstoryabad10descendiente1|Certamente, sono la persona giusta per questo lavoro.
+dlga_addonstoryabad7descendiente1:addonstoryabad9_2descendiente1|Non sono interessat{reg59?a:o}. Perdonami.
 dlga_addonstoryabad8descendiente1:addonstoryabad9descendiente1|Lo chiamano 'La Serpe'. È un esule e discendente di una famiglia dannata, che cercò di imporre il suo potere su Eriu. Ci sono voluti grandi sforzi e molte vite per sconfiggerlo, ma 'La Serpe' è riuscito a scappare.
 dlga_addonstoryabad9descendiente1:addonstoryabad9_1descendiente1|Cinquemila peningas? Sembra onesto, ma ne voglio altre 1000 per le spese, ora.
 dlga_addonstoryabad9descendiente1:addonstoryabad10descendiente1|Senza dubbio, io sono {reg59?la:il} vostr{reg59?a donna:o uomo}.
-dlga_addonstoryabad9descendiente1:addonstoryabad9_2descendiente1|Non sono interessato. Perdonami.
+dlga_addonstoryabad9descendiente1:addonstoryabad9_2descendiente1|Non sono interessat{reg59?a:o}. Perdonami.
 dlga_addonstoryabad9_1descendiente1:addonstoryabad10descendiente1|I soldi non sono un problema. Tieni 1.000 peningas. Ora abbiamo un accordo.
 dlga_addonstoryabad9_2descendiente1:close_window|Molto bene, immagino che tu abbia bisogno di tempo per pensarci. Torna qui se avrai cambiato idea.
 dlga_addonstoryabad10descendiente1:addonstoryabad11descendiente1|Molto bene. Ti raccomando di recarti con premura a Scuin. Una volta là, mettiti alla ricerca di un uomo chiamato 'La Serpe' nella sala dell'idromele. Ritorna rapidamente una volta che avrai risolto il problema. Buona fortuna.
 dlga_addonstoryabad11descendiente1:close_window|Tieni quelle 5000 peningas a portata di mano, tornerò presto.
 dlga_addonstoryabad11descendiente1:close_window.1|Farò come dici, padre.
-dlga_addonsthesnakedead:addonsthesnakedead2|Lo so. La nostra spia ha inviato un messaggero con la notizia. Ecco la tua ricompensa. Come vedi, il mio patrono è molto generoso.^^Detto ciò, ho un suggerimento. La nostra spia ci ha riferito che ti sei intrattenut{reg59?a:o} a discutere con 'La Serpe' un po' troppo a lungo. È stato un errrore. Avrebbe potuto dissuadervi, e poi meno sei a conoscenza degli affari del mio patrono e meglio è, per il tuo stesso bene.
+dlga_addonsthesnakedead:addonsthesnakedead2|Lo so. La nostra spia ha inviato un messaggero con la notizia. Ecco la tua ricompensa. Come vedi, il mio patrono è molto generoso.^^Detto ciò, ho un suggerimento. La nostra spia ci ha riferito che ti sei intrattenut{reg59?a:o} a discutere con il 'Serpente' un po' troppo a lungo. È stato un errore. Avrebbe potuto dissuaderti, e poi meno sei a conoscenza degli affari del mio patrono e meglio è, per il tuo stesso bene.
 dlga_addonsthesnakedead2:addonsthesnakedead2_1|E' uno scherzo?
 dlga_addonsthesnakedead2:addonsthesnakedead3|Capisco.
 dlga_addonsthesnakedead2:addonsthesnakedead2_2|È il mio mestiere.
@@ -4832,7 +4832,7 @@ dlga_addonsthesnakedead4:addonsthesnakedead5|[Non dire nulla]
 dlga_addonsthesnakedead4_1:addonsthesnakedead5|No, grazie a Dio. Stavolta si tratta solo di informazioni. Ascolta.
 dlga_addonsthesnakedead5:addonsthesnakedead6|Al di là del mare, Caer Meguaidd è diventato un rifugio per i nemici di Eriu. È il posto dove gli intrighi nascono. Due persone in particolare costituiscono una minaccia per noi - sono i nipoti di Flaithbertach. La tua missione è semplice: vai e scopri dove si nascondono. Visto che nessuno può collegare te al mio patrono, puoi semplicemente chiedere al borgomastro, Donngal, di darti quest'informazione. Per questo semplice compito, riceverai altri 5000 peningas.
 dlga_addonsthesnakedead6:addonsthesnakedead7|Abbiamo un accordo.
-dlga_addonsthesnakedead6:addonsthesnakedead8|Non sono interessato. Perdonami.
+dlga_addonsthesnakedead6:addonsthesnakedead8|Non sono interessat{reg59?a:o}. Perdonami.
 dlga_addonsthesnakedead8:addonsthesnakedead7|Sei tu che stai lavorando per il mio capo; io sono solo un messaggero. Io ti do delle informazioni, tu fai quello che vuoi.
 dlga_addonsthesnakedead7:addonsthesnakedead9|Donngal ha un debole per l'oro. Sono certo che riuscirai a convincerlo. Torna il prima possibile con la posizione dei nipoti di Flaithbertach. Buona fortuna.
 dlga_addonsthesnakedead9:close_window|Tieni quelle 5000 peningas a portata di mano, tornerò presto.
@@ -4843,7 +4843,7 @@ dlga_addonstoryabad8:addonstoryabad9_1|Non vi sono altri nobili di Eriu che poss
 dlga_addonstoryabad8:addonstoryabad9_2|Puoi dirmi di più riguardo a questo maligno che li attacca?
 dlga_addonstoryabad8:addonstoryabad9_3|Diecimila peningas? Sembra onesto, ma ne voglio altre 2000 per le spese, ora.
 dlga_addonstoryabad8:addonstoryabad9_4|Se queste persone hanno bisogno di aiuto, ci andrò. Senza alcun dubbio, sarò {reg59?la vostra eroina:il vostro eroe}.
-dlga_addonstoryabad8:addonstoryabad9_5|Non sono interessato. Perdonami.
+dlga_addonstoryabad8:addonstoryabad9_5|Non sono interessat{reg59?a:o}. Perdonami.
 dlga_addonstoryabad9_1:addonstoryabad10_2|I nobili di Eriu sono troppo occupati a farsi la guerra a vicenda, e la zona attorno a Bal Luighne è remota e irrilevante. Spero che il mio patrono non abbia commesso un errore scegliendoti...
 dlga_addonstoryabad9_2:addonstoryabad10_1|Non ho altro da aggiungere. Le notizie sono povere di dettagli ed i pescatori sono terrorizzati. Credo che il capo della zona di Bal Luighne sia la persona migliore da cui ottenere altri dettagli.
 dlga_addonstoryabad9_3:addonstoryabad11|Come ben sai, il denaro non è un problema, e mi scuso per aver sottostimato le tue necessità. Prendi altri 2000 peningas. Ora abbiamo un patto.
@@ -4856,7 +4856,7 @@ dlga_addonstoryabad10_3:close_window|Beh, mi dispiace udire la tua risposta, ma 
 dlga_addonstoryabad10_1:addonstoryabad9_3|Diecimila peningas? Sembra onesto, ma ne voglio altre 2000 per le spese, ora.
 dlga_addonstoryabad10_1:addonstoryabad9_1|Non vi sono altri nobili di Eriu che possano occuparsi di questo problema?
 dlga_addonstoryabad10_1:addonstoryabad9_4|Se queste persone hanno bisogno di aiuto, ci andrò. Senza alcun dubbio, sono {reg59?la vostra eroina:il vostro eroe}.
-dlga_addonstoryabad10_1:addonstoryabad9_5|Non sono interessato. Perdonami.
+dlga_addonstoryabad10_1:addonstoryabad9_5|Non sono interessat{reg59?a:o}. Perdonami.
 dlga_addonstoryabad11:addonstoryabad12|Ti raccomando di raccogliere le tue armi migliori e raggiungere di corsa Bal Luighne. Cerca un uomo di nome Caliacas. Torna in fretta una volta sistemato il problema. Dio ti protegga.
 dlga_addonstoryabad12:close_window|Tieni quelle 10000 peningas a portata di mano, tornerò presto.
 dlga_addonstoryabad12:close_window.1|Farò come dici, padre.
@@ -5009,8 +5009,8 @@ dlga_druid_angry:close_window|Cosa? Io non faccio del male a nessuno. La gente c
 dlga_druid_talk:druid_ayuda|Parlami dei tuoi dei.
 dlga_druid_talk:close_window|Voi siete pazzi! Io vedo solo il male qui! Questo è un covo di assassini! Addio.
 dlga_druid_talk:close_window.1|Non ho bisogno di uomini di alcun dio, al momento.
-dlga_druid_ayuda:druid_ayu|I nostri dei discendono in gran parte da due famiglie: i figli di Don ed i figli di Llyr. Don era una dea dei cieli, e Llyr il dio dei mari. Don è conosciuta come la grande madre. Tra i cuoi figli v'era il dio Gwydion e la dea Arianrod. Gwydion era il dio druido, un 'maestro d'illusione e fantasia'. Era un amico e sostenitore dell'umanità, ed un assiduo combattente contro le forze del mondo sotterraneo, il reame di Annwn.
-dlga_druid_ayu:druid_ayuda2|Arianrod, soprannominato il 'Cerchio D'Argento,' aveva due figli, Dylan e LLeu. Dylan aveva una grande affinità con il mare, e nuotava disinvolto come il migliore dei pesci dell'oceano. Si dice che le onde della Britannia piansero per la morte di Dylan. Arianrod aveva un legame debole col suo altro figlio Lleu, e le sue cure andavano principalmente verso Gwydion. Math, il fratello della dea Don, era un maestro di magia e insegnante d'incantesimi per Gwydion. Vuoi fare un sacrificio agli antichi dei? Ti avverto che sono capricciosi.
+dlga_druid_ayuda:druid_ayu|I nostri dei discendono in gran parte da due famiglie: i figli di Don ed i figli di Llyr. Don era una dea dei cieli, e Llyr il dio dei mari. Don è conosciuta come la grande madre. Tra i cui figli v'era il dio Gwydion e la dea Arianrod. Gwydion era il dio druido, un 'maestro d'illusione e fantasia'. Era un amico e sostenitore dell'umanità, ed un assiduo combattente contro le forze del mondo sotterraneo, il reame di Annwn.
+dlga_druid_ayu:druid_ayuda2|Arianrod, soprannominata il 'Cerchio D'Argento,' aveva due figli, Dylan e Lleu. Dylan aveva una grande affinità con il mare, e nuotava disinvolto come il migliore dei pesci dell'oceano. Si dice che le onde della Britannia piansero per la morte di Dylan. Arianrod aveva un legame debole con l'altro suo figlio Lleu, e chi si prendeva cura di lui era principalmente Gwydion. Math, il fratello della dea Don, era un maestro di magia e insegnante d'incantesimi per Gwydion. Vuoi fare un sacrificio agli antichi dei? Ti avverto che sono capricciosi.
 dlga_druid_ayuda2:druid_sins|Donerò 300 peningas per questo tempio ed i tuoi rifugiati.
 dlga_druid_sins:druid_pretalk|Grazie, il tuo aiuto è benvenuto. I nostri dei e dee stanno morendo, e vi è solo un druido, io, che possa ricordarli. Più denaro è sempre ben accetto... e anche splendide vergini.
 dlga_druid_ayuda2:druid_info2|Prendi questi 100 peningas e dimmi di più su di loro.
@@ -5038,7 +5038,7 @@ dlga_start:old_talk2|Benvenut{reg59?a:o}, {playername}! Che posso fare per te?
 dlga_old_talk2:old_angry|Ricordami chi sei.
 dlga_old_talk2:close_window|Non ho tempo per te.
 dlga_old_angry:old_ayuda|-Lui sorride.-^^Vivo qui con la mia famiglia, che è qui da parecchie generazioni. Un mio antenato, che si trasferì qui, si pensava fosse un romano, oppure che fosse discendenza romana.
-dlga_old_ayuda:old_sins2|Il luogo dove hai messo piede è il Vallum Aelium, il Vallo di Adriano. Divenne la frontiera della civiltà qui, nel lontano nord, dopo che i romani abbandonarono il Vallo Antonino. Ancora più a nord, ci sono solo caledoni e pitti, gente impoverita che non vale la pena conquistare.^^Vallum Aelium aveva come guarnigione degli ausiliari, truppe non legionarie. Il mio antenato era uno di quegli ausiliari, che divenne cittadino dopo aver portato a termine il suo servizio militare per Roma. MI raccontarono un'altra storia su un eroe al tempo di re Penda che aiutò la mia famiglia in tempi duri.
+dlga_old_ayuda:old_sins2|Il luogo dove hai messo piede è il Vallum Aelium, il Vallo di Adriano. Divenne la frontiera della civiltà qui, nel lontano nord, dopo che i romani abbandonarono il Vallo Antonino. Ancora più a nord, ci sono solo caledoni e pitti, gente impoverita che non vale la pena conquistare.^^Vallum Aelium aveva come guarnigione degli ausiliari, truppe non legionarie. Il mio antenato era uno di quegli ausiliari, che divenne cittadino dopo aver portato a termine il suo servizio militare per Roma. Mi raccontarono un'altra storia su un eroe al tempo di re Penda che aiutò la mia famiglia in tempi duri.
 dlga_old_sins2:old_continue|Roma Victrix, vecchio mio.
 dlga_old_sins2:old_continue.1|Roma era grande, vecchio.
 dlga_old_sins2:old_continue2|Il pensiero di Roma mi disgusta, vecchio.
@@ -5059,7 +5059,7 @@ dlga_start:close_window.102|Non hai ancora completato il tuo lavoro. Come ho gi�
 dlga_capataz_talk:quarry_work_0|Mi piacerebbe lavorare qui.
 dlga_quarry_work_0:quarry_work_1|Stiamo cercando dei braccianti. Paghiamo {reg1} peningas al giorno.
 dlga_quarry_work_1:quarry_work_2|Molto bene, voglio lavorare qui un giorno.
-dlga_quarry_work_1:capataz_pretalk|Non sono interessato.
+dlga_quarry_work_1:capataz_pretalk|Non mi interessa.
 dlga_quarry_work_2:close_window|La pietra laggiù dev'essere spaccata fuori dalla terra. Eccoti il piccone.
 dlga_capataz_ayuda:close_window|Mi spiace, mi{reg59?a signora:o signore}, ma questo posto è nostro. Apparteneva ai nostri padri e prima di loro, ai nostri nonni. Solo i miei uomini ed i miei schiavi lavorano qui.
 dlga_capataz_talk:capataz_sins|Vorrei comprare un po' di quello che state estraendo qui.
@@ -5081,7 +5081,7 @@ dlga_start:close_window.103|Non hai ancora finito il vostro lavoro. Come ho già
 dlga_capataz_talk2:salt_work_0|Mi piacerebbe lavorare qui.
 dlga_salt_work_0:salt_work_1|Stiamo cercando dei braccianti. Paghiamo {reg1} peningas al giorno.
 dlga_salt_work_1:salt_work_2|Molto bene, voglio lavorare qui un giorno.
-dlga_salt_work_1:capataz_pretalk2|Non sono interessato.
+dlga_salt_work_1:capataz_pretalk2|Non mi interessa.
 dlga_salt_work_2:close_window|Nel tunnel qui di fianco, bisogna estrarre il sale dalla montagna. Ecco il piccone.
 dlga_capataz_talk2:capataz_sins2_2|Voglio comprare un po' di sale.
 dlga_capataz_sins2_2:capataz_sins22|Beh, sei nel posto giusto. {s4}
@@ -5101,7 +5101,7 @@ dlga_start:close_window.105|Non hai finito il tuo lavoro ancora. Come ho detto, 
 dlga_capataz_talk3:lumber_work_0|Mi piacerebbe lavorare qui.
 dlga_lumber_work_0:lumber_work_1|Stiamo cercando dei braccianti. Paghiamo {reg1} peningas al giorno.
 dlga_lumber_work_1:lumber_work_2|Molto bene, voglio lavorare qui un giorno.
-dlga_lumber_work_1:capataz_pretalk3|Non sono interessato.
+dlga_lumber_work_1:capataz_pretalk3|Non mi interessa.
 dlga_lumber_work_2:close_window|Questo legno va tagliato in pezzi più piccoli, e gli alberi dietro alla casa vanno abbattuti. Ecco la tua ascia.
 dlga_capataz_talk3:lumbercamp_angry|Che begli alberi, ma bruciano molto facilmente. Potrei assicurarmi che non scoppi nessun incendio -- per una piccola parcella.
 dlga_lumbercamp_angry:lumbercamp_extortion|Oh? Beh, di certo non mi piacciono gli incendi. Ti pagherò la tua... parcella.
@@ -5124,7 +5124,7 @@ dlga_start:close_window.107|Non hai finito il tuo lavoro, ancora. Come già dett
 dlga_farmstead_boss_talk:farmstead_work_0|Mi piacerebbe lavorare qui.
 dlga_farmstead_work_0:farmstead_work_1|Stiamo cercando dei braccianti. Paghiamo {reg1} peningas al giorno.
 dlga_farmstead_work_1:farmstead_work_2|Molto bene, voglio lavorare qui un giorno.
-dlga_farmstead_work_1:farmstead_boss_pretalk|Non sono interessato.
+dlga_farmstead_work_1:farmstead_boss_pretalk|Non mi interessa.
 dlga_farmstead_work_2:close_window|Il fieno nei due campi di grano vicino al cortile dev'essere impilato. Ecco il forcone.
 dlga_farmstead_boss_talk:farmstead_boss_ayuda|Vedo che alcuni dei tuoi uomini stanno bighellonando in giro. Posso assumerli?
 dlga_farmstead_boss_ayuda:farmstead_boss_ayuda2|In tutta sincerità, mi{reg59?a signora:o signore}, i miei servi e schiavi si accoppiano come conigli e mangiano troppo di quello che viene prodotto. Mi piacerebbe vendere quelli in eccesso, e ti farò un buon prezzo. Un centinaio di peningas per il gruppo.
@@ -5437,7 +5437,7 @@ dlga_merchant_quest_persuade_peace_no:close_window|Non dire di no subito. Pensac
 dlga_merchant_quest_requested:merchant_quest_deal_with_night_bandits|Certo! C'è un gruppo di banditi che infestano la città, e non so più come trattare con loro. Fanno imboscate e derubano i cittadini durante la notte. Quindi svaniscono, veloci come fulmini, quando le guardie appaiono. Non siamo stati in grado di catturarne nessuno. Attaccano solo persone solitarie, non osano mai mostrarsi quando c'è un gruppo. Ho bisogno di qualcuno che possa prendere su questi banditi da solo e vincere. Sembra essere l'unico modo di portarli alla giustizia. Sei all'altezza del compito?
 dlga_merchant_quest_brief:merchant_quest_deal_with_night_bandits|C'è un gruppo di banditi che infestano la città, e non so più come trattare con loro. Fanno imboscate e derubano i cittadini durante la notte. Quindi svaniscono, veloci come fulmini, quando le guardie appaiono. Non siamo stati in grado di catturarne nessuno. Attaccano solo persone solitarie, non osano mai mostrarsi quando c'è un gruppo. Ho bisogno di qualcuno che possa prendere su questi banditi da solo e vincere. Sembra essere l'unico modo di portarli alla giustizia. Sei all'altezza del compito?
 dlga_merchant_quest_deal_with_night_bandits:deal_with_night_bandits_quest_taken|Uccidere banditi? Certamente!
-dlga_merchant_quest_deal_with_night_bandits:merchant_quest_stall|Le mie scuse, ma non sono interessato.
+dlga_merchant_quest_deal_with_night_bandits:merchant_quest_stall|Le mie scuse, ma non sono interessat{reg59?a:o}.
 dlga_deal_with_night_bandits_quest_taken:mayor_pretalk|Ciò mi toglie un bel peso dalle spalle, {playername}. Ti attende una lauta ricompensa se tornerai vincitore. Vedi di non farti trucidare, eh?
 dlga_merchant_quest_requested:merchant_quest_brief.6|Uno dei mercanti locali sta cercando dei pastori per portare il suo bestiame al mercato di {s13}.
 dlga_merchant_quest_brief:move_cattle_herd_quest_brief|La mandria deve essere a {s13} entro 30 giorni. Prima è meglio, molto meglio, ma non deve essere più tardi di 30 giorni. Se puoi farlo, sarei disposto a pagarti {reg8} peningas per il disturbo. Ti interessa?
@@ -5903,7 +5903,7 @@ dlga_bandit_barter_3a:close_window|Eh, non è stato così difficile, no? Va bene
 dlga_start:bandit_meet|Eh? Che c'è?
 dlga_start:bandit_meet.1|È ora di consegnare quel bel borsello pieno che hai lì, che ne dici?
 dlga_bandit_meet:bandit_attack|La vostra fortuna è terminata, disgraziati. Preparatevi a morire!
-dlga_bandit_meet:bandit_attack.1|Perché non consegnate le vostra, sciagurati?
+dlga_bandit_meet:bandit_attack.1|Perché non consegnate il vostro, sciagurati?
 dlga_bandit_meet:bandit_meet1|Sapete con chi state parlando?  Non vi ucciderò se vi unirete a me.
 dlga_bandit_meet1:close_window|Non mi interessa chi sei. È tempo che tu muoia.
 dlga_bandit_meet1:bandit_meet1g|Sì, ho sentito parlare di te. Dicono che i tuoi uomini si prendono i migliori bottini. Perdonaci, e saremo lieti di unirci ad un{reg59?a:} comandante così feroce.
@@ -6068,7 +6068,7 @@ dlga_party_relieved:close_window|Grazie per averci aiutato contro quei bastardi.
 dlga_start:battle_reason_stated|Berrò dal tuo cranio!
 dlga_member_chat:regular_member_talk|I tuoi ordini, {reg59?signora:signore}?
 dlga_regular_member_talk:view_regular_char_requested|Parlami di te.
-dlga_view_regular_char_requested:do_regular_member_view_char|Si, {reg59?signore:signora}. Fammi raccontare tutto ciò che c'è da sapere su di me.
+dlga_view_regular_char_requested:do_regular_member_view_char|Sì, signor{reg59?a:e}. Fammi raccontare tutto ciò che c'è da sapere su di me.
 dlga_do_regular_member_view_char:regular_member_talk|Nient'altro?
 dlga_regular_member_talk:caliacas_son1|Bran, qual è la tua storia?
 dlga_regular_member_talk:caliacas_son2|Bran, sei felice nel mio muro di scudi?

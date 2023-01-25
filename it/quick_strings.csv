@@ -364,7 +364,7 @@ qstr_{s1}_Rebels|{s1} Ribelli
 qstr_I_am_{s4}_the_ruler_|Sono {s4}, il sovrano di {s6}
 qstr_I_am_{s4}_a_vassal_o|Sono {s4}, vassallo di {s6}
 qstr_{s7}_and_{s8}|{s7} e {s8}
-qstr_{s9}{reg5?_and_the_l|{s9}{reg5? e il signore di {s8}.:.
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? e signore di {s8}.:.
 qstr_My_name_is_{s4}_and_|Il mio nome è {s4} e vengo da {s8}. Sto cercando avventure e gloria sui campi di battaglia.
 qstr___The_ugly_face_of_a|--La brutta faccia di un uomo sorridente ti appare davanti.--
 qstr_Fergus_Mael_Bresail_|Fergus, l'uomo di Mael Bresail alla fattoria, ti ha detto che la festa era stata preparata per venticinque persone. Devi portare più compagni.
@@ -931,7 +931,7 @@ qstr_Note:_You_returned__|Nota: hai restituito "il Cathach di San Columba" a Gle
 qstr_The_abbot_of_Finian_|L'abate di Finian ti ha detto che Mael Bresail, suo protrettore, è a {s3} in attesa di tue notizie sui nipoti di Flaithbertach.
 qstr_So_you_re_{playernam|Quindi sei {playername}. Ho sentito parlare di te. Personalmente, non mi piacciono le notizie sulla tua peccaminosità, ma non sono stato io a prendere questa decisione. Ecco mille peningas. Ora ascolta...
 qstr_So_you_re_{playername|Quindi sei {playername}. Ho sentito parlare di te. Sei una persona che ama la gente e tratta gli altri con gentilezza. Ti meriti queste mille peningas. Ora ascolta, perché il mio protettore ha una missione per te...
-qstr_So_you_re_{playername}|Quindi sei {playername}. Non posso negare che la tua reputazione ti preceda. Ho sentito parlare di te da molti viaggiatori. Nel bene e nel male, sembri destinato a lasciare il segno nel mondo. Ecco mille peningas. Ora ascolta, perché il mio protettore ha una missione per te...
+qstr_So_you_re_{playername}|Quindi sei {playername}. Non posso negare che la tua reputazione ti preceda. Ho sentito parlare di te da molti viaggiatori. Nel bene e nel male, sembri destinat{reg59?a:o} a lasciare il segno nel mondo. Ecco mille peningas. Ora ascolta, perché il mio protettore ha una missione per te...
 qstr_So_you_re_{playername}.|Quindi sei {playername}. Non so molto di te e non sono particolarmente interessato a saperne di più. Tuttavia, il mio protettore mi ha fornito un elenco che includeva il tuo nome. Ecco mille peningas. Ora ascolta, perché il mio protettore ha una missione per te...
 qstr_The_abbot_of_Finian_h|L'abate di Finian ti ha chiesto di andare a {s3} e di uccidere un uomo chiamato 'Il Serpente'. Vai alla sala dell'idromele e incontralo.
 qstr_You_are_working_for_|Stai lavorando per l'anonimo protettore dell'abate di Finian.
@@ -1183,7 +1183,7 @@ qstr_Spread_Out|Sparpagliatevi!
 qstr_Stand_Closer|Serrate i ranghi!
 qstr_Fall_Back|Ripiegate!
 qstr_Advance|Avanzate!
-qstr_Dismount|Smontate!
+qstr_Dismount|Smonta
 qstr_Fire_At_Will|Tirate a Volontà!
 qstr_Hold_Your_Fire|Smettete di tirare!
 qstr_Use_Blunt_Weapons|Usate armi contundenti!
@@ -1873,7 +1873,7 @@ qstr_The_{s1}_has_declare|Il {s1} ha dischiarato guerra contro il {s2}.
 qstr_The_{s15}_complies_w|Il {s15} onora la propia alleanza con il {s17} attaccando il {s16}.
 qstr_The_{s1}_and_the_{s2|Il {s1} e il {s2} hanno fatto pace.
 qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?era:è attualmente} a {s3}.
-qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?era:è} in viaggio a {s3}, e {reg4?lei:lui} {reg3?era:dovrebbe essere} vicino a {s4}{reg3?: per il momento}.
+qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?era:è} in viaggio verso {s3}, e{reg3?d era: dovrebbe essere} vicino a {s4}{reg3?:, in questo momento}.
 qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?era:è} accampato, e {reg4?lei:lui} {reg3?era:dovrebbe essere} vicino a {s3}{reg3?: per il momento}.
 qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?era:è} prigioniero a {s3}.
 qstr_{s2}_{reg3?was:has_b|{s2} {reg3?era:è} prigionier{reg4?a:o} dei suoi nemici.
@@ -2659,7 +2659,7 @@ qstr_A_fat_cow_is_awarded|Ti viene regalata una grassa vacca come ricompensa per
 qstr_You_are_given_a_beau|Ti viene regalata una meravigliosa cotta di maglia ornata da una pelliccia, come si addice a un possente signore della guerra.
 qstr_They_give_you_a_fine|Ti consegnano un'ottima spada, degna di un nobile.
 qstr_They_appreciate_your|Apprezzano la tua partecipazione alla competizione e pongono una corona di alloro sulla tua testa.
-qstr_Moreover_you_earn_{r|In più, guadagni {reg8} peningas dalle scommesse che hai piazzato su te stesso...
+qstr_Moreover_you_earn_{r|In più, guadagni {reg8} peningas dalle scommesse che hai piazzato su te stess{reg59?a:o}...
 qstr_Victory_is_yours!_Yo|La vittoria è tua! Hai vinto questo round, ma ora ti devi preparare per il prossimo.
 qstr_You_have_been_bested|Hai subito la sconfitta in questo round, ma il maestro della cerimonia ti concede un riconoscimento speciale alle tue abilità e al tuo coraggio, acconsentendoti di prendere parte al prossimo round.
 qstr_You_were_beaten._The|Sei al tappeto. I contadini sono rincuorati dal loro successo, ma la lezione che volevi insegnare loro probabilmente non è stata appresa...

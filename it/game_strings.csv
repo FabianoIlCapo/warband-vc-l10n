@@ -557,7 +557,7 @@ str_npc6_signup_response_1|Raccogli le tue cose. Abbiamo molto da fare.
 str_npc7_signup_response_1|Sei il benvenuto.
 str_npc8_signup_response_1|Ok, prendi le tue cose. La strada ci aspetta.
 str_npc9_signup_response_1|Bene, ma non dovrebbe essere così. Parlerò con loro.
-str_npc10_signup_response_1|Brav'uomo, fai attenzione! Non devi litigate con nessun Britanno nella mia compagnia.
+str_npc10_signup_response_1|Brav'uomo, ma fai attenzione! Non devi litigare con nessun Britanno nella mia compagnia.
 str_npc11_signup_response_1|Molto bene, sei assunta, ma smettila di chiamarmi '{reg59?mia caro: mio caro}.'
 str_npc12_signup_response_1|Allora benvenuto nella mia compagnia, loeknir.
 str_npc13_signup_response_1|Bene. Sono felice di arruolare uno come te.
@@ -1918,7 +1918,7 @@ str_there_has_some_trading_activity_here_recently_but_the_roads_are_dangerouss42
 str_the_roads_around_here_are_very_dangerouss42|Le strade qui intorno sono molto pericolose.{s42}
 str_we_have_received_many_traders_in_town_here_although_there_is_some_danger_on_the_roadss42|Abbiamo ricevuto molti mercanti qui in città, anche se c'è qualche pericolo sulle strade.{s42}
 str_we_have_received_many_traders_in_town_heres42|Abbiamo ricevuto molti mercanti qui in città.{s42}
-str_there_is_little_news_about_the_caravan_routes_to_the_towns_of_s44_and_nearby_parts_but_no_news_is_good_news_and_those_are_therefore_considered_safe|Ci sono poche notizie sulle vie carovaniere che portano alle città di {s44} e ai villaggi circostanti. Ma, come si dice, nessuna buona nuova e queste strade sono considerate sicure.
+str_there_is_little_news_about_the_caravan_routes_to_the_towns_of_s44_and_nearby_parts_but_no_news_is_good_news_and_those_are_therefore_considered_safe|Ci sono poche notizie sulle vie carovaniere che portano alle città di {s44} e ai villaggi circostanti. Ma, come si dice, nessuna nuova buona nuova, per cui sono strade considerate sicure.
 str_s47_also_the_roads_to_the_villages_of_s44_and_other_outlying_hamlets_are_considered_safe|{s47} Inoltre, le strade che portano ai villaggi di {s44} e alle altre frazioni periferiche sono considerate sicure.
 str_however_the_roads_to_the_villages_of_s44_and_other_outlying_hamlets_are_considered_safe|Comunque, le strade che portano ai villaggi di {s44} e alle altre zone periferiche sono considerate sicure.
 str_we_have_shortages_of|Abbiamo carenza di
@@ -2613,7 +2613,7 @@ str__has_been_worried_about_bandits_establishing_a_hideout_near_his_home| è pre
 str_bandit_lair_quest_description|Trova e distruggi {s9} e invia un rapporto a {s11}.
 str_reveal_ass|Qualcuno ha tentato di ucciderti. Puoi trovare chi ti voleva morto incontrando il contatto degli assassini in {s3}.
 str_reveal_ass2|Il contatto ci ha dato il nome del signore che ha ordinato l'assassinio - è {s9}. È tempo di confrontarsi col signore direttamente.
-str_bandit_hideout_preattack|Ti avvicini al nascondiglio. Sembra che i {s4} non si siano accorti della tua presenza, potresti ancora andartene senza essere vist{reg59?a.o}. Il difficile approccio al luogo, {s5}, comporta che solo una manciata di truppe della tua Compagnia possano accompagnarti nell'attacco e non riuscirebbero nemmeno a usare i loro cavalli. Se il tuo attacco iniziale fallisse, i {s4} riuscirebbero facilmente a scappare e a disperdersi. Vuoi attaccare il nascondiglio oppure attendi un'altra occasione?
+str_bandit_hideout_preattack|Ti avvicini al nascondiglio. Sembra che i {s4} non si siano accorti della tua presenza, potresti ancora andartene senza essere vist{reg59?a:o}. Il difficile approccio al luogo, {s5}, comporta che solo una manciata di truppe della tua Compagnia possano accompagnarti nell'attacco e non riuscirebbero nemmeno a usare i loro cavalli. Se il tuo attacco iniziale fallisse, i {s4} riuscirebbero facilmente a scappare e a disperdersi. Vuoi attaccare il nascondiglio oppure attendi un'altra occasione?
 str_bandit_hideout_failure|I {s4} respingono il tuo attacco. Ti riorganizzi e avanzi di nuovo per scoprire che i nemici si sono dispersi e sono svaniti nella campagna circostante dove, non c'è dubbio, continueranno a minacciare i viaggiatori.
 str_bandit_hideout_success|Tagliando loro la ritirata, i {s4} cadono ad uno ad uno sotto il tuo determinato attacco. Il loro nascondiglio e i loro guadagni illeciti adesso sono tuoi.
 str_bandit_approach_defile|il fondo di una stretta gola
