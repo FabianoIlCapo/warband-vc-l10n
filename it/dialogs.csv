@@ -3886,7 +3886,7 @@ dlga_merchant_attack_begin:merchant_attack_verify|Ci vuoi derubare? {s11}
 dlga_merchant_attack_verify:merchant_attack_verify_norob|Derubarti? Mi avete preso per un volgare brigante!? Procedi per la tua strada!
 dlga_merchant_attack_verify_norob:close_window|Dio, non scherzare su queste cose, {reg59?figliola:giovanotto}. Per un momento ho pensato che fossimo davvero in guai seri.
 dlga_merchant_attack_verify:merchant_attack|Questa è una confisca. Ora consegna le tue merci.
-dlga_merchant_attack:close_window|Dannato, non avrai niente senza combattere!
+dlga_merchant_attack:close_window|Dannat{reg59?a:o}, non avrai niente senza combattere!
 dlga_caravan_offer_protection:caravan_offer_protection_2|Queste strade sono senza dubbio pericolose. Uno non può mai avere sufficiente protezione.
 dlga_caravan_offer_protection_2:close_window|Una scorta? Siamo quasi arrivati! Grazie per la tua offerta, comunque.
 dlga_caravan_offer_protection_2:caravan_offer_protection_3|Siamo diretti a {s1}. Ti pagherò {reg2} peningas se ci scorti fin là.
@@ -3969,7 +3969,7 @@ dlga_start:close_window.74|Giungi appena in tempo. Unisciti alle nostre forze e 
 dlga_start:close_window.75|Stai facendo un grave errore, decidendo di combattere contro di noi...
 dlga_start:ally_thanks_meet|Non credo di averti mai incontrato, amico mio. Mi hai appena salvato la vita ed io ancora non conosco il tuo nome...
 dlga_start:ally_thanks_meet.1|Il tuo aiuto è ben accetto, straniero. Il mio nome è {s1}. Posso sapere il tuo?
-dlga_start:ally_thanks_meet.2|Grazie per il tuo aiuto, straniero. Non ci siamo incontrati ancora, o sbaglio? Qual è il tuo nome?
+dlga_start:ally_thanks_meet.2|Grazie per il tuo aiuto, stranier{reg59?a:o}. Non ci siamo ancora presentati, o sbaglio? Qual è il tuo nome?
 dlga_ally_thanks_meet:ally_thanks_meet_2|Il mio nome è {playername}.
 dlga_ally_thanks_meet_2:close_window|Ben trovat{reg59?a:o}, {playername}. Il mio nome è {s1}, e sono in debito eterno con te. Se ci fosse qualsiasi cosa in cui potessi mai aiutarti, basta che me lo fai sapere...
 dlga_ally_thanks_meet_2:close_window.1|Piacere, {playername}. Sono in debito con te per ciò che hai fatto. Spero che un giorno mi venga data la possibilità di ripagarti.
@@ -4033,7 +4033,7 @@ dlga_fugitive_5:fugitive_fight_start.1|Non lo faccio per soldi, ma per far rispe
 dlga_fugitive_5:fugitive_fight_start.2|Peccato che tu non possa vederne il motivo.
 dlga_fugitive_fight_start:close_window|Muori, cane!
 dlga_start:music_1|Che cosa vuoi?
-dlga_music_1:music_2|Sto cercando un {s13} rubato da {s9} di {s3}. Tu sembri il tale che sto cercando.
+dlga_music_1:music_2|Sto cercando un{s13} che qualcuno ha rubato a {s9} di {s3}. Tu sembri il tale che sto cercando.
 dlga_music_1:close_window|Niente. Mi scuso per averti disturbato.
 dlga_music_2:music_3|Non so di cosa stai parlando, {reg59?signora:signore}. Non ho mai rubato nulla. Penso che tu abbia sbagliato persona.
 dlga_music_3:music_4|Allora vieni con me. Se sei innocente, non hai nulla da temere. Andremo a parlare a {s9} di {s3}, e se egli dirà che non sei l'uomo che ha rubato il suo {s13}, sarai libero di andare.
@@ -5134,7 +5134,7 @@ dlga_farmstead_boss_ayuda3:farmstead_boss_pretalk|{reg0} ragazzi in totale.
 dlga_farmstead_boss_talk:farmstead_boss_sins|Che cosa hai in vendita?
 dlga_farmstead_boss_talk:close_window|Devo andare.
 dlga_farmstead_boss_sins:farmstead_boss_pretalk|Il mio signore mi ha appena fatto sapere che ha bisogno delle rimanenze per una festa.
-dlga_farmstead_boss_sins2:capataz_sins_end|Sono interessato. Fammi vedere.
+dlga_farmstead_boss_sins2:capataz_sins_end|Sono interessat{reg59?a:o}. Fammi vedere.
 dlga_farmstead_boss_sins2:farmstead_boss_pretalk|No, sto cercando qualcos'altro.
 dlga_farmstead_boss_talk:farmstead_boss_cattle|Ho {reg25} capi di bestiame con me. Posso farli tenere qui?
 dlga_farmstead_boss_cattle:farmstead_boss_cattle1|Si può fare, {playername}.
@@ -5143,7 +5143,7 @@ dlga_farmstead_boss_cattle1:farmstead_boss_pretalk|Grazie.
 dlga_start:reeve_begin|Buon giorno, mi{reg59?a signora:o signore}.
 dlga_start:reeve_talk|Ciao, stranier{reg59?a:o}. Sembri nuov{reg59?a:o} di {s9}. Sono l'ufficiale di questo forte.
 dlga_start:reeve_begin.1|Buongiorno, {playername}.
-dlga_reeve_begin:reeve_friendly_pretalk|Ho sentito che hai trovato il colpevole e hai recuperato il mio prezioso {s13}. Sei davvero in gamba come dicono. Ecco la tua ricompensa: {reg5} peningas.
+dlga_reeve_begin:reeve_friendly_pretalk|Ho sentito che hai trovato il colpevole e hai recuperato la mia prezios{s13}. Sei davvero in gamba come dicono. Ecco la tua ricompensa: {reg5} peningas.
 dlga_reeve_begin:close_window|Ho saputo che hai perso una battaglia contro la guardia fuggitiva e che il mio prezioso {s9} è perso per sempre. Sono profondamente deluso, {playername}, perché avevo sentito molte buone cose riguardo alla tua affidabilità.
 dlga_reeve_begin:reeve_friendly_pretalk.1|Ho sentito delle tue gesta. Hai dato a quei banditi la punizione che meritavano. Il tuo valore e la tua bontà sono pari a quanto si dice. Ecco la tua ricompensa: {reg5} peningas. Gradirei darti di più ma quei banditi mi hanno quasi portato al fallimento.
 dlga_reeve_begin:reeve_talk|Cosa posso fare per te?
@@ -5200,7 +5200,7 @@ dlga_move_cattle_herd_failed_2:merchant_ask_for_debts|Beh, era tua responsabilit
 dlga_mayor_begin:close_window.2|{playername} -- Sono in debito con te per aver fatto ritornare la figlia del mio amico. Per favore prendi questi {reg8} peningas, sono quelli che ti ho promesso. Il mio amico desiderava che ti dessi di più ma il pagamento del riscatto lo ha ridotto sul lastrico.
 dlga_mayor_begin:mayor_friendly_pretalk|Bene -- sembra che sei riuscito a rintracciare i banditi e far vedere loro cosa succede a chi cerca di intralciare il libero fluire dei commerci. Ecco la tua ricompensa: {reg5} peningas. È ben meritata, e noi ti siamo riconoscenti.
 dlga_mayor_begin:mayor_friendly_pretalk.1|Ho sentito delle tue gesta. hai dato a quei banditi la punizione che meritavano. Il tuo valore e la tua bontà sono pari a quanto si dice. Ecco la tua ricompensa: {reg5} peningas. Gradirei darti di più ma quei banditi mi hanno quasi portato al fallimento.
-dlga_mayor_begin:mayor_friendly_pretalk.2|Ho sentito che hai trovato il colpevole e hai recuperato il mio prezioso {s13}. Sei davvero in gamba come dicono. Ecco la tua ricompensa: {reg5} peningas.
+dlga_mayor_begin:mayor_friendly_pretalk.2|Ho sentito che hai trovato il colpevole e hai recuperato il mio prezioso{s13}. Sei davvero in gamba come dicono. Ecco la tua ricompensa: {reg5} peningas.
 dlga_mayor_begin:merchant_ask_for_debts|Secondo i miei conti, dovi alla gilda dei commercianti {reg1} peningas. Vuoi saldare ora il debito?
 dlga_merchant_ask_for_debts:merchant_debts_paid|E sia. Pagherò il mio debito.
 dlga_merchant_debts_paid:mayor_pretalk|Eccellente. Riferirò ai miei amici commercianti che hai risanato il tuo debito.
@@ -5212,7 +5212,7 @@ dlga_mayor_pretalk:mayor_talk|Sì?
 dlga_mayor_talk:mayor_info_begin|Quali sono le tue mansioni?
 dlga_mayor_talk:mayor_dongall_quest1|Mi è giunta voce che i nipoti di Flaithbertach sono qui. Lo sapevi?
 dlga_mayor_talk:mayor_dongall_quest6|Riguardo ai nipoti di Flaithbertach...
-dlga_mayor_dongall_quest1:mayor_dongall_quest2|Sì, chiunque ne ha sentito parlare. I bambini del figlio di Flaithbertach mac Niall, fratello di Aed mac Niall, ri h-Erenn uile, chiamato 'Findliath', o 'Guerriero Giusto'. La morte prematura di Flaithbertach ha dato a Aed l'accesso al trono Aileach. Anche la famiglia di  di Flaithbertach ha fatto una brutta fine, ma due dei suoi figli sono scappati con i due nipoti. Ho sentito che uno dei due che scapparono è morto di recente. Mi dispiace per lui. Che tragedia.
+dlga_mayor_dongall_quest1:mayor_dongall_quest2|Sì, chiunque ne ha sentito parlare. I bambini del figlio di Flaithbertach mac Niall, fratello di Aed mac Niall, ri h-Erenn uile, chiamato 'Findliath', o 'Guerriero Giusto'. La morte prematura di Flaithbertach ha dato a Aed l'accesso al trono Aileach. Anche la famiglia di Flaithbertach ha fatto una brutta fine, ma due dei suoi figli sono scappati con i due nipoti. Ho sentito che uno dei due che scapparono è morto di recente. Mi dispiace per lui. Che tragedia.
 dlga_mayor_dongall_quest2:mayor_dongall_quest3|Mi puoi dire dove trovarli?
 dlga_mayor_dongall_quest2:mayor_dongall_quest4|Ho con me un po' d'argento che voglio donare a questa città (1000 peningas)
 dlga_mayor_dongall_quest2:mayor_dongall_quest4.1|Ho con me un po' d'argento che voglio donare a questa città (3000 peningas)
@@ -5444,7 +5444,7 @@ dlga_merchant_quest_brief:move_cattle_herd_quest_brief|La mandria deve essere a 
 dlga_move_cattle_herd_quest_brief:move_cattle_herd_quest_taken|Si, posso portare il bestiame a {s13}.
 dlga_move_cattle_herd_quest_brief:merchant_quest_stall|Mi dispiace, ma no.
 dlga_move_cattle_herd_quest_taken:mayor_pretalk|Splendido. Puoi trovare la mandria proprio fuori la città. Dopo che hai portato gli animali a {s13}, torna da me e otterrai la tua paga.
-dlga_merchant_quest10_brief:merchant_quest10_taken|Non c'è problema. Riporterò il tuo {s13}.
+dlga_merchant_quest10_brief:merchant_quest10_taken|Non c'è problema. Ti riporterò il tuo strumento.
 dlga_merchant_quest10_brief:merchant_quest_stall|Mi dispiace, ma no.
 dlga_merchant_quest11_brief:merchant_quest11_taken|Sì, ti porterò {reg33} carichi di {s33}.
 dlga_merchant_quest11_brief:merchant_quest_stall|Mi dispiace, ma no.
@@ -5532,10 +5532,10 @@ dlga_village_elder_talk_p_f:close_window|Seguimi.
 dlga_village_elder_talk:village_elder_ask_ghost|Sto cercando qualcuno che potrebbe essere o non essere un fantasma.
 dlga_village_elder_ask_ghost:close_window|Un fantasma? Hah! I fantasmi non appaiono durante il giorno! Prova a cercarlo di notte!
 dlga_village_elder_ask_ghost:close_window.1|Un fantasma? I fantasmi non appaiono per conto loro! Devi passarci davanti o svegliarli.
-dlga_village_elder_talk:village_elder_ask_music|Hai visto qualche guardia con {s22} da queste parti?
+dlga_village_elder_talk:village_elder_ask_music|Hai visto qualche guardia con un{s22} da queste parti?
 dlga_village_elder_ask_music:village_elder_pretalk|Gli stranieri vanno e vengono qui nel nostro villaggio, signor{reg59?a:e}, ma dubito che riuscirai a trovarlo a quest'ora della notte. Avrai sicuramente maggior fortuna durante il giorno.
 dlga_village_elder_ask_music:close_window|Gli stranieri vanno e vengono qui nel nostro villaggio, signor{reg59?a:e}. Non ho visto o sentito nessuno come dici tu, ma se si sta nascondendo qui, lo troverai sicuramente, ispezionando il villaggio.
-dlga_village_elder_ask_music:close_window.1|Gli stranieri vanno e vengono qui nel nostro villaggio, signor{reg59?a:e}. Ho sentito qualche dolce suono di {s22} ultimamente, ma non so se... hmm... dai pure un'occhiata in giro se vuoi.
+dlga_village_elder_ask_music:close_window.1|Gli stranieri vanno e vengono qui nel nostro villaggio, signor{reg59?a:e}. In effetti ho sentito il dolce suono di un{s22} ultimamente, ma non so se... hmm... dai pure un'occhiata in giro se vuoi.
 dlga_village_elder_talk:village_elder_caliacas1|Caliacas? Mi manda l'abate di Finian.
 dlga_village_elder_talk:village_elder_caliacasdesp1|Caliacas? Va tutto bene? Abbiamo ricevuto il tuo messaggio.
 dlga_village_elder_talk:village_elder_caliacassuccess1|Il tuo villaggio è salvo. Non avrai più problemi con Morrigan.
@@ -6019,7 +6019,7 @@ dlga_start:town_dweller_talk|Mi{reg59?a signora:o signore}?
 dlga_start:town_dweller_talk.1|Buongiorno, signor{reg59?a:e}.
 dlga_town_dweller_talk:town_dweller_ask_fugitive|Sto cercando un uomo chiamato {s4}. Mi hanno detto che si nasconde da queste parti.
 dlga_town_dweller_ask_fugitive:close_window|Gli stranieri vanno e vengono qui nel nostro villaggio, {reg59?signora:signore}. Se si nasconde qui, lo troverai sicuramente, ispezionando il villaggio.
-dlga_town_dweller_talk:town_dweller_ask_music|Hai visto qualche guardia con {s22} da queste parti?
+dlga_town_dweller_talk:town_dweller_ask_music|Hai visto qualche guardia con un{s22} da queste parti?
 dlga_town_dweller_ask_music:close_window|Gli stranieri vanno e vengono qui nel nostro villaggio, {reg59?signora:signore}. Non ho visto o sentito nulla a riguardo, ma se si nasconde qui, lo troverai sicuramente ispezionando il villaggio.
 dlga_town_dweller_ask_music:close_window.1|Gli stranieri vanno e vengono qui nel nostro villaggio, signor{reg59?a:e}. Io ed i miei amici sentivamo un {s22} suonare, ma non mi ricordo chi fosse quella persona. Forse se n'è già andato?
 dlga_town_dweller_talk:town_dweller_ask_ghost|Sto cercando qualcuno che potrebbe essere o non essere un fantasma.
